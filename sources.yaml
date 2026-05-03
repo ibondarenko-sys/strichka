@@ -1,0 +1,90 @@
+# Конфігурація джерел новин
+# Кожне джерело має: name, url (RSS), category, lang
+#
+# Категорії: ukraine, world, tech, business, culture
+# Мови: uk, en
+#
+# Щоб додати джерело — просто додай рядок нижче.
+# Щоб вимкнути — закоментуй (#) або видали.
+
+sources:
+  # === Українські медіа ===
+  - name: "Українська правда"
+    url: "https://www.pravda.com.ua/rss/"
+    category: ukraine
+    lang: uk
+
+  - name: "LB.ua"
+    url: "https://lb.ua/rss/ukr/news.xml"
+    category: ukraine
+    lang: uk
+
+  - name: "Texty.org.ua"
+    url: "https://texty.org.ua/rss/"
+    category: ukraine
+    lang: uk
+
+  - name: "Detector Media"
+    url: "https://detector.media/rss/news.xml"
+    category: culture
+    lang: uk
+
+  # === Технології (укр) ===
+  - name: "AIN.ua"
+    url: "https://ain.ua/feed/"
+    category: tech
+    lang: uk
+
+  - name: "DOU"
+    url: "https://dou.ua/feed/"
+    category: tech
+    lang: uk
+
+  # === Світові медіа ===
+  - name: "BBC World"
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    category: world
+    lang: en
+
+  - name: "Reuters World"
+    url: "https://www.reutersagency.com/feed/?best-topics=world&post_type=best"
+    category: world
+    lang: en
+
+  - name: "The Guardian World"
+    url: "https://www.theguardian.com/world/rss"
+    category: world
+    lang: en
+
+  # === Технології (en) ===
+  - name: "Hacker News"
+    url: "https://hnrss.org/frontpage"
+    category: tech
+    lang: en
+
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    category: tech
+    lang: en
+
+  - name: "Ars Technica"
+    url: "http://feeds.arstechnica.com/arstechnica/index"
+    category: tech
+    lang: en
+
+# Налаштування
+settings:
+  # Скільки днів зберігати статті (старіші — видаляти)
+  retention_days: 14
+  # Максимум статей на сторінці
+  articles_per_page: 30
+  # Максимум статей з одного джерела за один прогін
+  max_per_source: 15
+  # User-Agent для запитів
+  user_agent: "NewsAggregatorBot/1.0 (+https://github.com/yourname/news-aggregator)"
+  # Open Graph fallback: якщо в RSS немає картинки —
+  # завантажити сторінку статті та витягти <meta property="og:image">.
+  # Покриття зростає до ~95%. Кеш зберігається в data/og_cache.json,
+  # тож кожна стаття перевіряється тільки один раз. Вимкни (false), якщо
+  # джерела блокують ботів або не хочеш додаткових HTTP-запитів.
+  fetch_og_images: true

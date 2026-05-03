@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Стрічка · Агрегатор новин</title>
+<meta name="description" content="Стрічка — автоматизований агрегатор новин: Україна, світ, технології">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;0,9..144,900;1,9..144,400&family=JetBrains+Mono:wght@400;500;700&family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg: #f4f1ea;
+    --bg-card: #ffffff;
+    --ink: #0a0a0a;
+    --ink-soft: #4a4a4a;
+    --muted: #8a8275;
+    --line: #1a1a1a;
+    --line-soft: #d8d2c4;
+    --accent: #d63e1f;
+    --accent-soft: #fde8e0;
+    --hover: #f9f5ec;
+    --serif: 'Fraunces', Georgia, serif;
+    --sans: 'Inter Tight', system-ui, sans-serif;
+    --mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(0,0,0,0.04) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* === Шапка === */
+  .masthead {
+    border-bottom: 3px solid var(--line);
+    background: var(--bg);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .masthead-top {
+    border-bottom: 1px solid var(--line-soft);
+    padding: 8px 0;
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+  }
+
+  .masthead-top-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .live-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    margin-right: 6px;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.85); }
+  }
+
+  .masthead-main {
+    padding: 28px 24px 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .logo {
+    font-family: var(--serif);
+    font-weight: 900;
+    font-size: clamp(48px, 8vw, 96px);
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+    color: var(--line);
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .logo-mark {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--accent);
+  }
+
+  .tagline {
+    font-family: var(--mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--muted);
+    margin-top: 8px;
+  }
+
+  /* === Навігація / фільтри === */
+  .nav {
+    border-top: 1px solid var(--line-soft);
+    background: var(--bg);
+    padding: 12px 0;
+  }
+
+  .nav-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    background: transparent;
+    border: 1.5px solid transparent;
+    padding: 6px 14px;
+    font-family: var(--sans);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--ink);
+    transition: all 0.15s ease;
+    border-radius: 0;
+    text-transform: lowercase;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--line);
+  }
+
+  .filter-btn.active {
+    background: var(--line);
+    color: var(--bg);
+    border-color: var(--line);
+  }
+
+  .filter-count {
+    font-family: var(--mono);
+    font-size: 11px;
+    margin-left: 6px;
+    opacity: 0.6;
+  }
+
+  .search {
+    margin-left: auto;
+    flex: 1;
+    min-width: 200px;
+    max-width: 320px;
+  }
+
+  .search input {
+    width: 100%;
+    padding: 8px 14px;
+    border: 1.5px solid var(--line);
+    background: transparent;
+    font-family: var(--sans);
+    font-size: 14px;
+    border-radius: 0;
+    color: var(--ink);
+  }
+
+  .search input::placeholder { color: var(--muted); }
+  .search input:focus { outline: 2px solid var(--accent); outline-offset: -3px; }
+
+  /* === Основна сітка === */
+  main {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 32px 24px 80px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 24px;
+  }
+
+  /* Картка статті */
+  .article {
+    background: var(--bg-card);
+    border: 1px solid var(--line-soft);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    grid-column: span 4;
+    position: relative;
+  }
+
+  .article:hover {
+    border-color: var(--line);
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0 var(--line);
+  }
+
+  /* Перша картка — велика, з акцентом */
+  .article.featured {
+    grid-column: span 8;
+    grid-row: span 2;
+    background: var(--line);
+    color: var(--bg);
+    border-color: var(--line);
+  }
+
+  .article.featured:hover {
+    box-shadow: 6px 6px 0 var(--accent);
+  }
+
+  .article.featured .article-title {
+    font-size: clamp(28px, 3.2vw, 44px);
+    line-height: 1.05;
+  }
+
+  .article.featured .article-summary {
+    font-size: 16px;
+  }
+
+  .article.featured .article-source,
+  .article.featured .article-meta,
+  .article.featured .article-time {
+    color: var(--bg);
+  }
+
+  .article.featured .category-badge {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+  }
+
+  /* Друга велика */
+  .article.large {
+    grid-column: span 4;
+    grid-row: span 2;
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+  }
+
+  .article.large .article-title { font-size: 26px; line-height: 1.1; }
+  .article.large .article-source,
+  .article.large .article-meta,
+  .article.large .article-time { color: var(--bg); opacity: 0.92; }
+  .article.large .category-badge {
+    background: var(--bg);
+    color: var(--accent);
+    border-color: var(--bg);
+  }
+
+  .article.large:hover { box-shadow: 6px 6px 0 var(--line); }
+
+  /* Заголовок картки */
+  .article-meta-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .category-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    font-weight: 700;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.1em;
+  }
+
+  .article-source {
+    color: var(--ink-soft);
+    font-weight: 500;
+  }
+
+  .article-image {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    background: var(--line-soft);
+    display: block;
+  }
+
+  .article.featured .article-image,
+  .article.large .article-image {
+    aspect-ratio: 21 / 9;
+    border: 1px solid rgba(255,255,255,0.15);
+  }
+
+  .article-title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.15;
+    letter-spacing: -0.015em;
+    color: inherit;
+  }
+
+  .article-title a:hover { color: var(--accent); }
+  .article.featured .article-title a:hover,
+  .article.large .article-title a:hover { color: var(--bg); text-decoration: underline; text-underline-offset: 4px; }
+
+  .article-summary {
+    font-size: 14px;
+    line-height: 1.5;
+    color: inherit;
+    opacity: 0.85;
+    flex: 1;
+  }
+
+  .article-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    font-family: var(--mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    padding-top: 8px;
+    border-top: 1px dashed var(--line-soft);
+    margin-top: auto;
+  }
+
+  .article.featured .article-meta,
+  .article.large .article-meta {
+    border-top-color: rgba(255,255,255,0.2);
+  }
+
+  .lang-flag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 9px;
+    padding: 1px 5px;
+    border: 1px solid currentColor;
+    border-radius: 2px;
+    opacity: 0.7;
+  }
+
+  /* Empty state */
+  .empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 80px 20px;
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 24px;
+    color: var(--muted);
+  }
+
+  /* === Підвал === */
+  footer {
+    border-top: 3px solid var(--line);
+    margin-top: 60px;
+    padding: 32px 24px;
+    background: var(--bg);
+  }
+
+  .footer-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 24px;
+    flex-wrap: wrap;
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+  }
+
+  .footer-inner p { line-height: 1.8; }
+
+  /* === Мобільні === */
+  @media (max-width: 900px) {
+    .grid { gap: 16px; }
+    .article,
+    .article.featured,
+    .article.large {
+      grid-column: span 12;
+      grid-row: auto;
+    }
+    .article.featured .article-title { font-size: 28px; }
+    main { padding: 24px 16px 60px; }
+    .masthead-main { padding: 20px 16px 16px; }
+    .nav-inner { padding: 0 16px; }
+    .search { max-width: 100%; margin-left: 0; }
+  }
+
+  /* Тонке noise overlay для текстури */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 999;
+    opacity: 0.025;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <div class="masthead-top-inner">
+      <span><span class="live-dot"></span>оновлено {{ updated_at }}</span>
+      <span>{{ total }} статей · {{ sources_count }} джерел</span>
+    </div>
+  </div>
+
+  <div class="masthead-main">
+    <h1 class="logo">
+      Стрічка<span class="logo-mark">.</span>
+    </h1>
+    <p class="tagline">Автоматичний агрегатор новин · Україна, світ, технології</p>
+  </div>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <button class="filter-btn active" data-filter="all">
+        Все<span class="filter-count">{{ total }}</span>
+      </button>
+      {% for cat, count in categories %}
+      <button class="filter-btn" data-filter="{{ cat }}">
+        {{ category_labels.get(cat, cat) }}<span class="filter-count">{{ count }}</span>
+      </button>
+      {% endfor %}
+      <div class="search">
+        <input type="search" id="search" placeholder="пошук..." aria-label="Пошук">
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <div class="grid" id="grid">
+    {% for a in articles %}
+    {% set layout = 'featured' if loop.index == 1 else ('large' if loop.index == 2 else 'normal') %}
+    <article class="article {{ layout }}"
+             data-category="{{ a.category }}"
+             data-search="{{ (a.title + ' ' + a.summary + ' ' + a.source)|lower }}">
+      <div class="article-meta-top">
+        <span class="category-badge">{{ category_labels.get(a.category, a.category) }}</span>
+        <span class="article-source">{{ a.source }}</span>
+      </div>
+
+      {% if a.image and layout != 'normal' %}
+      <img class="article-image" src="{{ a.image }}" alt="" loading="lazy"
+           onerror="this.style.display='none'">
+      {% endif %}
+
+      <h2 class="article-title">
+        <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+      </h2>
+
+      {% if a.summary %}
+      <p class="article-summary">{{ a.summary }}</p>
+      {% endif %}
+
+      <div class="article-meta">
+        <span class="article-time">{{ a.published|time_ago }}</span>
+        <span>
+          <span class="lang-flag">{{ a.lang|upper }}</span>
+          &nbsp;{{ a.url|domain }}
+        </span>
+      </div>
+    </article>
+    {% else %}
+    <div class="empty">Поки що немає статей. Запусти aggregator.py.</div>
+    {% endfor %}
+  </div>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <p>
+      Стрічка · Згенеровано автоматично<br>
+      Парсинг через GitHub Actions кожні 30 хв
+    </p>
+    <p>
+      Усі права на оригінальні матеріали<br>
+      належать їх авторам та видавцям
+    </p>
+  </div>
+</footer>
+
+<script>
+  // === Фільтри по категоріях ===
+  const buttons = document.querySelectorAll('.filter-btn');
+  const articles = document.querySelectorAll('.article');
+  const searchInput = document.getElementById('search');
+  let activeFilter = 'all';
+  let activeQuery = '';
+
+  function applyFilters() {
+    let visibleCount = 0;
+    articles.forEach(art => {
+      const matchesCategory = activeFilter === 'all' || art.dataset.category === activeFilter;
+      const matchesSearch = !activeQuery || art.dataset.search.includes(activeQuery);
+      const visible = matchesCategory && matchesSearch;
+      art.style.display = visible ? '' : 'none';
+      if (visible) visibleCount++;
+    });
+
+    // Empty state коли нічого не знайдено
+    let emptyEl = document.getElementById('search-empty');
+    if (visibleCount === 0 && articles.length > 0) {
+      if (!emptyEl) {
+        emptyEl = document.createElement('div');
+        emptyEl.id = 'search-empty';
+        emptyEl.className = 'empty';
+        emptyEl.textContent = 'Нічого не знайдено';
+        document.getElementById('grid').appendChild(emptyEl);
+      }
+    } else if (emptyEl) {
+      emptyEl.remove();
+    }
+  }
+
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.filter;
+      applyFilters();
+    });
+  });
+
+  // Debounced search
+  let searchTimer;
+  searchInput.addEventListener('input', e => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      activeQuery = e.target.value.trim().toLowerCase();
+      applyFilters();
+    }, 120);
+  });
+
+  // Hotkey: "/" фокусує пошук
+  document.addEventListener('keydown', e => {
+    if (e.key === '/' && document.activeElement !== searchInput) {
+      e.preventDefault();
+      searchInput.focus();
+    }
+  });
+</script>
+
+</body>
+</html>
