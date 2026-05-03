@@ -1,0 +1,76 @@
+name: Aggregate & Deploy
+
+on:
+  # кожні 30 хвилин
+  schedule:
+    - cron: "*/30 * * * *"
+  # ручний запуск з UI
+  workflow_dispatch:
+  # на пуш у main (для тестів)
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "site/**"
+      - "sources.yaml"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write       # для коміту data/articles.json
+  pages: write          # для деплою
+  id-token: write       # для деплою на Pages
+
+# одночасно тільки один запуск
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run aggregator
+        run: python scripts/aggregator.py
+
+      - name: Build site
+        run: python scripts/build_site.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json data/og_cache.json
+          if git diff --staged --quiet; then
+            echo "Немає змін у data/"
+          else
+            git commit -m "chore: update articles $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
