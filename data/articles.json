@@ -1,5 +1,29 @@
 [
   {
+    "id": "b6e1dde527e5867d",
+    "title": "Тегеран заявив, що вважатиме порушенням перемир’я \"будь-яке втручання США\" в Ормузькій протоці",
+    "summary": "Тегеран вважатиме порушенням перемир'я \"будь-яке втручання США\" в Ормузькій протоці.",
+    "url": "https://www.pravda.com.ua/news/2026/05/04/8032974/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-03T23:42:00+00:00",
+    "fetched": "2026-05-03T23:54:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/821852/b5d4eb1243c408e0ebddc00a77b8400f.jpeg"
+  },
+  {
+    "id": "5fa19193915aca23",
+    "title": "The 'Hidden' Costs of Great Abstractions",
+    "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions Comments URL: https://news.ycombinator.com/item?id=48002607 Points: 17 # Comments: 2",
+    "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T23:12:02+00:00",
+    "fetched": "2026-05-03T23:54:34+00:00",
+    "image": null
+  },
+  {
     "id": "2473ea7238fd266e",
     "title": "У Москві пролунав вибух внаслідок атаки БпЛА – пабліки",
     "summary": "Російські пабліки повідомили, що в ніч на 4 травня у Москві пролунав вибух нібито внаслідок атаки БпЛА.",
@@ -10,6 +34,30 @@
     "published": "2026-05-03T22:36:00+00:00",
     "fetched": "2026-05-03T22:51:20+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/821851/92504244373f1dfbf420d27d019b8818.jpeg"
+  },
+  {
+    "id": "8d0f19bff897fdc1",
+    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+    "summary": "Article URL: https://github.com/aattaran/deepclaude Comments URL: https://news.ycombinator.com/item?id=48002136 Points: 77 # Comments: 30",
+    "url": "https://github.com/aattaran/deepclaude",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T22:13:20+00:00",
+    "fetched": "2026-05-03T23:54:34+00:00",
+    "image": "https://opengraph.githubassets.com/9a925c53576f9d1a437c3511ce9ba6bc41737d4b96bd2ab5c2087c9674704f2a/aattaran/deepclaude"
+  },
+  {
+    "id": "1c42284bd0fb9697",
+    "title": "Introduction to Atom",
+    "summary": "Article URL: https://validator.w3.org/feed/docs/atom.html Comments URL: https://news.ycombinator.com/item?id=48002089 Points: 13 # Comments: 3",
+    "url": "https://validator.w3.org/feed/docs/atom.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T22:08:47+00:00",
+    "fetched": "2026-05-03T23:54:34+00:00",
+    "image": null
   },
   {
     "id": "67031add722eb965",
@@ -322,6 +370,18 @@
     "published": "2026-05-03T18:01:00+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/821745/874f4933680365082a7d96587e0e5c6e.jpeg"
+  },
+  {
+    "id": "b600c235f21b9733",
+    "title": "LLMs Are Not a Higher Level of Abstraction",
+    "summary": "Article URL: https://www.lelanthran.com/chap15/content.html Comments URL: https://news.ycombinator.com/item?id=47999520 Points: 20 # Comments: 11",
+    "url": "https://www.lelanthran.com/chap15/content.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T17:51:58+00:00",
+    "fetched": "2026-05-03T23:54:34+00:00",
+    "image": null
   },
   {
     "id": "a9eb93922ac255db",
