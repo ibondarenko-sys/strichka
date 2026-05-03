@@ -1,5 +1,17 @@
 [
   {
+    "id": "2473ea7238fd266e",
+    "title": "У Москві пролунав вибух внаслідок атаки БпЛА – пабліки",
+    "summary": "Російські пабліки повідомили, що в ніч на 4 травня у Москві пролунав вибух нібито внаслідок атаки БпЛА.",
+    "url": "https://www.pravda.com.ua/news/2026/05/04/8032973/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-03T22:36:00+00:00",
+    "fetched": "2026-05-03T22:51:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/821851/92504244373f1dfbf420d27d019b8818.jpeg"
+  },
+  {
     "id": "67031add722eb965",
     "title": "\"Ніякого зв’язку немає\" – Мерц про розбіжності з Трампом і виведення військ США з Німеччини",
     "summary": "Мерц не пов'язує розбіжності з Трампом щодо Ірану і виведенням американських військових з Німеччини.",
@@ -154,6 +166,18 @@
     "published": "2026-05-03T19:24:00+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://i.lb.ua/news/122/40/69f7a1045046e.jpg"
+  },
+  {
+    "id": "f1fc6290b12a220a",
+    "title": "Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for \"O\"",
+    "summary": "Article URL: https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/ Comments URL: https://news.ycombinator.com/item?id=48000420 Points: 18 # Comments: 2",
+    "url": "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T19:23:20+00:00",
+    "fetched": "2026-05-03T22:51:20+00:00",
+    "image": "https://guessingheadlights.com/wp-content/uploads/2026/05/Screenshot-2026-05-02-102334.png"
   },
   {
     "id": "2037e98eaa52e722",
