@@ -1,5 +1,77 @@
 [
   {
+    "id": "e40856f77e8de9e6",
+    "title": "Rare comet to flash through New Zealand skies – before it disappears for 170,000 years",
+    "summary": "Over the next two weeks stargazers have a chance to spot the blue-green orb and smudgy tail of comet known as C/2025 R3 PanSTARRS A comet formed on the edges of the solar system will grace southern skies over the next fortnight, giving viewers a rare chance to glimpse it before…",
+    "url": "https://www.theguardian.com/world/2026/may/04/rare-comet-new-zealand",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-04T03:25:07+00:00",
+    "fetched": "2026-05-04T03:42:28+00:00",
+    "image": "https://i.guim.co.uk/img/media/27648b21e915bc8073c821bc851af50111f3d1d3/0_1142_2006_1605/master/2006.jpg?width=140&quality=85&auto=format&fit=max&s=ea1a226a9d4a16eedf5f49695fc2a7e4"
+  },
+  {
+    "id": "d12c55c58dac43d5",
+    "title": "ХАМАС відмовляється роззброюватися в Секторі Гази, переговори зайшли у глухий кут – ЗМІ",
+    "summary": "ЗМІ повідомляють, що переговори з приводу Сектора Гази зайшли у глухий кут через відмову ХАМАС роззброюватися.",
+    "url": "https://www.pravda.com.ua/news/2026/05/04/8032978/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-04T03:14:00+00:00",
+    "fetched": "2026-05-04T03:42:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/821857/8886d64bbcf585a9118fb5e7ea7b9de3.jpeg"
+  },
+  {
+    "id": "392979c60a3ae003",
+    "title": "Ярослав Грицак: В Україні може з'явиться нова група олігархів, яка захоче мати вирішальний вплив на українську політику",
+    "summary": "У періоди, коли все навколо змінюється швидше, ніж ціни на пальне, а світ котиться в невідомому напрямку, важливо знаходити людей, які вміють дивитися на речі в широкій перспективі.",
+    "url": "https://www.pravda.com.ua/articles/2026/05/04/8032962/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-04T02:30:00+00:00",
+    "fetched": "2026-05-04T03:42:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/b/821761/ab3e028fe92ac39889387c55acca8895.jpeg"
+  },
+  {
+    "id": "6cba0fce175371ab",
+    "title": "Колишній адвокат Трампа і ексмер Нью-Йорка Джуліані – в лікарні у критичному стані",
+    "summary": "Стан критичний: колишній адвокат Трампа та ексмер Нью-Йорка Джуліані – в лікарні.",
+    "url": "https://www.pravda.com.ua/news/2026/05/04/8032977/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-04T01:48:00+00:00",
+    "fetched": "2026-05-04T03:42:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/e/821856/5e0afb089ca01c65b468ce9134a9e3a8.jpeg"
+  },
+  {
+    "id": "85b1962e495bd865",
+    "title": "Для супроводу суден Ормузькою протокою США задіють есмінці, 100 літаків і 15 тисяч військових",
+    "summary": "Військові США залучать 100 літаків і 15 тисяч персоналу для супроводу суден Ормузомузькою протокою.",
+    "url": "https://www.pravda.com.ua/news/2026/05/04/8032976/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-04T00:50:00+00:00",
+    "fetched": "2026-05-04T03:42:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/9/821855/e9467456ced70c4fbde261fe17003c58.jpeg"
+  },
+  {
+    "id": "e3c19634e08c42e2",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+    "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility Comments URL: https://news.ycombinator.com/item?id=48002938 Points: 124 # Comments: 48",
+    "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T23:59:02+00:00",
+    "fetched": "2026-05-04T03:42:29+00:00",
+    "image": "https://xogium.me/img/avatars/t.png"
+  },
+  {
     "id": "b6e1dde527e5867d",
     "title": "Тегеран заявив, що вважатиме порушенням перемир’я \"будь-яке втручання США\" в Ормузькій протоці",
     "summary": "Тегеран вважатиме порушенням перемир'я \"будь-яке втручання США\" в Ормузькій протоці.",
@@ -12,6 +84,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/821852/b5d4eb1243c408e0ebddc00a77b8400f.jpeg"
   },
   {
+    "id": "7fcbe9d1f3700b3e",
+    "title": "Let's Buy Spirit Air",
+    "summary": "Article URL: https://letsbuyspiritair.com/ Comments URL: https://news.ycombinator.com/item?id=48002777 Points: 218 # Comments: 164",
+    "url": "https://letsbuyspiritair.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T23:36:11+00:00",
+    "fetched": "2026-05-04T03:42:29+00:00",
+    "image": null
+  },
+  {
     "id": "5fa19193915aca23",
     "title": "The 'Hidden' Costs of Great Abstractions",
     "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions Comments URL: https://news.ycombinator.com/item?id=48002607 Points: 17 # Comments: 2",
@@ -22,6 +106,18 @@
     "published": "2026-05-03T23:12:02+00:00",
     "fetched": "2026-05-03T23:54:34+00:00",
     "image": null
+  },
+  {
+    "id": "2bd75592f05ae48f",
+    "title": "Agentic Coding Is a Trap",
+    "summary": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48002442 Points: 236 # Comments: 167",
+    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-03T22:52:07+00:00",
+    "fetched": "2026-05-04T03:42:30+00:00",
+    "image": "https://larsfaye.com/opengraph-agents.jpg"
   },
   {
     "id": "2473ea7238fd266e",
