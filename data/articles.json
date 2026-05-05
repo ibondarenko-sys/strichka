@@ -1,5 +1,101 @@
 [
   {
+    "id": "eb8b4c30012016f6",
+    "title": "Головне за вівторок, 5 травня: 20 загиблих у Запоріжжі, Дніпрі та Краматорську, 155 боєзіткнень",
+    "summary": "Бойові дії на Донеччині, 155 бойових зіткнень, ворожі обстріли, лауреати Пулітцерівської премії. Яким запам’ятається 1532-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/05/736632_golovne_vivtorok_5_travnya_20.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T20:52:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://i.lb.ua/news/079/06/69fa595d6c834.jpg"
+  },
+  {
+    "id": "d5a7a344833a8648",
+    "title": "Рубіо: операція США в Ормузькій протоці має оборонний характер",
+    "summary": "Держсекретар заявив, що США відкриватимуть вогонь лише у відповідь.",
+    "url": "https://lb.ua/world/2026/05/05/736631_rubio_operatsiya_ssha_ormuzkiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T20:50:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://i.lb.ua/news/002/12/69fa5812cd691.jpg"
+  },
+  {
+    "id": "ad316e99dbd7fd97",
+    "title": "Україна очікує на контакти з майбутнім урядом Угорщини, зокрема щодо відкриття кластерів",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/05/8033339/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T20:44:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/d/9d45c5b------.jpg"
+  },
+  {
+    "id": "cba8c4eb783287be",
+    "title": "В Одесі невідомі напали на службовий автомобіль ТЦК",
+    "summary": "Під час інциденту троє військовозобов'язаних втекли з автівки.",
+    "url": "https://lb.ua/society/2026/05/05/736629_odesi_nevidomi_napali_sluzhboviy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T20:22:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://i.lb.ua/news/020/29/69fa513244323.jpg"
+  },
+  {
+    "id": "0f81ee4448f5f8a5",
+    "title": ".de TLD offline due to DNSSEC?",
+    "summary": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de Comments URL: https://news.ycombinator.com/item?id=48027897 Points: 144 # Comments: 35",
+    "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T20:16:35+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": null
+  },
+  {
+    "id": "2a60b4eec9258c4b",
+    "title": "Росіяни атакували Суми: двоє людей травмовані",
+    "summary": "Російські війська у вівторок масовано атакували Суми: за попередньою інформацією, двоє людей травмовані.",
+    "url": "https://www.pravda.com.ua/news/2026/05/05/8033338/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T20:13:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/2/823144/f212b96831c32fe85630c1821108c8be.jpeg"
+  },
+  {
+    "id": "00d8501e337193cd",
+    "title": "США схвалили продаж Україні далекобійного озброєння",
+    "summary": "Йдеться про обладнання для некерованих авіабомб, яке робить їх керованими.",
+    "url": "https://lb.ua/news/2026/05/05/736625_ssha_shvalili_prodazh_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T19:56:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://i.lb.ua/news/086/51/69fa4b80f38cc.jpg"
+  },
+  {
+    "id": "8a96f156cf6003fc",
+    "title": "Microsoft gives up on Xbox Copilot AI",
+    "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team -…",
+    "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T19:54:37+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "a1de2394ec564983",
     "title": "Понад 150 боєзіткнень відбулось на фронті від початку доби – Генштаб",
     "summary": "Від початку доби 5 травня на фронті відбулось 155 бойових зіткнень, з них 34 – на Покровському напрямку.",
@@ -10,6 +106,18 @@
     "published": "2026-05-05T19:48:00+00:00",
     "fetched": "2026-05-05T19:57:53+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/b/823134/5b1cc7e44981da8a140b421a892617b8.jpeg"
+  },
+  {
+    "id": "cfda09ec045ab80c",
+    "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+    "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+    "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T19:46:15+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg"
   },
   {
     "id": "526cbec7d7716ce5",
@@ -34,6 +142,18 @@
     "published": "2026-05-05T19:41:00+00:00",
     "fetched": "2026-05-05T19:57:53+00:00",
     "image": "https://i.lb.ua/news/078/34/69fa47ff9bcec.jpg"
+  },
+  {
+    "id": "8d75194cf40be5ed",
+    "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
+    "summary": "Kennedy has made—and continues to make—many false claims about SSRIs.",
+    "url": "https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T19:32:38+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg"
   },
   {
     "id": "73b53e1d6b9078dd",
@@ -132,6 +252,18 @@
     "image": "https://i.lb.ua/news/006/54/69fa38d52edd1.jpg"
   },
   {
+    "id": "edefb0e75b546400",
+    "title": "Четверо людей загинули внаслідок атаки окупантів по Дніпру, є постраждалі (оновлено)",
+    "summary": "Постраждало підприємство.",
+    "url": "https://lb.ua/society/2026/05/05/736615_chetvero_lyudey_zaginuli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T18:37:00+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": "https://i.lb.ua/news/006/54/69fa38d52edd1.jpg"
+  },
+  {
     "id": "948c04e2c27fd5cf",
     "title": "Threads is finally getting DMs on the web",
     "summary": "Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's \"testing\" DMs on the web now, but plans to make the feature \"available to more people soon.\" In your DM page on the web, you can see…",
@@ -202,6 +334,18 @@
     "published": "2026-05-05T18:13:14+00:00",
     "fetched": "2026-05-05T19:57:53+00:00",
     "image": "https://paletteinspiration.com/og-default.jpg"
+  },
+  {
+    "id": "57d9f34d9db4ef59",
+    "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+    "summary": "Article URL: https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/ Comments URL: https://news.ycombinator.com/item?id=48026207 Points: 79 # Comments: 33",
+    "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T18:04:25+00:00",
+    "fetched": "2026-05-05T21:11:16+00:00",
+    "image": null
   },
   {
     "id": "aaba8b62d0aa4cb4",
