@@ -1,5 +1,53 @@
 [
   {
+    "id": "7b9edbb0b7cbadc6",
+    "title": "У Сумах внаслідок російської атаки травмовано двоє людей",
+    "summary": "Упродовж дня місто потерпало від масованого обстрілу.",
+    "url": "https://lb.ua/society/2026/05/06/736643_sumah_vnaslidok_rosiyskoyi_ataki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T23:39:00+00:00",
+    "fetched": "2026-05-05T23:54:19+00:00",
+    "image": "https://i.lb.ua/news/008/32/69fa8145ce300.jpg"
+  },
+  {
+    "id": "c06a5d4aa6d12b79",
+    "title": "Рубіо оголосив завершення операції \"Епічна лють\" проти Ірану",
+    "summary": "Американські війська перейшли до виключно захисних дій у Перській затоці.",
+    "url": "https://lb.ua/world/2026/05/06/736641_rubio_ogolosiv_zavershennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T22:52:00+00:00",
+    "fetched": "2026-05-05T23:54:19+00:00",
+    "image": "https://i.lb.ua/news/116/07/69fa754a16bdf.jpg"
+  },
+  {
+    "id": "35d40092e984978f",
+    "title": "Рубіо заявив про завершення операції \"Епічна лють\" проти Ірану: \"Ми досягли її цілей\"",
+    "summary": "Державний секретар США Марко Рубіо заявив, що американські війська завершили активну наступальну фазу війни проти Ірану та переходять до нової місії з розблокування Ормузької протоки.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033342/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-05T22:32:00+00:00",
+    "fetched": "2026-05-05T23:54:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/823157/fc8a34443fe73159d659d65b78dc3588.jpeg"
+  },
+  {
+    "id": "42aa4ad0ca99ac7d",
+    "title": "OpenAI president forced to read his personal diary entries to jury",
+    "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T22:28:12+00:00",
+    "fetched": "2026-05-05T23:54:19+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/greg-brockman-is-you-taking-notes-on-criminal-conspiracy-1152x648.jpg"
+  },
+  {
     "id": "23c7722f87b61dd5",
     "title": "Трамп знову загострив конфлікт з Папою Римським: хибно звинуватив у підтримці Ірану",
     "summary": "Понтифік каже, що буде проповідувати мир, як би його не критикували.",
@@ -22,6 +70,18 @@
     "published": "2026-05-05T22:17:44+00:00",
     "fetched": "2026-05-05T22:32:03+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a6/live/c3091050-48ce-11f1-8ab6-0772c697a4ec.jpg"
+  },
+  {
+    "id": "6725bea869da2c89",
+    "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+    "summary": "Article URL: https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32 Comments URL: https://news.ycombinator.com/item?id=48029334 Points: 52 # Comments: 1",
+    "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-05T22:07:18+00:00",
+    "fetched": "2026-05-05T23:54:19+00:00",
+    "image": "https://dims.apnews.com/dims4/default/264cbc0/2147483647/strip/true/crop/3591x2393+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2Fa3%2Fc139177a6a3e5bd4b78b117ddf73%2Fd6cf3ab2f0ba48c2b64c7b6210ef4280"
   },
   {
     "id": "434d05920a2fc0f3",
