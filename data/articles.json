@@ -1,5 +1,89 @@
 [
   {
+    "id": "ee4a7168e164f54f",
+    "title": "Головне за середу, 6 травня: 120 боєзіткнень, наслідки удару по дитсадку в Сумах, погрози російського МЗС",
+    "summary": "Бойові дії на Донеччині, 120 бойових зіткнень, ворожі обстріли, повернення коштів, викрадених разом з інкасаторами Ощадбанку. Яким запам’ятається 1533-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/06/736800_golovne_seredu_6_travnya_120.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T20:54:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://i.lb.ua/news/034/09/69fbab072ed13.jpg"
+  },
+  {
+    "id": "edf1aa7c6065e1b4",
+    "title": "Володимир Зеленський доручив розробити закон про військові компанії",
+    "summary": "Вже готується законодавча основа, закон планують ухвалити цього року.",
+    "url": "https://lb.ua/pravo/2026/05/06/736799_volodimir_zelenskiy_doruchiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T20:53:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://i.lb.ua/news/104/33/69fbaa4f09c1b.jpg"
+  },
+  {
+    "id": "d0dd093f3d538632",
+    "title": "У Франції запевняють у відсутності дефіциту авіапалива",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033510/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T20:40:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/b/0/b0cb846-air-france-fleet-3--1-.jpg"
+  },
+  {
+    "id": "6dc434aeb808d8df",
+    "title": "Росія увесь день атакує Сумщину: є загиблий та постраждалий",
+    "summary": "Російські війська протягом дня 6 травня атакували Сумську область: загинув чоловік, ще один отримав поранення.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033509/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T20:26:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/823705/9d144b0e66991b8abf352ceca8bdc1e8.jpeg"
+  },
+  {
+    "id": "f1a4b2eb39f92ce7",
+    "title": "Росіяни упродовж дня атакували цивільне населення Сумщини: є жертви",
+    "summary": "Дрони окупантів поцілили в житлові будинки та авто.",
+    "url": "https://lb.ua/society/2026/05/06/736797_rosiyani_uprodovzh_dnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T20:19:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://i.lb.ua/news/076/07/69fba243f2294.jpg"
+  },
+  {
+    "id": "987ff63a1291be58",
+    "title": "How David Sacks crashed and burned in the White House",
+    "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct…",
+    "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T20:18:00+00:00",
+    "fetched": "2026-05-06T21:15:28+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2268643920.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "4a9a814c36bfa7b0",
+    "title": "Ізраїль завдав удару по Лівану, попри домовленості про припинення вогню",
+    "summary": "Метою був командир елітних сил \"Хезболли\".",
+    "url": "https://lb.ua/world/2026/05/06/736795_izrayil_zavdav_udaru_livanu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T19:59:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://i.lb.ua/news/019/52/69fb9d939e4cb.jpg"
+  },
+  {
     "id": "7147acd2ba1d9266",
     "title": "Працівника СБУ затримали на хабарі 34 тисячі доларів: організовував схему для отримання відстрочки",
     "summary": "Співробітника СБУ затримали 6 травня під час отримання 34 тисяч доларів США: він та його спільник-підприємець організували схему фіктивного працевлаштування чоловіків для отримання відстрочки від мобілізації.",
@@ -10,6 +94,18 @@
     "published": "2026-05-06T19:41:00+00:00",
     "fetched": "2026-05-06T19:53:07+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/e/823689/5ed47ef1b6b2eac5dc65ee601942d7e1.jpeg"
+  },
+  {
+    "id": "90fb1561df42d1f2",
+    "title": "Inkscape 1.4.4",
+    "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html Comments URL: https://news.ycombinator.com/item?id=48040622 Points: 105 # Comments: 19",
+    "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T19:33:25+00:00",
+    "fetched": "2026-05-06T21:15:28+00:00",
+    "image": "https://media.inkscape.org/static/images/inkscape-og-image.png"
   },
   {
     "id": "7b62c0f0e48b84eb",
@@ -300,6 +396,18 @@
     "image": "https://i.lb.ua/news/027/28/69fb7b60b2630.jpg"
   },
   {
+    "id": "ecae3b02e74a6bea",
+    "title": "7 травня у Сумській громаді оголосили Днем жалоби",
+    "summary": "Унаслідок російської атаки у Сумах загинули дві людини, семеро поранених.",
+    "url": "https://lb.ua/society/2026/05/06/736777_7_travnya_sumskiy_gromadi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T17:39:00+00:00",
+    "fetched": "2026-05-06T21:15:27+00:00",
+    "image": "https://i.lb.ua/news/027/28/69fb7b60b2630.jpg"
+  },
+  {
     "id": "cc6312d21c7d0af1",
     "title": "Польща готова прийняти солдатів США, якщо Трамп вирішить вивести їх з Німеччини – заява президента",
     "summary": "Польський президент Кароль Навроцький заявив, що у випадку ухвалення президентом США Дональдом Трампом рішення про скорочення чисельності американських військ у Німеччині, Польща готова їх прийняти.",
@@ -550,6 +658,18 @@
     "published": "2026-05-06T16:42:30+00:00",
     "fetched": "2026-05-06T19:53:07+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/earth1-1152x648.jpg"
+  },
+  {
+    "id": "8f0b7b81769e9436",
+    "title": "Life During Class Wartime",
+    "summary": "Article URL: https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime Comments URL: https://news.ycombinator.com/item?id=48038307 Points: 89 # Comments: 50",
+    "url": "https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T16:41:30+00:00",
+    "fetched": "2026-05-06T21:15:28+00:00",
+    "image": "https://www.tbray.org/ongoing/misc/podcast-default.jpg"
   },
   {
     "id": "a8ff72ec56800b20",
