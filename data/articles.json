@@ -1,5 +1,281 @@
 [
   {
+    "id": "670d4ec7fc043a36",
+    "title": "Затримали керівника Житомирського обласного ТЦК, який вимагав гроші за \"бронювання\" від мобілізації",
+    "summary": "Посадовець налагодив механізм систематичного одержання хабаря від місцевого підприємця.",
+    "url": "https://lb.ua/society/2026/05/06/736655_zatrimali_kerivnika.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T06:27:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.lb.ua/news/102/19/69fadde916caa.jpg"
+  },
+  {
+    "id": "89fa3c3e6b82da51",
+    "title": "12 людей вбиті і 49 поранені внаслідок ударів по Запоріжжю і області вчора",
+    "summary": "",
+    "url": "https://lb.ua/society/2026/05/06/736654_12_lyudey_vbiti_49_poraneni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T06:20:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.lb.ua/news/064/32/69faddc337fae.jpg"
+  },
+  {
+    "id": "0eb3510290b3637f",
+    "title": "Партія прем’єра Румунії йде в опозицію після вотуму недовіри уряду",
+    "summary": "Національно-ліберальна партія (PNL) прем’єра Румунії Іліє Боложану, якого усунули з посади через вотум недовіри уряду, у зв’язку з цим перейде в опозицію.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033370/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T06:12:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/e/5e9861d---------------2026-05-06-083206.jpg"
+  },
+  {
+    "id": "ebd47928a5382dfd",
+    "title": "Окупанти вранці з дрона атакували цивільне авто на Сумщині, загинула пасажирка",
+    "summary": "На Сумщині російський дрон вранці 6 травня атакував авто — загинула жінка, водій поранений.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033367/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T06:08:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/a/823226/3a74d664a760cf39a5d7b317348e06fd.jpeg"
+  },
+  {
+    "id": "899acd824f7806fd",
+    "title": "У Польщі спалахнула масштабна лісова, внаслідок якої загинув пілот пожежного літака",
+    "summary": "У Люблінському воєводстві Польщі триває боротьба з масштабною лісовою пожежею поблизу села Козаки в Білгорайському повіті: вогонь охопив близько 250 гектарів лісу, однак рятувальникам вдалося зупинити подальше поширення полум’я.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033366/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:57:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/3/b/3b38713---------------2.jpg"
+  },
+  {
+    "id": "f930d2773677c7f3",
+    "title": "У Харкові внаслідок ударів Росії пошкоджено 7 приватних будинків",
+    "summary": "",
+    "url": "https://lb.ua/society/2026/05/06/736653_harkovi_vnaslidok_udariv_rosiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:55:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.lb.ua/news/015/06/69fad81dc3376.jpg"
+  },
+  {
+    "id": "7f3b445bec8a67f5",
+    "title": "Росіяни FPV-дронами атакували Харківщину: 3 постраждалих",
+    "summary": "У Харківській області троє людей отримали поранення внаслідок атак FPV-дронів росіян 5 травня.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033365/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:53:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/823223/010f8d1c6421432cca1e667115f56958.jpeg"
+  },
+  {
+    "id": "0fdce5f3141a6bc5",
+    "title": "Всупереч пропозиції режиму тиші: Росія атакувала ракетами і дронами",
+    "summary": "Ворог застосував ракети різних типів.",
+    "url": "https://lb.ua/society/2026/05/06/736652_vsuperech_propozitsiyi_rezhimu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:45:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.lb.ua/news/105/35/69fad4fe82394.jpg"
+  },
+  {
+    "id": "0c09136d6c6cbe91",
+    "title": "Singapore introduces caning for boys who bully others at school",
+    "summary": "Under new guidelines caning will only be used in schools for male students aged nine and above Male school students who bully others, including through cyberbullying, will face caning as a “last resort” under new guidelines introduced in Singapore. Male students can face up to…",
+    "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T05:26:02+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.guim.co.uk/img/media/86ec731f883bf7323f947a4361cd8e6a97e55906/501_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d0ad3777e22d7208912f9f5b79fc53b5"
+  },
+  {
+    "id": "7b4939cabdee4132",
+    "title": "Трамп відвідає Грецію влітку – посол США",
+    "summary": "Посол США в Афінах Кімберлі Гільфойл заявила, що американський президент Дональд Трамп найближчим часом відвідає Грецію.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033364/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:25:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/c/9/c915c82-------------.jpg"
+  },
+  {
+    "id": "63c7507cb1213925",
+    "title": "Росіяни випустили по Україні 3 ракети і 108 БпЛА: 89 дронів знешкодили",
+    "summary": "Захисники України знешкодили 89 ворожих дронів зі 108, але три ракети долетіли до цілі",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033362/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:19:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/823220/5f9137ed92908861f1226f4d67cab0c1.jpeg"
+  },
+  {
+    "id": "e668dd13d02d040b",
+    "title": "За добу на фронті відбулося 186 боєзіткнень, - Генштаб",
+    "summary": "На Покровському напрямку наші захисники зупинили 50 штурмових дій росіян.",
+    "url": "https://lb.ua/society/2026/05/06/736651_dobu_fronti_vidbulosya_186.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:15:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.lb.ua/news/018/32/69fad030a0fd4.jpg"
+  },
+  {
+    "id": "37beb086b3d0f867",
+    "title": "Росіяни збільшили кількість атак на Покровському напрямку майже у 2 рази – Генштаб",
+    "summary": "Минулої доби зафіксовано 186 бойових зіткнень на фронті, Покровський напрямок зазнав 50 атак окупантів.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033357/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:08:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/823202/f1906a450bb75fffc073073f0ce00020.jpeg"
+  },
+  {
+    "id": "0ac627faadbcabe3",
+    "title": "Сили оборони ліквідували 1050 російських окупантів",
+    "summary": "Росія вже втратила в Україні близько 1 337 170 військових.",
+    "url": "https://lb.ua/society/2026/05/06/736649_sili_oboroni_likviduvali_1050.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T05:05:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://i.lb.ua/news/010/18/69facdad5106a.jpg"
+  },
+  {
+    "id": "57dd58175618f79b",
+    "title": "Окупанти зранку вдарили по Кривому Рогу, кількість поранених у Дніпрі зросла до 19",
+    "summary": "У Дніпрі зросла кількість постраждалих внаслідок удару 5 травня, який забрав життя 4 людей. Вранці 6 травня росіяни вдарили по Кривому Рогу, пошкоджено інфраструктуру.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033355/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T04:56:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/823197/9c665540ef82f146852fdf70869f10e3.jpeg"
+  },
+  {
+    "id": "18c82c7b2b6f9b63",
+    "title": "Держсекретар США каже, що візит до Ватикану був запланований до суперечок Трампа з Папою",
+    "summary": "Державний секретар Марко Рубіо заявив, що його поїздка до Риму та Ватикану була запланована ще до того, як президент США Дональд Трамп вступив у суперечку з Папою Римським Левом XIV.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033354/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T04:56:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/0/4075ff3----.jpg"
+  },
+  {
+    "id": "838db69165ef0283",
+    "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+    "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+    "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T04:53:31+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e87/live/c1ed0290-47c9-11f1-9368-6d6a6ae2e6a7.jpg"
+  },
+  {
+    "id": "f0d8dfde1c8c397d",
+    "title": "Кількість поранених у Запоріжжі зросла до 43: четверо \"важкі\"",
+    "summary": "Внаслідок російської атаки по Запоріжжю 5 травня постраждали 43 людини, загинули 12 людей.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033353/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T04:38:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/823190/6001c27da41d5292a5b3c9f3161305e5.jpeg"
+  },
+  {
+    "id": "0e3d9d470ba8f554",
+    "title": "Окупанти атакують Харків: пошкоджено будинки, 2 постраждалих",
+    "summary": "Внаслідок ударів дронами по Харкову 6 травня постраждали 2 людини, пошкоджено кілька будинків.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033351/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T04:09:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/823182/fcdc82db9b6e4622e59f8d3d45d550aa.jpeg"
+  },
+  {
+    "id": "6ecc81e21ffd59b8",
+    "title": "За добу Сили оборони України відмінусували 1050 окупантів та майже 400 одиниць техніки – Генштаб",
+    "summary": "За минулу добу Сили оборони України вбили та поранили 1 050 російських окупантів, загальні втрати ворога у війні склали 1 337 170 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033350/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T04:06:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/7/823168/a7528e7e9815a6dbbb64388c685efe1c.jpeg"
+  },
+  {
+    "id": "ee41a61e9021d31e",
+    "title": "Китай продовжує масово постачати компоненти для \"Шахедів\" до РФ та Ірану попри санкції США – WSJ",
+    "summary": "Китайські компанії масово постачають двигуни, мікрочипи та інші компоненти для виробництва дронів-камікадзе Shahed до Ірану та Росії, відкрито ігноруючи санкції США.",
+    "url": "https://www.pravda.com.ua/news/2026/05/06/8033349/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T03:49:00+00:00",
+    "fetched": "2026-05-06T06:34:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/823167/369685bfb943cae31ef289146cb471e3.jpeg"
+  },
+  {
+    "id": "c922ac97a9efb626",
+    "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now Comments URL: https://news.ycombinator.com/item?id=48031867 Points: 36 # Comments: 28",
+    "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T03:37:51+00:00",
+    "fetched": "2026-05-06T06:34:34+00:00",
+    "image": null
+  },
+  {
+    "id": "291937f569169a33",
+    "title": "Ombudsman column: The Pentagon is trying to silence me",
+    "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html Comments URL: https://news.ycombinator.com/item?id=48031769 Points: 139 # Comments: 18",
+    "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T03:24:49+00:00",
+    "fetched": "2026-05-06T06:34:34+00:00",
+    "image": "https://www.stripes.com/incoming/7rcmey-260326dealsphoto01.jpg/alternates/LANDSCAPE_480/260326DEALSphoto01.jpg"
+  },
+  {
     "id": "276d2f41fc03da1d",
     "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
     "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/ Comments URL: https://news.ycombinator.com/item?id=48031684 Points: 4 # Comments: 0",
@@ -60,6 +336,18 @@
     "image": "https://i.lb.ua/news/097/59/69fa9d6656231.jpg"
   },
   {
+    "id": "b6653f9b30c4c650",
+    "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+    "summary": "The US president said the operation has been paused after starting on Monday.",
+    "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T02:23:36+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/959a/live/50900610-48e6-11f1-b75b-95129d40843d.jpg"
+  },
+  {
     "id": "40c24d75f19e7d15",
     "title": "Іспанія прийме круїзний лайнер, на якому стався спалах хантавірусу",
     "summary": "Іспанія погодилася прийняти на Канарських островах судно MV Hondius, на борту якого зафіксовано спалах хантавірусу..",
@@ -96,6 +384,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5f/live/65fea100-4891-11f1-b55d-0f258dce1735.jpg"
   },
   {
+    "id": "9cd51873cbab3cc7",
+    "title": "IS families in Syria have booked tickets home to Australia, minister says",
+    "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
+    "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T01:47:48+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b24/live/49927610-4907-11f1-9a24-d59102dfbefe.jpg"
+  },
+  {
     "id": "d974b185d4d2c8fc",
     "title": "Telus Uses AI to Alter Call-Agent Accents",
     "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 41 # Comments: 11",
@@ -106,6 +406,18 @@
     "published": "2026-05-06T01:38:44+00:00",
     "fetched": "2026-05-06T03:39:47+00:00",
     "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg"
+  },
+  {
+    "id": "cb2249dd251b9f3f",
+    "title": "YouTube, your RSS feeds are broken",
+    "summary": "Article URL: https://openrss.org/blog/youtube-your-feeds-are-broken Comments URL: https://news.ycombinator.com/item?id=48030964 Points: 64 # Comments: 23",
+    "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T01:15:31+00:00",
+    "fetched": "2026-05-06T06:34:34+00:00",
+    "image": null
   },
   {
     "id": "b82f041ebbb82475",
@@ -168,6 +480,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/823160/85e9998dbf6f7cabb3e3af0969e21dd8.jpeg"
   },
   {
+    "id": "672ba4b50fe17450",
+    "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+    "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+    "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T00:01:28+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/388b7610-48cf-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
     "id": "7b9edbb0b7cbadc6",
     "title": "У Сумах внаслідок російської атаки травмовано двоє людей",
     "summary": "Упродовж дня місто потерпало від масованого обстрілу.",
@@ -190,6 +514,18 @@
     "published": "2026-05-05T22:52:00+00:00",
     "fetched": "2026-05-05T23:54:19+00:00",
     "image": "https://i.lb.ua/news/116/07/69fa754a16bdf.jpg"
+  },
+  {
+    "id": "cd78e1ab0393cc62",
+    "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+    "summary": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
+    "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-05T22:44:35+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad7f/live/14ab92b0-4853-11f1-ac78-2112837ce2aa.jpg"
   },
   {
     "id": "35d40092e984978f",
@@ -322,6 +658,18 @@
     "published": "2026-05-05T21:26:50+00:00",
     "fetched": "2026-05-05T22:32:04+00:00",
     "image": null
+  },
+  {
+    "id": "22ffc3eb3696e739",
+    "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+    "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+    "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-05T21:22:31+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19c/live/d2e8e220-48c9-11f1-b55d-0f258dce1735.jpg"
   },
   {
     "id": "7c61a20e12dbca44",
@@ -862,6 +1210,18 @@
     "published": "2026-05-05T17:38:17+00:00",
     "fetched": "2026-05-05T18:01:19+00:00",
     "image": null
+  },
+  {
+    "id": "16fda0160a1c4d8c",
+    "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
+    "summary": "DNA tests are underway to confirm whether remains found inside the crocodile match that of a missing man.",
+    "url": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-05T17:35:32+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3393/live/3818ab40-4707-11f1-bd22-17beaec4bfbd.jpg"
   },
   {
     "id": "aeb01426dde422b5",
@@ -2158,6 +2518,18 @@
     "published": "2026-05-05T11:39:00+00:00",
     "fetched": "2026-05-05T12:06:27+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/f/df65a84-2081504-73825-1287x836.jpg"
+  },
+  {
+    "id": "467fa0163b8adb43",
+    "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+    "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+    "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-05T11:38:03+00:00",
+    "fetched": "2026-05-06T06:34:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a283/live/cfeeea60-4879-11f1-ac78-2112837ce2aa.jpg"
   },
   {
     "id": "0877a8c4e00da797",
