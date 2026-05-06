@@ -1,5 +1,65 @@
 [
   {
+    "id": "c901b923cb17c112",
+    "title": "Трамп затвердив нову контртерористичну стратегію США: фокус на Ірані, картелях та ліворадикалах",
+    "summary": "Адміністрація президента США Дональда Трампа оприлюднила нову контртерористичну стратегію США на 2026 рік, у якій головними загрозами для безпеки назвала наркокартелі, ісламістів і радикальні політичні угруповання.",
+    "url": "https://www.pravda.com.ua/news/2026/05/07/8033518/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T23:18:00+00:00",
+    "fetched": "2026-05-06T23:28:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/823738/271fe833cc608477432656794fbe3102.jpeg"
+  },
+  {
+    "id": "12bb30bc73193d01",
+    "title": "Росія та США сприяють сепаратистам у канадській Альберті",
+    "summary": "Втручання у суспільну дискусію має на меті послабити демократичну цілісність Канади.",
+    "url": "https://lb.ua/world/2026/05/07/736811_rosiya_ssha_spriyayut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T22:50:00+00:00",
+    "fetched": "2026-05-06T23:28:31+00:00",
+    "image": "https://i.lb.ua/news/043/03/69fbc5da9a9a5.jpg"
+  },
+  {
+    "id": "4de3366ca2c5e063",
+    "title": "UK businesses brace for jet fuel rationing",
+    "summary": "Article URL: https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/ Comments URL: https://news.ycombinator.com/item?id=48042918 Points: 35 # Comments: 9",
+    "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T22:48:11+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://bmmagazine.co.uk/wp-content/uploads/2026/05/shutterstock_789771859-scaled.jpg"
+  },
+  {
+    "id": "1c8148e68c28613a",
+    "title": "SpaceX is starting to move on from the world's most successful rocket",
+    "summary": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+    "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T22:28:47+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2211835635-1152x648.jpg"
+  },
+  {
+    "id": "1b864c4ec85dc9a3",
+    "title": "У Києві та низці областей оголосили повітряну тривогу через атаку БпЛА",
+    "summary": "У ніч на 7 травня у Києві та низці областей України оголошено повітряну тривогу через масовану атаку російських ударних безпілотників.",
+    "url": "https://www.pravda.com.ua/news/2026/05/07/8033517/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T22:27:00+00:00",
+    "fetched": "2026-05-06T23:28:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/5/823737/c56774dd89ca892865c43cddcdccba5d.jpeg"
+  },
+  {
     "id": "8f508f7de4b19f6b",
     "title": "Bloomberg: Умєров вирушить у Маямі для зустрічі з Віткоффом",
     "summary": "Переговорний процес щодо війни в Україні загальмував через кризу на Близькому Сході.",
@@ -22,6 +82,18 @@
     "published": "2026-05-06T22:10:40+00:00",
     "fetched": "2026-05-06T22:25:42+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg"
+  },
+  {
+    "id": "457fbc8b3bafb206",
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "summary": "Deal follows others with Microsoft, Amazon, and more.",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T22:09:14+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
   },
   {
     "id": "ad12a72f2699792b",
@@ -48,6 +120,18 @@
     "image": "https://i.lb.ua/news/029/52/69fbb8e69ab4f.jpg"
   },
   {
+    "id": "80bdc3eae67cf81c",
+    "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+    "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+    "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T21:47:27+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hai-Long-wind-turbine-1152x648.jpg"
+  },
+  {
     "id": "10f5a3da406d7697",
     "title": "Суд виправдав народного депутата, який скоїв смертельну ДТП на Житомирщині",
     "summary": "Андрій Ніколаєнко перевищував швидкість і збив 18-річну дівчину.",
@@ -58,6 +142,18 @@
     "published": "2026-05-06T21:42:00+00:00",
     "fetched": "2026-05-06T22:25:42+00:00",
     "image": "https://i.lb.ua/news/069/48/69fbb5955f289.jpg"
+  },
+  {
+    "id": "f863c060002f9bf6",
+    "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
+    "summary": "Chairman Brendan Carr celebrates FCC court loss in case over Biden-era rule.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T21:33:39+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg"
   },
   {
     "id": "13997ecc2a1643ba",
@@ -84,6 +180,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/0/823736/10b5b8e7bcdbf57779dd7471db4895f8.jpeg"
   },
   {
+    "id": "bedf9301e7f0c4a0",
+    "title": "Iran considering US proposal to end war, official says",
+    "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
+    "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T21:27:59+00:00",
+    "fetched": "2026-05-06T23:28:31+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b568/live/479e7760-498d-11f1-9cba-7526402c46eb.png"
+  },
+  {
     "id": "bc9dc42d06ab47f7",
     "title": "Apple is enforcing an old App Store rule against a new kind of software",
     "summary": "Article URL: https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code Comments URL: https://news.ycombinator.com/item?id=48042099 Points: 13 # Comments: 2",
@@ -106,6 +214,30 @@
     "published": "2026-05-06T21:21:45+00:00",
     "fetched": "2026-05-06T22:25:42+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2213198ae792cd65",
+    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+    "summary": "Trump forced to admit Biden was right on AI safety testing.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T21:20:14+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194583448-1024x648.jpg"
+  },
+  {
+    "id": "7492a04a3bc46b21",
+    "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition Comments URL: https://news.ycombinator.com/item?id=48041953 Points: 26 # Comments: 3",
+    "url": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T21:14:30+00:00",
+    "fetched": "2026-05-06T23:28:32+00:00",
+    "image": "https://i.guim.co.uk/img/media/7462bde6518a5d70751171c6c3dc99b92c5c0f87/688_443_3711_2971/master/3711.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e19476b2d747e21c6672778c233315d"
   },
   {
     "id": "c7d46ad5d61b1401",
@@ -214,6 +346,18 @@
     "published": "2026-05-06T19:59:00+00:00",
     "fetched": "2026-05-06T21:15:27+00:00",
     "image": "https://i.lb.ua/news/019/52/69fb9d939e4cb.jpg"
+  },
+  {
+    "id": "16f1c5012bfad68a",
+    "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+    "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+    "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T19:58:04+00:00",
+    "fetched": "2026-05-06T23:28:31+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1a/live/fc55db50-4981-11f1-b768-41eba02d8af8.jpg"
   },
   {
     "id": "7147acd2ba1d9266",
@@ -538,6 +682,18 @@
     "published": "2026-05-06T17:39:00+00:00",
     "fetched": "2026-05-06T21:15:27+00:00",
     "image": "https://i.lb.ua/news/027/28/69fb7b60b2630.jpg"
+  },
+  {
+    "id": "727ee83b7795b576",
+    "title": "Trump's hopes for an Iran peace deal come with caveats",
+    "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+    "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-06T17:32:04+00:00",
+    "fetched": "2026-05-06T23:28:31+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e05/live/f0085a00-4970-11f1-bd52-e755d604ece4.jpg"
   },
   {
     "id": "cc6312d21c7d0af1",
