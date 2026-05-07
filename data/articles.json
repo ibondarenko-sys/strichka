@@ -1,5 +1,53 @@
 [
   {
+    "id": "242159d1d5072f45",
+    "title": "США завдали ударів по Ірану: у Тегерані заявили про \"порушення перемир'я\"",
+    "summary": "США атакували порти в Ірані — порушення перемир'я, удари по есмінцях і реакція країн.",
+    "url": "https://www.pravda.com.ua/news/2026/05/08/8033712/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T22:56:00+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/824512/dc8f6caf997eeeabb0ef86f66089b4b8.jpeg"
+  },
+  {
+    "id": "db96a511ab040a5d",
+    "title": "Чотири країни ЄС пропустять літак прем'єра Словаччини Фіцо до Москви",
+    "summary": "Мандрівка на поклон до диктатора буде дуже тривалою.",
+    "url": "https://lb.ua/world/2026/05/08/736973_chotiri_krayini_ies_propustyat.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T22:48:00+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://i.lb.ua/news/093/60/69fd15e7bc46d.jpg"
+  },
+  {
+    "id": "b6cf20c71eba56fa",
+    "title": "OpenClaw Had a Rough Week",
+    "summary": "Article URL: https://openclaw.ai/blog/openclaw-rough-week Comments URL: https://news.ycombinator.com/item?id=48056003 Points: 12 # Comments: 4",
+    "url": "https://openclaw.ai/blog/openclaw-rough-week",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T22:33:11+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://openclaw.ai/og-image.png"
+  },
+  {
+    "id": "2565e1ef50b0a6f3",
+    "title": "Кремль почав вимагати виведення ЗСУ з Донбасу для продовження переговорів",
+    "summary": "У Москві висунули ультиматум для наступних тристоронніх зустрічей.",
+    "url": "https://lb.ua/society/2026/05/08/736971_kreml_pochav_vimagati_vivedennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T22:12:00+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://i.lb.ua/news/117/61/69fd0d9034f4a.jpg"
+  },
+  {
     "id": "9a68d5230b058a0c",
     "title": "Міноборони: Україна та Швеція працюють над посиленням авіації та протиповітряної оборони",
     "summary": "Готується укладання контрактів на постачання літаків Gripen.",
@@ -34,6 +82,18 @@
     "published": "2026-05-07T21:42:00+00:00",
     "fetched": "2026-05-07T22:05:13+00:00",
     "image": "https://i.lb.ua/news/070/24/69fd076d1639e.jpg"
+  },
+  {
+    "id": "fb6652a9398ab7d6",
+    "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+    "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T21:35:01+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2238676352-1024x648.jpg"
   },
   {
     "id": "19d3bee78ff4a997",
@@ -156,6 +216,18 @@
     "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/67gFbQxsEORTbYLfA9aiYJ/fa428c2991093073e8ca03a4bbef94e3/dark.png"
   },
   {
+    "id": "7bb2ad3d5b1dcc64",
+    "title": "Draw Marc Andreessen on an Egg",
+    "summary": "Article URL: https://eieio.games/blog/marc-andreessen-egg-game/ Comments URL: https://news.ycombinator.com/item?id=48054293 Points: 51 # Comments: 13",
+    "url": "https://eieio.games/blog/marc-andreessen-egg-game/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T20:15:33+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://eieio.games/images/marc-andreessen-egg-game/og-image.png"
+  },
+  {
     "id": "5e55bcea4704a4ab",
     "title": "Valverde taken to hospital after alleged incident with Tchouameni",
     "summary": "An incident involving team-mates Federico Valverde and Aurelien Tchouameni threatens to overshadow one of Real Madrid's biggest matches of the season.",
@@ -250,6 +322,18 @@
     "published": "2026-05-07T19:39:22+00:00",
     "fetched": "2026-05-07T20:48:46+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "643b8c5b0449964a",
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 25 # Comments: 4",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T19:38:36+00:00",
+    "fetched": "2026-05-07T23:28:33+00:00",
+    "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/AI.jpg"
   },
   {
     "id": "5d6c1129e141e8bd",
