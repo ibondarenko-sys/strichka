@@ -1,5 +1,113 @@
 [
   {
+    "id": "39da7a6e615d3fc8",
+    "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
+    "summary": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mass migration, in a new counter-terrorism…",
+    "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-07T00:55:36+00:00",
+    "fetched": "2026-05-07T01:19:04+00:00",
+    "image": "https://i.guim.co.uk/img/media/8500e4162631c3db6ca2f4b65b393fff3c808e42/456_0_3352_2683/master/3352.jpg?width=140&quality=85&auto=format&fit=max&s=5b6514df4d509c375439a486e876de2f"
+  },
+  {
+    "id": "2b2799a343777181",
+    "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+    "summary": "Article URL: https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/ Comments URL: https://news.ycombinator.com/item?id=48044022 Points: 6 # Comments: 1",
+    "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T00:47:15+00:00",
+    "fetched": "2026-05-07T01:19:06+00:00",
+    "image": null
+  },
+  {
+    "id": "21b3029977e749ea",
+    "title": "German tourist wins payout after losing sun lounger race",
+    "summary": "The man sued his tour operator for allowing people to reserve sun loungers with towels despite a hotel ban on the practice.",
+    "url": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-07T00:41:21+00:00",
+    "fetched": "2026-05-07T01:19:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3777/live/2bcbe410-49a5-11f1-bda3-292dfcf82c73.jpg"
+  },
+  {
+    "id": "ae67032d2602a7fa",
+    "title": "Британці у четвер обиратимуть два парламенти і шість мерів",
+    "summary": "У Сполученому Королівстві день найбільших виборів після приходу до влади лейбористів.",
+    "url": "https://lb.ua/world/2026/05/07/736815_britantsi_chetver_obiratimut_dva.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T00:33:00+00:00",
+    "fetched": "2026-05-07T01:19:05+00:00",
+    "image": "https://i.lb.ua/news/042/00/69fbde28d4221.jpg"
+  },
+  {
+    "id": "2f54ee9c8da42ff4",
+    "title": "They don't look like me",
+    "summary": "Article URL: https://niccolorastrelli.com/they-dont-look-like-me Comments URL: https://news.ycombinator.com/item?id=48043866 Points: 12 # Comments: 2",
+    "url": "https://niccolorastrelli.com/they-dont-look-like-me",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T00:29:21+00:00",
+    "fetched": "2026-05-07T01:19:06+00:00",
+    "image": null
+  },
+  {
+    "id": "17f550a086a363dc",
+    "title": "Iran hit more U.S. military targets than has been reported, satellite images",
+    "summary": "Article URL: https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/ Comments URL: https://news.ycombinator.com/item?id=48043736 Points: 51 # Comments: 17",
+    "url": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T00:16:37+00:00",
+    "fetched": "2026-05-07T01:19:06+00:00",
+    "image": null
+  },
+  {
+    "id": "770f3d6a43d35d1e",
+    "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+    "summary": "Article URL: https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/ Comments URL: https://news.ycombinator.com/item?id=48043706 Points: 9 # Comments: 2",
+    "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T00:12:23+00:00",
+    "fetched": "2026-05-07T01:19:06+00:00",
+    "image": "https://wp.harpers.org/wp-content/uploads/2026/03/CUT-8-1-972x1124.jpg"
+  },
+  {
+    "id": "682acca1ab2fd865",
+    "title": "Musk’s biggest loyalist became his biggest liability",
+    "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T23:37:02+00:00",
+    "fetched": "2026-05-07T01:19:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "17082de1022f5e75",
+    "title": "Іран розглядає \"меморандум про взаєрозуміння\" зі США із 14 пунктів",
+    "summary": "Документ може стати основою для завершення війни на Близькому Сході.",
+    "url": "https://lb.ua/world/2026/05/07/736813_iran_rozglyadaie_memorandum_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-06T23:27:00+00:00",
+    "fetched": "2026-05-07T01:19:05+00:00",
+    "image": "https://i.lb.ua/news/118/61/69fbce15823ab.jpg"
+  },
+  {
     "id": "c901b923cb17c112",
     "title": "Трамп затвердив нову контртерористичну стратегію США: фокус на Ірані, картелях та ліворадикалах",
     "summary": "Адміністрація президента США Дональда Трампа оприлюднила нову контртерористичну стратегію США на 2026 рік, у якій головними загрозами для безпеки назвала наркокартелі, ісламістів і радикальні політичні угруповання.",
@@ -418,6 +526,18 @@
     "published": "2026-05-06T19:09:00+00:00",
     "fetched": "2026-05-06T19:53:07+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/823687/c3280986ce993949adddf175a543042b.jpeg"
+  },
+  {
+    "id": "1248b08ff543b109",
+    "title": "Programming Still Sucks",
+    "summary": "Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp Comments URL: https://news.ycombinator.com/item?id=48040269 Points: 65 # Comments: 15",
+    "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-06T19:06:41+00:00",
+    "fetched": "2026-05-07T01:19:06+00:00",
+    "image": null
   },
   {
     "id": "84e353fda27c5063",
