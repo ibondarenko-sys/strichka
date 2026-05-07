@@ -1,5 +1,125 @@
 [
   {
+    "id": "9a68d5230b058a0c",
+    "title": "Міноборони: Україна та Швеція працюють над посиленням авіації та протиповітряної оборони",
+    "summary": "Готується укладання контрактів на постачання літаків Gripen.",
+    "url": "https://lb.ua/news/2026/05/08/736967_minoboroni_ukrayina_shvetsiya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T21:56:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://i.lb.ua/news/098/51/69fd0a045a1c9.jpg"
+  },
+  {
+    "id": "e96ef2ff2b30370e",
+    "title": "Трамп каже, що дав ЄС час до 4 липня для реалізації торгової угоди із США",
+    "summary": "Трамп вимагав скасування мит ЄС на американську продукцію до 4 липня, інакше мита зростуть.",
+    "url": "https://www.pravda.com.ua/news/2026/05/08/8033711/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T21:50:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/8/824505/68e5b74ec41fea95a5a25ce6dbf12452.jpeg"
+  },
+  {
+    "id": "f4f5cc2e3ea79bf0",
+    "title": "У Бухаресті зійшов з рейок трамвай, постраждали пасажири",
+    "summary": "Причина інциденту залишається нез'ясованою.",
+    "url": "https://lb.ua/world/2026/05/08/736969_buharesti_ziyshov_z_reyok.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T21:42:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://i.lb.ua/news/070/24/69fd076d1639e.jpg"
+  },
+  {
+    "id": "19d3bee78ff4a997",
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "summary": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group…",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T21:29:27+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "207e300d4afedf38",
+    "title": "ВАКС продовжив строк дії обов'язків для Юлії Тимошенко",
+    "summary": "Процесуальні обов'язки діють до 7 липня.",
+    "url": "https://lb.ua/news/2026/05/08/736965_vaks_prodovzhiv_strok_diyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T21:25:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://i.lb.ua/news/012/58/69fd033b98ed6.jpg"
+  },
+  {
+    "id": "65c4fd4ea59a2358",
+    "title": "Five killed in huge fire at packed Mexico fairground",
+    "summary": "The blaze in the south-eastern city of Villahermosa erupted during a concert reportedly attended by some 135,000 people.",
+    "url": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-07T21:08:35+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c67f/live/953941c0-4a51-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
+    "id": "7ceb7e1d3745b375",
+    "title": "Ліга конференцій: \"Шахтар\" завершив єврокубковий сезон поразкою у півфіналі",
+    "summary": "Дива у Лондоні не сталося, але \"гірники\" мають чим пишатися.",
+    "url": "https://lb.ua/sport/2026/05/08/736963_liga_konferentsiy_shahtar.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T21:08:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://i.lb.ua/news/033/42/69fcfed9dbd5c.jpg"
+  },
+  {
+    "id": "aec26757e2a50a1a",
+    "title": "Trump gives 4 July ultimatum to EU to approve trade deal with US",
+    "summary": "The US president said the European Union must enact the trade deal agreed last year and drop tariffs on American goods to zero.",
+    "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-07T20:57:17+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a75/live/be129770-4a4e-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
+    "id": "96991ca0557cfd3a",
+    "title": "Головне за четвер, 7 травня: майже 160 боєзіткнень, ураження \"Каракурта\", перемовини в Маямі",
+    "summary": "Бойові дії на Донеччині, 156 бойових зіткнень, ворожі обстріли, бомбардування Краматорська. Яким запам’ятається 1534-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/07/736962_golovne_chetver_7_travnya_mayzhe.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T20:57:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://i.lb.ua/news/069/42/69fcfd0147d2d.jpg"
+  },
+  {
+    "id": "e1ca60ab6fa02c1c",
+    "title": "Трамп заявив про дедлайн Європейському Союзу для ратифікації торговельної угоді зі США",
+    "summary": "Він встановив новий термін після розмови з президенткою Єврокомісії Урсулою фон дер Ляєн.",
+    "url": "https://lb.ua/world/2026/05/07/736961_tramp_zayaviv_pro_dedlayn.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-07T20:57:00+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://i.lb.ua/news/107/13/69fcfca873d49.jpg"
+  },
+  {
     "id": "25203ec864723fe4",
     "title": "У Краматорську надзвичайники врятували з-під завалів жінку після російського авіаудару",
     "summary": "У Краматорську рятувальники врятували жінку з-під уламків будинку після російського авіаудару по житловій забудові міста.",
@@ -130,6 +250,18 @@
     "published": "2026-05-07T19:39:22+00:00",
     "fetched": "2026-05-07T20:48:46+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "5d6c1129e141e8bd",
+    "title": "Creating for a niche",
+    "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche Comments URL: https://news.ycombinator.com/item?id=48053770 Points: 7 # Comments: 0",
+    "url": "https://www.davesnider.com/posts/working-in-a-niche",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T19:32:33+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://files.davesnider.com/2026MAY/p4K8ox2SKaY6UtNw.png"
   },
   {
     "id": "f2e97fcb0ae04d06",
@@ -466,6 +598,18 @@
     "published": "2026-05-07T17:40:00+00:00",
     "fetched": "2026-05-07T19:19:08+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/1/824418/d10896fbc359fd5db3639914df46cddb.jpeg"
+  },
+  {
+    "id": "8a0a8c798de181fd",
+    "title": "Show HN: Full Python GUI apps in the browser – no JavaScript, no server",
+    "summary": "I have been working on Dear ImGui Bundle since 2022, but it is the first time I talk about it here. It is a framework around Dear ImGui for building interactive applications in Python and C++. It comes with batteries included: Plotting, image inspection, Markdown, node editors,…",
+    "url": "https://github.com/pthom/imgui_bundle",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T17:36:26+00:00",
+    "fetched": "2026-05-07T22:05:13+00:00",
+    "image": "https://repository-images.githubusercontent.com/510787453/7ea2dd10-1f1a-44c0-8468-be663ff24e5d"
   },
   {
     "id": "d69102e904f3ae9a",
