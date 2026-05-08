@@ -1,5 +1,149 @@
 [
   {
+    "id": "cf6c1cdadc63ef79",
+    "title": "Asus chases Elgato with its own secondary touchscreen display",
+    "summary": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 Asus ROG Zephyrus Duo…",
+    "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T20:34:24+00:00",
+    "fetched": "2026-05-08T20:35:38+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "32740981cf7cd395",
+    "title": "Amazon is adding a vertical video feed to Prime Video",
+    "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump into the full title, rent, or buy it. Prime Video previously…",
+    "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T20:19:57+00:00",
+    "fetched": "2026-05-08T20:35:38+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/clips-prime-video.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0a52f6b843421b0c",
+    "title": "Генштаб повідомив про дві сотні бойових дій від початку доби",
+    "summary": "Від початку доби 8 травня на фронті відбулось 200 бойових зіткнень.",
+    "url": "https://www.pravda.com.ua/news/2026/05/08/8033896/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T20:06:00+00:00",
+    "fetched": "2026-05-08T20:35:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/b/825270/fbd2584ef279afce0adee67744d24f25.jpeg"
+  },
+  {
+    "id": "7da2c7123299a9e0",
+    "title": "На Львівщині виявили тіло 11-річного хлопчика з ножовим пораненням",
+    "summary": "За попередніми даними, причиною смерті стала колото-різана рана.",
+    "url": "https://lb.ua/society/2026/05/08/737161_lvivschini_viyavili_tilo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T20:06:00+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": "https://i.lb.ua/news/061/00/69fe42699dfe9.jpg"
+  },
+  {
+    "id": "6727a2701c9019f3",
+    "title": "Discord Incident",
+    "summary": "Article URL: https://discordstatus.com Comments URL: https://news.ycombinator.com/item?id=48067870 Points: 10 # Comments: 2",
+    "url": "https://discordstatus.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:52:06+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": null
+  },
+  {
+    "id": "02178da40f9f949a",
+    "title": "Let’s Encrypt – Stopping Issuance for Potential Incident",
+    "summary": "Article URL: https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3 Comments URL: https://news.ycombinator.com/item?id=48067790 Points: 88 # Comments: 44",
+    "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:45:28+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": null
+  },
+  {
+    "id": "bb2ec84744a130b1",
+    "title": "Course correction: Google to link more sources in AI Overviews",
+    "summary": "Google's AI search will start citing its sources in several new ways.",
+    "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:43:47+00:00",
+    "fetched": "2026-05-08T20:35:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-Overview-hero-1152x648.jpg"
+  },
+  {
+    "id": "0f2f0fd5cbf349eb",
+    "title": "Roadside Attraction",
+    "summary": "Article URL: https://theoffingmag.com/essay/roadside-attraction/ Comments URL: https://news.ycombinator.com/item?id=48067764 Points: 4 # Comments: 0",
+    "url": "https://theoffingmag.com/essay/roadside-attraction/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:43:04+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": "https://theoffingmag.com/wp-content/uploads/2026/05/gabriel-tovar-zn64cXlPGKY-unsplash-scaled.jpg"
+  },
+  {
+    "id": "d3bfd2271913399f",
+    "title": "Франція затримала одного з катів донецької тюрми за вчинення воєнних злочинів в Україні",
+    "summary": "Встановлено щонайменше дев'ятьох потерпілих.",
+    "url": "https://lb.ua/society/2026/05/08/737159_frantsiya_zatrimala_z_kativ.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T19:43:00+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": "https://i.lb.ua/news/042/35/69fe3ce1050d0.jpg"
+  },
+  {
+    "id": "4d1b5d445ddff162",
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html Comments URL: https://news.ycombinator.com/item?id=48067734 Points: 10 # Comments: 2",
+    "url": "https://ze3tar.github.io/post-zcrx.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:40:39+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": null
+  },
+  {
+    "id": "bde0518314680cf6",
+    "title": "My first in-prod corrupted hard drive problem",
+    "summary": "Article URL: https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/ Comments URL: https://news.ycombinator.com/item?id=48067686 Points: 9 # Comments: 6",
+    "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:35:36+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": null
+  },
+  {
+    "id": "acaf0ae76c9a64f5",
+    "title": "Court rules Trump's 10% tariff is just as illegal as the tariff it replaced",
+    "summary": "Trump's vow to impose tariffs a \"different way\" already has the tech industry on edge.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T19:25:30+00:00",
+    "fetched": "2026-05-08T20:35:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2262155843-1024x648.jpg"
+  },
+  {
     "id": "dae0da90dfc2ec19",
     "title": "200 бойових зіткнень відбулось на фронті від початку доби",
     "summary": "Найбільше атак зафіксовано на Покровському напрямку",
@@ -154,6 +298,18 @@
     "published": "2026-05-08T18:38:00+00:00",
     "fetched": "2026-05-08T19:26:19+00:00",
     "image": "https://i.lb.ua/news/089/43/69fe2daf83a51.jpg"
+  },
+  {
+    "id": "847da0c595b31c81",
+    "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+    "summary": "Across the country, schools and colleges postpone year-end tests.",
+    "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T18:33:48+00:00",
+    "fetched": "2026-05-08T20:35:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2192144566-1152x648.jpg"
   },
   {
     "id": "0339cb7ed207f04b",
@@ -634,6 +790,18 @@
     "published": "2026-05-08T16:18:00+00:00",
     "fetched": "2026-05-08T17:44:23+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/825092/61f955a8af9f6a69e9a109e6e55b1354.jpeg"
+  },
+  {
+    "id": "398657f752339c35",
+    "title": "Show HN: GETadb.com – every GET request creates a DB",
+    "summary": "Hey HN! We made GETadb.com, so it's easier to get agents to build you full stack apps. You don't need to give them any credentials. Just by loading a GET request, they get access to a database, a sync engine, and abstractions for auth, presence, and streams. To see what the…",
+    "url": "https://www.getadb.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T16:17:37+00:00",
+    "fetched": "2026-05-08T20:35:39+00:00",
+    "image": null
   },
   {
     "id": "82b2ad5a7a73952f",
