@@ -1,5 +1,101 @@
 [
   {
+    "id": "7c25d1c77187bdbd",
+    "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+    "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+    "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-08T04:28:00+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/27fe0690-4a7e-11f1-b55d-0f258dce1735.jpg"
+  },
+  {
+    "id": "4787aa74932f632d",
+    "title": "World Cup fans in China and India face broadcast uncertainty",
+    "summary": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
+    "url": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-08T04:10:45+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cdf/live/88882360-4a92-11f1-8003-0be2843e54d1.jpg"
+  },
+  {
+    "id": "353bfca9cff62f40",
+    "title": "ЗСУ знешкодили ще 1130 окупантів, 91 артсистему та 5 засобів ППО ворога за добу",
+    "summary": "Загальні втрати армії РФ з початку війни становлять 1 339 190 осіб, за добу знищено 1130 військових.",
+    "url": "https://www.pravda.com.ua/news/2026/05/08/8033717/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T03:47:00+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/b/824530/4b90ef3fab022009a46145662f51da7e.jpeg"
+  },
+  {
+    "id": "ea82c2a0eb26f9ac",
+    "title": "US to revoke passports of parents with child support debt",
+    "summary": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
+    "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-08T02:57:48+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3227/live/f31e8c40-4a84-11f1-9818-3fa54dec657e.jpg"
+  },
+  {
+    "id": "07066f7aa8dcdea9",
+    "title": "У штаб-квартирі партії прем'єра Нідерландів стався потужний вибух",
+    "summary": "У штаб-квартирі партії D66 в Гаазі стався вибух, поліція оперативно затримала підозрюваного. Постраждалих немає.",
+    "url": "https://www.pravda.com.ua/news/2026/05/08/8033716/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T02:38:00+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/824525/4e4a6def8c449907ba410b69b43092af.jpeg"
+  },
+  {
+    "id": "de89a6157686ab19",
+    "title": "Співачку Бонні Тайлер ввели у штучну кому після термінової операції",
+    "summary": "74-річна зірка планувала тур європейськими країнами.",
+    "url": "https://lb.ua/culture/2026/05/08/736981_spivachku_bonni_tayler_vveli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T02:27:00+00:00",
+    "fetched": "2026-05-08T04:39:55+00:00",
+    "image": "https://i.lb.ua/news/001/28/69fd40b457ae6.jpg"
+  },
+  {
+    "id": "d31d62cff473338c",
+    "title": "DeepState: Росіяни просунулися на Дніпропетровщині та Донеччині",
+    "summary": "DeepState повідомляє про російське просування біля Горіхового та Філії за минулу добу.",
+    "url": "https://www.pravda.com.ua/news/2026/05/08/8033715/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T01:38:00+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/a/824524/4ac2990a962e7bce9517c5d8ec2c18ce.jpeg"
+  },
+  {
+    "id": "e56c1c37a1526384",
+    "title": "В офісі партії прем'єра Нідерландів стався вибух",
+    "summary": "Інцидент був радше хуліганством, ніж терактом, але викликав чималий резонанс.",
+    "url": "https://lb.ua/world/2026/05/08/736979_ofisi_partiyi_premiera.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-08T01:26:00+00:00",
+    "fetched": "2026-05-08T04:39:55+00:00",
+    "image": "https://i.lb.ua/news/026/47/69fd3bd7d5d82.jpg"
+  },
+  {
     "id": "367187ffcca3fcf5",
     "title": "Трамп заявив, що перемир'я США з Іраном все ще продовжується",
     "summary": "Трамп заявив: перемир'я з Іраном триває. США погрожують жорсткою відповіддю у разі зриву угоди.",
@@ -22,6 +118,30 @@
     "published": "2026-05-08T00:26:00+00:00",
     "fetched": "2026-05-08T01:20:22+00:00",
     "image": "https://i.lb.ua/news/122/53/69fd2bd83c805.jpg"
+  },
+  {
+    "id": "dd2b333b13bcdf59",
+    "title": "Komai: a fine Matrix chat app you can get to love",
+    "summary": "Article URL: https://etke.cc/blog/introducing-komai Comments URL: https://news.ycombinator.com/item?id=48056804 Points: 31 # Comments: 12",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T00:10:44+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://etke.cc/img/komai/main-view.webp"
+  },
+  {
+    "id": "cf4368737d222e36",
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up Comments URL: https://news.ycombinator.com/item?id=48056749 Points: 40 # Comments: 15",
+    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T00:03:38+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": "https://repository-images.githubusercontent.com/824707729/6c1c05bd-59f2-4874-af77-31faee285f2a"
   },
   {
     "id": "635180010dbaf78c",
@@ -346,6 +466,18 @@
     "published": "2026-05-07T20:23:37+00:00",
     "fetched": "2026-05-07T20:48:47+00:00",
     "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/67gFbQxsEORTbYLfA9aiYJ/fa428c2991093073e8ca03a4bbef94e3/dark.png"
+  },
+  {
+    "id": "b31f0bd8afcdaa1a",
+    "title": "Cloudflare to cut about 20% workforce",
+    "summary": "https://blog.cloudflare.com/building-for-the-future/ Comments URL: https://news.ycombinator.com/item?id=48054423 Points: 377 # Comments: 228",
+    "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-07T20:23:37+00:00",
+    "fetched": "2026-05-08T04:39:54+00:00",
+    "image": null
   },
   {
     "id": "7bb2ad3d5b1dcc64",
