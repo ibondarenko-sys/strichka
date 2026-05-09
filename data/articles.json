@@ -1,5 +1,101 @@
 [
   {
+    "id": "acd2c57940a47488",
+    "title": "Генерал Бундесверу: Росія залишається найбільшою загрозою для безпеки в Європі",
+    "summary": "Вольф-Юрґен Шталь заявив, що Німеччина має посилювати власну обороноздатність для запобігання відкритому військовому конфлікту, передусім із Росією.",
+    "url": "https://lb.ua/world/2026/05/09/737336_general_bundesveru_rosiya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T20:55:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://i.lb.ua/news/038/21/69ff9f139b8a8.jpg"
+  },
+  {
+    "id": "e1ba902d5a786404",
+    "title": "7 корпус: Росіяни розширюють присутність у Покровську, заводять 90 танкову дивізію",
+    "summary": "Росіяни накопичують війська і техніку в Покровську, планують наступ. Фіксують 90 танкову дивізію РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8034011/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T20:35:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/825864/5363208e880e31a4b5de4c7c70e7ceff.jpeg"
+  },
+  {
+    "id": "c1ef3c2352ab7b01",
+    "title": "Монумент «Батьківщина-мати» підсвітили в кольори прапору ЄС",
+    "summary": "У церемонії також взяв участь хлопчик Роман Олексів, який вижив після ракетного удару по Вінниці 14 липня 2022 року.",
+    "url": "https://lb.ua/kyiv/2026/05/09/737332_monument_batkivschina-mati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T20:34:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://i.lb.ua/news/126/28/69ff9a7590e7b.jpg"
+  },
+  {
+    "id": "df51193912ab9896",
+    "title": "Ворог завдав удару БпЛА по будинку в Харкові, є постраждалі (оновлено)",
+    "summary": "«Прильот» зафіксовано в технічний поверх дев'ятиповерхового житлолвого будинку.",
+    "url": "https://lb.ua/society/2026/05/09/737330_vorog_zavdav_udaru_bpla_budinku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T20:22:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://i.lb.ua/news/033/40/69ff979d823bc.jpg"
+  },
+  {
+    "id": "e504d3e0554cba9d",
+    "title": "У Львові чоловік, побачивши ТЦК, взяв дівчинку в заручники: нападника затримали",
+    "summary": "У Львові чоловік, побачивши військовослужбовців ТЦК, розпилив сльозогінний газ і взяв дівчинку в заручники, її вдалося звільнити, а зловмисника затримати.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8034010/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T20:10:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/825851/3f0d68b5164c67d08c343b75c09e0e74.jpeg"
+  },
+  {
+    "id": "5e10dae8bcf00ed0",
+    "title": "У Чорнобильській зоні через пожежу зафіксували підвищення концентрації цезію-137 у повітрі, втім для людей небезпеки немає",
+    "summary": "Перевищення допустимих концентрацій цезію-137 у атмосферному повітрі для населення за межами Чорнобильської зони відчуження не очікується.",
+    "url": "https://lb.ua/society/2026/05/09/737328_chornobilskiy_zoni_cherez.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T19:59:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://i.lb.ua/news/028/54/69ff92a2c782e.jpg"
+  },
+  {
+    "id": "7363e9d16081f9ca",
+    "title": "Росіяни атакували 9-поверхівку в Харкові: є постраждалі, з них двоє дітей",
+    "summary": "Увечері 9 травня, під час дії так званого \"перемир'я\", російські війська завдали удару БпЛА по Індустріальному району Харкова, є влучання в дев'ятиповерховий будинок, постраждали 5 людей, серед них двоє 8-річних хлопчиків.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8034009/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T19:56:00+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/825841/ff209855fd13a8c3a8b0d05dc3eb0b0b.jpeg"
+  },
+  {
+    "id": "bfaa35621ad2208a",
+    "title": "Lebanon says Israeli strikes killed 39",
+    "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+    "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-09T19:49:49+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014d/live/7398ef90-4bc1-11f1-8bbe-110a0d5a715a.jpg"
+  },
+  {
     "id": "158eb1c8e1da5968",
     "title": "У Латвії 9 травня відкрили десятки адмінпроваджень через символіку прославляння агресії",
     "summary": "",
@@ -70,6 +166,18 @@
     "published": "2026-05-09T19:19:00+00:00",
     "fetched": "2026-05-09T19:58:32+00:00",
     "image": "https://i.lb.ua/news/072/62/69ff88e2edd27.jpg"
+  },
+  {
+    "id": "5a7381d3240a127f",
+    "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
+    "summary": "Article URL: https://www.copahost.com/blog/dirty-frag-cve-2026-43284/ Comments URL: https://news.ycombinator.com/item?id=48077314 Points: 15 # Comments: 6",
+    "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T18:59:49+00:00",
+    "fetched": "2026-05-09T20:56:55+00:00",
+    "image": "https://www.copahost.com/blog/wp-content/uploads/2026/05/5d4732c7-b95e-4aed-ad5a-dc6fb11a1cbe.png"
   },
   {
     "id": "96b5e675c5a10313",
