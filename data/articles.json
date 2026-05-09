@@ -1,5 +1,29 @@
 [
   {
+    "id": "9dcdd1af1d0ab8d7",
+    "title": "КВІР пригрозив США \"масованою атакою\" на американську базу за удари по іранських суднах",
+    "summary": "КВІР заявив, що вдарить по американській базі за атаки на іранські судна.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034015/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T23:24:00+00:00",
+    "fetched": "2026-05-09T23:54:52+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/825868/743f5628caf20269bb1c65830c0e11e1.jpeg"
+  },
+  {
+    "id": "7c8fe11c6506ef85",
+    "title": "User just tricked Grok and Bankrbot to send tokens with Morse code",
+    "summary": "Article URL: https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/ Comments URL: https://news.ycombinator.com/item?id=48079114 Points: 4 # Comments: 0",
+    "url": "https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T23:00:56+00:00",
+    "fetched": "2026-05-09T23:54:52+00:00",
+    "image": "https://www.cryptopolitan.com/wp-content/uploads/2026/05/User-just-tricked-Grok-and-Bankrbot-to-send-tokens-with-Morse-code.webp"
+  },
+  {
     "id": "3367b96fcdd73237",
     "title": "Представники США зустрілися з прем’єром Катару на тлі переговорів щодо мирної угоди з Іраном – ЗМІ",
     "summary": "За даними видань Axios і CNN, спеціальний посланець США Стів Віткофф і держсекретар Марко Рубіо зустрілися в суботу в Маямі з прем'єр-міністром Катару шейхом Мохаммедом бін Абдулрахманом Аль Тані на тлі очікувань відповіді Ірану щодо подальших переговорів.",
@@ -10,6 +34,18 @@
     "published": "2026-05-09T22:26:00+00:00",
     "fetched": "2026-05-09T22:54:20+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/825867/b5d8308fa72400bd171024058b641168.jpeg"
+  },
+  {
+    "id": "5f44bb216ce3b11e",
+    "title": "France Moves to Break Encrypted Messaging",
+    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging Comments URL: https://news.ycombinator.com/item?id=48078811 Points: 24 # Comments: 6",
+    "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T22:14:35+00:00",
+    "fetched": "2026-05-09T23:54:52+00:00",
+    "image": "https://reclaimthenet.org/wp-content/uploads/2026/05/6M0h4AJN7yyk-scaled.jpg"
   },
   {
     "id": "b634e82cfec72a22",
@@ -286,6 +322,18 @@
     "published": "2026-05-09T19:19:00+00:00",
     "fetched": "2026-05-09T19:58:32+00:00",
     "image": "https://i.lb.ua/news/072/62/69ff88e2edd27.jpg"
+  },
+  {
+    "id": "e3e5474bc417efe4",
+    "title": "Surfel-based global illumination on the web",
+    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/ Comments URL: https://news.ycombinator.com/item?id=48077395 Points: 3 # Comments: 0",
+    "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T19:09:34+00:00",
+    "fetched": "2026-05-09T23:54:52+00:00",
+    "image": "https://juretriglav.si/assets/surfel-webgpu-gi/cover.png"
   },
   {
     "id": "5a7381d3240a127f",
