@@ -1,5 +1,137 @@
 [
   {
+    "id": "30f3baec5d6c3b90",
+    "title": "Окупанти завдали 738 ударів по населених пунктах Запорізької області, є поранені",
+    "summary": "Унаслідок російського терору постраждали двоє людей.",
+    "url": "https://lb.ua/society/2026/05/09/737189_okupanti_zavdali_738_udariv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T04:43:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://i.lb.ua/news/054/43/69febb6ed84cf.jpg"
+  },
+  {
+    "id": "5a958d2d678463f3",
+    "title": "Сили оборони за минулу добу ліквідували ще 1080 російських окупантів",
+    "summary": "З початку повномасштабного вторгнення РФ в Україні втратила вже близько 1 340 270 солдатів.",
+    "url": "https://lb.ua/society/2026/05/09/737187_sili_oboroni_minulu_dobu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T04:34:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://i.lb.ua/news/044/18/69feb9687cc94.jpg"
+  },
+  {
+    "id": "d7a04e8fc5977df9",
+    "title": "Спецпредставник Трампа вже у травні відвідає Гренландію – ЗМІ",
+    "summary": "Посланець Трампа Джефф Лендрі відвідає Гренландію у травні для участі у бізнес-конференції Future Greenland.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8033913/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T04:26:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/5/825317/75704c6b0d0cf1ac4904ef3d2629aa76.jpeg"
+  },
+  {
+    "id": "dc7e2e6ffea3b1cb",
+    "title": "ЗСУ знешкодили ще 1080 окупантів, 82 артсистеми ворога за добу",
+    "summary": "Сили оборони України ліквідували та поранили 1080 окупантів за добу. Загальні втрати армії РФ — 1 340 270 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8033912/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T03:43:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/e/825316/5ed1a9d92d026f69f7ab96817506c7dc.jpeg"
+  },
+  {
+    "id": "4799b5e32ac0380f",
+    "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+    "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml Comments URL: https://news.ycombinator.com/item?id=48071496 Points: 29 # Comments: 15",
+    "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T03:21:06+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": null
+  },
+  {
+    "id": "9d4fab54d6c64a26",
+    "title": "США та Іран можуть відновити переговори – WSJ",
+    "summary": "США та Іран готують переговори за участю посередників щодо припинення війни і ядерної програми.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8033911/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T02:32:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/825315/f8908710629f100963a6c61f40d43639.jpeg"
+  },
+  {
+    "id": "d369346d4f8097fb",
+    "title": "Радянське відлуння війни",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/articles/2026/05/09/8033903/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T02:31:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/825297/d0c5d0162408d7f7a6f75414b19c53de.jpeg"
+  },
+  {
+    "id": "5773b543743d9e70",
+    "title": "Радянське відлуння війни",
+    "summary": "Україна та радянське минуле: як вплинула мілітаризація СРСР на війну з Росією, зміни свідомості й пам'ять про \"Батьківщину-мати\".",
+    "url": "https://www.pravda.com.ua/columns/2026/05/09/8033899/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T02:30:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/0/825292/70619b1183324f700b553430ad915f1c.jpeg"
+  },
+  {
+    "id": "f6d308ef33122a31",
+    "title": "США запровадили санкції проти тих, хто сприяв Ірану у виробництві \"шахедів\"",
+    "summary": "У чорному списку 10 комапній та фізичних осіб.",
+    "url": "https://lb.ua/society/2026/05/09/737185_ssha_zaprovadili_sanktsiyi_proti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T02:25:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://i.lb.ua/news/001/27/69fe9408cb70e.jpg"
+  },
+  {
+    "id": "dcdcfb78f2b37e19",
+    "title": "США запровадили санкції проти осіб та компаній, які допомагають Ірану у виробництві \"Шахедів\"",
+    "summary": "Мінфін США запровадив санкції проти 10 осіб і компаній, які допомагали Ірану у виробництві дронів Shahed.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8033910/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T01:38:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/825314/241b459ee4f9e5f26967de401293a52c.jpeg"
+  },
+  {
+    "id": "4b1393abf6231a2f",
+    "title": "Петер Мадяр анонсував святкування свого прем'єрства перед будівлею угорського парламенту",
+    "summary": "Новий голова уряду складе присягу на засіданні у суботу.",
+    "url": "https://lb.ua/world/2026/05/09/737183_peter_madyar_anonsuvav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T01:36:00+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://i.lb.ua/news/089/25/69fe90e744b16.jpg"
+  },
+  {
     "id": "567740844f34f504",
     "title": "Росіяни знищили ферму на Чернігівщині: загинула людина, є поранені",
     "summary": "Унаслідок обстрілу Печенюг 8 травня пошкоджена інфраструктура, є загиблий та двоє поранених — подробиці події.",
@@ -82,6 +214,18 @@
     "published": "2026-05-08T23:32:00+00:00",
     "fetched": "2026-05-09T01:18:53+00:00",
     "image": "https://i.lb.ua/news/033/61/69fe736a89211.jpg"
+  },
+  {
+    "id": "7aab86c81654c38d",
+    "title": "Manufacturing qubits that can move",
+    "summary": "It's hard to mix electronic manufacturing and flexible geometry.",
+    "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T23:13:57+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1726618763-1152x648.jpg"
   },
   {
     "id": "6ec2685a1ef53ba7",
@@ -1186,6 +1330,18 @@
     "published": "2026-05-08T16:24:56+00:00",
     "fetched": "2026-05-08T17:44:23+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/69fc43f3558a5e1ccdefd696_original.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e8cb1ed8277b5556",
+    "title": "Can LLMs model real-world systems in TLA+?",
+    "summary": "Article URL: https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/ Comments URL: https://news.ycombinator.com/item?id=48065254 Points: 53 # Comments: 7",
+    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-08T16:21:56+00:00",
+    "fetched": "2026-05-09T04:51:59+00:00",
+    "image": "https://www.sigops.org/wp-content/uploads/2026/05/sysmobench-1672x941.jpg"
   },
   {
     "id": "8156ee860773b94f",
