@@ -1,5 +1,41 @@
 [
   {
+    "id": "e4ae7be53e99fb12",
+    "title": "На Подолі в Києві бійка між чоловіками переросла у стрілянину",
+    "summary": "Поліція Києва повідомила про стрілянину на Подолі під час бійки.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034013/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T21:30:00+00:00",
+    "fetched": "2026-05-09T21:55:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/825866/f1d3b849175f0e41c94c88aa816b7368.jpeg"
+  },
+  {
+    "id": "5923e672ee650fc6",
+    "title": "Зросла кількість жертв внаслідок російського удару по Мерефі 4 травня – прокуратура",
+    "summary": "У Мерефі на Харківщині зросла кількість жертв російського удару 4 травня.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034012/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T21:10:00+00:00",
+    "fetched": "2026-05-09T21:55:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/825865/73d826ff3ebd7ddc8f982a5cde8170c8.jpeg"
+  },
+  {
+    "id": "d75892f34b912497",
+    "title": "Головне за суботу, 9 травня: понад 120 боєзіткнень, удари по Дніпропетровщині",
+    "summary": "Бойові дії на Донеччині, 121 бойове зіткнення, ворожі обстріли, масштабна пожежа у Чорнобильській зоні відчуження. Яким запам’ятається 1536-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/09/737338_golovne_subotu_9_travnya_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T20:59:00+00:00",
+    "fetched": "2026-05-09T21:55:38+00:00",
+    "image": "https://i.lb.ua/news/049/38/69ffa218c08a7.jpg"
+  },
+  {
     "id": "acd2c57940a47488",
     "title": "Генерал Бундесверу: Росія залишається найбільшою загрозою для безпеки в Європі",
     "summary": "Вольф-Юрґен Шталь заявив, що Німеччина має посилювати власну обороноздатність для запобігання відкритому військовому конфлікту, передусім із Росією.",
@@ -34,6 +70,30 @@
     "published": "2026-05-09T20:34:00+00:00",
     "fetched": "2026-05-09T20:56:55+00:00",
     "image": "https://i.lb.ua/news/126/28/69ff9a7590e7b.jpg"
+  },
+  {
+    "id": "c61cce9c47978173",
+    "title": "FreeBSD: Local Privilege Escalation via Execve()",
+    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc Comments URL: https://news.ycombinator.com/item?id=48077971 Points: 38 # Comments: 21",
+    "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T20:31:21+00:00",
+    "fetched": "2026-05-09T21:55:38+00:00",
+    "image": null
+  },
+  {
+    "id": "f4abe1f1bbe43e3f",
+    "title": "I caught the car",
+    "summary": "Article URL: https://undecidability.net/senior/ Comments URL: https://news.ycombinator.com/item?id=48077966 Points: 15 # Comments: 2",
+    "url": "https://undecidability.net/senior/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T20:31:07+00:00",
+    "fetched": "2026-05-09T21:55:38+00:00",
+    "image": null
   },
   {
     "id": "df51193912ab9896",
