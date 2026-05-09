@@ -1,5 +1,125 @@
 [
   {
+    "id": "6e1721ca67d4abcc",
+    "title": "Путін заявив, що від України нібито не надходило пропозицій щодо обміну полоненими",
+    "summary": "Правитель РФ Володимир Путін на брифінгу ввечері 9 травня заявив, що від української сторони досі не надійшло жодних пропозицій щодо обміну полоненими.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8034002/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T18:22:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/825773/616da744c88f84a02cb905d6aa2fbc96.jpeg"
+  },
+  {
+    "id": "5c46fa20548073c6",
+    "title": "Сьогодні російський дрон атакував спецтранспорт газовиків у Дружківці на Донеччині",
+    "summary": "Газовики прямували на виклик, щоб відновити інфраструктуру.",
+    "url": "https://lb.ua/society/2026/05/09/737318_sogodni_rosiyskiy_dron_atakuvav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T18:15:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://i.lb.ua/news/017/01/69ff79c97f9d9.jpg"
+  },
+  {
+    "id": "e3126187d8317705",
+    "title": "Greece conducts controlled blast of mystery naval drone explosives",
+    "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
+    "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-09T18:00:46+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d93/live/ce4b17d0-4bce-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
+    "id": "2e85680aacd7d849",
+    "title": "В Іспанії суд дозволив владі ввести примусовий карантин для пасажирів судна зі спалахом хантавірусу",
+    "summary": "Таким чином суд підтримав рішення Міністерства охорони здоров’я про примусову ізоляцію пасажирів після їхнього прибуття до країни.",
+    "url": "https://lb.ua/world/2026/05/09/737316_ispaniyi_sud_dozvoliv_vladi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T17:49:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://i.lb.ua/news/066/28/69ff728909369.jpg"
+  },
+  {
+    "id": "21414a7039b583ea",
+    "title": "Апеляція ВАКС постановила стягнути з колишнього голови ДФС Романа Насірова понад 11 млн грн збитків",
+    "summary": "Раніше цього місяця апеляція ВАКС підтвердила 6 років ув'язнення для ексголови ДФС Насірова у \"газовій справі\".",
+    "url": "https://lb.ua/society/2026/05/09/737314_apelyatsiya_vaks_postanovila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T17:33:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://i.lb.ua/news/061/20/69ff6c904948b.jpg"
+  },
+  {
+    "id": "a47228c0379b90de",
+    "title": "Bloomberg: У Європі очікують, що Трамп виведе з континенту ще більше військових США",
+    "summary": "За даними Bloomberg, союзники США в Європі очікують, що американський президент Дональд Трамп виведе з континенту ще більше військ після того, як він оголосив про виведення 5 000 військовослужбовців з Німеччини.",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8033998/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T17:32:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/825734/220918685924cd5cca13a7de46446583.jpeg"
+  },
+  {
+    "id": "fdf9b625d1b334b1",
+    "title": "Zed Editor Theme-Builder",
+    "summary": "Article URL: https://zed.dev/theme-builder Comments URL: https://news.ycombinator.com/item?id=48076651 Points: 10 # Comments: 1",
+    "url": "https://zed.dev/theme-builder",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T17:30:39+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://zed.dev/api/og?title=Theme%20Builder"
+  },
+  {
+    "id": "3cf134beaaf94dbb",
+    "title": "Радник Офісу президента: Зеленський готовий до зустрічі з Путіним будь-де, але не в Москві",
+    "summary": "Раніше сьогодні помічник Путіна Юрій Ушаков знову заявив, що очільник Кремля готовий провести зустріч із Зеленським у Москві.",
+    "url": "https://lb.ua/news/2026/05/09/737310_radnik_ofisu_prezidenta.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T17:16:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://i.lb.ua/news/057/14/69ff6c0dc1f56.jpg"
+  },
+  {
+    "id": "acdcd2c4fee38da9",
+    "title": "Суд у Мадриді погодив обов’язковий карантин для іспанців із лайнера зі спалахом хантавірусу",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/09/8033997/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T17:12:00+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/e/8/e8bdcfa---------------2026-05-09-172104.jpg"
+  },
+  {
+    "id": "46d5b99ace59a62f",
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/ Comments URL: https://news.ycombinator.com/item?id=48076465 Points: 23 # Comments: 11",
+    "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T17:06:46+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": "https://www.copahost.com/blog/wp-content/uploads/2026/05/9d592da9-48e6-4f09-b972-a73a543c754a.png"
+  },
+  {
     "id": "865b5cbc85de403d",
     "title": "Укренерго не планує відключати світло у неділю",
     "summary": "Потреба в економії світла зберігається.",
@@ -22,6 +142,18 @@
     "published": "2026-05-09T16:31:00+00:00",
     "fetched": "2026-05-09T17:05:24+00:00",
     "image": "https://i.lb.ua/news/045/46/69ff619684e8a.jpg"
+  },
+  {
+    "id": "ec7583402858e0ca",
+    "title": "I Will Not Add Query Strings to Your URLs",
+    "summary": "Article URL: https://susam.net/no-query-strings.html Comments URL: https://news.ycombinator.com/item?id=48076173 Points: 17 # Comments: 0",
+    "url": "https://susam.net/no-query-strings.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T16:28:36+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": null
   },
   {
     "id": "88ee056b6900326d",
@@ -250,6 +382,18 @@
     "published": "2026-05-09T14:43:00+00:00",
     "fetched": "2026-05-09T15:57:53+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/6/8/6814a9c---------------2026-05-09-144536.jpg"
+  },
+  {
+    "id": "c746c094d567fa4f",
+    "title": "Apple is increasing my cortisol levels",
+    "summary": "Article URL: https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels Comments URL: https://news.ycombinator.com/item?id=48075366 Points: 8 # Comments: 0",
+    "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T14:40:58+00:00",
+    "fetched": "2026-05-09T18:32:20+00:00",
+    "image": null
   },
   {
     "id": "0e268421470b83d0",
