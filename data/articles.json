@@ -1,5 +1,65 @@
 [
   {
+    "id": "3367b96fcdd73237",
+    "title": "Представники США зустрілися з прем’єром Катару на тлі переговорів щодо мирної угоди з Іраном – ЗМІ",
+    "summary": "За даними видань Axios і CNN, спеціальний посланець США Стів Віткофф і держсекретар Марко Рубіо зустрілися в суботу в Маямі з прем'єр-міністром Катару шейхом Мохаммедом бін Абдулрахманом Аль Тані на тлі очікувань відповіді Ірану щодо подальших переговорів.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034014/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-09T22:26:00+00:00",
+    "fetched": "2026-05-09T22:54:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/825867/b5d8308fa72400bd171024058b641168.jpeg"
+  },
+  {
+    "id": "b634e82cfec72a22",
+    "title": "Getting Arrested in Japan",
+    "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan Comments URL: https://news.ycombinator.com/item?id=48078647 Points: 13 # Comments: 0",
+    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T21:56:19+00:00",
+    "fetched": "2026-05-09T22:54:21+00:00",
+    "image": "http://static1.squarespace.com/static/605f04a61395e21d304e636a/t/69c8d480c2f49f1bfc842d8d/1774769280050/japan+detention+center.jpeg?format=1500w"
+  },
+  {
+    "id": "27380e7c6b4943f5",
+    "title": "The Death of the Roadmap",
+    "summary": "Article URL: https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html Comments URL: https://news.ycombinator.com/item?id=48078617 Points: 3 # Comments: 0",
+    "url": "https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T21:51:41+00:00",
+    "fetched": "2026-05-09T22:54:21+00:00",
+    "image": null
+  },
+  {
+    "id": "c3ef8a44faff17c1",
+    "title": "Rust but Lisp",
+    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp Comments URL: https://news.ycombinator.com/item?id=48078575 Points: 5 # Comments: 2",
+    "url": "https://github.com/ThatXliner/rust-but-lisp",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T21:46:27+00:00",
+    "fetched": "2026-05-09T22:54:21+00:00",
+    "image": "https://opengraph.githubassets.com/2d914858d61f21100ab9d9e9a88ebbf134182298033eae6193c4906f75bc070b/ThatXliner/rust-but-lisp"
+  },
+  {
+    "id": "fa54c52a42f1d027",
+    "title": "The 90 Day disclosure policy is dead",
+    "summary": "Article URL: https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/ Comments URL: https://news.ycombinator.com/item?id=48078538 Points: 10 # Comments: 2",
+    "url": "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T21:42:50+00:00",
+    "fetched": "2026-05-09T22:54:21+00:00",
+    "image": "https://blog.himanshuanand.com/img/favicon/orange.png"
+  },
+  {
     "id": "e4ae7be53e99fb12",
     "title": "На Подолі в Києві бійка між чоловіками переросла у стрілянину",
     "summary": "Поліція Києва повідомила про стрілянину на Подолі під час бійки.",
@@ -346,6 +406,18 @@
     "published": "2026-05-09T18:00:46+00:00",
     "fetched": "2026-05-09T18:32:20+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d93/live/ce4b17d0-4bce-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
+    "id": "5ebb5f91b9471b25",
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark…",
+    "url": "https://github.com/nooga/let-go",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-09T17:52:13+00:00",
+    "fetched": "2026-05-09T22:54:21+00:00",
+    "image": "https://repository-images.githubusercontent.com/340518175/b16d0200-7540-11eb-9ca9-1b74271ac6f7"
   },
   {
     "id": "2e85680aacd7d849",
