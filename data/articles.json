@@ -1,5 +1,53 @@
 [
   {
+    "id": "7bce86c9abf7ebbf",
+    "title": "На Херсонщині померла жінка, яку атакував російський БпЛа",
+    "summary": "На Херсонщині померла жінка від отриманих травм через атаку російського безпілотника.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034117/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T23:14:00+00:00",
+    "fetched": "2026-05-10T23:28:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/826307/e22ed08e816ac952fde80933a1b8cdf7.jpeg"
+  },
+  {
+    "id": "21c9dca21bad7fa1",
+    "title": "Нетаньягу провів телефонну розмову з Трампом на тлі відповіді Ірану про мирну угоду – CNN",
+    "summary": "Нетаньягу і Трамп провели телефонну розмову на тлі відповіді Ірану про мирну угоду.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034116/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T22:28:00+00:00",
+    "fetched": "2026-05-10T23:28:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/826306/b717151c0abc064a13a8795d223c58f0.jpeg"
+  },
+  {
+    "id": "757028c078ab22c3",
+    "title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/ Comments URL: https://news.ycombinator.com/item?id=48088576 Points: 16 # Comments: 4",
+    "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T22:02:43+00:00",
+    "fetched": "2026-05-10T23:28:37+00:00",
+    "image": "https://cyber.netsecops.io/images/og-image/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat.jpg"
+  },
+  {
+    "id": "4103f6117785db63",
+    "title": "Plex's price hikes prove I was right to switch to Jellyfin",
+    "summary": "Article URL: https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/ Comments URL: https://news.ycombinator.com/item?id=48088459 Points: 11 # Comments: 2",
+    "url": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T21:49:59+00:00",
+    "fetched": "2026-05-10T23:28:37+00:00",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Plex-vs-Jellyfin-logos.jpg"
+  },
+  {
     "id": "583e909fd0ac3858",
     "title": "Путін боїться перевороту, Мала Токмачка та підвищення зарплат військовим – про війну за тиждень",
     "summary": "",
