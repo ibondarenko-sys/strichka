@@ -1,5 +1,125 @@
 [
   {
+    "id": "947c18943f176526",
+    "title": "Netflix may have finally figured out games",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator…",
+    "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T12:00:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/LegoParty.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "8f521f3bdaad9b7b",
+    "title": "Дрон врізався в корабель поблизу Катару",
+    "summary": "На судні виникла пожежа, але про постраждалих не повідомляли.",
+    "url": "https://lb.ua/world/2026/05/10/737420_dron_vrizavsya_korabel_poblizu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:57:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/031/53/6a0072e1e7f44.jpg"
+  },
+  {
+    "id": "f8c55861d80e25c3",
+    "title": "Israel deports two activists detained on board Gaza flotilla",
+    "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+    "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-10T11:55:09+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d149/live/b43b8410-4c50-11f1-a41c-91073f0dac7c.jpg"
+  },
+  {
+    "id": "62b551523a14e33f",
+    "title": "Saudi Aramco попереджає про тривалі наслідки на нафтовому ринку через блокування Ормузу",
+    "summary": "Навіть якщо Ормузьку протоку роблокують найближчим часом, ринку знадобляться місяці для стабілізації.",
+    "url": "https://lb.ua/economics/2026/05/10/737421_saudi_aramco_poperedzhaie_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:55:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/012/10/6a00724f2c10a.jpg"
+  },
+  {
+    "id": "ff796495fa61d658",
+    "title": "РФ влучила по авто біля Миколаєва – є поранені",
+    "summary": "Вдень 10 травня російські війська вдарили по автомобілю в Миколаївському районі, є поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034056/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:43:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/825977/87c6e05918fef596d8b375ba5cf31fe2.jpeg"
+  },
+  {
+    "id": "f2540993af98d101",
+    "title": "Росіяни намагаються накопичити живу силу в укриття та руїнах на Олександрівському напрямку",
+    "summary": "Українські військові виявляють і знищують ворожих солдатів.",
+    "url": "https://lb.ua/society/2026/05/10/737419_rosiyani_namagayutsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:32:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/119/54/6a006cc653202.jpg"
+  },
+  {
+    "id": "f137d0f3a0cf4a6f",
+    "title": "У Польщі знайшли безпілотник за 20 км від кордону із Росією",
+    "summary": "Імовірно, це військовий дрон для стеження.",
+    "url": "https://lb.ua/world/2026/05/10/737418_polschi_znayshli_bezpilotnik_20.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:26:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/063/25/6a006b902698e.jpg"
+  },
+  {
+    "id": "6ae55184b424cf34",
+    "title": "Space Cadet Pinball on Linux",
+    "summary": "Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/ Comments URL: https://news.ycombinator.com/item?id=48082968 Points: 26 # Comments: 1",
+    "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T11:22:02+00:00",
+    "fetched": "2026-05-10T12:11:03+00:00",
+    "image": "https://brennan.io/images/me.jpg"
+  },
+  {
+    "id": "b899847dd09045b3",
+    "title": "Do you take after your dad’s RNA?",
+    "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
+    "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T11:15:44+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1918986158-1152x648.jpg"
+  },
+  {
+    "id": "50054f1b429a4de9",
+    "title": "Естонія закликала Україну посилити контроль над дронами після інцидентів з порушення повітряного простору",
+    "summary": "Таллін підтримує право України завдавати ударів по об'єктах РФ, однак закликають мінімізувати ризики для території держав НАТО.",
+    "url": "https://lb.ua/world/2026/05/10/737417_estoniya_zaklikala_ukrayinu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:13:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/119/46/6a00684fb024e.jpg"
+  },
+  {
     "id": "317ab22849d253e2",
     "title": "Зеленський та президент Фінляндії обговорили взаємодію з США та Європою",
     "summary": "Президент Володимир Зеленський поспілкувався зі своїм фінським візаві Александром Стуббом щодо стану дипломатичної роботи із США.",
@@ -10,6 +130,30 @@
     "published": "2026-05-10T11:03:00+00:00",
     "fetched": "2026-05-10T11:28:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/825975/e261528d201a4d7c281c426280e8d7bb.jpeg"
+  },
+  {
+    "id": "ebbd4d1090cf9e4e",
+    "title": "Ізраїль депортував двох активістів «флотилії Гази»",
+    "summary": "Їх депортували у неділю.",
+    "url": "https://lb.ua/world/2026/05/10/737415_izrayil_deportuvav_dvoh.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:01:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/086/31/6a0065b33048b.jpg"
+  },
+  {
+    "id": "fe71eabbd1123396",
+    "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+    "summary": "Fortunately, it happened early in the morning, so nobody was around.",
+    "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T11:00:53+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1421333093-1152x648.jpg"
   },
   {
     "id": "fd91199e4d894ff1",
@@ -24,6 +168,30 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vivo-x300-ultra-8.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "5338f3eb5ac25e95",
+    "title": "На Запоріжжі через обстріл РФ постраждав цивільний",
+    "summary": "Окупанти атакували цивільного fpv-дроном.",
+    "url": "https://lb.ua/society/2026/05/10/737413_zaporizhzhi_cherez_obstril_rf.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:00:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/118/33/6a0064d555a9b.jpg"
+  },
+  {
+    "id": "c1f2ebb224fa155f",
+    "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+    "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
+    "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-10T10:45:13+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8209/live/8752f770-4c42-11f1-b55d-0f258dce1735.jpg"
+  },
+  {
     "id": "1394a2ddb7ed2de6",
     "title": "Британія висадила десант медиків на ізольованому острові через підозру на хантавірус",
     "summary": "",
@@ -34,6 +202,30 @@
     "published": "2026-05-10T10:45:00+00:00",
     "fetched": "2026-05-10T11:28:05+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/b/d/bd39258------------.jpg"
+  },
+  {
+    "id": "50afd570e7c81853",
+    "title": "NYT: вакцину проти хантавірусу розробляють роками через брак фінансування",
+    "summary": "Значна частина розробок вакцини зупиняється на етапі переходу до випробувань.",
+    "url": "https://lb.ua/health/2026/05/10/737409_nyt_vaktsinu_proti_hantavirusu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:36:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/083/12/6a005fbcefb6b.jpg"
+  },
+  {
+    "id": "3ca11354ec57b912",
+    "title": "КНДР збільшила виробництво артснарядів і постачає їх Росії",
+    "summary": "За оцінками є 300 північнокорейських заводів ОПК, на яких працює 500 тисяч людей.",
+    "url": "https://lb.ua/world/2026/05/10/737411_kndr_zbilshila_virobnitstvo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:35:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/081/56/6a005fba902ee.jpg"
   },
   {
     "id": "08b1483034de33f7",
@@ -58,6 +250,18 @@
     "published": "2026-05-10T10:22:00+00:00",
     "fetched": "2026-05-10T11:28:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/825968/5fd212546a3890dee4a38abe09cf107c.jpeg"
+  },
+  {
+    "id": "78051179ed74550f",
+    "title": "Президенти України і Фінляндії скоординували позиції напередодні майбутніх перемовин",
+    "summary": "Лідери держав обговорили дипломатичні напрацювання між США та Європою.",
+    "url": "https://lb.ua/world/2026/05/10/737407_prezidenti_ukrayini_finlyandiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:19:00+00:00",
+    "fetched": "2026-05-10T12:11:00+00:00",
+    "image": "https://i.lb.ua/news/062/46/6a005bafe5a91.jpg"
   },
   {
     "id": "e6896002c9e038dd",
