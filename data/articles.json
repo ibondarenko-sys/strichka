@@ -1,5 +1,53 @@
 [
   {
+    "id": "583e909fd0ac3858",
+    "title": "Путін боїться перевороту, Мала Токмачка та підвищення зарплат військовим – про війну за тиждень",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8033805/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T21:46:00+00:00",
+    "fetched": "2026-05-10T22:11:51+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/824816/9eb0166eba51da9198d8662ee087a5fd.jpeg?w=1200&q=85&stamp=1778236801"
+  },
+  {
+    "id": "1d112e7d85bcd23e",
+    "title": "Трамп назвав \"абсолютно неприйнятною\" нову пропозицію Ірану про припинення війни",
+    "summary": "Трамп заявив про \"неприйнятність\" нової пропозиції Ірану щодо припинення війни.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034115/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T21:40:00+00:00",
+    "fetched": "2026-05-10T22:11:51+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/826305/f7bd940cf43a01f760c3b049a7ff496c.jpeg"
+  },
+  {
+    "id": "163bdc2f9b51fd35",
+    "title": "Why modern parents feel more sleep deprived than our ancestors did",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep Comments URL: https://news.ycombinator.com/item?id=48088343 Points: 5 # Comments: 0",
+    "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T21:36:52+00:00",
+    "fetched": "2026-05-10T22:11:51+00:00",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nk42d7.jpg"
+  },
+  {
+    "id": "e05ce67a3c59083e",
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "summary": "Article URL:…",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T21:16:58+00:00",
+    "fetched": "2026-05-10T22:11:51+00:00",
+    "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg"
+  },
+  {
     "id": "b791e574820dd5a0",
     "title": "«Барселона» перемогла «Реал» у «класіко» й достроково оформила чемпіонство в Ла Лізі",
     "summary": "29-й кубок чемпіонів Ла Ліги в історії «Барселони».",
