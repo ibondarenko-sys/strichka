@@ -1,5 +1,137 @@
 [
   {
+    "id": "e6896002c9e038dd",
+    "title": "Велика Британія перекидає есмінець на Близький Схід для можливої місії в Ормузі",
+    "summary": "Туди направлять есмінець HMS Dragon типу Type 45.",
+    "url": "https://lb.ua/world/2026/05/10/737405_velika_britaniya_perekidaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:14:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/071/43/6a005abad8eee.jpg"
+  },
+  {
+    "id": "5a8ad434d3223b05",
+    "title": "РФ показала нову крилату ракету-дрон \"Герань-5\", – Defense Express",
+    "summary": "Уламки ракети з аналогічними характеристиками раніше вже фіксувалися на території України.",
+    "url": "https://lb.ua/society/2026/05/10/737403_rf_pokazala_novu_krilatu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:10:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/060/42/6a0059b1a4e7a.jpg"
+  },
+  {
+    "id": "108cd2c050c1628d",
+    "title": "Головне за ніч та ранок неділі, 10 травня: майже 150 боєзіткнень, удари по прикордонню, \"перемир’я\" по-російськи",
+    "summary": "Нічна повітряна атака, 147 бойових зіткнень, бої на Покровському та Гуляйпільському напрямках, ворожі обстріли.",
+    "url": "https://lb.ua/society/2026/05/10/737404_golovne_nich_ranok_nedili_10.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:05:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/093/47/6a0058d42c422.jpg"
+  },
+  {
+    "id": "df164abcd673de54",
+    "title": "Росіяни на ТОТ продовжують політику мілітаризації українських дітей через “антитерористичні заняття”, – спротив",
+    "summary": "Окупанти продовжують політику русифікації та мілітаризації дітей.",
+    "url": "https://lb.ua/society/2026/05/10/737401_rosiyani_prodovzhuyut_politiku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:56:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/106/13/6a0056662f753.jpg"
+  },
+  {
+    "id": "61c3fbea30b88b5c",
+    "title": "Опитування: понад половина американських виборців не схвалюють дії Трампа щодо економіки",
+    "summary": "Майже 58% зареєстрованих виборців у США заявили, що «рішуче» або «частково» не схвалюють дії президента щодо інфляції та вартості життя.",
+    "url": "https://lb.ua/world/2026/05/10/737399_opituvannya_ponad_polovina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:51:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/103/24/6a005565c798c.jpg"
+  },
+  {
+    "id": "5f101615caeaf698",
+    "title": "Фіцо: Зеленський має дзвонити Путіну, якщо хоче зустрічі",
+    "summary": "Прем'єр Словаччини Фіцо заявив, що Зеленський висловив готовність до переговорів із Путіним.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034050/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:49:00+00:00",
+    "fetched": "2026-05-10T10:21:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/825966/c8dfc3bd14234b870d5df63b0a8922d0.jpeg"
+  },
+  {
+    "id": "47df4bfee726706c",
+    "title": "У Росії розширюють виробничу зону \"Алабуга\" в Татарстані, де виробляють \"шахеди\"",
+    "summary": "За останній рік економічна зона збільшилася щонайменше на 340 гектарів.",
+    "url": "https://lb.ua/world/2026/05/10/737397_rosiyi_rozshiryuyut_virobnichu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:35:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/067/35/6a00514969537.jpg"
+  },
+  {
+    "id": "ab51f39cacad5ee6",
+    "title": "Росіяни дроном атакували авто на Миколаївщині. Постраждали люди",
+    "summary": "Люди госпіталізовані.",
+    "url": "https://lb.ua/society/2026/05/10/737395_rosiyani_dronom_atakuvali_avto.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:17:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/110/23/6a004d7c1e73c.jpg"
+  },
+  {
+    "id": "53d8262326d5538e",
+    "title": "Чорні рядки замість тексту: у Росії цензура застосовує \"блекаути\" у книжках",
+    "summary": "Цензура охоплює від створення рукопису до розповсюдження готової книги в магазинах.",
+    "url": "https://lb.ua/society/2026/05/10/737391_chorni_ryadki_zamist_tekstu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:16:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/084/43/6a004ce3277db.jpg"
+  },
+  {
+    "id": "1fabd799a157026b",
+    "title": "В Іспанії медики почали перевірку лайнера перед висадкою пасажирів",
+    "summary": "Іспанські медики завершили фінальну перевірку лайнера Hondius, на якому спалахнув хантавірус. Висадка пасажирів відбудеться найближчим часом.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034046/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:11:00+00:00",
+    "fetched": "2026-05-10T10:21:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/a/825956/5aebd82cc54075513e06bb7ec221bb08.jpeg"
+  },
+  {
+    "id": "12d78987d83fcf8d",
+    "title": "​У Пакистані 14 поліцейських загинули унаслідок вибуху авто та нападу",
+    "summary": "Відповідальність за напад взяло на себе угруповання «Іттіхад уль-Муджахідін».",
+    "url": "https://lb.ua/world/2026/05/10/737389_pakistani_14_politseyskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T09:06:00+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://i.lb.ua/news/074/27/6a004add5f215.jpg"
+  },
+  {
     "id": "8d339e42a88e946a",
     "title": "СЗР: у Росії зростає запит на повернення іноземних компаній на тлі економічної ізоляції",
     "summary": "Понад 50% росіян хотіли б повернення іноземних компаній на ринок.",
@@ -72,6 +204,18 @@
     "image": "https://www.theparisreview.org/blog/wp-content/uploads/2026/05/default.jpg"
   },
   {
+    "id": "bd4b3139b3d68380",
+    "title": "LLMorphism: When humans come to see themselves as language models",
+    "summary": "Article URL: https://arxiv.org/abs/2605.05419 Comments URL: https://news.ycombinator.com/item?id=48082021 Points: 4 # Comments: 0",
+    "url": "https://arxiv.org/abs/2605.05419",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T08:22:12+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
     "id": "75a4d576a38d338f",
     "title": "\"Повернись живим\" святкує день народження: як привітати",
     "summary": "10 травня — день народження \"Повернись живим\".",
@@ -82,6 +226,18 @@
     "published": "2026-05-10T08:10:00+00:00",
     "fetched": "2026-05-10T08:58:17+00:00",
     "image": "https://i.lb.ua/news/070/22/6a003df367486.jpg"
+  },
+  {
+    "id": "6ceb0aa4e5b92c31",
+    "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+    "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 14 # Comments: 1",
+    "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T08:03:15+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": "https://dims.waltonfamilyfoundation.org/dims4/default/fdce3f6/2147483647/strip/true/crop/2121x1114+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fstatic.waltonfamilyfoundation.org%2F1b%2Fe2%2Fd498202c4f80877e774f3bef0b86%2Fistock-1340096416-1.jpg"
   },
   {
     "id": "bfd6fd6e8bbe5c11",
@@ -238,6 +394,18 @@
     "published": "2026-05-10T06:25:00+00:00",
     "fetched": "2026-05-10T06:37:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/825919/598d6caf3bb36f41a47b309508fa4db1.jpeg"
+  },
+  {
+    "id": "9225d6437f87f9ba",
+    "title": "Task Paralysis and AI",
+    "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 8 # Comments: 0",
+    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T06:20:50+00:00",
+    "fetched": "2026-05-10T10:21:58+00:00",
+    "image": null
   },
   {
     "id": "a54dac1d846d0b8d",
