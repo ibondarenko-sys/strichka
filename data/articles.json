@@ -1,5 +1,65 @@
 [
   {
+    "id": "317ab22849d253e2",
+    "title": "Зеленський та президент Фінляндії обговорили взаємодію з США та Європою",
+    "summary": "Президент Володимир Зеленський поспілкувався зі своїм фінським візаві Александром Стуббом щодо стану дипломатичної роботи із США.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034054/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T11:03:00+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/825975/e261528d201a4d7c281c426280e8d7bb.jpeg"
+  },
+  {
+    "id": "fd91199e4d894ff1",
+    "title": "Vivo’s X300 Ultra has the best cameras in any phone",
+    "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point…",
+    "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T11:00:00+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vivo-x300-ultra-8.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1394a2ddb7ed2de6",
+    "title": "Британія висадила десант медиків на ізольованому острові через підозру на хантавірус",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034053/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:45:00+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/b/d/bd39258------------.jpg"
+  },
+  {
+    "id": "08b1483034de33f7",
+    "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+    "summary": "Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/ Comments URL: https://news.ycombinator.com/item?id=48082676 Points: 6 # Comments: 0",
+    "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T10:33:06+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": "https://til.andrew-quinn.me/papermod-cover.png"
+  },
+  {
+    "id": "a9d4444610ab3d75",
+    "title": "Бійка на Львівщині перетворилася у стрілянину – поліція",
+    "summary": "У Львівському районі чоловік вистрілив із рушниці у авто опонента під час сварки. Поліція затримала правопорушника.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034052/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T10:22:00+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/825968/5fd212546a3890dee4a38abe09cf107c.jpeg"
+  },
+  {
     "id": "e6896002c9e038dd",
     "title": "Велика Британія перекидає есмінець на Близький Схід для можливої місії в Ормузі",
     "summary": "Туди направлять есмінець HMS Dragon типу Type 45.",
@@ -82,6 +142,18 @@
     "published": "2026-05-10T09:35:00+00:00",
     "fetched": "2026-05-10T10:21:58+00:00",
     "image": "https://i.lb.ua/news/067/35/6a00514969537.jpg"
+  },
+  {
+    "id": "2c1535cb1e6e11af",
+    "title": "FreeBSD – A Lesson in Poor Defaults",
+    "summary": "Article URL: https://vez.mrsk.me/freebsd-defaults Comments URL: https://news.ycombinator.com/item?id=48082342 Points: 5 # Comments: 1",
+    "url": "https://vez.mrsk.me/freebsd-defaults",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T09:27:11+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": null
   },
   {
     "id": "ab51f39cacad5ee6",
@@ -682,6 +754,18 @@
     "published": "2026-05-10T04:00:15+00:00",
     "fetched": "2026-05-10T06:37:40+00:00",
     "image": "https://i.guim.co.uk/img/media/259f659263c47d09c2500112ff0d5656fdb3ca2b/0_0_2997_2397/master/2997.jpg?width=140&quality=85&auto=format&fit=max&s=c7240d5e54fc52980b9f5636e55176d5"
+  },
+  {
+    "id": "ac5ede42aeb3adc7",
+    "title": "Argentina in spotlight over hantavirus as authorities retrace footsteps of ship’s passengers",
+    "summary": "Thirty years after first person-to-person transmission was documented in Patagonia, scientists say global heating could increase world’s exposure An outbreak in rural communities 30 years ago in the Patagonia area of Argentina led scientists, for the first time, to document…",
+    "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-10T04:00:15+00:00",
+    "fetched": "2026-05-10T11:28:05+00:00",
+    "image": "https://i.guim.co.uk/img/media/a5e0a723827abaa2179cb5da6d07388d553947fe/365_0_4157_3327/master/4157.jpg?width=140&quality=85&auto=format&fit=max&s=c1a5a2eb4ecd8703efa65e4bc970a595"
   },
   {
     "id": "2eb7cd1d46d4d394",
