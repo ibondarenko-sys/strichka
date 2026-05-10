@@ -1,5 +1,41 @@
 [
   {
+    "id": "a28bfcd9b8e7bf38",
+    "title": "У понеділок в низці областей пройдуть дощі та грози",
+    "summary": "11 травня в Україні очікуються дощі, грози та температура вдень до 22°. Детальний прогноз погоди від Укргідрометцентру.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034102/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T19:37:00+00:00",
+    "fetched": "2026-05-10T20:00:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/826233/c3cebc66bce39d2eb660622b7da82aa7.jpeg"
+  },
+  {
+    "id": "6851f6566ddc745b",
+    "title": "Другий день \"перемир'я\": на фронті 144 бої, найбільше на Покровському напрямку",
+    "summary": "Від початку доби на другий день \"перемир'я\" з РФ на фронті відбулося 144 бойові зіткнення, зокрема на Покровському напрямку ворог здійснив 30 атак, на Гуляйпільському – 14.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034101/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T19:06:00+00:00",
+    "fetched": "2026-05-10T20:00:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/826220/a53ca1ffefccc00c7d7e7230cf958fde.jpeg"
+  },
+  {
+    "id": "f4f3f1015128d386",
+    "title": "Сибіга: Українські дрони, що впали в Латвії, відхилились через російську РЕБ",
+    "summary": "Безпілотники в Латвії були українськими та відхилились через вплив російської РЕБ, заявив Сибіга.",
+    "url": "https://www.pravda.com.ua/news/2026/05/10/8034100/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T18:41:00+00:00",
+    "fetched": "2026-05-10T20:00:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/1/826209/d1af174cc33a96e219c18731b2b94138.jpeg"
+  },
+  {
     "id": "f0b1451f3297d312",
     "title": "У Києві на мосту Патона обмежать рух через ремонт, - КМДА",
     "summary": "Роботи орієнтовно триватимуть до 14 травня.",
@@ -72,6 +108,18 @@
     "image": "https://nesbitt.io/images/boxes.png"
   },
   {
+    "id": "922e9af07cd8b8e2",
+    "title": "Ask HN: What are you working on? (May 2026)",
+    "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=48085993 Points: 25 # Comments: 65",
+    "url": "https://news.ycombinator.com/item?id=48085993",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T17:34:41+00:00",
+    "fetched": "2026-05-10T20:00:38+00:00",
+    "image": null
+  },
+  {
     "id": "e2f3afd8867256a9",
     "title": "​Україна готова співпрацювати з країнами Балтії щоб запобігти інцидентам з дронами, – Сибіга",
     "summary": "Голова МЗС провів телефонну розмову з латвійською колегою.",
@@ -94,6 +142,18 @@
     "published": "2026-05-10T17:23:00+00:00",
     "fetched": "2026-05-10T18:32:20+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/4/8/4852589---------------2026-05-10-184953.jpg"
+  },
+  {
+    "id": "77a59a946ff09091",
+    "title": "Local AI needs to be the norm",
+    "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 10 # Comments: 2",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T17:19:28+00:00",
+    "fetched": "2026-05-10T20:00:38+00:00",
+    "image": null
   },
   {
     "id": "8045faeed9b57a04",
@@ -201,6 +261,18 @@
     "lang": "en",
     "published": "2026-05-10T16:31:51+00:00",
     "fetched": "2026-05-10T18:32:31+00:00",
+    "image": null
+  },
+  {
+    "id": "dd644892e46fd7f9",
+    "title": "YC's Biggest Scandals",
+    "summary": "Article URL: https://ycombinator.fyi/ Comments URL: https://news.ycombinator.com/item?id=48085314 Points: 13 # Comments: 1",
+    "url": "https://ycombinator.fyi/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T16:30:34+00:00",
+    "fetched": "2026-05-10T20:00:38+00:00",
     "image": null
   },
   {
