@@ -1,5 +1,197 @@
 [
   {
+    "id": "b35303ad9d4c9236",
+    "title": "South African president says he will not step down after impeachment call",
+    "summary": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
+    "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-11T21:44:20+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4cb/live/b037b6f0-4d80-11f1-8969-a5026beeba5c.jpg"
+  },
+  {
+    "id": "707fb7baa511a367",
+    "title": "ООН: десятки мільйонів людей під загрозою голоду в разі продовження блокування Ормузької протоки",
+    "summary": "За даними організації, масштабна гуманітарна криза може настати вже через кілька тижнів.",
+    "url": "https://lb.ua/world/2026/05/12/737647_oon_desyatki_milyoniv_lyudey_pid.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T21:39:00+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://i.lb.ua/news/020/02/6a024c9b0855d.jpg"
+  },
+  {
+    "id": "f83cd0ed5bdda14a",
+    "title": "Україна просить Європу виступити посередником в \"аеропортовому перемир'ї\" з Росією",
+    "summary": "Міністр закордонних справ Андрій Сибіга заявив, що Україна просить Європу допомогти укласти з Росією угоду про взаємне припинення ударів по аеропортах.",
+    "url": "https://www.pravda.com.ua/news/2026/05/12/8034257/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T21:37:00+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/d/826754/7d552ed68cea382e810e7379ab6ee321.jpeg"
+  },
+  {
+    "id": "2dcc88925b859aef",
+    "title": "Індія все ж відмовилася порушувати санкції і купувати російський скраплений газ",
+    "summary": "Страх реакції з Вашингтона виявився сильнішим за енергетичну кризу.",
+    "url": "https://lb.ua/world/2026/05/12/737643_indiya_zh_vidmovilasya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T21:12:00+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://i.lb.ua/news/061/25/6a0246d0ec135.jpg"
+  },
+  {
+    "id": "3e35bd8683382d42",
+    "title": "До Нідерландів вилетів вже другий евакуаційний рейс з екіпажем лайнера, де стався спалах хантавірусу",
+    "summary": "Судно ж прямує до Роттердама, де його продезінфікують.",
+    "url": "https://lb.ua/world/2026/05/12/737641_niderlandiv_viletiv_vzhe_drugiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T21:10:00+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://i.lb.ua/news/042/28/6a0245bf2e4e2.jpg"
+  },
+  {
+    "id": "d7c662ed6e40d8c6",
+    "title": "Watch: Alaska town sees its last sunset until August",
+    "summary": "Residents of Utqiagvik, the United States' northernmost city, will experience 84 days of midnight sun and uninterrupted daylight.",
+    "url": "https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-11T21:05:29+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cd6/live/95608450-4d7c-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
+    "id": "4dc847cf343bcfae",
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 12 # Comments: 2",
+    "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T21:04:10+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://martin.sh/content/images/size/w1200/2026/05/how-i-find-out-what-wakes-me-up-at-night.jpg"
+  },
+  {
+    "id": "164b3ecd8e978ad8",
+    "title": "Головне за понеділок, 11 травня: понад 130 боєзіткнень, підозра Андрію Єрмаку, санкції проти викрадачів українських дітей",
+    "summary": "Бойові дії на Донеччині, 133 бойових зіткнення, ворожі обстріли, лісові пожежі на Чернігівщині. Яким запам’ятається 1538-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/11/737645_golovne_ponedilok_11_travnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T20:58:00+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://i.lb.ua/news/083/05/6a0248634264c.jpg"
+  },
+  {
+    "id": "02d524d1f77c587d",
+    "title": "DeepState: Ворог просунувся поблизу трьох населених пунктів на Донеччині",
+    "summary": "Аналітичний проєкт DeepState повідомив, що російська армія наступає в районі трьох селищ на Донеччині.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034254/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T20:50:00+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/8/826746/e8d4c863f667ad68df688061319e0c8f.jpeg"
+  },
+  {
+    "id": "720614399dba20bd",
+    "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
+    "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:48:33+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/eero-wi-fi-router-1152x648-1778529597.jpg"
+  },
+  {
+    "id": "73045695fa7ff0c6",
+    "title": "На Київщині викрили злочинну групу \"експортерів\", які отримали 600 тис.євро за непоставлену агропродукцію",
+    "summary": "Серед потерпілих - іноземні громадяни, зокрема жителі Німеччини, Хорватії та Ізраїлю.",
+    "url": "https://lb.ua/society/2026/05/11/737639_kiyivschini_vikrili_zlochinnu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T20:46:00+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://i.lb.ua/news/039/43/6a0240471e0de.jpg"
+  },
+  {
+    "id": "0af806717a7bd39a",
+    "title": "If AI writes your code, why use Python?",
+    "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 45 # Comments: 35",
+    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:45:55+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*xhqxJyee2OyVxUmQF35RBw.png"
+  },
+  {
+    "id": "5035c10e4c2dc876",
+    "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+    "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:37:00+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2191236730-1152x648.jpg"
+  },
+  {
+    "id": "bd12ea8ab18f02d0",
+    "title": "Генштаб повідомив про 133 зіткнення на фронті з початку доби",
+    "summary": "Від початку доби 11 травня на фронті відбулось 133 бойових зіткнення. З них 26 – на Покровському напрямку.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034250/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T20:26:00+00:00",
+    "fetched": "2026-05-11T21:50:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/8/826735/b83e1a15f145d4884a1d8d3792ed581d.jpeg"
+  },
+  {
+    "id": "11c98d67c4c195a3",
+    "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+    "summary": "Hi. I’m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random \"agent terminated\" errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it…",
+    "url": "https://github.com/ab-613/opengravity",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:23:25+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://repository-images.githubusercontent.com/1235511227/5276e840-747f-4144-8e99-a6e094c84068"
+  },
+  {
+    "id": "03f01934afb97df0",
+    "title": "Bloomberg: Іран розгортає міні-підводні човни для контролю над Ормузькою протокою",
+    "summary": "Повідомляється, що Іран може мати щонайменше 16 таких човнів.",
+    "url": "https://lb.ua/world/2026/05/11/737637_bloomberg_iran_rozgortaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T20:20:00+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://i.lb.ua/news/108/27/6a023a19c181d.jpg"
+  },
+  {
     "id": "a06380a8c7f66603",
     "title": "Govee’s new portable smart lamp is on sale for the first time",
     "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable…",
@@ -22,6 +214,18 @@
     "published": "2026-05-11T19:50:00+00:00",
     "fetched": "2026-05-11T20:18:29+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/0/826729/b00b1be27854e8acdb4724953c9c2cfb.jpeg"
+  },
+  {
+    "id": "822cf1cd2173f052",
+    "title": "Linux Terminal Memory Usage",
+    "summary": "Article URL: https://gilesorr.com/blog/linux-terminal-memory-usage.html Comments URL: https://news.ycombinator.com/item?id=48099790 Points: 19 # Comments: 14",
+    "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T19:49:39+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": null
   },
   {
     "id": "caaa49cb0f0445f6",
@@ -228,6 +432,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275145416-1152x648.jpg"
   },
   {
+    "id": "1cc69e21959c5cd2",
+    "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+    "summary": "Article URL: https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/ Comments URL: https://news.ycombinator.com/item?id=48098537 Points: 153 # Comments: 70",
+    "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T18:12:38+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": null
+  },
+  {
     "id": "e01e0195d7d4f91a",
     "title": "Трамп про відповідь Тегерана на перемир’я: \"Я навіть не дочитав той шматок сміття\"",
     "summary": "Президент США Дональд Трамп заявив, що перемир'я з Іраном є \"неймовірно слабким\", а відповідь Тегерана на мирні пропозиції США \"шматком сміття\"",
@@ -274,6 +490,18 @@
     "published": "2026-05-11T17:55:34+00:00",
     "fetched": "2026-05-11T20:18:29+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-1024x648.jpg"
+  },
+  {
+    "id": "235c743bf190458b",
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "summary": "Article URL: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage Comments URL: https://news.ycombinator.com/item?id=48098261 Points: 74 # Comments: 23",
+    "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T17:53:08+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://stemcell.ucla.edu/sites/default/files/images/synapses_mid-ai-carmichael-stroke-brain-2025.jpg"
   },
   {
     "id": "128e3fbfb6a425a6",
@@ -1140,6 +1368,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/826519/f16162150d26bc6b33593c04ddd34387.jpeg"
   },
   {
+    "id": "dc4b6b2d9c30009b",
+    "title": "Google says criminal hackers used AI to find a major software flaw",
+    "summary": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker... , https://archive.ph/I4Ui5 https://apnews.com/article/google-ai-cybersecurity-exploitat... https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker... Comments URL:…",
+    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T13:20:14+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": null
+  },
+  {
     "id": "eb49128e9b85c09b",
     "title": "Перший транш із 90 млрд євро від ЄС Україна отримає не раніше червня",
     "summary": "Перший транш із кредиту Євросоюзу на 90 млрд євро для України очікується не раніше початку червня 2026 року, хоча єврокомісарка Марта Кос раніше заявляла про виплату вже наступного тижня.",
@@ -1486,6 +1726,18 @@
     "published": "2026-05-11T11:11:00+00:00",
     "fetched": "2026-05-11T12:42:13+00:00",
     "image": "https://i.lb.ua/news/082/03/6a01b982aeacc.jpg"
+  },
+  {
+    "id": "b94ec089b032ec26",
+    "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
+    "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 30 # Comments: 0",
+    "url": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T11:07:10+00:00",
+    "fetched": "2026-05-11T21:50:26+00:00",
+    "image": "https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/2026/04/Untitled_Artwork.png"
   },
   {
     "id": "6cfeb174a70271ce",
