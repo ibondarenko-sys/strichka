@@ -1,5 +1,113 @@
 [
   {
+    "id": "a2f233843f4da0ce",
+    "title": "Трамп порівняв перемир'я на Близькому Сході з пацієнтом у передсмертному стані",
+    "summary": "Іранський проєкт миру президент США навіть не дочитав до кінця.",
+    "url": "https://lb.ua/world/2026/05/12/737655_tramp_porivnyav_peremirya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T22:50:00+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://i.lb.ua/news/067/09/6a025d296b886.jpg"
+  },
+  {
+    "id": "83295219928a2ec4",
+    "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+    "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even…",
+    "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T22:40:20+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9adc542ac4b4e5b5",
+    "title": "Linux bitten by second severe vulnerability in as many weeks",
+    "summary": "Production-version patches are coming online and should be installed pronto.",
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T22:28:19+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
+  },
+  {
+    "id": "af981660dae8c157",
+    "title": "Стрілець у Вашингтоні, звинувачений у спробі замаху на Трампа, заперечив провину у суді",
+    "summary": "Адвокати намагаються прибрати з процесу генпрокурора США.",
+    "url": "https://lb.ua/world/2026/05/12/737653_strilets_vashingtoni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T22:20:00+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://i.lb.ua/news/031/34/6a025790bcbac.jpg"
+  },
+  {
+    "id": "7be23ac9118dc59e",
+    "title": "Here’s what Mira Murati’s AI company is up to",
+    "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T22:19:15+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "47d520225101e2d3",
+    "title": "Пакистан таємно переховував іранські військові літаки від американських авіаударів – ЗМІ",
+    "summary": "Пакистан таємно дозволяв Ірану розміщувати військові літаки на своїх аеродромах для захисту від американських авіаударів, попри те, що Ісламабад публічно позиціонував себе як посередника у питаннях деескалації між Тегераном та Вашингтоном.",
+    "url": "https://www.pravda.com.ua/news/2026/05/12/8034258/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T22:19:00+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/826755/c3193272f2ff6d8d38f0b3d756927c72.jpeg"
+  },
+  {
+    "id": "4c2c0cee902087a4",
+    "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+    "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
+    "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T22:01:57+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-1152x648.jpg"
+  },
+  {
+    "id": "3d1e35a3e1f4d4ed",
+    "title": "У вівторок в Україні повітря прогріється до 23°, місцями дощі та грози",
+    "summary": "Значні дощі очікуються на Закарпатті та в Карпатах",
+    "url": "https://lb.ua/society/2026/05/12/737651_vivtorok_ukrayini_povitrya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T21:57:00+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://i.lb.ua/news/095/20/6a0250de219a7.jpg"
+  },
+  {
+    "id": "681e1cef08d7d988",
+    "title": "Сибіга: Україна пропонує Росії \"аеропортове перемир'я\" за сприяння ЄС",
+    "summary": "Європа має активізувати свою роль посередника у переговорах між Києвом і Москвою.",
+    "url": "https://lb.ua/society/2026/05/12/737649_sibiga_ukrayina_proponuie_rosiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T21:47:00+00:00",
+    "fetched": "2026-05-11T22:59:27+00:00",
+    "image": "https://i.lb.ua/news/027/28/6a024e1f9f378.jpg"
+  },
+  {
     "id": "b35303ad9d4c9236",
     "title": "South African president says he will not step down after impeachment call",
     "summary": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
@@ -36,6 +144,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/d/826754/7d552ed68cea382e810e7379ab6ee321.jpeg"
   },
   {
+    "id": "be8202590832edf9",
+    "title": "Griffin PowerMate driver for modern macOS",
+    "summary": "Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver Comments URL: https://news.ycombinator.com/item?id=48100970 Points: 6 # Comments: 0",
+    "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T21:35:38+00:00",
+    "fetched": "2026-05-11T22:59:30+00:00",
+    "image": "https://opengraph.githubassets.com/0bae8750dfe9f61694cb64f4040931447b7560831bfeb3afc721e0eb7518ab6e/jameslockman/Griffin-PowerMate-Driver"
+  },
+  {
     "id": "2dcc88925b859aef",
     "title": "Індія все ж відмовилася порушувати санкції і купувати російський скраплений газ",
     "summary": "Страх реакції з Вашингтона виявився сильнішим за енергетичну кризу.",
@@ -58,6 +178,18 @@
     "published": "2026-05-11T21:10:00+00:00",
     "fetched": "2026-05-11T21:50:26+00:00",
     "image": "https://i.lb.ua/news/042/28/6a0245bf2e4e2.jpg"
+  },
+  {
+    "id": "cd26f09487ef3e95",
+    "title": "TanStack NPM Packages Compromised",
+    "summary": "Article URL: https://github.com/TanStack/router/issues/7383 Comments URL: https://news.ycombinator.com/item?id=48100706 Points: 274 # Comments: 67",
+    "url": "https://github.com/TanStack/router/issues/7383",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T21:08:25+00:00",
+    "fetched": "2026-05-11T22:59:30+00:00",
+    "image": "https://opengraph.githubassets.com/01a7d9e6d1467000fda5e3c8172dc0a6b7e9b5f045bceb69239670a686affa4e/TanStack/router/issues/7383"
   },
   {
     "id": "d7c662ed6e40d8c6",
@@ -94,6 +226,30 @@
     "published": "2026-05-11T20:58:00+00:00",
     "fetched": "2026-05-11T21:50:26+00:00",
     "image": "https://i.lb.ua/news/083/05/6a0248634264c.jpg"
+  },
+  {
+    "id": "7d0b1f997989d7f8",
+    "title": "Interaction Models",
+    "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/ Comments URL: https://news.ycombinator.com/item?id=48100524 Points: 45 # Comments: 6",
+    "url": "https://thinkingmachines.ai/blog/interaction-models/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:53:37+00:00",
+    "fetched": "2026-05-11T22:59:30+00:00",
+    "image": "https://thinkingmachines.ai/blog/interaction-models/thumbnails/HERO_THUMB.jpg"
+  },
+  {
+    "id": "10326c37ba776c3d",
+    "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+    "summary": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/ Comments URL: https://news.ycombinator.com/item?id=48100500 Points: 158 # Comments: 115",
+    "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:51:57+00:00",
+    "fetched": "2026-05-11T22:59:30+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1776362275/ozbwn9tk0dditpnfddlz.png"
   },
   {
     "id": "02d524d1f77c587d",
@@ -154,6 +310,18 @@
     "published": "2026-05-11T20:37:00+00:00",
     "fetched": "2026-05-11T21:50:25+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2191236730-1152x648.jpg"
+  },
+  {
+    "id": "1909363f670f1691",
+    "title": "Show HN: E2a – Open-source email gateway for AI agents",
+    "summary": "We were building an agent system and wanted email as a trigger. We decided to take it out and made it a standalone service. The primary email features we wanted and used for our own agent system: 1. Email threading stays consistent with agent conversation threading 2. Human in…",
+    "url": "https://github.com/Mnexa-AI/e2a",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T20:26:17+00:00",
+    "fetched": "2026-05-11T22:59:30+00:00",
+    "image": "https://opengraph.githubassets.com/c861cb783c4e39f96b3b5d51787572f4a6f10e75069c3979ca4eae3262db9ed1/Mnexa-AI/e2a"
   },
   {
     "id": "bd12ea8ab18f02d0",
@@ -238,6 +406,18 @@
     "published": "2026-05-11T19:47:00+00:00",
     "fetched": "2026-05-11T20:18:29+00:00",
     "image": "https://i.lb.ua/news/025/07/6a0232558ee74.jpg"
+  },
+  {
+    "id": "b623585ba3d72a5e",
+    "title": "Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog",
+    "summary": "https://guitar.com/news/industry-news/red-hot-chili-peppers-... Comments URL: https://news.ycombinator.com/item?id=48099665 Points: 60 # Comments: 59",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T19:38:10+00:00",
+    "fetched": "2026-05-11T22:59:30+00:00",
+    "image": null
   },
   {
     "id": "5840ab794762a5ac",
