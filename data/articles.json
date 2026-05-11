@@ -1,5 +1,101 @@
 [
   {
+    "id": "d25e01c39f7f9f71",
+    "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+    "summary": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
+    "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-11T01:22:00+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7597/live/c48e5d60-4cd7-11f1-aa9d-3306f90b9ff8.jpg"
+  },
+  {
+    "id": "5181ba23321af2e1",
+    "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+    "summary": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+    "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-11T00:40:45+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40f5/live/8608f360-4cd3-11f1-bac4-03d66431e994.jpg"
+  },
+  {
+    "id": "4d35b43221b8f6ec",
+    "title": "США збільшили кількість розвідувальних польотів біля Куби – ЗМІ",
+    "summary": "CNN пише про зростання кількості розвідувальних польотів США біля Куби.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034119/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-11T00:38:00+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/3/826309/8341a8b686c182af9cd6d4ec44e03abb.jpeg"
+  },
+  {
+    "id": "f504ef91880c0e4c",
+    "title": "Make America AI Ready: Strengths, Weaknesses, and Recommendations",
+    "summary": "Article URL: https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/ Comments URL: https://news.ycombinator.com/item?id=48089531 Points: 13 # Comments: 6",
+    "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-11T00:10:34+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": null
+  },
+  {
+    "id": "8058ada5ffc8fa2d",
+    "title": "AI Productivity Fails",
+    "summary": "Article URL: https://blog.sshh.io/p/how-ai-productivity-fails Comments URL: https://news.ycombinator.com/item?id=48089319 Points: 8 # Comments: 0",
+    "url": "https://blog.sshh.io/p/how-ai-productivity-fails",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T23:43:07+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!F1Q9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd8c1d4-c603-4b83-8ac1-bf4a3188d7cf_1536x1024.png"
+  },
+  {
+    "id": "a59c3f4300c8e71b",
+    "title": "Трамп зобов’язав федеральні агентства закуповувати тільки американську продукцію",
+    "summary": "Американський президент Дональд Трамп заявив, що відтепер федеральні агентства його країни зобов'язані закуповувати тільки американську продукцію.",
+    "url": "https://www.pravda.com.ua/news/2026/05/11/8034118/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-10T23:42:00+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/d/826308/cdd90bc73669645231611c6bc11bb531.jpeg"
+  },
+  {
+    "id": "25644e8aa9c54a80",
+    "title": "You Need AI That Reduces Maintenance Costs",
+    "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 10 # Comments: 1",
+    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T23:39:55+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": null
+  },
+  {
+    "id": "66c86a3910be9599",
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 56 # Comments: 28",
+    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T23:36:48+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg"
+  },
+  {
     "id": "7bce86c9abf7ebbf",
     "title": "На Херсонщині померла жінка, яку атакував російський БпЛа",
     "summary": "На Херсонщині померла жінка від отриманих травм через атаку російського безпілотника.",
@@ -10,6 +106,18 @@
     "published": "2026-05-10T23:14:00+00:00",
     "fetched": "2026-05-10T23:28:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/826307/e22ed08e816ac952fde80933a1b8cdf7.jpeg"
+  },
+  {
+    "id": "1c06e5ff522ceebb",
+    "title": "Running local models on an M4 with 24GB memory",
+    "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4 Comments URL: https://news.ycombinator.com/item?id=48089091 Points: 65 # Comments: 36",
+    "url": "https://jola.dev/posts/running-local-models-on-m4",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-10T23:09:10+00:00",
+    "fetched": "2026-05-11T01:26:14+00:00",
+    "image": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d"
   },
   {
     "id": "21c9dca21bad7fa1",
