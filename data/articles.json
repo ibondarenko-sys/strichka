@@ -1,5 +1,89 @@
 [
   {
+    "id": "812f101495ed2227",
+    "title": "Розвідка США спіймала Трампа на брехні про ракетний потенціал Ірану",
+    "summary": "Поки президент розповідає, що у Тегерана вже немає армії, значна частина озброєння досі цілком боєздатна.",
+    "url": "https://lb.ua/world/2026/05/13/737867_rozvidka_ssha_spiymala_trampa.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T22:51:00+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://i.lb.ua/news/002/57/6a03af3e399d2.jpg"
+  },
+  {
+    "id": "bced3dd6aec530a3",
+    "title": "Британія відправить дрони, винищувачі та військовий корабель до Ормузької протоки",
+    "summary": "Міністр оборони Великої Британії Джон Гілі заявив, що країна залучить автономні системи пошуку мін, винищувачі Typhoon та військовий корабель HMS Dragon до багатонаціональної місії із гарантування безпеки судноплавства в Ормузькій протоці.",
+    "url": "https://www.pravda.com.ua/news/2026/05/13/8034421/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T22:26:00+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/827383/a14b0048507f25de40cd3a3531bdc0df.jpeg"
+  },
+  {
+    "id": "a9466b2dc040979e",
+    "title": "Гренландія веде переговори зі США про побудову трьох нових військових баз",
+    "summary": "Дональд Трамп не забув про своє бажання анексувати арктичний острів.",
+    "url": "https://lb.ua/world/2026/05/13/737865_grenlandiya_vede_peregovori_zi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T22:21:00+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://i.lb.ua/news/126/16/6a03a8c8e32e1.jpg"
+  },
+  {
+    "id": "1f4cdabc7de5482b",
+    "title": "The newest AI boom pitch: Host a mini data center at your home",
+    "summary": "The plan aims to speed up AI compute deployment while compensating residents.",
+    "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T21:59:03+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-1152x648.png"
+  },
+  {
+    "id": "75e7cc2b8969ccbb",
+    "title": "Restore full BambuNetwork support for Bambu Lab printers",
+    "summary": "Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab Comments URL: https://news.ycombinator.com/item?id=48115127 Points: 6 # Comments: 1",
+    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T21:55:21+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://opengraph.githubassets.com/8538712fb20bfddaa0a42d25380dcd297e319bbde8dbffb7d24bb4506fa7527e/FULU-Foundation/OrcaSlicer-bambulab"
+  },
+  {
+    "id": "dbbc30f2e89d84e6",
+    "title": "На Харківщині чоловіка засудили на 15 років за підготовку теракту на газопроводі",
+    "summary": "Він працював на російські спецслужби.",
+    "url": "https://lb.ua/society/2026/05/13/737863_harkivschini_cholovika_zasudili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T21:55:00+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://i.lb.ua/news/016/17/6a03a1e7631df.jpg"
+  },
+  {
+    "id": "a6f5c6b010f48a45",
+    "title": "У профспілці пілотів \"Шереметьєво\" поскаржилися на використання аеропорту у військових цілях",
+    "summary": "На сайті профспілки льотного складу російського аеропорту \"Шереметьєво\" з'явилося повідомлення зі скаргою на використання цивільної інфраструктури у військових цілях та таємне перевезення вибухівки.",
+    "url": "https://www.pravda.com.ua/news/2026/05/13/8034420/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T21:54:00+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/827382/ac96358d8350affd79e5679cdc5c5ae5.jpeg"
+  },
+  {
     "id": "96b5549b56ebd735",
     "title": "На Євробаченні-2026 визначилися перші 10 фіналістів",
     "summary": "У першому півфіналі українські глядачі не голосували.",
@@ -22,6 +106,18 @@
     "published": "2026-05-12T21:36:11+00:00",
     "fetched": "2026-05-12T21:50:21+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3510af0637b36faa",
+    "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+    "summary": "Makary reportedly spent his year bucking Trump admin and making industry enemies.",
+    "url": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T21:26:47+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2271357224-1152x648.jpg"
   },
   {
     "id": "e9463126eb3a0172",
@@ -190,6 +286,18 @@
     "published": "2026-05-12T19:51:41+00:00",
     "fetched": "2026-05-12T21:50:22+00:00",
     "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "959c23b50328237e",
+    "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+    "summary": "Article URL: https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/ Comments URL: https://news.ycombinator.com/item?id=48113425 Points: 18 # Comments: 5",
+    "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T19:45:02+00:00",
+    "fetched": "2026-05-12T23:06:27+00:00",
+    "image": "https://thebuild.com/media/media/79875ce29f9f49efab713b13dc31f0a2_f2kg0IJ.png"
   },
   {
     "id": "77561a1796a48966",
