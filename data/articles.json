@@ -1,5 +1,149 @@
 [
   {
+    "id": "96b5549b56ebd735",
+    "title": "На Євробаченні-2026 визначилися перші 10 фіналістів",
+    "summary": "У першому півфіналі українські глядачі не голосували.",
+    "url": "https://lb.ua/culture/2026/05/13/737861_ievrobachenni-2026_viznachilisya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T21:45:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/102/53/6a039f43ddbb1.jpg"
+  },
+  {
+    "id": "75c164a0d4f1d45d",
+    "title": "iOS 27 might add a lot more customization to the Camera app",
+    "summary": "Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully customizable\" in iOS 27 and users will be able to \"pick their own set of…",
+    "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T21:36:11+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e9463126eb3a0172",
+    "title": "Президент США розповів, що очікує від візиту до Китаю",
+    "summary": "Трамп надасть пріоритет торговельним переговорам.",
+    "url": "https://lb.ua/world/2026/05/13/737857_prezident_ssha_rozpoviv_scho.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T21:26:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/027/29/6a039b0015215.jpg"
+  },
+  {
+    "id": "c3bc5f8eae7c02d9",
+    "title": "Радіо Свобода: Польща та Франція проти відкриття більше одного кластеру переговорів України з ЄС",
+    "summary": "У червні вирішиться, наскільки наша держава наблизиться до членства у Євросоюзі.",
+    "url": "https://lb.ua/news/2026/05/13/737859_radio_svoboda_polscha_frantsiya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T21:19:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/007/31/6a039a6d6b7a8.jpg"
+  },
+  {
+    "id": "fdf761df40515947",
+    "title": "Велика Британія зобов'язалась надати судна для охорони Ормузької протоки",
+    "summary": "Основною умовою є стабільне припинення вогню.",
+    "url": "https://lb.ua/world/2026/05/12/737855_velika_britaniya_zobovyazalas.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T20:59:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/051/00/6a0394a50bfc7.jpg"
+  },
+  {
+    "id": "f10cdc3ad529a333",
+    "title": "Топ-генерал Польщі обговорив з генералом США збільшення їхньої присутності в країні",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/12/8034417/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T20:52:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/b/0/b0e5994---------------2026-05-12-220408.jpg"
+  },
+  {
+    "id": "2b678d0b1067a137",
+    "title": "Лубінець: Обмін \"1000 на 1000\" затримується виключно через позицію РФ",
+    "summary": "Омбудсман України Дмитро Лубінець заявив, що українська перемовна група давно передала списки на обмін, який обіцяв американський президент Дональд Трамп, але РФ сторона затягує процес, звинувачуючи в цьому Україну.",
+    "url": "https://www.pravda.com.ua/news/2026/05/12/8034416/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T20:43:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/827365/ac4b678bb2b9e51b8695bb60d6ea0559.jpeg"
+  },
+  {
+    "id": "5b78495467dd6322",
+    "title": "Свириденко розповіла про програми підтримки для ВПО, що діють в Україні",
+    "summary": "Щомісяця близько 1 млн внутрішньо переміщених осіб отримують від держави допомогу на проживання.",
+    "url": "https://lb.ua/economics/2026/05/12/737849_sviridenko_rozpovila_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T20:41:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/018/28/6a03908c002c3.jpg"
+  },
+  {
+    "id": "509b3435a7f767f4",
+    "title": "Meta won’t let you block its AI account on Threads",
+    "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's…",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T20:35:23+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e06616826b029637",
+    "title": "Головне за вівторок, 12 травня: 170 боєзіткнень, атаки на Дніпропетровщину, нові деталі справи \"Мідас\"",
+    "summary": "Бойові дії на Донеччині, 170 бойових зіткнень, ворожі обстріли, евакуація з Нікопольщини, стрілянина в Світловодській міськраді. Яким запам’ятається 1539-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/12/737853_golovne_vivtorok_12_travnya_170.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T20:33:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/074/58/6a038f47636e0.jpg"
+  },
+  {
+    "id": "f2f3a4d517c44bea",
+    "title": "«Динамо» й Третій армійський корпус підписали меморандум про співпрацю",
+    "summary": "Угода включає проведення спільних заходів для військових корпусу, ветеранів і їхніх сімей.",
+    "url": "https://lb.ua/sport/2026/05/12/737851_dinamo_y_tretiy_armiyskiy_korpus.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-12T20:27:00+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://i.lb.ua/news/034/37/6a038e216539a.jpg"
+  },
+  {
+    "id": "feea296c72aa0fdf",
+    "title": "How to make your text look futuristic (2016)",
+    "summary": "Article URL: https://typesetinthefuture.com/2016/02/18/futuristic/ Comments URL: https://news.ycombinator.com/item?id=48113895 Points: 73 # Comments: 8",
+    "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T20:16:26+00:00",
+    "fetched": "2026-05-12T21:50:22+00:00",
+    "image": "https://i0.wp.com/typesetinthefuture.com/wp-content/uploads/2016/02/futuristic_starfield_full.jpg?fit=1200%2C800&ssl=1"
+  },
+  {
     "id": "8f79846b1e249aa9",
     "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
     "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
@@ -34,6 +178,18 @@
     "published": "2026-05-12T19:56:00+00:00",
     "fetched": "2026-05-12T20:00:29+00:00",
     "image": "https://i.lb.ua/news/103/56/6a0385f7a8e76.jpg"
+  },
+  {
+    "id": "ce9f76302327a366",
+    "title": "Beyond Semantic Similarity",
+    "summary": "Article URL: https://arxiv.org/abs/2605.05242 Comments URL: https://news.ycombinator.com/item?id=48113518 Points: 16 # Comments: 1",
+    "url": "https://arxiv.org/abs/2605.05242",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T19:51:41+00:00",
+    "fetched": "2026-05-12T21:50:22+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
     "id": "77561a1796a48966",
@@ -94,6 +250,18 @@
     "published": "2026-05-12T19:14:00+00:00",
     "fetched": "2026-05-12T20:00:29+00:00",
     "image": "https://i.lb.ua/news/006/00/6a037c2950e74.jpg"
+  },
+  {
+    "id": "65a6a64a2e49a6dd",
+    "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+    "summary": "A case study in why credentials are revoked before firings.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T19:12:07+00:00",
+    "fetched": "2026-05-12T21:50:21+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472540653-1152x648-1778610381.jpg"
   },
   {
     "id": "99e32d05e2ffbef8",
@@ -276,6 +444,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/f/d/fd8ab9a---9.jpg"
   },
   {
+    "id": "cd84f824c46bc38b",
+    "title": "SQL: Incorrect by Construction",
+    "summary": "Article URL: https://chreke.com/posts/sql-incorrect-by-construction Comments URL: https://news.ycombinator.com/item?id=48111798 Points: 20 # Comments: 17",
+    "url": "https://chreke.com/posts/sql-incorrect-by-construction",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T17:56:40+00:00",
+    "fetched": "2026-05-12T21:50:22+00:00",
+    "image": null
+  },
+  {
     "id": "74835346f967f5b8",
     "title": "Quack: The DuckDB Client-Server Protocol",
     "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol Comments URL: https://news.ycombinator.com/item?id=48111765 Points: 36 # Comments: 2",
@@ -358,6 +538,18 @@
     "published": "2026-05-12T17:44:00+00:00",
     "fetched": "2026-05-12T20:00:29+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/827229/0344d57f70ace2f8aa07bc3dcbb09fa0.jpeg"
+  },
+  {
+    "id": "0ebb03b34cbe0124",
+    "title": "Reimagining the mouse pointer for the AI era",
+    "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 78 # Comments: 64",
+    "url": "https://deepmind.google/blog/ai-pointer/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T17:40:13+00:00",
+    "fetched": "2026-05-12T21:50:22+00:00",
+    "image": "https://lh3.googleusercontent.com/6ktOlNMbk7CGwt_Oyi8aCEfeSX1B2DJUnrMF5X9bmzo0MdX9AHqW3iCCGo4RUFX2_8eN_4U3Sam_3tnc8Q0uLK6dMmcC3j5aiAyFMe9AhwYaYF59KA=w1200-h630-n-nu-rw"
   },
   {
     "id": "56a8eeb7a2181f6a",
@@ -454,6 +646,18 @@
     "published": "2026-05-12T17:18:04+00:00",
     "fetched": "2026-05-12T17:34:02+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1-1152x648.jpg"
+  },
+  {
+    "id": "e92cf8b71c8b1649",
+    "title": "Is this why science advances one funeral at a time?",
+    "summary": "Article URL: https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650 Comments URL: https://news.ycombinator.com/item?id=48111243 Points: 7 # Comments: 8",
+    "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-12T17:16:59+00:00",
+    "fetched": "2026-05-12T21:50:22+00:00",
+    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/05/Einstein_HERO.png"
   },
   {
     "id": "5f63be5724cd8d58",
