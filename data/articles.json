@@ -1,5 +1,101 @@
 [
   {
+    "id": "2b43970b24f78386",
+    "title": "Суд заблокував петицію про проведення у канадській Альберті референдуму про незалежність",
+    "summary": "Корінні народи регіону домоглися визнання, що сепаратисти порушують їхні права.",
+    "url": "https://lb.ua/world/2026/05/14/738124_sud_zablokuvav_petitsiyu_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-13T22:49:00+00:00",
+    "fetched": "2026-05-13T23:09:51+00:00",
+    "image": "https://i.lb.ua/news/022/21/6a04ffac5e20d.jpg"
+  },
+  {
+    "id": "6ac81cf4e744831e",
+    "title": "Politico: Рютте звернувся до союзників НАТО з проханням про додаткові мільярди для допомоги Україні",
+    "summary": "Марк Рютте закликав країни НАТО надавати більше підтримки Україні. Пропозиція може потроїти допомогу, але зустріла опір.",
+    "url": "https://www.pravda.com.ua/news/2026/05/14/8034590/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-13T22:29:00+00:00",
+    "fetched": "2026-05-13T23:09:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/d/828045/1d411d8f56209bff714749f540ce556e.jpeg"
+  },
+  {
+    "id": "020a36b882638a3a",
+    "title": "Президент Польщі не хоче відвідувати Україну цього року",
+    "summary": "Кароль Навроцький не поспішає їхати до Києва, попри запрошення українського колеги.",
+    "url": "https://lb.ua/news/2026/05/14/738122_prezident_polschi_hoche.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-13T22:14:00+00:00",
+    "fetched": "2026-05-13T23:09:51+00:00",
+    "image": "https://i.lb.ua/news/062/60/6a04f7e414619.jpg"
+  },
+  {
+    "id": "37e27e85296af874",
+    "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
+    "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at,…",
+    "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-13T22:04:28+00:00",
+    "fetched": "2026-05-13T23:09:51+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "eed04c9f011a82c6",
+    "title": "У Франції на круїзному лайнері виявили спалах норовірусу",
+    "summary": "Симптоми вірусу виявили орієнтовно в 50 людей.",
+    "url": "https://lb.ua/world/2026/05/14/738120_frantsiyi_kruyiznomu_layneri.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-13T21:59:00+00:00",
+    "fetched": "2026-05-13T23:09:51+00:00",
+    "image": "https://i.lb.ua/news/012/23/6a04f439c96b0.jpg"
+  },
+  {
+    "id": "0f176840e3771aae",
+    "title": "Trump administration defends right to ban content moderation experts from US",
+    "summary": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coalition for Independent Technology Research (CITR) and…",
+    "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-13T21:58:44+00:00",
+    "fetched": "2026-05-13T23:09:51+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2250140843.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d907ae3759c0091f",
+    "title": "В Україні – тривога через зліт МіГ-31К, триває атака дронів та ракет",
+    "summary": "14 травня в Києві та Україні оголосили тривогу через загрозу балістичних обстрілів РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/05/14/8034589/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-13T21:54:00+00:00",
+    "fetched": "2026-05-13T23:09:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/828044/f7c19c4b3986c6137accfd8a3cc189ed.jpeg"
+  },
+  {
+    "id": "f57c93e85499c107",
+    "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
+    "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
+    "url": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-13T21:48:27+00:00",
+    "fetched": "2026-05-13T23:09:51+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skydweller-predawn-flight-1024x648.jpg"
+  },
+  {
     "id": "103955573587e7b3",
     "title": "Генсек НАТО пропонує закріпити вимогу про 0,25% ВВП на допомогу Україні",
     "summary": "В Альянсі існує несправедливий розподіл коштів, спрямованих на підтримку обороноздатності нашої держави.",
@@ -10,6 +106,18 @@
     "published": "2026-05-13T21:43:00+00:00",
     "fetched": "2026-05-13T21:54:25+00:00",
     "image": "https://i.lb.ua/news/093/17/6a04ef94cba53.jpg"
+  },
+  {
+    "id": "17fefc76c5ce27fa",
+    "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+    "summary": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don't have access to them anymore. This is a first. I never lost access to any of my past sessions because I unsubscribed in any…",
+    "url": "https://news.ycombinator.com/item?id=48128003",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-13T21:40:18+00:00",
+    "fetched": "2026-05-13T23:09:52+00:00",
+    "image": null
   },
   {
     "id": "a1b703e03e3e7c38",
@@ -58,6 +166,18 @@
     "published": "2026-05-13T21:25:00+00:00",
     "fetched": "2026-05-13T21:54:25+00:00",
     "image": "https://i.lb.ua/news/046/25/6a04ec6bc361e.jpg"
+  },
+  {
+    "id": "9f51a76b447c3ce4",
+    "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+    "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 24 # Comments: 13",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-13T21:24:14+00:00",
+    "fetched": "2026-05-13T23:09:52+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800"
   },
   {
     "id": "753f14e409b53505",
