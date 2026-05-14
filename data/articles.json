@@ -1,5 +1,149 @@
 [
   {
+    "id": "f6e718dcabaa9211",
+    "title": "Зеленський заявив, що Україна розраховує на закінчення паузи в перемовинах",
+    "summary": "Зеленський обговорив з Hudson Institute підтримку Конгресу США, дипломатію та посилення ППО для безпеки України.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034749/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-14T22:25:00+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/c/828667/1ceb09620497069af385efdd214cb585.jpeg"
+  },
+  {
+    "id": "954408b3e6dd2544",
+    "title": "Closing time",
+    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T22:21:46+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin06.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "43d10fb862d06db7",
+    "title": "CIA director has met officials in Havana for talks, Cuba claims",
+    "summary": "Visit comes after US-Cuba relations deteriorated significantly, with Washington imposing a fuel blockade on the island in January CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improve dialogue between the US and the communist-run island, the…",
+    "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-14T22:17:22+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=07b0544f0dd6ad0fa9268ddb3ecaf46f"
+  },
+  {
+    "id": "d1fbb350b3674b4e",
+    "title": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
+    "summary": "Revelation seen as serious blow to candidacy of Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful, has been caught on tape asking a banker accused of corruption for $26.8m (£20m) to fund a film…",
+    "url": "https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-14T21:58:29+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.guim.co.uk/img/media/02504fb546aa7328acf6e6b1cd1d2c7d3d81ca6c/279_0_4241_3395/master/4241.jpg?width=140&quality=85&auto=format&fit=max&s=3dac93813f64df5d2df43ea72454c768"
+  },
+  {
+    "id": "e141ae39797533ab",
+    "title": "Литва викликала представника Білорусі через порушення повітряного простору",
+    "summary": "Йдеться про інцидент з повітряними кулями з Білорусі, в яких могла міститися контрабанда.",
+    "url": "https://lb.ua/world/2026/05/15/738370_litva_viklikala_predstavnika.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-14T21:57:00+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.lb.ua/news/008/20/6a064410deb4e.jpg"
+  },
+  {
+    "id": "cdb17976d018f870",
+    "title": "Сибіга обговорив із очільником МЗС Молдови регіональну безпеку та курс на вступ до ЄС",
+    "summary": "Сибіга та Попшой провели зустріч, обговорили регіональну безпеку та курс на зміцнення партнерства.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034748/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-14T21:54:00+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/7/828666/c7dcb2fe4c2a336fa9c4b08c7bdcc3a7.jpeg"
+  },
+  {
+    "id": "8f7b86f90f213ad4",
+    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "summary": "Article URL: https://www.openvehicles.com/home Comments URL: https://news.ycombinator.com/item?id=48141732 Points: 7 # Comments: 1",
+    "url": "https://www.openvehicles.com/home",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T21:50:17+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": null
+  },
+  {
+    "id": "8ea7fddba0fe0154",
+    "title": "В Одесі натовп намагався відбити у поліцейських затриманого військового у СЗЧ",
+    "summary": "Один з чоловіків пошкодив службове авто правоохоронців.",
+    "url": "https://lb.ua/society/2026/05/15/738368_odesi_natovp_namagavsya_vidbiti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-14T21:42:00+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.lb.ua/news/119/08/6a0641859e03f.jpg"
+  },
+  {
+    "id": "14e5781f873f7bdc",
+    "title": "Metroid Prime 4: Beyond got its first big discount",
+    "summary": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on…",
+    "url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T21:38:45+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Switch_MetroidPrime4Beyond_SCRN_Samus_01.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "63bb7beba4e34b8f",
+    "title": "Дональд Трамп запросив Сі Цзіньпіна до Вашингтона у вересні",
+    "summary": "Це буде третя зустріч лідерів.",
+    "url": "https://lb.ua/world/2026/05/15/738366_donald_tramp_zaprosiv_si.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-14T21:28:00+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.lb.ua/news/098/08/6a063e767461d.jpg"
+  },
+  {
+    "id": "fa3fa7928632c669",
+    "title": "Україна вийшла до фіналу Євробачення-2026",
+    "summary": "Leleka виступить у суботу з піснею Ridnym у боротьбі за \"Кришталевий мікрофон\".",
+    "url": "https://lb.ua/culture/2026/05/15/738364_ukrayina_viyshla_finalu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-14T21:16:00+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.lb.ua/news/115/58/6a063991a3991.jpg"
+  },
+  {
+    "id": "9fa7b35ebade4710",
+    "title": "Photo of US-China delegation criticized over absence of women: ‘masculine, militarized and exclusionary’",
+    "summary": "‘Backward’ photo panned for display of patriarchy, signaling that ‘women’s voices don’t matter in shaping global order’ By the time Donald Trump and Xi Jinping met at Beijing’s Great Hall of the People on Thursday, the bilateral had featured all the expected pomp and pageantry:…",
+    "url": "https://www.theguardian.com/world/2026/may/14/us-china-delegation-photo-no-women",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-14T21:15:54+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.guim.co.uk/img/media/65be1bc0fd1e0f083b2b63f327f4dee8d7a4e884/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=466df68a9dcfabf88561637d1d8826a6"
+  },
+  {
     "id": "a2450b6c11a475fa",
     "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
     "summary": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger, Instagram and with \"native Android and iOS messaging,\"…",
@@ -12,6 +156,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0139.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "eb0c24c6c0e15c3f",
+    "title": "Claude for Legal",
+    "summary": "Article URL: https://github.com/anthropics/claude-for-legal Comments URL: https://news.ycombinator.com/item?id=48141234 Points: 34 # Comments: 23",
+    "url": "https://github.com/anthropics/claude-for-legal",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T21:05:05+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://opengraph.githubassets.com/99bc1c0360d51312f229513656e75898e6363d2fb22933b82a57310ce70ecc28/anthropics/claude-for-legal"
+  },
+  {
     "id": "90c9a9a74063a906",
     "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
     "summary": "One little mystery—solved.",
@@ -22,6 +178,18 @@
     "published": "2026-05-14T21:02:53+00:00",
     "fetched": "2026-05-14T21:17:42+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2236514491-1152x648-1778791403.jpg"
+  },
+  {
+    "id": "0cbe92e9baf748e7",
+    "title": "Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
+    "summary": "Runo is a web-scraping API that returns typed, structured JSON. You define a schema (field name, type, example value), and Runo fetches the page and returns the data. No HTML, no parsers, no post-processing. Over the past few weeks, I have been building this non stop. Currently,…",
+    "url": "https://scrapewithruno.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T21:02:01+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": null
   },
   {
     "id": "6a32e67afb43545a",
@@ -60,6 +228,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "d73aaf6583d38cee",
+    "title": "Minimal Structures",
+    "summary": "Article URL: https://chefcinnamon.github.io/memo/posts/minimal-structures/ Comments URL: https://news.ycombinator.com/item?id=48141060 Points: 6 # Comments: 1",
+    "url": "https://chefcinnamon.github.io/memo/posts/minimal-structures/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T20:50:46+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://files.catbox.moe/zh3y51.png"
+  },
+  {
     "id": "b623febf678f3a7a",
     "title": "ФБР пропонує $200 тисяч за інформацію про ексрозвідницю, яка могла шпигувати на Іран",
     "summary": "",
@@ -72,6 +252,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/7/0/70c6afa---------------2026-05-14-214902.jpg"
   },
   {
+    "id": "025c8e1a7e94f030",
+    "title": "Five Italians die during cave dive in Maldives",
+    "summary": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+    "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-14T20:48:26+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c108/live/0e164e80-4fd4-11f1-a2ac-8711222752cc.jpg"
+  },
+  {
     "id": "9870a571efcfa1f9",
     "title": "В п'ятницю в Україні прогріється до 22°, місцями короткочасні дощі.",
     "summary": "На Закарпатті та Прикарпатті можливі грози.",
@@ -82,6 +274,18 @@
     "published": "2026-05-14T20:47:00+00:00",
     "fetched": "2026-05-14T21:17:42+00:00",
     "image": "https://i.lb.ua/news/048/34/6a0634d7ed214.jpg"
+  },
+  {
+    "id": "1ed39272ad57ebf6",
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "summary": "Article URL: https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing Comments URL: https://news.ycombinator.com/item?id=48140953 Points: 26 # Comments: 0",
+    "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T20:41:48+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://www.synacktiv.com/sites/default/files/styles/blog_grid_view/public/2026-04/blogpost.png"
   },
   {
     "id": "a32bb7c8d8457305",
@@ -166,6 +370,18 @@
     "published": "2026-05-14T20:06:53+00:00",
     "fetched": "2026-05-14T21:17:42+00:00",
     "image": null
+  },
+  {
+    "id": "69a36c51d12328d5",
+    "title": "Work with Codex from Anywhere",
+    "summary": "Article URL: https://openai.com/index/work-with-codex-from-anywhere/ Comments URL: https://news.ycombinator.com/item?id=48140529 Points: 60 # Comments: 14",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-14T20:06:14+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&h=900&fit=fill"
   },
   {
     "id": "221cd671cc138fa9",
@@ -982,6 +1198,18 @@
     "published": "2026-05-14T16:28:00+00:00",
     "fetched": "2026-05-14T17:57:46+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/2/828520/424a634bc1be93d1ffdb5188f68c313f.jpeg"
+  },
+  {
+    "id": "6ac59dffa04b0fa7",
+    "title": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome",
+    "summary": "Island breathes sigh of relief as fears recede that US could jettison longstanding support Before this week’s summit between the Chinese and US presidents, Taiwan had been cast as the anxious bystander. Observers suggested that Taipei feared the unpredictable and transactional…",
+    "url": "https://www.theguardian.com/world/2026/may/14/taiwan-trump-silence-xi-meeting-best-outcome",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-14T16:24:05+00:00",
+    "fetched": "2026-05-14T22:37:05+00:00",
+    "image": "https://i.guim.co.uk/img/media/ff745b987e37d26eaa31ba369243113b1e426106/445_17_2394_1916/master/2394.jpg?width=140&quality=85&auto=format&fit=max&s=9740e50581030f947cebd2b2c9cfafdc"
   },
   {
     "id": "ef9cab86c84df752",
