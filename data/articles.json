@@ -1,5 +1,197 @@
 [
   {
+    "id": "6e5925211c37d615",
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references…",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:38:19+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3fa6903308b592d8",
+    "title": "На Нікопольщині евакуювали три родини з дітьми, які перебували під постійними обстрілами",
+    "summary": "В низці населених пунктів Дніпропетровщини триває примусова евакуація.",
+    "url": "https://lb.ua/society/2026/05/15/738628_nikopolschini_evakuyuvali_tri.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:24:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://i.lb.ua/news/012/27/6a07811529893.jpg"
+  },
+  {
+    "id": "9892aaa51ae5cb3f",
+    "title": "ЗМІ: У Греції припускають, що \"український\" морський дрон збився з курсу через несправність",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034912/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:15:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/d/6d241ca---------------2026-05-15-214806.jpg"
+  },
+  {
+    "id": "e8f668f744cf8bef",
+    "title": "Palantir has hired more than 30 senior UK Government officials",
+    "summary": "Article URL: https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/ Comments URL: https://news.ycombinator.com/item?id=48153183 Points: 19 # Comments: 1",
+    "url": "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:06:51+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://www.thenational.scot/resources/images/19155430.jpg?type=og-image"
+  },
+  {
+    "id": "df7da7e346ab61b4",
+    "title": "Microscale Thermite Reaction",
+    "summary": "Article URL: https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction Comments URL: https://news.ycombinator.com/item?id=48153142 Points: 15 # Comments: 3",
+    "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:03:17+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": null
+  },
+  {
+    "id": "64d71d63f25a8f15",
+    "title": "Від початку доби на фронті зафіксували 221 зіткнення – Генштаб",
+    "summary": "Від початку доби 15 травня на фронті відбулось 221 бойове зіткнення, з них 30 – на Покровському напрямку.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034911/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:00:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/829282/e2dee981cec697de38ab8957cc24ab09.jpeg"
+  },
+  {
+    "id": "3f8ec22f9e9c379c",
+    "title": "Мадяр планує передати дитячому будинку в Україні компенсації, що мали отримати ексміністри уряду Орбана",
+    "summary": "За законом Угорщини, міністри, які йдуть у відставку, мають право на компенсаційні виплати.",
+    "url": "https://lb.ua/world/2026/05/15/738626_madyar_planuie_peredati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T19:58:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://i.lb.ua/news/073/39/6a077adf23a16.jpg"
+  },
+  {
+    "id": "552b60639b0a84bd",
+    "title": "На Київщині під час гасіння пожеж вогнеборці врятували двох оленят",
+    "summary": "Одного з них винесли з території Зони відчуження, інше виявили на Фастівщині.",
+    "url": "https://lb.ua/society/2026/05/15/738624_kiyivschini_pid_chas_gasinnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T19:35:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://i.lb.ua/news/095/14/6a077580cfb75.jpg"
+  },
+  {
+    "id": "4662de4e812e2477",
+    "title": "Meta to receive $3.3B in tax breaks for its $10B Louisiana data center",
+    "summary": "Article URL: https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/ Comments URL: https://news.ycombinator.com/item?id=48152825 Points: 39 # Comments: 5",
+    "url": "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T19:32:34+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2243421328_a402cf-e1778779465584.jpg?resize=1200,600"
+  },
+  {
+    "id": "10b6ec736270fab1",
+    "title": "По всій Україні оголошували повітряну тривогу через зліт МіГ-31",
+    "summary": "Увечері 15 травня по всій території України оголошували повітряну тривогу через загрозу ракетного удару.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034910/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T19:30:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/b/829281/6bff77a0b068ebf1b8a7ac5f2de1ca6f.jpeg"
+  },
+  {
+    "id": "8c9694cd8144f0af",
+    "title": "Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html Comments URL: https://news.ycombinator.com/item?id=48152777 Points: 51 # Comments: 15",
+    "url": "https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T19:27:15+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": null
+  },
+  {
+    "id": "9ab8e5947d21f608",
+    "title": "WinCE64 – Windows CE 2.11 for N64",
+    "summary": "Article URL: https://github.com/ThroatyMumbo/WinCE64 Comments URL: https://news.ycombinator.com/item?id=48152729 Points: 46 # Comments: 9",
+    "url": "https://github.com/ThroatyMumbo/WinCE64",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T19:23:29+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://opengraph.githubassets.com/bdf6e3f908240d7194ba476cf082f7588ca61b73096cadf5fa2bd49b131e495f/ThroatyMumbo/WinCE64"
+  },
+  {
+    "id": "ae18013600a9aadd",
+    "title": "У Дніпрі автівка знесла зупинку громадського транспорту: загинула жінка, є поранені",
+    "summary": "У Дніпрі внаслідок ДТП 15 травня загинула жінка, отримали тілесні ушкодження пішохід та двоє водіїв.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034908/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T19:13:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/829275/6d7ca9a62556373af96a17af67a0f2c9.jpeg"
+  },
+  {
+    "id": "09594a130640cb06",
+    "title": "Генштаб: 221 бойове зіткнення зафіксували на фронті від початку доби",
+    "summary": "Кількість боїв значно збільшилась за останні дні. Найбільше ворожих атак відбили на Покровському напрямку.",
+    "url": "https://lb.ua/society/2026/05/15/738622_genshtab_221_boyove_zitknennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T19:12:00+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://i.lb.ua/news/110/61/6a07701ad4eb5.jpg"
+  },
+  {
+    "id": "8e8626525d4bb05f",
+    "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
+    "summary": "Instead of running silent and deep, most satellites easily stand out against the blackness of space.",
+    "url": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T19:11:48+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/usa325_kosmos2589_vis1-1152x648-1778871135.jpg"
+  },
+  {
+    "id": "73b7fa8a9e4ce9c4",
+    "title": "ABC News has taken all FiveThirtyEight articles offline",
+    "summary": "Article URL: https://twitter.com/baseballot/status/2055309076209492208 Comments URL: https://news.ycombinator.com/item?id=48152553 Points: 80 # Comments: 38",
+    "url": "https://twitter.com/baseballot/status/2055309076209492208",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T19:07:08+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://pbs.twimg.com/profile_images/1328713692834357249/BuxOSiS1_200x200.jpg"
+  },
+  {
     "id": "b6a3a2bf115d19f0",
     "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
     "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
@@ -48,6 +240,30 @@
     "image": "https://img.eurointegration.com.ua/images/doc/4/0/4061b44-9.jpg"
   },
   {
+    "id": "5615f1ad5b6d2dd0",
+    "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
+    "summary": "WHO learned of potential cases May 5; US CDC said it just heard about it yesterday.",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:51:43+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg"
+  },
+  {
+    "id": "b0058ab27d5ebb53",
+    "title": "Echoes (Live at Pompeii)",
+    "summary": "Article URL: https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics Comments URL: https://news.ycombinator.com/item?id=48152273 Points: 11 # Comments: 6",
+    "url": "https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:43:59+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": null
+  },
+  {
     "id": "ce3ee4eb15379d99",
     "title": "The Analogue 3D is finally getting save states",
     "summary": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment and resume from that exact spot later on, rather than…",
@@ -58,6 +274,18 @@
     "published": "2026-05-15T18:43:43+00:00",
     "fetched": "2026-05-15T19:06:05+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0240.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "f281a640c7ade30c",
+    "title": "The Zulip Foundation",
+    "summary": "Article URL: https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/ Comments URL: https://news.ycombinator.com/item?id=48152168 Points: 34 # Comments: 4",
+    "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:37:01+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": "https://blog.zulip.com/_astro/zulip-cover.CJjNjBYz.png"
   },
   {
     "id": "45b27ddcd08274e6",
@@ -190,6 +418,18 @@
     "published": "2026-05-15T18:00:43+00:00",
     "fetched": "2026-05-15T19:06:08+00:00",
     "image": "https://image.cnbcfm.com/api/v1/image/108253204-1768506877899-gettyimages-2256473943-bb2_5286_mct2m6ds.jpeg?v=1771516627&w=1920&h=1080"
+  },
+  {
+    "id": "16e64c87606a65e9",
+    "title": "Building a UMatrix Replacement",
+    "summary": "Article URL: https://lock.cmpxchg8b.com/umatrix.html Comments URL: https://news.ycombinator.com/item?id=48151761 Points: 14 # Comments: 4",
+    "url": "https://lock.cmpxchg8b.com/umatrix.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:00:03+00:00",
+    "fetched": "2026-05-15T20:41:15+00:00",
+    "image": null
   },
   {
     "id": "41c1a6a6c9774e18",
@@ -40666,29 +40906,5 @@
     "published": "2026-05-01T21:05:37+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2163390042-1152x648.jpg"
-  },
-  {
-    "id": "d060d271610f7179",
-    "title": "Pope appoints former undocumented immigrant as bishop of West Virginia",
-    "summary": "Leo, who has criticized Trump’s hardline immigration policy, selected Evelio Menjivar-Ayala as state’s new bishop Sign up for the Breaking News US email to get newsletter alerts in your inbox Pope Leo XIV has appointed a man who had once entered the United States as an…",
-    "url": "https://www.theguardian.com/us-news/2026/may/01/pope-former-undocumented-immigrant-bishop-west-virginia",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-01T19:15:40+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://i.guim.co.uk/img/media/10846e16d458e27ffb8d545cf9b55d3224af87ff/250_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=b9e11f11d6ca8196ff1750fea7f90c71"
-  },
-  {
-    "id": "414a7d69ce81c95a",
-    "title": "Ubuntu infrastructure has been down for more than a day",
-    "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-01T19:12:26+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg"
   }
 ]
