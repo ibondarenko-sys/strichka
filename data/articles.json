@@ -1,5 +1,389 @@
 [
   {
+    "id": "b6a3a2bf115d19f0",
+    "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+    "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+    "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T19:01:38+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2c/live/b1a99d90-508d-11f1-b682-cf91850925ea.jpg"
+  },
+  {
+    "id": "80f671b80dfdb0b4",
+    "title": "Пов'язані з Іраном бойовики планували напади в США та Європі",
+    "summary": "Йдеться про щонайменше 18 терористичних атак.",
+    "url": "https://lb.ua/world/2026/05/15/738620_povyazani_z_iranom_boyoviki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:56:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/054/62/6a076c69d5274.jpg"
+  },
+  {
+    "id": "d2d68979c6e78fe9",
+    "title": "США і Китай претендують на високозбагачений уран з Ірану",
+    "summary": "Наразі кілька сотень кілограмів урану перебувають під завалами після військових ударів по ядерних об'єктах Ірану.",
+    "url": "https://lb.ua/world/2026/05/15/738618_ssha_kitay_pretenduyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:53:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/061/02/6a076bf13f3a7.jpg"
+  },
+  {
+    "id": "635c38ffdd1b6838",
+    "title": "В МЗС Грузії заявили, що вказали Україні на перешкоди у нормалізації відносин",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034905/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:53:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/0/4061b44-9.jpg"
+  },
+  {
+    "id": "ce3ee4eb15379d99",
+    "title": "The Analogue 3D is finally getting save states",
+    "summary": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment and resume from that exact spot later on, rather than…",
+    "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:43:43+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0240.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "45b27ddcd08274e6",
+    "title": "Трамп заявив, що російський удар по Києву може зашкодити мирним переговорам",
+    "summary": "Він додав, що Вашингтон і Пекін хотіли б домогтися врегулювання війни в Україні.",
+    "url": "https://lb.ua/news/2026/05/15/738616_tramp_zayaviv_scho_rosiyskiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:32:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/036/37/6a0766e2b0517.jpg"
+  },
+  {
+    "id": "fe66125c1e48338f",
+    "title": "Preprint server arXiv will ban submitters of AI-generated hallucinations",
+    "summary": "One of the site's moderators described the new policy on social media.",
+    "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:25:53+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
+  },
+  {
+    "id": "c775c16d29241726",
+    "title": "Женева втрачає фінансування і кадри через політику президента США Трампа",
+    "summary": "Місту загрожує поява порожніх «районів-привидів» через надлишок офісних площ.",
+    "url": "https://lb.ua/world/2026/05/15/738614_zheneva_vtrachaie_finansuvannya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:23:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/022/06/6a0764d80c46a.jpg"
+  },
+  {
+    "id": "59911f201be4108e",
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:21:35+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b41c43650492a585",
+    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+    "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:13:33+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg"
+  },
+  {
+    "id": "2c9180465f755397",
+    "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
+    "summary": "Article URL: https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/ Comments URL: https://news.ycombinator.com/item?id=48151863 Points: 11 # Comments: 1",
+    "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:11:03+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/tim-cook-china-pin.jpg?resize=1200,840"
+  },
+  {
+    "id": "2aadcdb8c7272620",
+    "title": "Трамп застеріг Тайвань від проголошення незалежності: хоче, щоб Китай заспокоївся",
+    "summary": "Трамп відмовився гарантувати підписання пакета зброї для Тайваню та закликав уникати ескалації з Китаєм.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034903/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:10:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/7/829253/97ee04ce7c54f72bece60281256942e8.jpeg"
+  },
+  {
+    "id": "375ead5e79e3a71c",
+    "title": "ЗМІ: гроші на заставу для Андрія Єрмака, ймовірно, уже зібрали",
+    "summary": "Через те, що банки вже не працюють, всі кошти ще не зарахували.",
+    "url": "https://lb.ua/society/2026/05/15/738610_zmi_groshi_zastavu_andriya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:08:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/080/10/6a07611acf593.jpg"
+  },
+  {
+    "id": "e1441129e2c7d9e7",
+    "title": "US to seek death penalty for suspect in killing of Israeli embassy staff members",
+    "summary": "The US government alleges that Elias Rodriguez shot and killed a young Jewish couple at an event in Washington last May.",
+    "url": "https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T18:03:57+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd8/live/2926d4d0-5081-11f1-b637-39d6d94b351f.jpg"
+  },
+  {
+    "id": "98d5d9891af5e6b9",
+    "title": "Нардеп Мазурашу зареєстрував законопроєкт про заборону ворожіння і штрафи за надання езотеричних послуг",
+    "summary": "Штрафи та конфіскація майна передбачаються за первинне порушення, а за повторне — посилення покарання.",
+    "url": "https://lb.ua/news/2026/05/15/738612_nardep_mazurashu_zareiestruvav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T18:03:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/087/06/6a07629e95b64.jpg"
+  },
+  {
+    "id": "502575c238fec5a2",
+    "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html Comments URL: https://news.ycombinator.com/item?id=48151767 Points: 27 # Comments: 26",
+    "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T18:00:43+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://image.cnbcfm.com/api/v1/image/108253204-1768506877899-gettyimages-2256473943-bb2_5286_mct2m6ds.jpeg?v=1771516627&w=1920&h=1080"
+  },
+  {
+    "id": "41c1a6a6c9774e18",
+    "title": "Judge declares another mistrial in Harvey Weinstein New York rape charge",
+    "summary": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
+    "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T17:57:12+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7a/live/3c2b1fc0-4fda-11f1-ab9a-17f0869e9914.jpg"
+  },
+  {
+    "id": "b9e681006d720f00",
+    "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
+    "summary": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
+    "url": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:55:55+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg"
+  },
+  {
+    "id": "41aee5936ab2972e",
+    "title": "Російські війська вдарили з артилерії по Комишанах Херсонської області",
+    "summary": "Двоє людей поранені.",
+    "url": "https://lb.ua/society/2026/05/15/738608_rosiyski_viyska_vdarili_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:49:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/099/42/6a075cb6de1a0.jpg"
+  },
+  {
+    "id": "7876ca8f0c0e835a",
+    "title": "У Фінляндії через загрозу дронів оголошували повітряну тривогу, не ходив транспорт",
+    "summary": "Через тривогу 15 травня у Фінляндії не вийшли автобуси, були затримки у магазинах і скасовані рейси в аеропорту.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034901/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:48:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/d/829244/5dfe9d817f76fce27c4cb11d06782dca.jpeg"
+  },
+  {
+    "id": "653fcc82ee08b619",
+    "title": "Єврокомісія готує нові обмеження на торгівлю з Китаєм через загрозу деіндустріалізації",
+    "summary": "ЄС хоче стримати китайський експорт, аби зберегти свою економіку.",
+    "url": "https://lb.ua/world/2026/05/15/738606_ievrokomisiya_gotuie_novi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:47:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/034/48/6a075c7503508.jpg"
+  },
+  {
+    "id": "69b5076935fbfb74",
+    "title": "One of Intel’s fastest desktop CPUs is $50 off",
+    "summary": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor giving AMD’s pricier X3D cache-equipped Ryzen 9000-series CPUs…",
+    "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:46:20+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25817865/core_ultra_series2_hx_hero_00.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "468309528719cfc0",
+    "title": "Лубінець: 193 військових, що повернулись під час обміну, перебували в полоні з 2022 року",
+    "summary": "Їх медичний стан важкий, всі воїни дуже схудли.",
+    "url": "https://lb.ua/society/2026/05/15/738604_lubinets_193_viyskovih_scho.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:42:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/080/32/6a075b26d879c.jpg"
+  },
+  {
+    "id": "5edd2b95e292fa3d",
+    "title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
+    "summary": "Trump administration move echoes indictment of Venezuela’s Nicolás Maduro as fuel crisis racks Cuba Tensions between Cuba and US seem set to rise further amid reports that Raúl Castro, the country’s 94-year-old former president, may soon face the type of indictment that led to…",
+    "url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T17:31:49+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.guim.co.uk/img/media/51afd61cb85427ed4b52ddd27d8ec0d0252dce4a/331_0_5136_4108/master/5136.jpg?width=140&quality=85&auto=format&fit=max&s=6cf6c973771880c3ed823f4b4c619eea"
+  },
+  {
+    "id": "0ff0cc29d385ac21",
+    "title": "Сирський обговорив ситуацію на фронті із начальником Штабу оборони Британії",
+    "summary": "Особливу увагу приділили сучасним технологіям на фронті.",
+    "url": "https://lb.ua/world/2026/05/15/738602_sirskiy_obgovoriv_situatsiyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:31:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/024/36/6a075873434fb.jpg"
+  },
+  {
+    "id": "616bd970d78ff6e1",
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "summary": "Article URL: https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/ Comments URL: https://news.ycombinator.com/item?id=48151383 Points: 121 # Comments: 61",
+    "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:28:24+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://macdailynews.com/wp-content/uploads/2026/05/260515_auto_agent.png"
+  },
+  {
+    "id": "ee6d027de52f6620",
+    "title": "Росіяни знову атакували Запоріжжя: троє людей отримали поранення",
+    "summary": "Російська армія ввечері 15 травня знову атакувала Запоріжжя: поцілили у промислову інфраструктуру, житлові будинки та поранили трьох людей.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034896/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:23:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/829237/c8a38a8f80b1bb49505b291a4df5b0bf.jpeg"
+  },
+  {
+    "id": "7fc9885d3be4b787",
+    "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+    "summary": "Article URL: https://github.com/bahdotsh/feedr Comments URL: https://news.ycombinator.com/item?id=48151317 Points: 9 # Comments: 4",
+    "url": "https://github.com/bahdotsh/feedr",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:22:53+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://opengraph.githubassets.com/f963851189e5925871ee4ff111168625512e6eabe25a64b0de7de0273d3f9908/bahdotsh/feedr"
+  },
+  {
+    "id": "f5bad3ea3aa4b0af",
+    "title": "Свириденко: усі цільові дитячі виплати будуть надходити на один спецрахунок",
+    "summary": "Також розшириено перелік доступних категорій для оплати.",
+    "url": "https://lb.ua/economics/2026/05/15/738598_sviridenko_usi_tsilovi_dityachi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:18:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/112/56/6a075552d8b06.jpg"
+  },
+  {
+    "id": "3de0bb951ccd29b9",
+    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "summary": "Article URL: https://github.com/gdevic/FPGA-Calculator Comments URL: https://news.ycombinator.com/item?id=48151237 Points: 34 # Comments: 4",
+    "url": "https://github.com/gdevic/FPGA-Calculator",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:15:58+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://opengraph.githubassets.com/625f3e43cb5a9555d81f730aa98c4100634e5441d2e8c827e5e3b187bef90485/gdevic/FPGA-Calculator"
+  },
+  {
+    "id": "94cc4193e3b1b48e",
+    "title": "Aperio Lang",
+    "summary": "Article URL: https://aperio-lang.github.io/aperio/introduction.html Comments URL: https://news.ycombinator.com/item?id=48151199 Points: 24 # Comments: 12",
+    "url": "https://aperio-lang.github.io/aperio/introduction.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:12:48+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": null
+  },
+  {
+    "id": "6199a18825a86889",
+    "title": "Поліцейські ліквідували зловмисника, який застрелив працівника поліції на Хмельниччині",
+    "summary": "Втікаючи, він кинув гранату у бік лісників, які їхали на авто.",
+    "url": "https://lb.ua/society/2026/05/15/738596_politseyski_likviduvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T17:10:00+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://i.lb.ua/news/030/18/6a07538376c75.jpg"
+  },
+  {
     "id": "2df07e73eb3b66fe",
     "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
     "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT,…",
@@ -12,6 +396,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "6577e65e0e3f86aa",
+    "title": "Making cement from a different type of rock could clean up emissions",
+    "summary": "Limestone might not be the only source for Portland cement.",
+    "url": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:06:59+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg"
+  },
+  {
     "id": "564cdff91319d152",
     "title": "Росія обстріляла дронами Харків, поранена одна людина",
     "summary": "Також сталося влучання БпЛА у непрацююче підприємство.",
@@ -22,6 +418,30 @@
     "published": "2026-05-15T17:06:00+00:00",
     "fetched": "2026-05-15T17:10:54+00:00",
     "image": "https://i.lb.ua/news/118/37/6a0752dd6db55.jpg"
+  },
+  {
+    "id": "ae7a52c233bb6d91",
+    "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+    "summary": "Article URL: https://github.com/sleuth-io/sx Comments URL: https://news.ycombinator.com/item?id=48151058 Points: 13 # Comments: 4",
+    "url": "https://github.com/sleuth-io/sx",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:03:22+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://opengraph.githubassets.com/dd7af3a6e6cd77f221b20a2c0415914160eb3ba20d296d13369c96c6d56ba295/sleuth-io/sx"
+  },
+  {
+    "id": "dc63ab3b83c02be0",
+    "title": "Hightouch (YC S19) Is Hiring",
+    "summary": "Article URL: https://hightouch.com/careers Comments URL: https://news.ycombinator.com/item?id=48151034 Points: 0 # Comments: 0",
+    "url": "https://hightouch.com/careers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T17:01:15+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://hightouch.com/assets/meta.png"
   },
   {
     "id": "fb29fbcdd8ebf439",
@@ -48,6 +468,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/7/829226/07aa77e71c179173ad4869da19cef8af.jpeg"
   },
   {
+    "id": "935406e236d5f4f0",
+    "title": "We don't know why Malawi is poor",
+    "summary": "Article URL: https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor Comments URL: https://news.ycombinator.com/item?id=48150971 Points: 64 # Comments: 72",
+    "url": "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T16:57:05+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!WYd6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4a182e1-7166-41dc-aa33-dc02253a9c93_2119x1488.png"
+  },
+  {
     "id": "58b3bf4d2926aba9",
     "title": "Україні вдалося повернути ще трох дітей з тимчасово окупованої Херсонщини",
     "summary": "Сімнадцятирічного хлопця росіяни постійно залякували електрошокером.",
@@ -58,6 +490,18 @@
     "published": "2026-05-15T16:54:00+00:00",
     "fetched": "2026-05-15T17:10:54+00:00",
     "image": "https://i.lb.ua/news/082/10/6a074fbfb1f3d.jpg"
+  },
+  {
+    "id": "f27584245b835a76",
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "summary": "Article URL: https://github.com/oven-sh/bun/issues/30719 Comments URL: https://news.ycombinator.com/item?id=48150900 Points: 142 # Comments: 82",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T16:51:25+00:00",
+    "fetched": "2026-05-15T19:06:08+00:00",
+    "image": "https://opengraph.githubassets.com/d2426dc3202a64defef79e81ea03c0b1f2cc5e3b2d60612f95042d9bdfa0c1f7/oven-sh/bun/issues/30719"
   },
   {
     "id": "6d7b974ab310c2fd",
@@ -130,6 +574,18 @@
     "published": "2026-05-15T16:38:50+00:00",
     "fetched": "2026-05-15T17:10:59+00:00",
     "image": "https://firethering.com/wp-content/uploads/2026/05/ChatGPT-Wants-Access-to-Your-Bank-Account.jpg"
+  },
+  {
+    "id": "722a2649c69a4bdb",
+    "title": "Bill to block publishers from killing online games advances in California",
+    "summary": "Publishers would have to offer \"independent\" play patch or refunds after server shutdowns.",
+    "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T16:35:54+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg"
   },
   {
     "id": "810fe65f972f1ab9",
@@ -262,6 +718,18 @@
     "published": "2026-05-15T16:00:00+00:00",
     "fetched": "2026-05-15T17:10:54+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "65d02ed9fe47f1a2",
+    "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
+    "summary": "The automaker marked its first annual loss in more than 70 years.",
+    "url": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T15:56:33+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg"
   },
   {
     "id": "2d2100f6e0f7a5d0",
@@ -418,6 +886,18 @@
     "published": "2026-05-15T15:19:00+00:00",
     "fetched": "2026-05-15T15:23:18+00:00",
     "image": "https://i.lb.ua/news/126/45/6a073998b5e18.jpg"
+  },
+  {
+    "id": "de821bc7cdf1f28e",
+    "title": "Casimir force co-opted to generate free energy, midichlorians not included",
+    "summary": "The vacuum giveth, the vacuum taketh, but the vacuum doesn’t let you taketh.",
+    "url": "https://arstechnica.com/science/2026/05/casimir-force-co-opted-to-generate-free-energy-midichlorians-not-included/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T15:07:14+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/unicorn-rainbow-slinky-1152x648-1778853445.jpg"
   },
   {
     "id": "0a7823d0b4711d60",
@@ -1222,6 +1702,18 @@
     "published": "2026-05-15T11:43:00+00:00",
     "fetched": "2026-05-15T12:57:58+00:00",
     "image": "https://i.lb.ua/news/076/10/6a0706cc215af.jpg"
+  },
+  {
+    "id": "e009fbf1aa3764c0",
+    "title": "Why is Ireland not taking part in this year's Eurovision?",
+    "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+    "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T11:41:41+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b504/live/47d6ebc0-504c-11f1-a712-bdb9a88fa140.jpg"
   },
   {
     "id": "299476ba71ce411a",
@@ -2338,6 +2830,18 @@
     "published": "2026-05-15T05:14:00+00:00",
     "fetched": "2026-05-15T07:56:11+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/828746/181d967aae482ec968cf4b110ee71e10.jpeg"
+  },
+  {
+    "id": "f51956012f3fd8d9",
+    "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+    "summary": "\"Patriotic\" UK anti-immigration social media accounts have been traced to Sri Lanka and Vietnam.",
+    "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T05:01:37+00:00",
+    "fetched": "2026-05-15T19:06:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c664/live/adc17350-4f8f-11f1-9ab5-d7f2c647b333.png"
   },
   {
     "id": "2c79e641ccaceae1",
@@ -40186,53 +40690,5 @@
     "published": "2026-05-01T19:12:26+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg"
-  },
-  {
-    "id": "a1b2c3d4e5f60014",
-    "title": "Виставка Марії Примаченко відкрилась у Лондоні",
-    "summary": "У галереї Tate Modern представлено 87 робіт української художниці. Куратори підкреслюють синтез народної традиції та модернізму, який унікально визначив її стиль.",
-    "url": "https://example.com/prymachenko-tate",
-    "source": "Detector Media",
-    "category": "culture",
-    "lang": "uk",
-    "published": "2026-05-01T18:00:00+00:00",
-    "fetched": "2026-05-02T15:00:00+00:00",
-    "image": null
-  },
-  {
-    "id": "9a667a9b5283df68",
-    "title": "Senators ban themselves from prediction markets after candidates bet on own races",
-    "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-01T17:51:24+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg"
-  },
-  {
-    "id": "e0cc2e299c105d71",
-    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-    "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-01T17:36:29+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-1152x648.jpg"
-  },
-  {
-    "id": "aa788cb5c3a8c1d5",
-    "title": "Зеленський анонсував підвищення виплат військовим. Що може зміниться для IT-фахівців в армії",
-    "summary": "Президент Володимир Зеленський повідомив про підготовку до реформи армії. Один із головних напрямів — підвищення виплат військовим. Про це йдеться у повідомленні за підсумками зустрічі Зеленського з міністром оборони Михайлом Федоровим, представниками уряду та військового…",
-    "url": "https://dou.ua/lenta/news/reforms-in-the-army/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-05-01T17:16:14+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://s.dou.ua/img/announces/large_100-minister-days-site-main-page-08-jpg-aa3d8776e51.jpg"
   }
 ]
