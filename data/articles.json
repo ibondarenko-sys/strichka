@@ -1,5 +1,125 @@
 [
   {
+    "id": "a406c65c3274b1c2",
+    "title": "На вихідних в Україні переважно без опадів, лише на заході можливий дощ з грозою",
+    "summary": "Повітря прогріється до +23 °.",
+    "url": "https://lb.ua/society/2026/05/16/738640_vihidnih_ukrayini_perevazhno_bez.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T21:54:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://i.lb.ua/news/031/52/6a0795fe9b2eb.jpg"
+  },
+  {
+    "id": "d8d5456ad8214f03",
+    "title": "ООН \"забула\" про Росію у заяві-засудженні обстрілу свого автомобіля у Херсоні",
+    "summary": "Генеральний секретар боїться сказати прямо, хто двічі намагався підірвати гуманітарну місію.",
+    "url": "https://lb.ua/society/2026/05/16/738638_oon_zabula_pro_rosiyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T21:44:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://i.lb.ua/news/037/49/6a079389eb425.jpg"
+  },
+  {
+    "id": "d5d99a0b9097ec8e",
+    "title": "Ізраїль і Ліван під час переговорів у Вашингтоні домовилися продовжити перемир’я на 45 днів",
+    "summary": "Поки американський президент Дональд Трамп повертається з Китаю, у Вашингтоні під егідою Державного департаменту США відбулися переговори, в результаті яких було досягнуто продовження перемир'я між Ізраїлем та Ліваном, термін дії якого мав закінчитися в неділю.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034916/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T21:24:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/829309/807e504c441b9f86341fad1b10eb9cc4.jpeg"
+  },
+  {
+    "id": "7f5675b19da72cb4",
+    "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+    "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+    "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T21:17:05+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb5/live/e66605e0-508e-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "id": "25e7aa98f725f5f5",
+    "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+    "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the…",
+    "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T21:14:45+00:00",
+    "fetched": "2026-05-15T22:02:59+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "bf54ba6cd496d1e6",
+    "title": "Директор Євробачення заявив, що Росія могла б повернутися на конкурс до завершення війни",
+    "summary": "Виявляється, рішення про відсторонення росіян узагалі не пов'язане з агресією проти України.",
+    "url": "https://lb.ua/society/2026/05/16/738634_direktor_ievrobachennya_zayaviv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T21:10:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://i.lb.ua/news/010/54/6a078b7ed71b6.jpg"
+  },
+  {
+    "id": "47c6467629a4c3ff",
+    "title": "Ізраїль та Ліван домовились про продовження перемир'я",
+    "summary": "Припинення вогню діятиме 45 днів.",
+    "url": "https://lb.ua/world/2026/05/15/738630_izrayil_livan_domovilis_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:54:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://i.lb.ua/news/004/48/6a0787ff8ad41.jpg"
+  },
+  {
+    "id": "cade6a6a4bd92913",
+    "title": "У Молдові в 2025 році знизилася народжуваність",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034915/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:50:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/a/6a62591---------------2026-05-15-212223.jpg"
+  },
+  {
+    "id": "a11f46d79e3a13cf",
+    "title": "Головне за п’ятницю, 15 травня: понад 220 боєзіткнень, застави для учасників елітної ОЗГ, напад на поліцейських на Хмельниччині",
+    "summary": "Бойові дії на Донеччині, 221 бойове зіткнення, ворожі обстріли, Defense Tech-дискусія LB.ua. Яким запам’ятається 1542-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/15/738632_golovne_pyatnitsyu_15_travnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:49:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://i.lb.ua/news/085/35/6a07875218ff5.jpg"
+  },
+  {
+    "id": "4122c86014a5094e",
+    "title": "У Херсоні росіяни вбили 64-річного чоловіка",
+    "summary": "Російські війська 15 травня обстріляли середмістя Херсона: у лікарні від поранень помер 64-річний чоловік.",
+    "url": "https://www.pravda.com.ua/news/2026/05/15/8034914/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T20:43:00+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/829292/78be572809e14e9562b670b011cdf615.jpeg"
+  },
+  {
     "id": "6e5925211c37d615",
     "title": "ArXiv will ban researchers who upload papers full of AI slop",
     "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references…",
@@ -12,6 +132,42 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "0771e9691c29b47b",
+    "title": "Solar power production undercut by coal pollution",
+    "summary": "Each year, some of the power solar could have produced is blocked by aerosols.",
+    "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:36:05+00:00",
+    "fetched": "2026-05-15T22:02:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1317714747-1024x648.jpg"
+  },
+  {
+    "id": "915a69eb39c4d92c",
+    "title": "London Police Deploy Facial Recognition at Protest for First Time",
+    "summary": "Article URL: https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time Comments URL: https://news.ycombinator.com/item?id=48153400 Points: 41 # Comments: 19",
+    "url": "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:28:44+00:00",
+    "fetched": "2026-05-15T22:02:59+00:00",
+    "image": "https://reclaimthenet.org/wp-content/uploads/2026/05/aUwcuucxVRP1-scaled.jpg"
+  },
+  {
+    "id": "8d6b924dbc62dae7",
+    "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+    "summary": "Article URL: https://twitter.com/mitchellh/status/2055380239711457578 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 249 # Comments: 80",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:26:47+00:00",
+    "fetched": "2026-05-15T22:02:59+00:00",
+    "image": "https://pbs.twimg.com/profile_images/1141762999838842880/64_Y4_XB_200x200.jpg"
+  },
+  {
     "id": "3fa6903308b592d8",
     "title": "На Нікопольщині евакуювали три родини з дітьми, які перебували під постійними обстрілами",
     "summary": "В низці населених пунктів Дніпропетровщини триває примусова евакуація.",
@@ -22,6 +178,18 @@
     "published": "2026-05-15T20:24:00+00:00",
     "fetched": "2026-05-15T20:41:15+00:00",
     "image": "https://i.lb.ua/news/012/27/6a07811529893.jpg"
+  },
+  {
+    "id": "151472a42cccc05c",
+    "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+    "summary": "Newer AcuRite Now app lacks some features but has a subscription option.",
+    "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T20:16:24+00:00",
+    "fetched": "2026-05-15T22:02:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-1152x648-1778873721.jpg"
   },
   {
     "id": "9892aaa51ae5cb3f",
@@ -82,6 +250,30 @@
     "published": "2026-05-15T19:58:00+00:00",
     "fetched": "2026-05-15T20:41:15+00:00",
     "image": "https://i.lb.ua/news/073/39/6a077adf23a16.jpg"
+  },
+  {
+    "id": "cd2e5ab574c25158",
+    "title": "What China critics in Maga movement make of Trump's Beijing trip",
+    "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+    "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T19:52:54+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68fb/live/10803dd0-507d-11f1-b637-39d6d94b351f.jpg"
+  },
+  {
+    "id": "e1d452c08e667736",
+    "title": "Israel says it has killed Hamas commander in Gaza air strike",
+    "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
+    "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T19:38:38+00:00",
+    "fetched": "2026-05-15T22:02:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86e2/live/d0adc620-5093-11f1-8b8c-6d33e1d5abb6.jpg"
   },
   {
     "id": "552b60639b0a84bd",
@@ -40882,29 +41074,5 @@
     "published": "2026-05-01T22:23:36+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg"
-  },
-  {
-    "id": "b595e31fbfb34a69",
-    "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-    "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-    "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-01T22:00:59+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg"
-  },
-  {
-    "id": "4c84df2c88f257cc",
-    "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
-    "summary": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
-    "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-01T21:05:37+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2163390042-1152x648.jpg"
   }
 ]
