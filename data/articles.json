@@ -1,5 +1,197 @@
 [
   {
+    "id": "ee3a7b110835ba8e",
+    "title": "Водія, який на смерть збив військового на блокпосту в Києві, засудили на 7 років",
+    "summary": "Водія, який на блокпосту в Києві смертельно збив військового, засудили до 7 років ув'язнення.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034953/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T09:01:00+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/2/829429/d2f6791498d1690449607ad0dbfe5a96.jpeg"
+  },
+  {
+    "id": "b93f4d1a460bd8b7",
+    "title": "Фінляндія: Замість дратування через риторику США краще вкладатись в оборону Європи",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034950/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:53:00+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/d/4d554c0--.jpg"
+  },
+  {
+    "id": "0629ccdc3633e770",
+    "title": "У Сумах ворожі дрони пошкодили супермаркет і приватні будинки",
+    "summary": "У Стецьківському старостаті пошкоджені будинки.",
+    "url": "https://lb.ua/society/2026/05/16/738702_sumah_vorozhi_droni_poshkodili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:50:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/050/22/6a08305a19f77.jpg"
+  },
+  {
+    "id": "9cf4a9845b838f44",
+    "title": "Водію, що скоїв смертельне ДТП на блокпосту у Києві, присудили 7 років ув’язнення",
+    "summary": "Тоді один військовослужбовець загинув, а інший травмувався.",
+    "url": "https://lb.ua/pravo/2026/05/16/738700_vodiyu_scho_skoyiv_smertelne_dtp.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:50:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/065/12/6a082feabf545.jpg"
+  },
+  {
+    "id": "06fb2de4865430a2",
+    "title": "Сибіга: Спецтрибунал щодо злочину агресії РР проти України буде розташований у Гаазі",
+    "summary": "До Спецтрибуналу вже приєдналися 36 країн та Євросоюз.",
+    "url": "https://lb.ua/world/2026/05/16/738698_sibiga_spetstribunal_schodo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:32:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/112/49/6a082ba268b04.jpg"
+  },
+  {
+    "id": "6debcdc89fd871d2",
+    "title": "Тіла ще понад 500 загиблих військових повернули до України",
+    "summary": "16 травня репатріювали 528 тіл полеглих оборонців України. Триває ідентифікація загиблих слідчими органами.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034949/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:21:00+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/2/829411/42f54fc85c319562c47700e764bc85f5.jpeg"
+  },
+  {
+    "id": "2affdf6841644830",
+    "title": "Україна повернула тіла 528 полеглих захисників",
+    "summary": "За твердженням російської сторони, повернуті тіла належать українським військовослужбовцям.",
+    "url": "https://lb.ua/society/2026/05/16/738694_ukrayina_povernula_tila_528.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:21:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/042/16/6a0829605a6a4.jpg"
+  },
+  {
+    "id": "37fd7f6ef67f250b",
+    "title": "FT: НАТО тиснутиме на європейських виробників зброї, щоб вони збільшили інвестиції та виробництво",
+    "summary": "Генеральний секретар Альянсу Марк Рютте зустрінеться з представниками оборонних груп наступного тижня в Брюсселі.",
+    "url": "https://lb.ua/world/2026/05/16/738690_ft_nato_tisnutime_ievropeyskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:15:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/005/05/6a0827bea497d.jpg"
+  },
+  {
+    "id": "ebf80c9fa5f701f7",
+    "title": "У Херсоні через атаку російського дрона постраждала дитина",
+    "summary": "На момент удару 15-річний хлопець перебував у приміщенні.",
+    "url": "https://lb.ua/society/2026/05/16/738692_hersoni_cherez_ataku_rosiyskogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:14:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/044/38/6a0827662555b.jpg"
+  },
+  {
+    "id": "fa94b2a9849ae9dd",
+    "title": "Росіяни атакували Харків \"Молнією\": троє поранених",
+    "summary": "Троє чоловіків поранені унаслідок російського удару по Харкову вранці 16 травня.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034947/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:06:00+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/829409/895dbe7699206946fe9e4dd6e91f9bbb.jpeg"
+  },
+  {
+    "id": "f731351018945917",
+    "title": "Bloomberg: ОАЕ таємно завантажують газ на танкери, щоб перевозити його через Ормузьку протоку",
+    "summary": "Компанія намагається забезпечити безперебійне транспортування палива через Ормузьку протоку.",
+    "url": "https://lb.ua/world/2026/05/16/738688_bloomberg_oae_taiemno.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T08:04:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/008/23/6a08254662c80.jpg"
+  },
+  {
+    "id": "8b082f18bd95f6f6",
+    "title": "Трамп заявив про знищення другого командира ІДІЛ Абу-Білала аль-Мінукі",
+    "summary": "Спецоперацію провели американські та нігерійські сили.",
+    "url": "https://lb.ua/world/2026/05/16/738686_tramp_zayaviv_pro_znischennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T07:53:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/110/07/6a0822b2e5959.jpg"
+  },
+  {
+    "id": "be2fd8e75f6ef5db",
+    "title": "Трамп заявив про ліквідацію \"найактивнішого терориста у світі\"",
+    "summary": "США і Нігерія знищили Абу-Білала аль-Мінукі — другого за рангом лідера ІДІЛ, повідомив Дональд Трамп.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034946/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T07:45:00+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/829402/cf34526c91e6d4c16dcfccdbd2c9120c.jpeg"
+  },
+  {
+    "id": "2b0b8e4375fdae99",
+    "title": "Лубінець: Кремль на ТОТ України замінює українських священників і використовує церкву для підтримки армії",
+    "summary": "Росія активно поширює фейки про нібито порушення релігійних прав громадян в Україні.",
+    "url": "https://lb.ua/society/2026/05/16/738684_lubinets_kreml_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T07:41:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/095/09/6a081fa950b4f.jpg"
+  },
+  {
+    "id": "f5a8424c68a87d84",
+    "title": "​Зеленський відзначив державними нагородами українських військовослужбовців",
+    "summary": "Президент зокрема вручив ордени й відзнаки рідним полеглих воїнів, які нагороджені посмертно.",
+    "url": "https://lb.ua/society/2026/05/16/738680_zelenskiy_vidznachiv_derzhavnimi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T07:35:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/054/58/6a081e82217bd.jpg"
+  },
+  {
+    "id": "f61e1d146e2c9ae8",
+    "title": "На Київщині внаслідок атаки російських дронів пошкоджено будинки та техніку",
+    "summary": "Сили ППО збили 30 ударних дронів над Київщиною.",
+    "url": "https://lb.ua/society/2026/05/16/738682_kiyivschini_vnaslidok_ataki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T07:26:00+00:00",
+    "fetched": "2026-05-16T09:12:26+00:00",
+    "image": "https://i.lb.ua/news/071/43/6a081c18b70e5.jpg"
+  },
+  {
     "id": "7d68c68b0915ec81",
     "title": "У Британії новообрана адміністрація партії Reform UK зняла український прапор біля будівлі ради",
     "summary": "Лідер опозиції від Консервативної партії розкритикував це рішення, яке \"може мати політичні наслідки\".",
@@ -46,6 +238,18 @@
     "published": "2026-05-16T07:04:36+00:00",
     "fetched": "2026-05-16T07:21:09+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3951/live/8a118df0-50f2-11f1-93a7-b1fded84e358.jpg"
+  },
+  {
+    "id": "9b07d86aa6d34aed",
+    "title": "Frontier AI has broken the open CTF format",
+    "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 92 # Comments: 65",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T07:01:55+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": null
   },
   {
     "id": "43e0e2342ee282bc",
@@ -444,6 +648,18 @@
     "image": "https://i.lb.ua/news/074/24/6a07ce381131b.jpg"
   },
   {
+    "id": "ae72e853431302f3",
+    "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+    "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+    "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T01:37:27+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7816/live/82d5a7f0-50bc-11f1-a365-3d2203a67fc4.jpg"
+  },
+  {
     "id": "0f216bec221777ba",
     "title": "Трамп вирішує, чи відновлювати удари по Ірану – NYT",
     "summary": "За даними ЗМІ, Штати можуть відновити удари по Ірану, Трамп має прийняти рішення щодо цього.",
@@ -622,6 +838,30 @@
     "published": "2026-05-15T23:10:13+00:00",
     "fetched": "2026-05-15T23:29:17+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9456bea8a56249b9",
+    "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
+    "summary": "The Fatah faction elects top decision makers, but ordinary Palestinians feel the party and its leader are out of touch.",
+    "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T23:05:19+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009d/live/f18316f0-5072-11f1-b682-cf91850925ea.jpg"
+  },
+  {
+    "id": "43ca8a28cfa602e4",
+    "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+    "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
+    "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T23:04:33+00:00",
+    "fetched": "2026-05-16T09:12:25+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg"
   },
   {
     "id": "a60ec5a91b782fa0",
@@ -41674,29 +41914,5 @@
     "published": "2026-05-02T09:30:00+00:00",
     "fetched": "2026-05-02T15:00:00+00:00",
     "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1200&q=80"
-  },
-  {
-    "id": "87a7a60ec9635c90",
-    "title": "«Карати винних, не зупиняючи заводи». Що зброярі кажуть про скандал навколо Fire Point і якими будуть наслідки для компанії",
-    "summary": "Навколо української оборонної компанії Fire Point виникло обговорення після публікації так званих плівок Міндіча та звинувачень у його можливому впливі на оборонні контракти компанії. Йдеться про підозри в непрозорому розподілі фінансування, можливих зв’язках із Міноборони та…",
-    "url": "https://dou.ua/lenta/articles/thoughts-about-fire-point/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-05-02T08:31:37+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://s.dou.ua/img/announces/DC-8402x_93.jpg"
-  },
-  {
-    "id": "a1b2c3d4e5f60007",
-    "title": "Texty.org.ua опублікували розслідування про схеми у держзакупівлях",
-    "summary": "Журналісти проаналізували 12 тисяч тендерів за 2025 рік і виявили систему фіктивних учасників на загальну суму 2.4 млрд грн.",
-    "url": "https://texty.org.ua/example-investigation",
-    "source": "Texty.org.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-02T08:15:00+00:00",
-    "fetched": "2026-05-02T15:00:00+00:00",
-    "image": null
   }
 ]
