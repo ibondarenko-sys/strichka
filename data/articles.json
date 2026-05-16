@@ -1,5 +1,89 @@
 [
   {
+    "id": "efbce91f74ced389",
+    "title": "Буданов проти мобілізації чоловіків до 25 років: Ми знищимо майбутнє для держави",
+    "summary": "Голова Офісу президента Кирило Буданов виступає проти мобілізації чоловіків 18-25 років, оскільки це може знищити майбутнє держави.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8035004/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T20:00:00+00:00",
+    "fetched": "2026-05-16T20:11:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/a/829723/4a8e5c6646e3bc1e21ece99e8e5be214.jpeg"
+  },
+  {
+    "id": "3c4dec5715a48b05",
+    "title": "Світоліна виграла турнір WTA 1000 у Римі – 20-й кубок у кар'єрі",
+    "summary": "У фіналі Світоліна перемогла четверту ракетку світу Коко Гофф.",
+    "url": "https://lb.ua/sport/2026/05/16/738812_svitolina_vigrala_turnir_wta.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T19:42:00+00:00",
+    "fetched": "2026-05-16T20:11:54+00:00",
+    "image": "https://i.lb.ua/news/048/60/6a08c8a5acf04.jpg"
+  },
+  {
+    "id": "0e7d4f3e56b7f2b0",
+    "title": "Генштаб: За день 195 боїв, з них 16 – на Північно-Слобожанському і Курському напрямках",
+    "summary": "Гарячі бої на Покровському, Гуляйпільському, Північно-Слобожанському напрямках: 195 боєзіткнень за добу.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8035003/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T19:28:00+00:00",
+    "fetched": "2026-05-16T20:11:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/829706/c86ca0165de1a9fed70ce51352972422.jpeg"
+  },
+  {
+    "id": "93035725c16640d9",
+    "title": "Загалом від початку цієї доби на фронті відбулося 195 бойових зіткнень",
+    "summary": "Противник завдав 51 авіаційного удару, скинув 182 керовані авіабомби. Крім того, залучив для ураження 5768 дронів-камікадзе та здійснив 2226 обстрілів населених пунктів і позицій наших військ.",
+    "url": "https://lb.ua/society/2026/05/16/738810_zagalom_vid_pochatku_tsiieyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T19:22:00+00:00",
+    "fetched": "2026-05-16T20:11:54+00:00",
+    "image": "https://i.lb.ua/news/117/04/6a08c375b77f5.jpg"
+  },
+  {
+    "id": "661da65974e9fe69",
+    "title": "Why is this site named Antipope?",
+    "summary": "Article URL: https://www.antipope.org/charlie/old/antipope.html Comments URL: https://news.ycombinator.com/item?id=48162922 Points: 60 # Comments: 30",
+    "url": "https://www.antipope.org/charlie/old/antipope.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T19:15:40+00:00",
+    "fetched": "2026-05-16T20:11:54+00:00",
+    "image": null
+  },
+  {
+    "id": "50bb08e0253d2f22",
+    "title": "Japan runs out of robot wolves in fight against bears",
+    "summary": "Article URL: https://www.popsci.com/environment/japan-robot-wolf-army/ Comments URL: https://news.ycombinator.com/item?id=48162882 Points: 9 # Comments: 6",
+    "url": "https://www.popsci.com/environment/japan-robot-wolf-army/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T19:10:38+00:00",
+    "fetched": "2026-05-16T20:11:54+00:00",
+    "image": "https://www.popsci.com/wp-content/uploads/2026/05/Robot-Wolf-Farmer.jpg?quality=85&w=1200"
+  },
+  {
+    "id": "9b10e26131674bca",
+    "title": "У Бєлгородській області РФ російська авіабомба вбила місцевого жителя – ЗМІ",
+    "summary": "У Дубовому Бєлгородської області РФ російська авіабомба вбила чоловіка. Влада не розкрила причини загибелі.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8035002/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T19:10:00+00:00",
+    "fetched": "2026-05-16T20:11:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/b/829683/5b17011bcb24faa2840445ec12e29960.jpeg"
+  },
+  {
     "id": "e3ced237bb9a175d",
     "title": "У Франції у віці 30 років помер той-спанієль Лазар – претендент на звання «найстарішої собаки у світі»",
     "summary": "Лазар прожив 30 років і 5 місяців.",
@@ -58,6 +142,18 @@
     "published": "2026-05-16T18:32:00+00:00",
     "fetched": "2026-05-16T19:13:00+00:00",
     "image": "https://i.lb.ua/news/005/12/6a08b61f909b9.jpg"
+  },
+  {
+    "id": "1e2cae862288f6f1",
+    "title": "Man drives car into pedestrians in Italy, injuring eight",
+    "summary": "Seven people were injured, two seriously, before passers-by gave chase and stopped the man.",
+    "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T18:21:52+00:00",
+    "fetched": "2026-05-16T20:11:53+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba6/live/8d2b7de0-514f-11f1-89a3-d1f559421220.jpg"
   },
   {
     "id": "d04828c413c393ab",
@@ -190,6 +286,18 @@
     "published": "2026-05-16T17:12:58+00:00",
     "fetched": "2026-05-16T19:13:02+00:00",
     "image": "https://image.blocksandfiles.com/5240590.jpg?imageId=5240590&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+  },
+  {
+    "id": "1d158b9c8c501f9e",
+    "title": "Technofascism",
+    "summary": "Article URL: https://third-bit.com/2026/05/15/technofascism/ Comments URL: https://news.ycombinator.com/item?id=48161974 Points: 18 # Comments: 2",
+    "url": "https://third-bit.com/2026/05/15/technofascism/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T17:10:56+00:00",
+    "fetched": "2026-05-16T20:11:54+00:00",
+    "image": null
   },
   {
     "id": "a89859b83071b7ef",
@@ -2206,6 +2314,18 @@
     "published": "2026-05-15T23:32:00+00:00",
     "fetched": "2026-05-16T01:19:22+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/829321/37d567ce6a89194f5717d90c736e0f0d.jpeg"
+  },
+  {
+    "id": "cbe0bdc00fd57f19",
+    "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
+    "summary": "Reble has emerged as one of hip-hop’s most distinctive new voices, channelling defiance into a sound rooted in India’s northeast.",
+    "url": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T23:31:52+00:00",
+    "fetched": "2026-05-16T20:11:53+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/82ea4900-501a-11f1-b93e-efb33c791b69.jpg"
   },
   {
     "id": "d9dd953a81b1861a",
