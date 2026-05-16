@@ -1,5 +1,101 @@
 [
   {
+    "id": "ecd8ee07985f70a5",
+    "title": "Дрони атакували хімкомбінат у Ставропольському краї РФ – пабліки",
+    "summary": "Російські пабліки повідомляють, що в Невинномиську Ставропольського краю РФ зазнав атаки безпілотників хімкомбінат.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034921/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T00:38:00+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/f/829323/7f971446242214c45a8fbb9578fef71c.jpeg"
+  },
+  {
+    "id": "e86aad33604007d5",
+    "title": "США можуть провести операцію проти Рауля Кастро, подібну до захоплення Мадуро",
+    "summary": "У Вашингтоні вирішили, що настав час для ескалації ситуації щодо Куби.",
+    "url": "https://lb.ua/world/2026/05/16/738648_ssha_mozhut_provesti_operatsiyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T00:30:00+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://i.lb.ua/news/071/35/6a07bd57d75a3.jpg"
+  },
+  {
+    "id": "95a664500df2d87a",
+    "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+    "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable event logs that converge in memory. Put my all into it. Let…",
+    "url": "https://ljtn.github.io/epiq/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T00:18:03+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://ljtn.github.io/epiq/og.jpeg"
+  },
+  {
+    "id": "13efc7a4e501e033",
+    "title": "Мерц зробив черговий випад у бік США, порадивши власним дітям туди не їхати",
+    "summary": "Канцлер Німеччини продовжує псувати відносини з Дональдом Трампом.",
+    "url": "https://lb.ua/world/2026/05/16/738646_merts_zrobiv_chergoviy_vipad_bik.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T23:48:00+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://i.lb.ua/news/023/16/6a07af43686aa.jpg"
+  },
+  {
+    "id": "aea4d27510befefe",
+    "title": "The main thing about P2P meth is that there's so much of it (2022)",
+    "summary": "Article URL: https://dynomight.net/p2p-meth/ Comments URL: https://news.ycombinator.com/item?id=48155324 Points: 25 # Comments: 7",
+    "url": "https://dynomight.net/p2p-meth/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T23:37:32+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://dynomight.net/img/p2p-meth/meth4.jpg"
+  },
+  {
+    "id": "7486dc7255d39e77",
+    "title": "Erlang/OTP 29.0",
+    "summary": "Article URL: https://www.erlang.org/news/188 Comments URL: https://news.ycombinator.com/item?id=48155297 Points: 60 # Comments: 2",
+    "url": "https://www.erlang.org/news/188",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T23:33:32+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://www.erlang.org/assets/img/erlang-228x200.png"
+  },
+  {
+    "id": "2a9bce312e7e6b8f",
+    "title": "Російські окупанти перекрили Кримський міст",
+    "summary": "Російські окупанти заявили про перекриття Кримського мосту в ніч на 16 травня.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034919/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-15T23:32:00+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/829321/37d567ce6a89194f5717d90c736e0f0d.jpeg"
+  },
+  {
+    "id": "d9dd953a81b1861a",
+    "title": "Trump’s lack of focus on human rights in China is big departure for US diplomacy",
+    "summary": "Change reflects both transformation of US in Trump era and China’s increasing confidence on world stage Asked before he departed for Beijing if he would raise with the Chinese president the case of Jimmy Lai , the pro-democracy activist jailed in Hong Kong, Donald Trump said:…",
+    "url": "https://www.theguardian.com/world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T23:30:53+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": "https://i.guim.co.uk/img/media/3536c46bf5604c5fa8d0d69efc3e07f3301c3a98/134_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=02856792827fe5332a5f1d6b92f67bcf"
+  },
+  {
     "id": "04fd248c229fe7d2",
     "title": "У Нью-Йорку втретє не змогли засудити Гарві Вайнштейна",
     "summary": "Присяжні не змогли домовитися про спільне рішення у справі про зґвалтування.",
@@ -10,6 +106,18 @@
     "published": "2026-05-15T23:20:00+00:00",
     "fetched": "2026-05-15T23:29:17+00:00",
     "image": "https://i.lb.ua/news/115/12/6a07ab288d71c.jpg"
+  },
+  {
+    "id": "9a39ba35b19544f2",
+    "title": "Spectre Programming Language",
+    "summary": "Article URL: https://spectre-docs.pages.dev Comments URL: https://news.ycombinator.com/item?id=48155159 Points: 16 # Comments: 0",
+    "url": "https://spectre-docs.pages.dev",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-15T23:14:51+00:00",
+    "fetched": "2026-05-16T01:19:22+00:00",
+    "image": null
   },
   {
     "id": "524a41e5d5a87985",
@@ -41194,17 +41302,5 @@
     "published": "2026-05-02T01:34:21+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://i.guim.co.uk/img/media/1dd02812908d9509dbf2c23efa54e2fcc5ab7455/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fb9c5d76e518779884ab4569b7222880"
-  },
-  {
-    "id": "a1b2c3d4e5f60013",
-    "title": "Українські військові тестують нові системи РЕБ виробництва Quantum",
-    "summary": "Розробка має дальність придушення до 25 км і автоматичне розпізнавання сигнатур БпЛА. Виробництво планують масштабувати до 200 одиниць/місяць.",
-    "url": "https://example.com/reb-quantum",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-02T01:15:00+00:00",
-    "fetched": "2026-05-02T15:00:00+00:00",
-    "image": null
   }
 ]
