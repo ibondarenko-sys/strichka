@@ -1,5 +1,293 @@
 [
   {
+    "id": "015c34296f93440b",
+    "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+    "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+    "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T13:42:41+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c7d/live/b63ca910-5123-11f1-a5d4-1388da3b9f7b.jpg"
+  },
+  {
+    "id": "50ca6a77d5ed8f11",
+    "title": "Глава МЗС Естонії: Росія слабшає, зараз не час для переговорів",
+    "summary": "Глава МЗС Естонії Маргус Тсахкна вважає, що Європа не має піддаватися на провокації Кремля і вступати в прямі переговори з Росією в той час, як Україна здобуває перевагу у війні.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034977/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T13:41:00+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/829504/f9de303876387152c897cb6584e6abe4.jpeg?w=1200&q=85&stamp=1778939189"
+  },
+  {
+    "id": "9a7fc1a6fcfb0092",
+    "title": "Генштаб ЗСУ: Росіяни тиснуть на Покровському і Гуляйпільському напрямках",
+    "summary": "На Придніпровському Сили оборони відбили дві ворожі атаки у напрямку Антонівки.",
+    "url": "https://lb.ua/society/2026/05/16/738762_genshtab_zsu_rosiyani_tisnut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T13:36:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/076/56/6a0872ee8e6df.jpg"
+  },
+  {
+    "id": "a6d80d1351e52184",
+    "title": "Росіяни обстріляли центр Херсона: загинув чоловік, ще двоє людей у важкому стані",
+    "summary": "У центрі Херсона внаслідок артобстрілу загинув чоловік, ще двоє людей госпіталізовані з пораненнями.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034976/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T13:24:00+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/829487/8871384cb779570672f893a79c0046da.jpeg"
+  },
+  {
+    "id": "660f6aafbfc8388f",
+    "title": "Естонія застерігає європейських союзників від прямих переговорів із Росією",
+    "summary": "«Усі розуміють, що зараз саме той момент, коли потрібно дотискати Росію, адже її позиції стали вкрай хиткими», - заявив глава естонського МЗС.",
+    "url": "https://lb.ua/world/2026/05/16/738760_estoniya_zasterigaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T13:12:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/046/18/6a086d5bbbff7.jpg"
+  },
+  {
+    "id": "0315b2783e5fe301",
+    "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+    "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If…",
+    "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T13:00:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25451187/Garmin_InReach_Mini_2_Lifestyle_Image.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "8b60ccb3a6a8358d",
+    "title": "Зеленський після розмови з Макроном: Франція готова працювати щодо антибалістики",
+    "summary": "Зеленський і Макрон обговорили засудження атак РФ, посилення ППО та переговори щодо євроінтеграції України.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034974/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:58:00+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/0/829476/c04e9163094176873a1a71ebb280e782.jpeg"
+  },
+  {
+    "id": "74f29297a8a811cd",
+    "title": "Білл Гейтс допродав останні акції Microsoft",
+    "summary": "Йдеться про 7,7 мільйона акцій.",
+    "url": "https://lb.ua/world/2026/05/16/738756_bill_geyts_doprodav_ostanni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:55:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/048/34/6a08696521c55.jpg"
+  },
+  {
+    "id": "c01e4f6a718d0efb",
+    "title": "Канада посилює оборонну співпрацю з країнами Північної Європи в Арктиці після погроз Трампа",
+    "summary": "Крім того, найбільшою загрозою для регіону країни вважають Росію, яка має в Арктиці найбільше військових баз.",
+    "url": "https://lb.ua/world/2026/05/16/738754_kanada_posilyuie_oboronnu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:48:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/124/08/6a0867b59785d.jpg"
+  },
+  {
+    "id": "64a66a0f0bda46f9",
+    "title": "УПЛ: «Динамо» з голом Ярмоленка перемогло «Полтаву»",
+    "summary": "Андрій Ярмоленко зрівнявся з Сергієм Ребровим за кількістю голів в УПЛ.",
+    "url": "https://lb.ua/sport/2026/05/16/738758_upl_dinamo_z_golom_yarmolenka.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:45:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/029/39/6a0867d565bd6.jpg"
+  },
+  {
+    "id": "3779fcf4b6d30345",
+    "title": "Тайвань відповів Трампу на застереження про незалежність",
+    "summary": "Тайвань відповів на заяви Трампа: країна залишається суверенною попри тиск Китаю.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034971/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:44:00+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/c/829473/bc46ea996e08dc19cdb880b18e096fd4.jpeg"
+  },
+  {
+    "id": "c600429ddde0808e",
+    "title": "NYT: Трамп розглядає нову військову операцію проти Ірану після повернення з Китаю",
+    "summary": "Обговорюються нові масовані удари по військовій та стратегічній інфраструктурі Ірану.",
+    "url": "https://lb.ua/world/2026/05/16/738750_nyt_tramp_rozglyadaie_novu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:28:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/044/55/6a0862eeb7a23.jpg"
+  },
+  {
+    "id": "460bdb0fe7084c1d",
+    "title": "Після Трампа і Путіна у Китай зібрався Вучич",
+    "summary": "Президент Сербії Александар Вучич повідомив, що відвідає Китай відразу слідом за президентом США Дональдом Трампом і правителем Росії Владіміром Путіним.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034969/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:24:00+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/9/829471/a9ec4b10e5e09640831e83187f196c5f.jpeg"
+  },
+  {
+    "id": "a879ec283193be3b",
+    "title": "​Опитування: Майже половина німців прагне розпаду керівної коаліції та дострокових виборів",
+    "summary": "Раніше канцлер Фрідріх Мерц категорично виключив варіант створення уряду меншості.",
+    "url": "https://lb.ua/world/2026/05/16/738748_opituvannya_mayzhe_polovina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:20:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/099/22/6a08612963a61.jpg"
+  },
+  {
+    "id": "31939ffb034adef9",
+    "title": "Зеленський: Франція готова працювати над посиленням антибалістичного захисту України",
+    "summary": "Лідери країн також обговорили відкриття нових кластерів для вступу України до ЄС.",
+    "url": "https://lb.ua/news/2026/05/16/738746_zelenskiy_frantsiya_gotova.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:15:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/047/29/6a085dfb69d37.jpg"
+  },
+  {
+    "id": "947664385566b83f",
+    "title": "Майже половина німців виступають за розпуск керівної коаліції",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034967/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:09:00+00:00",
+    "fetched": "2026-05-16T13:46:57+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/b/b/bb3075b-kk.jpg"
+  },
+  {
+    "id": "224a465f0c29d443",
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "summary": "Article URL: https://nvlabs.github.io/Sana/WM/ Comments URL: https://news.ycombinator.com/item?id=48159445 Points: 18 # Comments: 12",
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T12:06:21+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": null
+  },
+  {
+    "id": "3a93fa218282f9d2",
+    "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community Comments URL: https://news.ycombinator.com/item?id=48159405 Points: 0 # Comments: 0",
+    "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T12:01:06+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/36d823535a32695e6b82b2371e3ed3df2496af99.png?1754429935"
+  },
+  {
+    "id": "5f642bab643060f7",
+    "title": "Mixtape is a musical portrait of teenage life",
+    "summary": "Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried about looking cool at a big party. They're obsessed with finding booze. But under all…",
+    "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T12:00:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_207625ae80acf9b85f7ab91e0e806cabb892c69f.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0c3605f142141518",
+    "title": "The app you need to clean up your computer",
+    "summary": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about David…",
+    "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T12:00:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-128.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e43515b5b071ba11",
+    "title": "These are the laptops I recommend for pretty much anyone",
+    "summary": "Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day for years to come. So there’s a lot riding on this pricey expense. I’ve tested all…",
+    "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T12:00:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268528_The_best_laptops_you_can_get_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "00bbf611120d42b9",
+    "title": "Ізраїль заявив про ліквідацію одного із лідерів ХАМАС",
+    "summary": "Його називають одним із архітекторів нападу 7 жовня 2023 року.",
+    "url": "https://lb.ua/world/2026/05/16/738742_izrayil_zayaviv_pro_likvidatsiyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T12:00:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/013/51/6a085c5c14af2.jpg"
+  },
+  {
+    "id": "ffbf2388a164416c",
+    "title": "На Харківщині головній інженерці підприємства оголосили підозру через забруднення земель",
+    "summary": "На території підприємства стався витік забруднювальних речовин, які потрапили у ґрунт.",
+    "url": "https://lb.ua/pravo/2026/05/16/738744_harkivschini_golovniy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T11:52:00+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://i.lb.ua/news/050/01/6a085a85d0950.jpg"
+  },
+  {
+    "id": "f2893b9ae2b98278",
+    "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
+    "summary": "Article URL: https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735 Comments URL: https://news.ycombinator.com/item?id=48159282 Points: 77 # Comments: 55",
+    "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T11:43:45+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://image.theregister.com/5237766.jpg?imageId=5237766&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+  },
+  {
     "id": "acadb34fbc46e405",
     "title": "Конгресмен: США навряд чи схвалить новий пакет фінансової допомоги Україні",
     "summary": "Конгрес США може не ухвалити нову допомогу Україні, але підтримати суворіші санкції проти Росії.",
@@ -12,6 +300,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/7/829462/e745e4617e5912d4eac6ebc79c6cbbfb.jpeg"
   },
   {
+    "id": "7de5675955dadaa7",
+    "title": "Accelerando (2005)",
+    "summary": "Article URL: https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html Comments URL: https://news.ycombinator.com/item?id=48159241 Points: 57 # Comments: 19",
+    "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T11:36:32+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": null
+  },
+  {
     "id": "df8b64d2b191bdf4",
     "title": "Командувач СБС: бійці Сил безпілотних систем фіксують кожен проліт \"шахеда\" з території Білорусі",
     "summary": "\"Трек наступний: коридор для вбивць = співучасть = каса\".",
@@ -22,6 +322,18 @@
     "published": "2026-05-16T11:35:00+00:00",
     "fetched": "2026-05-16T11:55:47+00:00",
     "image": "https://i.lb.ua/news/060/58/6a08551acea89.jpg"
+  },
+  {
+    "id": "626deb1cb7fef462",
+    "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+    "summary": "Article URL: https://twitter.com/steipete/status/2055346265869721905 Comments URL: https://news.ycombinator.com/item?id=48159227 Points: 64 # Comments: 73",
+    "url": "https://twitter.com/steipete/status/2055346265869721905",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T11:34:04+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://pbs.twimg.com/media/HIX_l9XWkAASiZc.jpg:large"
   },
   {
     "id": "5b24547e7cf22670",
@@ -70,6 +382,18 @@
     "published": "2026-05-16T11:04:00+00:00",
     "fetched": "2026-05-16T11:55:47+00:00",
     "image": "https://i.lb.ua/news/114/32/6a084f5cc08f7.jpg"
+  },
+  {
+    "id": "079f05b327fc35ab",
+    "title": "The US is betting on AI to catch insider trading in prediction markets",
+    "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T11:00:01+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg"
   },
   {
     "id": "86b05a3fdb5e832a",
@@ -300,6 +624,18 @@
     "image": "https://i.lb.ua/news/084/36/6a0838ebe076e.jpg"
   },
   {
+    "id": "56460a03589fa996",
+    "title": "Fecal transplants for autism deliver success in clinical trials",
+    "summary": "Article URL: https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/ Comments URL: https://news.ycombinator.com/item?id=48158494 Points: 89 # Comments: 52",
+    "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T09:27:59+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": "https://assets.newatlas.com/dims4/default/1487b32/2147483647/strip/true/crop/1080x567+0+257/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2a%2F1f%2F20ecfe324eaa915abc13453ccd38%2Fautism-fecal-transplant-2b.jpg&rf.image_optimisation=0"
+  },
+  {
     "id": "c64f528ade93ef99",
     "title": "FT: Рютте збере керівників провідних оборонних компаній Європи перед самітом НАТО",
     "summary": "",
@@ -322,6 +658,18 @@
     "published": "2026-05-16T09:15:00+00:00",
     "fetched": "2026-05-16T10:46:16+00:00",
     "image": "https://i.lb.ua/news/072/37/6a0835e51ceba.jpg"
+  },
+  {
+    "id": "e7c0552a284e3587",
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "summary": "Article URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/ Comments URL: https://news.ycombinator.com/item?id=48158400 Points: 28 # Comments: 4",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T09:14:26+00:00",
+    "fetched": "2026-05-16T13:46:58+00:00",
+    "image": null
   },
   {
     "id": "05f3c3d0628a5149",
@@ -42178,41 +42526,5 @@
     "published": "2026-05-02T13:56:12+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Anker-140W-2-in-1-USB-C-to-USB-C-Cable-Press-Image.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "a1b2c3d4e5f60002",
-    "title": "OpenAI представила GPT-5: контекст 10 млн токенів і нативна робота з відео",
-    "summary": "Нова модель здатна обробляти фільми тривалістю до 4 годин у реальному часі та генерувати робочі веб-додатки за текстовим описом. Доступ — спочатку для Pro-передплатників.",
-    "url": "https://example.com/openai-gpt5-launch",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-02T13:15:00+00:00",
-    "fetched": "2026-05-02T15:00:00+00:00",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
-  },
-  {
-    "id": "a1b2c3d4e5f60003",
-    "title": "Київ запускає мережу сонячних електростанцій на дахах шкіл та лікарень",
-    "summary": "До кінця року 240 будівель отримають панелі сумарною потужністю 18 МВт. Інвестиція — €34 млн від Європейського банку реконструкції та розвитку.",
-    "url": "https://lb.ua/news/example-solar-kyiv",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-02T12:45:00+00:00",
-    "fetched": "2026-05-02T15:00:00+00:00",
-    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1200&q=80"
-  },
-  {
-    "id": "b6d0c22c80c880d8",
-    "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
-    "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons & Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other…",
-    "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-02T12:00:00+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_770828968429ab3c55286da73df33c06afa83f66.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
