@@ -1,5 +1,29 @@
 [
   {
+    "id": "d2520a3b6f672273",
+    "title": "Росіяни вдарили по Дніпру: жінка отримала поранення, спалахнули пожежі",
+    "summary": "У ніч на 17 травня росіяни атакували Дніпро дронами: поранено 70-річну жінку, зайнялися будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/05/17/8035007/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T22:19:00+00:00",
+    "fetched": "2026-05-16T22:23:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/f/829728/2f979cdb7551840fc6768e0b4c77271b.jpeg"
+  },
+  {
+    "id": "a43493fb81923006",
+    "title": "Трамп пообіцяв \"важкі часи\" для Ірану, якщо той не укладе угоду",
+    "summary": "Трамп попередив Іран про серйозні наслідки без угоди.",
+    "url": "https://www.pravda.com.ua/news/2026/05/17/8035006/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T21:40:00+00:00",
+    "fetched": "2026-05-16T22:23:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/f/829727/6f81537017a8e0c0a7b91df7a0c0ec6d.jpeg"
+  },
+  {
     "id": "2c0768535a836b38",
     "title": "Головне за суботу, 16 травня: 195 боєзіткнень, результати діпстрайку по Рязанському НПЗ",
     "summary": "Бойові дії на Донеччині, 195 бойових зіткнень, ворожі обстріли, російські паспорти жителям Придністров'я. Яким запам’ятається 1543-й день повномасштабної війни.",
@@ -250,6 +274,18 @@
     "published": "2026-05-16T18:21:52+00:00",
     "fetched": "2026-05-16T20:11:53+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba6/live/8d2b7de0-514f-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "id": "83f37f6957d6c7b5",
+    "title": "Halt and Catch Fire",
+    "summary": "Article URL: https://unstack.io/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=48162468 Points: 25 # Comments: 10",
+    "url": "https://unstack.io/halt-and-catch-fire",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T18:16:29+00:00",
+    "fetched": "2026-05-16T22:23:47+00:00",
+    "image": null
   },
   {
     "id": "d04828c413c393ab",
