@@ -1,5 +1,41 @@
 [
   {
+    "id": "e89134223d42a799",
+    "title": "Армія РФ атакувала АЗС у Запорізькому районі: поранена 25-річна жінка",
+    "summary": "Російські війська вдарили по автозаправці в Запорізькому районі — травмовано 25-річну жінку, виникла пожежа.",
+    "url": "https://www.pravda.com.ua/news/2026/05/17/8035008/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T22:46:00+00:00",
+    "fetched": "2026-05-16T23:28:35+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/829729/82b162c24a3b550544e02fd441878b3b.jpeg"
+  },
+  {
+    "id": "2110d86c802a96fb",
+    "title": "MCP Hello Page",
+    "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page Comments URL: https://news.ycombinator.com/item?id=48164294 Points: 23 # Comments: 10",
+    "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T22:25:33+00:00",
+    "fetched": "2026-05-16T23:28:35+00:00",
+    "image": null
+  },
+  {
+    "id": "ffda8588c6a71156",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48164287 Points: 37 # Comments: 3",
+    "url": "https://crates.io/crates/zerostack/1.0.0",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T22:23:50+00:00",
+    "fetched": "2026-05-16T23:28:35+00:00",
+    "image": "https://static.crates.io/og-images/zerostack.png"
+  },
+  {
     "id": "d2520a3b6f672273",
     "title": "Росіяни вдарили по Дніпру: жінка отримала поранення, спалахнули пожежі",
     "summary": "У ніч на 17 травня росіяни атакували Дніпро дронами: поранено 70-річну жінку, зайнялися будинки.",
@@ -10,6 +46,30 @@
     "published": "2026-05-16T22:19:00+00:00",
     "fetched": "2026-05-16T22:23:46+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/f/829728/2f979cdb7551840fc6768e0b4c77271b.jpeg"
+  },
+  {
+    "id": "7d9480134634a02f",
+    "title": "I tried to make Claude make me money on open-source bounties",
+    "summary": "Article URL: https://github.com/ztc00/algora-scout/blob/main/POST.md Comments URL: https://news.ycombinator.com/item?id=48164229 Points: 15 # Comments: 2",
+    "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T22:13:54+00:00",
+    "fetched": "2026-05-16T23:28:35+00:00",
+    "image": "https://opengraph.githubassets.com/d07ea0eac9bbbda77c11ac882adb3e6d54bb45110de0e9a47873ac8bf75be38a/ztc00/algora-scout"
+  },
+  {
+    "id": "47fe670c0b844126",
+    "title": "Ask HN: When did computers stop being fun?",
+    "summary": "Of course I don't mean they stopped being fun for everyone. My impression is that they've been on one side \"corporatized\", and on the other became a vehicle for mindless entertainment. I don't care for coding new stuff. Everything I may need either already exists or is too…",
+    "url": "https://news.ycombinator.com/item?id=48164173",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T22:02:51+00:00",
+    "fetched": "2026-05-16T23:28:35+00:00",
+    "image": null
   },
   {
     "id": "a43493fb81923006",
@@ -43378,29 +43438,5 @@
     "published": "2026-05-03T05:52:09+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg"
-  },
-  {
-    "id": "17c5eb782457466b",
-    "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-    "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
-    "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-02T23:19:27+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e40e/live/8c9eb970-4626-11f1-ac78-2112837ce2aa.jpg"
-  },
-  {
-    "id": "ee76c69c8deb39be",
-    "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-    "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
-    "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-02T23:17:17+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg"
   }
 ]
