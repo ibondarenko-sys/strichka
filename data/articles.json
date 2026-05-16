@@ -1,5 +1,149 @@
 [
   {
+    "id": "2818f6cb161022d5",
+    "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
+    "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her…",
+    "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T15:00:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ManoushZomorodi4.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b030b1b71e971604",
+    "title": "Папа Римський Лев XIV здійснить візит до Франції",
+    "summary": "Понтифік відвідає Лурд і Париж.",
+    "url": "https://lb.ua/society/2026/05/16/738772_papa_rimskiy_lev_xiv_zdiysnit.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T14:53:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://i.lb.ua/news/045/33/6a08852a88a72.jpg"
+  },
+  {
+    "id": "2a1bb44960ea2b89",
+    "title": "Поліція Лондона проводить одну з наймасштабніших операцій через подвійний протест",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034986/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T14:50:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/1/1/11e620b-90.jpg"
+  },
+  {
+    "id": "9999a382ec14430d",
+    "title": "Росіяни поранили двох людей у Запорізькому районі",
+    "summary": "Ворог атакував дроном Нижню Хортицю.",
+    "url": "https://lb.ua/society/2026/05/16/738770_rosiyani_poranili_dvoh_lyudey.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T14:34:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://i.lb.ua/news/003/31/6a088089a4c8b.jpg"
+  },
+  {
+    "id": "1ea667e5f9f0fee6",
+    "title": "Президент Латвії доручив опозиційному депутату сформувати уряд",
+    "summary": "Відповідний указ Рінкевичс підписав 16 травня.",
+    "url": "https://lb.ua/world/2026/05/16/738768_prezident_latviyi_doruchiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T14:23:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://i.lb.ua/news/114/14/6a087dfe6d96e.jpg"
+  },
+  {
+    "id": "e34715973b76226a",
+    "title": "At least eight people killed in Bangkok rail crossing collision",
+    "summary": "Thai authorities say 32 others injured near Makkasan station after freight train strikes bus and fire breaks out At least eight people were killed and 32 others were injured in Thailand after a freight train struck a bus at a rail crossing in Bangkok, rescue officials and a…",
+    "url": "https://www.theguardian.com/world/2026/may/16/thailand-bangkok-rail-crossing-collision-freight-train-bus",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T14:17:14+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://i.guim.co.uk/img/media/66567960e7726f9b2122026144b7c9043e606923/469_0_4939_3951/master/4939.jpg?width=140&quality=85&auto=format&fit=max&s=694c2318e21975c83ecf7f1429ecfba1"
+  },
+  {
+    "id": "704b1d1919420f02",
+    "title": "У неділю в Україні до 23°, у більшості регіонів пройдуть дощі",
+    "summary": "17 травня в Україні дощі, місцями грози, температура вдень до 23°. Деталі від Укргідрометцентру.",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034979/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T14:16:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/829520/62f1038e740ce9f91fbee0e471953ff8.jpeg"
+  },
+  {
+    "id": "ba49146236bee7db",
+    "title": "США і Китай домовилися про взаємне зниження мит",
+    "summary": "Трамп раніше заперечував, що із Сі Цзіньпіном говорив про мита.",
+    "url": "https://lb.ua/world/2026/05/16/738764_ssha_kitay_domovilisya_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T14:03:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://i.lb.ua/news/060/49/6a0879517c07d.jpg"
+  },
+  {
+    "id": "24a93c361b573bee",
+    "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+    "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for…",
+    "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T14:00:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "22d947ff1038d13b",
+    "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+    "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
+    "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T13:55:14+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73e/live/4e3d7bf0-5128-11f1-b682-cf91850925ea.jpg"
+  },
+  {
+    "id": "1f72fa78d474a547",
+    "title": "Косово закликало ЄС нарешті надати статус країни-кандидата",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/16/8034978/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T13:48:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/0/605aaac---.jpg"
+  },
+  {
+    "id": "08c2990424a62fae",
+    "title": "Українського сумоїста Аонішікі понизять до рангу секіваке",
+    "summary": "Вінничанин не братиме участі в травневому турнірі Natsu Basho через травму.",
+    "url": "https://lb.ua/sport/2026/05/16/738766_ukrayinskogo_sumoyista_aonishiki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-16T13:45:00+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://i.lb.ua/news/076/42/6a087569a56c4.jpg"
+  },
+  {
     "id": "015c34296f93440b",
     "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
     "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
@@ -10,6 +154,18 @@
     "published": "2026-05-16T13:42:41+00:00",
     "fetched": "2026-05-16T13:46:57+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c7d/live/b63ca910-5123-11f1-a5d4-1388da3b9f7b.jpg"
+  },
+  {
+    "id": "0678d9bebaaca632",
+    "title": "Accelerate",
+    "summary": "Article URL: https://github.com/AccelerateHS/accelerate Comments URL: https://news.ycombinator.com/item?id=48160211 Points: 16 # Comments: 2",
+    "url": "https://github.com/AccelerateHS/accelerate",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T13:42:34+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://opengraph.githubassets.com/7e336474acb179defe6063fa95186c20caedb5b69b37ef67b287e049c7088bb6/AccelerateHS/accelerate"
   },
   {
     "id": "50ca6a77d5ed8f11",
@@ -94,6 +250,18 @@
     "published": "2026-05-16T12:55:00+00:00",
     "fetched": "2026-05-16T13:46:58+00:00",
     "image": "https://i.lb.ua/news/048/34/6a08696521c55.jpg"
+  },
+  {
+    "id": "10d77df00964cd3c",
+    "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+    "summary": "Article URL: https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/ Comments URL: https://news.ycombinator.com/item?id=48159790 Points: 20 # Comments: 3",
+    "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T12:49:07+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://georgemandis.s3-us-west-1.amazonaws.com/preview.png"
   },
   {
     "id": "c01e4f6a718d0efb",
@@ -262,6 +430,18 @@
     "published": "2026-05-16T12:00:00+00:00",
     "fetched": "2026-05-16T13:46:58+00:00",
     "image": "https://i.lb.ua/news/013/51/6a085c5c14af2.jpg"
+  },
+  {
+    "id": "560bb19f031b568e",
+    "title": "Greek Alphabet Cards",
+    "summary": "Article URL: https://labs.randomquark.com/alphabet_cards/ Comments URL: https://news.ycombinator.com/item?id=48159354 Points: 19 # Comments: 4",
+    "url": "https://labs.randomquark.com/alphabet_cards/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T11:53:09+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://labs.randomquark.com/alphabet_cards/assets/all_cards.jpg"
   },
   {
     "id": "ffbf2388a164416c",
@@ -1570,6 +1750,18 @@
     "published": "2026-05-15T23:05:19+00:00",
     "fetched": "2026-05-16T09:12:25+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009d/live/f18316f0-5072-11f1-b682-cf91850925ea.jpg"
+  },
+  {
+    "id": "af7374f7c54fca87",
+    "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
+    "summary": "Canada has twice delayed access to medically assisted dying for those with mental illness. Claire Brosseau says she cannot wait any longer and wants the courts to decide.",
+    "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-15T23:04:41+00:00",
+    "fetched": "2026-05-16T15:00:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b88/live/468c7550-5097-11f1-8eb4-7bbd1eefc905.jpg"
   },
   {
     "id": "43ca8a28cfa602e4",
@@ -42490,41 +42682,5 @@
     "published": "2026-05-02T16:51:18+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ace/live/a02af470-4600-11f1-b55d-0f258dce1735.jpg"
-  },
-  {
-    "id": "a1b2c3d4e5f60001",
-    "title": "ЄС ухвалив 14-й пакет санкцій проти РФ із обмеженнями на тіньовий флот",
-    "summary": "Новий пакет вперше націлюється на конкретні судна, які перевозять російську нафту в обхід цінової стелі. Під обмеження потрапили 27 танкерів та компанії-оператори в ОАЕ і Гонконгу.",
-    "url": "https://www.pravda.com.ua/news/2026/05/02/example-eu-sanctions/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-02T14:32:00+00:00",
-    "fetched": "2026-05-02T15:00:00+00:00",
-    "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1200&q=80"
-  },
-  {
-    "id": "75808a77376bb022",
-    "title": "Research roundup: 6 cool science stories we almost missed",
-    "summary": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
-    "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-02T14:23:31+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dolphin1-1152x648.jpg"
-  },
-  {
-    "id": "529d1455c1d822f3",
-    "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
-    "summary": "I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need to be recharged at a time, which is where they come in handy. I can charge my…",
-    "url": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-02T13:56:12+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Anker-140W-2-in-1-USB-C-to-USB-C-Cable-Press-Image.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
