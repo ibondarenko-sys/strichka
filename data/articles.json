@@ -1,5 +1,41 @@
 [
   {
+    "id": "2420526d3b26681a",
+    "title": "Росіяни атакували Запорізький район: є поранені",
+    "summary": "Запорізький район зазнав обстрілу: двоє людей поранено, пошкоджено автівку. Деталі від голови ОВА Івана Федорова.",
+    "url": "https://www.pravda.com.ua/news/2026/05/17/8035106/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-17T20:30:00+00:00",
+    "fetched": "2026-05-17T20:59:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/830317/54d732dc98c9afbd3c940085ac16ced0.jpeg"
+  },
+  {
+    "id": "c2608dafd353b02c",
+    "title": "У понеділок в більшості областей пройдуть дощі, подекуди грози",
+    "summary": "18 травня в Україні очікуються дощі та грози, температура вдень 18-26°, місцями туман.",
+    "url": "https://www.pravda.com.ua/news/2026/05/17/8035105/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-17T20:11:00+00:00",
+    "fetched": "2026-05-17T20:59:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/830292/36efac8af3d51d3a50078914b95d3f75.jpeg"
+  },
+  {
+    "id": "a6e0960621192aef",
+    "title": "​Двоє людей постраждали внаслідок ворожої атаки на Запоріжжі",
+    "summary": "Удар прийшовся по дорозі на виїзді з одного з населених пунктів, пошкоджено автівку.",
+    "url": "https://lb.ua/society/2026/05/17/738976_dvoie_lyudey_postrazhdali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-17T19:42:00+00:00",
+    "fetched": "2026-05-17T20:59:53+00:00",
+    "image": "https://i.lb.ua/news/033/43/6a0a1aece111c.jpg"
+  },
+  {
     "id": "8ba3471bfe663088",
     "title": "На фронті майже 200 боїв, на трьох напрямках тиск ворога найбільший – Генштаб",
     "summary": "За добу на фронті відбулося 195 боєзіткнень, найбільше атак на Покровському, Гуляйпільському та Костянтинівському напрямках.",
@@ -394,6 +430,18 @@
     "published": "2026-05-17T15:43:00+00:00",
     "fetched": "2026-05-17T16:30:46+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/b/5/b588147-1aae98cdfbd8fb58137d431745d5e5316542f89261f037f1a030cdeb66f36c31.jpg"
+  },
+  {
+    "id": "b59873d5231e0179",
+    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of…",
+    "url": "https://github.com/MinishLab/semble",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T15:37:07+00:00",
+    "fetched": "2026-05-17T20:59:53+00:00",
+    "image": "https://opengraph.githubassets.com/5ace518780d806ddb75a00fcaeb917a7ce7df6ccdd3405842cae9d1306fecce0/MinishLab/semble"
   },
   {
     "id": "76982c651b8b59df",
@@ -44770,89 +44818,5 @@
     "published": "2026-05-03T21:28:09+00:00",
     "fetched": "2026-05-03T21:53:34+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg"
-  },
-  {
-    "id": "edf2e4f50a719c9d",
-    "title": "В Австрії під дитячим багаттям вибухнув \"військовий артефакт\": є постраждалі",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/03/8032970/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T20:39:00+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/f/8/f89b33c-------------.jpg"
-  },
-  {
-    "id": "9bc15006248a5c6a",
-    "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-    "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
-    "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-03T20:36:34+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7798/live/b7202c10-472f-11f1-92b3-95f249f40d33.jpg"
-  },
-  {
-    "id": "52eed27097f67f8a",
-    "title": "Головне за неділю, 3 травня: удар по гуртожитку в Дніпрі, понад 120 боєзіткнень, ураження \"Каракурту\"",
-    "summary": "Бойові дії на Донеччині, 122 бойові зіткнення, ворожі обстріли, саміт Європейської політичної спільноти в Єревані. Яким запам’ятається 1530-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/05/03/736228_golovne_nedilyu_3_travnya_udar.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T20:24:00+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://i.lb.ua/news/070/43/69f7af3347829.jpg"
-  },
-  {
-    "id": "11b8eb2b2f126c51",
-    "title": "Зеленський назвав три завдання своїх зустрічей у Єревані",
-    "summary": "Зеленський про завершення війни, підтримку Україні на €90 млрд і зміцнення ППО після зустрічей у Єревані.",
-    "url": "https://www.pravda.com.ua/news/2026/05/03/8032968/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T20:04:00+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/f/821826/efe3f19d896bc4c6e259ee670175639e.jpeg"
-  },
-  {
-    "id": "a8e74034bddbb3d9",
-    "title": "Зеленський озвучив ключові завдання на переговорах у Вірменії",
-    "summary": "Тут відбудеться саміт Європейської політичної спільноти.",
-    "url": "https://lb.ua/society/2026/05/03/736227_zelenskiy_ozvuchiv_klyuchovi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T19:54:00+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://i.lb.ua/news/036/08/69f7a81f51db4.jpg"
-  },
-  {
-    "id": "f49a4110ea2e0c46",
-    "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
-    "summary": "Further three people taken ill, including 69-year-old Briton reported to be in intensive care in South Africa Three people have died after a suspected hantavirus outbreak on a cruise ship sailing in the Atlantic. One case of hantavirus infection had been confirmed and there were…",
-    "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-03T19:52:38+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://i.guim.co.uk/img/media/c12f04f9fd624d5847af80c3516ba548b87ca966/1186_747_1832_1466/master/1832.jpg?width=140&quality=85&auto=format&fit=max&s=991c51db71e9d8b0524c0a384419f94a"
-  },
-  {
-    "id": "0d2f85a5c42de7e2",
-    "title": "На Київщині авто зіткнулося з самокатом, на якому їхали діти: один хлопчик загинув, інший у лікарні",
-    "summary": "У селі Гатне на Київщині автомобіль зіткнувся з електросамокатом, на якому їхали двоє дітей – один хлопчик загинув на місці, інший дістав численні травми.",
-    "url": "https://www.pravda.com.ua/news/2026/05/03/8032964/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T19:46:00+00:00",
-    "fetched": "2026-05-03T21:53:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/821794/b16ce361431d164043524ce353ded2ce.jpeg"
   }
 ]
