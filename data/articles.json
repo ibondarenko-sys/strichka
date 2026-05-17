@@ -1,5 +1,65 @@
 [
   {
+    "id": "66cf8f0a34040719",
+    "title": "У Харкові через російський удар дронами загорілися автівки – мер",
+    "summary": "Російські дрони атакували Салтівський, Холодногірський та інші райони Харкова, виникли пожежі, пошкоджено авто і будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/05/17/8035011/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-17T01:01:00+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/a/829732/1a6d9fdbfd20a3a77c5aa8bd8e02ffc0.jpeg"
+  },
+  {
+    "id": "166a8bdf3cc29b87",
+    "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+    "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/ Comments URL: https://news.ycombinator.com/item?id=48164891 Points: 25 # Comments: 0",
+    "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T23:59:47+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/fisker-foa-hero-1400x700-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "id": "c9e28e66cb1fea70",
+    "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
+    "summary": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
+    "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T23:15:30+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ff/live/376628f0-506f-11f1-8c42-ed39d04e1525.jpg"
+  },
+  {
+    "id": "46eccb4416c19ebc",
+    "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+    "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+    "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T23:10:19+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/538f/live/25317530-5075-11f1-89a3-d1f559421220.png"
+  },
+  {
+    "id": "16dbbd71aad8b4f6",
+    "title": "Foreign tourists are falling out of love with Goa - here's why",
+    "summary": "Foreign visitors to Goa have nearly halved from their pre-Covid peak even as domestic tourism is booming.",
+    "url": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-16T23:08:06+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec91/live/2dc4eaa0-5058-11f1-82d0-dba52fc3f32a.jpg"
+  },
+  {
     "id": "e89134223d42a799",
     "title": "Армія РФ атакувала АЗС у Запорізькому районі: поранена 25-річна жінка",
     "summary": "Російські війська вдарили по автозаправці в Запорізькому районі — травмовано 25-річну жінку, виникла пожежа.",
@@ -10,6 +70,18 @@
     "published": "2026-05-16T22:46:00+00:00",
     "fetched": "2026-05-16T23:28:35+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/829729/82b162c24a3b550544e02fd441878b3b.jpeg"
+  },
+  {
+    "id": "19cd0a02589cc16e",
+    "title": "A nicer voltmeter clock",
+    "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock Comments URL: https://news.ycombinator.com/item?id=48164432 Points: 48 # Comments: 9",
+    "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T22:45:16+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": null
   },
   {
     "id": "2110d86c802a96fb",
@@ -142,6 +214,18 @@
     "published": "2026-05-16T20:25:00+00:00",
     "fetched": "2026-05-16T21:25:24+00:00",
     "image": "https://i.lb.ua/news/105/53/6a08d2ca9f6bf.jpg"
+  },
+  {
+    "id": "225866fd550e03e9",
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/ Comments URL: https://news.ycombinator.com/item?id=48163392 Points: 53 # Comments: 64",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-16T20:14:06+00:00",
+    "fetched": "2026-05-17T01:26:58+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill"
   },
   {
     "id": "bca482ff9978c961",
