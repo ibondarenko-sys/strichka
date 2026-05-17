@@ -1,5 +1,89 @@
 [
   {
+    "id": "b670638fa8e577bd",
+    "title": "В Одесі внаслідок атаки РФ є влучання у житлові будинки",
+    "summary": "У ніч на 18 травня російські війська здійснили чергову атаку на Одесу із застосуванням ударних безпілотників. Унаслідок обстрілу пошкоджено житлові будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/05/18/8035110/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-17T22:56:00+00:00",
+    "fetched": "2026-05-17T23:31:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/3/830321/d317576295928bd698ad690bccb56625.jpeg"
+  },
+  {
+    "id": "4fccf91fc2ba7abd",
+    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+    "summary": "Article URL: https://xca-attacks.github.io/fabricked/ Comments URL: https://news.ycombinator.com/item?id=48173708 Points: 8 # Comments: 1",
+    "url": "https://xca-attacks.github.io/fabricked/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T22:23:30+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": "https://xca-attacks.github.io/preview.png?123456"
+  },
+  {
+    "id": "96c2b140e36c7c37",
+    "title": "Росіяни обстрілюють Дніпро понад 6 годин: горить багатоповерхівка та склад піротехніки",
+    "summary": "Внаслідок російської атаки на Дніпро спалахнула пожежа на даху багатоповерхового будинку, а у Дніпровському районі зафіксовано влучання у склад із піротехнікою.",
+    "url": "https://www.pravda.com.ua/news/2026/05/18/8035108/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-17T22:01:00+00:00",
+    "fetched": "2026-05-17T23:31:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/830319/b75ff62653d547be32657daf92028c8f.jpeg"
+  },
+  {
+    "id": "9d3483aaf2b36e03",
+    "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 14 # Comments: 0",
+    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T21:56:40+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-700c-era-720c-hero-1993.webp"
+  },
+  {
+    "id": "3d36ce823240ee5f",
+    "title": "AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive",
+    "summary": "Article URL: https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526 Comments URL: https://news.ycombinator.com/item?id=48173501 Points: 12 # Comments: 2",
+    "url": "https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T21:49:44+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": null
+  },
+  {
+    "id": "6b253ca8aaab8d80",
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base Comments URL: https://news.ycombinator.com/item?id=48173468 Points: 29 # Comments: 9",
+    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T21:45:30+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": "https://idahonews.com/resources/media2/16x9/922/1320/100x1/90/c2f82f89-feb1-4f16-a22d-5b2789a14048-Crash1.jpg"
+  },
+  {
+    "id": "0b873b0e22492118",
+    "title": "GenCAD",
+    "summary": "Article URL: https://gencad.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173429 Points: 15 # Comments: 2",
+    "url": "https://gencad.github.io/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T21:40:35+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": null
+  },
+  {
     "id": "a29856931fa01018",
     "title": "На авіашоу в США у повітрі зіткнулися два винищувачі",
     "summary": "На авіабазі Маунтін-Хоум у штаті Айдахо (США) під час авіашоу Gunfighter Skies зіткнулися два винищувачі Військово-морських сил США.",
@@ -10,6 +94,30 @@
     "published": "2026-05-17T21:38:00+00:00",
     "fetched": "2026-05-17T22:03:03+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/830318/af1c5a0f006d04a2ab3ac3f0514ab9cd.jpeg"
+  },
+  {
+    "id": "85b85be83081fd4b",
+    "title": "An AI Hate Wave Is Here",
+    "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 23 # Comments: 12",
+    "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T21:23:25+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": null
+  },
+  {
+    "id": "69ace24024dda720",
+    "title": "Prolog Coding Horror",
+    "summary": "Article URL: https://www.metalevel.at/prolog/horror Comments URL: https://news.ycombinator.com/item?id=48173268 Points: 35 # Comments: 8",
+    "url": "https://www.metalevel.at/prolog/horror",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-17T21:15:51+00:00",
+    "fetched": "2026-05-17T23:31:17+00:00",
+    "image": null
   },
   {
     "id": "0c42d12d710fc3c1",
@@ -44758,101 +44866,5 @@
     "published": "2026-05-03T23:36:11+00:00",
     "fetched": "2026-05-04T03:42:29+00:00",
     "image": null
-  },
-  {
-    "id": "b4b16718ef2dd5d3",
-    "title": "European leaders converge on Armenia as Russia looks on",
-    "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
-    "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-03T23:19:05+00:00",
-    "fetched": "2026-05-04T11:23:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1995/live/397d5960-455c-11f1-a4b0-8306ec2ff5e9.jpg"
-  },
-  {
-    "id": "5fa19193915aca23",
-    "title": "The 'Hidden' Costs of Great Abstractions",
-    "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions Comments URL: https://news.ycombinator.com/item?id=48002607 Points: 17 # Comments: 2",
-    "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-03T23:12:02+00:00",
-    "fetched": "2026-05-03T23:54:34+00:00",
-    "image": null
-  },
-  {
-    "id": "4744b9974db4fb91",
-    "title": "Amsterdam bans public adverts for meat and fossil fuels",
-    "summary": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
-    "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-03T23:07:44+00:00",
-    "fetched": "2026-05-04T11:23:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4140/live/d2daa120-4472-11f1-b545-b533bcf4cad2.jpg"
-  },
-  {
-    "id": "2bd75592f05ae48f",
-    "title": "Agentic Coding Is a Trap",
-    "summary": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48002442 Points: 236 # Comments: 167",
-    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-03T22:52:07+00:00",
-    "fetched": "2026-05-04T03:42:30+00:00",
-    "image": "https://larsfaye.com/opengraph-agents.jpg"
-  },
-  {
-    "id": "2473ea7238fd266e",
-    "title": "У Москві пролунав вибух внаслідок атаки БпЛА – пабліки",
-    "summary": "Російські пабліки повідомили, що в ніч на 4 травня у Москві пролунав вибух нібито внаслідок атаки БпЛА.",
-    "url": "https://www.pravda.com.ua/news/2026/05/04/8032973/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T22:36:00+00:00",
-    "fetched": "2026-05-03T22:51:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/821851/92504244373f1dfbf420d27d019b8818.jpeg"
-  },
-  {
-    "id": "8d0f19bff897fdc1",
-    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-    "summary": "Article URL: https://github.com/aattaran/deepclaude Comments URL: https://news.ycombinator.com/item?id=48002136 Points: 77 # Comments: 30",
-    "url": "https://github.com/aattaran/deepclaude",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-03T22:13:20+00:00",
-    "fetched": "2026-05-03T23:54:34+00:00",
-    "image": "https://opengraph.githubassets.com/9a925c53576f9d1a437c3511ce9ba6bc41737d4b96bd2ab5c2087c9674704f2a/aattaran/deepclaude"
-  },
-  {
-    "id": "1c42284bd0fb9697",
-    "title": "Introduction to Atom",
-    "summary": "Article URL: https://validator.w3.org/feed/docs/atom.html Comments URL: https://news.ycombinator.com/item?id=48002089 Points: 13 # Comments: 3",
-    "url": "https://validator.w3.org/feed/docs/atom.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-03T22:08:47+00:00",
-    "fetched": "2026-05-03T23:54:34+00:00",
-    "image": null
-  },
-  {
-    "id": "67031add722eb965",
-    "title": "\"Ніякого зв’язку немає\" – Мерц про розбіжності з Трампом і виведення військ США з Німеччини",
-    "summary": "Мерц не пов'язує розбіжності з Трампом щодо Ірану і виведенням американських військових з Німеччини.",
-    "url": "https://www.pravda.com.ua/news/2026/05/04/8032972/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-03T22:04:00+00:00",
-    "fetched": "2026-05-03T22:22:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/821844/8260638f8635c0811768e2c26bdb6620.jpeg"
   }
 ]
