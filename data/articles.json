@@ -1,5 +1,53 @@
 [
   {
+    "id": "3f65df78aa5eb0c1",
+    "title": "У Каліфорнії троє людей були вбиті через стрілянину в мечеті",
+    "summary": "Нападників знайшли мертвими в автомобілі неподалік місця злочину.",
+    "url": "https://lb.ua/world/2026/05/19/739210_kaliforniyi_troie_lyudey_buli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-18T22:26:00+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://i.lb.ua/news/024/24/6a0b946a37adc.jpg"
+  },
+  {
+    "id": "4a8edd0adb1e6642",
+    "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+    "summary": "Article URL: https://konstantintkachuk.com/writing/the-floor-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=48186326 Points: 28 # Comments: 11",
+    "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-18T21:59:34+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://konstantintkachuk.com/images/og-default.png"
+  },
+  {
+    "id": "295a940b78268792",
+    "title": "Російські дрони атакували два райони Харкова",
+    "summary": "Попередньо, обійшлося без постраждалих.",
+    "url": "https://lb.ua/society/2026/05/19/739206_rosiyski_droni_atakuvali_dva.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-18T21:57:00+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://i.lb.ua/news/124/16/6a0b8b61990c6.jpg"
+  },
+  {
+    "id": "42d3eabffb9f6e89",
+    "title": "У МЗС Литви пригрозили росіянам зрівняти із землею бази у Калінінграді",
+    "summary": "Російський ексклав становить загрозу для країн НАТО.",
+    "url": "https://lb.ua/society/2026/05/19/739208_mzs_litvi_prigrozili_rosiyanam.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-18T21:50:00+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://i.lb.ua/news/101/11/6a0b8bc9ad216.jpg"
+  },
+  {
     "id": "5c227d8765cf4abe",
     "title": "США запровадили нові санкції проти чиновників та військових лідерів Куби",
     "summary": "Адміністрація Трампа наполягає на зміні режиму в країні.",
@@ -10,6 +58,30 @@
     "published": "2026-05-18T21:42:00+00:00",
     "fetched": "2026-05-18T21:47:28+00:00",
     "image": "https://i.lb.ua/news/047/28/6a0b879be99e5.jpg"
+  },
+  {
+    "id": "36cb5e5c11d2b749",
+    "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+    "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+    "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-18T21:39:45+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/54ff5530-52f9-11f1-8b8c-6d33e1d5abb6.jpg"
+  },
+  {
+    "id": "e05b5e3901879f77",
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 10 # Comments: 3",
+    "url": "https://arxiv.org/abs/2601.10160",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-18T21:29:13+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
     "id": "8426859e7f050cc4",
@@ -34,6 +106,18 @@
     "published": "2026-05-18T21:21:00+00:00",
     "fetched": "2026-05-18T21:47:28+00:00",
     "image": "https://i.lb.ua/news/100/05/6a0b82da726ed.jpg"
+  },
+  {
+    "id": "cd2c44a468cf3bfd",
+    "title": "Who will buy your services if you fire us all?",
+    "summary": "Article URL: https://carette.xyz/posts/who_will_buy_your_services/ Comments URL: https://news.ycombinator.com/item?id=48185789 Points: 163 # Comments: 173",
+    "url": "https://carette.xyz/posts/who_will_buy_your_services/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-18T21:18:25+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": null
   },
   {
     "id": "972436e9092f135f",
@@ -96,6 +180,18 @@
     "image": "https://i.lb.ua/news/063/55/6a0b7ac52a52b.jpg"
   },
   {
+    "id": "ecb43bf8b12effd6",
+    "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+    "summary": "CDC is working to move the infected American and six others to Germany.",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-18T20:41:14+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276381480.jpg"
+  },
+  {
     "id": "69e0c3229c1b2c2a",
     "title": "Volvo teases a new affordable EV to replace discontinued EX30",
     "summary": "Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recall made it dangerous to park indoors. But its discontinuation didn't spell the end of Volvo's efforts…",
@@ -120,6 +216,18 @@
     "image": null
   },
   {
+    "id": "64b08afa13a38748",
+    "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+    "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-18T20:27:15+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1126690759-1152x648-1779132662.jpg"
+  },
+  {
     "id": "fa93227409e11a0b",
     "title": "Трамп заявив, що відкладає заплановані атаки по Ірану",
     "summary": "Тривають перемовини щодо нової угоди, пов'язаної з ядерною програмою Ірану.",
@@ -142,6 +250,18 @@
     "published": "2026-05-18T20:06:00+00:00",
     "fetched": "2026-05-18T20:15:08+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/8/5/8518747----.jpg"
+  },
+  {
+    "id": "e34277709ea1e7e6",
+    "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+    "summary": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+    "url": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-18T19:53:31+00:00",
+    "fetched": "2026-05-18T23:08:06+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0589/live/771e4030-52dc-11f1-a650-a94a8fc7de38.jpg"
   },
   {
     "id": "d3526a775ac4d7a9",
@@ -44338,101 +44458,5 @@
     "published": "2026-05-04T23:28:00+00:00",
     "fetched": "2026-05-04T23:58:57+00:00",
     "image": "https://i.lb.ua/news/055/03/69f92ba58de24.jpg"
-  },
-  {
-    "id": "08db67829dcc083a",
-    "title": "Одразу в аеропортах 15 міст Росії запровадили обмеження",
-    "summary": "15 російських аеропортів призупинили роботу в ніч на 5 тарвня.",
-    "url": "https://www.pravda.com.ua/news/2026/05/05/8033168/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T22:48:00+00:00",
-    "fetched": "2026-05-04T23:58:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/d/822564/ed28ed589c28a744931422cc0a1d4c0b.jpeg"
-  },
-  {
-    "id": "5c2fcd0dc542bc93",
-    "title": "На Київщині через російську атаку БПЛА постраждали двоє людей",
-    "summary": "Ворог обстріляв Бровари поблизу столиці.",
-    "url": "https://lb.ua/society/2026/05/05/736449_kiyivschini_cherez_rosiysku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T22:46:00+00:00",
-    "fetched": "2026-05-04T23:58:57+00:00",
-    "image": "https://i.lb.ua/news/106/39/69f9206f56a01.jpg"
-  },
-  {
-    "id": "826d0d58330ea126",
-    "title": "У Броварах на Київщині – двоє травмованих через атаку росіян",
-    "summary": "У Броварах на Київщині двоє людей отримали травми через російську атаку.",
-    "url": "https://www.pravda.com.ua/news/2026/05/05/8033167/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T22:38:00+00:00",
-    "fetched": "2026-05-04T23:58:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/822563/3fdaaef12e1ddbdc7bd0608a3a6b92ac.jpeg"
-  },
-  {
-    "id": "0ed764d911b3bea5",
-    "title": "США уразили в Ормузькій протоці сім іранських швидкісних катерів",
-    "summary": "Перспектива нової ескалації на Близькому Сході зростає.",
-    "url": "https://lb.ua/world/2026/05/05/736447_ssha_urazili_ormuzkiy_prototsi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T22:14:00+00:00",
-    "fetched": "2026-05-04T22:33:44+00:00",
-    "image": "https://i.lb.ua/news/104/60/69f91b77053e4.jpg"
-  },
-  {
-    "id": "5d122d7767c8729f",
-    "title": "У ЗСУ відреагували на поширене в соцмережах відео з побиттям військового",
-    "summary": "У ЗСУ відреагували на відео, розповсюджене у соцмережах, із застосуванням сили людини у військовій формі проти чоловіка в кайданках, зазначивши, що \"факт правопорушення підтверджено\", і триває розшук причетного до побиття солдата.",
-    "url": "https://www.pravda.com.ua/news/2026/05/05/8033166/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T22:12:00+00:00",
-    "fetched": "2026-05-04T22:33:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/822562/cc5395890b60b1e68398bec7451bd363.jpeg"
-  },
-  {
-    "id": "f9e20eadedad19f9",
-    "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
-    "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam Altman continues to play out. A week before the Trump…",
-    "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-04T22:11:17+00:00",
-    "fetched": "2026-05-04T22:33:44+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090211/STK171_VRG_Illo_7_Normand_ElonMusk_07.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "8ba84177c36ce040",
-    "title": "Україна посилює енергетичну співпрацю з Австрією",
-    "summary": "Австрія вже внесла до Фонду підтримки енергетики України понад 15 млн євро.",
-    "url": "https://lb.ua/economics/2026/05/05/736443_ukrayina_posilyuie_energetichnu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T21:58:00+00:00",
-    "fetched": "2026-05-04T22:33:44+00:00",
-    "image": "https://i.lb.ua/news/088/27/69f915f21c82e.jpg"
-  },
-  {
-    "id": "c490ab5f7f6375ad",
-    "title": "Трамп заявив, що США уразили сім іранських катерів в Ормузькій протоці",
-    "summary": "Американський президент Дональд Трамп заявив, що військові США уразили в Ормузькій протоці сім іранських катерів, які намагалися атакувати цивільні судна \"нейтральних країн\".",
-    "url": "https://www.pravda.com.ua/news/2026/05/05/8033165/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-04T21:50:00+00:00",
-    "fetched": "2026-05-04T22:33:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/822555/3103b1d174749ab3d4c595dc08e3ddc3.jpeg"
   }
 ]
