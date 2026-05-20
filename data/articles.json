@@ -1,5 +1,89 @@
 [
   {
+    "id": "a9e814306a1d8a87",
+    "title": "У Конотопі через російську атаку частково зруйнована багатоповерхівка: під завалами можуть бути люди",
+    "summary": "У Конотопі удар РФ зруйнував багатоповерхівку та лікарню, під завалами можуть бути люди.",
+    "url": "https://www.pravda.com.ua/news/2026/05/20/8035500/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-19T23:45:00+00:00",
+    "fetched": "2026-05-20T00:11:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/831893/a1588e20e3a8ac40379180a6853c0df6.jpeg"
+  },
+  {
+    "id": "e397257e8b7bc388",
+    "title": "Росіяни атакували Конотоп: влучання у будинок, під завалами люди",
+    "summary": "Мер говорить про велику кількість постраждалих.",
+    "url": "https://lb.ua/society/2026/05/20/739488_rosiyani_atakuvali_konotop.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-19T23:42:00+00:00",
+    "fetched": "2026-05-20T00:11:49+00:00",
+    "image": "https://i.lb.ua/news/014/05/6a0cf51917296.jpg"
+  },
+  {
+    "id": "d0331923c2878f47",
+    "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+    "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 will get the iPhone-style Live Updates that were introduced…",
+    "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-19T23:24:36+00:00",
+    "fetched": "2026-05-20T00:11:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0441.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "13d0f0fda492696e",
+    "title": "Міжнародну Букерівську премію вперше виграв роман, перекладений з китайської",
+    "summary": "Грошову винагороду порівну поділять між автором та перекладачем.",
+    "url": "https://lb.ua/culture/2026/05/20/739486_mizhnarodnu_bukerivsku_premiyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-19T23:18:00+00:00",
+    "fetched": "2026-05-20T00:11:49+00:00",
+    "image": "https://i.lb.ua/news/040/02/6a0cefbe3da6e.jpg"
+  },
+  {
+    "id": "67bc268659f8234b",
+    "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+    "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the…",
+    "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-19T23:03:48+00:00",
+    "fetched": "2026-05-20T00:11:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/heroplex-logo-tv.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "312781af9b4aad89",
+    "title": "Росіяни вдарили по Дніпру: п'ятеро поранених",
+    "summary": "У ніч на 20 травня по Дніпру завдали удару: п'ятеро поранених, виникла пожежа.",
+    "url": "https://www.pravda.com.ua/news/2026/05/20/8035498/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-19T22:44:00+00:00",
+    "fetched": "2026-05-20T00:11:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/f/831892/1fc4a0ce83eb8a9cbca3a0de2f85f0a7.jpeg"
+  },
+  {
+    "id": "067c8850fe8d82e6",
+    "title": "Remove AI Watermarks",
+    "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 78 # Comments: 51",
+    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-19T22:30:31+00:00",
+    "fetched": "2026-05-20T00:11:50+00:00",
+    "image": "https://opengraph.githubassets.com/be9d37892a4bb407ad5f63f8d882421560c53fddf6445dc0653a8562b30d7388/wiltodelta/remove-ai-watermarks"
+  },
+  {
     "id": "417ea31dd981c6bd",
     "title": "Таїланд скоротив термін безвізового перебування іноземців",
     "summary": "Українці могли їздити до азійської країни на 60 днів.",
@@ -44038,41 +44122,5 @@
     "published": "2026-05-06T00:14:00+00:00",
     "fetched": "2026-05-06T03:39:45+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/823160/85e9998dbf6f7cabb3e3af0969e21dd8.jpeg"
-  },
-  {
-    "id": "672ba4b50fe17450",
-    "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
-    "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
-    "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-06T00:01:28+00:00",
-    "fetched": "2026-05-06T06:34:32+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/388b7610-48cf-11f1-bd52-e755d604ece4.jpg"
-  },
-  {
-    "id": "7b9edbb0b7cbadc6",
-    "title": "У Сумах внаслідок російської атаки травмовано двоє людей",
-    "summary": "Упродовж дня місто потерпало від масованого обстрілу.",
-    "url": "https://lb.ua/society/2026/05/06/736643_sumah_vnaslidok_rosiyskoyi_ataki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-05T23:39:00+00:00",
-    "fetched": "2026-05-05T23:54:19+00:00",
-    "image": "https://i.lb.ua/news/008/32/69fa8145ce300.jpg"
-  },
-  {
-    "id": "c06a5d4aa6d12b79",
-    "title": "Рубіо оголосив завершення операції \"Епічна лють\" проти Ірану",
-    "summary": "Американські війська перейшли до виключно захисних дій у Перській затоці.",
-    "url": "https://lb.ua/world/2026/05/06/736641_rubio_ogolosiv_zavershennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-05T22:52:00+00:00",
-    "fetched": "2026-05-05T23:54:19+00:00",
-    "image": "https://i.lb.ua/news/116/07/69fa754a16bdf.jpg"
   }
 ]
