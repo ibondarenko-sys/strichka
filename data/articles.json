@@ -1,5 +1,65 @@
 [
   {
+    "id": "8a005ce88819acc8",
+    "title": "DOS Zone",
+    "summary": "Article URL: https://dos.zone/ Comments URL: https://news.ycombinator.com/item?id=48215418 Points: 21 # Comments: 5",
+    "url": "https://dos.zone/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-20T22:53:27+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": "https://dos.zone/images/containers/assets/seo_image.jpg/305f8ab86e22fdd50cb3762298d95219.webp"
+  },
+  {
+    "id": "229d2d9e53d630c9",
+    "title": "Палестина претендує на місце одного з віцепрезидентів Генасамблеї ООН, США проти",
+    "summary": "Сполучені Штати намагаються чинити опір дипломатичними каналами.",
+    "url": "https://lb.ua/world/2026/05/21/739738_palestina_pretenduie_mistse_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-20T22:49:00+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": "https://i.lb.ua/news/123/25/6a0e3a77e9d46.jpg"
+  },
+  {
+    "id": "690d9d02f506ab44",
+    "title": "МЗС: Швеція передала Україні репліку бойової хоругви Богдана Хмельницького",
+    "summary": "Швеція вручила Україні репліку бойової хоругви Хмельницького задля відновлення історичної спадщини.",
+    "url": "https://www.pravda.com.ua/news/2026/05/21/8035668/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-20T22:30:00+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/832631/22eaaff138b76bd38d954fdc47a2401d.jpeg"
+  },
+  {
+    "id": "15150e419b885288",
+    "title": "США вихваляються ударною групою на Карибах і активізують розвідку",
+    "summary": "У Вашингтоні роблять натяки на нову війну.",
+    "url": "https://lb.ua/world/2026/05/21/739736_ssha_vihvalyayutsya_udarnoyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-20T22:20:00+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": "https://i.lb.ua/news/113/59/6a0e34f836963.jpg"
+  },
+  {
+    "id": "b545729dee9c7cc7",
+    "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+    "summary": "Officials denied refusing entry, but dodged questions on why Americans didn't return.",
+    "url": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-20T21:58:01+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276659165-1152x648.jpg"
+  },
+  {
     "id": "0a5afa122f10fedc",
     "title": "В Одесі викрили хакерів, які завдали понад 250 тис. доларів збитків онлайн-платформам США",
     "summary": "Справу почали розслідувати після інформації від компетентних органів США.",
@@ -70,6 +130,18 @@
     "published": "2026-05-20T21:29:05+00:00",
     "fetched": "2026-05-20T22:25:44+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "541989b8421348c4",
+    "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+    "summary": "Article URL: https://github.com/kouhxp/yapsnap Comments URL: https://news.ycombinator.com/item?id=48214399 Points: 12 # Comments: 1",
+    "url": "https://github.com/kouhxp/yapsnap",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-20T21:28:28+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": "https://opengraph.githubassets.com/4218abb410e75baeb9acedba1da39383c390e81046285b52bd6c74ff9c973519/kouhxp/yapsnap"
   },
   {
     "id": "daf70da076f3f764",
@@ -214,6 +286,18 @@
     "published": "2026-05-20T20:29:39+00:00",
     "fetched": "2026-05-20T20:35:03+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-1152x648.jpg"
+  },
+  {
+    "id": "e3d973fb8ce7920b",
+    "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+    "summary": "Article URL: https://legiscan.com/CO/bill/SB051/2026 Comments URL: https://news.ycombinator.com/item?id=48213651 Points: 45 # Comments: 14",
+    "url": "https://legiscan.com/CO/bill/SB051/2026",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-20T20:28:18+00:00",
+    "fetched": "2026-05-20T23:49:41+00:00",
+    "image": null
   },
   {
     "id": "220a04b5ce3a4dcf",
@@ -43978,113 +44062,5 @@
     "published": "2026-05-07T00:12:23+00:00",
     "fetched": "2026-05-07T01:19:06+00:00",
     "image": "https://wp.harpers.org/wp-content/uploads/2026/03/CUT-8-1-972x1124.jpg"
-  },
-  {
-    "id": "682acca1ab2fd865",
-    "title": "Musk’s biggest loyalist became his biggest liability",
-    "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-06T23:37:02+00:00",
-    "fetched": "2026-05-07T01:19:05+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "17082de1022f5e75",
-    "title": "Іран розглядає \"меморандум про взаєрозуміння\" зі США із 14 пунктів",
-    "summary": "Документ може стати основою для завершення війни на Близькому Сході.",
-    "url": "https://lb.ua/world/2026/05/07/736813_iran_rozglyadaie_memorandum_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-06T23:27:00+00:00",
-    "fetched": "2026-05-07T01:19:05+00:00",
-    "image": "https://i.lb.ua/news/118/61/69fbce15823ab.jpg"
-  },
-  {
-    "id": "c12adb22968d76d3",
-    "title": "What British people mean when they say 'sorry'",
-    "summary": "Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry Comments URL: https://news.ycombinator.com/item?id=48043184 Points: 35 # Comments: 19",
-    "url": "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-06T23:21:53+00:00",
-    "fetched": "2026-05-07T04:59:43+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0njlkyj.jpg"
-  },
-  {
-    "id": "c901b923cb17c112",
-    "title": "Трамп затвердив нову контртерористичну стратегію США: фокус на Ірані, картелях та ліворадикалах",
-    "summary": "Адміністрація президента США Дональда Трампа оприлюднила нову контртерористичну стратегію США на 2026 рік, у якій головними загрозами для безпеки назвала наркокартелі, ісламістів і радикальні політичні угруповання.",
-    "url": "https://www.pravda.com.ua/news/2026/05/07/8033518/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-06T23:18:00+00:00",
-    "fetched": "2026-05-06T23:28:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/823738/271fe833cc608477432656794fbe3102.jpeg"
-  },
-  {
-    "id": "5755cd6bd67fddac",
-    "title": "Ads on Apple Maps",
-    "summary": "Article URL: https://ads.apple.com/maps Comments URL: https://news.ycombinator.com/item?id=48043010 Points: 35 # Comments: 26",
-    "url": "https://ads.apple.com/maps",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-06T23:00:01+00:00",
-    "fetched": "2026-05-07T07:49:40+00:00",
-    "image": "https://ads.apple.com/adsdam/homepage/us/en_us/images/maps/2026-03-24/og_image.png"
-  },
-  {
-    "id": "12bb30bc73193d01",
-    "title": "Росія та США сприяють сепаратистам у канадській Альберті",
-    "summary": "Втручання у суспільну дискусію має на меті послабити демократичну цілісність Канади.",
-    "url": "https://lb.ua/world/2026/05/07/736811_rosiya_ssha_spriyayut.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-06T22:50:00+00:00",
-    "fetched": "2026-05-06T23:28:31+00:00",
-    "image": "https://i.lb.ua/news/043/03/69fbc5da9a9a5.jpg"
-  },
-  {
-    "id": "4de3366ca2c5e063",
-    "title": "UK businesses brace for jet fuel rationing",
-    "summary": "Article URL: https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/ Comments URL: https://news.ycombinator.com/item?id=48042918 Points: 35 # Comments: 9",
-    "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-06T22:48:11+00:00",
-    "fetched": "2026-05-06T23:28:32+00:00",
-    "image": "https://bmmagazine.co.uk/wp-content/uploads/2026/05/shutterstock_789771859-scaled.jpg"
-  },
-  {
-    "id": "1c8148e68c28613a",
-    "title": "SpaceX is starting to move on from the world's most successful rocket",
-    "summary": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
-    "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-06T22:28:47+00:00",
-    "fetched": "2026-05-06T23:28:32+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2211835635-1152x648.jpg"
-  },
-  {
-    "id": "1b864c4ec85dc9a3",
-    "title": "У Києві та низці областей оголосили повітряну тривогу через атаку БпЛА",
-    "summary": "У ніч на 7 травня у Києві та низці областей України оголошено повітряну тривогу через масовану атаку російських ударних безпілотників.",
-    "url": "https://www.pravda.com.ua/news/2026/05/07/8033517/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-06T22:27:00+00:00",
-    "fetched": "2026-05-06T23:28:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/5/823737/c56774dd89ca892865c43cddcdccba5d.jpeg"
   }
 ]
