@@ -1,5 +1,125 @@
 [
   {
+    "id": "56c1a41791d16baa",
+    "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+    "summary": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities and help ensure the user's…",
+    "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T23:00:00+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ankerliberty2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0a9f3d4cd0971e7b",
+    "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
+    "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which has more processing power than…",
+    "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T23:00:00+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ce3acda24800426d",
+    "title": "Експосолка Брінк розповіла, як Трамп поставив під загрозу життя дипломатів США в Україні – ЗМІ",
+    "summary": "Брінк заявила, що припинення допомоги США наразило на небезпеку життя американських дипломатів у Києві.",
+    "url": "https://www.pravda.com.ua/news/2026/05/22/8035852/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-21T22:40:00+00:00",
+    "fetched": "2026-05-21T23:13:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/a/833379/eaac9c1a048afddc5993bd5a3ca35029.jpeg"
+  },
+  {
+    "id": "d554bc8831f8527f",
+    "title": "Суд у Франції визнав авіаперевізника та виробника літака винними у масовому вбивстві",
+    "summary": "Авіатроща у 2009 році забрала життя 228 людей.",
+    "url": "https://lb.ua/world/2026/05/22/739990_sud_frantsiyi_viznav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-21T22:32:00+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://i.lb.ua/news/074/46/6a0f8a21498ee.jpg"
+  },
+  {
+    "id": "f7f90be145a675f5",
+    "title": "States ask judge to break up Live Nation-Ticketmaster",
+    "summary": "A federal judge is officially being tasked with deciding whether to break up Live Nation-Ticketmaster. More than 30 states are asking Judge Arun Subramanian to order a sale of the ticketing giant, a \"sufficient number\" of large amphitheaters, and limit its ability to tie access…",
+    "url": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T22:27:03+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461581/STK268_TICKETMASTER_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d9220a29f70067ba",
+    "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+    "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
+    "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T22:26:34+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg"
+  },
+  {
+    "id": "dec1350d59d61296",
+    "title": "Україна та Японія розширюють співробітництво",
+    "summary": "Йдеться зокрема про масштабування співпраці в сфері розмінування.",
+    "url": "https://lb.ua/news/2026/05/22/739988_ukrayina_yaponiya_rozshiryuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-21T21:59:00+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://i.lb.ua/news/107/36/6a0f80560c5a3.jpg"
+  },
+  {
+    "id": "5e37527e0f9e13f4",
+    "title": "Сибіга: Відбувається переломний момент війни",
+    "summary": "Сибіга заявив про переломний момент у війні та значення України в забезпеченні безпеки країн НАТО.",
+    "url": "https://www.pravda.com.ua/news/2026/05/22/8035851/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-21T21:56:00+00:00",
+    "fetched": "2026-05-21T23:13:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/833378/c1231ec1124bb9fbeb7f1cf8679a74b8.jpeg"
+  },
+  {
+    "id": "83b573682580a8f6",
+    "title": "Shira: Anti Phishing Training Platform",
+    "summary": "Article URL: https://shira.app/ Comments URL: https://news.ycombinator.com/item?id=48229313 Points: 5 # Comments: 1",
+    "url": "https://shira.app/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T21:55:23+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://shira.app/img/shira-social-card.png"
+  },
+  {
+    "id": "866e4cbcfd496135",
+    "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+    "summary": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.",
+    "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T21:51:26+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-1152x648.jpg"
+  },
+  {
     "id": "dcee1ead943dae56",
     "title": "Cuba is a national security threat to the US, Rubio says",
     "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
@@ -108,6 +228,18 @@
     "image": "https://i.lb.ua/news/080/05/6a0f7355a54fd.jpg"
   },
   {
+    "id": "f33694ff79b21501",
+    "title": "Uv is fantastic, but its package management UX is a mess",
+    "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/ Comments URL: https://news.ycombinator.com/item?id=48228788 Points: 14 # Comments: 1",
+    "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T20:56:36+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://www.loopwerk.io/static/images/2026-05-21-uv-ux-mess.png"
+  },
+  {
     "id": "b7dfc2a54ec50fa9",
     "title": "П’ятеро людей постраждали внаслідок російської агресії на Херсонщині",
     "summary": "На Херсонщині 21 травня 5 людей постраждали від наслідків російської агресії.",
@@ -154,6 +286,18 @@
     "published": "2026-05-21T20:33:00+00:00",
     "fetched": "2026-05-21T21:59:36+00:00",
     "image": "https://i.lb.ua/news/024/51/6a0f6c2be53e1.jpg"
+  },
+  {
+    "id": "3056e1734ef1c825",
+    "title": "Show HN: Open-source .docx editor library for building document apps",
+    "summary": "We are working on an open-source .docx editor library for apps that need to edit Word documents in the browser. We just shipped 1.0. A lot of existing approaches convert .docx into HTML and lose document semantics along the way. Our editor parses OOXML directly and uses its own…",
+    "url": "https://github.com/eigenpal/docx-editor",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-21T20:23:37+00:00",
+    "fetched": "2026-05-21T23:13:17+00:00",
+    "image": "https://opengraph.githubassets.com/267be1494e47fee724d7070a11f9cebdce9a3c067b8bf5d3a9311563eeae217b/eigenpal/docx-editor"
   },
   {
     "id": "1ebe3d1d39ab91c3",
@@ -43678,113 +43822,5 @@
     "published": "2026-05-07T23:17:03+00:00",
     "fetched": "2026-05-08T01:20:24+00:00",
     "image": "https://www.cam.ac.uk/sites/default/files/news/news/gettyimages-1426353191-dp.jpg"
-  },
-  {
-    "id": "44315b98d915b994",
-    "title": "Researchers discover advanced language processing in the unconscious human brain",
-    "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain Comments URL: https://news.ycombinator.com/item?id=48056268 Points: 31 # Comments: 5",
-    "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-07T23:06:44+00:00",
-    "fetched": "2026-05-08T01:20:24+00:00",
-    "image": "https://www.bcm.edu/sites/default/files/2024-07/brain-ocd.jpg"
-  },
-  {
-    "id": "35249dff12e58191",
-    "title": "Maybe you shouldn't install new software for a bit",
-    "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/ Comments URL: https://news.ycombinator.com/item?id=48056227 Points: 89 # Comments: 31",
-    "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-07T23:02:11+00:00",
-    "fetched": "2026-05-08T01:20:24+00:00",
-    "image": null
-  },
-  {
-    "id": "242159d1d5072f45",
-    "title": "США завдали ударів по Ірану: у Тегерані заявили про \"порушення перемир'я\"",
-    "summary": "США атакували порти в Ірані — порушення перемир'я, удари по есмінцях і реакція країн.",
-    "url": "https://www.pravda.com.ua/news/2026/05/08/8033712/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-07T22:56:00+00:00",
-    "fetched": "2026-05-07T23:28:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/824512/dc8f6caf997eeeabb0ef86f66089b4b8.jpeg"
-  },
-  {
-    "id": "f839925527dc0606",
-    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants Comments URL: https://news.ycombinator.com/item?id=48056158 Points: 33 # Comments: 12",
-    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-07T22:54:34+00:00",
-    "fetched": "2026-05-08T01:20:24+00:00",
-    "image": "https://edge.sitecorecloud.io/unichicagomc-81nbqnb3/media/images/ucmc/forefront/channel-pages/research-and-discoveries/universal/money-stethascope_1664x938.jpg?h=938&iar=0&w=1664"
-  },
-  {
-    "id": "db96a511ab040a5d",
-    "title": "Чотири країни ЄС пропустять літак прем'єра Словаччини Фіцо до Москви",
-    "summary": "Мандрівка на поклон до диктатора буде дуже тривалою.",
-    "url": "https://lb.ua/world/2026/05/08/736973_chotiri_krayini_ies_propustyat.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-07T22:48:00+00:00",
-    "fetched": "2026-05-07T23:28:33+00:00",
-    "image": "https://i.lb.ua/news/093/60/69fd15e7bc46d.jpg"
-  },
-  {
-    "id": "b6cf20c71eba56fa",
-    "title": "OpenClaw Had a Rough Week",
-    "summary": "Article URL: https://openclaw.ai/blog/openclaw-rough-week Comments URL: https://news.ycombinator.com/item?id=48056003 Points: 12 # Comments: 4",
-    "url": "https://openclaw.ai/blog/openclaw-rough-week",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-07T22:33:11+00:00",
-    "fetched": "2026-05-07T23:28:33+00:00",
-    "image": "https://openclaw.ai/og-image.png"
-  },
-  {
-    "id": "229d9967b8fd4607",
-    "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
-    "summary": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.",
-    "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-07T22:15:51+00:00",
-    "fetched": "2026-05-08T06:54:21+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c835/live/c4771c70-4914-11f1-b60d-11e8305a3b87.jpg"
-  },
-  {
-    "id": "031f2906e4dd4ab0",
-    "title": "Hackers deface school login pages after claiming another Instructure hack",
-    "summary": "Article URL: https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/ Comments URL: https://news.ycombinator.com/item?id=48055844 Points: 13 # Comments: 1",
-    "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-07T22:14:49+00:00",
-    "fetched": "2026-05-08T01:20:24+00:00",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807"
-  },
-  {
-    "id": "2565e1ef50b0a6f3",
-    "title": "Кремль почав вимагати виведення ЗСУ з Донбасу для продовження переговорів",
-    "summary": "У Москві висунули ультиматум для наступних тристоронніх зустрічей.",
-    "url": "https://lb.ua/society/2026/05/08/736971_kreml_pochav_vimagati_vivedennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-07T22:12:00+00:00",
-    "fetched": "2026-05-07T23:28:33+00:00",
-    "image": "https://i.lb.ua/news/117/61/69fd0d9034f4a.jpg"
   }
 ]
