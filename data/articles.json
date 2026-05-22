@@ -1,5 +1,77 @@
 [
   {
+    "id": "bc330e6ce473a8e2",
+    "title": "Джордж Рассел виграв кваліфікацію спринту Гран-прі Канади",
+    "summary": "Формула-1 повернулась після тритижневої павзи.",
+    "url": "https://lb.ua/sport/2026/05/23/740236_dzhordzh_rassel_vigrav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T22:47:00+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://i.lb.ua/news/090/18/6a10dd0699f97.jpg"
+  },
+  {
+    "id": "648b8f6f3a783c4f",
+    "title": "Адміністрація Трампа запроваджує нове правило для отримання \"зеленої карти\"",
+    "summary": "Адміністрація президента США Трампа відтепер вимагатиме від осіб, які подають заявки на отримання green cards (\"зелених карт\"), виїжджати зі Сполучених Штатів на час розгляду їхніх заяв — це кардинальна зміна, яка може докорінно змінити життя сотень тисяч людей, які прагнуть…",
+    "url": "https://www.pravda.com.ua/news/2026/05/23/8036032/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T22:36:00+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/c/834316/1c4d4e5fcc50108c097a450fef0ac8c6.jpeg"
+  },
+  {
+    "id": "042fa7a030197ba3",
+    "title": "Президент Чехії закликав НАТО \"показати зуби\" у відповідь на російські провокації",
+    "summary": "Альянс може застосувати цілу низку заходів проти Кремля.",
+    "url": "https://lb.ua/society/2026/05/23/740234_prezident_chehiyi_zaklikav_nato.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T22:20:00+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://i.lb.ua/news/057/19/6a10d7707d9dd.jpg"
+  },
+  {
+    "id": "30bbca5397edbfbf",
+    "title": "Окупанти атакували дронами Полтавщину: є пошкодження",
+    "summary": "Внаслідок атаки ніхто не постраждав.",
+    "url": "https://lb.ua/society/2026/05/23/740230_okupanti_atakuvali_dronami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T21:58:00+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://i.lb.ua/news/088/52/6a10d19b8829b.jpg"
+  },
+  {
+    "id": "a90f5e1b8f0fe476",
+    "title": "Трамп пожертвує поїздкою на весілля сина заради державних справ",
+    "summary": "Дональд-молодший одружиться на Багамах, але батько не буде присутній на церемонії.",
+    "url": "https://lb.ua/world/2026/05/23/740232_tramp_pozhertvuie_poyizdkoyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T21:50:00+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://i.lb.ua/news/121/25/6a10d03f30ea7.jpg"
+  },
+  {
+    "id": "643c563da45e0e67",
+    "title": "First-generation Chromecast users stressed by devices suddenly failing",
+    "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
+    "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T21:42:59+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg"
+  },
+  {
     "id": "ccf1e38874e19a28",
     "title": "Президент Чехії закликає НАТО \"показати зуби\" у відповідь на провокації Росії – The Guardian",
     "summary": "Президент Чехії Петр Павел закликав НАТО \"показати зуби\" у відповідь на неодноразові спроби Росії перевірити рішучість альянсу на його східному фланзі, запропонувавши низку заходів, серед яких відключення інтернету, ізоляція російських банків від світових фінансових систем та…",
@@ -24,6 +96,30 @@
     "image": "https://i.lb.ua/news/038/48/6a10ccf2b80d0.jpg"
   },
   {
+    "id": "271770fd5d8d38be",
+    "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+    "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda Comments URL: https://news.ycombinator.com/item?id=48241997 Points: 35 # Comments: 3",
+    "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T21:36:55+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://notesbylex.com/_media/shipping-laptop-uganda-cover.png"
+  },
+  {
+    "id": "9217659c56cbb684",
+    "title": "Judge dismisses human smuggling charges against Kilmar Abrego Garcia",
+    "summary": "Article URL: https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-035a2b2ded3ede65e77566cdf12b107f Comments URL: https://news.ycombinator.com/item?id=48241810 Points: 28 # Comments: 0",
+    "url": "https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-035a2b2ded3ede65e77566cdf12b107f",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T21:19:47+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://dims.apnews.com/dims4/default/df0a48f/2147483647/strip/true/crop/3879x2585+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2Fc7%2F49f998351b46b632caa600a4ed51%2Fd37f5b4be37f4217b8c62b8e1cfb83c2"
+  },
+  {
     "id": "5d433e00161176e4",
     "title": "Олександр Усик показав рекордну вагу перед поєдинком з Ріко Верховеном",
     "summary": "Українець набрав перед зустріччю з Королем кікбоксингу, а його суперник, навпаки, схуд.",
@@ -34,6 +130,18 @@
     "published": "2026-05-22T21:15:00+00:00",
     "fetched": "2026-05-22T21:43:52+00:00",
     "image": "https://i.lb.ua/news/006/45/6a10c85bee0c3.jpg"
+  },
+  {
+    "id": "3c0f5b58152b238c",
+    "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+    "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T21:10:46+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
   },
   {
     "id": "3e916e7a0ed4b19d",
@@ -346,6 +454,18 @@
     "published": "2026-05-22T18:54:50+00:00",
     "fetched": "2026-05-22T20:01:38+00:00",
     "image": "https://s.dou.ua/img/announces/4545_BfASRmr.jpg"
+  },
+  {
+    "id": "f3b604380821fead",
+    "title": "A blueprint for formal verification of Apple corecrypto",
+    "summary": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/ Comments URL: https://news.ycombinator.com/item?id=48239862 Points: 24 # Comments: 0",
+    "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T18:52:17+00:00",
+    "fetched": "2026-05-22T23:06:55+00:00",
+    "image": "https://security.apple.com/assets/image/seo-image.jpg"
   },
   {
     "id": "865a48b0c2e5e29d",
@@ -43378,125 +43498,5 @@
     "published": "2026-05-08T23:13:57+00:00",
     "fetched": "2026-05-09T04:51:59+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1726618763-1152x648.jpg"
-  },
-  {
-    "id": "6ec2685a1ef53ba7",
-    "title": "Трамп отримав збагачений уран - але не від Ірану",
-    "summary": "Свій радіоактивний запас передала інша країна, у якій Білий дім провів військову операцію.",
-    "url": "https://lb.ua/world/2026/05/09/737175_tramp_otrimav_zbagacheniy_uran-.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-08T22:53:00+00:00",
-    "fetched": "2026-05-08T23:30:14+00:00",
-    "image": "https://i.lb.ua/news/030/04/69fe67004d545.jpg"
-  },
-  {
-    "id": "b793188156295051",
-    "title": "На Львівщині знайшли мертвого 11-річного хлопчика на вулиці",
-    "summary": "Поліція розслідує загибель 11-річного хлопчика у Шептицькому. Відкрито провадження за статтею умисне вбивство.",
-    "url": "https://www.pravda.com.ua/news/2026/05/09/8033906/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-08T22:44:00+00:00",
-    "fetched": "2026-05-08T23:30:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/825308/04455f6a0f7ff2a4970720c58fc28257.jpeg"
-  },
-  {
-    "id": "6a396c9f8dee4937",
-    "title": "Australian by-election a litmus test for right-wing One Nation Party",
-    "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
-    "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-08T22:39:56+00:00",
-    "fetched": "2026-05-09T07:11:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa1d/live/de668a30-4aa4-11f1-b55d-0f258dce1735.jpg"
-  },
-  {
-    "id": "030f65a9186ba8dd",
-    "title": "Румен Радев офіційно став новим прем'єр-міністром Болгарії",
-    "summary": "У програмній промові заявив, що не дозволить втягнути країну у війну.",
-    "url": "https://lb.ua/world/2026/05/09/737173_rumen_radev_ofitsiyno_stav_novim.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-08T22:27:00+00:00",
-    "fetched": "2026-05-08T23:30:14+00:00",
-    "image": "https://i.lb.ua/news/103/28/69fe63d0c0631.jpg"
-  },
-  {
-    "id": "9e06a15164aa7334",
-    "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
-    "summary": "The plan isn't final and could change, but his ouster would be no surprise.",
-    "url": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-08T22:10:58+00:00",
-    "fetched": "2026-05-08T23:30:15+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216571317-1152x648-1778084381.jpg"
-  },
-  {
-    "id": "9506dd886e199e76",
-    "title": "Judge rules DOGE cancellation of humanities grants was unconstitutional",
-    "summary": "Article URL: https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e Comments URL: https://news.ycombinator.com/item?id=48069354 Points: 32 # Comments: 5",
-    "url": "https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-08T22:06:19+00:00",
-    "fetched": "2026-05-08T23:30:16+00:00",
-    "image": "https://dims.apnews.com/dims4/default/1c00acc/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2Fbf%2Fdc0647cb38ff6c3016b3c75b79f2%2F5d3e88baec4c4878b1272b7977101d65"
-  },
-  {
-    "id": "5d9874c9f25a2963",
-    "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-    "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
-    "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-08T22:04:55+00:00",
-    "fetched": "2026-05-08T23:30:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2f/live/55b14d10-4b17-11f1-be9e-ad2f8d891a76.png"
-  },
-  {
-    "id": "8bf1de0accf7390f",
-    "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
-    "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166 Comments URL: https://news.ycombinator.com/item?id=48069313 Points: 13 # Comments: 0",
-    "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-08T22:00:22+00:00",
-    "fetched": "2026-05-08T23:30:16+00:00",
-    "image": null
-  },
-  {
-    "id": "899aaf6860bcf90c",
-    "title": "В Харкові викрили аптечну мережу, що продавала без рецептів наркотичні засоби",
-    "summary": "Йдеться про кодеїновмісні препарати.",
-    "url": "https://lb.ua/society/2026/05/09/737171_harkovi_vikrili_aptechnu_merezhu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-08T21:58:00+00:00",
-    "fetched": "2026-05-08T22:02:13+00:00",
-    "image": "https://i.lb.ua/news/122/28/69fe5c72e78c1.jpg"
-  },
-  {
-    "id": "8021e08b7d4b473d",
-    "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging Comments URL: https://news.ycombinator.com/item?id=48069192 Points: 55 # Comments: 35",
-    "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-08T21:47:47+00:00",
-    "fetched": "2026-05-08T23:30:16+00:00",
-    "image": "https://i.pcmag.com/imagery/articles/01VCs6SZdta2WftLSUptXTG-1.fit_lim.size_1200x630.v1778247916.jpg"
   }
 ]
