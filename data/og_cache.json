@@ -1,7 +1,4 @@
 {
-  "19e51839d5bbbdd1": "https://www.cam.ac.uk/sites/default/files/news/news/gettyimages-1426353191-dp.jpg",
-  "dd2b333b13bcdf59": "https://etke.cc/img/komai/main-view.webp",
-  "cf4368737d222e36": "https://repository-images.githubusercontent.com/824707729/6c1c05bd-59f2-4874-af77-31faee285f2a",
   "478dd589b45529b3": "https://img.eurointegration.com.ua/images/doc/2/c/2c83f87-7a263221-76d9-41bc-aa7a-d9b81373f4c2.jpg",
   "02f494d93aa116f7": "https://img.eurointegration.com.ua/images/doc/f/f/ff6a110-9a185cb3d850c412e0b0f642d31a798a.png",
   "f2be92089993cd9a": "https://img.eurointegration.com.ua/images/doc/0/e/0e30f99-km-960x600.jpg",
@@ -13,7 +10,6 @@
   "5f9b67ae989d7d03": null,
   "5f0b7db9649f79cc": "https://mojolang.org/img/mojo-social-card.png",
   "f5338cc4f655f537": "https://opengraph.githubassets.com/36ca31b3a4b446c930414f69a5c8d334b75d1b464d50c7a19663878d20f695cd/graemeg/blaise",
-  "ace024ee985de518": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
   "24fffa889ba6df99": null,
   "10d0da90100ae146": null,
   "b8149db076c9837d": "https://img.eurointegration.com.ua/images/doc/7/8/787e594-dvids-pic.jpg",
@@ -886,5 +882,7 @@
   "17653610dc10a401": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
   "f33694ff79b21501": "https://www.loopwerk.io/static/images/2026-05-21-uv-ux-mess.png",
   "83b573682580a8f6": "https://shira.app/img/shira-social-card.png",
-  "3056e1734ef1c825": "https://opengraph.githubassets.com/267be1494e47fee724d7070a11f9cebdce9a3c067b8bf5d3a9311563eeae217b/eigenpal/docx-editor"
+  "3056e1734ef1c825": "https://opengraph.githubassets.com/267be1494e47fee724d7070a11f9cebdce9a3c067b8bf5d3a9311563eeae217b/eigenpal/docx-editor",
+  "165e7103fa41da8e": "https://zeroshot.bearblog.dev/static/og-image.png",
+  "078100ec211ef89d": "https://substackcdn.com/image/fetch/$s_!5Z0b!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb39b638-e59b-451f-af50-57065a9cbac5_800x533.jpeg"
 }
