@@ -1,5 +1,77 @@
 [
   {
+    "id": "f791e849b9f20ec5",
+    "title": "Росі атакує Київ ракетами",
+    "summary": "",
+    "url": "https://lb.ua/society/2026/05/24/740402_rosi_atakuie_kiyiv_raketami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T22:19:00+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
+    "image": "https://i.lb.ua/news/049/54/6a12284105c0a.jpg"
+  },
+  {
+    "id": "8c626b8612e810b0",
+    "title": "Markdown Is Not LaTeX",
+    "summary": "Article URL: https://www.iconoclasts.blog/joe/markdown-is-not-latex Comments URL: https://news.ycombinator.com/item?id=48252007 Points: 7 # Comments: 0",
+    "url": "https://www.iconoclasts.blog/joe/markdown-is-not-latex",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-23T22:04:01+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
+    "image": "https://www.iconoclasts.blog/joe/markdown-is-not-latex.page/microsoft"
+  },
+  {
+    "id": "c9f2a48ac366d742",
+    "title": "Росія атакує Київ балістикою: у місті пролунала низка вибухів",
+    "summary": "Російські війська завдають удару по Києву балістичними ракетами, у столиці пролунала серія потужних вибухів.",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036132/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T22:01:00+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/4/834859/e4f654d0c6e4aecc2fe1e3af0e40384e.jpeg"
+  },
+  {
+    "id": "a5f3ee55ffcdfca6",
+    "title": "Повітряні сили попереджають про загрозу \"Орєшніка\"",
+    "summary": "Повітряні сили ЗСУ попередили про загрозу застосування балістичної ракети середньої дальності \"Орєшнік\" на тлі масштабної повітряної тривоги по всій країні.",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036131/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T21:51:00+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/834844/0efad6be6bb6453eda1ea639191042ba.jpeg"
+  },
+  {
+    "id": "ddfeff9297bdb2ea",
+    "title": "По всій Україні оголосили тривогу через МіГ-31К, росіяни атакували \"Кинджалами\"",
+    "summary": "В Україні оголосили масштабну повітряну тривогу через зліт російського винищувача МіГ-31К, який є носієм аеробалістичних ракет \"Кинджал\".",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036130/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T21:32:00+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/834840/5416727dc48b585dde67964842233e69.jpeg"
+  },
+  {
+    "id": "4eb93a9560f43c01",
+    "title": "Франція заборонила в'їзд міністру нацбезпеки Ізраїлю та ініціює санкції на рівні ЄС",
+    "summary": "Франція з 23 травня заборонила в'їзд міністрові національної безпеки Ізраїлю Ітамару Бен-Гвіру та виступила за запровадження проти нього санкцій на рівні Європейського Союзу.",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036129/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T21:14:00+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/834839/76006f42d2ead1eb5f7e164c97cb5cf5.jpeg"
+  },
+  {
     "id": "86b7d48925db865c",
     "title": "Software Engineering at the Tipping Point",
     "summary": "Article URL: https://io.google/2026/explore/workshop-2 Comments URL: https://news.ycombinator.com/item?id=48251553 Points: 9 # Comments: 1",
@@ -1125,6 +1197,18 @@
     "lang": "en",
     "published": "2026-05-23T11:54:39+00:00",
     "fetched": "2026-05-23T14:09:59+00:00",
+    "image": "https://pbs.twimg.com/profile_images/1920854672216064000/-iUcVNDF_200x200.jpg"
+  },
+  {
+    "id": "810851a712d88eab",
+    "title": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+    "summary": "https://xcancel.com/YoavCodes/status/2058064720553222567 Comments URL: https://news.ycombinator.com/item?id=48246917 Points: 106 # Comments: 117",
+    "url": "https://twitter.com/YoavCodes/status/2058064720553222567",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-23T11:54:39+00:00",
+    "fetched": "2026-05-23T22:28:58+00:00",
     "image": "https://pbs.twimg.com/profile_images/1920854672216064000/-iUcVNDF_200x200.jpg"
   },
   {
@@ -43366,89 +43450,5 @@
     "published": "2026-05-09T23:00:56+00:00",
     "fetched": "2026-05-09T23:54:52+00:00",
     "image": "https://www.cryptopolitan.com/wp-content/uploads/2026/05/User-just-tricked-Grok-and-Bankrbot-to-send-tokens-with-Morse-code.webp"
-  },
-  {
-    "id": "3367b96fcdd73237",
-    "title": "Представники США зустрілися з прем’єром Катару на тлі переговорів щодо мирної угоди з Іраном – ЗМІ",
-    "summary": "За даними видань Axios і CNN, спеціальний посланець США Стів Віткофф і держсекретар Марко Рубіо зустрілися в суботу в Маямі з прем'єр-міністром Катару шейхом Мохаммедом бін Абдулрахманом Аль Тані на тлі очікувань відповіді Ірану щодо подальших переговорів.",
-    "url": "https://www.pravda.com.ua/news/2026/05/10/8034014/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-09T22:26:00+00:00",
-    "fetched": "2026-05-09T22:54:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/825867/b5d8308fa72400bd171024058b641168.jpeg"
-  },
-  {
-    "id": "5f44bb216ce3b11e",
-    "title": "France Moves to Break Encrypted Messaging",
-    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging Comments URL: https://news.ycombinator.com/item?id=48078811 Points: 24 # Comments: 6",
-    "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-09T22:14:35+00:00",
-    "fetched": "2026-05-09T23:54:52+00:00",
-    "image": "https://reclaimthenet.org/wp-content/uploads/2026/05/6M0h4AJN7yyk-scaled.jpg"
-  },
-  {
-    "id": "b634e82cfec72a22",
-    "title": "Getting Arrested in Japan",
-    "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan Comments URL: https://news.ycombinator.com/item?id=48078647 Points: 13 # Comments: 0",
-    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-09T21:56:19+00:00",
-    "fetched": "2026-05-09T22:54:21+00:00",
-    "image": "http://static1.squarespace.com/static/605f04a61395e21d304e636a/t/69c8d480c2f49f1bfc842d8d/1774769280050/japan+detention+center.jpeg?format=1500w"
-  },
-  {
-    "id": "27380e7c6b4943f5",
-    "title": "The Death of the Roadmap",
-    "summary": "Article URL: https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html Comments URL: https://news.ycombinator.com/item?id=48078617 Points: 3 # Comments: 0",
-    "url": "https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-09T21:51:41+00:00",
-    "fetched": "2026-05-09T22:54:21+00:00",
-    "image": null
-  },
-  {
-    "id": "c3ef8a44faff17c1",
-    "title": "Rust but Lisp",
-    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp Comments URL: https://news.ycombinator.com/item?id=48078575 Points: 5 # Comments: 2",
-    "url": "https://github.com/ThatXliner/rust-but-lisp",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-09T21:46:27+00:00",
-    "fetched": "2026-05-09T22:54:21+00:00",
-    "image": "https://opengraph.githubassets.com/2d914858d61f21100ab9d9e9a88ebbf134182298033eae6193c4906f75bc070b/ThatXliner/rust-but-lisp"
-  },
-  {
-    "id": "fa54c52a42f1d027",
-    "title": "The 90 Day disclosure policy is dead",
-    "summary": "Article URL: https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/ Comments URL: https://news.ycombinator.com/item?id=48078538 Points: 10 # Comments: 2",
-    "url": "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-09T21:42:50+00:00",
-    "fetched": "2026-05-09T22:54:21+00:00",
-    "image": "https://blog.himanshuanand.com/img/favicon/orange.png"
-  },
-  {
-    "id": "e4ae7be53e99fb12",
-    "title": "На Подолі в Києві бійка між чоловіками переросла у стрілянину",
-    "summary": "Поліція Києва повідомила про стрілянину на Подолі під час бійки.",
-    "url": "https://www.pravda.com.ua/news/2026/05/10/8034013/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-09T21:30:00+00:00",
-    "fetched": "2026-05-09T21:55:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/825866/f1d3b849175f0e41c94c88aa816b7368.jpeg"
   }
 ]
