@@ -1,5 +1,125 @@
 [
   {
+    "id": "93a3e5c141060524",
+    "title": "Делегація Катару прибула в Тегеран для сприяння мирній угоді між США та Іраном – Reuters",
+    "summary": "За даними ЗМІ, в Тегеран прибула переговорна група з Катару для сприяння мирній угоді між Іраном і США.",
+    "url": "https://www.pravda.com.ua/news/2026/05/23/8036036/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T00:48:00+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/834329/59f3dfe8e61e60f6c1d46786eaaf9793.jpeg"
+  },
+  {
+    "id": "322926f8a3d31edb",
+    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+    "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware Comments URL: https://news.ycombinator.com/item?id=48243293 Points: 16 # Comments: 4",
+    "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-23T00:34:25+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://i.pcmag.com/imagery/articles/03FWX7wsMyKmI8Pt0HrumDG-1.fit_lim.size_1200x630.v1779401296.jpg"
+  },
+  {
+    "id": "f7c868a76f4b12e5",
+    "title": "SpaceX провела тестовий запуск третього покоління ракети Starship",
+    "summary": "Апарату вдалося повернутися на Землю навіть попри проблему з двигуном.",
+    "url": "https://lb.ua/tech/2026/05/23/740240_spacex_provela_testoviy_zapusk.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-23T00:33:00+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://i.lb.ua/news/114/12/6a10f7e86ab6a.jpg"
+  },
+  {
+    "id": "cbf4e7ffd185bd88",
+    "title": "SpaceX launches Starship v3 rocket",
+    "summary": "Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505 Comments URL: https://news.ycombinator.com/item?id=48242959 Points: 71 # Comments: 23",
+    "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T23:41:55+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779492307346_now_brk_spacex_starship_launch_260522_S3_1920x1080-zoo54r.jpg"
+  },
+  {
+    "id": "eb5a9db58e46dca9",
+    "title": "SpaceX запустила в тестовий політ найбільшу ракету Starship",
+    "summary": "У ніч на 23 травня SpaceX запустила в тестовий політ найбільшу ракету Starship.",
+    "url": "https://www.pravda.com.ua/news/2026/05/23/8036034/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T23:34:00+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/d/834327/ed1cf8e5e388deb32c9f52270878bf5d.jpeg"
+  },
+  {
+    "id": "f53d13f9378a6b1d",
+    "title": "ЗМІ: Мирна угода США та Ірану може бути оголошена упродовж кількох годин",
+    "summary": "Доля ключового питання про відмову від збагачення урану залишається невизначеною.",
+    "url": "https://lb.ua/world/2026/05/23/740238_zmi_mirna_ugoda_ssha_iranu_mozhe.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T23:28:00+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://i.lb.ua/news/083/19/6a10e5ed943b7.jpg"
+  },
+  {
+    "id": "97dc82d55ab0fbe3",
+    "title": "Після атаки безпілотників у Новоросійську РФ горить нафтовий термінал",
+    "summary": "У ніч на 23 травня безпілотники атакували нафтовий термінал у Новоросійську, спалахнула пожежа.",
+    "url": "https://www.pravda.com.ua/news/2026/05/23/8036033/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-22T23:10:00+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/834318/742388b0fdd0e6312817fa4ae52116fa.jpeg"
+  },
+  {
+    "id": "c82416106c90ddb9",
+    "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+    "summary": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
+    "url": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-22T23:07:41+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b3/live/8445c700-55d0-11f1-8b8c-6d33e1d5abb6.jpg"
+  },
+  {
+    "id": "bd063534d79d2a07",
+    "title": "Don't just paste the AI at me",
+    "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 116 # Comments: 77",
+    "url": "https://dontquotetheai.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T22:57:58+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://dontquotetheai.com/assets/og-image.png"
+  },
+  {
+    "id": "6d40d44d20a8022e",
+    "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+    "summary": "\"This capability is not common for satellites conducting typical missions.\"",
+    "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T22:50:23+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-1152x648.jpg"
+  },
+  {
     "id": "bc330e6ce473a8e2",
     "title": "Джордж Рассел виграв кваліфікацію спринту Гран-прі Канади",
     "summary": "Формула-1 повернулась після тритижневої павзи.",
@@ -24,6 +144,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/c/834316/1c4d4e5fcc50108c097a450fef0ac8c6.jpeg"
   },
   {
+    "id": "17bf198d00f73198",
+    "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
+    "summary": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T22:24:03+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277132506-1152x648.jpg"
+  },
+  {
     "id": "042fa7a030197ba3",
     "title": "Президент Чехії закликав НАТО \"показати зуби\" у відповідь на російські провокації",
     "summary": "Альянс може застосувати цілу низку заходів проти Кремля.",
@@ -34,6 +166,18 @@
     "published": "2026-05-22T22:20:00+00:00",
     "fetched": "2026-05-22T23:06:55+00:00",
     "image": "https://i.lb.ua/news/057/19/6a10d7707d9dd.jpg"
+  },
+  {
+    "id": "af4b7fe6cc5ec379",
+    "title": "Sleep research led to a new sleep apnea drug",
+    "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug Comments URL: https://news.ycombinator.com/item?id=48242278 Points: 47 # Comments: 23",
+    "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-22T22:05:39+00:00",
+    "fetched": "2026-05-23T01:23:44+00:00",
+    "image": "https://temertymedicine.utoronto.ca/sites/default/files/styles/social_image/public/assets/images/pexels-shvets-production-8416437.jpg?itok=wDG4rXHH"
   },
   {
     "id": "30bbca5397edbfbf",
@@ -43402,101 +43546,5 @@
     "published": "2026-05-09T01:36:00+00:00",
     "fetched": "2026-05-09T04:51:59+00:00",
     "image": "https://i.lb.ua/news/089/25/69fe90e744b16.jpg"
-  },
-  {
-    "id": "567740844f34f504",
-    "title": "Росіяни знищили ферму на Чернігівщині: загинула людина, є поранені",
-    "summary": "Унаслідок обстрілу Печенюг 8 травня пошкоджена інфраструктура, є загиблий та двоє поранених — подробиці події.",
-    "url": "https://www.pravda.com.ua/news/2026/05/09/8033909/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-09T00:49:00+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/9/825312/d9b3a91290b87c5969ec4a7b400e8b33.jpeg"
-  },
-  {
-    "id": "eb30a7db43e0066e",
-    "title": "Hungary's new PM to be sworn in during 'regime change' party",
-    "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-    "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-09T00:46:16+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891d/live/cd2bc300-4afb-11f1-b55d-0f258dce1735.jpg"
-  },
-  {
-    "id": "9d5cff0bb8041062",
-    "title": "Трамп висловив сподівання, що перемир'я в Україні триватиме довше трьох днів",
-    "summary": "\"Було б добре, бо це божевілля\".",
-    "url": "https://lb.ua/society/2026/05/09/737179_tramp_visloviv_spodivannya_scho.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-09T00:30:00+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": "https://i.lb.ua/news/034/35/69fe8051bde1c.jpg"
-  },
-  {
-    "id": "32b8a2b0149ea21a",
-    "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-    "summary": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
-    "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-09T00:15:58+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e972/live/7f630690-4b02-11f1-b584-9d74bfad42dc.jpg"
-  },
-  {
-    "id": "fb8e16c24524b604",
-    "title": "Трамп вважає, що перемир'я між Росією та Україною може тривати довше",
-    "summary": "Трамп вважає, що перемир'я між Україною та Росією може бути подовжено, і хоче, щоб війна припинилась.",
-    "url": "https://www.pravda.com.ua/news/2026/05/09/8033908/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-09T00:06:00+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/7/825311/67af4f581716577d05e77a0e77f53490.jpeg"
-  },
-  {
-    "id": "2930c639234f32ff",
-    "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-    "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests Comments URL: https://news.ycombinator.com/item?id=48070115 Points: 33 # Comments: 24",
-    "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-08T23:37:55+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": null
-  },
-  {
-    "id": "3464f03e59c22ef1",
-    "title": "Актор \"Зоряних війн\" і друг України Марк Хемілл виклав пост про смерть Трампа",
-    "summary": "У Білому домі назвали голлівудську зірку \"хворим божевільним\".",
-    "url": "https://lb.ua/world/2026/05/09/737177_aktor_zoryanih_viyn_drug.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-08T23:32:00+00:00",
-    "fetched": "2026-05-09T01:18:53+00:00",
-    "image": "https://i.lb.ua/news/033/61/69fe736a89211.jpg"
-  },
-  {
-    "id": "7aab86c81654c38d",
-    "title": "Manufacturing qubits that can move",
-    "summary": "It's hard to mix electronic manufacturing and flexible geometry.",
-    "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-08T23:13:57+00:00",
-    "fetched": "2026-05-09T04:51:59+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1726618763-1152x648.jpg"
   }
 ]
