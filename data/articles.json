@@ -1,5 +1,53 @@
 [
   {
+    "id": "f30afb4b0763d367",
+    "title": "Британія заблокувала план НАТО щодо надання Україні додаткової військової допомоги – ЗМІ",
+    "summary": "Велика Британія, Франція, Іспанія, Італія та Канада заблокували ініціативу генерального секретаря НАТО Марка Рютте щодо виділення членами Альянсу 0,25% свого ВВП на військову допомогу Україні.",
+    "url": "https://www.pravda.com.ua/news/2026/05/25/8036250/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T22:12:00+00:00",
+    "fetched": "2026-05-24T22:30:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/f/835458/1fb290fe93d51ef224a5d929197ebe45.jpeg"
+  },
+  {
+    "id": "8011b292f83fd060",
+    "title": "118-ту бригаду ЗСУ внесли до Книги рекордів України за оборону Малої Токмачки",
+    "summary": "Військовослужбовці 118-ї окремої механізованої бригади встановили національний рекорд у категорії \"Військова стійкість та оборона\" за безперервне утримання села Мала Токмачка Запорізької області протягом понад 1500 днів.",
+    "url": "https://www.pravda.com.ua/news/2026/05/25/8036248/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T21:11:00+00:00",
+    "fetched": "2026-05-24T22:30:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/835455/0866b64904f3e64d36a58772df6c4056.jpeg"
+  },
+  {
+    "id": "6b6c09e16f3853ab",
+    "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+    "summary": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
+    "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-24T21:02:08+00:00",
+    "fetched": "2026-05-24T22:30:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg"
+  },
+  {
+    "id": "47922a9e44994476",
+    "title": "Головне за неділю, 24 травня: наслідки ракетної атаки на Київ, понад 170 боєзіткнень, вибух авто в Одесі",
+    "summary": "Бойові дії на Донеччині, 173 бойові зіткнення, ворожі обстріли, затримання мародера у столиці. Яким запам’ятається 1551-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/24/740592_golovne_nedilyu_24_travnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T20:58:00+00:00",
+    "fetched": "2026-05-24T22:30:46+00:00",
+    "image": "https://i.lb.ua/news/066/26/6a136ec06852e.jpg"
+  },
+  {
     "id": "cfc107cc7333cc39",
     "title": "У Харкові військовий у СЗЧ влаштував стрілянину біля багатоповерхівки",
     "summary": "У Харкові чоловік відкрив стрілянину біля багатоповерхівки, його затримали. Постраждалих немає, триває розслідування.",
@@ -130,6 +178,18 @@
     "published": "2026-05-24T19:12:46+00:00",
     "fetched": "2026-05-24T21:02:29+00:00",
     "image": "https://www.cbp.gov/sites/default/files/cbp-seal-vertical-blue_twitter-card_600.jpg"
+  },
+  {
+    "id": "1f4612e8b47134ba",
+    "title": "A fundamental principle of aeronautical engineering has been overturned",
+    "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/ Comments URL: https://news.ycombinator.com/item?id=48260117 Points: 8 # Comments: 5",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T19:10:26+00:00",
+    "fetched": "2026-05-24T22:30:46+00:00",
+    "image": "https://media.wired.com/photos/6a0f1d82527cc03d8afd9e26/191:100/w_1280,c_limit/1341532824"
   },
   {
     "id": "4ed64be7c54c5783",
@@ -610,6 +670,18 @@
     "published": "2026-05-24T15:29:00+00:00",
     "fetched": "2026-05-24T16:33:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/0/835274/00d212aaf4b2b0707a4053fcef1131c4.jpeg"
+  },
+  {
+    "id": "2017540a409bc883",
+    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "summary": "Article URL: https://audiomass.co/?multitrack=1 Comments URL: https://news.ycombinator.com/item?id=48258015 Points: 13 # Comments: 4",
+    "url": "https://audiomass.co/?multitrack=1",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T15:25:43+00:00",
+    "fetched": "2026-05-24T22:30:46+00:00",
+    "image": "https://audiomass.co/icon.jpg"
   },
   {
     "id": "47e8d231b2e934e3",
@@ -43786,101 +43858,5 @@
     "published": "2026-05-10T23:02:31+00:00",
     "fetched": "2026-05-11T05:39:08+00:00",
     "image": "https://dunkels.com/adam/assets/images/llm-ping/ping.png"
-  },
-  {
-    "id": "21c9dca21bad7fa1",
-    "title": "Нетаньягу провів телефонну розмову з Трампом на тлі відповіді Ірану про мирну угоду – CNN",
-    "summary": "Нетаньягу і Трамп провели телефонну розмову на тлі відповіді Ірану про мирну угоду.",
-    "url": "https://www.pravda.com.ua/news/2026/05/11/8034116/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T22:28:00+00:00",
-    "fetched": "2026-05-10T23:28:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/826306/b717151c0abc064a13a8795d223c58f0.jpeg"
-  },
-  {
-    "id": "757028c078ab22c3",
-    "title": "Obsidian plugin was abused to deploy a remote access trojan",
-    "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/ Comments URL: https://news.ycombinator.com/item?id=48088576 Points: 16 # Comments: 4",
-    "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T22:02:43+00:00",
-    "fetched": "2026-05-10T23:28:37+00:00",
-    "image": "https://cyber.netsecops.io/images/og-image/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat.jpg"
-  },
-  {
-    "id": "4103f6117785db63",
-    "title": "Plex's price hikes prove I was right to switch to Jellyfin",
-    "summary": "Article URL: https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/ Comments URL: https://news.ycombinator.com/item?id=48088459 Points: 11 # Comments: 2",
-    "url": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T21:49:59+00:00",
-    "fetched": "2026-05-10T23:28:37+00:00",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Plex-vs-Jellyfin-logos.jpg"
-  },
-  {
-    "id": "583e909fd0ac3858",
-    "title": "Путін боїться перевороту, Мала Токмачка та підвищення зарплат військовим – про війну за тиждень",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/11/8033805/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T21:46:00+00:00",
-    "fetched": "2026-05-10T22:11:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/824816/9eb0166eba51da9198d8662ee087a5fd.jpeg?w=1200&q=85&stamp=1778236801"
-  },
-  {
-    "id": "1d112e7d85bcd23e",
-    "title": "Трамп назвав \"абсолютно неприйнятною\" нову пропозицію Ірану про припинення війни",
-    "summary": "Трамп заявив про \"неприйнятність\" нової пропозиції Ірану щодо припинення війни.",
-    "url": "https://www.pravda.com.ua/news/2026/05/11/8034115/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T21:40:00+00:00",
-    "fetched": "2026-05-10T22:11:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/826305/f7bd940cf43a01f760c3b049a7ff496c.jpeg"
-  },
-  {
-    "id": "163bdc2f9b51fd35",
-    "title": "Why modern parents feel more sleep deprived than our ancestors did",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep Comments URL: https://news.ycombinator.com/item?id=48088343 Points: 5 # Comments: 0",
-    "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T21:36:52+00:00",
-    "fetched": "2026-05-10T22:11:51+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0nk42d7.jpg"
-  },
-  {
-    "id": "e05ce67a3c59083e",
-    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-    "summary": "Article URL:…",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T21:16:58+00:00",
-    "fetched": "2026-05-10T22:11:51+00:00",
-    "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg"
-  },
-  {
-    "id": "b791e574820dd5a0",
-    "title": "«Барселона» перемогла «Реал» у «класіко» й достроково оформила чемпіонство в Ла Лізі",
-    "summary": "29-й кубок чемпіонів Ла Ліги в історії «Барселони».",
-    "url": "https://lb.ua/sport/2026/05/11/737463_barselona_peremogla_real_klasiko.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T21:10:00+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://i.lb.ua/news/061/24/6a00f57892490.jpg"
   }
 ]
