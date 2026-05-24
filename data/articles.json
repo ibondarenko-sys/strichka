@@ -1,5 +1,41 @@
 [
   {
+    "id": "cfc107cc7333cc39",
+    "title": "У Харкові військовий у СЗЧ влаштував стрілянину біля багатоповерхівки",
+    "summary": "У Харкові чоловік відкрив стрілянину біля багатоповерхівки, його затримали. Постраждалих немає, триває розслідування.",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036241/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T20:44:00+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/835445/5f0165055c6d1c1827e14cc286121c93.jpeg"
+  },
+  {
+    "id": "d27015854b68ba45",
+    "title": "Президент Фінляндії розповів, коли може бути відкритий кордон з РФ",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036240/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T20:31:00+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/a/8/a8c02e0-ap25176267185848.jpg"
+  },
+  {
+    "id": "eca4da5871ac3856",
+    "title": "Нацкомісія у справах ЮНЕСКО: РФ має відповісти за культурний геноцид",
+    "summary": "Нацкомісія ЮНЕСКО назвала масований удар РФ по Києву культурним геноцидом і вимагає притягнення агресора до відповідальності.",
+    "url": "https://www.pravda.com.ua/news/2026/05/24/8036239/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T20:04:00+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/835422/c4d4bdeeb1bb101ab405b38e6b48e274.jpeg"
+  },
+  {
     "id": "ce0e3cabcbe83d15",
     "title": "Генштаб ЗСУ: Уже 173 бої зафіксували на фронті",
     "summary": "На Покровському напрямку ворог здійснив 32 атаки.",
@@ -22,6 +58,18 @@
     "published": "2026-05-24T19:39:00+00:00",
     "fetched": "2026-05-24T19:46:53+00:00",
     "image": "https://i.lb.ua/news/100/49/6a13541844e45.jpg"
+  },
+  {
+    "id": "e901665d0a2b936f",
+    "title": "The political polarization of health outcomes in the USA",
+    "summary": "Article URL: https://www.nature.com/articles/s41562-026-02474-9 Comments URL: https://news.ycombinator.com/item?id=48260331 Points: 29 # Comments: 8",
+    "url": "https://www.nature.com/articles/s41562-026-02474-9",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T19:36:57+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02474-9/MediaObjects/41562_2026_2474_Fig1_HTML.png"
   },
   {
     "id": "07b43c34ac527f78",
@@ -72,6 +120,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/835389/71f67958d5c3b276ab43d82b31fbbc59.jpeg"
   },
   {
+    "id": "6e266ffaf68c61cf",
+    "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+    "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices Comments URL: https://news.ycombinator.com/item?id=48260140 Points: 8 # Comments: 0",
+    "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T19:12:46+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://www.cbp.gov/sites/default/files/cbp-seal-vertical-blue_twitter-card_600.jpg"
+  },
+  {
     "id": "4ed64be7c54c5783",
     "title": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
     "summary": "World Health Organization says outbreak poses ‘very high’ risk for Congo, but risk of disease spreading globally remains low Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country. The Congolese ministry of…",
@@ -96,6 +156,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/835383/884d530df4753c800b5334c090b05899.jpeg"
   },
   {
+    "id": "26a10b42ef4e0dd2",
+    "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+    "summary": "Article URL: https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/ Comments URL: https://news.ycombinator.com/item?id=48259990 Points: 52 # Comments: 16",
+    "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T18:56:09+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://scienceaim.com/wp-content/uploads/2026/05/Screenshot_3.png"
+  },
+  {
     "id": "2b72a1c76ff2c30d",
     "title": "МВС: Через російський удар втрачено майже половину експозиції музею «Чорнобиль»",
     "summary": "Втрати є безповоротними.",
@@ -108,6 +180,30 @@
     "image": "https://i.lb.ua/news/050/30/6a13477fb04ec.jpg"
   },
   {
+    "id": "5a5a8052e25bb14f",
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/ Comments URL: https://news.ycombinator.com/item?id=48259861 Points: 6 # Comments: 0",
+    "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T18:39:10+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": null
+  },
+  {
+    "id": "f92460688c94c77a",
+    "title": "Understanding WebAuthn credential protection policy",
+    "summary": "Article URL: https://pilcrowonpaper.com/blog/16 Comments URL: https://news.ycombinator.com/item?id=48259849 Points: 3 # Comments: 0",
+    "url": "https://pilcrowonpaper.com/blog/16",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T18:38:12+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://pilcrowonpaper.com/pilcrow.jpeg"
+  },
+  {
     "id": "2564782aa296754e",
     "title": "МВС: 40% експонатів із експозиції музею \"Чорнобиль\" втрачені після атаки РФ",
     "summary": "Внаслідок російської атаки на Київ у ніч на 24 травня близько 40% музейних предметів з експозиції Національного музею \"Чорнобиль\" безповоротно втрачені.",
@@ -118,6 +214,18 @@
     "published": "2026-05-24T18:36:00+00:00",
     "fetched": "2026-05-24T19:46:53+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/835370/a1d1615c9c4ddb13f08bda3a9cbf10ef.jpeg"
+  },
+  {
+    "id": "fedb5d1fdac52224",
+    "title": "Migrating from Go to Rust",
+    "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/ Comments URL: https://news.ycombinator.com/item?id=48259808 Points: 22 # Comments: 0",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T18:31:42+00:00",
+    "fetched": "2026-05-24T21:02:29+00:00",
+    "image": "https://corrode.dev/learn/migration-guides/go-to-rust/social.png"
   },
   {
     "id": "985cca7f0228e397",
@@ -43774,101 +43882,5 @@
     "published": "2026-05-10T21:10:00+00:00",
     "fetched": "2026-05-10T21:24:51+00:00",
     "image": "https://i.lb.ua/news/061/24/6a00f57892490.jpg"
-  },
-  {
-    "id": "b70bf2dafb3ba465",
-    "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
-    "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
-    "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-10T21:01:17+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4113/live/24549b40-4afa-11f1-b584-9d74bfad42dc.jpg"
-  },
-  {
-    "id": "495ed705c9e502cb",
-    "title": "Росіяни атакували Запорізьку область, є постраждала",
-    "summary": "Внаслідок російської атаки на Запорізький район у неділю постраждала 42-річна жінка.",
-    "url": "https://www.pravda.com.ua/news/2026/05/10/8034113/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T20:53:00+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/5/826296/e538d0e610cd578d52311895d4a41931.jpeg"
-  },
-  {
-    "id": "31e47f6abc1eb624",
-    "title": "Body of missing US soldier recovered off coast of Morocco",
-    "summary": "1st Lt Kendrick Lamont Key Jr was participating in largest military exercise among US, Nato allies and African nations A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US Army said on Sunday.…",
-    "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-10T20:44:36+00:00",
-    "fetched": "2026-05-10T21:24:52+00:00",
-    "image": "https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=140&quality=85&auto=format&fit=max&s=e5ad2a13eb5364bf318085cdac0f41c3"
-  },
-  {
-    "id": "6d8bc4209b75dd07",
-    "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
-    "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling…",
-    "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T20:42:08+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/bastl_kalimba_preview_04cr.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "17a1f2f05ad0294b",
-    "title": "На півночі Німеччини знайшли велику братську могилу цивільних часів Другої світової війни",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/10/8034109/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T20:34:00+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/2/72b395e---------------2026-05-10-182111.jpg"
-  },
-  {
-    "id": "ef3f7e3611dbca05",
-    "title": "Координаційний штаб: Переговори щодо обміну тривають, списки складено за тривалістю полону",
-    "summary": "Переговори щодо обміну полоненими між Україною та Росією тривають. Україна передала список 1000 осіб, сформований за строком полону.",
-    "url": "https://www.pravda.com.ua/news/2026/05/10/8034106/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T20:05:00+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/b/826274/db033f3d155492d7268421c1592f871c.jpeg"
-  },
-  {
-    "id": "12047a8fd08096b2",
-    "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
-    "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
-    "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-10T19:56:45+00:00",
-    "fetched": "2026-05-10T21:24:51+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a2/live/3d1d1dc0-4ca1-11f1-a52e-37ef6facf99b.jpg"
-  },
-  {
-    "id": "e767d9210c63d283",
-    "title": "SpaceX wants to launch a million satellites",
-    "summary": "Article URL: https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772 Comments URL: https://news.ycombinator.com/item?id=48087261 Points: 21 # Comments: 27",
-    "url": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T19:56:05+00:00",
-    "fetched": "2026-05-10T21:24:52+00:00",
-    "image": null
   }
 ]
