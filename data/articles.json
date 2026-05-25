@@ -1,5 +1,29 @@
 [
   {
+    "id": "4c278b816798977a",
+    "title": "Росія заглушила GPS-сигнал літака з міністром оборони Британії поблизу свого кордону – BBC",
+    "summary": "РФ заглушила GPS-сигнал літака Королівських військово-повітряних сил Великої Британії, на борту якого перебував британський міністр оборони Джон Гілі, під час польоту поблизу російського кордону.",
+    "url": "https://www.pravda.com.ua/news/2026/05/25/8036251/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-24T23:11:00+00:00",
+    "fetched": "2026-05-25T00:04:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/835459/a198701636274a9d5cdc1110d1621c7e.jpeg"
+  },
+  {
+    "id": "6da97c94d73a79fb",
+    "title": "San Francisco immigration court shuts down after purge of judges",
+    "summary": "Article URL: https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a Comments URL: https://news.ycombinator.com/item?id=48261543 Points: 14 # Comments: 0",
+    "url": "https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-24T22:12:48+00:00",
+    "fetched": "2026-05-25T00:04:57+00:00",
+    "image": "https://dims.apnews.com/dims4/default/2805edc/2147483647/strip/true/crop/6170x4111+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F93%2F82e7d89a20be97766ce654508bd8%2F0714281e2d3542679edc21470ec6f459"
+  },
+  {
     "id": "f30afb4b0763d367",
     "title": "Британія заблокувала план НАТО щодо надання Україні додаткової військової допомоги – ЗМІ",
     "summary": "Велика Британія, Франція, Іспанія, Італія та Канада заблокували ініціативу генерального секретаря НАТО Марка Рютте щодо виділення членами Альянсу 0,25% свого ВВП на військову допомогу Україні.",
@@ -43774,89 +43798,5 @@
     "published": "2026-05-11T00:10:34+00:00",
     "fetched": "2026-05-11T01:26:14+00:00",
     "image": null
-  },
-  {
-    "id": "8058ada5ffc8fa2d",
-    "title": "AI Productivity Fails",
-    "summary": "Article URL: https://blog.sshh.io/p/how-ai-productivity-fails Comments URL: https://news.ycombinator.com/item?id=48089319 Points: 8 # Comments: 0",
-    "url": "https://blog.sshh.io/p/how-ai-productivity-fails",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T23:43:07+00:00",
-    "fetched": "2026-05-11T01:26:14+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!F1Q9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd8c1d4-c603-4b83-8ac1-bf4a3188d7cf_1536x1024.png"
-  },
-  {
-    "id": "a59c3f4300c8e71b",
-    "title": "Трамп зобов’язав федеральні агентства закуповувати тільки американську продукцію",
-    "summary": "Американський президент Дональд Трамп заявив, що відтепер федеральні агентства його країни зобов'язані закуповувати тільки американську продукцію.",
-    "url": "https://www.pravda.com.ua/news/2026/05/11/8034118/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T23:42:00+00:00",
-    "fetched": "2026-05-11T01:26:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/d/826308/cdd90bc73669645231611c6bc11bb531.jpeg"
-  },
-  {
-    "id": "25644e8aa9c54a80",
-    "title": "You Need AI That Reduces Maintenance Costs",
-    "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 10 # Comments: 1",
-    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T23:39:55+00:00",
-    "fetched": "2026-05-11T01:26:14+00:00",
-    "image": null
-  },
-  {
-    "id": "66c86a3910be9599",
-    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-    "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 56 # Comments: 28",
-    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T23:36:48+00:00",
-    "fetched": "2026-05-11T01:26:14+00:00",
-    "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg"
-  },
-  {
-    "id": "7bce86c9abf7ebbf",
-    "title": "На Херсонщині померла жінка, яку атакував російський БпЛа",
-    "summary": "На Херсонщині померла жінка від отриманих травм через атаку російського безпілотника.",
-    "url": "https://www.pravda.com.ua/news/2026/05/11/8034117/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-10T23:14:00+00:00",
-    "fetched": "2026-05-10T23:28:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/826307/e22ed08e816ac952fde80933a1b8cdf7.jpeg"
-  },
-  {
-    "id": "1c06e5ff522ceebb",
-    "title": "Running local models on an M4 with 24GB memory",
-    "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4 Comments URL: https://news.ycombinator.com/item?id=48089091 Points: 65 # Comments: 36",
-    "url": "https://jola.dev/posts/running-local-models-on-m4",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T23:09:10+00:00",
-    "fetched": "2026-05-11T01:26:14+00:00",
-    "image": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d"
-  },
-  {
-    "id": "9e9e0ad31a50c86c",
-    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/ Comments URL: https://news.ycombinator.com/item?id=48089049 Points: 40 # Comments: 6",
-    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-10T23:02:31+00:00",
-    "fetched": "2026-05-11T05:39:08+00:00",
-    "image": "https://dunkels.com/adam/assets/images/llm-ping/ping.png"
   }
 ]
