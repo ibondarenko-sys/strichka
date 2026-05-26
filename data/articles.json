@@ -1,5 +1,53 @@
 [
   {
+    "id": "ad4c925ccd0d4009",
+    "title": "Трамп вимагає передати уран з Ірану до США або знищити на місці",
+    "summary": "Дональд Трамп закликав знищити або передати США іранський уран, контроль процесу має здійснювати МАГАТЕ.",
+    "url": "https://www.pravda.com.ua/news/2026/05/26/8036396/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-25T23:55:00+00:00",
+    "fetched": "2026-05-26T00:10:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/836050/ee2e9f827f21c7419a03b7ca792a7c61.jpeg"
+  },
+  {
+    "id": "38df9915bc659f52",
+    "title": "Nobody cracks open a programming book anymore",
+    "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/ Comments URL: https://news.ycombinator.com/item?id=48273030 Points: 28 # Comments: 14",
+    "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-25T23:21:57+00:00",
+    "fetched": "2026-05-26T00:10:31+00:00",
+    "image": null
+  },
+  {
+    "id": "5e571e6426351a32",
+    "title": "Перспектива закінчення війни та економіка: про що Зеленський говорив під час зустрічі зі \"слугами\"",
+    "summary": "Зеленський з депутатами обговорив війну, економіку та програми допомоги. Зустрічі планують проводити регулярно.",
+    "url": "https://www.pravda.com.ua/news/2026/05/26/8036395/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-25T23:06:00+00:00",
+    "fetched": "2026-05-26T00:10:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/6/836049/f659eb0748232f1483aa558d5a571dae.jpeg"
+  },
+  {
+    "id": "140d9a4b815a139f",
+    "title": "Canada losing top talent as workers head to the U.S.",
+    "summary": "Article URL: https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/ Comments URL: https://news.ycombinator.com/item?id=48272749 Points: 38 # Comments: 30",
+    "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-25T22:42:41+00:00",
+    "fetched": "2026-05-26T00:10:31+00:00",
+    "image": "https://www.bnnbloomberg.ca/resizer/v2/2YRT2OK5SNFTPPW2YCYXRBZMNA.JPG?smart=true&auth=ac3db89a9cc99fce18296992a6b4e82630f7dcf96b753f5e1fa1749f501b0d19&width=1200&height=630"
+  },
+  {
     "id": "d6eaa11e14ebd5b1",
     "title": "МЗС України зробило заяву про нові погрози Росії щодо ударів по Києву",
     "summary": "МЗС заявило, що загальний рівень безпекових загроз з боку Росії для Києва та України залишається таким же, як і у попередні роки та місяці",
@@ -34,6 +82,18 @@
     "published": "2026-05-25T21:57:00+00:00",
     "fetched": "2026-05-25T22:35:25+00:00",
     "image": "https://i.lb.ua/news/080/38/6a14c59b6c765.jpg"
+  },
+  {
+    "id": "79a300898cb71cde",
+    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+    "summary": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It's open source…",
+    "url": "https://github.com/tantara/openbrief",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-25T21:50:03+00:00",
+    "fetched": "2026-05-26T00:10:31+00:00",
+    "image": "https://opengraph.githubassets.com/0729d57caab8cff3f73475bac9ed81047962fd1b4a4f062164129427d101c00a/tantara/openbrief"
   },
   {
     "id": "6b4a01a22f8228e7",
@@ -43234,125 +43294,5 @@
     "published": "2026-05-12T00:25:00+00:00",
     "fetched": "2026-05-12T04:24:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/f/826762/1fb1c9586889b98e57ba04f9d50cc46b.jpeg"
-  },
-  {
-    "id": "9c29db4e06a322e2",
-    "title": "US in closely-guarded talks to open new bases in Greenland",
-    "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
-    "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-11T23:56:11+00:00",
-    "fetched": "2026-05-12T04:24:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d5/live/8f903210-4b1e-11f1-bd52-e755d604ece4.jpg"
-  },
-  {
-    "id": "2341ff3f0e05263d",
-    "title": "Сибіга: Росія пропонувала включити українських дітей до обмінних списків – \"це неприйнятно\"",
-    "summary": "Міністр закордонних справ Андрій Сибіга заявив, що Росія пропонувала включити депортованих українських дітей до обмінних списків, однак для України такий крок є категорично неприйнятним.",
-    "url": "https://www.pravda.com.ua/news/2026/05/12/8034260/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-11T23:53:00+00:00",
-    "fetched": "2026-05-12T00:07:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/7/826757/a70b8caad6890c78654318e78933b9f0.jpeg"
-  },
-  {
-    "id": "7224de2c82ef1393",
-    "title": "GM just laid off IT workers to hire those with stronger AI skills",
-    "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 20 # Comments: 11",
-    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-11T23:33:04+00:00",
-    "fetched": "2026-05-12T00:07:17+00:00",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
-  },
-  {
-    "id": "69af2f938174e55e",
-    "title": "Іспанія, Ірландія і Словенія відмовилися транслювати Євробачення-2026",
-    "summary": "Бойкот конкурсу не обмежився відмовою низки країн від участі.",
-    "url": "https://lb.ua/culture/2026/05/12/737657_ispaniya_irlandiya_sloveniya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-11T23:28:00+00:00",
-    "fetched": "2026-05-12T00:07:16+00:00",
-    "image": "https://i.lb.ua/news/075/21/6a02661f2a5cb.jpg"
-  },
-  {
-    "id": "92ac5c4eab2b0816",
-    "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-    "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-    "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-11T23:20:53+00:00",
-    "fetched": "2026-05-12T04:24:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg"
-  },
-  {
-    "id": "8bda1fe6193f87df",
-    "title": "Мендель заявила про готовність Зеленського віддати Донбас у 2022 році: в ОП відповіли, що вона \"давно не в собі\"",
-    "summary": "Колишня прессекретарка президента Юлія Мендель заявила, що Володимир Зеленський у 2022 році нібито був готовий передати Донбас Росії задля припинення війни. В Офісі президента спростували цю інформацію, вказавши на повну непричетність ексречниці до переговорів і висловивши…",
-    "url": "https://www.pravda.com.ua/news/2026/05/12/8034259/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-11T23:10:00+00:00",
-    "fetched": "2026-05-12T00:07:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/826756/7b7cb04aa704e283f0f6d4e1f296b913.jpeg"
-  },
-  {
-    "id": "49150f75a03713eb",
-    "title": "The big questions hanging over the Trump-Xi meeting in China",
-    "summary": "Taiwan, tariffs and the strait of Hormuz are on the meeting’s agenda for Beijing – but will the US president be forced to ask for help in ending his war with Iran? On 20 February, a White House official confirmed that US president Donald Trump would be travelling to Beijing the…",
-    "url": "https://www.theguardian.com/world/2026/may/12/the-big-questions-hanging-over-the-trump-xi-meeting-in-china",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-11T23:05:07+00:00",
-    "fetched": "2026-05-12T00:07:16+00:00",
-    "image": "https://i.guim.co.uk/img/media/45feaddbf50d54f174da8dcf69469fc26011d134/0_0_1900_1520/master/1900.jpg?width=140&quality=85&auto=format&fit=max&s=aef27b736fde001f08a6036c0db39630"
-  },
-  {
-    "id": "2801e9858940db63",
-    "title": "OpenAI just released its answer to Claude Mythos",
-    "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-11T23:05:01+00:00",
-    "fetched": "2026-05-12T00:07:16+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "a2f233843f4da0ce",
-    "title": "Трамп порівняв перемир'я на Близькому Сході з пацієнтом у передсмертному стані",
-    "summary": "Іранський проєкт миру президент США навіть не дочитав до кінця.",
-    "url": "https://lb.ua/world/2026/05/12/737655_tramp_porivnyav_peremirya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-11T22:50:00+00:00",
-    "fetched": "2026-05-11T22:59:27+00:00",
-    "image": "https://i.lb.ua/news/067/09/6a025d296b886.jpg"
-  },
-  {
-    "id": "83295219928a2ec4",
-    "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-    "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even…",
-    "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-11T22:40:20+00:00",
-    "fetched": "2026-05-11T22:59:27+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
