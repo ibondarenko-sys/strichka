@@ -1,5 +1,29 @@
 [
   {
+    "id": "e0c98d84cfa1e31c",
+    "title": "Небензя в ООН назвав умови для угоди з Україною",
+    "summary": "Росія вимагає розв'язати питання членства України в НАТО перед укладанням миру — заява Небензі в ООН.",
+    "url": "https://www.pravda.com.ua/news/2026/05/27/8036562/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-26T23:28:00+00:00",
+    "fetched": "2026-05-27T00:12:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/836928/019d34ef0c715b4e3e4affb37d3f6fba.jpeg"
+  },
+  {
+    "id": "2536ad648035d5df",
+    "title": "Colorado and California Exempt Open Source from Age Attestation",
+    "summary": "Article URL: https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation Comments URL: https://news.ycombinator.com/item?id=48287007 Points: 6 # Comments: 0",
+    "url": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-26T22:42:59+00:00",
+    "fetched": "2026-05-27T00:12:37+00:00",
+    "image": "https://images.prismic.io/blog-system76/ahYEhLK9tuLqEKg5_carl-blog.jpg?auto=format,compress&rect=640,0,2560,1280&w=1200&h=600"
+  },
+  {
     "id": "990c2f5aa0f76510",
     "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
     "summary": "Parsing a papal proclamation.",
@@ -42178,113 +42202,5 @@
     "published": "2026-05-13T00:15:00+00:00",
     "fetched": "2026-05-13T01:23:58+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/827385/0f408abda8b572c85023b38da4aa160d.jpeg"
-  },
-  {
-    "id": "074d4d613e0297c5",
-    "title": "My graduation cap runs Rust",
-    "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/ Comments URL: https://news.ycombinator.com/item?id=48116207 Points: 23 # Comments: 4",
-    "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-13T00:04:21+00:00",
-    "fetched": "2026-05-13T01:23:59+00:00",
-    "image": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/opengraph.png"
-  },
-  {
-    "id": "292d07eb6befe8fc",
-    "title": "Thief jailed after stealing unreleased Beyoncé music from car",
-    "summary": "The man smashed into a car and stole luggage containing hard drives with the singer's tracks.",
-    "url": "https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-13T00:01:04+00:00",
-    "fetched": "2026-05-13T05:27:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df5d/live/26be9cb0-4e37-11f1-8aa2-99cac85d32c6.jpg"
-  },
-  {
-    "id": "bff1ad35c88a433c",
-    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/ Comments URL: https://news.ycombinator.com/item?id=48116064 Points: 51 # Comments: 1",
-    "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-12T23:46:28+00:00",
-    "fetched": "2026-05-13T05:27:23+00:00",
-    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/42x9UUV0RORhrj931PDGj6/cc8f8122d0bc8aa482d40fa3579e9b5c/When_-idle-_isn-t_idle-_how_a_Linux_kernel_optimization_became_a_QUIC_bug-OG.png"
-  },
-  {
-    "id": "c52d3a15cfc73ea5",
-    "title": "Знайдений у Греції морський дрон не був українським",
-    "summary": "Виробник безпілотників MAGURA заперечив, що це його модель.",
-    "url": "https://lb.ua/society/2026/05/13/737869_znaydeniy_gretsiyi_morskiy_dron.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-12T23:40:00+00:00",
-    "fetched": "2026-05-13T01:23:59+00:00",
-    "image": "https://i.lb.ua/news/123/37/6a03bf18850ea.jpg"
-  },
-  {
-    "id": "4971ac718ba587f0",
-    "title": "Ізраїль побоюється, що Трамп укладе \"погану угоду\" з Іраном, залишивши цілі війни невиконаними – CNN",
-    "summary": "В Ізраїлі зростає занепокоєння через те, що президент США Дональд Трамп може може укласти угоду з Іраном ще до того, як будуть вирішені ключові питання, які від самого початку спонукали дві країни до війни.",
-    "url": "https://www.pravda.com.ua/news/2026/05/13/8034422/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-12T23:38:00+00:00",
-    "fetched": "2026-05-13T01:23:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/827384/76450a539609a255277767c84414a5c6.jpeg"
-  },
-  {
-    "id": "001b12047d3c0d1a",
-    "title": "Sam Altman was winning on the stand, but it might not be enough",
-    "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-12T23:23:14+00:00",
-    "fetched": "2026-05-13T01:23:59+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "bd32029bf579ea1d",
-    "title": "Kraftwerk's radical 1976 track",
-    "summary": "Article URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem Comments URL: https://news.ycombinator.com/item?id=48115823 Points: 51 # Comments: 17",
-    "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-12T23:13:01+00:00",
-    "fetched": "2026-05-13T01:23:59+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0nklthc.jpg"
-  },
-  {
-    "id": "56d96316623f41fd",
-    "title": "Tell NYT, Atlantic, USA Today to Keep Wayback Machine",
-    "summary": "Article URL: https://www.savethearchive.com/newsleaders/ Comments URL: https://news.ycombinator.com/item?id=48115807 Points: 47 # Comments: 8",
-    "url": "https://www.savethearchive.com/newsleaders/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-12T23:11:40+00:00",
-    "fetched": "2026-05-13T01:23:59+00:00",
-    "image": "https://www.fightforthefuture.org/og-images/16360_39fbb1b184406c6578bb1eaece7d3b03.jpg"
-  },
-  {
-    "id": "812f101495ed2227",
-    "title": "Розвідка США спіймала Трампа на брехні про ракетний потенціал Ірану",
-    "summary": "Поки президент розповідає, що у Тегерана вже немає армії, значна частина озброєння досі цілком боєздатна.",
-    "url": "https://lb.ua/world/2026/05/13/737867_rozvidka_ssha_spiymala_trampa.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-12T22:51:00+00:00",
-    "fetched": "2026-05-12T23:06:27+00:00",
-    "image": "https://i.lb.ua/news/002/57/6a03af3e399d2.jpg"
   }
 ]
