@@ -1,5 +1,41 @@
 [
   {
+    "id": "40afa89e2a89e373",
+    "title": "Під час перебування конгресменів США в Києві Зеленський обговорив з ними потреби ППО",
+    "summary": "Двоє конгресменів США прибули до Києва, Зеленський провів з ними зустріч.",
+    "url": "https://www.pravda.com.ua/news/2026/05/28/8036707/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-27T23:54:00+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/837633/73b0548016da38684174ed7e3e1179b8.jpeg"
+  },
+  {
+    "id": "3dfe78d6123a1de3",
+    "title": "Сибіга: Саме зараз Європа повинна діяти рішуче для наближення миру в Україні",
+    "summary": "Глава МЗС закликав Європу діяти рішуче на тлі зміни динаміки війни.",
+    "url": "https://www.pravda.com.ua/news/2026/05/28/8036706/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-27T23:02:00+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/837632/f75b7ae4bc47cd7fe500bc51402a8d79.jpeg"
+  },
+  {
+    "id": "b4a6dae48a1d3c1d",
+    "title": "Pelica (YC P25) Is Hiring",
+    "summary": "Article URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?id=48301851 Points: 0 # Comments: 0",
+    "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-27T22:52:15+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/b0666f51f4e379b062f0995d280600bedbf5dfb3.png?1779755218"
+  },
+  {
     "id": "0389a00a72ff7ae6",
     "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
     "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the…",
@@ -10,6 +46,18 @@
     "published": "2026-05-27T22:30:02+00:00",
     "fetched": "2026-05-27T22:57:31+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS527_PREDICTION_MARKETS_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "10ae9fc3d880f311",
+    "title": "Internet traffic in Iran increasing",
+    "summary": "Article URL: https://radar.cloudflare.com/traffic/ir?dateRange=28d Comments URL: https://news.ycombinator.com/item?id=48301603 Points: 36 # Comments: 17",
+    "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-27T22:24:25+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": null
   },
   {
     "id": "9e346fb1791ef5e9",
@@ -84,6 +132,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0112.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "62ad0131d7c81f36",
+    "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+    "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+    "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-27T21:06:19+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f04/live/8d909940-5a0b-11f1-8958-3b1169652509.jpg"
+  },
+  {
     "id": "c76a423c34ddc491",
     "title": "Від початку травня з прифронтових територій Нікопольщини евакуювали 40 людей",
     "summary": "Це, зокрема, літні, маломобільні люди та родини з дітьми.",
@@ -144,6 +204,18 @@
     "image": "https://z3ugma.github.io/images/frozen-mac-610x371.jpg"
   },
   {
+    "id": "fd2a0f61a1eadf2b",
+    "title": "Show HN: Open-Source AI Racing Harness",
+    "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation. For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling. If you’re competing, check out our simulation harness to tide you over, built to…",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-27T20:37:42+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": null
+  },
+  {
     "id": "076f316517b37f11",
     "title": "Верховна Рада в першому читанні підтримала законопроєкт про ВЛК для іноземців",
     "summary": "Очікується, що реалізація закону сприятиме більшому залученню іноземців до проходження військової служби в Україні.",
@@ -202,6 +274,18 @@
     "published": "2026-05-27T20:13:00+00:00",
     "fetched": "2026-05-27T21:03:47+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/837571/0fe194222ab77a56fd39e9137ef59d4c.jpeg"
+  },
+  {
+    "id": "2cdd18d846f42c4d",
+    "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+    "summary": "Kenneth Iwamasa, who pleaded guilty last year to one count of conspiracy to distribute ketamine causing death, said he \"will forever regret\" his actions.",
+    "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-27T20:09:33+00:00",
+    "fetched": "2026-05-28T00:07:38+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf2/live/36bdb680-4975-11f1-b9d6-9f6a897bd1ff.jpg"
   },
   {
     "id": "ead1925c07bf7675",
@@ -41746,41 +41830,5 @@
     "published": "2026-05-14T00:25:00+00:00",
     "fetched": "2026-05-14T01:27:01+00:00",
     "image": "https://i.lb.ua/news/010/47/6a0516727b076.jpg"
-  },
-  {
-    "id": "6d65a51fedc751b2",
-    "title": "У Білому домі заявили, що Трамп залишив Венсу листа на випадок свого вбивства",
-    "summary": "Дональд Трамп залишив Джей Ді Венсу лист на випадок, якщо з ним щось станеться.",
-    "url": "https://www.pravda.com.ua/news/2026/05/14/8034591/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-13T23:49:00+00:00",
-    "fetched": "2026-05-14T01:27:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/828046/65ff6e455368c4c7552327f12ce83a81.jpeg"
-  },
-  {
-    "id": "96d12b036aca5d4a",
-    "title": "Радник актора Меттью Перрі отримав два роки в'язниці за його вбивство",
-    "summary": "Він займався доставкою від дилера наркотику, який призвів до смерті зірки.",
-    "url": "https://lb.ua/world/2026/05/14/738126_radnik_aktora_mettyu_perri.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-13T23:37:00+00:00",
-    "fetched": "2026-05-14T01:27:01+00:00",
-    "image": "https://i.lb.ua/news/045/07/6a050babb1d23.jpg"
-  },
-  {
-    "id": "b2f6eefe1d65a6a5",
-    "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
-    "summary": "Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the army said on Wednesday, ending a…",
-    "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-13T23:01:13+00:00",
-    "fetched": "2026-05-14T01:27:01+00:00",
-    "image": "https://i.guim.co.uk/img/media/9e61ea211a9ecfdd0c3725a363e61ad4714738db/372_0_3699_2961/master/3699.jpg?width=140&quality=85&auto=format&fit=max&s=a762e96ab092dc424b3d93c720331e2a"
   }
 ]
