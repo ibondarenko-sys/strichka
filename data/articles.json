@@ -1,5 +1,65 @@
 [
   {
+    "id": "4279384057cd9641",
+    "title": "У Києві та низці областей оголошували тривогу через загрозу балістики",
+    "summary": "У Києві та низці регіонів України оголосили повітряну тривогу через загрозу застосування російськими військами балістичного озброєння.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037106/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-30T21:53:00+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/7/839204/c7c81e0db6a7ab942b22ba6691c632ed.jpeg"
+  },
+  {
+    "id": "fddd5cf141d8c0b4",
+    "title": "Republicans are trying to kill science in this country",
+    "summary": "Article URL: https://www.npr.org/2026/05/21/nx-s1-5828768/science-funding-cuts-nih-trump-administration Comments URL: https://news.ycombinator.com/item?id=48340944 Points: 13 # Comments: 0",
+    "url": "https://www.npr.org/2026/05/21/nx-s1-5828768/science-funding-cuts-nih-trump-administration",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T21:50:54+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fc5%2F7f3765224f8fa2b617291504c8a2%2Fdsc09403.jpg"
+  },
+  {
+    "id": "3e50281bf4c2eeae",
+    "title": "Локдаун траси до Криму, США кидають Європу, Ядерні погрози Путіна – Кляті питання",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8036821/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-30T21:48:00+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/837901/cf9a9966590547cae77efe00478fcdc2.jpeg?w=1200&q=85&stamp=1779978489"
+  },
+  {
+    "id": "7a98f75a0a8268f1",
+    "title": "США планують прискорити виведення своїх військ із Європи – ЗМІ",
+    "summary": "США планують прискорити виведення своїх військових із баз у Європі та представлять відповідні пропозиції союзникам по НАТО вже у червні.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037105/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-30T21:39:00+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/3/839203/e350c22fc40bb7d236ffe6ac63d061e7.jpeg"
+  },
+  {
+    "id": "4078cee3dbdff152",
+    "title": "Головне за суботу, 30 травня: понад 230 боєзіткнень, удари по Запоріжжю, загроза масованої атаки",
+    "summary": "Бойові дії на Донеччині, 232 бойових зіткнення, ворожі обстріли, ситуація навколо ЗАЕС, \"нарада чотирьох\". Яким запам’ятається 1557-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/30/741960_golovne_subotu_30_travnya_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-30T20:59:00+00:00",
+    "fetched": "2026-05-30T22:32:08+00:00",
+    "image": "https://i.lb.ua/news/055/42/6a1b52cd69ef5.jpg"
+  },
+  {
     "id": "f03418b7bbd5ad16",
     "title": "'It's like a decaying body': Australian farmers battle mouse plague",
     "summary": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
@@ -36,6 +96,42 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/5/839195/752a6b991850d1bdf537154dd4445a7d.jpeg"
   },
   {
+    "id": "85b982b1dd9dfd4b",
+    "title": "Design Engineering Magazine",
+    "summary": "Article URL: https://interfaces.dev/ Comments URL: https://news.ycombinator.com/item?id=48340448 Points: 11 # Comments: 1",
+    "url": "https://interfaces.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T20:46:54+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://ho1jr3x2dcwdu3t5.public.blob.vercel-storage.com/interfaces-og-image.png"
+  },
+  {
+    "id": "97dcf1ecb1955520",
+    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+    "summary": "Article URL: https://github.com/wolfSSL/wolfCOSE Comments URL: https://news.ycombinator.com/item?id=48340422 Points: 18 # Comments: 0",
+    "url": "https://github.com/wolfSSL/wolfCOSE",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T20:42:28+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://opengraph.githubassets.com/50102ebd5059bad0411296b3b007248a04101f1a4e87f1d55f3616ff225f92ba/wolfSSL/wolfCOSE"
+  },
+  {
+    "id": "8688f0bb189b093a",
+    "title": "Domain expertise has always been the real moat",
+    "summary": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ Comments URL: https://news.ycombinator.com/item?id=48340411 Points: 93 # Comments: 60",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T20:40:57+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": null
+  },
+  {
     "id": "d35806caeb257828",
     "title": "Ecuador accused of meddling in Colombian election with tariff vow",
     "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
@@ -58,6 +154,18 @@
     "published": "2026-05-30T20:40:00+00:00",
     "fetched": "2026-05-30T21:05:01+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/e/d/ed0b091-2c-d6npg.jpeg"
+  },
+  {
+    "id": "005662ea3799df89",
+    "title": "Dusklight – GC Twilight Princess Decompiled",
+    "summary": "Article URL: https://twilitrealm.dev/ Comments URL: https://news.ycombinator.com/item?id=48340262 Points: 31 # Comments: 3",
+    "url": "https://twilitrealm.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T20:24:26+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://twilitrealm.dev/preview.jpg"
   },
   {
     "id": "d95c631e6ab2bb8d",
@@ -622,6 +730,18 @@
     "published": "2026-05-30T16:28:58+00:00",
     "fetched": "2026-05-30T18:04:08+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/downdetectorlogo-2.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811"
+  },
+  {
+    "id": "04f54f22614046a1",
+    "title": "Accenture to acquire Ookla",
+    "summary": "https://www.theverge.com/tech/889234/downdetector-ookla-spee... , https://archive.ph/FR8ND https://arstechnica.com/information-technology/2026/03/downd... Comments URL: https://news.ycombinator.com/item?id=48337987 Points: 188 # Comments: 93",
+    "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T16:28:58+00:00",
+    "fetched": "2026-05-30T22:32:09+00:00",
+    "image": "https://newsroom.accenture.com/news/2026/media_1925121366947559d685b14a543deb0b315aea7cb.png?width=1200&format=pjpg&optimize=medium"
   },
   {
     "id": "0d6fb2c97136359e",
@@ -40210,89 +40330,5 @@
     "published": "2026-05-16T22:45:16+00:00",
     "fetched": "2026-05-17T01:26:58+00:00",
     "image": null
-  },
-  {
-    "id": "2110d86c802a96fb",
-    "title": "MCP Hello Page",
-    "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page Comments URL: https://news.ycombinator.com/item?id=48164294 Points: 23 # Comments: 10",
-    "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T22:25:33+00:00",
-    "fetched": "2026-05-16T23:28:35+00:00",
-    "image": null
-  },
-  {
-    "id": "ffda8588c6a71156",
-    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48164287 Points: 37 # Comments: 3",
-    "url": "https://crates.io/crates/zerostack/1.0.0",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T22:23:50+00:00",
-    "fetched": "2026-05-16T23:28:35+00:00",
-    "image": "https://static.crates.io/og-images/zerostack.png"
-  },
-  {
-    "id": "d2520a3b6f672273",
-    "title": "Росіяни вдарили по Дніпру: жінка отримала поранення, спалахнули пожежі",
-    "summary": "У ніч на 17 травня росіяни атакували Дніпро дронами: поранено 70-річну жінку, зайнялися будинки.",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035007/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-16T22:19:00+00:00",
-    "fetched": "2026-05-16T22:23:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/f/829728/2f979cdb7551840fc6768e0b4c77271b.jpeg"
-  },
-  {
-    "id": "7d9480134634a02f",
-    "title": "I tried to make Claude make me money on open-source bounties",
-    "summary": "Article URL: https://github.com/ztc00/algora-scout/blob/main/POST.md Comments URL: https://news.ycombinator.com/item?id=48164229 Points: 15 # Comments: 2",
-    "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T22:13:54+00:00",
-    "fetched": "2026-05-16T23:28:35+00:00",
-    "image": "https://opengraph.githubassets.com/d07ea0eac9bbbda77c11ac882adb3e6d54bb45110de0e9a47873ac8bf75be38a/ztc00/algora-scout"
-  },
-  {
-    "id": "47fe670c0b844126",
-    "title": "Ask HN: When did computers stop being fun?",
-    "summary": "Of course I don't mean they stopped being fun for everyone. My impression is that they've been on one side \"corporatized\", and on the other became a vehicle for mindless entertainment. I don't care for coding new stuff. Everything I may need either already exists or is too…",
-    "url": "https://news.ycombinator.com/item?id=48164173",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T22:02:51+00:00",
-    "fetched": "2026-05-16T23:28:35+00:00",
-    "image": null
-  },
-  {
-    "id": "a43493fb81923006",
-    "title": "Трамп пообіцяв \"важкі часи\" для Ірану, якщо той не укладе угоду",
-    "summary": "Трамп попередив Іран про серйозні наслідки без угоди.",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035006/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-16T21:40:00+00:00",
-    "fetched": "2026-05-16T22:23:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/f/829727/6f81537017a8e0c0a7b91df7a0c0ec6d.jpeg"
-  },
-  {
-    "id": "eec3d2cf83c5c345",
-    "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-    "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/ Comments URL: https://news.ycombinator.com/item?id=48163956 Points: 8 # Comments: 0",
-    "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T21:25:07+00:00",
-    "fetched": "2026-05-17T08:27:16+00:00",
-    "image": "https://pdr-assets.b-cdn.net/essays/twilight-of-the-velocipede/typsetting-thumb.jpg"
   }
 ]
