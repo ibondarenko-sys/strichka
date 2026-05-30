@@ -1,5 +1,65 @@
 [
   {
+    "id": "0db41b73d0f59f42",
+    "title": "У Будапешті погодили проведення ЛГБТ-прайду у червні – ЗМІ",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/30/8037013/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-29T23:47:00+00:00",
+    "fetched": "2026-05-30T00:12:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/838599/274ea07f4f3405cb7e48afe44d78a871.jpeg"
+  },
+  {
+    "id": "02506a2f010873b9",
+    "title": "В Естонії заявили, що обов'язковий призов для жінок – це лише питання часу",
+    "summary": "Голова Департаменту оборонних ресурсів Естонії (KRA) Ану Раннавескі заявила, що у майбутньому в країні не вистачатиме чоловіків для проходження строкової військової служби, тому запровадження обов'язкового призову для жінок є лише питанням часу.",
+    "url": "https://www.pravda.com.ua/news/2026/05/30/8037012/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-29T23:22:00+00:00",
+    "fetched": "2026-05-30T00:12:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/e/838598/bef00ff5ddcdb65367b729176120d1de.jpeg"
+  },
+  {
+    "id": "cb2eed698f61a1aa",
+    "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+    "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\"…",
+    "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-29T23:03:29+00:00",
+    "fetched": "2026-05-30T00:12:33+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "92c69e0ee91d5daa",
+    "title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
+    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-29T22:58:29+00:00",
+    "fetched": "2026-05-30T00:12:33+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg"
+  },
+  {
+    "id": "972e092bc7fc9ab8",
+    "title": "Японія приєдналась до програми PURL і виділила перші $14,6 млн для України",
+    "summary": "Японія приєдналася до ініціативи PURL (Переліку пріоритетних потреб України), спрямувавши понад 14,6 мільйона доларів на закупівлю нелетального військового обладнання для потреб Сил оборони України.",
+    "url": "https://www.pravda.com.ua/news/2026/05/30/8037011/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-29T22:47:00+00:00",
+    "fetched": "2026-05-30T00:12:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/a/838597/5a17ce9d20ab94dec433ca7f477d096d.jpeg"
+  },
+  {
     "id": "bbef0fe6f0983def",
     "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
     "summary": "Hey everyone, I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412 . It was called Privastead then and it's now renamed to Secluso. John Kaczman found my project…",
@@ -10,6 +70,18 @@
     "published": "2026-05-29T22:32:29+00:00",
     "fetched": "2026-05-29T22:51:52+00:00",
     "image": "https://repository-images.githubusercontent.com/894270616/599f4d48-21dd-4b24-954d-b1a21c690579"
+  },
+  {
+    "id": "798d29557cf68300",
+    "title": "Free full BGP feed. IPv4 and IPv6",
+    "summary": "Article URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/ Comments URL: https://news.ycombinator.com/item?id=48330088 Points: 15 # Comments: 7",
+    "url": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-29T22:21:58+00:00",
+    "fetched": "2026-05-30T00:12:36+00:00",
+    "image": null
   },
   {
     "id": "511c880cdd57fd64",
@@ -202,6 +274,18 @@
     "published": "2026-05-29T20:05:00+00:00",
     "fetched": "2026-05-29T21:10:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/838577/c393f94ed39406bf2545ef7c402e58e3.jpeg"
+  },
+  {
+    "id": "364f87fd35aac817",
+    "title": "The Last Technical Interview",
+    "summary": "Article URL: https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564 Comments URL: https://news.ycombinator.com/item?id=48328405 Points: 33 # Comments: 5",
+    "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-29T19:58:56+00:00",
+    "fetched": "2026-05-30T00:12:36+00:00",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*7PEsAhc1jgBhq1mJn2fU6g.png"
   },
   {
     "id": "0f15a2c8c039dba5",
@@ -40186,173 +40270,5 @@
     "published": "2026-05-16T00:15:53+00:00",
     "fetched": "2026-05-16T04:56:28+00:00",
     "image": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png"
-  },
-  {
-    "id": "13efc7a4e501e033",
-    "title": "Мерц зробив черговий випад у бік США, порадивши власним дітям туди не їхати",
-    "summary": "Канцлер Німеччини продовжує псувати відносини з Дональдом Трампом.",
-    "url": "https://lb.ua/world/2026/05/16/738646_merts_zrobiv_chergoviy_vipad_bik.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-15T23:48:00+00:00",
-    "fetched": "2026-05-16T01:19:22+00:00",
-    "image": "https://i.lb.ua/news/023/16/6a07af43686aa.jpg"
-  },
-  {
-    "id": "aea4d27510befefe",
-    "title": "The main thing about P2P meth is that there's so much of it (2022)",
-    "summary": "Article URL: https://dynomight.net/p2p-meth/ Comments URL: https://news.ycombinator.com/item?id=48155324 Points: 25 # Comments: 7",
-    "url": "https://dynomight.net/p2p-meth/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-15T23:37:32+00:00",
-    "fetched": "2026-05-16T01:19:22+00:00",
-    "image": "https://dynomight.net/img/p2p-meth/meth4.jpg"
-  },
-  {
-    "id": "7486dc7255d39e77",
-    "title": "Erlang/OTP 29.0",
-    "summary": "Article URL: https://www.erlang.org/news/188 Comments URL: https://news.ycombinator.com/item?id=48155297 Points: 60 # Comments: 2",
-    "url": "https://www.erlang.org/news/188",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-15T23:33:32+00:00",
-    "fetched": "2026-05-16T01:19:22+00:00",
-    "image": "https://www.erlang.org/assets/img/erlang-228x200.png"
-  },
-  {
-    "id": "2a9bce312e7e6b8f",
-    "title": "Російські окупанти перекрили Кримський міст",
-    "summary": "Російські окупанти заявили про перекриття Кримського мосту в ніч на 16 травня.",
-    "url": "https://www.pravda.com.ua/news/2026/05/16/8034919/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-15T23:32:00+00:00",
-    "fetched": "2026-05-16T01:19:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/829321/37d567ce6a89194f5717d90c736e0f0d.jpeg"
-  },
-  {
-    "id": "cbe0bdc00fd57f19",
-    "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
-    "summary": "Reble has emerged as one of hip-hop’s most distinctive new voices, channelling defiance into a sound rooted in India’s northeast.",
-    "url": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-15T23:31:52+00:00",
-    "fetched": "2026-05-16T20:11:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/82ea4900-501a-11f1-b93e-efb33c791b69.jpg"
-  },
-  {
-    "id": "d9dd953a81b1861a",
-    "title": "Trump’s lack of focus on human rights in China is big departure for US diplomacy",
-    "summary": "Change reflects both transformation of US in Trump era and China’s increasing confidence on world stage Asked before he departed for Beijing if he would raise with the Chinese president the case of Jimmy Lai , the pro-democracy activist jailed in Hong Kong, Donald Trump said:…",
-    "url": "https://www.theguardian.com/world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-15T23:30:53+00:00",
-    "fetched": "2026-05-16T01:19:22+00:00",
-    "image": "https://i.guim.co.uk/img/media/3536c46bf5604c5fa8d0d69efc3e07f3301c3a98/134_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=02856792827fe5332a5f1d6b92f67bcf"
-  },
-  {
-    "id": "0c97fe2bc37b6650",
-    "title": "SQL patterns I use to catch transaction fraud",
-    "summary": "Article URL: https://analytics.fixelsmith.com/posts/sql-fraud-patterns/ Comments URL: https://news.ycombinator.com/item?id=48155212 Points: 45 # Comments: 5",
-    "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-15T23:22:30+00:00",
-    "fetched": "2026-05-16T04:56:28+00:00",
-    "image": null
-  },
-  {
-    "id": "04fd248c229fe7d2",
-    "title": "У Нью-Йорку втретє не змогли засудити Гарві Вайнштейна",
-    "summary": "Присяжні не змогли домовитися про спільне рішення у справі про зґвалтування.",
-    "url": "https://lb.ua/world/2026/05/16/738644_nyu-yorku_vtretie_zmogli.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-15T23:20:00+00:00",
-    "fetched": "2026-05-15T23:29:17+00:00",
-    "image": "https://i.lb.ua/news/115/12/6a07ab288d71c.jpg"
-  },
-  {
-    "id": "9a39ba35b19544f2",
-    "title": "Spectre Programming Language",
-    "summary": "Article URL: https://spectre-docs.pages.dev Comments URL: https://news.ycombinator.com/item?id=48155159 Points: 16 # Comments: 0",
-    "url": "https://spectre-docs.pages.dev",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-15T23:14:51+00:00",
-    "fetched": "2026-05-16T01:19:22+00:00",
-    "image": null
-  },
-  {
-    "id": "524a41e5d5a87985",
-    "title": "Xbox is now XBOX",
-    "summary": "Xbox just allcapsmaxxed: meet XBOX. This isn't a joke, Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX? The results were in favor of XBOX, and the company…",
-    "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-15T23:10:13+00:00",
-    "fetched": "2026-05-15T23:29:17+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "9456bea8a56249b9",
-    "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
-    "summary": "The Fatah faction elects top decision makers, but ordinary Palestinians feel the party and its leader are out of touch.",
-    "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-15T23:05:19+00:00",
-    "fetched": "2026-05-16T09:12:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009d/live/f18316f0-5072-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "id": "af7374f7c54fca87",
-    "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
-    "summary": "Canada has twice delayed access to medically assisted dying for those with mental illness. Claire Brosseau says she cannot wait any longer and wants the courts to decide.",
-    "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-15T23:04:41+00:00",
-    "fetched": "2026-05-16T15:00:55+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b88/live/468c7550-5097-11f1-8eb4-7bbd1eefc905.jpg"
-  },
-  {
-    "id": "43ca8a28cfa602e4",
-    "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-    "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-    "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-15T23:04:33+00:00",
-    "fetched": "2026-05-16T09:12:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg"
-  },
-  {
-    "id": "a60ec5a91b782fa0",
-    "title": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
-    "summary": "Chaotic week in which enforcer of ‘war on drugs’ flees senate building leaves government looking ‘incompetent’ The wanted man outran security agents , rallied protesters and even serenaded the media with a military hymn. Then, after a sudden exchange of gunfire, the Philippines’…",
-    "url": "https://www.theguardian.com/world/2026/may/16/dela-rosa-week-chaos-philippines",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-15T23:01:53+00:00",
-    "fetched": "2026-05-15T23:29:17+00:00",
-    "image": "https://i.guim.co.uk/img/media/27cdc4abe33f967cc09c8399af2eee8c0f9afc0b/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ef76a131a04f42f0db51441be1ffdfe0"
   }
 ]
