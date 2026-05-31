@@ -1,5 +1,77 @@
 [
   {
+    "id": "6586b41d2bf87192",
+    "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+    "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026) Comments URL: https://news.ycombinator.com/item?id=48341578 Points: 14 # Comments: 1",
+    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T23:26:13+00:00",
+    "fetched": "2026-05-31T00:05:09+00:00",
+    "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png"
+  },
+  {
+    "id": "64b6752bde5d7d2f",
+    "title": "Соратники Трампа виміняли скасування санкцій США на енергетичний контракт на $1 млрд у Боснії – ЗМІ",
+    "summary": "Маловідома американська компанія AAFS Infrastructure and Energy, яка не має профільного досвіду, але тісно пов'язана з оточенням президента США Дональда Трампа, отримала контракти на суму понад 1 мільярд доларів на будівництво та експлуатацію газопроводу у Боснії і Герцеговині в…",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037107/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-30T23:22:00+00:00",
+    "fetched": "2026-05-31T00:05:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/839205/56ff50b32f02f51fc24b9c85263e564e.jpeg"
+  },
+  {
+    "id": "83a52d3d6fd5f83d",
+    "title": "How Putin became master of the image",
+    "summary": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
+    "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-30T23:17:26+00:00",
+    "fetched": "2026-05-31T00:05:07+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f9e/live/3997c490-5b68-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "id": "a15e9f6daf55ecaa",
+    "title": "Custom Errors Are Non-Negotiable in My Rust Applications",
+    "summary": "Article URL: https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications Comments URL: https://news.ycombinator.com/item?id=48341505 Points: 3 # Comments: 0",
+    "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T23:14:18+00:00",
+    "fetched": "2026-05-31T00:05:09+00:00",
+    "image": "https://tristonarmstrong.com/avatar.webp"
+  },
+  {
+    "id": "c6565a6beae2de43",
+    "title": "Cheese Paper: a text editor specifically designed for writing",
+    "summary": "Article URL: https://brie.gay/cheese-paper/ Comments URL: https://news.ycombinator.com/item?id=48341407 Points: 12 # Comments: 2",
+    "url": "https://brie.gay/cheese-paper/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T22:58:41+00:00",
+    "fetched": "2026-05-31T00:05:09+00:00",
+    "image": "https://brie.gay/images/cheese-paper/cheese-paper-icon.png"
+  },
+  {
+    "id": "566cb19c48370be0",
+    "title": "Shantell Sans",
+    "summary": "Article URL: https://shantellsans.com/process Comments URL: https://news.ycombinator.com/item?id=48341062 Points: 8 # Comments: 0",
+    "url": "https://shantellsans.com/process",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T22:06:38+00:00",
+    "fetched": "2026-05-31T00:05:09+00:00",
+    "image": "https://shantellsans.com/shantell_sans-opengraph.png"
+  },
+  {
     "id": "4279384057cd9641",
     "title": "У Києві та низці областей оголошували тривогу через загрозу балістики",
     "summary": "У Києві та низці регіонів України оголосили повітряну тривогу через загрозу застосування російськими військами балістичного озброєння.",
@@ -10,6 +82,18 @@
     "published": "2026-05-30T21:53:00+00:00",
     "fetched": "2026-05-30T22:32:09+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/7/839204/c7c81e0db6a7ab942b22ba6691c632ed.jpeg"
+  },
+  {
+    "id": "887e50897a678acd",
+    "title": "AWS Budgets Has an 8-Hour Delay. Your Bedrock Bill Doesn't",
+    "summary": "Article URL: https://blog.llmcap.io/aws-budgets-has-an-8-hour-delay-your-bedrock-bill-doesn-t Comments URL: https://news.ycombinator.com/item?id=48340958 Points: 6 # Comments: 0",
+    "url": "https://blog.llmcap.io/aws-budgets-has-an-8-hour-delay-your-bedrock-bill-doesn-t",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-30T21:52:30+00:00",
+    "fetched": "2026-05-31T00:05:09+00:00",
+    "image": null
   },
   {
     "id": "fddd5cf141d8c0b4",
@@ -40258,77 +40342,5 @@
     "published": "2026-05-17T01:01:00+00:00",
     "fetched": "2026-05-17T01:26:58+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/a/829732/1a6d9fdbfd20a3a77c5aa8bd8e02ffc0.jpeg"
-  },
-  {
-    "id": "166a8bdf3cc29b87",
-    "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-    "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/ Comments URL: https://news.ycombinator.com/item?id=48164891 Points: 25 # Comments: 0",
-    "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T23:59:47+00:00",
-    "fetched": "2026-05-17T01:26:58+00:00",
-    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/fisker-foa-hero-1400x700-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-  },
-  {
-    "id": "c9e28e66cb1fea70",
-    "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
-    "summary": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
-    "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-16T23:15:30+00:00",
-    "fetched": "2026-05-17T01:26:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ff/live/376628f0-506f-11f1-8c42-ed39d04e1525.jpg"
-  },
-  {
-    "id": "46eccb4416c19ebc",
-    "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-    "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
-    "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-16T23:10:19+00:00",
-    "fetched": "2026-05-17T01:26:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/538f/live/25317530-5075-11f1-89a3-d1f559421220.png"
-  },
-  {
-    "id": "16dbbd71aad8b4f6",
-    "title": "Foreign tourists are falling out of love with Goa - here's why",
-    "summary": "Foreign visitors to Goa have nearly halved from their pre-Covid peak even as domestic tourism is booming.",
-    "url": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-16T23:08:06+00:00",
-    "fetched": "2026-05-17T01:26:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec91/live/2dc4eaa0-5058-11f1-82d0-dba52fc3f32a.jpg"
-  },
-  {
-    "id": "e89134223d42a799",
-    "title": "Армія РФ атакувала АЗС у Запорізькому районі: поранена 25-річна жінка",
-    "summary": "Російські війська вдарили по автозаправці в Запорізькому районі — травмовано 25-річну жінку, виникла пожежа.",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035008/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-16T22:46:00+00:00",
-    "fetched": "2026-05-16T23:28:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/829729/82b162c24a3b550544e02fd441878b3b.jpeg"
-  },
-  {
-    "id": "19cd0a02589cc16e",
-    "title": "A nicer voltmeter clock",
-    "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock Comments URL: https://news.ycombinator.com/item?id=48164432 Points: 48 # Comments: 9",
-    "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-16T22:45:16+00:00",
-    "fetched": "2026-05-17T01:26:58+00:00",
-    "image": null
   }
 ]
