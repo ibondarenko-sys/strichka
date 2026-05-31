@@ -1,5 +1,65 @@
 [
   {
+    "id": "6500b419ffd5f891",
+    "title": "В Одесі дрон влучив у багатоповерхівку",
+    "summary": "За попередньою інформацією, ворожий БпЛА у неділю ввечері влучив у дев'ятиповерховий житловий будинок в Одесі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/01/8037207/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T21:01:00+00:00",
+    "fetched": "2026-05-31T21:33:12+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/839843/716533aea79b2526487fc54377d92ebc.jpeg"
+  },
+  {
+    "id": "8fe180a35e024560",
+    "title": "Головне за неділю, 31 травня: майже 230 боєзіткнень, знищення \"Нової пошти\" у Дніпрі, удари по логістиці ворога",
+    "summary": "Бойові дії на Донеччині, 229 бойових зіткнень, ворожі обстріли. Яким запам’ятається 1558-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/05/31/742112_golovne_nedilyu_31_travnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T20:59:00+00:00",
+    "fetched": "2026-05-31T21:33:12+00:00",
+    "image": "https://i.lb.ua/news/117/29/6a1ca1e803254.jpg"
+  },
+  {
+    "id": "8a5f119b7b885211",
+    "title": "У Чернігові 40 тисяч абонентів залишилися без світла через атаку РФ",
+    "summary": "У Чернігові в неділю ввечері через ворожу атаку на енергооб'єкт 40 тисяч абонентів залишилися без електропостачання.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037206/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T20:43:00+00:00",
+    "fetched": "2026-05-31T21:33:12+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/839833/cc65620ce7b714070b36ef6dc1dbc9ae.jpeg"
+  },
+  {
+    "id": "a4b9705e2ba4c05e",
+    "title": "How to watch Nvidia’s Computex keynote",
+    "summary": "NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one is the possibility of a…",
+    "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T20:20:35+00:00",
+    "fetched": "2026-05-31T21:33:12+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/wSp6AiNIrsY-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "828336361e9d0d39",
+    "title": "Росіяни атакували цивільну інфраструктуру на Одещині",
+    "summary": "Російські війська у неділю ввечері атакували безпілотниками цивільну інфраструктуру на Одещині.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037205/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T20:16:00+00:00",
+    "fetched": "2026-05-31T21:33:12+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/839821/99f2e9cbb2feb1ccb3411b8860b62390.jpeg"
+  },
+  {
     "id": "e2e1429745b2399d",
     "title": "Понад 60% естонців кажуть, що готові долучитись до оборони країни",
     "summary": "",
@@ -274,6 +334,18 @@
     "published": "2026-05-31T17:04:10+00:00",
     "fetched": "2026-05-31T18:45:44+00:00",
     "image": "https://deflock.org/og-banner.png"
+  },
+  {
+    "id": "c13e753add11c309",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+    "summary": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 57 # Comments: 80",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T17:02:23+00:00",
+    "fetched": "2026-05-31T21:33:12+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024"
   },
   {
     "id": "23b31831d83077c7",
@@ -40558,77 +40630,5 @@
     "published": "2026-05-17T21:38:00+00:00",
     "fetched": "2026-05-17T22:03:03+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/830318/af1c5a0f006d04a2ab3ac3f0514ab9cd.jpeg"
-  },
-  {
-    "id": "85b85be83081fd4b",
-    "title": "An AI Hate Wave Is Here",
-    "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 23 # Comments: 12",
-    "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T21:23:25+00:00",
-    "fetched": "2026-05-17T23:31:17+00:00",
-    "image": null
-  },
-  {
-    "id": "69ace24024dda720",
-    "title": "Prolog Coding Horror",
-    "summary": "Article URL: https://www.metalevel.at/prolog/horror Comments URL: https://news.ycombinator.com/item?id=48173268 Points: 35 # Comments: 8",
-    "url": "https://www.metalevel.at/prolog/horror",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T21:15:51+00:00",
-    "fetched": "2026-05-17T23:31:17+00:00",
-    "image": null
-  },
-  {
-    "id": "0c42d12d710fc3c1",
-    "title": "Microsoft is retiring Teams’ Together Mode",
-    "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more…",
-    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T21:15:28+00:00",
-    "fetched": "2026-05-17T22:03:03+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20073111/togethermode.gif?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "5356ceb928d2254b",
-    "title": "Головне за неділю, 17 травня: 195 боєзіткнень, перспективи перемовин заради миру",
-    "summary": "Бойові дії на Донеччині, 195 бойових зіткнень, ворожі обстріли, ураження військового аеродрома \"Бельбек\" в окупованому Криму. Яким запам’ятається 1544-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/05/17/738978_golovne_nedilyu_17_travnya_195.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T20:57:00+00:00",
-    "fetched": "2026-05-17T22:03:03+00:00",
-    "image": "https://i.lb.ua/news/046/11/6a0a2f50b6463.jpg"
-  },
-  {
-    "id": "612d68faa582346b",
-    "title": "Where OpenClaw Security Is Heading",
-    "summary": "Article URL: https://openclaw.ai/blog/where-openclaw-security-is-heading Comments URL: https://news.ycombinator.com/item?id=48172952 Points: 6 # Comments: 0",
-    "url": "https://openclaw.ai/blog/where-openclaw-security-is-heading",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T20:32:21+00:00",
-    "fetched": "2026-05-17T22:03:05+00:00",
-    "image": "https://openclaw.ai/og-image.png"
-  },
-  {
-    "id": "2420526d3b26681a",
-    "title": "Росіяни атакували Запорізький район: є поранені",
-    "summary": "Запорізький район зазнав обстрілу: двоє людей поранено, пошкоджено автівку. Деталі від голови ОВА Івана Федорова.",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035106/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T20:30:00+00:00",
-    "fetched": "2026-05-17T20:59:53+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/830317/54d732dc98c9afbd3c940085ac16ced0.jpeg"
   }
 ]
