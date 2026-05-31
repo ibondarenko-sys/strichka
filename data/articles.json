@@ -1,5 +1,125 @@
 [
   {
+    "id": "961ed658ba2c1a83",
+    "title": "​Зеленський: Є вікно для переговорів із Росією - до зими",
+    "summary": "Президент зазначив, що це обговорювалося з американською стороною.",
+    "url": "https://lb.ua/society/2026/05/31/742102_zelenskiy_ie_vikno_peregovoriv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T18:30:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://i.lb.ua/news/125/45/6a1c7fb5c2599.jpg"
+  },
+  {
+    "id": "6d5d26d1f41af254",
+    "title": "Президент Румунії показав фрагменти \"Шахеда\", що влетів у багатоповерхівку в Галаці",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037198/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T18:20:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/f/c/fccdfa0---------------2026-05-31-210324.jpg"
+  },
+  {
+    "id": "92ecd2b25493c8e5",
+    "title": "Brazil monitors two patients for possible Ebola infection",
+    "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
+    "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-31T18:18:13+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b0/live/26bcd810-5d16-11f1-8b93-bf943d3c7bfa.jpg"
+  },
+  {
+    "id": "eb6fb006fdc22da3",
+    "title": "На Миколаївщині авто з'їхало з мосту в воду: постраждали 4 дітей і 2 дорослих",
+    "summary": "На Миколаївщині авто впало з мосту: постраждали 4 дітей і 2 дорослих, усіх госпіталізовано.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037196/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T18:12:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/839733/8edba5535c17f70f515f4c7d37c5a4b8.jpeg"
+  },
+  {
+    "id": "020c1f370b7f7b78",
+    "title": "Президент Румунії попросив Росію бити по українських містах без шкоди для румунів",
+    "summary": "Президент Румунії Дан закликав РФ уникати ударів, що загрожують румунам, під час атак на Україну.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037195/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T17:53:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/2/839728/f2017ca370ddea4f05650993c69988c1.jpeg"
+  },
+  {
+    "id": "18ff6c5d4b6329e1",
+    "title": "Збірна України з футболу з голом Ярмоленка перемогла Польщу в дебютному матчі Мальдери",
+    "summary": "Андрій Ярмоленко забив 47 гол у складі національної команди.",
+    "url": "https://lb.ua/sport/2026/05/31/742100_zbirna_ukrayini_z_futbolu_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T17:46:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://i.lb.ua/news/057/06/6a1c750699367.jpg"
+  },
+  {
+    "id": "3e88fdf5d994a5b9",
+    "title": "У Чернігові через російську атаку знеструмлені 40 тисяч абонентів",
+    "summary": "Енергетики працюють над відновленням електропостачання.",
+    "url": "https://lb.ua/society/2026/05/31/742098_chernigovi_cherez_rosiysku_ataku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T17:41:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://i.lb.ua/news/108/05/6a1c733d4e1b9.jpg"
+  },
+  {
+    "id": "dd404aa29d4172a9",
+    "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
+    "summary": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
+    "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-31T17:40:58+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78f1/live/12c98dc0-5d03-11f1-9dbd-c1cee1747804.jpg"
+  },
+  {
+    "id": "510761c7c0e60727",
+    "title": "​Президент Румунії: у будинок в Галаці влучив російський дрон \"Герань-2\"",
+    "summary": "Опубліковані результати технічного розслідування.",
+    "url": "https://lb.ua/world/2026/05/31/742096_prezident_rumuniyi_budinok.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T17:30:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://i.lb.ua/news/044/15/6a1c7003b2f15.jpg"
+  },
+  {
+    "id": "686b837eaa2d7db4",
+    "title": "Зеленський: Ми намагаємося перехопити всі дрони РФ у напрямку країн Європи",
+    "summary": "Зеленський заявив: російські дрони, що влітають у ЄС, — це політичний тиск на партнерів України.",
+    "url": "https://www.pravda.com.ua/news/2026/05/31/8037192/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T17:17:00+00:00",
+    "fetched": "2026-05-31T18:45:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/839705/f739f15bc5939f58a87cab66f1d48057.jpeg"
+  },
+  {
     "id": "a3a9cf0e726fe2df",
     "title": "На Миколаївщині позашляховик упав з моста в річку: постраждали четверо дітей і двоє дорослих",
     "summary": "Наразі поліцейські встановлюють усі обставини та причини ДТП.",
@@ -10,6 +130,18 @@
     "published": "2026-05-31T17:10:00+00:00",
     "fetched": "2026-05-31T17:13:16+00:00",
     "image": "https://i.lb.ua/news/105/53/6a1c6acb9fad3.jpg"
+  },
+  {
+    "id": "9d3e6ac15e6c8c68",
+    "title": "Deflock hits 100k ALPRs Mapped in USA",
+    "summary": "Article URL: https://deflock.org/ Comments URL: https://news.ycombinator.com/item?id=48347370 Points: 45 # Comments: 8",
+    "url": "https://deflock.org/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T17:04:10+00:00",
+    "fetched": "2026-05-31T18:45:44+00:00",
+    "image": "https://deflock.org/og-banner.png"
   },
   {
     "id": "23b31831d83077c7",
@@ -106,6 +238,18 @@
     "published": "2026-05-31T16:21:00+00:00",
     "fetched": "2026-05-31T17:13:16+00:00",
     "image": "https://i.lb.ua/news/077/20/6a1c5fc51ef7e.jpg"
+  },
+  {
+    "id": "f4e13792b93193a0",
+    "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+    "summary": "Article URL: https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/ Comments URL: https://news.ycombinator.com/item?id=48346947 Points: 180…",
+    "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T16:19:34+00:00",
+    "fetched": "2026-05-31T18:45:44+00:00",
+    "image": "http://thesciverse.org/wp-content/uploads/2026/05/Scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-Alzheimers-cognitive-decline-by-30.webp"
   },
   {
     "id": "5c3ed2ae77f3804b",
@@ -766,6 +910,18 @@
     "published": "2026-05-31T12:11:32+00:00",
     "fetched": "2026-05-31T14:18:29+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fcd/live/c841d5e0-5ce5-11f1-8b8c-6d33e1d5abb6.jpg"
+  },
+  {
+    "id": "bec5dcd0ff10b761",
+    "title": "Backpressure is all you need",
+    "summary": "Article URL: https://www.lucasfcosta.com/blog/backpressure-is-all-you-need Comments URL: https://news.ycombinator.com/item?id=48345090 Points: 68 # Comments: 59",
+    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T12:11:27+00:00",
+    "fetched": "2026-05-31T18:45:44+00:00",
+    "image": null
   },
   {
     "id": "6eb42499519c93de",
@@ -40414,149 +40570,5 @@
     "published": "2026-05-17T18:55:00+00:00",
     "fetched": "2026-05-17T19:45:06+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/c/830272/3cd2cda2b3a5c4eba16d492109eacc15.jpeg"
-  },
-  {
-    "id": "eae39427cf46db35",
-    "title": "Scientists \"bottle the sun\" with a liquid battery that stores solar energy",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260513221821.htm Comments URL: https://news.ycombinator.com/item?id=48171906 Points: 13 # Comments: 4",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T18:42:35+00:00",
-    "fetched": "2026-05-17T19:45:08+00:00",
-    "image": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp"
-  },
-  {
-    "id": "d43c59c2dd0c2586",
-    "title": "Revamped Siri will reportedly offer auto-deleting chats",
-    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the…",
-    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T18:40:28+00:00",
-    "fetched": "2026-05-17T19:45:06+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "d6b76e6cef594320",
-    "title": "\"Європа має бути в перемовинах\": Зеленський обговорив із Коштою перспективи процесу мирних перемовин",
-    "summary": "Президент запевнив, що Україна готова до відкриття кластерів.",
-    "url": "https://lb.ua/world/2026/05/17/738972_ievropa_maie_buti_peremovinah.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T18:39:00+00:00",
-    "fetched": "2026-05-17T19:45:06+00:00",
-    "image": "https://i.lb.ua/news/065/24/6a0a0b2c00d32.jpg"
-  },
-  {
-    "id": "5a180850d2a9d19e",
-    "title": "В Італії виключили версію про тероризм у справі про наїзд авто на натовп в Модені",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035096/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T18:25:00+00:00",
-    "fetched": "2026-05-17T19:45:06+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/e/5/e5e439a-1920x1280-cmsv2-d1a458d5-938a-556d-b554-975d71476a7c-9761309.jpg"
-  },
-  {
-    "id": "7e6de93be7c026ff",
-    "title": "У колишній будівлі Мінтрансу Угорщини знайшли мішки з подрібненими документами, - Мадяр",
-    "summary": "Компетентні органи проведуть розслідування.",
-    "url": "https://lb.ua/world/2026/05/17/738970_kolishniy_budivli_mintransu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T18:19:00+00:00",
-    "fetched": "2026-05-17T19:45:06+00:00",
-    "image": "https://i.lb.ua/news/089/62/6a0a06cd61177.jpg"
-  },
-  {
-    "id": "7abfeaf9776b8a6f",
-    "title": "Зеленський обговорив із президентом Євроради участь Європи у переговорах з РФ",
-    "summary": "Зеленський і Кошта обговорили участь Європи у перемовинах щодо завершення війни та євроінтеграцію України.",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035094/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T18:13:00+00:00",
-    "fetched": "2026-05-17T19:45:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/8/830219/68823ba0992513e0598d3f5c87ee3960.jpeg"
-  },
-  {
-    "id": "614b90d0966c5098",
-    "title": "МЗС України вимагає від Москви відкрити архіви НКВС, - заява",
-    "summary": "\"Саме тотальна безкарність призвела до є масових російських звірств у ході нинішньої загарбницької війни РФ проти України\".",
-    "url": "https://lb.ua/world/2026/05/17/738968_mzs_ukrayini_vimagaie_vid_moskvi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T18:04:00+00:00",
-    "fetched": "2026-05-17T19:45:06+00:00",
-    "image": "https://i.lb.ua/news/086/60/6a0a03d0aedd8.jpg"
-  },
-  {
-    "id": "1b5452d0f43119d3",
-    "title": "Подрібнені документи та агітація: Мадяр показав знахідки у будівлі колишнього міністерства",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035093/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T17:53:00+00:00",
-    "fetched": "2026-05-17T18:01:07+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/e/5eb14c2-licensed-image--100-.jpeg"
-  },
-  {
-    "id": "7d21ec211d297183",
-    "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
-    "summary": "Article URL: https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/ Comments URL: https://news.ycombinator.com/item?id=48171015 Points: 88 # Comments: 29",
-    "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T17:29:38+00:00",
-    "fetched": "2026-05-17T19:45:08+00:00",
-    "image": null
-  },
-  {
-    "id": "1f60bfeae1dca9cb",
-    "title": "НАБУ і САП спростували російський фейк про \"підготовку арешту\" Олени Зеленської",
-    "summary": "Антикорупційні органи спростували російські фейки про розслідування та арешт дружини президента Зеленської.",
-    "url": "https://www.pravda.com.ua/news/2026/05/17/8035092/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T17:26:00+00:00",
-    "fetched": "2026-05-17T18:01:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/830190/88dc0686d307f52dff6479d862b94d05.jpeg"
-  },
-  {
-    "id": "16b9fcd6c23b7fe0",
-    "title": "Зеленський про удари по Москві: війна повертається в \"родную гавань\"",
-    "summary": "Дистанція до цілей цього разу – більш ніж 500 км, це вагомо ще й тому, що Московський регіон найбільш насичений російськими засобами ППО.",
-    "url": "https://lb.ua/society/2026/05/17/738966_zelenskiy_pro_udari_moskvi_viyna.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T17:25:00+00:00",
-    "fetched": "2026-05-17T18:01:07+00:00",
-    "image": "https://i.lb.ua/news/024/49/6a09fa25834e8.jpg"
-  },
-  {
-    "id": "7ca2b35489bbd99c",
-    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-    "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T17:22:23+00:00",
-    "fetched": "2026-05-17T18:01:07+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23350482/1328571726.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
