@@ -1,5 +1,53 @@
 [
   {
+    "id": "80db88b638ce8219",
+    "title": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
+    "summary": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candidate…",
+    "url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-01T01:04:45+00:00",
+    "fetched": "2026-06-01T01:40:09+00:00",
+    "image": "https://i.guim.co.uk/img/media/977ad409e59e748b6f6ecb41652dcfac6331042c/318_0_3200_2560/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=cdbff789dd1d1b47f0aa8d660d247a1a"
+  },
+  {
+    "id": "2d65a0f8c696d92e",
+    "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
+    "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping pricetags (or no pricetags at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components…",
+    "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-01T00:00:00+00:00",
+    "fetched": "2026-06-01T01:40:09+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/1505974-dr-lisa-su-ryzen.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c9167eb8fec827f8",
+    "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+    "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+    "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-31T23:53:50+00:00",
+    "fetched": "2026-06-01T01:40:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg"
+  },
+  {
+    "id": "a8ed2431b4e1f939",
+    "title": "Російські окупанти вдарили по Харкову: постраждали люди",
+    "summary": "Вночі 1 червня росіяни атакували Харків: пошкоджені гаражі, автівки, двоє постраждалих.",
+    "url": "https://www.pravda.com.ua/news/2026/06/01/8037209/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-05-31T23:15:00+00:00",
+    "fetched": "2026-06-01T01:40:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/a/839845/eab1c37d8c108c7e279139b2b2563d0b.jpeg"
+  },
+  {
     "id": "37a677496117a14e",
     "title": "The QD-OLED gaming monitor that started it all got a big upgrade",
     "summary": "Alienware is taking to this year's Computex 2026 in Taipei to announce some cool gaming monitors, most notably two exciting OLED options that are coming at different points this year. First off, the company is debuting the successor to its very first QD-OLED gaming monitor from…",
@@ -22,6 +70,30 @@
     "published": "2026-05-31T23:00:00+00:00",
     "fetched": "2026-05-31T23:05:06+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Dell-XPS-13_16.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6b487aade17f5267",
+    "title": "Chuwi Minibook X: the netbook we deserve",
+    "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/ Comments URL: https://news.ycombinator.com/item?id=48350598 Points: 80 # Comments: 62",
+    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T22:59:50+00:00",
+    "fetched": "2026-06-01T01:40:11+00:00",
+    "image": null
+  },
+  {
+    "id": "0ca0d533aecea4d9",
+    "title": "Trump seeking edits to US-Iran deal, US media report",
+    "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+    "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-05-31T22:54:20+00:00",
+    "fetched": "2026-06-01T01:40:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d487/live/024e7340-5d3d-11f1-8906-91bbcad8293d.jpg"
   },
   {
     "id": "f4dd2d4cc10cd384",
@@ -202,6 +274,18 @@
     "published": "2026-05-31T19:27:44+00:00",
     "fetched": "2026-05-31T20:14:51+00:00",
     "image": null
+  },
+  {
+    "id": "fcde99fa3b4a6f4b",
+    "title": "The History of \"Prisencolinensinainciusol\"",
+    "summary": "Article URL: https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/ Comments URL: https://news.ycombinator.com/item?id=48348737 Points: 24 # Comments: 7",
+    "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-05-31T19:14:23+00:00",
+    "fetched": "2026-06-01T01:40:11+00:00",
+    "image": "https://dirkdeklein.net/wp-content/uploads/2025/02/gibber.png"
   },
   {
     "id": "b1f43bb0c754a9d3",
@@ -40534,77 +40618,5 @@
     "published": "2026-05-18T02:01:00+00:00",
     "fetched": "2026-05-18T04:08:57+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/830334/84400ed7ff8c05e21e856327f8f22bb0.jpeg"
-  },
-  {
-    "id": "237edc2451df7af1",
-    "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 42 # Comments: 30",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-18T01:39:30+00:00",
-    "fetched": "2026-05-18T04:09:00+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "id": "24b79a779696a0de",
-    "title": "Moment two fighter jets collide mid-air at US air show",
-    "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
-    "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-18T00:49:25+00:00",
-    "fetched": "2026-05-18T04:08:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3a/live/01705be0-5253-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "id": "78a1327820457b7f",
-    "title": "Росіяни вдарили ракетами по житловому кварталу Дніпра: 9 поранених",
-    "summary": "Вночі 18 травня російські війська завдали ракетного удару по житловому кварталу Дніпра.",
-    "url": "https://www.pravda.com.ua/news/2026/05/18/8035113/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T00:14:00+00:00",
-    "fetched": "2026-05-18T04:08:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/830328/82a3bc323fff4759996b0e6cea85b48e.jpeg"
-  },
-  {
-    "id": "8df39466372483de",
-    "title": "У Мексиці внаслідок збройного нападу загинули 10 людей, серед них дитина",
-    "summary": "У мексиканському штаті Пуебла внаслідок збройного нападу загинули десять осіб, серед них – неповнолітня дитина.",
-    "url": "https://www.pravda.com.ua/news/2026/05/18/8035112/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T00:01:00+00:00",
-    "fetched": "2026-05-18T04:08:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/830323/e1bcf35134713feba19fee3c66ccfa11.jpeg"
-  },
-  {
-    "id": "b9ecb14ec984260c",
-    "title": "Кім Чен Ин наказав посилити війська на кордоні з Південною Кореєю",
-    "summary": "Лідер Північної Кореї Кім Чен Ин заявив, що плани щодо зміцнення прифронтових і основних підрозділів на кордоні з Південною Кореєю є ключовими для \"більш ефективного стримування війни\".",
-    "url": "https://www.pravda.com.ua/news/2026/05/18/8035111/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-17T23:27:00+00:00",
-    "fetched": "2026-05-18T04:08:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/830322/b6bf6301a071b9dfce71684bfca437e2.jpeg"
-  },
-  {
-    "id": "9f603bb9ff4e3c41",
-    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html Comments URL: https://news.ycombinator.com/item?id=48173962 Points: 27 # Comments: 2",
-    "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-17T23:10:09+00:00",
-    "fetched": "2026-05-18T04:09:00+00:00",
-    "image": null
   }
 ]
