@@ -1,5 +1,101 @@
 [
   {
+    "id": "f5c2620fe7a96903",
+    "title": "Росіяни атакували ракетами та дронами Харків: постраждали люди, серед них 11-річна дівчинка",
+    "summary": "Вночі 2 червня росіяни обстріляли кілька районів Харкова, є поранені, спалахнули пожежі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/02/8037361/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T23:48:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/6/840475/06fa375251d2f8eb10b29f3cf5f2b72a.jpeg"
+  },
+  {
+    "id": "a34d73f8a0a3c261",
+    "title": "Росіяни завдали комбінованого удару по Києву: уламки ракети впали на дах будинку",
+    "summary": "Вночі 2 червня РФ атакувала Київ: уламки впали на будинок і біля садка, є займання.",
+    "url": "https://www.pravda.com.ua/news/2026/06/02/8037363/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T23:39:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/f/840485/4fe14be35a8faf84f5cb9174412538fd.jpeg"
+  },
+  {
+    "id": "051cff896dce363a",
+    "title": "Росіяни атакують Київ балістикою та \"Цирконами\"",
+    "summary": "Понад десяток ракет вже були спрямовані на столицю.",
+    "url": "https://lb.ua/society/2026/06/02/742372_rosiyani_atakuyut_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T23:33:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://i.lb.ua/news/004/23/6a1e16874e9e4.jpg"
+  },
+  {
+    "id": "a724040dd6912e8f",
+    "title": "ЗМІ: Трамп попросив Сі Цзінпіня допомогти завершити війну в Україні",
+    "summary": "За 24 години не вийшло, за півтора року - теж.",
+    "url": "https://lb.ua/society/2026/06/02/742370_zmi_tramp_poprosiv_si_tszinpinya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T23:23:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://i.lb.ua/news/024/48/6a1e151e142cc.jpg"
+  },
+  {
+    "id": "373e1ba7bb99fade",
+    "title": "В Україні масштабна повітряна тривога: РФ б'є ракетами та дронами",
+    "summary": "У низці регіонів України повітряна тривога: загроза балістичних ракет, атаки на Дніпро і Запоріжжя.",
+    "url": "https://www.pravda.com.ua/news/2026/06/02/8037360/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T23:15:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/f/840477/2fcfb4c5710e1c2bf91fb99cc85262d7.jpeg"
+  },
+  {
+    "id": "08827984bc42c337",
+    "title": "У Дніпрі внаслідок російської атаки частково зруйнований будинок: є поранена",
+    "summary": "Внаслідок нічного удару по Дніпру російськими військами частково зруйновано будинок, поранена 73-річна жінка.",
+    "url": "https://www.pravda.com.ua/news/2026/06/02/8037362/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T23:14:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/840476/a52093244c863353f27e46aa8d7a5dd8.jpeg"
+  },
+  {
+    "id": "77f75934973101ae",
+    "title": "Прем'єрка Данії збереже посаду після завершення коаліційних перемовин",
+    "summary": "Метте Фредеріксен на тлі найдовшої коаліціяди в історії країни втретє очолить раду міністрів.",
+    "url": "https://lb.ua/world/2026/06/02/742368_premierka_daniyi_zberezhe_posadu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-01T22:35:00+00:00",
+    "fetched": "2026-06-01T23:52:29+00:00",
+    "image": "https://i.lb.ua/news/120/42/6a1e0898ea871.jpg"
+  },
+  {
+    "id": "88d629fd71eeee87",
+    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+    "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-01T22:18:09+00:00",
+    "fetched": "2026-06-01T23:52:30+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg"
+  },
+  {
     "id": "595f64f7f0229179",
     "title": "Трамп особисто закликав Сі Цзіньпіна допомогти завершити війну в Україні – ЗМІ",
     "summary": "Трамп закликав лідера Китаю сприяти припиненню війни Росії проти України та поверненню до переговорів.",
@@ -34,6 +130,18 @@
     "published": "2026-06-01T21:55:00+00:00",
     "fetched": "2026-06-01T22:21:22+00:00",
     "image": "https://i.lb.ua/news/005/03/6a1dff371fe5e.jpg"
+  },
+  {
+    "id": "f5a536b13c1a72f0",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "summary": "Article URL: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/ Comments URL: https://news.ycombinator.com/item?id=48363132 Points: 25 # Comments: 3",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-01T21:50:02+00:00",
+    "fetched": "2026-06-01T23:52:32+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill"
   },
   {
     "id": "d2982e909723a4b7",
@@ -874,6 +982,18 @@
     "published": "2026-06-01T17:02:22+00:00",
     "fetched": "2026-06-01T19:08:50+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0491-1152x648.jpeg"
+  },
+  {
+    "id": "0d03b1764dd17f47",
+    "title": "Show HN: DepsGuard – one command to harden NPM/pnpm/yarn/bun/uv configs",
+    "summary": "I kept seeing every npm/pnpm/yarn/bun/uv supply chain post end with the same advice (set a minimum release age, turn off install scripts), and while I know cooldowns are \"controversial\", they do work. But even if you convince people that they should set cooldowns, it seems many…",
+    "url": "https://github.com/arnica/depsguard",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-01T16:58:52+00:00",
+    "fetched": "2026-06-01T23:52:32+00:00",
+    "image": "https://opengraph.githubassets.com/158f6fbe83467fa0f123c42492e3a17b9437184dc52b071f045fc03c25283e3c/arnica/depsguard"
   },
   {
     "id": "ccee6d49190dfb6d",
@@ -40126,101 +40246,5 @@
     "published": "2026-05-19T00:16:31+00:00",
     "fetched": "2026-05-19T01:30:39+00:00",
     "image": null
-  },
-  {
-    "id": "573469ca2affa80d",
-    "title": "США запровадили санкції проти кубинських міністрів та розвідки",
-    "summary": "США запровадили санкції проти 11 кубинських високопосадовців, серед яких міністр зв'язку та керівництво парламенту, а також проти головного розвідувального відомства країни.",
-    "url": "https://www.pravda.com.ua/news/2026/05/19/8035301/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T23:50:00+00:00",
-    "fetched": "2026-05-19T01:30:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/831034/0a4913a318a94174841e2dc3e078081f.jpeg"
-  },
-  {
-    "id": "becdedc6b81af0b5",
-    "title": "Співачка Шакіра відсудила в іспанського уряду 55 мільйонів євро податків",
-    "summary": "Історія з незаконним стягненням частини доходів зірки тягнулася з 2011 року.",
-    "url": "https://lb.ua/world/2026/05/19/739214_spivachka_shakira_vidsudila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T23:48:00+00:00",
-    "fetched": "2026-05-19T01:30:37+00:00",
-    "image": "https://i.lb.ua/news/112/08/6a0ba5a09d757.jpg"
-  },
-  {
-    "id": "7adfadfcf32f0d01",
-    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-    "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html Comments URL: https://news.ycombinator.com/item?id=48187201 Points: 87 # Comments: 40",
-    "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-18T23:18:10+00:00",
-    "fetched": "2026-05-19T01:30:39+00:00",
-    "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/06/2026-05-06-udienza-generale/1778056864955.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
-  },
-  {
-    "id": "54af5525efc93fbc",
-    "title": "Ілон Маск програв суд проти свого колишнього партнера Сема Альтмана",
-    "summary": "Присяжні не погодилися з претензіями найбагатшої людини на планеті.",
-    "url": "https://lb.ua/tech/2026/05/19/739212_ilon_mask_prograv_sud_proti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T23:10:00+00:00",
-    "fetched": "2026-05-19T01:30:37+00:00",
-    "image": "https://i.lb.ua/news/077/26/6a0b9c101a63f.jpg"
-  },
-  {
-    "id": "e876dde361cd0467",
-    "title": "What really holds China and Russia together",
-    "summary": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
-    "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-18T23:06:55+00:00",
-    "fetched": "2026-05-19T10:24:24+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b95/live/ee25fd80-52c8-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-    "id": "d52236556fda19e5",
-    "title": "Click (2016)",
-    "summary": "Article URL: https://clickclickclick.click/ Comments URL: https://news.ycombinator.com/item?id=48187054 Points: 183 # Comments: 38",
-    "url": "https://clickclickclick.click/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-18T23:03:02+00:00",
-    "fetched": "2026-05-19T01:30:39+00:00",
-    "image": "https://s3-eu-west-1.amazonaws.com/clickclickclick.click/images/OG.png"
-  },
-  {
-    "id": "f0e9290138f1b436",
-    "title": "Німеччина перекине до Туреччини батарею Patriot та військових",
-    "summary": "Посол Німеччини в Туреччині Сібілле Катаріна Зорг повідомила, що з кінця червня Берлін розгорне в Туреччині додаткову систему протиповітряної оборони Patriot та 150 військовослужбовців.",
-    "url": "https://www.pravda.com.ua/news/2026/05/19/8035299/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T22:34:00+00:00",
-    "fetched": "2026-05-19T01:30:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/4/831032/f42b39ed9aa66305e8c5b070020cf4d1.jpeg"
-  },
-  {
-    "id": "3f65df78aa5eb0c1",
-    "title": "У Каліфорнії троє людей були вбиті через стрілянину в мечеті",
-    "summary": "Нападників знайшли мертвими в автомобілі неподалік місця злочину.",
-    "url": "https://lb.ua/world/2026/05/19/739210_kaliforniyi_troie_lyudey_buli.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-18T22:26:00+00:00",
-    "fetched": "2026-05-18T23:08:06+00:00",
-    "image": "https://i.lb.ua/news/024/24/6a0b946a37adc.jpg"
   }
 ]
