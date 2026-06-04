@@ -1,5 +1,125 @@
 [
   {
+    "id": "eb2e116706304ab7",
+    "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+    "summary": "Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 23 # Comments: 2",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T23:11:56+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "32d0b94b325f1108",
+    "title": "Mangrove forests are healing after decades of human destruction",
+    "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+    "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-04T23:11:15+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/145c/live/90921d20-6024-11f1-95e8-2f6b295436fc.jpg"
+  },
+  {
+    "id": "c555952a4a528208",
+    "title": "\"Хезболла\" відкинула умови перемир'я між Ізраїлем та Ліваном",
+    "summary": "Роззброєння терористів було однією з умов миру між двома державами.",
+    "url": "https://lb.ua/world/2026/06/05/743084_hezbolla_vidkinula_umovi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-04T22:52:00+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://i.lb.ua/news/003/20/6a2200a22ab53.jpg"
+  },
+  {
+    "id": "f0f956d3cd95a400",
+    "title": "Франція та Німеччина хочуть спростити інтеграцію в ЄС Молдови і Балкан",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/06/05/8037840/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-04T22:49:00+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/842463/226ff0faa894f438cecf974489207373.jpeg"
+  },
+  {
+    "id": "270777511a4f83ec",
+    "title": "Valve says it’s ready to launch the Steam Machine this summer",
+    "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles…",
+    "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T22:48:53+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0058.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b3560036c170c4bb",
+    "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+    "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+    "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T22:23:36+00:00",
+    "fetched": "2026-06-04T23:46:14+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-1152x648.jpg"
+  },
+  {
+    "id": "0abe7af3fbdda488",
+    "title": "Кім Чен Ин заявив про подвоєння потужностей виробництва ядерної зброї та показав новий завод",
+    "summary": "Лідер Північної Кореї Кім Чен Ин заявив, що потужності країни з \"виробництва ядерних матеріалів збройового рівня\" за останні п'ять років зросли більш ніж удвічі, та представив нове підприємство для створення ядерної зброї.",
+    "url": "https://www.pravda.com.ua/news/2026/06/05/8037839/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-04T22:23:00+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/842462/555d40cb137813a13bf3b738df626821.jpeg"
+  },
+  {
+    "id": "1629bc8354dfb136",
+    "title": "Here's why election results in the second largest US city are so slow",
+    "summary": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+    "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-04T22:20:24+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/5f4c10e0-6065-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "id": "02976dfb558dda45",
+    "title": "Президент Румунії висунув свого радника на посаду прем'єр-міністра",
+    "summary": "Новий очільник уряду може бути незалежним від парламентських партій.",
+    "url": "https://lb.ua/world/2026/06/05/743082_prezident_rumuniyi_visunuv_svogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-04T22:15:00+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://i.lb.ua/news/015/36/6a21f93d2ea22.jpg"
+  },
+  {
+    "id": "48c5eec9ca4c1771",
+    "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+    "summary": "To my knowledge, this is the first formally verified implementation of an intersection algorithm for polygons. The experience of working with AI agents on this project changed a lot with recent model releases, as I describe in the readme. Opus 4.8 is able to provide algorithm…",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T22:06:18+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://opengraph.githubassets.com/900013e886d27134561cd56ca0b275002ad36e4ab7b0cdef13dcc413367a8f15/schildep/verified-polygon-intersection"
+  },
+  {
     "id": "5a49c2b77a1590aa",
     "title": "В п'ятницю в Україні прогріється до +27°, місцями невеликі дощі",
     "summary": "На Київщині також прогнозують короткочасний дощ.",
@@ -22,6 +142,18 @@
     "published": "2026-06-04T21:46:00+00:00",
     "fetched": "2026-06-04T22:05:29+00:00",
     "image": "https://i.lb.ua/news/079/38/6a21f08feda3d.jpg"
+  },
+  {
+    "id": "6a4295e7f42c3393",
+    "title": "IPv6 zones in URLs are a mistake",
+    "summary": "Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 48 # Comments: 32",
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T21:42:34+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": null
   },
   {
     "id": "40c610d5fe72a856",
@@ -60,6 +192,18 @@
     "image": "https://i.lb.ua/news/107/35/6a21efadb41fe.jpg"
   },
   {
+    "id": "58e49a17cfe6c7fc",
+    "title": "Queen bees emerge from special wax chambers",
+    "summary": "Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 19 # Comments: 0",
+    "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T21:31:31+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://s7d1.scene7.com/is/image/CENODS/How-worker-bees-use-wax-chemistry-to-sculpt-a-future-queen---488257:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp"
+  },
+  {
     "id": "e0a120e25e0772e0",
     "title": "Росіяни атакували Конотоп безпілотниками: поранено п'ятьох людей, серед них троє дітей",
     "summary": "Російські окупанти вдарили безпілотниками по житлових будинках і цивільній інфраструктурі Конотопа, внаслідок чого постраждали щонайменше п'ятеро людей.",
@@ -70,6 +214,30 @@
     "published": "2026-06-04T21:26:00+00:00",
     "fetched": "2026-06-04T22:05:29+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/842460/62bc21ee5e493cccebf2dad49b96c0ae.jpeg"
+  },
+  {
+    "id": "687e7270f813781e",
+    "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+    "summary": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T21:25:19+00:00",
+    "fetched": "2026-06-04T23:46:14+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/supreme-court-1152x648-1780605704.jpg"
+  },
+  {
+    "id": "ff88ab15a67e2b38",
+    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+    "summary": "Hey HN I've been using ECS for a while now and found it annoying having to log into the console everytime I use Lens for Kubernetes but couldnt find an equivalent for ECS so i built one! The project is open source as well https://github.com/utibeabasi6/mercek Comments URL:…",
+    "url": "https://www.mercek.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T21:15:16+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": "https://mercek.dev/og.png"
   },
   {
     "id": "8dfcb35fdc59e80f",
@@ -154,6 +322,18 @@
     "published": "2026-06-04T20:46:00+00:00",
     "fetched": "2026-06-04T22:05:29+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/842455/ca8e026386e2338cf05048931b66e6a9.jpeg"
+  },
+  {
+    "id": "e45197f142a7afc5",
+    "title": "These LLMs are the best at resisting Russian propaganda",
+    "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T20:44:31+00:00",
+    "fetched": "2026-06-04T23:46:14+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271282507-1024x648.jpg"
   },
   {
     "id": "17764c700cc806d2",
@@ -262,6 +442,18 @@
     "published": "2026-06-04T20:07:00+00:00",
     "fetched": "2026-06-04T20:11:00+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/842367/e160a2061f83ac599b8d4825437e079f.jpeg"
+  },
+  {
+    "id": "63c408166619aabb",
+    "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+    "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+    "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T20:02:04+00:00",
+    "fetched": "2026-06-04T23:46:14+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg"
   },
   {
     "id": "32301bfd72436426",
@@ -598,6 +790,18 @@
     "published": "2026-06-04T18:00:35+00:00",
     "fetched": "2026-06-04T20:11:00+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bumblebee-TOP-1152x648.jpg"
+  },
+  {
+    "id": "1430ba3b2fce789f",
+    "title": "Show HN: Hitoku Draft – Context aware local assistant",
+    "summary": "Hi guys. I have been working on Hitoku Draft, an open-source, voice-first AI assistant that runs entirely locally. I posted about it already, and now it has also transcription with voice editing. Looking for feedback, as I found that outside tech circles other people still do…",
+    "url": "https://hitoku.me/draft/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-04T17:48:58+00:00",
+    "fetched": "2026-06-04T23:46:13+00:00",
+    "image": null
   },
   {
     "id": "5dcc745d040733d2",
@@ -39406,125 +39610,5 @@
     "published": "2026-05-21T23:47:00+00:00",
     "fetched": "2026-05-22T01:30:31+00:00",
     "image": "https://i.lb.ua/news/073/53/6a0f988345315.jpg"
-  },
-  {
-    "id": "165e7103fa41da8e",
-    "title": "The IBM-ification of Google?",
-    "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/ Comments URL: https://news.ycombinator.com/item?id=48230049 Points: 47 # Comments: 41",
-    "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-21T23:30:10+00:00",
-    "fetched": "2026-05-22T01:30:31+00:00",
-    "image": "https://zeroshot.bearblog.dev/static/og-image.png"
-  },
-  {
-    "id": "93b75090e1b20c74",
-    "title": "У російському Ярославлі заявили про атаку дронів і перекрили трасу на Москву",
-    "summary": "У Росії заявили, що дрони нібито атакували Ярославську область, у Ярославлі перекрили трасу на Москву.",
-    "url": "https://www.pravda.com.ua/news/2026/05/22/8035853/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-21T23:18:00+00:00",
-    "fetched": "2026-05-22T01:30:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/6/833380/c6912e3ba907716bcb190041dcaa6f24.jpeg"
-  },
-  {
-    "id": "98713faceb32f693",
-    "title": "Держсекретар США назвав Кубу загрозою національній безпеці",
-    "summary": "Ескалація у Карибському регіоні стає все більш імовірною.",
-    "url": "https://lb.ua/world/2026/05/22/739992_derzhsekretar_ssha_nazvav_kubu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-21T23:11:00+00:00",
-    "fetched": "2026-05-22T01:30:31+00:00",
-    "image": "https://i.lb.ua/news/106/27/6a0f9133117ae.jpg"
-  },
-  {
-    "id": "56c1a41791d16baa",
-    "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
-    "summary": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities and help ensure the user's…",
-    "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-21T23:00:00+00:00",
-    "fetched": "2026-05-21T23:13:17+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ankerliberty2.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "0a9f3d4cd0971e7b",
-    "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
-    "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which has more processing power than…",
-    "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-21T23:00:00+00:00",
-    "fetched": "2026-05-21T23:13:17+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "5f9bc19cd4221573",
-    "title": "Tennessee execution called off after failed lethal injection",
-    "summary": "Tony Carruthers was granted a one-year reprieve from death after his executioners failed to find a vein for lethal injection.",
-    "url": "https://www.bbc.com/news/articles/c93xj503kg9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-21T22:45:20+00:00",
-    "fetched": "2026-05-22T06:13:05+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b184/live/6b1e77a0-5566-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "id": "ce3acda24800426d",
-    "title": "Експосолка Брінк розповіла, як Трамп поставив під загрозу життя дипломатів США в Україні – ЗМІ",
-    "summary": "Брінк заявила, що припинення допомоги США наразило на небезпеку життя американських дипломатів у Києві.",
-    "url": "https://www.pravda.com.ua/news/2026/05/22/8035852/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-21T22:40:00+00:00",
-    "fetched": "2026-05-21T23:13:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/a/833379/eaac9c1a048afddc5993bd5a3ca35029.jpeg"
-  },
-  {
-    "id": "d554bc8831f8527f",
-    "title": "Суд у Франції визнав авіаперевізника та виробника літака винними у масовому вбивстві",
-    "summary": "Авіатроща у 2009 році забрала життя 228 людей.",
-    "url": "https://lb.ua/world/2026/05/22/739990_sud_frantsiyi_viznav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-21T22:32:00+00:00",
-    "fetched": "2026-05-21T23:13:17+00:00",
-    "image": "https://i.lb.ua/news/074/46/6a0f8a21498ee.jpg"
-  },
-  {
-    "id": "f7f90be145a675f5",
-    "title": "States ask judge to break up Live Nation-Ticketmaster",
-    "summary": "A federal judge is officially being tasked with deciding whether to break up Live Nation-Ticketmaster. More than 30 states are asking Judge Arun Subramanian to order a sale of the ticketing giant, a \"sufficient number\" of large amphitheaters, and limit its ability to tie access…",
-    "url": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-21T22:27:03+00:00",
-    "fetched": "2026-05-21T23:13:17+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461581/STK268_TICKETMASTER_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "d9220a29f70067ba",
-    "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
-    "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
-    "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-21T22:26:34+00:00",
-    "fetched": "2026-05-21T23:13:17+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg"
   }
 ]
