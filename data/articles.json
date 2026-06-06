@@ -1,5 +1,89 @@
 [
   {
+    "id": "fe4e8fcb8bd3a7c8",
+    "title": "Через зміну риторики Трампа щодо військ у Європі США втратили мільйони доларів",
+    "summary": "Солдати мають низький моральний дух через відсутність запланованих ротацій.",
+    "url": "https://lb.ua/world/2026/06/06/743388_cherez_zminu_ritoriki_trampa.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-05T23:51:00+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://i.lb.ua/news/088/36/6a236131c2557.jpg"
+  },
+  {
+    "id": "9aa1c2b35e7569e6",
+    "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
+    "summary": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's…",
+    "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-05T23:25:34+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Image-3.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "95ce5c13f8139cd8",
+    "title": "AP: Різкі зміни рішень Трампа щодо військ у Європі коштували мільйони доларів і деморалізували військових",
+    "summary": "Американські військові очікують роз'яснень від Пентагону після непослідовних заяв президента США Дональда Трампа щодо чисельності військ у Європі, які зруйнували плани солдатів та коштували платникам податків мільйони доларів.",
+    "url": "https://www.pravda.com.ua/news/2026/06/06/8038002/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-05T23:23:00+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/843191/45bb978bbe1e1b468623945389dde039.jpeg"
+  },
+  {
+    "id": "9bd1d75094f9615b",
+    "title": "Росіяни завербували в окупаційну армію не менше 88 тисяч українців",
+    "summary": "Правозахисники вперше отримали достовірну інформацію про масштаби залучення українців до війська агресора.",
+    "url": "https://lb.ua/society/2026/06/06/743386_rosiyani_zaverbuvali_okupatsiynu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-05T23:13:00+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://i.lb.ua/news/065/27/6a23582ccf281.jpg"
+  },
+  {
+    "id": "e0d5e27de80a8285",
+    "title": "Grand Theft Auto VI is warping the video game release calendar",
+    "summary": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI…",
+    "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-05T23:05:27+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "db0bef676ee7976f",
+    "title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
+    "summary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown…",
+    "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-05T22:52:06+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_Switch_2_June_Screenshots_1.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "300d0565dd1e6dbd",
+    "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+    "summary": "In the end, the three companies involved all point the finger at each other.",
+    "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-05T22:36:21+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screen-Shot-2025-11-11-at-7.10.57-PM-1084x648.png"
+  },
+  {
     "id": "433e32e0a02b94d7",
     "title": "Посланці Трампа таємно зустрілися з експертами-ядерниками для підготовки угоди з Іраном – ЗМІ",
     "summary": "Спецпосланці президента США Стів Віткофф та Джаред Кушнер негласно відвідали національну лабораторію в Оук-Риджі (штат Теннессі) для консультацій із групою провідних експертів-ядерників, готуючись до потенційної реалізації нової ядерної угоди з Іраном.",
@@ -46,6 +130,18 @@
     "published": "2026-06-05T21:55:00+00:00",
     "fetched": "2026-06-05T22:43:54+00:00",
     "image": "https://i.lb.ua/news/008/60/6a234598aaf6a.jpg"
+  },
+  {
+    "id": "995ce2aaf74514af",
+    "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
+    "summary": "Article URL: https://github.com/a-yiorgos/wambook Comments URL: https://news.ycombinator.com/item?id=48418839 Points: 9 # Comments: 0",
+    "url": "https://github.com/a-yiorgos/wambook",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-05T21:52:02+00:00",
+    "fetched": "2026-06-06T00:12:21+00:00",
+    "image": "https://opengraph.githubassets.com/521db709400eb19272cbd54cd8760656100986632088ce1f94f5f08e01cf39df/a-yiorgos/wambook"
   },
   {
     "id": "9c0e5c517f915e26",
@@ -39154,113 +39250,5 @@
     "published": "2026-05-23T00:33:00+00:00",
     "fetched": "2026-05-23T01:23:44+00:00",
     "image": "https://i.lb.ua/news/114/12/6a10f7e86ab6a.jpg"
-  },
-  {
-    "id": "cbf4e7ffd185bd88",
-    "title": "SpaceX launches Starship v3 rocket",
-    "summary": "Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505 Comments URL: https://news.ycombinator.com/item?id=48242959 Points: 71 # Comments: 23",
-    "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-22T23:41:55+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779492307346_now_brk_spacex_starship_launch_260522_S3_1920x1080-zoo54r.jpg"
-  },
-  {
-    "id": "eb5a9db58e46dca9",
-    "title": "SpaceX запустила в тестовий політ найбільшу ракету Starship",
-    "summary": "У ніч на 23 травня SpaceX запустила в тестовий політ найбільшу ракету Starship.",
-    "url": "https://www.pravda.com.ua/news/2026/05/23/8036034/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-22T23:34:00+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/d/834327/ed1cf8e5e388deb32c9f52270878bf5d.jpeg"
-  },
-  {
-    "id": "f53d13f9378a6b1d",
-    "title": "ЗМІ: Мирна угода США та Ірану може бути оголошена упродовж кількох годин",
-    "summary": "Доля ключового питання про відмову від збагачення урану залишається невизначеною.",
-    "url": "https://lb.ua/world/2026/05/23/740238_zmi_mirna_ugoda_ssha_iranu_mozhe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-22T23:28:00+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://i.lb.ua/news/083/19/6a10e5ed943b7.jpg"
-  },
-  {
-    "id": "97dc82d55ab0fbe3",
-    "title": "Після атаки безпілотників у Новоросійську РФ горить нафтовий термінал",
-    "summary": "У ніч на 23 травня безпілотники атакували нафтовий термінал у Новоросійську, спалахнула пожежа.",
-    "url": "https://www.pravda.com.ua/news/2026/05/23/8036033/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-22T23:10:00+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/834318/742388b0fdd0e6312817fa4ae52116fa.jpeg"
-  },
-  {
-    "id": "3d76aafa29016d58",
-    "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-    "summary": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
-    "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-22T23:07:55+00:00",
-    "fetched": "2026-05-23T05:06:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f59b/live/89f9ba00-55f1-11f1-b682-cf91850925ea.png"
-  },
-  {
-    "id": "c82416106c90ddb9",
-    "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
-    "summary": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
-    "url": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-22T23:07:41+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b3/live/8445c700-55d0-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-    "id": "bd063534d79d2a07",
-    "title": "Don't just paste the AI at me",
-    "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 116 # Comments: 77",
-    "url": "https://dontquotetheai.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-22T22:57:58+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://dontquotetheai.com/assets/og-image.png"
-  },
-  {
-    "id": "6d40d44d20a8022e",
-    "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-    "summary": "\"This capability is not common for satellites conducting typical missions.\"",
-    "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-22T22:50:23+00:00",
-    "fetched": "2026-05-23T01:23:44+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-1152x648.jpg"
-  },
-  {
-    "id": "bc330e6ce473a8e2",
-    "title": "Джордж Рассел виграв кваліфікацію спринту Гран-прі Канади",
-    "summary": "Формула-1 повернулась після тритижневої павзи.",
-    "url": "https://lb.ua/sport/2026/05/23/740236_dzhordzh_rassel_vigrav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-22T22:47:00+00:00",
-    "fetched": "2026-05-22T23:06:55+00:00",
-    "image": "https://i.lb.ua/news/090/18/6a10dd0699f97.jpg"
   }
 ]
