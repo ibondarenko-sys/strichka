@@ -1,5 +1,41 @@
 [
   {
+    "id": "afd9b7a71d610880",
+    "title": "У Києві та деяких областях оголосили повітряну тривогу через загрозу балістики",
+    "summary": "У Києві та регіонах України оголосили повітряну тривогу через загрозу балістичних ударів з Брянська.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038096/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-06T22:13:00+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/a/843730/eab6fb033d12ce3b847912e10a710dc0.jpeg"
+  },
+  {
+    "id": "afcb2a388a8a9054",
+    "title": "У Києві авто виїхало на зустрічну смугу та зіштовхнулось із вантажівкою: є постраждалий",
+    "summary": "На проспекті Червоної Калини у Києві Audi зіткнулася з вантажівкою, водія госпіталізовано.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038095/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-06T21:49:00+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/843725/6429cc63dec94e4142ce8c6ae3c01235.jpeg"
+  },
+  {
+    "id": "24d97c0e5dd6d532",
+    "title": "Головне за суботу, 6 червня: понад 180 боєзіткнень, удар по супермаркету в Запоріжжі, успішні операції СБС",
+    "summary": "Бойові дії на Донеччині, 183 бойових зіткнення, ворожі обстріли. Яким запам’ятається 1564-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/06/06/743576_golovne_subotu_6_chervnya_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-06T20:59:00+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
+    "image": "https://i.lb.ua/news/013/14/6a248f848e742.jpg"
+  },
+  {
     "id": "9a11b90b27ccdfca",
     "title": "Anthropic закликав скоординовано сповільнити розвиток ШІ через ризики його самовдосконалення без участі людини",
     "summary": "Самовдосконалення штучного інтелекту відбувається швидше, ніж очікували. Це несе серйозні ризики втрати людського контролю.",
@@ -10,6 +46,18 @@
     "published": "2026-06-06T20:56:00+00:00",
     "fetched": "2026-06-06T21:09:23+00:00",
     "image": "https://i.lb.ua/news/048/41/6a2487384867e.jpg"
+  },
+  {
+    "id": "577b42bb774a3c4f",
+    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+    "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
+    "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-06T20:53:07+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-1152x648-1780778332.jpg"
   },
   {
     "id": "fb1dbefd2e4ed3b3",
@@ -48,6 +96,18 @@
     "image": "https://i.lb.ua/news/096/48/6a24856cc0fd9.jpg"
   },
   {
+    "id": "e7bae175014294f3",
+    "title": "New U.S. college grads now have higher unemployment than the average worker",
+    "summary": "Article URL: https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/ Comments URL: https://news.ycombinator.com/item?id=48428763 Points: 40 # Comments: 15",
+    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-06T20:35:40+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
+    "image": "https://www.randalolson.com/assets/2026/06/recent-grad-unemployment-flip.png"
+  },
+  {
     "id": "19fa16d4844af3fb",
     "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
     "summary": "Article URL: https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/ Comments URL: https://news.ycombinator.com/item?id=48428647 Points: 4 # Comments: 0",
@@ -82,6 +142,18 @@
     "published": "2026-06-06T20:19:00+00:00",
     "fetched": "2026-06-06T21:09:23+00:00",
     "image": "https://i.lb.ua/news/087/19/6a247bf6368f1.jpg"
+  },
+  {
+    "id": "ef097a3596373266",
+    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+    "summary": "Article URL: https://ataraxy-labs.github.io/sem/ Comments URL: https://news.ycombinator.com/item?id=48428475 Points: 11 # Comments: 3",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-06T20:03:55+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
+    "image": null
   },
   {
     "id": "c24f255ad9019dba",
@@ -369,6 +441,18 @@
     "lang": "uk",
     "published": "2026-06-06T17:56:00+00:00",
     "fetched": "2026-06-06T18:10:57+00:00",
+    "image": "https://i.lb.ua/news/114/05/6a245f4bb6981.jpg"
+  },
+  {
+    "id": "d84a5cb29b30e2fe",
+    "title": "WSJ: попри санкції, соратники Путіна літають на західних приватних літаках",
+    "summary": "Схема обходу санкцій працює через посередників.",
+    "url": "https://lb.ua/news/2026/06/06/743554_wsj_popri_sanktsiyi_soratniki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-06T17:56:00+00:00",
+    "fetched": "2026-06-06T22:37:34+00:00",
     "image": "https://i.lb.ua/news/114/05/6a245f4bb6981.jpg"
   },
   {
@@ -39418,137 +39502,5 @@
     "published": "2026-05-23T22:41:11+00:00",
     "fetched": "2026-05-23T23:34:38+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-23-at-6.30.34PM.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ae63669dc094f79d",
-    "title": "Don't Roll Your Own",
-    "summary": "Article URL: https://susam.net/do-not-roll-your-own.html Comments URL: https://news.ycombinator.com/item?id=48252192 Points: 23 # Comments: 9",
-    "url": "https://susam.net/do-not-roll-your-own.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T22:25:05+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": null
-  },
-  {
-    "id": "eabc56ad58df4880",
-    "title": "Byrne's Euclid",
-    "summary": "Article URL: https://www.c82.net/euclid/ Comments URL: https://news.ycombinator.com/item?id=48252146 Points: 4 # Comments: 1",
-    "url": "https://www.c82.net/euclid/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T22:19:36+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": null
-  },
-  {
-    "id": "f791e849b9f20ec5",
-    "title": "Росі атакує Київ ракетами",
-    "summary": "",
-    "url": "https://lb.ua/society/2026/05/24/740402_rosi_atakuie_kiyiv_raketami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T22:19:00+00:00",
-    "fetched": "2026-05-23T22:28:58+00:00",
-    "image": "https://i.lb.ua/news/049/54/6a12284105c0a.jpg"
-  },
-  {
-    "id": "7a9c1104e3ed1de1",
-    "title": "Росія атакує Київ і різні області ракетами й дронами",
-    "summary": "Повітряні сили попередили в Telegram про загрозу пуску балістичної ракети середньої дальності – “Орешнік”.",
-    "url": "https://lb.ua/society/2026/05/24/740402_rosiya_atakuie_kiyiv_rizni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T22:19:00+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://i.lb.ua/news/040/07/6a12302818476.jpg"
-  },
-  {
-    "id": "2f0935499a929b65",
-    "title": "Росія атакувала Київ ракетами й дронами. Численні пошкодження, є потерпілі",
-    "summary": "Повітряні сили попередили в Telegram про загрозу пуску балістичної ракети середньої дальності – “Орешнік”.",
-    "url": "https://lb.ua/society/2026/05/24/740402_rosiya_atakuvala_kiyiv_raketami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T22:19:00+00:00",
-    "fetched": "2026-05-24T04:06:31+00:00",
-    "image": "https://i.lb.ua/news/106/33/6a126af4210f9.jpg"
-  },
-  {
-    "id": "964bb812c481914f",
-    "title": "CA declares state of emergency as fire crews race to contain toxic chemical leak",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go Comments URL: https://news.ycombinator.com/item?id=48252060 Points: 52 # Comments: 26",
-    "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T22:09:05+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "id": "8c626b8612e810b0",
-    "title": "Markdown Is Not LaTeX",
-    "summary": "Article URL: https://www.iconoclasts.blog/joe/markdown-is-not-latex Comments URL: https://news.ycombinator.com/item?id=48252007 Points: 7 # Comments: 0",
-    "url": "https://www.iconoclasts.blog/joe/markdown-is-not-latex",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T22:04:01+00:00",
-    "fetched": "2026-05-23T22:28:58+00:00",
-    "image": "https://www.iconoclasts.blog/joe/markdown-is-not-latex.page/microsoft"
-  },
-  {
-    "id": "c9f2a48ac366d742",
-    "title": "Росія атакує Київ балістикою: у місті пролунала низка вибухів",
-    "summary": "Російські війська завдають удару по Києву балістичними ракетами, у столиці пролунала серія потужних вибухів.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036132/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T22:01:00+00:00",
-    "fetched": "2026-05-23T22:28:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/4/834859/e4f654d0c6e4aecc2fe1e3af0e40384e.jpeg"
-  },
-  {
-    "id": "a5f3ee55ffcdfca6",
-    "title": "Повітряні сили попереджають про загрозу \"Орєшніка\"",
-    "summary": "Повітряні сили ЗСУ попередили про загрозу застосування балістичної ракети середньої дальності \"Орєшнік\" на тлі масштабної повітряної тривоги по всій країні.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036131/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T21:51:00+00:00",
-    "fetched": "2026-05-23T22:28:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/834844/0efad6be6bb6453eda1ea639191042ba.jpeg"
-  },
-  {
-    "id": "ddfeff9297bdb2ea",
-    "title": "По всій Україні оголосили тривогу через МіГ-31К, росіяни атакували \"Кинджалами\"",
-    "summary": "В Україні оголосили масштабну повітряну тривогу через зліт російського винищувача МіГ-31К, який є носієм аеробалістичних ракет \"Кинджал\".",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036130/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T21:32:00+00:00",
-    "fetched": "2026-05-23T22:28:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/834840/5416727dc48b585dde67964842233e69.jpeg"
-  },
-  {
-    "id": "4eb93a9560f43c01",
-    "title": "Франція заборонила в'їзд міністру нацбезпеки Ізраїлю та ініціює санкції на рівні ЄС",
-    "summary": "Франція з 23 травня заборонила в'їзд міністрові національної безпеки Ізраїлю Ітамару Бен-Гвіру та виступила за запровадження проти нього санкцій на рівні Європейського Союзу.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036129/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T21:14:00+00:00",
-    "fetched": "2026-05-23T22:28:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/834839/76006f42d2ead1eb5f7e164c97cb5cf5.jpeg"
   }
 ]
