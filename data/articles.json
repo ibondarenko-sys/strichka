@@ -1,5 +1,101 @@
 [
   {
+    "id": "aca87e9df88b58f6",
+    "title": "Головне за неділю, 7 червня: майже 200 боєзіткнень, атаки на вибухотехніків на Харківщині, Зеленський у Лондоні",
+    "summary": "Бойові дії на Донеччині, 196 бойових зіткнення, ворожі обстріли, удари по об'єктах паливної інфраструктури РФ у Криму, Абрамович у Києві, парламентські вибори у Вірменії. Яким запам’ятається 1565-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/06/07/743734_golovne_nedilyu_7_chervnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T20:58:00+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://i.lb.ua/news/014/38/6a25df6006568.jpg"
+  },
+  {
+    "id": "7ff8a2636a6b9069",
+    "title": "Flock license plate reader wrongly linked a San Diego man to a violent crime",
+    "summary": "Article URL: https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/ Comments URL: https://news.ycombinator.com/item?id=48438421 Points: 7 # Comments: 0",
+    "url": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T20:52:11+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://timesofsandiego.com/wp-content/uploads/2026/06/flock-alfa-romeo.png"
+  },
+  {
+    "id": "babdc7a0fb293a39",
+    "title": "В аеропорту Сочі колапс через атаки безпілотників – соцмережі",
+    "summary": "З 5 червня аеропорт Сочі працює з перебоями через атаки дронів. Пасажири не можуть вилетіти вже кілька днів.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038203/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T20:44:00+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/844543/2534d3d57a1a4862a448becb303da59e.jpeg"
+  },
+  {
+    "id": "9e6a20793321f9ca",
+    "title": "The architecture of the internet creates risks for democracy",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/science.aei2409 Comments URL: https://news.ycombinator.com/item?id=48438212 Points: 21 # Comments: 17",
+    "url": "https://www.science.org/doi/10.1126/science.aei2409",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T20:28:19+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": null
+  },
+  {
+    "id": "d2731be3eb478859",
+    "title": "У Лондоні завершилася зустріч Зеленського з трьома лідерами – ЗМІ",
+    "summary": "У Лондоні завершилася зустріч президента Володимира Зеленського із лідерами Британії, Франції та Німеччини.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038202/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T20:27:00+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/844526/9c2493985e40df1e6f19b9339d2da254.jpeg"
+  },
+  {
+    "id": "1cd78a4c59021407",
+    "title": "Містечко в Німеччині може обрати першого мера-неонациста",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038201/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T20:24:00+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/2/2/226212b-9d293866-242f-483b-b545-0d09c67d9cdc.jpg"
+  },
+  {
+    "id": "4211042074db3db5",
+    "title": "Екскомандувач ОК \"Схід\" Братішко став начальником управління військового співробітництва ЗСУ",
+    "summary": "Дмитро Братішко став начальником Головного управління військового співробітництва ЗСУ.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038200/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T20:08:00+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/2/844506/32a695748cb871fe7de947cf1a80a11f.jpeg"
+  },
+  {
+    "id": "4a9fbd24c3bf141a",
+    "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+    "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+    "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T19:55:49+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed85/live/bc540b70-62a0-11f1-b682-cf91850925ea.jpg"
+  },
+  {
     "id": "cd40113f8ceacff9",
     "title": "Керівництво Одеського СІЗО відсторонили після відео зі знущаннями над ув’язненим",
     "summary": "Розпочато службову перевірку.",
@@ -10,6 +106,18 @@
     "published": "2026-06-07T19:55:00+00:00",
     "fetched": "2026-06-07T19:55:56+00:00",
     "image": "https://i.lb.ua/news/068/03/6a25cc3d2b56b.jpg"
+  },
+  {
+    "id": "4d97b7de2b3157b5",
+    "title": "Генштаб: На фронті відбулося майже 200 боїв, Гуляйпільський напрямок – найактивніший",
+    "summary": "Від початку доби на фронті 196 бойових зіткнень, на Гуляйпільському напрямку відбулося 28 атак ворога.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038199/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T19:52:00+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/8/844503/981f977c0cf1ed095139c831eff09005.jpeg"
   },
   {
     "id": "b7eaa3f13c3fdca8",
@@ -34,6 +142,18 @@
     "published": "2026-06-07T19:37:00+00:00",
     "fetched": "2026-06-07T19:55:56+00:00",
     "image": "https://i.lb.ua/news/009/47/6a25c80a7b2ed.jpg"
+  },
+  {
+    "id": "6924e2191035c1d2",
+    "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+    "summary": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scene",
+    "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T19:34:05+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/giles-TOP-1152x648.jpg"
   },
   {
     "id": "33795a1604b20dd4",
@@ -82,6 +202,18 @@
     "published": "2026-06-07T19:01:37+00:00",
     "fetched": "2026-06-07T19:55:58+00:00",
     "image": "https://media.performance.dev/cdn-cgi/image/width=1200,height=630,quality=100,fit=cover,format=auto/posts/p_gAMR6Z7y49Fp/7gJn0_MsDnp7.png"
+  },
+  {
+    "id": "f94411610becf5ec",
+    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+    "summary": "Article URL: https://arxiv.org/abs/2605.31514 Comments URL: https://news.ycombinator.com/item?id=48437568 Points: 14 # Comments: 7",
+    "url": "https://arxiv.org/abs/2605.31514",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T18:54:55+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
     "id": "ee74fbe4428c7991",
@@ -202,6 +334,18 @@
     "published": "2026-06-07T18:15:47+00:00",
     "fetched": "2026-06-07T19:55:58+00:00",
     "image": "https://i0.wp.com/nik.art/wp-content/uploads/2020/04/new-profile.jpg?fit=2250%2C1700&ssl=1"
+  },
+  {
+    "id": "ec1283f27ddaa8a5",
+    "title": "The complete IPv4 address space, mapped",
+    "summary": "Article URL: https://worldip.io/ Comments URL: https://news.ycombinator.com/item?id=48437279 Points: 17 # Comments: 6",
+    "url": "https://worldip.io/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T18:14:11+00:00",
+    "fetched": "2026-06-07T21:19:33+00:00",
+    "image": "https://worldip.io/og/"
   },
   {
     "id": "17157b57405c809c",
@@ -39322,77 +39466,5 @@
     "published": "2026-05-24T21:30:13+00:00",
     "fetched": "2026-05-25T09:12:20+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6e/live/5649ddc0-57b3-11f1-96df-91543f9dfe88.jpg"
-  },
-  {
-    "id": "8011b292f83fd060",
-    "title": "118-ту бригаду ЗСУ внесли до Книги рекордів України за оборону Малої Токмачки",
-    "summary": "Військовослужбовці 118-ї окремої механізованої бригади встановили національний рекорд у категорії \"Військова стійкість та оборона\" за безперервне утримання села Мала Токмачка Запорізької області протягом понад 1500 днів.",
-    "url": "https://www.pravda.com.ua/news/2026/05/25/8036248/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T21:11:00+00:00",
-    "fetched": "2026-05-24T22:30:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/835455/0866b64904f3e64d36a58772df6c4056.jpeg"
-  },
-  {
-    "id": "6b6c09e16f3853ab",
-    "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-    "summary": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
-    "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-24T21:02:08+00:00",
-    "fetched": "2026-05-24T22:30:46+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "id": "47922a9e44994476",
-    "title": "Головне за неділю, 24 травня: наслідки ракетної атаки на Київ, понад 170 боєзіткнень, вибух авто в Одесі",
-    "summary": "Бойові дії на Донеччині, 173 бойові зіткнення, ворожі обстріли, затримання мародера у столиці. Яким запам’ятається 1551-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/05/24/740592_golovne_nedilyu_24_travnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T20:58:00+00:00",
-    "fetched": "2026-05-24T22:30:46+00:00",
-    "image": "https://i.lb.ua/news/066/26/6a136ec06852e.jpg"
-  },
-  {
-    "id": "cfc107cc7333cc39",
-    "title": "У Харкові військовий у СЗЧ влаштував стрілянину біля багатоповерхівки",
-    "summary": "У Харкові чоловік відкрив стрілянину біля багатоповерхівки, його затримали. Постраждалих немає, триває розслідування.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036241/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T20:44:00+00:00",
-    "fetched": "2026-05-24T21:02:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/835445/5f0165055c6d1c1827e14cc286121c93.jpeg"
-  },
-  {
-    "id": "d27015854b68ba45",
-    "title": "Президент Фінляндії розповів, коли може бути відкритий кордон з РФ",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036240/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T20:31:00+00:00",
-    "fetched": "2026-05-24T21:02:29+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/a/8/a8c02e0-ap25176267185848.jpg"
-  },
-  {
-    "id": "eca4da5871ac3856",
-    "title": "Нацкомісія у справах ЮНЕСКО: РФ має відповісти за культурний геноцид",
-    "summary": "Нацкомісія ЮНЕСКО назвала масований удар РФ по Києву культурним геноцидом і вимагає притягнення агресора до відповідальності.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036239/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T20:04:00+00:00",
-    "fetched": "2026-05-24T21:02:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/835422/c4d4bdeeb1bb101ab405b38e6b48e274.jpeg"
   }
 ]
