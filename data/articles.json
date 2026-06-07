@@ -1,5 +1,101 @@
 [
   {
+    "id": "0c32c236ad912a3c",
+    "title": "Зеленський розкрив подробиці зустрічі з лідерами Франції, Британії та Німеччини",
+    "summary": "Зеленський зустрівся з лідерами Європи: говорили про фронт, дипломатію та підтримку України.",
+    "url": "https://www.pravda.com.ua/news/2026/06/08/8038207/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T22:35:00+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/0/844566/0064d08fc1075eb8bcd011f8ff5b61d6.jpeg"
+  },
+  {
+    "id": "71fff84a8020b116",
+    "title": "У Києві та низці областей оголошували тривогу через загрозу дронів",
+    "summary": "У Києві та областях оголошували повітряну тривогу через загрозу російських дронів. Мешканців просять йти до укриттів.",
+    "url": "https://www.pravda.com.ua/news/2026/06/08/8038206/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T22:29:00+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/844565/805451031604971c71d1a2908b040166.jpeg"
+  },
+  {
+    "id": "7a6116562c03dc82",
+    "title": "NASA will wear high-tech Prada long johns to the Moon",
+    "summary": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear underneath it when Artemis IV returns humans to the Moon in…",
+    "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T22:16:41+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Axiom-Space_Prada_LCVG-Reveal_02.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6ec5030e04a27ad9",
+    "title": "Palestinian baby shot dead by Israeli troops",
+    "summary": "Article URL: https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank Comments URL: https://news.ycombinator.com/item?id=48439124 Points: 17 # Comments: 0",
+    "url": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T22:15:19+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://i.guim.co.uk/img/media/7b1502f4737fba2035091024af186e1793036a8a/582_0_5802_4644/master/5802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93fd09876f8d66039acbd075e4c5a205"
+  },
+  {
+    "id": "65aacd6614879347",
+    "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+    "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+    "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T22:02:31+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c67/live/15750f70-5594-11f1-ae6c-1b75cc68e68c.jpg"
+  },
+  {
+    "id": "050b4a4c157058d4",
+    "title": "Іран вдарив по Ізраїлю: Трамп закликав утриматись від відповіді",
+    "summary": "Іран завдав ракетного удару по Ізраїлю, Трамп просить не відповідати. США та Іран близькі до угоди щодо припинення війни.",
+    "url": "https://www.pravda.com.ua/news/2026/06/08/8038205/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T21:41:00+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/5/844564/f5a05d03332830e1bdcfd9165a0b425d.jpeg"
+  },
+  {
+    "id": "0f2df8f5ac761130",
+    "title": "VibeOS: First ever AI-native operating system",
+    "summary": "Article URL: https://vibeos.sh/ Comments URL: https://news.ycombinator.com/item?id=48438754 Points: 5 # Comments: 1",
+    "url": "https://vibeos.sh/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T21:29:21+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": null
+  },
+  {
+    "id": "bacf614ad2755f7a",
+    "title": "Лідери України, Британії, Франції та Німеччини визначили 5 умов для стійкого миру",
+    "summary": "Європейські лідери й Зеленський у Лондоні назвали 5 умов для справедливого миру та участь Європи у врегулюванні війни.",
+    "url": "https://www.pravda.com.ua/news/2026/06/08/8038204/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T21:17:00+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/3/844563/13b9c7d77c80b3fb94da2302f25a9b30.jpeg"
+  },
+  {
     "id": "aca87e9df88b58f6",
     "title": "Головне за неділю, 7 червня: майже 200 боєзіткнень, атаки на вибухотехніків на Харківщині, Зеленський у Лондоні",
     "summary": "Бойові дії на Донеччині, 196 бойових зіткнення, ворожі обстріли, удари по об'єктах паливної інфраструктури РФ у Криму, Абрамович у Києві, парламентські вибори у Вірменії. Яким запам’ятається 1565-й день повномасштабної війни.",
@@ -120,6 +216,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/8/844503/981f977c0cf1ed095139c831eff09005.jpeg"
   },
   {
+    "id": "ce07aa7bf92fcc1c",
+    "title": "Why isn't the U.S. better at soccer?",
+    "summary": "Article URL: https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer Comments URL: https://news.ycombinator.com/item?id=48437848 Points: 40 # Comments: 85",
+    "url": "https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T19:41:20+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!-M0f!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a50f2e4-1f55-4570-a1e0-add3a882942b_1200x772.jpeg"
+  },
+  {
     "id": "b7eaa3f13c3fdca8",
     "title": "Зеленський заявив, що погодився б заморозити лінію зіткнення: Це найшвидший шлях",
     "summary": "Зеленський заявив про готовність зафіксувати лінію зіткнення та перейти до дипломатії, але війна має не повернутися.",
@@ -142,6 +250,18 @@
     "published": "2026-06-07T19:37:00+00:00",
     "fetched": "2026-06-07T19:55:56+00:00",
     "image": "https://i.lb.ua/news/009/47/6a25c80a7b2ed.jpg"
+  },
+  {
+    "id": "aed2e163751eee54",
+    "title": "Iran says staff blocked from entering US after players given World Cup visas",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cy8286nqz87o Comments URL: https://news.ycombinator.com/item?id=48437814 Points: 6 # Comments: 0",
+    "url": "https://www.bbc.com/news/articles/cy8286nqz87o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T19:35:44+00:00",
+    "fetched": "2026-06-07T22:38:49+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/de59/live/4501e9e0-614f-11f1-89a3-d1f559421220.jpg"
   },
   {
     "id": "6924e2191035c1d2",
@@ -39430,41 +39550,5 @@
     "published": "2026-05-24T23:11:00+00:00",
     "fetched": "2026-05-25T00:04:56+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/835459/a198701636274a9d5cdc1110d1621c7e.jpeg"
-  },
-  {
-    "id": "6da97c94d73a79fb",
-    "title": "San Francisco immigration court shuts down after purge of judges",
-    "summary": "Article URL: https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a Comments URL: https://news.ycombinator.com/item?id=48261543 Points: 14 # Comments: 0",
-    "url": "https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-24T22:12:48+00:00",
-    "fetched": "2026-05-25T00:04:57+00:00",
-    "image": "https://dims.apnews.com/dims4/default/2805edc/2147483647/strip/true/crop/6170x4111+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F93%2F82e7d89a20be97766ce654508bd8%2F0714281e2d3542679edc21470ec6f459"
-  },
-  {
-    "id": "f30afb4b0763d367",
-    "title": "Британія заблокувала план НАТО щодо надання Україні додаткової військової допомоги – ЗМІ",
-    "summary": "Велика Британія, Франція, Іспанія, Італія та Канада заблокували ініціативу генерального секретаря НАТО Марка Рютте щодо виділення членами Альянсу 0,25% свого ВВП на військову допомогу Україні.",
-    "url": "https://www.pravda.com.ua/news/2026/05/25/8036250/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T22:12:00+00:00",
-    "fetched": "2026-05-24T22:30:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/f/835458/1fb290fe93d51ef224a5d929197ebe45.jpeg"
-  },
-  {
-    "id": "a6c868febdf4d4e3",
-    "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-    "summary": "Pilots on board had to use a different navigation system while the plane's GPS was disabled.",
-    "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-24T21:30:13+00:00",
-    "fetched": "2026-05-25T09:12:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6e/live/5649ddc0-57b3-11f1-96df-91543f9dfe88.jpg"
   }
 ]
