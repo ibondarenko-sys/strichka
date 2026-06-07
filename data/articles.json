@@ -1,5 +1,41 @@
 [
   {
+    "id": "aa4b9085d9f76b4a",
+    "title": "DoD Officially Drops 180 Faiths from Military's Recognized Religion List",
+    "summary": "Article URL: https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list Comments URL: https://news.ycombinator.com/item?id=48430212 Points: 10 # Comments: 4",
+    "url": "https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-06T23:37:20+00:00",
+    "fetched": "2026-06-07T00:09:20+00:00",
+    "image": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2026/06/ap25344582937584.jpg?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "8ccd2937fe6c06f8",
+    "title": "ЗМІ: Зеленський 7 червня зустрінеться з Макроном, Стармером та Мерцом",
+    "summary": "7 червня Зеленський проведе переговори з Макроном, Мерцом і Стармером щодо припинення війни.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038098/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-06T23:30:00+00:00",
+    "fetched": "2026-06-07T00:09:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/843737/62aee98622b730ab4bff621fa30f033a.jpeg"
+  },
+  {
+    "id": "85045147e3cface9",
+    "title": "У Китаї оголосили про початок морської спецоперації біля Тайваню",
+    "summary": "Китай посилив патрулі біля Тайваню у відповідь на переговори Японії та Філіппін щодо морських зон.",
+    "url": "https://www.pravda.com.ua/news/2026/06/07/8038097/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-06T22:53:00+00:00",
+    "fetched": "2026-06-07T00:09:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/843736/0a67766724f2d7faba512a30756e1f79.jpeg"
+  },
+  {
     "id": "afd9b7a71d610880",
     "title": "У Києві та деяких областях оголосили повітряну тривогу через загрозу балістики",
     "summary": "У Києві та регіонах України оголосили повітряну тривогу через загрозу балістичних ударів з Брянська.",
@@ -802,6 +838,18 @@
     "published": "2026-06-06T14:59:43+00:00",
     "fetched": "2026-06-06T16:41:32+00:00",
     "image": null
+  },
+  {
+    "id": "af663a41b189b94f",
+    "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+    "summary": "Article URL: https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down Comments URL: https://news.ycombinator.com/item?id=48425611 Points: 43 # Comments: 14",
+    "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-06T14:43:53+00:00",
+    "fetched": "2026-06-07T00:09:21+00:00",
+    "image": "https://helios-i.mashable.com/imagery/articles/04pNrBBhcbeOIgvgoXU72gn/hero-image.fill.size_1200x675.v1780680965.jpg"
   },
   {
     "id": "d6b683ec75c28eec",
@@ -39382,125 +39430,5 @@
     "published": "2026-05-24T00:16:14+00:00",
     "fetched": "2026-05-24T04:06:32+00:00",
     "image": "https://developer.chrome.com/static/blog/declarative-partial-updates/image/thumbnail.png"
-  },
-  {
-    "id": "78d8ab3de8d3f670",
-    "title": "Біля Білого дому сталася стрілянина, агенти Секретної служби застрелили нападника",
-    "summary": "У суботу ввечері біля контрольно-пропускного пункту поблизу Білого дому невідомий відкрив вогонь по офіцерах Секретної служби США. Унаслідок стрілянини нападник загинув, також важкі поранення отримав випадковий перехожий.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036139/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T23:48:00+00:00",
-    "fetched": "2026-05-24T04:06:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/834882/783dd910ed63404949104d5df5150ec2.jpeg"
-  },
-  {
-    "id": "69168a2da2cb051c",
-    "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
-    "summary": "Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning Comments URL: https://news.ycombinator.com/item?id=48252720 Points: 104 # Comments: 26",
-    "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T23:39:43+00:00",
-    "fetched": "2026-05-24T04:06:32+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!Stcm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb22e7dca-a011-4721-aded-1e0da26b470e_1900x1214.png"
-  },
-  {
-    "id": "97017129d8aa2c87",
-    "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-    "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-    "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-23T23:34:33+00:00",
-    "fetched": "2026-05-24T04:06:31+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg"
-  },
-  {
-    "id": "b63fd96fff1e9e23",
-    "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-    "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-    "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-23T23:24:03+00:00",
-    "fetched": "2026-05-24T04:06:31+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f545/live/50de57c0-56c9-11f1-89a3-d1f559421220.png"
-  },
-  {
-    "id": "b5461476cff19f40",
-    "title": "Трамп заявив про узгодження мирної угоди з Іраном та анонсував відкриття Ормузької протоки",
-    "summary": "Президент США Дональд Трамп заявив, що меморандум про взаєморозуміння щодо мирної угоди з Іраном здебільшого узгоджений і передбачає відкриття Ормузької протоки.",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036137/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T23:23:00+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/834878/5c18b7bb0e8f8903d9b339945af37653.jpeg"
-  },
-  {
-    "id": "6f9d0590cd339caf",
-    "title": "Олександр Усик переміг Ріко Верховена технічним нокаутом в одинадцятому раунді",
-    "summary": "Ювілейна перемога українця.",
-    "url": "https://lb.ua/sport/2026/05/24/740404_oleksandr_usik_peremig_riko.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T23:16:00+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://i.lb.ua/news/105/33/6a1235de52fc1.jpg"
-  },
-  {
-    "id": "cba350a20fb7ec9b",
-    "title": "My I3-Emacs Integration",
-    "summary": "Article URL: https://khz.ac/software/i3-integration.html Comments URL: https://news.ycombinator.com/item?id=48252535 Points: 40 # Comments: 7",
-    "url": "https://khz.ac/software/i3-integration.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T23:13:42+00:00",
-    "fetched": "2026-05-24T04:06:32+00:00",
-    "image": null
-  },
-  {
-    "id": "ef3700874594cc51",
-    "title": "Bun.Image",
-    "summary": "Article URL: https://bun.com/docs/runtime/image Comments URL: https://news.ycombinator.com/item?id=48252442 Points: 8 # Comments: 0",
-    "url": "https://bun.com/docs/runtime/image",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T22:57:51+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://bun-1dd33a4e.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DUtilities%26appearance%3Dsystem%26title%3DImage%26description%3DDecode%252C%2Btransform%252C%2Band%2Bencode%2Bimages%2Bwith%2Ba%2Bfast%2Bnative%2Bpipeline%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fbun-1dd33a4e%252FJUhaF6Mf68z_zHyy%252Flogo%252Flogo-with-wordmark-dark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DJUhaF6Mf68z_zHyy%2526q%253D85%2526s%253D3f55cd23822028e40658b192c927f3e4%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fbun-1dd33a4e%252FJUhaF6Mf68z_zHyy%252Flogo%252Flogo-with-wordmark-light.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DJUhaF6Mf68z_zHyy%2526q%253D85%2526s%253D8a0c5928d9dc3631f0d33e17c257e2ec%26primaryColor%3D%2523ff73a8%26lightColor%3D%2523ff73a8%26darkColor%3D%2523ff73a8%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0b0e&w=1200&q=100"
-  },
-  {
-    "id": "d0563d6e0e45f5b1",
-    "title": "Росія вдарила \"Орєшніком\" по Білій Церкві – соцмережі",
-    "summary": "Росія, ймовірно, завдала удару по місту Біла Церква, що на Київщині, балістичною ракетою середньої дальності \"Орєшнік\".",
-    "url": "https://www.pravda.com.ua/news/2026/05/24/8036135/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-23T22:54:00+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/3/834874/63bb378fcfc310321e32da48dd29d8e1.jpeg"
-  },
-  {
-    "id": "68834566b7be94c0",
-    "title": "Record Club is trying to be Letterboxd for music nerds",
-    "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and…",
-    "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-23T22:41:11+00:00",
-    "fetched": "2026-05-23T23:34:38+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-23-at-6.30.34PM.png?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
