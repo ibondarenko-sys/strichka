@@ -1,5 +1,77 @@
 [
   {
+    "id": "411abcfaa56ea086",
+    "title": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
+    "summary": "The China-North Korea relationship has been strained by a fall in trade during the pandemic and Pyongyang’s increasing ties with Russia Xi Jinping visits North Korea on Monday for a two-day trip, his first in nearly seven years, as China’s president looks to revitalise ties with…",
+    "url": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T23:21:27+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://i.guim.co.uk/img/media/e2ba55eafec6e38e0d89b455f1a0cd1766e6172a/419_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=c485a6f7d08ec624b376b8a55a7aa823"
+  },
+  {
+    "id": "a9b7b97b13ead11d",
+    "title": "Росіяни вдарили по Харкову дронами: є влучання",
+    "summary": "Вночі 8 червня росіяни атакували Харків дронами. Щонайменше шість влучань у Холодногірському районі, інформація уточнюється.",
+    "url": "https://www.pravda.com.ua/news/2026/06/08/8038208/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-07T23:21:00+00:00",
+    "fetched": "2026-06-08T00:14:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/4/844567/a44bd418cad6fdfc732ebef70e24e31b.jpeg"
+  },
+  {
+    "id": "484438cca3da9fa4",
+    "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+    "summary": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
+    "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T23:03:23+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd0/live/251e9ba0-60eb-11f1-92fe-5faf9b4f0321.jpg"
+  },
+  {
+    "id": "ec4847336d2125b3",
+    "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+    "summary": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+    "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T23:01:04+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/0fc580a0-5fe4-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "id": "00273a553f9ab20b",
+    "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+    "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
+    "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T23:00:27+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5caf/live/02106910-60d0-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "id": "0a326ab6dc70b294",
+    "title": "Firefox Merges Support for Vulkan Video Decoding",
+    "summary": "Article URL: https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged Comments URL: https://news.ycombinator.com/item?id=48439348 Points: 20 # Comments: 1",
+    "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T22:41:36+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=vulkan_video_firefox"
+  },
+  {
     "id": "0c32c236ad912a3c",
     "title": "Зеленський розкрив подробиці зустрічі з лідерами Франції, Британії та Німеччини",
     "summary": "Зеленський зустрівся з лідерами Європи: говорили про фронт, дипломатію та підтримку України.",
@@ -58,6 +130,18 @@
     "published": "2026-06-07T22:02:31+00:00",
     "fetched": "2026-06-07T22:38:49+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c67/live/15750f70-5594-11f1-ae6c-1b75cc68e68c.jpg"
+  },
+  {
+    "id": "7a94be44ae1eb23c",
+    "title": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
+    "summary": "A grandfather, a survivor, a witness: one year after the crash, the people on the ground tell their stories.",
+    "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T22:01:06+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc9/live/286878a0-60ad-11f1-8b8c-6d33e1d5abb6.jpg"
   },
   {
     "id": "050b4a4c157058d4",
@@ -154,6 +238,18 @@
     "published": "2026-06-07T20:27:00+00:00",
     "fetched": "2026-06-07T21:19:33+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/844526/9c2493985e40df1e6f19b9339d2da254.jpeg"
+  },
+  {
+    "id": "1077bf409197620e",
+    "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+    "summary": "nightwatch is a local-first, read-only layer on top of your monitoring. it groups alert storm into incidents, flags noisy checks and has an agent that can investigate for you live systems. You can e.g. jump from the incident into the agent directly. the reason for this weekend…",
+    "url": "https://github.com/ninoxAI/nightwatch",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-07T20:24:36+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://repository-images.githubusercontent.com/1259765994/e218d7d0-6d64-412a-9b38-5315634081c1"
   },
   {
     "id": "1cd78a4c59021407",
@@ -502,6 +598,18 @@
     "published": "2026-06-07T18:00:41+00:00",
     "fetched": "2026-06-07T18:08:20+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-07-at-10.56.47AM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "eacb40d4484e17c0",
+    "title": "Mexico City attempts record-breaking wave",
+    "summary": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
+    "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-07T17:53:32+00:00",
+    "fetched": "2026-06-08T00:14:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ccc/live/d6f26050-628f-11f1-8b8c-6d33e1d5abb6.jpg"
   },
   {
     "id": "f00332c12ef82660",
@@ -39538,17 +39646,5 @@
     "published": "2026-05-25T00:48:00+00:00",
     "fetched": "2026-05-25T05:06:15+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/835461/769d7123431a36b2d99d0552ca225e34.jpeg"
-  },
-  {
-    "id": "4c278b816798977a",
-    "title": "Росія заглушила GPS-сигнал літака з міністром оборони Британії поблизу свого кордону – BBC",
-    "summary": "РФ заглушила GPS-сигнал літака Королівських військово-повітряних сил Великої Британії, на борту якого перебував британський міністр оборони Джон Гілі, під час польоту поблизу російського кордону.",
-    "url": "https://www.pravda.com.ua/news/2026/05/25/8036251/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-24T23:11:00+00:00",
-    "fetched": "2026-05-25T00:04:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/835459/a198701636274a9d5cdc1110d1621c7e.jpeg"
   }
 ]
