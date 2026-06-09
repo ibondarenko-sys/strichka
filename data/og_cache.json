@@ -1,8 +1,6 @@
 {
-  "2536ad648035d5df": "https://images.prismic.io/blog-system76/ahYEhLK9tuLqEKg5_carl-blog.jpg?auto=format,compress&rect=640,0,2560,1280&w=1200&h=600",
   "aa3374d48abde2c1": "https://www.niemanlab.org/wordpress/wp-content/themes/Labby/resources/twitter-logo-for-nieman-lab.jpg",
   "38f2640fc7fe77e1": "https://www.seangoedecke.com/og-image.jpg",
-  "065dde36f3ebbe07": "https://developers.cloudflare.com/dev-products-preview.png",
   "90fda096547ab5b2": null,
   "91532f3b52fa74cf": null,
   "73e72f8dd1807c64": "https://img.eurointegration.com.ua/images/doc/a/b/abf0e0c---.jpg",
@@ -879,5 +877,8 @@
   "08eaa49755f88806": null,
   "72c96364b22532a3": null,
   "68510718f157ea2f": "https://opengraph.githubassets.com/df4f95647b8799772004c39c3b4c341dca627e09a0e45b29652b529170a21043/signalblur/exifsmugglingpoc",
-  "0874c427cad0af62": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png"
+  "0874c427cad0af62": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+  "6d23a11b34e8109a": "https://blog.oscars.dev/meta-img.png",
+  "58e6df0b5c473118": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FD27WVO2XDJAEHOWKQ6TJOQPPQ4.jpeg?auth=2e4f37cd59c787d39bb15d0628a2ff2e25c7f752019775f52a29bbd30beb7ded&width=1200&height=630&smart=true",
+  "7ac4f9b49d9b205a": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/grit.webp"
 }

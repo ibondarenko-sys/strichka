@@ -1,5 +1,125 @@
 [
   {
+    "id": "84b0122b43d7b7bb",
+    "title": "Білий дім закликав Британію відмовитися від заборони соцмереж для дітей",
+    "summary": "У Вашингтоні не хочуть, щоб постраждали інтереси американських технокомпаній.",
+    "url": "https://lb.ua/world/2026/06/10/744222_biliy_dim_zaklikav_britaniyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T23:35:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://i.lb.ua/news/020/13/6a28a353a46f0.jpg"
+  },
+  {
+    "id": "c5abe4fe8547b6cd",
+    "title": "Ворожі дрони влучили у житлові будинки в Одесі",
+    "summary": "У ніч на середу, 10 червня, Одеса зазнала чергової атаки ворога, внаслідок чого зафіксовані влучання у два житлові будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/06/10/8038573/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T23:32:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/846102/22fbcd29a0200f21fe7eb4bede9f979b.jpeg"
+  },
+  {
+    "id": "b88864ebcd905724",
+    "title": "В окупованому Криму низка потягів не курсуватиме вночі",
+    "summary": "В окупованому Криму низка потягів перестане курсувати вночі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/10/8038572/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T23:06:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/846100/f8c44d368401ac72e4dd0f44f5eaa547.jpeg"
+  },
+  {
+    "id": "466898b95cc189c0",
+    "title": "У Белфасті виникли масові вуличні заворушення на тлі нападу мігранта на місцевого жителя",
+    "summary": "Чоловік із Судану намагався ножем перерізати голову британцю.",
+    "url": "https://lb.ua/world/2026/06/10/744220_belfasti_vinikli_masovi_vulichni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T22:50:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://i.lb.ua/news/045/57/6a289901474f7.jpg"
+  },
+  {
+    "id": "58e6df0b5c473118",
+    "title": "AI misidentification results in wrongful arrest; man seeks justice",
+    "summary": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 19 # Comments: 5",
+    "url": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T22:37:49+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FD27WVO2XDJAEHOWKQ6TJOQPPQ4.jpeg?auth=2e4f37cd59c787d39bb15d0628a2ff2e25c7f752019775f52a29bbd30beb7ded&width=1200&height=630&smart=true"
+  },
+  {
+    "id": "6d23a11b34e8109a",
+    "title": "RIP software hackathons. Long live the hardware hackathon",
+    "summary": "Article URL: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/ Comments URL: https://news.ycombinator.com/item?id=48468766 Points: 6 # Comments: 1",
+    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T22:35:57+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://blog.oscars.dev/meta-img.png"
+  },
+  {
+    "id": "a70d6b5e6f021695",
+    "title": "КВІР заявив про запущені безпілотники і ракети \"в бік американських об’єктів\"",
+    "summary": "Після заяв США про удари за збитий вертоліт КВІР заявив про запущені ракети і дрони у бік американських цілей.",
+    "url": "https://www.pravda.com.ua/news/2026/06/10/8038571/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T22:24:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/4/846101/4485b4e792c842ebda3011abff71a79b.jpeg"
+  },
+  {
+    "id": "10f5b74a89af82f7",
+    "title": "У NASA оголосили склад експедиції Artemis III, яка проведе репетицію висадки на Місяць",
+    "summary": "Четверо астронавтів не стануть тими, хто зійде на поверхню супутника, але усе ретельно перевірять.",
+    "url": "https://lb.ua/world/2026/06/10/744218_nasa_ogolosili_sklad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T22:17:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://i.lb.ua/news/001/36/6a289164df225.jpg"
+  },
+  {
+    "id": "e13b1995ed7867db",
+    "title": "Справу про вбивство українки в США відклали через психічну недієздатність підозрюваного",
+    "summary": "Його відправили до медичного закладу для чотиримісячного лікування.",
+    "url": "https://lb.ua/society/2026/06/10/744216_spravu_pro_vbivstvo_ukrayinki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-09T22:10:00+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://i.lb.ua/news/106/26/6a288fd1a735e.jpg"
+  },
+  {
+    "id": "76be383e3c045049",
+    "title": "World's largest chipmaker does not rule out price rises as costs increase",
+    "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+    "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-09T22:00:24+00:00",
+    "fetched": "2026-06-09T23:52:22+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg"
+  },
+  {
     "id": "6def5ba1d0608973",
     "title": "США розпочали завдавати удари по Ірану у відповідь на збиття гелікоптера",
     "summary": "В Центральному командуванні США назвали удари \"самообороною\".",
@@ -144,6 +264,18 @@
     "image": "https://opengraph.githubassets.com/df4f95647b8799772004c39c3b4c341dca627e09a0e45b29652b529170a21043/signalblur/exifsmugglingpoc"
   },
   {
+    "id": "01759fca53af27ad",
+    "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+    "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T21:05:39+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg"
+  },
+  {
     "id": "b1d2faf67fdac300",
     "title": "Гідрометцентр: в середу в Україні прогнозується тепла погода, місцями дощ та шквали",
     "summary": "Температура повітря підніметься до +31°.",
@@ -192,6 +324,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "d67a87154920fe0f",
+    "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+    "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+    "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T20:56:52+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
+  },
+  {
     "id": "08eaa49755f88806",
     "title": "Alpine Linux 3.24.0 Released",
     "summary": "Article URL: https://alpinelinux.org/posts/Alpine-3.24.0-released.html Comments URL: https://news.ycombinator.com/item?id=48467570 Points: 62 # Comments: 9",
@@ -228,6 +372,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2a/live/f8ece660-52a2-11f0-a2ff-17a82c2e8bc4.jpg"
   },
   {
+    "id": "05e82b31070a144e",
+    "title": "Three key vital signs make up the \"urban pulse\" of a city",
+    "summary": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
+    "url": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T20:35:22+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg"
+  },
+  {
     "id": "f4d2ad11eebcd01b",
     "title": "Туск очікує Зеленського на конференції з відновлення України у Гданську",
     "summary": "",
@@ -238,6 +394,18 @@
     "published": "2026-06-09T20:29:00+00:00",
     "fetched": "2026-06-09T22:07:47+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/3/b/3b52f12-pap-20260529-072.jpg"
+  },
+  {
+    "id": "6681e344cdbaf429",
+    "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+    "summary": "Five peer-reviewed papers update the design and model its expected output.",
+    "url": "https://arstechnica.com/science/2026/06/__trashed-19/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T20:25:56+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg"
   },
   {
     "id": "a49dd2c601e94ef6",
@@ -274,6 +442,18 @@
     "published": "2026-06-09T20:15:45+00:00",
     "fetched": "2026-06-09T22:07:48+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584.jpg"
+  },
+  {
+    "id": "7ac4f9b49d9b205a",
+    "title": "Grit: Rewriting Git in Rust with Agents",
+    "summary": "Article URL: https://blog.gitbutler.com/true-grit Comments URL: https://news.ycombinator.com/item?id=48466812 Points: 50 # Comments: 32",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-09T19:58:21+00:00",
+    "fetched": "2026-06-09T23:52:23+00:00",
+    "image": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/grit.webp"
   },
   {
     "id": "ce83377be7222dba",
@@ -41014,113 +41194,5 @@
     "published": "2026-05-27T00:03:04+00:00",
     "fetched": "2026-05-27T04:57:03+00:00",
     "image": null
-  },
-  {
-    "id": "2ccfc91d6633e922",
-    "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
-    "summary": "The spy agency's head will set out threats facing the UK and the measures she believes need to be taken to confront them on Wednesday.",
-    "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-26T23:42:16+00:00",
-    "fetched": "2026-05-27T04:57:03+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0118/live/10a379f0-5954-11f1-a6fa-11d400c73a39.jpg"
-  },
-  {
-    "id": "065dde36f3ebbe07",
-    "title": "Cloudflare Flagship",
-    "summary": "Article URL: https://developers.cloudflare.com/flagship/ Comments URL: https://news.ycombinator.com/item?id=48287468 Points: 130 # Comments: 63",
-    "url": "https://developers.cloudflare.com/flagship/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-26T23:36:06+00:00",
-    "fetched": "2026-05-27T04:57:03+00:00",
-    "image": "https://developers.cloudflare.com/dev-products-preview.png"
-  },
-  {
-    "id": "e0c98d84cfa1e31c",
-    "title": "Небензя в ООН назвав умови для угоди з Україною",
-    "summary": "Росія вимагає розв'язати питання членства України в НАТО перед укладанням миру — заява Небензі в ООН.",
-    "url": "https://www.pravda.com.ua/news/2026/05/27/8036562/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-26T23:28:00+00:00",
-    "fetched": "2026-05-27T00:12:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/836928/019d34ef0c715b4e3e4affb37d3f6fba.jpeg"
-  },
-  {
-    "id": "1aa83465d21beeb1",
-    "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-    "summary": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
-    "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-26T23:15:47+00:00",
-    "fetched": "2026-05-27T04:57:03+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cebd/live/892a4c70-595c-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-    "id": "423931557293396e",
-    "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
-    "summary": "Israel says it was targeting a Hamas commander whose predecessor was killed in a similar strike earlier in May.",
-    "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-26T22:50:46+00:00",
-    "fetched": "2026-05-27T04:57:03+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-    "id": "2536ad648035d5df",
-    "title": "Colorado and California Exempt Open Source from Age Attestation",
-    "summary": "Article URL: https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation Comments URL: https://news.ycombinator.com/item?id=48287007 Points: 6 # Comments: 0",
-    "url": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-26T22:42:59+00:00",
-    "fetched": "2026-05-27T00:12:37+00:00",
-    "image": "https://images.prismic.io/blog-system76/ahYEhLK9tuLqEKg5_carl-blog.jpg?auto=format,compress&rect=640,0,2560,1280&w=1200&h=600"
-  },
-  {
-    "id": "990c2f5aa0f76510",
-    "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-    "summary": "Parsing a papal proclamation.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-26T22:27:32+00:00",
-    "fetched": "2026-05-26T22:50:09+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg"
-  },
-  {
-    "id": "92feb55b85088014",
-    "title": "NASA’s permanent Moon base plans start with three missions this year",
-    "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA says are \"the first of more than a dozen missions that will be…",
-    "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-26T22:24:53+00:00",
-    "fetched": "2026-05-26T22:50:09+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ltv-concept-nasa.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ebd19d1cd18d5144",
-    "title": "У Харкові пошкоджений паркан приватного будинка через падіння уламків дронів РФ",
-    "summary": "У Немишлянському районі Харкова уламки БПЛА пошкодили паркан. Жертв та постраждалих немає.",
-    "url": "https://www.pravda.com.ua/news/2026/05/27/8036561/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-26T22:11:00+00:00",
-    "fetched": "2026-05-26T22:50:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/d/836927/cd9940ff09c1d20cc6954df24ea8cbe2.jpeg"
   }
 ]
