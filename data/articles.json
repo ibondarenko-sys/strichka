@@ -1,5 +1,125 @@
 [
   {
+    "id": "fe7752b9ed01bf83",
+    "title": "SpaceX встановила ціну історичного IPO: компанію оцінили в рекордні $1,77 трлн",
+    "summary": "Аерокосмічна компанія SpaceX Ілона Маска встановила ціну найбільшого в історії США первинного публічного розміщення акцій (IPO) на рівні 135 доларів за штуку, залучивши рекордні 75 мільярдів доларів та отримавши загальну оцінку в 1,77 трильйона доларів.",
+    "url": "https://www.pravda.com.ua/news/2026/06/12/8038928/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-11T23:53:00+00:00",
+    "fetched": "2026-06-12T00:04:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/847748/2bbda93821897011e036200966dbaeb6.jpeg"
+  },
+  {
+    "id": "b04f32a9c91d8a27",
+    "title": "Biological Evolution and Information Acquisition",
+    "summary": "Article URL: https://www.construction-physics.com/p/biological-evolution-and-information Comments URL: https://news.ycombinator.com/item?id=48497873 Points: 3 # Comments: 0",
+    "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-11T23:33:17+00:00",
+    "fetched": "2026-06-12T00:04:20+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!v8fH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46bf94ca-109b-4884-aaac-4e04fafb2dd2_989x446.png"
+  },
+  {
+    "id": "5a12447d7278a4f5",
+    "title": "Цифри на траві у Вашингтоні розглядають як смертельну погрозу Трампу",
+    "summary": "На Національній алеї з'явилося величезне число 8647.",
+    "url": "https://lb.ua/world/2026/06/12/744690_tsifri_travi_vashingtoni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-11T23:29:00+00:00",
+    "fetched": "2026-06-12T00:04:19+00:00",
+    "image": "https://i.lb.ua/news/077/47/6a2b44bfe8fb5.jpg"
+  },
+  {
+    "id": "157a5d590bd2f020",
+    "title": "Американські законодавці схвалили збільшення безпекової допомоги Україні до $750 млн",
+    "summary": "Комітет Сенату США зі збройних сил проголосував за продовження безпекової допомоги Україні та збільшення затвердженого фінансування до 750 мільйонів доларів у межах оборонного бюджету.",
+    "url": "https://www.pravda.com.ua/news/2026/06/12/8038927/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-11T23:17:00+00:00",
+    "fetched": "2026-06-12T00:04:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/3/847747/d3c985d7c1ec6e153c5ae459e4a4cfcd.jpeg"
+  },
+  {
+    "id": "6563db6bf842b7f6",
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "summary": "Article URL: https://tombedor.dev/human-attention-and-human-effort/ Comments URL: https://news.ycombinator.com/item?id=48497609 Points: 109 # Comments: 12",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-11T23:01:55+00:00",
+    "fetched": "2026-06-12T00:04:20+00:00",
+    "image": "https://tombedor.dev/img/icon-1024.png"
+  },
+  {
+    "id": "468279bd381597de",
+    "title": "This Jacket Pulls Drinking Water from Thin Air",
+    "summary": "Article URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/ Comments URL: https://news.ycombinator.com/item?id=48497576 Points: 4 # Comments: 0",
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-11T22:59:22+00:00",
+    "fetched": "2026-06-12T00:04:20+00:00",
+    "image": "https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg"
+  },
+  {
+    "id": "51834342308f466d",
+    "title": "У Нідерландах авто збило групу школярів, загинули троє дітей і вчитель",
+    "summary": "Учні на велосипедах брали участь у роботі шкільного табору.",
+    "url": "https://lb.ua/world/2026/06/12/744688_niderlandah_avto_zbilo_grupu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-11T22:50:00+00:00",
+    "fetched": "2026-06-12T00:04:19+00:00",
+    "image": "https://i.lb.ua/news/036/13/6a2b3a2bad819.jpg"
+  },
+  {
+    "id": "619e474e6f5c861a",
+    "title": "Новим міністром оборони Великої Британії став Ден Джарвіс",
+    "summary": "Кір Стармер оголосив Дена Джарвіса новим міністром оборони після відставки Джона Гілі через суперечки щодо бюджету.",
+    "url": "https://www.pravda.com.ua/news/2026/06/12/8038926/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-11T22:33:00+00:00",
+    "fetched": "2026-06-12T00:04:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/847746/7ac90e9eeb16770f6f3ddfe429c47fda.jpeg"
+  },
+  {
+    "id": "0d22a55f8c47b734",
+    "title": "Трамп визначився з кандидатом на посаду голови національної розвідки США",
+    "summary": "Посада дістанеться юристу, який раніше вже був в адміністрації республіканця.",
+    "url": "https://lb.ua/world/2026/06/12/744686_tramp_viznachivsya_z_kandidatom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-11T22:20:00+00:00",
+    "fetched": "2026-06-12T00:04:19+00:00",
+    "image": "https://i.lb.ua/news/061/16/6a2b354e7e2a9.jpg"
+  },
+  {
+    "id": "1139bfdcfa371ca0",
+    "title": "The unreasonable effectiveness of simple HTML (2021)",
+    "summary": "Article URL: https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/ Comments URL: https://news.ycombinator.com/item?id=48497168 Points: 52 # Comments: 10",
+    "url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-11T22:17:08+00:00",
+    "fetched": "2026-06-12T00:04:20+00:00",
+    "image": "https://shkspr.mobi/blog/wp-content/uploads/2018/01/HTML5_Badge_512.png"
+  },
+  {
     "id": "b2f3ed14d6da07a8",
     "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
     "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the software it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more…",
@@ -156,6 +276,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/847735/a1d5743c29bbffa2ec904d8a75d6ab77.jpeg"
   },
   {
+    "id": "e8395cb985c7a19d",
+    "title": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
+    "summary": "I'm a network engineer that likes to think about the future of the internet and this is what I've built over many nights and weekends. One reputation graph over IPs, ASNs, domains, and entities, exposed as a JSON API. Try it: curl https://api.tunnelmind.ai/v1/check/1.1.1.1 Every…",
+    "url": "https://tunnelmind.ai/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-11T20:27:59+00:00",
+    "fetched": "2026-06-12T00:04:20+00:00",
+    "image": "https://tunnelmind.ai/og.png"
+  },
+  {
     "id": "d1bdf99791e07a79",
     "title": "Російські війська атакували безпілотником Суми: є пошкодження багатоповерхівки",
     "summary": "Увечері 11 червня російська армія атакувала безпілотником стіну багатоповерхового житлового будинку в Зарічному районі Сум.",
@@ -178,6 +310,18 @@
     "published": "2026-06-11T20:23:00+00:00",
     "fetched": "2026-06-11T22:08:11+00:00",
     "image": "https://i.lb.ua/news/125/14/6a2b1947bc0b3.jpg"
+  },
+  {
+    "id": "2fbabbd5dda01317",
+    "title": "I stopped tracking my time. Now I can't focus",
+    "summary": "Article URL: https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i Comments URL: https://news.ycombinator.com/item?id=48495818 Points: 50 # Comments: 53",
+    "url": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-11T20:14:33+00:00",
+    "fetched": "2026-06-12T00:04:20+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!d4YU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ea448c5-97c0-4030-9454-62d5c7f16b94_4288x2848.jpeg"
   },
   {
     "id": "08c0f38ebadd577c",
@@ -40774,89 +40918,5 @@
     "published": "2026-05-29T00:09:35+00:00",
     "fetched": "2026-05-29T04:07:44+00:00",
     "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png"
-  },
-  {
-    "id": "481cbceb4ca6eb2c",
-    "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
-    "summary": "As temperatures peak, Delhi’s informal workers continue working despite growing health risks.",
-    "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-28T23:56:50+00:00",
-    "fetched": "2026-05-29T08:25:01+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f915/live/41c99840-5a6a-11f1-b296-afc06a328c73.jpg"
-  },
-  {
-    "id": "2eaf3d2ab829a3d4",
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/ Comments URL: https://news.ycombinator.com/item?id=48317093 Points: 126 # Comments: 62",
-    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-28T23:42:47+00:00",
-    "fetched": "2026-05-29T04:07:44+00:00",
-    "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG"
-  },
-  {
-    "id": "6ea7a2c0963e82c1",
-    "title": "У російському Волгограді горить НПЗ після атаки дронів – пабліки",
-    "summary": "Російські пабліки нарахували 10 атаку на НПЗ в російському Волгограді.",
-    "url": "https://www.pravda.com.ua/news/2026/05/29/8036853/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-28T23:38:00+00:00",
-    "fetched": "2026-05-29T04:07:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/0/838051/f018a7bcb221a76de3c7b4bebc2fbb95.jpeg"
-  },
-  {
-    "id": "6d33322dac8ab660",
-    "title": "Garnix (A Nix CI) is shutting down",
-    "summary": "Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895 Comments URL: https://news.ycombinator.com/item?id=48317043 Points: 38 # Comments: 16",
-    "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-28T23:36:41+00:00",
-    "fetched": "2026-05-29T04:07:44+00:00",
-    "image": "https://discourse.nixos.org/uploads/default/original/3X/8/9/8958de03bb1d244fada1053258875e6d4bb18156.png"
-  },
-  {
-    "id": "4f88db8a6bc4cb5a",
-    "title": "The Silent Critic",
-    "summary": "Article URL: https://www.tft.io/the-silent-critic/ Comments URL: https://news.ycombinator.com/item?id=48316958 Points: 12 # Comments: 7",
-    "url": "https://www.tft.io/the-silent-critic/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-28T23:25:51+00:00",
-    "fetched": "2026-05-29T04:07:44+00:00",
-    "image": "https://www.tft.io/images/og/the-silent-critic.png"
-  },
-  {
-    "id": "885a97c1a3e9706a",
-    "title": "Україна в ООН попередила про ризик \"подальшого втягнення Білорусі\" у війну",
-    "summary": "Постійний представник України при ООН Андрій Мельник попередив про ризик посилення втягування Білорусі у війну Росії проти України і закликав посилити санкційний тиск на Москву й Мінськ.",
-    "url": "https://www.pravda.com.ua/news/2026/05/29/8036852/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-28T23:24:00+00:00",
-    "fetched": "2026-05-28T23:37:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/3/838049/1341eda53f0f1040e60c691556cad58a.jpeg"
-  },
-  {
-    "id": "5637c644b3477eb4",
-    "title": "Мельник закликав удесятеро збільшити допомогу Україні у сфері ППО через посилення ударів Росії",
-    "summary": "Постпред України при ООН закликав партнерів удесятеро збільшити допомогу українській ППО через посилення ударів Росії.",
-    "url": "https://www.pravda.com.ua/news/2026/05/29/8036851/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-28T22:54:00+00:00",
-    "fetched": "2026-05-28T23:37:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/a/838048/6a9f50893f4eb765ea03e8c81bb9a7f9.jpeg"
   }
 ]
