@@ -1,5 +1,89 @@
 [
   {
+    "id": "52f69ed1634e6a12",
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report,…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T21:39:26+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "54c25f9d75c89502",
+    "title": "Сенсація в Каліфорнії. Катар уникнув поразки в матчі проти Швейцарії на ЧС-2026",
+    "summary": "Катарці відзначилися на п’ятій доданій до основного часу хвилині.",
+    "url": "https://lb.ua/sport/2026/06/14/745140_sensatsiya_kaliforniyi_katar.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T21:16:00+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://i.lb.ua/news/090/05/6a2dc9b83b219.jpg"
+  },
+  {
+    "id": "5c4fab0ff4c6f467",
+    "title": "Головне за суботу, 13 червня: майже 180 боєзіткнень, авіаудар по Слов'янську, маніпуляції про \"біолабораторії\" в Україні",
+    "summary": "Бойові дії на Донеччині, 179 бойових зіткнень, ворожі обстріли, санкції щодо десяти російських мобільних операторів та інтернет-провайдерів. Яким запам’ятається 1570-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/06/13/745142_golovne_subotu_13_chervnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T20:59:00+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://i.lb.ua/news/024/45/6a2dcb729044e.jpg"
+  },
+  {
+    "id": "920db9d9795364e7",
+    "title": "У КиївЗоо облаштували новий простір для левових тамаринів – уже в зоні для відвідувачів",
+    "summary": "Зграя адаптувалась до життя у КиївЗоо та збільшилась.",
+    "url": "https://lb.ua/kyiv/2026/06/13/745138_kiyivzoo_oblashtuvali_noviy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T20:52:00+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://i.lb.ua/news/015/39/6a2dc1fcad35f.jpg"
+  },
+  {
+    "id": "29a8cb4108f664dc",
+    "title": "«Хоробрий вепр»: Литва, Польща та Франція проведуть військові навчання поблизу Сувальського коридору",
+    "summary": "Зокрема, під час навчань удосконалюватимуть навички захисту Сувальського коридору.",
+    "url": "https://lb.ua/world/2026/06/13/745136_horobriy_vepr_litva_polscha.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T20:29:00+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://i.lb.ua/news/119/20/6a2dbb72a81e1.jpg"
+  },
+  {
+    "id": "06bdb7e10f4fa3e9",
+    "title": "У РФ продаж бензину вже обмежують у Татарстані, Москві та Санкт-Петербурзі – ЗМІ",
+    "summary": "Татарстан і найбільші АЗС Москви й Петербурга обмежили продаж бензину через дефіцит пального після ударів ЗСУ.",
+    "url": "https://www.pravda.com.ua/news/2026/06/13/8039196/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T20:25:00+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/849014/d0e258edf74e1e8b64c61da2d655e664.jpeg"
+  },
+  {
+    "id": "06d73e677fdaed5d",
+    "title": "У неділю в Україні очікуються короткочасні дощі, місцями грози",
+    "summary": "Температура вдень до 26 градусів тепла.",
+    "url": "https://lb.ua/society/2026/06/13/745134_nedilyu_ukrayini_ochikuyutsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T20:11:00+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://i.lb.ua/news/000/35/6a2db97ee0fd6.jpg"
+  },
+  {
     "id": "2c3e6fc1d2c474bd",
     "title": "X-Men ’97 has what Master of the Universe is missing",
     "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of…",
@@ -10,6 +94,18 @@
     "published": "2026-06-13T20:00:00+00:00",
     "fetched": "2026-06-13T20:03:33+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X-MEN97S2-trailer-0180_203.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1cb48a760b1c4ff7",
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 60 # Comments: 12",
+    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T19:54:55+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": null
   },
   {
     "id": "0c39743cb9211194",
@@ -106,6 +202,18 @@
     "published": "2026-06-13T18:37:21+00:00",
     "fetched": "2026-06-13T20:03:33+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ha.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "abf63f1f2959c73a",
+    "title": "What Happens to an Economy When It's Too Hot to Work?",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers Comments URL: https://news.ycombinator.com/item?id=48520110 Points: 49 # Comments: 19",
+    "url": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T18:35:15+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": null
   },
   {
     "id": "f0e02cb7e4a49f13",
@@ -324,6 +432,18 @@
     "image": null
   },
   {
+    "id": "12d6598f6f00acd0",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "summary": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic... Comments URL: https://news.ycombinator.com/item?id=48519092 Points: 362 # Comments: 283",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T16:57:49+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": null
+  },
+  {
     "id": "025e51008e638cbb",
     "title": "The adder at the heart of Intel's 8087 floating-point chip",
     "summary": "Article URL: https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html Comments URL: https://news.ycombinator.com/item?id=48519011 Points: 21 # Comments: 2",
@@ -442,6 +562,18 @@
     "published": "2026-06-13T16:18:31+00:00",
     "fetched": "2026-06-13T18:17:39+00:00",
     "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/cluster-share-cards/154ee890-ca35-4d87-87f3-3fac9adbffee/1781374369756.png"
+  },
+  {
+    "id": "9b8bac1fd57c7d18",
+    "title": "GLM 5.2 Is Out",
+    "summary": "https://digg.com/tech/ii9xibgn Comments URL: https://news.ycombinator.com/item?id=48518684 Points: 208 # Comments: 93",
+    "url": "https://twitter.com/jietang/status/2065784751345287314",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T16:18:31+00:00",
+    "fetched": "2026-06-13T21:47:03+00:00",
+    "image": "https://pbs.twimg.com/profile_images/2969848274/9650ac94b38c2872eecea8a7dfa376ef_200x200.jpeg"
   },
   {
     "id": "cc20db721297ac86",
@@ -40942,209 +41074,5 @@
     "published": "2026-05-30T21:48:00+00:00",
     "fetched": "2026-05-30T22:32:09+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/837901/cf9a9966590547cae77efe00478fcdc2.jpeg?w=1200&q=85&stamp=1779978489"
-  },
-  {
-    "id": "09e17ad4e68a9be2",
-    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-    "summary": "Article URL: https://av2.aomedia.org Comments URL: https://news.ycombinator.com/item?id=48340910 Points: 94 # Comments: 15",
-    "url": "https://av2.aomedia.org",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T21:46:18+00:00",
-    "fetched": "2026-05-31T05:05:06+00:00",
-    "image": null
-  },
-  {
-    "id": "7a98f75a0a8268f1",
-    "title": "США планують прискорити виведення своїх військ із Європи – ЗМІ",
-    "summary": "США планують прискорити виведення своїх військових із баз у Європі та представлять відповідні пропозиції союзникам по НАТО вже у червні.",
-    "url": "https://www.pravda.com.ua/news/2026/05/31/8037105/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T21:39:00+00:00",
-    "fetched": "2026-05-30T22:32:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/3/839203/e350c22fc40bb7d236ffe6ac63d061e7.jpeg"
-  },
-  {
-    "id": "1cc37ba5276ad5bd",
-    "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-    "summary": "Article URL: https://arxiv.org/abs/2605.29135 Comments URL: https://news.ycombinator.com/item?id=48340616 Points: 28 # Comments: 4",
-    "url": "https://arxiv.org/abs/2605.29135",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T21:05:40+00:00",
-    "fetched": "2026-05-31T05:05:06+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "4078cee3dbdff152",
-    "title": "Головне за суботу, 30 травня: понад 230 боєзіткнень, удари по Запоріжжю, загроза масованої атаки",
-    "summary": "Бойові дії на Донеччині, 232 бойових зіткнення, ворожі обстріли, ситуація навколо ЗАЕС, \"нарада чотирьох\". Яким запам’ятається 1557-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/05/30/741960_golovne_subotu_30_travnya_ponad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:59:00+00:00",
-    "fetched": "2026-05-30T22:32:08+00:00",
-    "image": "https://i.lb.ua/news/055/42/6a1b52cd69ef5.jpg"
-  },
-  {
-    "id": "f03418b7bbd5ad16",
-    "title": "'It's like a decaying body': Australian farmers battle mouse plague",
-    "summary": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
-    "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-30T20:58:05+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e112/live/4565aa80-5b09-11f1-8f67-b1eb7a0ac68a.jpg"
-  },
-  {
-    "id": "cab0c9babb12e91f",
-    "title": "У Канаді колишній кухар визнав провину у продажі через інтернет летальних речовин для бажаючих накласти на себе руки",
-    "summary": "Вирок йому мають оголосити у вересні.",
-    "url": "https://lb.ua/world/2026/05/30/741958_kanadi_kolishniy_kuhar_viznav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:52:00+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://i.lb.ua/news/083/33/6a1b4af92b456.jpg"
-  },
-  {
-    "id": "0091ce17ce4fe2dd",
-    "title": "МЗС України закликає не давати Росії місця у Раді керуючих МАГАТЕ",
-    "summary": "Україна просить МАГАТЕ не підтримувати Росію: РФ маніпулює фактами щодо ЗАЕС напередодні засідання Ради керуючих.",
-    "url": "https://www.pravda.com.ua/news/2026/05/30/8037104/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:52:00+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/5/839195/752a6b991850d1bdf537154dd4445a7d.jpeg"
-  },
-  {
-    "id": "85b982b1dd9dfd4b",
-    "title": "Design Engineering Magazine",
-    "summary": "Article URL: https://interfaces.dev/ Comments URL: https://news.ycombinator.com/item?id=48340448 Points: 11 # Comments: 1",
-    "url": "https://interfaces.dev/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T20:46:54+00:00",
-    "fetched": "2026-05-30T22:32:09+00:00",
-    "image": "https://ho1jr3x2dcwdu3t5.public.blob.vercel-storage.com/interfaces-og-image.png"
-  },
-  {
-    "id": "97dcf1ecb1955520",
-    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-    "summary": "Article URL: https://github.com/wolfSSL/wolfCOSE Comments URL: https://news.ycombinator.com/item?id=48340422 Points: 18 # Comments: 0",
-    "url": "https://github.com/wolfSSL/wolfCOSE",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T20:42:28+00:00",
-    "fetched": "2026-05-30T22:32:09+00:00",
-    "image": "https://opengraph.githubassets.com/50102ebd5059bad0411296b3b007248a04101f1a4e87f1d55f3616ff225f92ba/wolfSSL/wolfCOSE"
-  },
-  {
-    "id": "8688f0bb189b093a",
-    "title": "Domain expertise has always been the real moat",
-    "summary": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ Comments URL: https://news.ycombinator.com/item?id=48340411 Points: 93 # Comments: 60",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T20:40:57+00:00",
-    "fetched": "2026-05-30T22:32:09+00:00",
-    "image": null
-  },
-  {
-    "id": "d35806caeb257828",
-    "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-    "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
-    "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-30T20:40:07+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb63/live/ba67e470-5c61-11f1-aeb2-75cc9209ef5d.jpg"
-  },
-  {
-    "id": "d33005772c69696f",
-    "title": "Два батальйони Бундесверу прибули до Литви для участі у навчаннях",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/30/8037103/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:40:00+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/e/d/ed0b091-2c-d6npg.jpeg"
-  },
-  {
-    "id": "005662ea3799df89",
-    "title": "Dusklight – GC Twilight Princess Decompiled",
-    "summary": "Article URL: https://twilitrealm.dev/ Comments URL: https://news.ycombinator.com/item?id=48340262 Points: 31 # Comments: 3",
-    "url": "https://twilitrealm.dev/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T20:24:26+00:00",
-    "fetched": "2026-05-30T22:32:09+00:00",
-    "image": "https://twilitrealm.dev/preview.jpg"
-  },
-  {
-    "id": "d95c631e6ab2bb8d",
-    "title": "NYT: Трамп сумнівається, чи Венс зможе стати його політичним спадкоємцем у 2028 році",
-    "summary": "Окремим джерелом напруги стала позиція віцепрезидента Венса щодо війни з Іраном. Водночас, за даними видання, Трамп дедалі частіше висловлює симпатію до держсекретаря Марка Рубіо.",
-    "url": "https://lb.ua/news/2026/05/30/741956_nyt_tramp_sumnivaietsya_chi_vens.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:21:00+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://i.lb.ua/news/077/03/6a1b44ff664ce.jpg"
-  },
-  {
-    "id": "673190f2a3760dfe",
-    "title": "У неділю в Україні місцями дощі",
-    "summary": "Вдень на переважній більшості країни до 17 градусів тепла.",
-    "url": "https://lb.ua/society/2026/05/30/741952_nedilyu_ukrayini_mistsyami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:07:00+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://i.lb.ua/news/072/62/6a1b437d197f3.jpg"
-  },
-  {
-    "id": "9100a9e8fdbdd842",
-    "title": "ПСЖ Забарного виграв Лігу чемпіонів УЄФА",
-    "summary": "Парижани вдруге поспіль перемогли.",
-    "url": "https://lb.ua/sport/2026/05/30/741954_pszh_zabarnogo_vigrav_ligu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T20:06:00+00:00",
-    "fetched": "2026-05-30T21:05:01+00:00",
-    "image": "https://i.lb.ua/news/085/47/6a1b4507aa774.jpg"
-  },
-  {
-    "id": "0a0f3036ca09d212",
-    "title": "A disappearing Service Processor (2025)",
-    "summary": "Article URL: https://oxide.computer/blog/cosmo-sp Comments URL: https://news.ycombinator.com/item?id=48340107 Points: 3 # Comments: 0",
-    "url": "https://oxide.computer/blog/cosmo-sp",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T20:05:21+00:00",
-    "fetched": "2026-05-30T21:05:03+00:00",
-    "image": "https://oxide-computer-pp15eew1y-oxidecomputer.vercel.app/img/meta/og-blog.png"
   }
 ]
