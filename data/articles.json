@@ -1,5 +1,113 @@
 [
   {
+    "id": "ad9d9a261a820f4f",
+    "title": "Росіяни атакували безпілотниками Миколаїв, є постраждалі",
+    "summary": "Одразу після обстрілу БПЛА була оголошена балістична загроза.",
+    "url": "https://lb.ua/society/2026/06/13/744960_rosiyani_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-12T23:37:00+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://i.lb.ua/news/005/05/6a2c98c9e9b8a.jpg"
+  },
+  {
+    "id": "02d5e5b7713f937a",
+    "title": "Росіяни безпілотниками атакували Миколаїв: постраждали люди",
+    "summary": "Внаслідок удару дронів по Миколаєву поранені жінка і чоловік, постраждав 10-річний хлопчик, пошкоджено будинок.",
+    "url": "https://www.pravda.com.ua/news/2026/06/13/8039098/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-12T23:31:00+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/848596/730e08181f172164ff102e5044e06c89.jpeg"
+  },
+  {
+    "id": "9197c00832a2973b",
+    "title": "У лікарні померла 33-річна жінка, яка постраждала через удар по Сумщині 12 червня",
+    "summary": "У лікарні померла 33-річна жінка, яка постраждала від обстрілу залізничної інфраструктури в Сумській області.",
+    "url": "https://www.pravda.com.ua/news/2026/06/13/8039097/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-12T23:17:00+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/c/848595/7c11424d2d8699b1796ab222f0ab36aa.jpeg"
+  },
+  {
+    "id": "d4f3546f32f6e98c",
+    "title": "I Think They [Anthropic] Are Lying to You [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=zfYsSFY4l18 Comments URL: https://news.ycombinator.com/item?id=48510471 Points: 8 # Comments: 3",
+    "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T23:12:39+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": null
+  },
+  {
+    "id": "5dcbc09ed52ab4f6",
+    "title": "AMD Stiffs Researcher $10k Bug Bounty",
+    "summary": "Article URL: https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix Comments URL: https://news.ycombinator.com/item?id=48510357 Points: 10 # Comments: 0",
+    "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T22:57:27+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_820200656_S.jpg"
+  },
+  {
+    "id": "b76a6806ea9b1613",
+    "title": "Show HN: Putt.day a daily mini golf game",
+    "summary": "Article URL: https://putt.day/ Comments URL: https://news.ycombinator.com/item?id=48510341 Points: 27 # Comments: 21",
+    "url": "https://putt.day/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T22:56:06+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://putt.day/hero.webp"
+  },
+  {
+    "id": "1fa47499fc047188",
+    "title": "Внаслідок атаки росіян на Шостку у лікарні померла 33-річна жінка",
+    "summary": "Кількість жертв обстрілу у ніч на 12 червня зросла до двох.",
+    "url": "https://lb.ua/society/2026/06/13/744958_vnaslidok_ataki_rosiyan_shostku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-12T22:49:00+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://i.lb.ua/news/014/39/6a2c8c6b2fc3e.jpg"
+  },
+  {
+    "id": "26af9d320b434541",
+    "title": "Буданов анонсував розробку закону про спецстатус для прифронтових територій України",
+    "summary": "Створено робочу групу для розробки комплексного закону щодо прифронтових територій.",
+    "url": "https://www.pravda.com.ua/news/2026/06/13/8039096/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-12T22:47:00+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/848594/0a63322e3340aa916f678dc42e72a366.jpeg"
+  },
+  {
+    "id": "fccb96b1bffffcfc",
+    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+    "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
+    "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T22:20:06+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg"
+  },
+  {
     "id": "4cb918a3c2601b3b",
     "title": "Боксер Олександр Усик зустрівся у Білому домі з Дональдом Трампом",
     "summary": "Ймовірно, українець опинився серед запрошених на вечір MMA у день народження республіканця.",
@@ -10,6 +118,30 @@
     "published": "2026-06-12T22:16:00+00:00",
     "fetched": "2026-06-12T22:27:33+00:00",
     "image": "https://i.lb.ua/news/109/03/6a2c8559f33d5.jpg"
+  },
+  {
+    "id": "85161612a131d111",
+    "title": "Twenty One Zero-Days in FFmpeg",
+    "summary": "Article URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg Comments URL: https://news.ycombinator.com/item?id=48510046 Points: 46 # Comments: 19",
+    "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T22:13:29+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://depthfirst.com/uploads/21%20zero%20days%20in%20FFmpeg.png"
+  },
+  {
+    "id": "92dac799c2002b76",
+    "title": "Renault: Electric motors with no rare earths",
+    "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48510010 Points: 98 # Comments: 25",
+    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T22:08:03+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://assets.renaultgroup.com/uploads/2025/10/Desktop_rebond_renault_5-1024x640.jpg"
   },
   {
     "id": "623857982d421736",
@@ -34,6 +166,18 @@
     "published": "2026-06-12T22:00:00+00:00",
     "fetched": "2026-06-12T22:27:33+00:00",
     "image": "https://i.lb.ua/news/071/53/6a2c8239d1479.jpg"
+  },
+  {
+    "id": "e30f8dee0b0bb108",
+    "title": "SkillSpector",
+    "summary": "Article URL: https://github.com/NVIDIA/SkillSpector Comments URL: https://news.ycombinator.com/item?id=48509844 Points: 7 # Comments: 0",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T21:49:49+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://opengraph.githubassets.com/4a71771a98526e3bbb3cc8719d15d046ef910d1e8bb843944459d8c9e46a39ee/NVIDIA/SkillSpector"
   },
   {
     "id": "272fa1232cd25bea",
@@ -142,6 +286,18 @@
     "published": "2026-06-12T20:34:00+00:00",
     "fetched": "2026-06-12T22:27:33+00:00",
     "image": "https://i.lb.ua/news/075/15/6a2c6d67db6b3.jpg"
+  },
+  {
+    "id": "293a344334cbd9b6",
+    "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+    "summary": "Article URL: https://github.com/DanMcInerney/architect-loop Comments URL: https://news.ycombinator.com/item?id=48509133 Points: 21 # Comments: 11",
+    "url": "https://github.com/DanMcInerney/architect-loop",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-12T20:33:22+00:00",
+    "fetched": "2026-06-13T00:03:06+00:00",
+    "image": "https://opengraph.githubassets.com/ae648766fa51ba649145a312f7d026ee19f53780076cf5ffc1445556df4eecbe/DanMcInerney/architect-loop"
   },
   {
     "id": "776a05469293f07c",
@@ -41050,113 +41206,5 @@
     "published": "2026-05-30T00:23:35+00:00",
     "fetched": "2026-05-30T04:35:05+00:00",
     "image": null
-  },
-  {
-    "id": "3c2e41cfbdbf7797",
-    "title": "Ember.js 7.0",
-    "summary": "Article URL: https://blog.emberjs.com/ember-released-7-0/ Comments URL: https://news.ycombinator.com/item?id=48330902 Points: 35 # Comments: 7",
-    "url": "https://blog.emberjs.com/ember-released-7-0/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-29T23:57:45+00:00",
-    "fetched": "2026-05-30T04:35:05+00:00",
-    "image": "https://blog.emberjs.com/images/logos/e-icon.png"
-  },
-  {
-    "id": "7648073516f2aa9f",
-    "title": "What Is a Dickover?",
-    "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover Comments URL: https://news.ycombinator.com/item?id=48330882 Points: 190 # Comments: 80",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-29T23:54:22+00:00",
-    "fetched": "2026-05-30T04:35:05+00:00",
-    "image": "https://daringfireball.net/graphics/df-wide-card.png"
-  },
-  {
-    "id": "0db41b73d0f59f42",
-    "title": "У Будапешті погодили проведення ЛГБТ-прайду у червні – ЗМІ",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/05/30/8037013/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-29T23:47:00+00:00",
-    "fetched": "2026-05-30T00:12:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/838599/274ea07f4f3405cb7e48afe44d78a871.jpeg"
-  },
-  {
-    "id": "02506a2f010873b9",
-    "title": "В Естонії заявили, що обов'язковий призов для жінок – це лише питання часу",
-    "summary": "Голова Департаменту оборонних ресурсів Естонії (KRA) Ану Раннавескі заявила, що у майбутньому в країні не вистачатиме чоловіків для проходження строкової військової служби, тому запровадження обов'язкового призову для жінок є лише питанням часу.",
-    "url": "https://www.pravda.com.ua/news/2026/05/30/8037012/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-29T23:22:00+00:00",
-    "fetched": "2026-05-30T00:12:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/e/838598/bef00ff5ddcdb65367b729176120d1de.jpeg"
-  },
-  {
-    "id": "cb2eed698f61a1aa",
-    "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-    "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\"…",
-    "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-29T23:03:29+00:00",
-    "fetched": "2026-05-30T00:12:33+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "92c69e0ee91d5daa",
-    "title": "Proposed new US funding rules: We can cancel any grant at any time",
-    "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
-    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-29T22:58:29+00:00",
-    "fetched": "2026-05-30T00:12:33+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg"
-  },
-  {
-    "id": "3b77b20caa1e9021",
-    "title": "MCP is dead?",
-    "summary": "Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead Comments URL: https://news.ycombinator.com/item?id=48330436 Points: 132 # Comments: 107",
-    "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-29T22:56:49+00:00",
-    "fetched": "2026-05-30T04:35:05+00:00",
-    "image": "https://cdn.prod.website-files.com/668aa55ff9fc77f31f6cc2f0/6a0f2926a73de3ec41126467_post%20image%20b.webp"
-  },
-  {
-    "id": "972e092bc7fc9ab8",
-    "title": "Японія приєдналась до програми PURL і виділила перші $14,6 млн для України",
-    "summary": "Японія приєдналася до ініціативи PURL (Переліку пріоритетних потреб України), спрямувавши понад 14,6 мільйона доларів на закупівлю нелетального військового обладнання для потреб Сил оборони України.",
-    "url": "https://www.pravda.com.ua/news/2026/05/30/8037011/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-29T22:47:00+00:00",
-    "fetched": "2026-05-30T00:12:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/a/838597/5a17ce9d20ab94dec433ca7f477d096d.jpeg"
-  },
-  {
-    "id": "bbef0fe6f0983def",
-    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-    "summary": "Hey everyone, I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412 . It was called Privastead then and it's now renamed to Secluso. John Kaczman found my project…",
-    "url": "https://github.com/secluso/core",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-29T22:32:29+00:00",
-    "fetched": "2026-05-29T22:51:52+00:00",
-    "image": "https://repository-images.githubusercontent.com/894270616/599f4d48-21dd-4b24-954d-b1a21c690579"
   }
 ]
