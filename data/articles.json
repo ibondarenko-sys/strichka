@@ -1,5 +1,101 @@
 [
   {
+    "id": "9a9e87aac8f277f0",
+    "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+    "summary": "Article URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol Comments URL: https://news.ycombinator.com/item?id=48523203 Points: 16 # Comments: 1",
+    "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T01:10:46+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2120x1193+0+39/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2Fcf%2F4957644648c18d42045831f0bbb0%2Fgettyimages-2218762548.jpg"
+  },
+  {
+    "id": "5675b41287745c50",
+    "title": "Nigerian author accuses hospital of stalling review into her son's death",
+    "summary": "Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+    "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-14T01:08:20+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e80/live/e9ef2460-677e-11f1-9177-9b1b06fa8e36.jpg"
+  },
+  {
+    "id": "655be740904ed045",
+    "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
+    "summary": "Article URL: https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25 Comments URL: https://news.ycombinator.com/item?id=48523165 Points: 9 # Comments: 2",
+    "url": "https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T01:05:08+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://dims.apnews.com/dims4/default/bf7b18c/2147483647/strip/true/crop/4592x3060+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fdc%2F6a669d2edfbb34d0749fba38479f%2Fbbd6573159e84e33bc83a0c12f7723f3"
+  },
+  {
+    "id": "7c9bbb36425684e0",
+    "title": "Трамп і Макрон зустрінуться за вечерею після саміту G7 – ЗМІ",
+    "summary": "Дональд Трамп і Еммануель Макрон проведуть вечерю у Версалі після саміту G7 у Франції.",
+    "url": "https://www.pravda.com.ua/news/2026/06/14/8039202/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T00:37:00+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/849108/722d7b7bcdb18b9b019f9a9cafad5d88.jpeg"
+  },
+  {
+    "id": "b90255103e5d136d",
+    "title": "State Attorneys General Are Investigating OpenAI",
+    "summary": "Article URL: https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html Comments URL: https://news.ycombinator.com/item?id=48522675 Points: 30 # Comments: 3",
+    "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T23:52:19+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": null
+  },
+  {
+    "id": "60b68e9c034401cb",
+    "title": "Правоохоронці затримали в Ірпені чоловіка, який вчинив стрілянину на вулиці",
+    "summary": "В Ірпені затримали 47-річного місцевого за стрілянину по перехожих. Ніхто не постраждав.",
+    "url": "https://www.pravda.com.ua/news/2026/06/14/8039200/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-13T23:35:00+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/6/849106/16354c5e8619ecb53a7486b2c5af6350.jpeg"
+  },
+  {
+    "id": "f785cbbd81642445",
+    "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+    "summary": "Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life Comments URL: https://news.ycombinator.com/item?id=48522486 Points: 79 # Comments: 8",
+    "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T23:22:05+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=reactos_halflife_1"
+  },
+  {
+    "id": "dcb60098fa94dcfd",
+    "title": "Ancient genome duplications laid the foundations of complex brains",
+    "summary": "Article URL: https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains Comments URL: https://news.ycombinator.com/item?id=48522310 Points: 13 # Comments: 1",
+    "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T22:54:37+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": null
+  },
+  {
     "id": "137dad5bd6b4bff6",
     "title": "Аліна Михайлова: \"Чия служба цінніша?\". Рефлексія про нову реформу армії",
     "summary": "",
@@ -70,6 +166,18 @@
     "published": "2026-06-13T21:39:26+00:00",
     "fetched": "2026-06-13T21:47:03+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2ea74807720abc3d",
+    "title": "Human Routers of Machine Words",
+    "summary": "Article URL: https://borretti.me/article/human-routers-of-machine-words Comments URL: https://news.ycombinator.com/item?id=48521709 Points: 25 # Comments: 5",
+    "url": "https://borretti.me/article/human-routers-of-machine-words",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-13T21:35:24+00:00",
+    "fetched": "2026-06-14T01:55:56+00:00",
+    "image": "https://borretti.me/assets/card/human-routers-of-machine-words.webp"
   },
   {
     "id": "54c25f9d75c89502",
@@ -40954,101 +41062,5 @@
     "published": "2026-05-31T01:57:00+00:00",
     "fetched": "2026-05-31T05:05:03+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/839208/e1686be3cb0e5e0a9b0f5f33e4afbf1b.jpeg"
-  },
-  {
-    "id": "fc61521e09092f8f",
-    "title": "У Франції святкування перемоги ПСЖ у Лізі чемпіонів закінчилося масовими заворушеннями",
-    "summary": "У Франції святкування перемоги футбольного клубу ПСЖ у фіналі Ліги чемпіонів переросли в нічні погроми та сутички з правоохоронцями.",
-    "url": "https://www.pravda.com.ua/news/2026/05/31/8037109/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T01:20:00+00:00",
-    "fetched": "2026-05-31T05:05:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/3/839207/232307af5193c9a4f37b731c7f920ee8.jpeg"
-  },
-  {
-    "id": "a2437c7b47b40754",
-    "title": "На безпековому форумі в Сінгапурі ШІ назвали небезпечнішим за ядерну зброю",
-    "summary": "Учасники міжнародного безпекового форуму \"Діалог Шангрі-Ла\" у Сінгапурі заявили, що штучний інтелект (ШІ) може становити більшу загрозу для стратегічної стабільності, ніж ядерна зброя.",
-    "url": "https://www.pravda.com.ua/news/2026/05/31/8037108/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T00:29:00+00:00",
-    "fetched": "2026-05-31T05:05:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/839206/922272d4c2449b0bbda1d1d5701203c7.jpeg"
-  },
-  {
-    "id": "a96098427399ba65",
-    "title": "Mechanical Pencin: A website about the hidden engineering in everyday objects",
-    "summary": "Article URL: https://mechanical-pencil.com/ Comments URL: https://news.ycombinator.com/item?id=48341932 Points: 14 # Comments: 2",
-    "url": "https://mechanical-pencil.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T00:25:12+00:00",
-    "fetched": "2026-05-31T05:05:06+00:00",
-    "image": "https://framerusercontent.com/assets/X1q1AYi3I49IfoU4IuMZdz0yOqQ.png"
-  },
-  {
-    "id": "eb7c4e8e6621a910",
-    "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
-    "summary": "Will Grant spoke to a 70-year-old widow who says the inability to use her building's elevator during a power outage trapped her and her husband when he needed medical care.",
-    "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-31T00:11:56+00:00",
-    "fetched": "2026-05-31T10:32:34+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d6/live/db12fec0-5b81-11f1-89a3-d1f559421220.jpg"
-  },
-  {
-    "id": "6586b41d2bf87192",
-    "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-    "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026) Comments URL: https://news.ycombinator.com/item?id=48341578 Points: 14 # Comments: 1",
-    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T23:26:13+00:00",
-    "fetched": "2026-05-31T00:05:09+00:00",
-    "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png"
-  },
-  {
-    "id": "64b6752bde5d7d2f",
-    "title": "Соратники Трампа виміняли скасування санкцій США на енергетичний контракт на $1 млрд у Боснії – ЗМІ",
-    "summary": "Маловідома американська компанія AAFS Infrastructure and Energy, яка не має профільного досвіду, але тісно пов'язана з оточенням президента США Дональда Трампа, отримала контракти на суму понад 1 мільярд доларів на будівництво та експлуатацію газопроводу у Боснії і Герцеговині в…",
-    "url": "https://www.pravda.com.ua/news/2026/05/31/8037107/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-30T23:22:00+00:00",
-    "fetched": "2026-05-31T00:05:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/839205/56ff50b32f02f51fc24b9c85263e564e.jpeg"
-  },
-  {
-    "id": "83a52d3d6fd5f83d",
-    "title": "How Putin became master of the image",
-    "summary": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
-    "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-30T23:17:26+00:00",
-    "fetched": "2026-05-31T00:05:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f9e/live/3997c490-5b68-11f1-89a3-d1f559421220.jpg"
-  },
-  {
-    "id": "a15e9f6daf55ecaa",
-    "title": "Custom Errors Are Non-Negotiable in My Rust Applications",
-    "summary": "Article URL: https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications Comments URL: https://news.ycombinator.com/item?id=48341505 Points: 3 # Comments: 0",
-    "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-30T23:14:18+00:00",
-    "fetched": "2026-05-31T00:05:09+00:00",
-    "image": "https://tristonarmstrong.com/avatar.webp"
   }
 ]
