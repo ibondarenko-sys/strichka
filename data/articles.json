@@ -1,5 +1,101 @@
 [
   {
+    "id": "2bb9cb464983cb50",
+    "title": "В Італії генерал заснував ультраправу партію, яка може загрожувати перспективам Мелоні",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/06/14/8039287/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T20:51:00+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/3/d/3ded5ce-roberto-vannacci-alla-costituente-di-fn-ph-ansa.jpg"
+  },
+  {
+    "id": "8ac89a3a6ceea00b",
+    "title": "Головне за неділю, 14 червня: майже 120 боєзіткнень, удари по Путивлю, атаки на Харків та Харківщину, ювілей Трампа",
+    "summary": "Бойові дії на Донеччині, 118 бойових зіткнень, ворожі обстріли, остаточні підсумки виборів у Вірменії. Яким запам’ятається 1571-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/06/14/745296_golovne_nedilyu_14_chervnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T20:51:00+00:00",
+    "fetched": "2026-06-14T21:18:16+00:00",
+    "image": "https://i.lb.ua/news/072/14/6a2f148bad209.jpg"
+  },
+  {
+    "id": "ee1976980ec66cef",
+    "title": "The FBI built a small town to simulate cyberattacks",
+    "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store,…",
+    "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T20:35:41+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/high.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7f3701f6f0b07724",
+    "title": "Росіяни вдарили по цивільному підприємству в Харкові",
+    "summary": "Удар по Харкову: пожежа на цивільному підприємстві, житлові будинки не постраждали.",
+    "url": "https://www.pravda.com.ua/news/2026/06/14/8039286/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T20:26:00+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/849509/7a2f5a1dd6e56b52c68115287fa9160c.jpeg"
+  },
+  {
+    "id": "0de8f829258c39d6",
+    "title": "Прем'єр Албанії назвав дурнями учасників протестів проти курорту, пов'язаного з Кушнером",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/06/14/8039285/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T20:12:00+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/b/7baaf2e-5475227-2023-03-07t122345z-792423594-rc20pz9bidvj-rtrmadp-3-germany-albania-copy-ls.jpg"
+  },
+  {
+    "id": "a7aa6d2054512263",
+    "title": "ЧС-2026 з футболу: Німеччина розгромила Кюрасао з рахунком 7:1",
+    "summary": "В іншому матчі групи Е в ніч на понеділок зустрінуться Кот-д'Івуар та Еквадор.",
+    "url": "https://lb.ua/sport/2026/06/14/745294_chs-2026_z_futbolu_nimechchina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T20:03:00+00:00",
+    "fetched": "2026-06-14T21:18:16+00:00",
+    "image": "https://i.lb.ua/news/018/60/6a2f15d2af676.jpg"
+  },
+  {
+    "id": "1e0a1a3e87d41fd3",
+    "title": "В Україні у понеділок пройдуть дощі, на сході град і шквали",
+    "summary": "15 червня в Україні очікуються дощі, грози, на сході місцями град і шквали. Детальний прогноз по регіонах.",
+    "url": "https://www.pravda.com.ua/news/2026/06/14/8039283/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T19:56:00+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/849489/e13f24cb34fdfff3f50561cb0adb1a1b.jpeg"
+  },
+  {
+    "id": "5ad4e5095c731eee",
+    "title": "Protesters clash with police ahead of G7 summit in Geneva",
+    "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+    "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-14T19:46:36+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e640/live/efdb6b60-6821-11f1-8e1d-bbbb1017d210.jpg"
+  },
+  {
     "id": "376c4a4f5052ec66",
     "title": "Генштаб: На фронті відбулося 118 боїв, понад третина з них – на двох напрямках",
     "summary": "Генштаб ЗСУ: за день 118 боїв, найбільше атак на Покровському та Гуляйпільському напрямках.",
@@ -58,6 +154,18 @@
     "published": "2026-06-14T19:14:21+00:00",
     "fetched": "2026-06-14T19:51:48+00:00",
     "image": null
+  },
+  {
+    "id": "15052667fa9f70f3",
+    "title": "Yserver: A modern X11 server written in Rust",
+    "summary": "Article URL: https://github.com/joske/yserver Comments URL: https://news.ycombinator.com/item?id=48531394 Points: 28 # Comments: 8",
+    "url": "https://github.com/joske/yserver",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T19:10:35+00:00",
+    "fetched": "2026-06-14T21:18:15+00:00",
+    "image": "https://opengraph.githubassets.com/7797508d1df66a31d6ed1499bf44968681b2bea10bc4051f58774ae11043deb9/joske/yserver"
   },
   {
     "id": "8a84c589eb3bbfd7",
@@ -40810,89 +40918,5 @@
     "published": "2026-05-31T21:33:11+00:00",
     "fetched": "2026-05-31T23:05:06+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6500b419ffd5f891",
-    "title": "В Одесі дрон влучив у багатоповерхівку",
-    "summary": "За попередньою інформацією, ворожий БпЛА у неділю ввечері влучив у дев'ятиповерховий житловий будинок в Одесі.",
-    "url": "https://www.pravda.com.ua/news/2026/06/01/8037207/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T21:01:00+00:00",
-    "fetched": "2026-05-31T21:33:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/839843/716533aea79b2526487fc54377d92ebc.jpeg"
-  },
-  {
-    "id": "8fe180a35e024560",
-    "title": "Головне за неділю, 31 травня: майже 230 боєзіткнень, знищення \"Нової пошти\" у Дніпрі, удари по логістиці ворога",
-    "summary": "Бойові дії на Донеччині, 229 бойових зіткнень, ворожі обстріли. Яким запам’ятається 1558-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/05/31/742112_golovne_nedilyu_31_travnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T20:59:00+00:00",
-    "fetched": "2026-05-31T21:33:12+00:00",
-    "image": "https://i.lb.ua/news/117/29/6a1ca1e803254.jpg"
-  },
-  {
-    "id": "8a5f119b7b885211",
-    "title": "У Чернігові 40 тисяч абонентів залишилися без світла через атаку РФ",
-    "summary": "У Чернігові в неділю ввечері через ворожу атаку на енергооб'єкт 40 тисяч абонентів залишилися без електропостачання.",
-    "url": "https://www.pravda.com.ua/news/2026/05/31/8037206/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T20:43:00+00:00",
-    "fetched": "2026-05-31T21:33:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/839833/cc65620ce7b714070b36ef6dc1dbc9ae.jpeg"
-  },
-  {
-    "id": "32905284962bae53",
-    "title": "New solar desalination breakthrough makes fresh water without toxic brine",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260530053418.htm Comments URL: https://news.ycombinator.com/item?id=48349507 Points: 32 # Comments: 2",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T20:38:52+00:00",
-    "fetched": "2026-05-31T23:05:07+00:00",
-    "image": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp"
-  },
-  {
-    "id": "eb5c56210cd4e798",
-    "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
-    "summary": "Article URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration Comments URL: https://news.ycombinator.com/item?id=48349487 Points: 68 # Comments: 21",
-    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T20:35:38+00:00",
-    "fetched": "2026-05-31T23:05:07+00:00",
-    "image": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&height=4516"
-  },
-  {
-    "id": "a4b9705e2ba4c05e",
-    "title": "How to watch Nvidia’s Computex keynote",
-    "summary": "NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one is the possibility of a…",
-    "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T20:20:35+00:00",
-    "fetched": "2026-05-31T21:33:12+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/wSp6AiNIrsY-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "828336361e9d0d39",
-    "title": "Росіяни атакували цивільну інфраструктуру на Одещині",
-    "summary": "Російські війська у неділю ввечері атакували безпілотниками цивільну інфраструктуру на Одещині.",
-    "url": "https://www.pravda.com.ua/news/2026/05/31/8037205/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T20:16:00+00:00",
-    "fetched": "2026-05-31T21:33:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/839821/99f2e9cbb2feb1ccb3411b8860b62390.jpeg"
   }
 ]
