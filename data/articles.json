@@ -1,5 +1,77 @@
 [
   {
+    "id": "5ba8c3ef0c64be5c",
+    "title": "У Києві вирують пожежі через ворожу атаку",
+    "summary": "У ніч на 15 червня у Києві та області сили ППО працювали по ворожих дронах, у столиці було чути вибухи і зайнялися пожежі, зокрема й у житлових будинках, є потерпілий.",
+    "url": "https://www.pravda.com.ua/news/2026/06/15/8039291/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T22:08:00+00:00",
+    "fetched": "2026-06-14T22:43:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/849532/40d690c87476bd9202a8fe4fa7b76499.jpeg"
+  },
+  {
+    "id": "cb5d719aee21285e",
+    "title": "Росія розпочала чергову комбіновану атаку",
+    "summary": "Людей закликали перебувати в укриттях.",
+    "url": "https://lb.ua/society/2026/06/15/745298_rosiya_rozpochala_chergovu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T22:08:00+00:00",
+    "fetched": "2026-06-14T22:43:40+00:00",
+    "image": "https://i.lb.ua/news/043/54/6a2f264a31fc5.jpg"
+  },
+  {
+    "id": "ebd61a3aea6e37fc",
+    "title": "Why Is Claude Turning into an a**Hole?",
+    "summary": "Article URL: https://bramcohen.com/p/why-is-claude-turning-into-an-asshole Comments URL: https://news.ycombinator.com/item?id=48533308 Points: 46 # Comments: 32",
+    "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T22:04:01+00:00",
+    "fetched": "2026-06-14T22:43:41+00:00",
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DUAK7t3Lf8s"
+  },
+  {
+    "id": "f0c904d990559bc1",
+    "title": "Трамп заявив про угоду з Іраном і відкриття Ормузької протоки",
+    "summary": "Президент США Дональд Трамп заявив про укладення мирної угоди з Іраном та відкриття Ормузької протоки.",
+    "url": "https://www.pravda.com.ua/news/2026/06/15/8039289/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T21:40:00+00:00",
+    "fetched": "2026-06-14T22:43:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/6/849524/f634a80d5afbeb71d92d68d253df856d.jpeg"
+  },
+  {
+    "id": "f1d3d26712e1a819",
+    "title": "Прем'єр Пакистану заявив про досягнення \"мирної угоди між США та Іраном\"",
+    "summary": "Прем'єр-міністр Пакистану Шехбаз Шаріф заявив, що \"мирна угода між Сполученими Штатами Америки та Ісламською Республікою Іран досягнута\".",
+    "url": "https://www.pravda.com.ua/news/2026/06/15/8039288/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T21:26:00+00:00",
+    "fetched": "2026-06-14T22:43:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/d/849523/fd3fb110d35588f044fce1158ed9ed35.jpeg"
+  },
+  {
+    "id": "274982b3d0e0b596",
+    "title": "Abu Fanous",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Abu_Fanous Comments URL: https://news.ycombinator.com/item?id=48532722 Points: 32 # Comments: 6",
+    "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T21:06:41+00:00",
+    "fetched": "2026-06-14T22:43:41+00:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%D8%B8%D8%A7%D9%87%D8%B1%D8%A9_%D8%A3%D8%A8%D9%8A_%D9%81%D8%A7%D9%86%D9%88%D8%B3.gif"
+  },
+  {
     "id": "2bb9cb464983cb50",
     "title": "В Італії генерал заснував ультраправу партію, яка може загрожувати перспективам Мелоні",
     "summary": "",
@@ -46,6 +118,30 @@
     "published": "2026-06-14T20:26:00+00:00",
     "fetched": "2026-06-14T21:18:15+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/849509/7a2f5a1dd6e56b52c68115287fa9160c.jpeg"
+  },
+  {
+    "id": "3a79de7d7a98e642",
+    "title": "AI is code – and can't be prompted into being smarter",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 11 # Comments: 4",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T20:17:54+00:00",
+    "fetched": "2026-06-14T22:43:41+00:00",
+    "image": "https://image.theregister.com/227602.jpg?imageId=227602&x=0&y=11.03&cropw=100&croph=88.97&panox=0&panoy=11.03&panow=100&panoh=88.97&width=1200&height=683"
+  },
+  {
+    "id": "eadc8f9d95794cb0",
+    "title": "Vibe Coder vs. Software Engineer",
+    "summary": "Article URL: https://yusufaytas.com/vibe-coder-vs-software-engineer Comments URL: https://news.ycombinator.com/item?id=48532116 Points: 39 # Comments: 12",
+    "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T20:12:42+00:00",
+    "fetched": "2026-06-14T22:43:41+00:00",
+    "image": "https://yusufaytas.com/images/2026/06/pretty-please-approve-pr.jpg"
   },
   {
     "id": "0de8f829258c39d6",
@@ -238,6 +334,18 @@
     "published": "2026-06-14T18:27:55+00:00",
     "fetched": "2026-06-14T19:51:47+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "84c24ef0668d0dce",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+    "summary": "Article URL: https://www.orangecrumbs.com/ Comments URL: https://news.ycombinator.com/item?id=48530382 Points: 27 # Comments: 3",
+    "url": "https://www.orangecrumbs.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T17:54:17+00:00",
+    "fetched": "2026-06-14T22:43:41+00:00",
+    "image": "https://www.orangecrumbs.com/og/orangecrumbs-home-9e64137cfe.jpg"
   },
   {
     "id": "1af5286d69dc5d80",
@@ -40870,53 +40978,5 @@
     "published": "2026-05-31T22:54:20+00:00",
     "fetched": "2026-06-01T01:40:09+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d487/live/024e7340-5d3d-11f1-8906-91bbcad8293d.jpg"
-  },
-  {
-    "id": "f4dd2d4cc10cd384",
-    "title": "It's Not Just X. It's Y",
-    "summary": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/ Comments URL: https://news.ycombinator.com/item?id=48350149 Points: 23 # Comments: 2",
-    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T21:57:48+00:00",
-    "fetched": "2026-05-31T23:05:07+00:00",
-    "image": "https://storage.ghost.io/c/d1/66/d166136b-f8dc-4865-85cc-c61191c48f04/content/images/size/w1200/2026/05/Recraft-style_00002_.png"
-  },
-  {
-    "id": "00a9e3f6ee7c364f",
-    "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
-    "summary": "Article URL: https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/ Comments URL: https://news.ycombinator.com/item?id=48350131 Points: 77 # Comments: 13",
-    "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T21:55:33+00:00",
-    "fetched": "2026-05-31T23:05:07+00:00",
-    "image": null
-  },
-  {
-    "id": "bf3ecb0706f671e0",
-    "title": "Nicaraguan indigenous leader dies after three years in prison",
-    "summary": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
-    "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-31T21:52:38+00:00",
-    "fetched": "2026-05-31T23:05:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6104/live/f4859c90-5d2b-11f1-83bc-af5c30519ade.jpg"
-  },
-  {
-    "id": "d05fb71f8902963d",
-    "title": "Apple’s strategy for smart glasses is the same as smart watches",
-    "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also…",
-    "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T21:33:11+00:00",
-    "fetched": "2026-05-31T23:05:06+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
