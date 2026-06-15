@@ -1,5 +1,113 @@
 [
   {
+    "id": "3ce766f35545273f",
+    "title": "Під час повторного удару росіян по Харкову загинули 5 рятувальників – Клименко",
+    "summary": "Під час гасіння пожежі, що виникла внаслідок ракетної атаки на Харків вночі 15 червня, загинули 5 рятувальників і щонайменше 5 – поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/06/15/8039294/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T23:50:00+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/3/849553/23d074e448be2c0b5ff4fff7b1db92d0.jpeg"
+  },
+  {
+    "id": "1cb88be62f81d45f",
+    "title": "Від російського удару по Києву горить Лавра",
+    "summary": "За інформацією очільника Київської ОВА, відбулося пряме влучання.",
+    "url": "https://lb.ua/society/2026/06/15/745302_vid_rosiyskogo_udaru_kiievu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T23:49:00+00:00",
+    "fetched": "2026-06-15T00:17:55+00:00",
+    "image": "https://i.lb.ua/news/022/09/6a2f4001d7075.jpg"
+  },
+  {
+    "id": "6cd5996822b9da88",
+    "title": "Атака на Київ: горить Києво-Печерська лавра через пряме влучання – КМВА",
+    "summary": "Внаслідок масованої атаки на Київ сталася пожежа на території Києво-Печерської лаври.",
+    "url": "https://www.pravda.com.ua/news/2026/06/15/8039293/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T23:00:00+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/849550/5316e7d010b7a19bd521f54633a8a337.jpeg"
+  },
+  {
+    "id": "d36dbe6d57c8acef",
+    "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+    "summary": "Article URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/ Comments URL: https://news.ycombinator.com/item?id=48533848 Points: 50 # Comments: 12",
+    "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T22:54:55+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://andreklein.net/wp-content/uploads/2026/06/gandalf-1024x625.jpg"
+  },
+  {
+    "id": "5526e3364f44bd93",
+    "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
+    "summary": "Article URL: https://iza.ac/posts/2026/06/food-authenticity/ Comments URL: https://news.ycombinator.com/item?id=48533829 Points: 18 # Comments: 14",
+    "url": "https://iza.ac/posts/2026/06/food-authenticity/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T22:53:17+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://iza.ac/images/header-small.png"
+  },
+  {
+    "id": "250b2baee6369713",
+    "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
+    "summary": "Article URL: https://twitter.com/maattttbrown/status/2066215255987163246 Comments URL: https://news.ycombinator.com/item?id=48533756 Points: 70 # Comments: 15",
+    "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T22:45:55+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://jf.x.com/images/media-preview/2066215255987163246"
+  },
+  {
+    "id": "f37575394a409910",
+    "title": "The Jqwik Anti-AI Affair",
+    "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 24 # Comments: 15",
+    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T22:43:49+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": null
+  },
+  {
+    "id": "609b0f9e9bf5540f",
+    "title": "Інцидент у Києві: група осіб \"перешкоджала затриманню правопорушника\" – патрульна поліція",
+    "summary": "У неділю ввечері у соцмережах з'явилися відео про інцидент у Деснянському районі Києва з масовими заворушення, у патрульній поліції Києва повідомили про \"затримання правопорушника\", якого доставили до РТЦК та СП.",
+    "url": "https://www.pravda.com.ua/news/2026/06/15/8039292/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T22:34:00+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/b/849533/4bfe051c40f92e2524eda586f0c58b0b.jpeg"
+  },
+  {
+    "id": "c73b029d678b63ce",
+    "title": "Did Anthropic ask for this?",
+    "summary": "Article URL: https://www.verysane.ai/p/did-anthropic-ask-for-this Comments URL: https://news.ycombinator.com/item?id=48533504 Points: 127 # Comments: 92",
+    "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-14T22:23:05+00:00",
+    "fetched": "2026-06-15T00:17:54+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!eErw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c7c5126-190f-4119-a68f-5d0e417ce754_1700x828.png"
+  },
+  {
     "id": "5ba8c3ef0c64be5c",
     "title": "У Києві вирують пожежі через ворожу атаку",
     "summary": "У ніч на 15 червня у Києві та області сили ППО працювали по ворожих дронах, у столиці було чути вибухи і зайнялися пожежі, зокрема й у житлових будинках, є потерпілий.",
@@ -46,6 +154,18 @@
     "published": "2026-06-14T21:40:00+00:00",
     "fetched": "2026-06-14T22:43:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/6/849524/f634a80d5afbeb71d92d68d253df856d.jpeg"
+  },
+  {
+    "id": "c1798ec536a35f8d",
+    "title": "ЧС-2026: Нідерланди та Японія поділили очки в результативному матчі",
+    "summary": "Японці двічі поступалися упродовж матчу.",
+    "url": "https://lb.ua/sport/2026/06/15/745300_chs-2026_niderlandi_yaponiya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-14T21:40:00+00:00",
+    "fetched": "2026-06-15T00:17:55+00:00",
+    "image": "https://i.lb.ua/news/124/14/6a2f2e0c979fe.jpg"
   },
   {
     "id": "f1d3d26712e1a819",
@@ -40894,89 +41014,5 @@
     "published": "2026-06-01T01:04:45+00:00",
     "fetched": "2026-06-01T01:40:09+00:00",
     "image": "https://i.guim.co.uk/img/media/977ad409e59e748b6f6ecb41652dcfac6331042c/318_0_3200_2560/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=cdbff789dd1d1b47f0aa8d660d247a1a"
-  },
-  {
-    "id": "2d65a0f8c696d92e",
-    "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
-    "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping pricetags (or no pricetags at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components…",
-    "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-01T00:00:00+00:00",
-    "fetched": "2026-06-01T01:40:09+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/1505974-dr-lisa-su-ryzen.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "c9167eb8fec827f8",
-    "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-    "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
-    "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-31T23:53:50+00:00",
-    "fetched": "2026-06-01T01:40:09+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-    "id": "a8ed2431b4e1f939",
-    "title": "Російські окупанти вдарили по Харкову: постраждали люди",
-    "summary": "Вночі 1 червня росіяни атакували Харків: пошкоджені гаражі, автівки, двоє постраждалих.",
-    "url": "https://www.pravda.com.ua/news/2026/06/01/8037209/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-05-31T23:15:00+00:00",
-    "fetched": "2026-06-01T01:40:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/a/839845/eab1c37d8c108c7e279139b2b2563d0b.jpeg"
-  },
-  {
-    "id": "37a677496117a14e",
-    "title": "The QD-OLED gaming monitor that started it all got a big upgrade",
-    "summary": "Alienware is taking to this year's Computex 2026 in Taipei to announce some cool gaming monitors, most notably two exciting OLED options that are coming at different points this year. First off, the company is debuting the successor to its very first QD-OLED gaming monitor from…",
-    "url": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T23:00:00+00:00",
-    "fetched": "2026-05-31T23:05:06+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/aw3426dw-lead.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6928766f3d463b42",
-    "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
-    "summary": "Dell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that introductory deal only runs until September for back-to-school shopping; it'll…",
-    "url": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T23:00:00+00:00",
-    "fetched": "2026-05-31T23:05:06+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Dell-XPS-13_16.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6b487aade17f5267",
-    "title": "Chuwi Minibook X: the netbook we deserve",
-    "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/ Comments URL: https://news.ycombinator.com/item?id=48350598 Points: 80 # Comments: 62",
-    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-05-31T22:59:50+00:00",
-    "fetched": "2026-06-01T01:40:11+00:00",
-    "image": null
-  },
-  {
-    "id": "0ca0d533aecea4d9",
-    "title": "Trump seeking edits to US-Iran deal, US media report",
-    "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
-    "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-05-31T22:54:20+00:00",
-    "fetched": "2026-06-01T01:40:09+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d487/live/024e7340-5d3d-11f1-8906-91bbcad8293d.jpg"
   }
 ]
