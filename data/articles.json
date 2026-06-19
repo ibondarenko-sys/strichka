@@ -1,5 +1,65 @@
 [
   {
+    "id": "0a2da26f42a29ebe",
+    "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+    "summary": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory? Comments URL: https://news.ycombinator.com/item?id=48604232 Points: 4 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=48604232",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T22:51:09+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": null
+  },
+  {
+    "id": "40d3b6f1127f254e",
+    "title": "У Британії через зіткнення поїздів загинула людина, майже сотня поранених",
+    "summary": "11 постраждалих у вкрай важкому стані.",
+    "url": "https://lb.ua/world/2026/06/20/746476_britaniyi_cherez_zitknennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T22:48:00+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": "https://i.lb.ua/news/111/45/6a35c7b1a19aa.jpg"
+  },
+  {
+    "id": "732c7671b67d94bd",
+    "title": "У Лаврі в Києві почала роботу комісія з обстеження даху: 70% вже закрито аварійним накриттям",
+    "summary": "Заповідник частково відновив роботу для відвідувачів.",
+    "url": "https://lb.ua/society/2026/06/20/746474_lavri_kiievi_pochala_robotu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T22:12:00+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": "https://i.lb.ua/news/120/32/6a35beccf3350.jpg"
+  },
+  {
+    "id": "49b65664e4aa23de",
+    "title": "Туск заявив, що конфлікт між Польщею та Україною радує Путіна і шокує союзників",
+    "summary": "Туск розкритикував рішення Навроцького щодо Зеленського, назвавши це вигідним для Путіна та шокуючим для союзників.",
+    "url": "https://www.pravda.com.ua/news/2026/06/20/8040252/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T21:55:00+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/854082/5c28eeb77c8d166c9944e7ccf020c274.jpeg"
+  },
+  {
+    "id": "efe3470a0c79e68d",
+    "title": "Zenzizenzizenzic",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic Comments URL: https://news.ycombinator.com/item?id=48603664 Points: 21 # Comments: 12",
+    "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T21:49:44+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": null
+  },
+  {
     "id": "5ffb7bd42dbe7422",
     "title": "Мерц захистив ідею \"асоційованого членства\" України в ЄС, згадавши про НДР",
     "summary": "Східна Німеччина нібито показала шлях, яким може піти й Україна.",
@@ -96,6 +156,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/854070/dc4d20212588417caa992b12f29bc166.jpeg"
   },
   {
+    "id": "f64036b836070675",
+    "title": "Surprising Economics of Load-Balanced Systems",
+    "summary": "Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html Comments URL: https://news.ycombinator.com/item?id=48602918 Points: 14 # Comments: 0",
+    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T20:30:59+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": null
+  },
+  {
     "id": "b81754d40f2241c3",
     "title": "Туск заявив, що Польща має брати участь в переговорах з Росією",
     "summary": "Інакше він пригрозив не дотримуватись жодних угод.",
@@ -118,6 +190,18 @@
     "published": "2026-06-19T20:25:23+00:00",
     "fetched": "2026-06-19T21:45:57+00:00",
     "image": "https://anchor.host/wp-content/uploads/2026/06/siteguarding-7kb-file-to-13-year-backdoor-operation-social.webp"
+  },
+  {
+    "id": "b26ab60a5c122427",
+    "title": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+    "summary": "Article URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/ Comments URL: https://news.ycombinator.com/item?id=48602817 Points: 13 # Comments: 0",
+    "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T20:19:57+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": null
   },
   {
     "id": "42eb35ea42ea586d",
@@ -178,6 +262,18 @@
     "published": "2026-06-19T19:49:00+00:00",
     "fetched": "2026-06-19T20:16:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/854049/6921077561b897a8fbf8234753904e05.jpeg"
+  },
+  {
+    "id": "2ca2d662c8222f28",
+    "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+    "summary": "Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll Comments URL: https://news.ycombinator.com/item?id=48602352 Points: 43 # Comments: 4",
+    "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T19:35:15+00:00",
+    "fetched": "2026-06-19T23:02:32+00:00",
+    "image": "https://cdn.tukioswebsites.com/social/facebook/fb_3/5d0135b3-c96e-43bd-bc85-f444720770cb/39975cfe7effdc1:0_"
   },
   {
     "id": "e6509d69af6d4039",
@@ -39934,101 +40030,5 @@
     "published": "2026-06-05T23:05:27+00:00",
     "fetched": "2026-06-06T00:12:21+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "db0bef676ee7976f",
-    "title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
-    "summary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown…",
-    "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T22:52:06+00:00",
-    "fetched": "2026-06-06T00:12:21+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_Switch_2_June_Screenshots_1.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "300d0565dd1e6dbd",
-    "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
-    "summary": "In the end, the three companies involved all point the finger at each other.",
-    "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T22:36:21+00:00",
-    "fetched": "2026-06-06T00:12:21+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screen-Shot-2025-11-11-at-7.10.57-PM-1084x648.png"
-  },
-  {
-    "id": "433e32e0a02b94d7",
-    "title": "Посланці Трампа таємно зустрілися з експертами-ядерниками для підготовки угоди з Іраном – ЗМІ",
-    "summary": "Спецпосланці президента США Стів Віткофф та Джаред Кушнер негласно відвідали національну лабораторію в Оук-Риджі (штат Теннессі) для консультацій із групою провідних експертів-ядерників, готуючись до потенційної реалізації нової ядерної угоди з Іраном.",
-    "url": "https://www.pravda.com.ua/news/2026/06/06/8038001/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T22:32:00+00:00",
-    "fetched": "2026-06-05T22:43:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/7/843190/474598a48335751230dcb490a1f89330.jpeg"
-  },
-  {
-    "id": "068b7929b0f8980c",
-    "title": "Фіцо закликав до діалогу з Путіним через дрон, який вибухнув у Румунії",
-    "summary": "Прем'єр Словаччини вважає, що такі інциденти ведуть до світової війни.",
-    "url": "https://lb.ua/society/2026/06/06/743384_fitso_zaklikav_dialogu_z_putinim.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T22:28:00+00:00",
-    "fetched": "2026-06-05T22:43:54+00:00",
-    "image": "https://i.lb.ua/news/026/60/6a234d9a1243c.jpg"
-  },
-  {
-    "id": "2b1cbfb9c6681557",
-    "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-    "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 4 # Comments: 0",
-    "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T22:12:58+00:00",
-    "fetched": "2026-06-05T22:43:56+00:00",
-    "image": "https://disassociated.com/images/index/99_logo_FRUIT_SALAD_SOCIALS_card.png"
-  },
-  {
-    "id": "3d86842779919e8b",
-    "title": "В Африці будують великий трубопровід, щоб постачати газ Європі",
-    "summary": "Новий газопровід має постачати до 30 млрд кубометрів газу на рік.",
-    "url": "https://lb.ua/world/2026/06/06/743382_afritsi_buduyut_velikiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T21:55:00+00:00",
-    "fetched": "2026-06-05T22:43:54+00:00",
-    "image": "https://i.lb.ua/news/008/60/6a234598aaf6a.jpg"
-  },
-  {
-    "id": "995ce2aaf74514af",
-    "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
-    "summary": "Article URL: https://github.com/a-yiorgos/wambook Comments URL: https://news.ycombinator.com/item?id=48418839 Points: 9 # Comments: 0",
-    "url": "https://github.com/a-yiorgos/wambook",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T21:52:02+00:00",
-    "fetched": "2026-06-06T00:12:21+00:00",
-    "image": "https://opengraph.githubassets.com/521db709400eb19272cbd54cd8760656100986632088ce1f94f5f08e01cf39df/a-yiorgos/wambook"
-  },
-  {
-    "id": "9c0e5c517f915e26",
-    "title": "ООН посмертно нагородила українця найвищою миротворчою медаллю",
-    "summary": "Це перший випадок, коли відзнака дісталася цивільній особі.",
-    "url": "https://lb.ua/society/2026/06/06/743380_oon_posmertno_nagorodila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T21:52:00+00:00",
-    "fetched": "2026-06-05T22:43:54+00:00",
-    "image": "https://i.lb.ua/news/119/08/6a23458847fcd.jpg"
   }
 ]
