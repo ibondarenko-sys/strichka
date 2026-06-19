@@ -1,5 +1,149 @@
 [
   {
+    "id": "7292b9a36cf765af",
+    "title": "Росіяни атакували Харків КАБами, є постраждалі",
+    "summary": "Обстріл міста стався близько 4 години ночі.",
+    "url": "https://lb.ua/society/2026/06/19/746238_rosiyani_atakuvali_harkiv_kabami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T01:42:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://i.lb.ua/news/078/35/6a349ee6d171d.jpg"
+  },
+  {
+    "id": "7df840be30402cdb",
+    "title": "Росіяни вдарили по Харкову КАБами: близько 15 приватних будинків пошкоджені, постраждали люди",
+    "summary": "У Холодногірському районі Харкова пошкоджено 15 будинків і склад через удар КАБами, є постраждалі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/19/8040071/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T01:37:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/c/853081/4cee21d4a7b9dbfeecd8e61100f50bfd.jpeg"
+  },
+  {
+    "id": "68af954cade221e8",
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "summary": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/ Comments URL: https://news.ycombinator.com/item?id=48593731 Points: 19 # Comments: 3",
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T01:06:27+00:00",
+    "fetched": "2026-06-19T02:19:06+00:00",
+    "image": "https://static.simonwillison.net/static/2026/datasette-apps-card.jpg"
+  },
+  {
+    "id": "a0b921cc89317833",
+    "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+    "summary": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=48593694 Points: 0 # Comments: 0",
+    "url": "https://www.flexport.com/company/careers/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T01:01:13+00:00",
+    "fetched": "2026-06-19T02:19:06+00:00",
+    "image": "https://images.ctfassets.net/92fo1e671z6m/1jQu6T1XfkcBMcTa3ED361/2894d1eb54ecdefe04faac67248a284b/Flexport_LP_Standard_Meta_IMG.jpeg?w=478&h=250&fl=progressive&q=80&fm=jpg&bg=transparent"
+  },
+  {
+    "id": "1cd1f729d7e82937",
+    "title": "Венс назвав Трампа єдиним союзником Ізраїлю у світі",
+    "summary": "Жорстка відповідь на критику угоди з Іраном з боку ізраїльських чиновників.",
+    "url": "https://lb.ua/world/2026/06/19/746236_vens_nazvav_trampa_iedinim.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T00:52:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://i.lb.ua/news/105/21/6a3493195479b.jpg"
+  },
+  {
+    "id": "5ade8e9b0fba2041",
+    "title": "A bold satellite rescue mission came together in record time, but will it work?",
+    "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+    "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-19T00:39:30+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-1152x648.jpg"
+  },
+  {
+    "id": "d6d91109f605726d",
+    "title": "Зеленський закликав розблокувати 6 млрд Європейського фонду миру, які спрямують на захист України",
+    "summary": "Президент Зеленський просить ЄС швидко виділити 6 млрд євро для захисту України від агресії РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/06/19/8040069/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T00:38:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/d/853079/1d520092eb71bbb9471ec6eaa4836e31.jpeg"
+  },
+  {
+    "id": "10c21859b12662ef",
+    "title": "Канада на чемпіонаті світу розбила Катар в одні ворота у матчі з моторошною травмою",
+    "summary": "Подвійний перелом Коне психологічно вплинув на обидві команди.",
+    "url": "https://lb.ua/sport/2026/06/19/746234_kanada_chempionati_svitu_rozbila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-19T00:14:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://i.lb.ua/news/003/51/6a3489c59434a.jpg"
+  },
+  {
+    "id": "ede695ca92a0caea",
+    "title": "Update on Ocean Observatories Initiative",
+    "summary": "Article URL: https://www.nsf.gov/news/update-ocean-observatories-initiative Comments URL: https://news.ycombinator.com/item?id=48593093 Points: 98 # Comments: 19",
+    "url": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-18T23:41:48+00:00",
+    "fetched": "2026-06-19T02:19:06+00:00",
+    "image": "https://www.nsf.gov/themes/custom/nsf_theme/logo-200x200.png"
+  },
+  {
+    "id": "1616d50a51f939c7",
+    "title": "Зеленський зустрівся з прем'єром Болгарії і запропонував йому Drone Deal",
+    "summary": "Президент домовився розпочати підготовку кількох українсько-болгарських угод.",
+    "url": "https://lb.ua/news/2026/06/19/746232_zelenskiy_zustrivsya_z_premierom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-18T23:31:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://i.lb.ua/news/027/58/6a3480705cc46.jpg"
+  },
+  {
+    "id": "ab2e504f4c18708f",
+    "title": "Австралія виділить Україні додаткові 100 млн доларів військової допомоги",
+    "summary": "Австралія збільшує підтримку України: додаткові $100 млн на військове обладнання у 2025 році.",
+    "url": "https://www.pravda.com.ua/news/2026/06/19/8040067/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-18T23:30:00+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/7/853077/6732b8693d31039b0d89e03406de69fc.jpeg"
+  },
+  {
+    "id": "224487881da8443e",
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+    "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-18T23:28:52+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
+  },
+  {
     "id": "0123e2c33720feba",
     "title": "Кошта розповів лідерам ЄС, навіщо почав встановлювати контакт з Москвою",
     "summary": "Антоніу Кошта розповів, навіщо ЄС поновлює дипломатичні контакти з Росією під час обговорення України.",
@@ -36,6 +180,18 @@
     "image": "https://i.lb.ua/news/007/62/6a3475f169477.jpg"
   },
   {
+    "id": "f79f58eee8da7227",
+    "title": "How Smashing The NIMBYs Created Modern Capitalism",
+    "summary": "Article URL: https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/ Comments URL: https://news.ycombinator.com/item?id=48592576 Points: 13 # Comments: 0",
+    "url": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-18T22:37:22+00:00",
+    "fetched": "2026-06-19T02:19:06+00:00",
+    "image": "https://worksinprogress.co/wip-image/uploads/2026/06/glorious_revolution_website_image-1-scaled.jpg"
+  },
+  {
     "id": "eeb409b78d5a3197",
     "title": "ЄС вперше продовжив секторальні санкції проти Росії одразу на рік",
     "summary": "Раніше обмежувалися терміном у 6 місяців.",
@@ -46,6 +202,18 @@
     "published": "2026-06-18T22:15:00+00:00",
     "fetched": "2026-06-18T23:18:54+00:00",
     "image": "https://i.lb.ua/news/115/19/6a346dee728c7.jpg"
+  },
+  {
+    "id": "47bfab9a8d01bdc2",
+    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+    "summary": "In February, a Trump official refused to review the vaccine.",
+    "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-18T22:08:59+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
   },
   {
     "id": "96ce27680d3d57f9",
@@ -106,6 +274,18 @@
     "published": "2026-06-18T21:34:00+00:00",
     "fetched": "2026-06-18T23:18:54+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/a/853059/3a4d6e503943ae6c3ec11af05fbfd986.jpeg"
+  },
+  {
+    "id": "72e6e0e7833bf01d",
+    "title": "As China looms, Taiwan makes more drones for defense and the US military",
+    "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
+    "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-18T21:21:26+00:00",
+    "fetched": "2026-06-19T02:19:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-1152x648.jpg"
   },
   {
     "id": "428c1bcc59b7fabb",
@@ -1210,6 +1390,18 @@
     "published": "2026-06-18T14:55:00+00:00",
     "fetched": "2026-06-18T15:37:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/b/852754/1bc383e59da51d17a325acb077c22395.jpeg"
+  },
+  {
+    "id": "c7f7d155de93aec4",
+    "title": "Building a robotics research setup that lives next to my desk",
+    "summary": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class…",
+    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-18T14:51:53+00:00",
+    "fetched": "2026-06-19T02:19:06+00:00",
+    "image": "https://dfdxlabs.com/research/2026/robotics-setup/social.jpg"
   },
   {
     "id": "d39b9c1334cd8fa5",
@@ -40342,161 +40534,5 @@
     "published": "2026-06-05T02:24:00+00:00",
     "fetched": "2026-06-05T04:14:50+00:00",
     "image": "https://i.lb.ua/news/045/52/6a222df141356.jpg"
-  },
-  {
-    "id": "57ac744cd0b27164",
-    "title": "What happens if Japan takes in zero immigrants?",
-    "summary": "Article URL: https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero Comments URL: https://news.ycombinator.com/item?id=48407068 Points: 9 # Comments: 2",
-    "url": "https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T01:56:26+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!8oQX!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36c699ef-580e-4667-b98c-aae7670f83ab_660x450.jpeg"
-  },
-  {
-    "id": "c6473a38e6193547",
-    "title": "Британці заявили про перше успішне тестування ШІ-вакцин",
-    "summary": "Штучний інтелект проаналізував генетичний код вірусів, щоб виробити суперантиген.",
-    "url": "https://lb.ua/health/2026/06/05/743090_britantsi_zayavili_pro_pershe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T01:39:00+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://i.lb.ua/news/120/49/6a2228c7c00b6.jpg"
-  },
-  {
-    "id": "e00afbe47b2b5000",
-    "title": "US imposes new sanctions on Cuban president and Castro family members",
-    "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in…",
-    "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-05T01:07:15+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://i.guim.co.uk/img/media/8b8992ac774b34b8ebb3eb6af5588b91d7534c5d/586_0_4060_3249/master/4060.jpg?width=140&quality=85&auto=format&fit=max&s=15ce80a84aaffb3d694ba0656357d132"
-  },
-  {
-    "id": "a8a6d0495d088019",
-    "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
-    "summary": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
-    "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-05T00:56:42+00:00",
-    "fetched": "2026-06-05T04:14:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ab/live/66e59fb0-6079-11f1-8ba8-b772d95cbb2a.jpg"
-  },
-  {
-    "id": "9af655b23f3b40af",
-    "title": "Палата представників США ухвалила законопроєкт про нову допомогу Україні та санкції проти РФ",
-    "summary": "Палата представників США ухвалила законопроєкт про надання Україні військової допомоги, підтримку відбудови та запровадження нових санкцій проти Росії. Рішення ухвалили в обхід традиційної процедури завдяки голосам частини республіканців, які пішли всупереч позиції президента…",
-    "url": "https://www.pravda.com.ua/news/2026/06/05/8037843/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T00:54:00+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/842472/c8d52ecc760c6f3e109b954f6da57722.jpeg"
-  },
-  {
-    "id": "44e4f5e34a5df091",
-    "title": "Meta enables ADB on deprecated Portal devices [video]",
-    "summary": "https://developers.meta.com/horizon/blog/build-apps-for-port... Comments URL: https://news.ycombinator.com/item?id=48406640 Points: 120 # Comments: 27",
-    "url": "https://fb.watch/HxPu0fSyeH/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T00:44:38+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": null
-  },
-  {
-    "id": "422e2a06023f08ab",
-    "title": "Конгрес ухвалив великий пакет допомоги Україні та санкції проти Росії",
-    "summary": "Перше велике проукраїнське рішення у Палаті представників часів другої каденції Трампа.",
-    "url": "https://lb.ua/society/2026/06/05/743088_kongres_uhvaliv_velikiy_paket.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T00:29:00+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://i.lb.ua/news/125/06/6a221ae86338b.jpg"
-  },
-  {
-    "id": "0232f38e523bed56",
-    "title": "У Херсоні російські війська ударом дрона вбили 75-річного чоловіка – ОВА",
-    "summary": "Увечері 4 червня російські окупанти вбили за допомогою безпілотника 75-річного чоловіка в Корабельному районі Херсона.",
-    "url": "https://www.pravda.com.ua/news/2026/06/05/8037842/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-05T00:26:00+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/842468/99f37b32456b3a35f6a08690796d0588.jpeg"
-  },
-  {
-    "id": "f7cfdfd7bcc39abd",
-    "title": "Open Code Review – An AI-powered code review CLI tool",
-    "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 84 # Comments: 20",
-    "url": "https://github.com/alibaba/open-code-review",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-05T00:04:29+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://opengraph.githubassets.com/46d3b60ec89b58591fdec1e52fb002c3dffd8989821fd8e47cfa61084c776fa6/alibaba/open-code-review"
-  },
-  {
-    "id": "53cb944f538ae39a",
-    "title": "Завдяки ажіотажу навколо ШІ у світі з’явилося ще 2 мільйони нових мільйонерів – звіт",
-    "summary": "Оптимізм на фондових ринках, зумовлений розвитком технологій штучного інтелекту, допоміг майже 2 мільйонам людей у всьому світі стати мільйонерами, а сукупний капітал найбагатших людей зріс досяг рекордних 98,3 трильйона доларів.",
-    "url": "https://www.pravda.com.ua/news/2026/06/05/8037841/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-04T23:58:00+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/0/842467/f0a03f49ce00e388a0ccfe62b05854ee.jpeg"
-  },
-  {
-    "id": "d8b9b8218dc333b6",
-    "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-    "summary": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
-    "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-04T23:53:19+00:00",
-    "fetched": "2026-06-05T04:14:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7049/live/b5a57f40-6023-11f1-b682-cf91850925ea.png"
-  },
-  {
-    "id": "25411b2693f932da",
-    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-    "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 53 # Comments: 23",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-04T23:45:56+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://forum-uploads.privacyguidesusercontent.com/optimized/3X/4/9/497dff4ad1357d00ceb7403851af5b8a7d4b22da_2_774x1024.webp"
-  },
-  {
-    "id": "a514d017e7455e35",
-    "title": "Трамп схвально відреагував на лист Зеленського Путіну",
-    "summary": "Обидва отримали від господаря Білого дому характеристику \"хороші люди\".",
-    "url": "https://lb.ua/society/2026/06/05/743086_tramp_shvalno_vidreaguvav_list.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-04T23:40:00+00:00",
-    "fetched": "2026-06-05T04:14:50+00:00",
-    "image": "https://i.lb.ua/news/122/59/6a220e7e2d690.jpg"
   }
 ]
