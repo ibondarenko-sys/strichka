@@ -1,5 +1,113 @@
 [
   {
+    "id": "857b04db28c0dc4e",
+    "title": "Трамп зробив заяву про мита в Ормузькій протоці",
+    "summary": "Трамп висловив своє бачення можливості мит в Ормузькій протоці.",
+    "url": "https://www.pravda.com.ua/news/2026/06/21/8040359/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T22:30:00+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/b/854725/8bff81f75b718e631910e1045e800edb.jpeg"
+  },
+  {
+    "id": "e7867233da5f2d2f",
+    "title": "Збірна Німеччини здійснила камбек у матчі з Котом-д’Івуаром і вийшла у плей-оф ЧС-2026",
+    "summary": "Бундестім врятував футболіст, який вийшов на заміну.",
+    "url": "https://lb.ua/sport/2026/06/21/746646_zbirna_nimechchini_zdiysnila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T22:27:00+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://i.lb.ua/news/099/13/6a371682b2536.jpg"
+  },
+  {
+    "id": "8413892b85fbd698",
+    "title": "Після прильотів у Керчі горить паливний термінал – пабліки",
+    "summary": "Перед першою годиною ночі в суботу, 21 червня, окупанти повідомили про перекриття Кримського моста, у соцмережах з'явилася інформацію про вибухи у Криму та пожежу після прильотів на паливному терміналі в Керчі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/21/8040357/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T22:04:00+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/854720/4e608f754e1e13175785abc7a1388aea.jpeg"
+  },
+  {
+    "id": "a495715f1e14978e",
+    "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+    "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+    "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-20T21:57:36+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfd/live/e03cdc90-6ced-11f1-bb4f-2f04956fdc7f.jpg"
+  },
+  {
+    "id": "01ae705afc805580",
+    "title": "По всій Україні оголошували повітряну тривогу через зліт російського МіГа",
+    "summary": "Через зліт росісйького МіГ Україну охоплювала повітряна тривога.",
+    "url": "https://www.pravda.com.ua/news/2026/06/21/8040356/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T21:56:00+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/9/854701/a96263116ed1e896d48d2f08a186b4f1.jpeg"
+  },
+  {
+    "id": "44498285a401beda",
+    "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
+    "summary": "Article URL: https://www.phoronix.com/news/systemd-261 Comments URL: https://news.ycombinator.com/item?id=48613328 Points: 12 # Comments: 1",
+    "url": "https://www.phoronix.com/news/systemd-261",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T21:50:42+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=systemd_261"
+  },
+  {
+    "id": "34a3f5a9cfb9637f",
+    "title": "Делегація Ірану прибула до Швейцарії для проведення переговорів зі США – ЗМІ",
+    "summary": "Іран відправив делегацію у Цюрих для переговорів із США.",
+    "url": "https://www.pravda.com.ua/news/2026/06/21/8040355/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T21:22:00+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/854700/035033d527be6e63e31381cf37c62aef.jpeg"
+  },
+  {
+    "id": "6c68b9a3fbd51a5c",
+    "title": "Supermarket giant Tesco sues VMware for breach of contract",
+    "summary": "Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651 Comments URL: https://news.ycombinator.com/item?id=48613008 Points: 31 # Comments: 4",
+    "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T21:09:39+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://image.theregister.com/260306.jpg?imageId=260306&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683"
+  },
+  {
+    "id": "ef4d22297c7d9b79",
+    "title": "Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
+    "summary": "Article URL: https://www.phoronix.com/news/Linux-7.2-Drops-strncpy Comments URL: https://news.ycombinator.com/item?id=48612943 Points: 46 # Comments: 16",
+    "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T20:59:40+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=strncpy"
+  },
+  {
     "id": "a57953cf4dd596e2",
     "title": "Головне за суботу, 20 червня: майже 160 боєзіткнень, удар по Сумах, відмови від польських нагород",
     "summary": "Бойові дії на Донеччині, 157 бойових зіткнень, ворожі обстріли, атака на НПЗ у Тюмені. Яким запам’ятається 1578-й день повномасштабної війни.",
@@ -72,6 +180,18 @@
     "image": "https://www.publictechnology.net/wp-content/uploads/2024/09/police-4566193-scaled.jpg"
   },
   {
+    "id": "9d5c2c332416d14c",
+    "title": "Alice is impatient",
+    "summary": "Article URL: https://brooker.co.za/blog/2026/06/19/waiting.html Comments URL: https://news.ycombinator.com/item?id=48612740 Points: 21 # Comments: 1",
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T20:32:54+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": null
+  },
+  {
     "id": "e7877627b6b3264a",
     "title": "У Харкові чоловік напав на людей у кіоску: троє постраждалих",
     "summary": "У Харкові чоловік напав на людей у кіоску. Троє постраждалих, поліція намагається його затримати.",
@@ -82,6 +202,18 @@
     "published": "2026-06-20T20:31:00+00:00",
     "fetched": "2026-06-20T21:22:23+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/7/854682/1792cee4be6b43a313999ea6cfd5fa50.jpeg"
+  },
+  {
+    "id": "441fc5177cfa06b1",
+    "title": "A Love Story",
+    "summary": "Article URL: https://pudding.cool/2026/06/love-story/ Comments URL: https://news.ycombinator.com/item?id=48612714 Points: 11 # Comments: 2",
+    "url": "https://pudding.cool/2026/06/love-story/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T20:30:06+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": "https://pudding.cool/2026/06/love-story/assets/social-facebook.jpg"
   },
   {
     "id": "92a8222bc14c6b07",
@@ -106,6 +238,18 @@
     "published": "2026-06-20T20:16:00+00:00",
     "fetched": "2026-06-20T21:22:23+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/854666/34d3c845d548513d2a41974815edd55f.jpeg"
+  },
+  {
+    "id": "0bb4392846f60e1c",
+    "title": "Unauthorized alert sent to cell phones across Brazil",
+    "summary": "Article URL: https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam Comments URL: https://news.ycombinator.com/item?id=48612502 Points: 51 # Comments: 27",
+    "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T20:05:03+00:00",
+    "fetched": "2026-06-20T22:44:14+00:00",
+    "image": null
   },
   {
     "id": "d7e1af988774156b",
@@ -39826,41 +39970,5 @@
     "published": "2026-06-06T22:53:00+00:00",
     "fetched": "2026-06-07T00:09:20+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/843736/0a67766724f2d7faba512a30756e1f79.jpeg"
-  },
-  {
-    "id": "68216ccabce692bd",
-    "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-    "summary": "Fifty years after his debut, Ilaiyaraaja remains one of the most celebrated composers in Indian cinema.",
-    "url": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-06T22:27:05+00:00",
-    "fetched": "2026-06-07T08:36:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a7/live/aa337750-60b6-11f1-9b5a-5531746793c9.jpg"
-  },
-  {
-    "id": "afd9b7a71d610880",
-    "title": "У Києві та деяких областях оголосили повітряну тривогу через загрозу балістики",
-    "summary": "У Києві та регіонах України оголосили повітряну тривогу через загрозу балістичних ударів з Брянська.",
-    "url": "https://www.pravda.com.ua/news/2026/06/07/8038096/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-06T22:13:00+00:00",
-    "fetched": "2026-06-06T22:37:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/a/843730/eab6fb033d12ce3b847912e10a710dc0.jpeg"
-  },
-  {
-    "id": "afcb2a388a8a9054",
-    "title": "У Києві авто виїхало на зустрічну смугу та зіштовхнулось із вантажівкою: є постраждалий",
-    "summary": "На проспекті Червоної Калини у Києві Audi зіткнулася з вантажівкою, водія госпіталізовано.",
-    "url": "https://www.pravda.com.ua/news/2026/06/07/8038095/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-06T21:49:00+00:00",
-    "fetched": "2026-06-06T22:37:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/843725/6429cc63dec94e4142ce8c6ae3c01235.jpeg"
   }
 ]
