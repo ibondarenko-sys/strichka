@@ -1,5 +1,77 @@
 [
   {
+    "id": "8e9f99f32b678511",
+    "title": "Росіяни посилили удари КАБами по околицях Сум – ОВА",
+    "summary": "В ОВА повідомляють про посилення ударів КАБами по Сумах.",
+    "url": "https://www.pravda.com.ua/news/2026/06/21/8040361/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T23:50:00+00:00",
+    "fetched": "2026-06-21T00:13:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/854732/9c540572d333f56c73ba1466f118f2da.jpeg"
+  },
+  {
+    "id": "9d209a837cfaf0b6",
+    "title": "Венс назвав пріоритети переговорів з Іраном у Швейцарії",
+    "summary": "Віцепрезидент США Джей Ді Венс заявив, що його головними пріоритетами в переговорах з Іраном є створення структури цих переговорів, \"досягнення прогресу\" в ядерних питаннях та припинення вогню в Лівані.",
+    "url": "https://www.pravda.com.ua/news/2026/06/21/8040360/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-20T23:24:00+00:00",
+    "fetched": "2026-06-21T00:13:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/d/854731/dd20f1c82ec0f0e66e18b6b2a192ffc1.jpeg"
+  },
+  {
+    "id": "6d08701c55cdc71d",
+    "title": "Epoll vs. Io_uring in Linux",
+    "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/ Comments URL: https://news.ycombinator.com/item?id=48613872 Points: 24 # Comments: 3",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T23:07:09+00:00",
+    "fetched": "2026-06-21T00:13:19+00:00",
+    "image": null
+  },
+  {
+    "id": "556f0a7eda04b2d3",
+    "title": "Not just books: renting a sewing machine from the library can improve democracy",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland Comments URL: https://news.ycombinator.com/item?id=48613755 Points: 45 # Comments: 15",
+    "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T22:54:11+00:00",
+    "fetched": "2026-06-21T00:13:19+00:00",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nssr23.jpg"
+  },
+  {
+    "id": "8781f4223d3cc106",
+    "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
+    "summary": "Article URL: https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/ Comments URL: https://news.ycombinator.com/item?id=48613732 Points: 114 # Comments: 42",
+    "url": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T22:50:43+00:00",
+    "fetched": "2026-06-21T00:13:19+00:00",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/c4070c12-0860-40f7-9876-5044019be5f9.jpeg?crop=1xw:0.667xh;0xw,0.088xh&resize=1200:*"
+  },
+  {
+    "id": "2c08735a78f571d1",
+    "title": "Pre-2022 Books",
+    "summary": "Article URL: https://notes.lorenzogravina.com/musings/pre-2022-books Comments URL: https://news.ycombinator.com/item?id=48613631 Points: 107 # Comments: 50",
+    "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T22:36:23+00:00",
+    "fetched": "2026-06-21T00:13:19+00:00",
+    "image": "https://notes.lorenzogravina.com/musings/pre-2022-books-og-image.webp"
+  },
+  {
     "id": "857b04db28c0dc4e",
     "title": "Трамп зробив заяву про мита в Ормузькій протоці",
     "summary": "Трамп висловив своє бачення можливості мит в Ормузькій протоці.",
@@ -22,6 +94,18 @@
     "published": "2026-06-20T22:27:00+00:00",
     "fetched": "2026-06-20T22:44:14+00:00",
     "image": "https://i.lb.ua/news/099/13/6a371682b2536.jpg"
+  },
+  {
+    "id": "f63c331483aca1e5",
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 13 # Comments: 0",
+    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-20T22:22:52+00:00",
+    "fetched": "2026-06-21T00:13:19+00:00",
+    "image": null
   },
   {
     "id": "8413892b85fbd698",
@@ -39886,89 +39970,5 @@
     "published": "2026-06-07T00:22:51+00:00",
     "fetched": "2026-06-07T05:08:48+00:00",
     "image": "https://images.pdimagearchive.org/pdia/main-opengraph.jpg"
-  },
-  {
-    "id": "9eb631256ab64404",
-    "title": "Human-Like Neural Nets by Catapulting",
-    "summary": "Article URL: https://gwern.net/llm-catapult Comments URL: https://news.ycombinator.com/item?id=48430282 Points: 33 # Comments: 3",
-    "url": "https://gwern.net/llm-catapult",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-06T23:45:36+00:00",
-    "fetched": "2026-06-07T08:36:23+00:00",
-    "image": "https://gwern.net/doc/reinforcement-learning/model-free/2008-12-07-rogerjohansson-geneticprogrammingevolutionofmonalisa-figure1-2x2subset-scalingoptimization3oomsshowsimprovementinrenderingmonalisawith50semitransparentpolygons.png"
-  },
-  {
-    "id": "aa4b9085d9f76b4a",
-    "title": "DoD Officially Drops 180 Faiths from Military's Recognized Religion List",
-    "summary": "Article URL: https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list Comments URL: https://news.ycombinator.com/item?id=48430212 Points: 10 # Comments: 4",
-    "url": "https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-06T23:37:20+00:00",
-    "fetched": "2026-06-07T00:09:20+00:00",
-    "image": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2026/06/ap25344582937584.jpg?w=1600&h=900&fit=crop"
-  },
-  {
-    "id": "8ccd2937fe6c06f8",
-    "title": "ЗМІ: Зеленський 7 червня зустрінеться з Макроном, Стармером та Мерцом",
-    "summary": "7 червня Зеленський проведе переговори з Макроном, Мерцом і Стармером щодо припинення війни.",
-    "url": "https://www.pravda.com.ua/news/2026/06/07/8038098/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-06T23:30:00+00:00",
-    "fetched": "2026-06-07T00:09:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/843737/62aee98622b730ab4bff621fa30f033a.jpeg"
-  },
-  {
-    "id": "b95aefd39cede800",
-    "title": "Police officer turned Love Island US contestant faces hometown backlash",
-    "summary": "Sean Reifel's joined the cast of the popular reality series less than a year after he joined his hometown's police force.",
-    "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-06T23:25:36+00:00",
-    "fetched": "2026-06-07T08:36:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd6a/live/a76f6440-5fc4-11f1-8be5-635840c64ff3.jpg"
-  },
-  {
-    "id": "3eb605e54acfb18a",
-    "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-    "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
-    "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-06T23:25:20+00:00",
-    "fetched": "2026-06-07T08:36:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7913/live/d12cdd10-60ed-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "id": "a407a74a5905744d",
-    "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-    "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
-    "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-06T23:17:43+00:00",
-    "fetched": "2026-06-07T08:36:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90f/live/7cbe5010-6232-11f1-8dda-23fc25bcea6e.jpg"
-  },
-  {
-    "id": "85045147e3cface9",
-    "title": "У Китаї оголосили про початок морської спецоперації біля Тайваню",
-    "summary": "Китай посилив патрулі біля Тайваню у відповідь на переговори Японії та Філіппін щодо морських зон.",
-    "url": "https://www.pravda.com.ua/news/2026/06/07/8038097/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-06T22:53:00+00:00",
-    "fetched": "2026-06-07T00:09:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/843736/0a67766724f2d7faba512a30756e1f79.jpeg"
   }
 ]
