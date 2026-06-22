@@ -1,5 +1,77 @@
 [
   {
+    "id": "2b5235f108c9d038",
+    "title": "У Мокві скаржаться на масовану атаку дронів",
+    "summary": "У Москві нарікають на атаку десятків дронів.",
+    "url": "https://www.pravda.com.ua/news/2026/06/22/8040469/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-22T01:02:00+00:00",
+    "fetched": "2026-06-22T02:03:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/7/855255/a7ce36b48a443267f15dc6734c32e88a.jpeg"
+  },
+  {
+    "id": "05a2b753e103211b",
+    "title": "Переговори між США та Іраном можуть тривати всю ніч – ЗМІ",
+    "summary": "За даними ЗМІ, очікувалося, що переговори між делегаціями США та Ірану у Швейцарії триватимуть усю ніч.",
+    "url": "https://www.pravda.com.ua/news/2026/06/22/8040468/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-22T00:54:00+00:00",
+    "fetched": "2026-06-22T02:03:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/855229/0a9b39b2199faede349be7492eb329a9.jpeg"
+  },
+  {
+    "id": "66d801db1b280f72",
+    "title": "The Doom Justifies the Valuation",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html Comments URL: https://news.ycombinator.com/item?id=48624195 Points: 49 # Comments: 29",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-22T00:45:07+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": null
+  },
+  {
+    "id": "aac005d8970b3045",
+    "title": "1983 Northern Telecom Commodore Phone",
+    "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/ Comments URL: https://news.ycombinator.com/item?id=48624114 Points: 17 # Comments: 2",
+    "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-22T00:34:33+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": null
+  },
+  {
+    "id": "4c8dcf78bf8be4b1",
+    "title": "Трамп прокоментував імовірну відставку прем’єра Британії",
+    "summary": "Трамп зробив заяву про відставку Стармера і його \"головні невдачі\".",
+    "url": "https://www.pravda.com.ua/news/2026/06/22/8040466/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-21T23:44:00+00:00",
+    "fetched": "2026-06-22T02:03:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/e/855224/7ecc4e72b14add03f9b6beaaa1c912e1.jpeg"
+  },
+  {
+    "id": "5bfeb5f148ef3f90",
+    "title": "Petition against Meta's employee training data collection for ML models",
+    "summary": "Article URL: https://mcipetition.com/ Comments URL: https://news.ycombinator.com/item?id=48623721 Points: 30 # Comments: 23",
+    "url": "https://mcipetition.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-21T23:34:07+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": null
+  },
+  {
     "id": "d672157fd3d990c2",
     "title": "Ворог атакував дронами Запоріжжя: є поранений, зруйнований будинок",
     "summary": "Росіяни знову завдали ударів дронами по Запоріжжю, поранили чоловіка, спричинили руйнування.",
@@ -10,6 +82,30 @@
     "published": "2026-06-21T23:02:00+00:00",
     "fetched": "2026-06-21T23:23:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/3/855223/433880ca1993a94e4a29c6a86a8bdb34.jpeg"
+  },
+  {
+    "id": "201ce65b3ce57d12",
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 21 # Comments: 2",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-21T22:55:23+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": "https://www.teachmecoolstuff.com/img/tor.jpg"
+  },
+  {
+    "id": "67e50bb2d7ff431a",
+    "title": "Simple hard way to conjugate Japanese verbs",
+    "summary": "Article URL: https://underreacted.leaflet.pub/3mmevu6woys27 Comments URL: https://news.ycombinator.com/item?id=48623419 Points: 36 # Comments: 30",
+    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-21T22:53:50+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": "https://leaflet.pub/lish/did%3Aplc%3Afpruhuo22xkm5o7ttr2ktxdo/3m23dstduds2v/3mmevu6woys27/opengraph-image-vzkbb4?edc23816ae45539e"
   },
   {
     "id": "000d15a14adb2d0a",
@@ -84,6 +180,18 @@
     "image": "https://ajeygore.in/assets/images/blog/og/the-anatomy-of-an-ai-native-org.png"
   },
   {
+    "id": "81c27f4908be9ef5",
+    "title": "My 1992 view of the problems of computer programming in 1992",
+    "summary": "Article URL: https://blog.plover.com/prog/fortran-i.html Comments URL: https://news.ycombinator.com/item?id=48622814 Points: 15 # Comments: 1",
+    "url": "https://blog.plover.com/prog/fortran-i.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-21T21:34:11+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
+  },
+  {
     "id": "a996387d6b39f5f0",
     "title": "Apertus – Open Foundation Model for Sovereign AI",
     "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 17 # Comments: 3",
@@ -154,6 +262,18 @@
     "published": "2026-06-21T21:05:37+00:00",
     "fetched": "2026-06-21T21:56:13+00:00",
     "image": "https://opengraph.githubassets.com/6aa200cf9c6d48eef856d8c20bb12306675f6118d9e9a31ab101024b91292c88/raiyanyahya/recall"
+  },
+  {
+    "id": "b299c687e9a615ca",
+    "title": "There is minimal downside to switching to open models",
+    "summary": "Article URL: https://www.marble.onl/posts/cancel_claude.html Comments URL: https://news.ycombinator.com/item?id=48622518 Points: 49 # Comments: 14",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-21T20:56:01+00:00",
+    "fetched": "2026-06-22T02:03:38+00:00",
+    "image": null
   },
   {
     "id": "4f662fa0160847d3",
@@ -39526,125 +39646,5 @@
     "published": "2026-06-08T02:05:40+00:00",
     "fetched": "2026-06-08T05:14:46+00:00",
     "image": null
-  },
-  {
-    "id": "5ff61052a47917a0",
-    "title": "Algorithmic Monocultures in Hiring",
-    "summary": "Article URL: https://algorithmichiring.github.io/ Comments URL: https://news.ycombinator.com/item?id=48440549 Points: 43 # Comments: 7",
-    "url": "https://algorithmichiring.github.io/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T01:54:54+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": null
-  },
-  {
-    "id": "e77d42ddc98d2a82",
-    "title": "New drug 'functionally cures' many hepatitis B virus infections",
-    "summary": "Article URL: https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08 Comments URL: https://news.ycombinator.com/item?id=48440463 Points: 108 # Comments: 14",
-    "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T01:41:42+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": null
-  },
-  {
-    "id": "563ba010109d25ac",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-    "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 171 # Comments: 52",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T01:39:30+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://runtimewire.com/og/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision.jpg"
-  },
-  {
-    "id": "30ce2dba9004d5df",
-    "title": "1worldflag: A blue dot on a transparent background",
-    "summary": "Article URL: https://1worldflag.com/ Comments URL: https://news.ycombinator.com/item?id=48440435 Points: 41 # Comments: 18",
-    "url": "https://1worldflag.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T01:37:52+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://1worldflag.com/wp-content/uploads/2020/05/socialmedia.jpg"
-  },
-  {
-    "id": "1e9bbd327d9237d3",
-    "title": "APC–2 – A professional record cutter for producing original playback discs",
-    "summary": "Article URL: https://teenage.engineering/products/apc-2 Comments URL: https://news.ycombinator.com/item?id=48440383 Points: 150 # Comments: 80",
-    "url": "https://teenage.engineering/products/apc-2",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T01:27:22+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://assets.teenage.engineering/_img/6a22f2d3ab13747827da71c7_1024.webp"
-  },
-  {
-    "id": "691d90e2eac85b2e",
-    "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-    "summary": "Article URL: https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html Comments URL: https://news.ycombinator.com/item?id=48440360 Points: 69 # Comments: 15",
-    "url": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T01:22:21+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://s.yimg.com/ny/api/res/1.2/CC6Co2MorizdKUSWoD1CGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-06/d9eac4b0-62cf-11f1-bbbf-bcd7b53e5f07"
-  },
-  {
-    "id": "77d0f8d10933472d",
-    "title": "Трамп заявив, що у Нетаньягу \"не буде іншого вибору\", окрім як прийняти угоду з Іраном",
-    "summary": "Трамп заявив, що Нетаньягу буде змушений погодитися з угодою США та Ірану, попри ракетні удари.",
-    "url": "https://www.pravda.com.ua/news/2026/06/08/8038211/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-08T00:42:00+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/844570/85c1c67c7577f1afea42b113083c3ca8.jpeg"
-  },
-  {
-    "id": "ed3f06a630220408",
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-    "summary": "Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48440064 Points: 122 # Comments: 15",
-    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T00:28:37+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://ranpara.net/images/your-thumbnail-image.jpg"
-  },
-  {
-    "id": "740ed6affa5ab158",
-    "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-    "summary": "Article URL: https://github.com/melastmohican/rust-rpico2-embassy-examples Comments URL: https://news.ycombinator.com/item?id=48440008 Points: 81 # Comments: 6",
-    "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-08T00:17:45+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://opengraph.githubassets.com/da1c542056e8715c2ef62a0b0bf4ca2f8288862ea067086828e64b18ab1a3a45/melastmohican/rust-rpico2-embassy-examples"
-  },
-  {
-    "id": "38ffab0932455fe8",
-    "title": "Зеленський повідомив Стармеру про потребу в додаткових ракетах до систем ППО",
-    "summary": "Зеленський обговорив із Стармером потребу в ППО, енергобезпеці та підготовці до зими.",
-    "url": "https://www.pravda.com.ua/news/2026/06/08/8038209/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-08T00:15:00+00:00",
-    "fetched": "2026-06-08T05:14:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/844568/56924a352df4bde93b1281b594634adf.jpeg"
   }
 ]
