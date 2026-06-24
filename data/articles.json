@@ -1,5 +1,53 @@
 [
   {
+    "id": "e0388e99d52b9d88",
+    "title": "Трамп похвалив Зеленського за те, що той \"добре тримається\"",
+    "summary": "\"Немає карт\" вже в далекому минулому.",
+    "url": "https://lb.ua/society/2026/06/25/747426_tramp_pohvaliv_zelenskogo_scho.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-24T22:52:00+00:00",
+    "fetched": "2026-06-24T23:09:16+00:00",
+    "image": "https://i.lb.ua/news/100/09/6a3c5fdbf0625.jpg"
+  },
+  {
+    "id": "9bac958cb21eedfc",
+    "title": "Росіяни вдарили дронами по Сумах: постраждала дитина",
+    "summary": "Внаслідок атаки російських дронів у Сумах постраждала дитина, пошкоджено будинки та автівки.",
+    "url": "https://www.pravda.com.ua/news/2026/06/25/8040988/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-24T22:34:00+00:00",
+    "fetched": "2026-06-24T23:09:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/8/857467/e8912901fc546d86e7c3a9ee5c28c926.jpeg"
+  },
+  {
+    "id": "0c9c5c42b0c494ad",
+    "title": "Голова МЗС Польщі заявив, що вступ України в ЄС потрібен, щоб \"не повторилась різанина\"",
+    "summary": "На думку головного польського дипломата, євроінтеграція це не завжди процес між друзями.",
+    "url": "https://lb.ua/news/2026/06/25/747424_golova_mzs_polschi_zayaviv_scho.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-24T22:26:00+00:00",
+    "fetched": "2026-06-24T23:09:16+00:00",
+    "image": "https://i.lb.ua/news/013/10/6a3c5a0fabe76.jpg"
+  },
+  {
+    "id": "2a6791e79e8f3bfa",
+    "title": "Elastic lays off 7% of employees",
+    "summary": "Article URL: https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees Comments URL: https://news.ycombinator.com/item?id=48666100 Points: 45 # Comments: 14",
+    "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T21:57:30+00:00",
+    "fetched": "2026-06-24T23:09:16+00:00",
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blta938e80fc038a16f/6a3c068485bc9cd31bc21ab7/Elastic-dark-header_(1).png"
+  },
+  {
     "id": "836cb28f76f7885d",
     "title": "Трамп заявив, що Зеленський \"непогано справляється\"",
     "summary": "Дональд Трамп на пресконференції заявив, що Володимир Зеленський добре справляється.",
@@ -10,6 +58,18 @@
     "published": "2026-06-24T21:49:00+00:00",
     "fetched": "2026-06-24T21:54:30+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/857466/9ab7da575e1c97a7bb2ab42b31dd1ea5.jpeg"
+  },
+  {
+    "id": "7e1279beb933665d",
+    "title": "Палата депутатів Румунії без голосування ухвалила проєкт закону про об'єднання з Молдовою",
+    "summary": "Якщо документ пройде Сенат, уряд буде зобов'язаний розпочати переговори з Кишиневом.",
+    "url": "https://lb.ua/world/2026/06/25/747418_palata_deputativ_rumuniyi_bez.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-24T21:48:00+00:00",
+    "fetched": "2026-06-24T23:09:16+00:00",
+    "image": "https://i.lb.ua/news/069/37/6a3c52d6d9a5c.jpg"
   },
   {
     "id": "d3b8e0d2dfc15417",
@@ -39730,149 +39790,5 @@
     "published": "2026-06-10T23:09:25+00:00",
     "fetched": "2026-06-11T13:01:39+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c3/live/f6c5e530-6566-11f1-8e1d-bbbb1017d210.jpg"
-  },
-  {
-    "id": "c6f81cf2e3229820",
-    "title": "Apple’s new Siri AI knows when to shut up",
-    "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more […]",
-    "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T22:52:17+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "63562f34050ae670",
-    "title": "Трамп у відповідь на погіршення економічних показників заявив, що \"любить інфляцію\"",
-    "summary": "У травні ціни у США зростали найшвидше за останні три роки.",
-    "url": "https://lb.ua/world/2026/06/11/744444_tramp_vidpovid_pogirshennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T22:52:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://i.lb.ua/news/038/09/6a29e954008de.jpg"
-  },
-  {
-    "id": "71d484a586e732fc",
-    "title": "Unix GC Remastered",
-    "summary": "Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/ Comments URL: https://news.ycombinator.com/item?id=48483854 Points: 4 # Comments: 0",
-    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T22:48:58+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://mohandacherir.github.io/Qdiv7/images/scudo/Screenshot-2.png"
-  },
-  {
-    "id": "d548b650ac1e4a16",
-    "title": "США розпочали масоване бомбардування Ірану",
-    "summary": "Центральне командування Збройних сил США (CENTCOM) повідомило, що американська армія за наказом президента Дональда Трампа почала завдавати масованих ударів по цілях в Ірані.",
-    "url": "https://www.pravda.com.ua/news/2026/06/11/8038741/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T22:36:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/8/846863/588b37785d484a9824295256939de67f.jpeg"
-  },
-  {
-    "id": "c30253d3f9133804",
-    "title": "У Барселоні урочисто відкрили головну вежу собору Саґрада Фамілія",
-    "summary": "Шедевр Антоніо Гауді нарешті добудований - майже.",
-    "url": "https://lb.ua/world/2026/06/11/744442_barseloni_urochisto_vidkrili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T22:20:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://i.lb.ua/news/095/50/6a29e39921ceb.jpg"
-  },
-  {
-    "id": "165804edafa81447",
-    "title": "An Everest guide's miraculous survival raises questions for tourism industry",
-    "summary": "Why was a cook leading clients up the world's highest peak? And why was he left to rescue himself?",
-    "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-10T22:17:09+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1954/live/d014be90-64d8-11f1-b1db-af71d47507d6.jpg"
-  },
-  {
-    "id": "aa82acb9553a8f91",
-    "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
-    "summary": "For days after the stunning incident, the ADA had doubled-down on the choice.",
-    "url": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T22:16:57+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-1152x648-1780778332.jpg"
-  },
-  {
-    "id": "e0d5829e564f6223",
-    "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-    "summary": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/ Comments URL: https://news.ycombinator.com/item?id=48483387 Points: 34 # Comments: 20",
-    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T22:07:52+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://th-thumbnailer.cdn-si-edu.com/TMNdwAbB8F7RoCB3h5Xt5VWI8d8=/fit-in/1600x0/filters:focal(612x650:613x651)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/77/2577ef6b-781c-4718-822a-9c672456ff5c/sequoyah_smithsonian_concept_b.jpg"
-  },
-  {
-    "id": "6a72ffd58e9cf623",
-    "title": "Free financial literacy platform for kids – 90 lessons, no paywall",
-    "summary": "Article URL: https://learnfinly.com Comments URL: https://news.ycombinator.com/item?id=48483345 Points: 6 # Comments: 1",
-    "url": "https://learnfinly.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T22:04:29+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://learnfinly.com/api/og"
-  },
-  {
-    "id": "edc408c4f6175579",
-    "title": "Президент Фінляндії відмовився бути переговірником з Путіним від імені Європи",
-    "summary": "Президент Фінляндії Александр Стубб заявив, що вважає за необхідне розпочати діалог із російським лідером Володимиром Путіним, проте сам він не планує виступати головним переговірником від Європи.",
-    "url": "https://www.pravda.com.ua/news/2026/06/11/8038740/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T21:58:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/846862/5276a19c69c6142f1542abac74fcdcb1.jpeg"
-  },
-  {
-    "id": "dd1ba5619b132fe1",
-    "title": "Reuters: Куйбишевський НПЗ призупинив роботу після атаки безпілотників",
-    "summary": "Переробку нафти зупинили на обох установках, кожна з яких дозволяє переробляти 73 000 барелів на день.",
-    "url": "https://lb.ua/world/2026/06/11/744438_reuters_kuybishevskiy_npz.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T21:56:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://i.lb.ua/news/057/11/6a29dd00a75c8.jpg"
-  },
-  {
-    "id": "429922c9a3b04bd6",
-    "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
-    "summary": "Typing a few letters and numbers into my web browser, I find myself gaping at the identity documents of complete strangers. The passport of a young woman from Germany. The passport of a man from Spain with glasses resting on his head. The front and back of another man's driver's…",
-    "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T21:55:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25514575/passport_2040.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
