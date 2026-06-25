@@ -1,5 +1,125 @@
 [
   {
+    "id": "f8c2ddc732537d8f",
+    "title": "У Венесуелі сталися два великих землетруси, кількість жертв може складати тисячі",
+    "summary": "У столиці Каракасі від поштовхів руйнувалися будинки.",
+    "url": "https://lb.ua/world/2026/06/25/747434_venesueli_stalisya_dva_velikih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T01:20:00+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://i.lb.ua/news/019/26/6a3c81464c994.jpg"
+  },
+  {
+    "id": "8b3e77c42e3df357",
+    "title": "Venezuela earthquakes live updates: buildings collapse in Caracas as officials warn ‘high casualties’ likely",
+    "summary": "Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsed Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas To recap some details about the two earthquakes: The…",
+    "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-25T01:19:26+00:00",
+    "fetched": "2026-06-25T01:32:27+00:00",
+    "image": "https://i.guim.co.uk/img/media/95b7892365e57d0fcf5045a59fb2fe9ff15b1f32/1267_188_4925_3940/master/4925.jpg?width=140&quality=85&auto=format&fit=max&s=57046df2208b7b147e9bc2736190ac71"
+  },
+  {
+    "id": "b7a11f32091ecd8f",
+    "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
+    "summary": "World’s sixth-most famous duck falls short of dream Two-year-old must watch Czechia game from distance Merlín the duck ’s bid to see his beloved Mexico live has hit a snag after he was barred from El Tri’s match with Czechia on Wednesday. Merlín has become a folk hero in Mexico…",
+    "url": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-25T01:08:05+00:00",
+    "fetched": "2026-06-25T01:32:27+00:00",
+    "image": "https://i.guim.co.uk/img/media/168e3e7158afb1f188761ca5e38f644eedd02697/132_0_1846_1477/master/1846.jpg?width=140&quality=85&auto=format&fit=max&s=67116852bc41b4d7c73db3d85ba7fea2"
+  },
+  {
+    "id": "a02ac3f57fe660aa",
+    "title": "Трамп каже, що хоче від НАТО \"лояльності\"",
+    "summary": "Трамп на пресконференції заявив, що США очікують лояльності від країн-членів НАТО.",
+    "url": "https://www.pravda.com.ua/news/2026/06/25/8040992/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T00:48:00+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/857471/f172265459cb0454ab9fcce93dc4138c.jpeg"
+  },
+  {
+    "id": "790da800130af506",
+    "title": "LuaJIT 3.0 proposed syntax extensions",
+    "summary": "Article URL: https://github.com/LuaJIT/LuaJIT/issues/1475 Comments URL: https://news.ycombinator.com/item?id=48667336 Points: 26 # Comments: 10",
+    "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T00:41:43+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://opengraph.githubassets.com/018a928180647378bb95758ce77c789f068adfea1238d1bde22fe67efcab3207/LuaJIT/LuaJIT/issues/1475"
+  },
+  {
+    "id": "0230480051bc155e",
+    "title": "Бразилія виграла групу на Мундіалі, до плей-оф також вийшла збірна Марокко",
+    "summary": "Гаїті їде додому, а Шотландія ще може взяти участь в 1/16 фіналу.",
+    "url": "https://lb.ua/sport/2026/06/25/747432_braziliya_vigrala_grupu_mundiali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T00:17:00+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://i.lb.ua/news/029/20/6a3c7cd963d42.jpg"
+  },
+  {
+    "id": "812ce4ce0cfc54f6",
+    "title": "Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas",
+    "summary": "Homes and buildings collapse in first magnitude 7.1 earthquake, with tremors felt in neighbouring Colombia Venezuela earthquakes: follow live updates Venezuela’s capital, Caracas, has been struck by two powerful earthquakes that caused major damage at the international airport…",
+    "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-24T23:50:05+00:00",
+    "fetched": "2026-06-25T01:32:27+00:00",
+    "image": "https://i.guim.co.uk/img/media/059976cc3ece33393907dd5bb0249d0e355ca62f/815_0_4755_3804/master/4755.jpg?width=140&quality=85&auto=format&fit=max&s=689073f3b8c91861e0eb928b9997659c"
+  },
+  {
+    "id": "f2001f0e55345cb1",
+    "title": "Blogging can just be stating the obvious",
+    "summary": "Article URL: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/ Comments URL: https://news.ycombinator.com/item?id=48666927 Points: 51 # Comments: 17",
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T23:46:37+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": null
+  },
+  {
+    "id": "637bad33577d2aa8",
+    "title": "Крим потрапив під атаку безпілотників: лунають вибухи",
+    "summary": "У Севастополі, Сімферополі та Саках, а також біля ТЕС пролунали вибухи.",
+    "url": "https://www.pravda.com.ua/news/2026/06/25/8040989/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-24T23:44:00+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/857468/a09673de20ad4cfad904ca802d7e15e6.jpeg"
+  },
+  {
+    "id": "65627f39ab00c3c3",
+    "title": "Суд назавжди заборонив Трампу втручатися у процедуру виборів",
+    "summary": "Вимогу про громадянство для реєстрації виборців та чіткі терміни поштового голосування скасовано.",
+    "url": "https://lb.ua/world/2026/06/25/747428_sud_nazavzhdi_zaboroniv_trampu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-24T23:33:00+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://i.lb.ua/news/100/33/6a3c6d4041bca.jpg"
+  },
+  {
     "id": "e0388e99d52b9d88",
     "title": "Трамп похвалив Зеленського за те, що той \"добре тримається\"",
     "summary": "\"Немає карт\" вже в далекому минулому.",
@@ -12,6 +132,30 @@
     "image": "https://i.lb.ua/news/100/09/6a3c5fdbf0625.jpg"
   },
   {
+    "id": "23b98d1ba5790716",
+    "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+    "summary": "GTA6 might be an outlier, though—at least for now.",
+    "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T22:47:03+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg"
+  },
+  {
+    "id": "8ff0c860b7a466ea",
+    "title": "PostgreSQL is enough (2024)",
+    "summary": "Article URL: https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb Comments URL: https://news.ycombinator.com/item?id=48666433 Points: 94 # Comments: 64",
+    "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T22:39:37+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
+  },
+  {
     "id": "9bac958cb21eedfc",
     "title": "Росіяни вдарили дронами по Сумах: постраждала дитина",
     "summary": "Внаслідок атаки російських дронів у Сумах постраждала дитина, пошкоджено будинки та автівки.",
@@ -22,6 +166,18 @@
     "published": "2026-06-24T22:34:00+00:00",
     "fetched": "2026-06-24T23:09:16+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/8/857467/e8912901fc546d86e7c3a9ee5c28c926.jpeg"
+  },
+  {
+    "id": "77bfb778813883d6",
+    "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+    "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
+    "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T22:28:18+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp"
   },
   {
     "id": "0c9c5c42b0c494ad",
@@ -72,6 +228,18 @@
     "image": "https://i.lb.ua/news/069/37/6a3c52d6d9a5c.jpg"
   },
   {
+    "id": "77c0966cc00d7fb5",
+    "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
+    "summary": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\"",
+    "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T21:41:03+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large-1152x648.jpg"
+  },
+  {
     "id": "d3b8e0d2dfc15417",
     "title": "Charlie Kirk’s legacy is a 30-year sentence for moving zines",
     "summary": "Just days after a gunman killed conservative activist Charlie Kirk, it became clear that President Donald Trump would use the assassination to fuel a crackdown on free speech. To avenge Kirk's death, the administration vowed to go after so-called \"antifa\" (otherwise known as…",
@@ -94,6 +262,18 @@
     "published": "2026-06-24T21:39:00+00:00",
     "fetched": "2026-06-24T21:54:30+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257765_Microsoft_Surface_Laptop_13_2025_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "eff507dc8d941796",
+    "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+    "summary": "We still don't know why RFK Jr. overruled CDC expert to order strict quarantines.",
+    "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T21:28:39+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg"
   },
   {
     "id": "f7b4954c6e5d63ea",
@@ -226,6 +406,18 @@
     "published": "2026-06-24T20:22:58+00:00",
     "fetched": "2026-06-24T21:54:30+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2244978226-1152x648-1782330995.jpg"
+  },
+  {
+    "id": "74bc63812d5d381e",
+    "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+    "summary": "Article URL: https://statusdude.com/blog/zero-downtime-docker-compose Comments URL: https://news.ycombinator.com/item?id=48665130 Points: 36 # Comments: 58",
+    "url": "https://statusdude.com/blog/zero-downtime-docker-compose",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-24T20:20:33+00:00",
+    "fetched": "2026-06-25T01:32:28+00:00",
+    "image": "https://statusdude.com/og-image.png"
   },
   {
     "id": "9c29b464f33b1a23",
@@ -39622,173 +39814,5 @@
     "published": "2026-06-11T01:46:00+00:00",
     "fetched": "2026-06-11T04:24:29+00:00",
     "image": "https://i.lb.ua/news/071/21/6a2a151d4bf59.jpg"
-  },
-  {
-    "id": "f662592f115cf4c5",
-    "title": "У РФ дрони атакували Афіпський НПЗ: спалахнула сильна пожежа",
-    "summary": "У ніч на 11 червня безпілотники атакували Афіпський нафтопереробний завод у Краснодарському краї РФ, унаслідок чого на території підприємства спалахнула сильна пожежа.",
-    "url": "https://www.pravda.com.ua/news/2026/06/11/8038745/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T01:32:00+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/846869/92c760171fb8014e81ab3364c7fd43b6.jpeg"
-  },
-  {
-    "id": "c95aebae5979d4e1",
-    "title": "Are insecure code completions in PyCharm a vulnerability?",
-    "summary": "Article URL: https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability Comments URL: https://news.ycombinator.com/item?id=48485160 Points: 7 # Comments: 0",
-    "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T01:26:03+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://github.com/sethmlarson.png"
-  },
-  {
-    "id": "7365f97126b8eb36",
-    "title": "Росія будує нову військову базу поблизу кордону з Фінляндією – ЗМІ",
-    "summary": "Росія розпочала будівництво першої з радянських часів повністю нової військової бази у селі Нова Вілга під Петрозаводськом, поблизу східного кордону Фінляндії.",
-    "url": "https://www.pravda.com.ua/news/2026/06/11/8038744/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T00:58:00+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/846867/6dd68a83b122d9ff3b8c565e4a910785.jpeg"
-  },
-  {
-    "id": "25c9471dc4ae6d66",
-    "title": "Після обстрілу з боку США Іран заявив про закриття Ормузької протоки для всіх суден",
-    "summary": "Центральне командування Сполучених Штатів називає цю інформацію брехливою.",
-    "url": "https://lb.ua/world/2026/06/11/744448_pislya_obstrilu_z_boku_ssha_iran.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T00:44:00+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://i.lb.ua/news/126/47/6a2a067215fcd.jpg"
-  },
-  {
-    "id": "0afaefd6ab5d4235",
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 205 # Comments: 55",
-    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T00:10:08+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": null
-  },
-  {
-    "id": "2b3e94621f5cf3ff",
-    "title": "Bluesky is getting ‘communities’",
-    "summary": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the decentralized AT Protocol that…",
-    "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T00:05:48+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK133_BLUESKY__C.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "49694d90ba046650",
-    "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-    "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
-    "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-11T00:02:45+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fba/live/32abefd0-64f5-11f1-96e1-83394d865b23.jpg"
-  },
-  {
-    "id": "ba04a4ae07f74e07",
-    "title": "Lockheed Martin не може гарантувати союзникам США терміни постачання ракет для Patriot",
-    "summary": "Віцепрезидент зі стратегії та розвитку бізнесу ракетного підрозділу Lockheed Martin Браян Данн заявив, що компанія не може надати союзникам США жодних гарантій щодо термінів постачання ракет для систем ППО Patriot, попри обіцянки потроїти виробничі потужності.",
-    "url": "https://www.pravda.com.ua/news/2026/06/11/8038743/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T23:51:00+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/0/846866/3022e475010aa4cf2ae99f4b0fb88cc0.jpeg"
-  },
-  {
-    "id": "cdbf7cb055854703",
-    "title": "Президент Фінляндії відмовився від ролі представника Європи у переговорах з Путіним",
-    "summary": "Александр Стубб хоче, щоб діалог з Кремлем розпочався, але не має наміру сам його вести.",
-    "url": "https://lb.ua/society/2026/06/11/744446_prezident_finlyandiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T23:40:00+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://i.lb.ua/news/003/27/6a29f7155ddb0.jpg"
-  },
-  {
-    "id": "be6e0a569d260784",
-    "title": "Deficient executive control in transformer attention",
-    "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838 Comments URL: https://news.ycombinator.com/item?id=48484282 Points: 29 # Comments: 10",
-    "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T23:35:01+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": null
-  },
-  {
-    "id": "19fbd0e01cfff00a",
-    "title": "Framework delays its first Laptop 13 Pro shipments by a month",
-    "summary": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop…",
-    "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-10T23:12:51+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "9a03973c39b93958",
-    "title": "The furious dispute over what caused Air India flight 171 to crash",
-    "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
-    "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-10T23:10:11+00:00",
-    "fetched": "2026-06-11T04:24:29+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/3e56e6a0-64a5-11f1-b1db-af71d47507d6.jpg"
-  },
-  {
-    "id": "127624fb0387c4f8",
-    "title": "США запровадили санкції проти мережі постачання зброї до Ірану через Білорусь та Китай",
-    "summary": "Сполучені Штати запровадили санкції проти 13 фізичних та юридичних осіб в Ірані, Білорусі та Китаї, зокрема в Гонконгу, які намагалися придбати зброю в інтересах Корпусу вартових ісламської революції (КВІР).",
-    "url": "https://www.pravda.com.ua/news/2026/06/11/8038742/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-10T23:10:00+00:00",
-    "fetched": "2026-06-10T23:38:48+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/b/846865/cb27a37ae887da6f11277d981e2b006b.jpeg"
-  },
-  {
-    "id": "ecc175268914bbd1",
-    "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
-    "summary": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack.",
-    "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-10T23:09:25+00:00",
-    "fetched": "2026-06-11T13:01:39+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c3/live/f6c5e530-6566-11f1-8e1d-bbbb1017d210.jpg"
   }
 ]
