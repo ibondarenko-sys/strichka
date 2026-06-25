@@ -1,5 +1,89 @@
 [
   {
+    "id": "fce02253bcddae2b",
+    "title": "Росіяни вдарили по Запоріжжю: постраждала людина",
+    "summary": "У Запоріжжі внаслідок обстрілу 26 червня пошкоджено житловий будинок, поранена жінка.",
+    "url": "https://www.pravda.com.ua/news/2026/06/26/8041162/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T23:40:00+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/858342/55c6864db3dbe3affba22d2c1e95f4ad.jpeg"
+  },
+  {
+    "id": "ec9a0a3a149337c0",
+    "title": "Король Чарльз ІІІ вперше подав податкову декларацію",
+    "summary": "Монарх прозвітував про доходи та сплачені з них кошти до казни.",
+    "url": "https://lb.ua/world/2026/06/26/747622_korol_charlz_iii_vpershe_podav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T23:29:00+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://i.lb.ua/news/076/60/6a3dbd82bd6bf.jpg"
+  },
+  {
+    "id": "16eaab62e5437f3b",
+    "title": "Росіяни обстріляли балістикою і БПЛА Кременчук на Полтавщині",
+    "summary": "Цілили в енергетичний об'єкт.",
+    "url": "https://lb.ua/society/2026/06/26/747620_rosiyani_obstrilyali_balistikoyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T22:45:00+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://i.lb.ua/news/029/37/6a3dafee0c12f.jpg"
+  },
+  {
+    "id": "55ed28d9dbf9ceb8",
+    "title": "Android 17’s new foldable gaming mode could make flippy phones more fun",
+    "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller…",
+    "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T22:33:54+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9b4e56f5e4d397d9",
+    "title": "На конференції у Гданську підписали 160 угод на понад 10 млрд євро – Свириденко",
+    "summary": "Прем'єр-міністр України Юлія Свириденко повідомила про підписання 160 угод на суму понад 10 мільярдів євро за підсумками Конференції у Гданську.",
+    "url": "https://www.pravda.com.ua/news/2026/06/26/8041161/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T22:32:00+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/858341/9d2104274d1d5e4beffcda19b0ffeec8.jpeg"
+  },
+  {
+    "id": "e08e084269082cd3",
+    "title": "Еквадор сенсаційно обіграв Німеччину на Мундіалі і вигриз собі місце у плей-оф",
+    "summary": "Третє місце з чотирма очками вже точно означає прохід далі.",
+    "url": "https://lb.ua/sport/2026/06/26/747618_ekvador_sensatsiyno_obigrav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-25T22:13:00+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://i.lb.ua/news/012/53/6a3da76e126e5.jpg"
+  },
+  {
+    "id": "42b2a1fe1404eded",
+    "title": "YouTube updates Shorts to make it even more like TikTok",
+    "summary": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is…",
+    "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T22:08:30+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/youtube-shorts-clear-screen.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "efaf3577e980524f",
     "title": "OpenAI will delay GPT-5.6 after Trump administration request",
     "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release…",
@@ -36,6 +120,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/9/858338/a9d33f23e472f31ddab5b771584ea9e4.jpeg"
   },
   {
+    "id": "040acb671c8d2d49",
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet Comments URL: https://news.ycombinator.com/item?id=48679608 Points: 243 # Comments: 98",
+    "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T21:44:55+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!ikRw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9049285c-dc2e-420a-b023-0f94858244b3_1000x667.jpeg"
+  },
+  {
     "id": "cb9d818373401432",
     "title": "Свириденко: 160 угод на 10 мільярдів євро підписала Україна на конференції у Гданську",
     "summary": "Прем'єрка і очільниця делегації підбила підсумки заходу у Польщі.",
@@ -58,6 +154,18 @@
     "published": "2026-06-25T21:23:47+00:00",
     "fetched": "2026-06-25T22:05:11+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/framework-laptop-13-pro-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "78c2b5a1fa71fe94",
+    "title": "Migrating from Proxmox to NixOS and Incus",
+    "summary": "Article URL: https://www.nijho.lt/post/proxmox-to-nixos/ Comments URL: https://news.ycombinator.com/item?id=48679385 Points: 29 # Comments: 13",
+    "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T21:22:59+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://www.nijho.lt/media/icon_hu80d4068d4a221917e6e98566e3ddf93f_419855_512x512_fill_lanczos_center_3.png"
   },
   {
     "id": "6df416ab316ba7cc",
@@ -156,6 +264,18 @@
     "image": "https://i.lb.ua/news/063/26/6a3d8fd15d107.jpg"
   },
   {
+    "id": "84cdef0244b33306",
+    "title": "Microsoft adds another year to Windows 10 extended update program",
+    "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
+    "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T20:24:09+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg"
+  },
+  {
     "id": "568d356a2f41e0cc",
     "title": "Score a discounted Xbox console before the prices jump",
     "summary": "Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computing. Thankfully, we’re already out looking for Prime Day deals, and we were able to…",
@@ -214,6 +334,30 @@
     "published": "2026-06-25T20:10:24+00:00",
     "fetched": "2026-06-25T22:05:11+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-24-at-4.43.00-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "140e97e3abf68e9e",
+    "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+    "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+    "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T20:01:08+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg"
+  },
+  {
+    "id": "6ea0a971b61ccdbf",
+    "title": "The Doorman's Fallacy in action",
+    "summary": "Article URL: https://rozumem.xyz/posts/17 Comments URL: https://news.ycombinator.com/item?id=48678495 Points: 36 # Comments: 56",
+    "url": "https://rozumem.xyz/posts/17",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-25T20:00:35+00:00",
+    "fetched": "2026-06-25T23:53:41+00:00",
+    "image": null
   },
   {
     "id": "6373e285500b5862",
@@ -40150,149 +40294,5 @@
     "published": "2026-06-12T00:36:00+00:00",
     "fetched": "2026-06-12T05:16:07+00:00",
     "image": "https://i.lb.ua/news/095/43/6a2b56ad09eb3.jpg"
-  },
-  {
-    "id": "fe7752b9ed01bf83",
-    "title": "SpaceX встановила ціну історичного IPO: компанію оцінили в рекордні $1,77 трлн",
-    "summary": "Аерокосмічна компанія SpaceX Ілона Маска встановила ціну найбільшого в історії США первинного публічного розміщення акцій (IPO) на рівні 135 доларів за штуку, залучивши рекордні 75 мільярдів доларів та отримавши загальну оцінку в 1,77 трильйона доларів.",
-    "url": "https://www.pravda.com.ua/news/2026/06/12/8038928/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T23:53:00+00:00",
-    "fetched": "2026-06-12T00:04:19+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/847748/2bbda93821897011e036200966dbaeb6.jpeg"
-  },
-  {
-    "id": "b04f32a9c91d8a27",
-    "title": "Biological Evolution and Information Acquisition",
-    "summary": "Article URL: https://www.construction-physics.com/p/biological-evolution-and-information Comments URL: https://news.ycombinator.com/item?id=48497873 Points: 3 # Comments: 0",
-    "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T23:33:17+00:00",
-    "fetched": "2026-06-12T00:04:20+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!v8fH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46bf94ca-109b-4884-aaac-4e04fafb2dd2_989x446.png"
-  },
-  {
-    "id": "5a12447d7278a4f5",
-    "title": "Цифри на траві у Вашингтоні розглядають як смертельну погрозу Трампу",
-    "summary": "На Національній алеї з'явилося величезне число 8647.",
-    "url": "https://lb.ua/world/2026/06/12/744690_tsifri_travi_vashingtoni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T23:29:00+00:00",
-    "fetched": "2026-06-12T00:04:19+00:00",
-    "image": "https://i.lb.ua/news/077/47/6a2b44bfe8fb5.jpg"
-  },
-  {
-    "id": "157a5d590bd2f020",
-    "title": "Американські законодавці схвалили збільшення безпекової допомоги Україні до $750 млн",
-    "summary": "Комітет Сенату США зі збройних сил проголосував за продовження безпекової допомоги Україні та збільшення затвердженого фінансування до 750 мільйонів доларів у межах оборонного бюджету.",
-    "url": "https://www.pravda.com.ua/news/2026/06/12/8038927/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T23:17:00+00:00",
-    "fetched": "2026-06-12T00:04:19+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/3/847747/d3c985d7c1ec6e153c5ae459e4a4cfcd.jpeg"
-  },
-  {
-    "id": "cf9da59b0cd02417",
-    "title": "Why the economics make this the craziest World Cup ever",
-    "summary": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
-    "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-11T23:07:52+00:00",
-    "fetched": "2026-06-12T05:16:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf58/live/e0108980-65a7-11f1-b1db-af71d47507d6.jpg"
-  },
-  {
-    "id": "6563db6bf842b7f6",
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "summary": "Article URL: https://tombedor.dev/human-attention-and-human-effort/ Comments URL: https://news.ycombinator.com/item?id=48497609 Points: 109 # Comments: 12",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T23:01:55+00:00",
-    "fetched": "2026-06-12T00:04:20+00:00",
-    "image": "https://tombedor.dev/img/icon-1024.png"
-  },
-  {
-    "id": "468279bd381597de",
-    "title": "This Jacket Pulls Drinking Water from Thin Air",
-    "summary": "Article URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/ Comments URL: https://news.ycombinator.com/item?id=48497576 Points: 4 # Comments: 0",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T22:59:22+00:00",
-    "fetched": "2026-06-12T00:04:20+00:00",
-    "image": "https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg"
-  },
-  {
-    "id": "51834342308f466d",
-    "title": "У Нідерландах авто збило групу школярів, загинули троє дітей і вчитель",
-    "summary": "Учні на велосипедах брали участь у роботі шкільного табору.",
-    "url": "https://lb.ua/world/2026/06/12/744688_niderlandah_avto_zbilo_grupu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T22:50:00+00:00",
-    "fetched": "2026-06-12T00:04:19+00:00",
-    "image": "https://i.lb.ua/news/036/13/6a2b3a2bad819.jpg"
-  },
-  {
-    "id": "619e474e6f5c861a",
-    "title": "Новим міністром оборони Великої Британії став Ден Джарвіс",
-    "summary": "Кір Стармер оголосив Дена Джарвіса новим міністром оборони після відставки Джона Гілі через суперечки щодо бюджету.",
-    "url": "https://www.pravda.com.ua/news/2026/06/12/8038926/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T22:33:00+00:00",
-    "fetched": "2026-06-12T00:04:19+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/847746/7ac90e9eeb16770f6f3ddfe429c47fda.jpeg"
-  },
-  {
-    "id": "0d22a55f8c47b734",
-    "title": "Трамп визначився з кандидатом на посаду голови національної розвідки США",
-    "summary": "Посада дістанеться юристу, який раніше вже був в адміністрації республіканця.",
-    "url": "https://lb.ua/world/2026/06/12/744686_tramp_viznachivsya_z_kandidatom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-11T22:20:00+00:00",
-    "fetched": "2026-06-12T00:04:19+00:00",
-    "image": "https://i.lb.ua/news/061/16/6a2b354e7e2a9.jpg"
-  },
-  {
-    "id": "1139bfdcfa371ca0",
-    "title": "The unreasonable effectiveness of simple HTML (2021)",
-    "summary": "Article URL: https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/ Comments URL: https://news.ycombinator.com/item?id=48497168 Points: 52 # Comments: 10",
-    "url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T22:17:08+00:00",
-    "fetched": "2026-06-12T00:04:20+00:00",
-    "image": "https://shkspr.mobi/blog/wp-content/uploads/2018/01/HTML5_Badge_512.png"
-  },
-  {
-    "id": "b2f3ed14d6da07a8",
-    "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
-    "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the software it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more…",
-    "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-11T22:06:32+00:00",
-    "fetched": "2026-06-11T22:08:12+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
