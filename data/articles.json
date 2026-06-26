@@ -1,5 +1,113 @@
 [
   {
+    "id": "b9cf1045a7c3bd4e",
+    "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
+    "summary": "We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp…",
+    "url": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:51:28+00:00",
+    "fetched": "2026-06-26T23:12:07+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlampbasiclifestyle.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "220fd307a5a92cb8",
+    "title": "У МЗС Польщі визнали \"неадекватність\" рішення президента забрати орден у Зеленського",
+    "summary": "Але й до української сторони претензії залишаються.",
+    "url": "https://lb.ua/news/2026/06/27/747864_mzs_polschi_viznali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T22:50:00+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://i.lb.ua/news/087/23/6a3f0101b4da7.jpg"
+  },
+  {
+    "id": "c47540b1d8568606",
+    "title": "The US lifts its block on Mythos 5",
+    "summary": "Article URL: https://twitter.com/Techmeme/status/2070638481265905837 Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 18 # Comments: 5",
+    "url": "https://twitter.com/Techmeme/status/2070638481265905837",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:48:28+00:00",
+    "fetched": "2026-06-26T23:12:07+00:00",
+    "image": "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg_200x200.jpg"
+  },
+  {
+    "id": "a85d0cc625172cf9",
+    "title": "Веніславський про скандал у \"Скелі\": Підстав для звільнення Сирсього \"точно немає\"",
+    "summary": "Веніславський після свідчень про полк \"Скеля\" заявив, що не бачить підстав для звільнення Сирського.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041315/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T22:38:00+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/6/858957/06b4d1a7d5728c422876e552dcb41dce.jpeg"
+  },
+  {
+    "id": "bf5cbc34874d1352",
+    "title": "South Korea plans to train entire military as \"drone warriors\"",
+    "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+    "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:19:05+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg"
+  },
+  {
+    "id": "665528a3335a7aa4",
+    "title": "Армія США завдала удару по Ірану у відповідь на обстріл судна в Ормузькій протоці",
+    "summary": "Дивне \"перемир'я\" між Вашингтоном та Тегераном, яке поки ніхто не скасовує.",
+    "url": "https://lb.ua/world/2026/06/27/747862_armiya_ssha_zavdala_udaru_iranu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T22:12:00+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://i.lb.ua/news/093/51/6a3ef8981cab2.jpg"
+  },
+  {
+    "id": "5625454603d3e21a",
+    "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+    "summary": "We’ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I’m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you’re…",
+    "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:09:46+00:00",
+    "fetched": "2026-06-26T23:12:07+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/062626_Vampliers_VT001_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c418d729b3d8ce51",
+    "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+    "summary": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on. Comments URL: https://news.ycombinator.com/item?id=48692474 Points: 25 # Comments: 22",
+    "url": "https://news.ycombinator.com/item?id=48692474",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T21:54:59+00:00",
+    "fetched": "2026-06-26T23:12:07+00:00",
+    "image": null
+  },
+  {
+    "id": "b6d6f42d87a94db9",
+    "title": "Російський безпілотник атакував домогосподарство на Сумщині: загинув чоловік",
+    "summary": "У Сумському районі загинув чоловік через атаку російського дрона.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041314/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T21:54:00+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/858956/7127f5da2eeae9e792a2f1fa934a4bcd.jpeg"
+  },
+  {
     "id": "5238b59a46a9ad09",
     "title": "Таллінн прийматиме наступну Конференцію з відновлення України у 2027 році",
     "summary": "Естонія має намір залучити до організації заходу й інші балтійські країни.",
@@ -10,6 +118,18 @@
     "published": "2026-06-26T21:45:00+00:00",
     "fetched": "2026-06-26T21:48:21+00:00",
     "image": "https://i.lb.ua/news/120/17/6a3eeec7329ad.jpg"
+  },
+  {
+    "id": "cbacf09d10ba6ede",
+    "title": "Doctors suspected man had brain cancer. He actually had worms.",
+    "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
+    "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T21:43:57+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg"
   },
   {
     "id": "8331de1b59dfede8",
@@ -48,6 +168,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlights.webp?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "e7426b2ad5260398",
+    "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
+    "summary": "Article URL: https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook Comments URL: https://news.ycombinator.com/item?id=48692098…",
+    "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T21:19:20+00:00",
+    "fetched": "2026-06-26T23:12:07+00:00",
+    "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-171322864.jpg"
+  },
+  {
     "id": "c3ac543f2be205ca",
     "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
     "summary": "Article URL: https://github.com/Tessil/hopscotch-map Comments URL: https://news.ycombinator.com/item?id=48692090 Points: 6 # Comments: 0",
@@ -82,6 +214,30 @@
     "published": "2026-06-26T21:14:47+00:00",
     "fetched": "2026-06-26T21:48:21+00:00",
     "image": null
+  },
+  {
+    "id": "7987f204b8d9ab6a",
+    "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme Comments URL: https://news.ycombinator.com/item?id=48692051 Points: 95 # Comments: 8",
+    "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T21:13:50+00:00",
+    "fetched": "2026-06-26T23:12:07+00:00",
+    "image": "https://www.eff.org/files/banner_library/3dprintca.jpg"
+  },
+  {
+    "id": "6cd37c38edfc9efb",
+    "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+    "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
+    "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T21:12:07+00:00",
+    "fetched": "2026-06-26T23:12:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-1152x648.jpg"
   },
   {
     "id": "3ac97639e0a9b80d",
@@ -40210,149 +40366,5 @@
     "published": "2026-06-12T23:12:39+00:00",
     "fetched": "2026-06-13T00:03:06+00:00",
     "image": null
-  },
-  {
-    "id": "ad0c55e16525b42e",
-    "title": "Switzerland to vote on plan to cap population at 10 million",
-    "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
-    "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-12T23:02:11+00:00",
-    "fetched": "2026-06-13T11:19:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg"
-  },
-  {
-    "id": "5dcbc09ed52ab4f6",
-    "title": "AMD Stiffs Researcher $10k Bug Bounty",
-    "summary": "Article URL: https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix Comments URL: https://news.ycombinator.com/item?id=48510357 Points: 10 # Comments: 0",
-    "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T22:57:27+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_820200656_S.jpg"
-  },
-  {
-    "id": "b76a6806ea9b1613",
-    "title": "Show HN: Putt.day a daily mini golf game",
-    "summary": "Article URL: https://putt.day/ Comments URL: https://news.ycombinator.com/item?id=48510341 Points: 27 # Comments: 21",
-    "url": "https://putt.day/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T22:56:06+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://putt.day/hero.webp"
-  },
-  {
-    "id": "1fa47499fc047188",
-    "title": "Внаслідок атаки росіян на Шостку у лікарні померла 33-річна жінка",
-    "summary": "Кількість жертв обстрілу у ніч на 12 червня зросла до двох.",
-    "url": "https://lb.ua/society/2026/06/13/744958_vnaslidok_ataki_rosiyan_shostku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T22:49:00+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://i.lb.ua/news/014/39/6a2c8c6b2fc3e.jpg"
-  },
-  {
-    "id": "26af9d320b434541",
-    "title": "Буданов анонсував розробку закону про спецстатус для прифронтових територій України",
-    "summary": "Створено робочу групу для розробки комплексного закону щодо прифронтових територій.",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039096/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T22:47:00+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/848594/0a63322e3340aa916f678dc42e72a366.jpeg"
-  },
-  {
-    "id": "fccb96b1bffffcfc",
-    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
-    "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T22:20:06+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg"
-  },
-  {
-    "id": "4cb918a3c2601b3b",
-    "title": "Боксер Олександр Усик зустрівся у Білому домі з Дональдом Трампом",
-    "summary": "Ймовірно, українець опинився серед запрошених на вечір MMA у день народження республіканця.",
-    "url": "https://lb.ua/sport/2026/06/13/744954_bokser_oleksandr_usik_zustrivsya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T22:16:00+00:00",
-    "fetched": "2026-06-12T22:27:33+00:00",
-    "image": "https://i.lb.ua/news/109/03/6a2c8559f33d5.jpg"
-  },
-  {
-    "id": "85161612a131d111",
-    "title": "Twenty One Zero-Days in FFmpeg",
-    "summary": "Article URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg Comments URL: https://news.ycombinator.com/item?id=48510046 Points: 46 # Comments: 19",
-    "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T22:13:29+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://depthfirst.com/uploads/21%20zero%20days%20in%20FFmpeg.png"
-  },
-  {
-    "id": "92dac799c2002b76",
-    "title": "Renault: Electric motors with no rare earths",
-    "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48510010 Points: 98 # Comments: 25",
-    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T22:08:03+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://assets.renaultgroup.com/uploads/2025/10/Desktop_rebond_renault_5-1024x640.jpg"
-  },
-  {
-    "id": "623857982d421736",
-    "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-    "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
-    "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-12T22:00:52+00:00",
-    "fetched": "2026-06-12T22:27:32+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg"
-  },
-  {
-    "id": "ce83b89a761f746c",
-    "title": "Китай заявляє, що іноземні розвідки використовують риб-шпигунів для стеження у водах країни",
-    "summary": "В Китайському міністерстві державної безпеки заявляють, що морських тварин оснастили датчиками для плавання в певних районах, збору даних про океан та передачі їх на закордонні супутники.",
-    "url": "https://lb.ua/world/2026/06/13/744956_kitay_zayavlyaie_scho_inozemni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T22:00:00+00:00",
-    "fetched": "2026-06-12T22:27:33+00:00",
-    "image": "https://i.lb.ua/news/071/53/6a2c8239d1479.jpg"
-  },
-  {
-    "id": "e30f8dee0b0bb108",
-    "title": "SkillSpector",
-    "summary": "Article URL: https://github.com/NVIDIA/SkillSpector Comments URL: https://news.ycombinator.com/item?id=48509844 Points: 7 # Comments: 0",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T21:49:49+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://opengraph.githubassets.com/4a71771a98526e3bbb3cc8719d15d046ef910d1e8bb843944459d8c9e46a39ee/NVIDIA/SkillSpector"
   }
 ]
