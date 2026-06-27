@@ -1,5 +1,149 @@
 [
   {
+    "id": "bbdae54d48e5a423",
+    "title": "У неділю в Україні очікується спека до 38 градусів",
+    "summary": "Місцями – невеликий короткочасний дощ.",
+    "url": "https://lb.ua/society/2026/06/27/748020_nedilyu_ukrayini_ochikuietsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T20:04:00+00:00",
+    "fetched": "2026-06-27T20:11:07+00:00",
+    "image": "https://i.lb.ua/news/011/44/6a402cd88fb61.jpg"
+  },
+  {
+    "id": "4b61ad9e9bcce460",
+    "title": "З початку доби на фронті 200 боїв: найактивніше ворог атакував Покровський і ще два напрямки",
+    "summary": "Ворог штурмує Покровський, Слов’янський, Костянтинівський напрямки. ЗСУ відбивають атаки по всій лінії фронту.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041412/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T19:56:00+00:00",
+    "fetched": "2026-06-27T20:11:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/859343/2bb55e4180b9e921cd0c3f24b6c7d7e7.jpeg"
+  },
+  {
+    "id": "66db6dd04d065c4c",
+    "title": "Фіцо заявив, що Словаччина не долучиться до багатомільярдної допомоги Україні на липневому саміті НАТО",
+    "summary": "На саміті в Анкарі обговорюватимуть новий пакет військової допомоги Україні на суму 70 млрд євро. Прем'єр Словаччини каже, що його країна не платитиме за військові витрати України.",
+    "url": "https://lb.ua/news/2026/06/27/748018_fitso_zayaviv_scho_slovachchina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T19:54:00+00:00",
+    "fetched": "2026-06-27T20:11:07+00:00",
+    "image": "https://i.lb.ua/news/120/31/6a4026d29be2a.jpg"
+  },
+  {
+    "id": "edfb6578ff20e234",
+    "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+    "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes which struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of the country’s top politicians Jorge…",
+    "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-27T19:52:15+00:00",
+    "fetched": "2026-06-27T20:11:06+00:00",
+    "image": "https://i.guim.co.uk/img/media/d043dc7b3e61f877612c4b412bbe81367888456c/1254_0_6800_5440/master/6800.jpg?width=140&quality=85&auto=format&fit=max&s=687509464bceb613eeb17b6f723de5e4"
+  },
+  {
+    "id": "595954cb9eeee80a",
+    "title": "Дрони РФ увечері атакували Чернігів: уламки впали на території освітнього закладу, є постраждалі",
+    "summary": "Увечері в Чернігові російські безпілотники поранили двох людей та пошкодили школу й житловий будинок.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041410/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T19:35:00+00:00",
+    "fetched": "2026-06-27T20:11:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/d/859330/0de8bdcef68b46a207e7fcef6d2c8ae8.jpeg"
+  },
+  {
+    "id": "5ceb5890e72ea77e",
+    "title": "Загалом від початку цієї доби на фронті відбулося 200 бойових зіткнень",
+    "summary": "Противник завдав одного ракетного удару, застосував чотири ракети, здійснив 55 авіаційних ударів, скинув 171 керовану авіабомбу. Крім того, залучив для ураження 6401 дрон–камікадзе та здійснив 1986 обстрілів населених пунктів і позицій наших військ.",
+    "url": "https://lb.ua/society/2026/06/27/748016_zagalom_vid_pochatku_tsiieyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T19:28:00+00:00",
+    "fetched": "2026-06-27T20:11:07+00:00",
+    "image": "https://i.lb.ua/news/008/17/6a40246631a5d.jpg"
+  },
+  {
+    "id": "e49b479862b09cd6",
+    "title": "IP Crawl: living atlas of open webcams discovered on the public internet",
+    "summary": "Article URL: https://ipcrawl.com/ Comments URL: https://news.ycombinator.com/item?id=48700834 Points: 12 # Comments: 5",
+    "url": "https://ipcrawl.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T19:09:49+00:00",
+    "fetched": "2026-06-27T20:11:14+00:00",
+    "image": null
+  },
+  {
+    "id": "002b408244da3a4b",
+    "title": "Джулі Девіс завершила дипмісію в Україні на посаді тимчасово повіреної США",
+    "summary": "Сибіга обговорив з Джулі Девіс співпрацю України та США та подякував за підтримку.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041409/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T19:07:00+00:00",
+    "fetched": "2026-06-27T20:11:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/859328/a0ac36dacf318c875e80fa575f2f097f.jpeg"
+  },
+  {
+    "id": "ccc4657dbb77738e",
+    "title": "Axios: на саміті G7 Трамп висловив розчарування Путіним і натякнув, що може відійти від «домовленостей Анкориджа»",
+    "summary": "Водночас президент США вважає, що Україна зараз «досить добре справляється» у війні.",
+    "url": "https://lb.ua/news/2026/06/27/748014_axios_samiti_g7_tramp_visloviv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T19:07:00+00:00",
+    "fetched": "2026-06-27T20:11:07+00:00",
+    "image": "https://i.lb.ua/news/058/03/6a401f235d469.jpg"
+  },
+  {
+    "id": "f2fb8ae38e726a8d",
+    "title": "Ships keep moving through Hormuz despite strike",
+    "summary": "Article URL: https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy Comments URL: https://news.ycombinator.com/item?id=48700805 Points: 26 # Comments: 3",
+    "url": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T19:06:03+00:00",
+    "fetched": "2026-06-27T20:11:14+00:00",
+    "image": "https://www.lloydslist.com/-/media/lloyds-list/images/strait-of-hormuz-crisis/cargo-ships-waiting-to-pass-the-strait-of-hormuz.png?rev=dd9a650af0f14c8ca62543b496723f60"
+  },
+  {
+    "id": "5f2a7c839c00e582",
+    "title": "Тимчасова повірена у справах США в Україні Джулі Девіс завершила свою дипломатичну місію",
+    "summary": "Глава МЗС Андрій Сибіга прийняв Джулі Девіс і обговорив з нею актуальну безпекову ситуацію та мирні зусилля.",
+    "url": "https://lb.ua/news/2026/06/27/748012_timchasova_povirena_spravah_ssha.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T18:44:00+00:00",
+    "fetched": "2026-06-27T20:11:07+00:00",
+    "image": "https://i.lb.ua/news/065/28/6a401a34f313c.jpg"
+  },
+  {
+    "id": "69da80dfbdd5f659",
+    "title": "Вучич оголосив, що через декілька тижнів піде у відставку",
+    "summary": "Вучич йде у відставку: у Сербії пройдуть дострокові президентські та парламентські вибори.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041408/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T18:43:00+00:00",
+    "fetched": "2026-06-27T20:11:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/859327/b6f66fecf926018ed65aeea4ff4556e5.jpeg"
+  },
+  {
     "id": "d294ddc3f6bec615",
     "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
     "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to…",
@@ -58,6 +202,18 @@
     "published": "2026-06-27T18:05:00+00:00",
     "fetched": "2026-06-27T18:45:35+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/859315/99cd95d3fb56b1518ecda4f73f4d8145.jpeg"
+  },
+  {
+    "id": "67b02d8644bae859",
+    "title": "The Card That Made the Apple II Serious",
+    "summary": "Article URL: https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/ Comments URL: https://news.ycombinator.com/item?id=48700317 Points: 10 # Comments: 0",
+    "url": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T18:00:46+00:00",
+    "fetched": "2026-06-27T20:11:14+00:00",
+    "image": "https://www.wiseowl.com/images/author-1.jpg"
   },
   {
     "id": "e0dd6b0827ec4152",
@@ -154,6 +310,18 @@
     "published": "2026-06-27T17:00:00+00:00",
     "fetched": "2026-06-27T17:16:45+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/859296/0fad5cc6ceb29de1d4173eb23a4775fd.jpeg"
+  },
+  {
+    "id": "43f4dd3173fe0776",
+    "title": "Screen time can damage under-twos' development, landmark study suggests",
+    "summary": "Article URL: https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study Comments URL: https://news.ycombinator.com/item?id=48699778 Points: 33 # Comments: 4",
+    "url": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T16:51:09+00:00",
+    "fetched": "2026-06-27T20:11:14+00:00",
+    "image": "https://i.guim.co.uk/img/media/80926b962ff832a320bb64479ff8effa6baaa3ba/637_0_4995_3995/master/4995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c4e6089037de66e0c363359bfadcdf"
   },
   {
     "id": "e2525cc04511ee3c",
@@ -442,6 +610,18 @@
     "published": "2026-06-27T13:49:00+00:00",
     "fetched": "2026-06-27T14:14:19+00:00",
     "image": "https://i.lb.ua/news/026/42/6a3fd518cf399.jpg"
+  },
+  {
+    "id": "7c8436d4e9eb1128",
+    "title": "Running a software jam in a world of slop",
+    "summary": "I'm Fox. I'm a 16 year old, and I've been working mostly working on making projects I thought were cool & would do well on the internet over the last year. You can check out my other blog posts if you want to get a sense of what that means: < https://foxmoss.com/blog >. Hack…",
+    "url": "https://foxmoss.com/blog/radish/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T13:36:45+00:00",
+    "fetched": "2026-06-27T20:11:14+00:00",
+    "image": "https://foxmoss.com/_astro/radish.zj5-P7Lp.jpg"
   },
   {
     "id": "e54c6f146e817cb3",
@@ -39982,125 +40162,5 @@
     "published": "2026-06-13T20:25:00+00:00",
     "fetched": "2026-06-13T21:47:03+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/849014/d0e258edf74e1e8b64c61da2d655e664.jpeg"
-  },
-  {
-    "id": "06d73e677fdaed5d",
-    "title": "У неділю в Україні очікуються короткочасні дощі, місцями грози",
-    "summary": "Температура вдень до 26 градусів тепла.",
-    "url": "https://lb.ua/society/2026/06/13/745134_nedilyu_ukrayini_ochikuyutsya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T20:11:00+00:00",
-    "fetched": "2026-06-13T21:47:03+00:00",
-    "image": "https://i.lb.ua/news/000/35/6a2db97ee0fd6.jpg"
-  },
-  {
-    "id": "2c3e6fc1d2c474bd",
-    "title": "X-Men ’97 has what Master of the Universe is missing",
-    "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of…",
-    "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T20:00:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X-MEN97S2-trailer-0180_203.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "1cb48a760b1c4ff7",
-    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-    "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 60 # Comments: 12",
-    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T19:54:55+00:00",
-    "fetched": "2026-06-13T21:47:03+00:00",
-    "image": null
-  },
-  {
-    "id": "0c39743cb9211194",
-    "title": "Орбана переобрали лідером партії “Фідес” попри історичну поразку на виборах",
-    "summary": "На партійному з’їзді Орбан балотувався без конкурентів. \"Проти\" не проголосував ніхто, втім вісім делегатів утрималися.",
-    "url": "https://lb.ua/news/2026/06/13/745132_orbana_pereobrali_liderom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T19:54:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://i.lb.ua/news/120/60/6a2db57f533cb.jpg"
-  },
-  {
-    "id": "dcbcaaa9270a9169",
-    "title": "У суботу на фронті відбулося майже 180 боїв – Генштаб",
-    "summary": "Станом на 22:00 зафіксовано 179 боїв, основні атаки ворога — на Покровському та Гуляйпільському напрямках.",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039195/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T19:47:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/2/848998/f2536f214a1348d2fb02c92cbe9442d4.jpeg"
-  },
-  {
-    "id": "655b9de4a3458e79",
-    "title": "Шістьох громадян Грузії засудили до в’язниці у Франції за крадіжку російських рідкісних книг",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039194/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T19:41:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": null
-  },
-  {
-    "id": "d779182345eaa720",
-    "title": "Компанія Anthropic заявила, що уряд США зобов’язав її закрити доступ іноземцям до двох її останніх ШІ-моделей",
-    "summary": "Влада США у своєму рішенні керувалася міркування національної безпеки. Компанія повідомила, що виконає розпорядження уряду.",
-    "url": "https://lb.ua/world/2026/06/13/745130_kompaniya_anthropic_zayavila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T19:37:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://i.lb.ua/news/021/21/6a2db1a358804.jpg"
-  },
-  {
-    "id": "d266b5f8cfbcf148",
-    "title": "Загалом від початку цієї доби на фронті відбулося 179 бойових зіткнень",
-    "summary": "Противник завдав 65 авіаційних ударів, скинувши 196 керованих авіаційних бомб. Крім того, загарбники залучили для ураження 6438 дронів-камікадзе та здійснили 2154 обстріли позицій наших військ та населених пунктів.",
-    "url": "https://lb.ua/society/2026/06/13/745128_zagalom_vid_pochatku_tsiieyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T19:12:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://i.lb.ua/news/000/57/6a2dab9ae8259.jpg"
-  },
-  {
-    "id": "f3fde5663e478cca",
-    "title": "Зеленський: Без України і нашого досвіду Європі може бути дуже складно",
-    "summary": "Зеленський заявив, що Україна важлива Європі у протистоянні агресії РФ.",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039193/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T19:06:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/3/848982/83eddf2d8e614ec5ffbcd3edc4b14a76.jpeg"
-  },
-  {
-    "id": "a0e00700c5417916",
-    "title": "Зеленський: Євросоюз підтвердив готовність відкрити перший кластер у межах перемовин про вступ України до ЄС",
-    "summary": "Водночас глава держави зазначив, що Україна готова до відкриття шести кластерів.",
-    "url": "https://lb.ua/news/2026/06/13/745126_zelenskiy_ievrosoyuz_pidtverdiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T18:55:00+00:00",
-    "fetched": "2026-06-13T20:03:33+00:00",
-    "image": "https://i.lb.ua/news/026/12/6a2da7bcc3af1.jpg"
   }
 ]
