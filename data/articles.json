@@ -1,5 +1,101 @@
 [
   {
+    "id": "c4952ff1d3ccde3d",
+    "title": "Росія атакувала Київ балістикою",
+    "summary": "Ворог здійснив декілька пусків.",
+    "url": "https://lb.ua/society/2026/06/28/748028_rosiya_atakuvala_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T22:59:00+00:00",
+    "fetched": "2026-06-27T23:08:06+00:00",
+    "image": "https://i.lb.ua/news/114/36/6a40566cc89e5.jpg"
+  },
+  {
+    "id": "78f1674f620239f4",
+    "title": "У Києві та низці областей – повітряна тривога через загрозу балістики",
+    "summary": "У ніч на неділю, 28 червня, у Києві та низці областей оголошували повітряну тривогу через загрозу ворожої балістики.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041421/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T22:58:00+00:00",
+    "fetched": "2026-06-27T23:08:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/859377/d0cdd5a1cf40b4fff165462f8bfc420e.jpeg"
+  },
+  {
+    "id": "9738fdd2c6aec937",
+    "title": "У США заявили про нові удари по цілях Ірану",
+    "summary": "Військові США заявили про нові удари по цілях Ірану у відповідь на атаки суден в Ормузі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041420/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T22:04:00+00:00",
+    "fetched": "2026-06-27T23:08:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/e/859376/ce2d4edb2f533ea0f66e2d9b7ea40c76.jpeg"
+  },
+  {
+    "id": "129ddb00817249d3",
+    "title": "В Україні представили морський безпілотник MOBIDIK і назвали його переваги",
+    "summary": "MOBIDIK: новий український морський безпілотник представили в Україні.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041419/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T21:54:00+00:00",
+    "fetched": "2026-06-27T23:08:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/3/859368/331cca051ce769df14afef537c85b45c.jpeg"
+  },
+  {
+    "id": "8242f4f7d8bff45d",
+    "title": "Michigan spent $1.8B and only created 602 jobs",
+    "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu Comments URL: https://news.ycombinator.com/item?id=48702060 Points: 35 # Comments: 9",
+    "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T21:44:57+00:00",
+    "fetched": "2026-06-27T23:08:06+00:00",
+    "image": null
+  },
+  {
+    "id": "63af20bc73a81916",
+    "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+    "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-27T21:35:40+00:00",
+    "fetched": "2026-06-27T23:08:06+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a5/live/076a6550-7241-11f1-930d-75324f3b4c6e.jpg"
+  },
+  {
+    "id": "294985a0e94eb76d",
+    "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice",
+    "summary": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis Comments URL: https://news.ycombinator.com/item?id=48701984 Points: 39 # Comments: 28",
+    "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T21:34:06+00:00",
+    "fetched": "2026-06-27T23:08:06+00:00",
+    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-06/shutterstock_2284966451.jpg?h=99361e79&itok=GqJ4weXl"
+  },
+  {
+    "id": "bd102586a4d58087",
+    "title": "Enhancing X11 Application Security with LXC",
+    "summary": "Article URL: https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/ Comments URL: https://news.ycombinator.com/item?id=48701936 Points: 4 # Comments: 0",
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T21:27:36+00:00",
+    "fetched": "2026-06-27T23:08:06+00:00",
+    "image": null
+  },
+  {
     "id": "e55e00bd4a6aa28a",
     "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
     "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length…",
@@ -10,6 +106,18 @@
     "published": "2026-06-27T21:20:32+00:00",
     "fetched": "2026-06-27T21:38:53+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/teenageengineering1.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ecbcce568fce687f",
+    "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+    "summary": "Article URL: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/ Comments URL: https://news.ycombinator.com/item?id=48701822 Points: 124 # Comments: 39",
+    "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T21:14:19+00:00",
+    "fetched": "2026-06-27T23:08:06+00:00",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26176790762613-e1782489902594.jpg?resize=1200,600"
   },
   {
     "id": "08a3208a8919fcca",
@@ -40174,89 +40282,5 @@
     "published": "2026-06-13T23:11:28+00:00",
     "fetched": "2026-06-14T06:48:24+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b782/live/b3f93840-6699-11f1-80bb-fb4d08542828.jpg"
-  },
-  {
-    "id": "dcb60098fa94dcfd",
-    "title": "Ancient genome duplications laid the foundations of complex brains",
-    "summary": "Article URL: https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains Comments URL: https://news.ycombinator.com/item?id=48522310 Points: 13 # Comments: 1",
-    "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T22:54:37+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": null
-  },
-  {
-    "id": "137dad5bd6b4bff6",
-    "title": "Аліна Михайлова: \"Чия служба цінніша?\". Рефлексія про нову реформу армії",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039199/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T22:29:00+00:00",
-    "fetched": "2026-06-13T23:10:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/849101/og_8039198_ukr.png?w=1200&q=85&stamp=1781391715"
-  },
-  {
-    "id": "d33bd2a7980525e3",
-    "title": "Нова реформа армії. Який сигнал влада посилає тим, хто служить роками?",
-    "summary": "Чим більше я читаю про анонсовану реформу армії, тим більше складається враження, що її автори борються не з реальними проблемами, а з заголовками в новинах, які ще були не почуті.",
-    "url": "https://www.pravda.com.ua/columns/2026/06/14/8039198/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T22:27:00+00:00",
-    "fetched": "2026-06-13T23:10:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/849101/og_8039198_ukr.png?w=1200&q=85&stamp=1781391715"
-  },
-  {
-    "id": "87c0dcdacc450084",
-    "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
-    "summary": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
-    "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-13T22:17:08+00:00",
-    "fetched": "2026-06-13T23:10:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2224/live/f00d5970-6774-11f1-9b6d-7de3d24967e2.jpg"
-  },
-  {
-    "id": "132f592c87b84705",
-    "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
-    "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
-    "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-13T22:05:24+00:00",
-    "fetched": "2026-06-13T23:10:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/963c/live/e31fbd90-1e93-11f1-9120-a910fc22c6ac.jpg"
-  },
-  {
-    "id": "08958db73e3201cf",
-    "title": "В Ірані заперечили заяву Трампа про підписання угоди – ЗМІ",
-    "summary": "Іран спростував заяву Трампа про підписання мирної угоди зі США у неділю, переговори тривають.",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039197/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T21:55:00+00:00",
-    "fetched": "2026-06-13T23:10:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/4/849020/e4377f898fabc747cc7d7238c8c1acc2.jpeg"
-  },
-  {
-    "id": "52f69ed1634e6a12",
-    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-    "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report,…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T21:39:26+00:00",
-    "fetched": "2026-06-13T21:47:03+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
