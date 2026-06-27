@@ -1,5 +1,101 @@
 [
   {
+    "id": "e135c25ccca54fd3",
+    "title": "До 250-річчя США: Трамп опублікував фото паспорта зі своїм портретом",
+    "summary": "До 250-річчя США випустять паспорти із зображенням Трампа.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041319/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T01:22:00+00:00",
+    "fetched": "2026-06-27T01:28:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/b/858961/3b291e63cc1e3fd289df29f3a4172c2d.jpeg"
+  },
+  {
+    "id": "6574c86982fa99dc",
+    "title": "Маленький літак врізався у найвищий хмарочос Пекіна",
+    "summary": "Подробиць інциденту вкрай мало через жорстку інформаційну політику Китаю.",
+    "url": "https://lb.ua/world/2026/06/27/747868_malenkiy_litak_vrizavsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T00:38:00+00:00",
+    "fetched": "2026-06-27T01:28:46+00:00",
+    "image": "https://i.lb.ua/news/062/32/6a3f1eacb250d.jpg"
+  },
+  {
+    "id": "9553ff58439c6bd6",
+    "title": "Anthropic’s Mythos 5 is back",
+    "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T00:33:44+00:00",
+    "fetched": "2026-06-27T01:28:47+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "fea97a757bba8b49",
+    "title": "Держдеп США оголосив про підписання рамкової угоди між Ізраїлем і Ліваном",
+    "summary": "У Вашингтоні у присутності Рубіо Ізраїль і Ліван підписали рамкову угоду.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041318/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-27T00:22:00+00:00",
+    "fetched": "2026-06-27T01:28:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/e/858960/aeea6826bfb9ae75b284cca6687d9a08.jpeg"
+  },
+  {
+    "id": "120537e365105b98",
+    "title": "Кількість загиблих внаслідок землетрусів у Венесуелі зросла до 920",
+    "summary": "Через землетруси, які сталися в середу у Венесуелі кількість загиблих зросла до 920.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041317/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T23:42:00+00:00",
+    "fetched": "2026-06-27T01:28:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/f/858959/7f6718f0b75b5b8c0d9e2bc66cb33c55.jpeg"
+  },
+  {
+    "id": "dbe01ceab1046b02",
+    "title": "Кількість підтверджених жертв землетрусів у Венесуелі наближається до тисячі",
+    "summary": "До країни прибули надзвичайники з-за кордону для допомоги у рятувально-пошукових роботах.",
+    "url": "https://lb.ua/world/2026/06/27/747866_kilkist_pidtverdzhenih_zhertv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T23:35:00+00:00",
+    "fetched": "2026-06-27T01:28:46+00:00",
+    "image": "https://i.lb.ua/news/086/49/6a3f0ce843ba9.jpg"
+  },
+  {
+    "id": "2a2ccbd373a7c8e3",
+    "title": "Om",
+    "summary": "Article URL: https://daringfireball.net/2026/06/om Comments URL: https://news.ycombinator.com/item?id=48693391 Points: 51 # Comments: 4",
+    "url": "https://daringfireball.net/2026/06/om",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T23:33:46+00:00",
+    "fetched": "2026-06-27T01:28:47+00:00",
+    "image": "https://daringfireball.net/graphics/df-wide-card.png"
+  },
+  {
+    "id": "f3618685ee30ed40",
+    "title": "Стубб підписав закон про зберігання ядерної зброї на території країни",
+    "summary": "Президент Фінляндії Александр Стубб підписав зміни до закону про ядерну енергетику, які дозволяють ввезення і транзит ядерної зброї через територію країни.",
+    "url": "https://www.pravda.com.ua/news/2026/06/27/8041316/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-26T23:12:00+00:00",
+    "fetched": "2026-06-27T01:28:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/7/858958/a7742c5f1932d7ad02fc31b7c8103567.jpeg"
+  },
+  {
     "id": "b9cf1045a7c3bd4e",
     "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
     "summary": "We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp…",
@@ -36,6 +132,30 @@
     "image": "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg_200x200.jpg"
   },
   {
+    "id": "6ad99a5d077226eb",
+    "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+    "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/ Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 192 # Comments: 138",
+    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:48:28+00:00",
+    "fetched": "2026-06-27T01:28:47+00:00",
+    "image": null
+  },
+  {
+    "id": "f78b78d8bc06d86d",
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "summary": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed Comments URL: https://news.ycombinator.com/item?id=48692946 Points: 68 # Comments: 28",
+    "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:43:29+00:00",
+    "fetched": "2026-06-27T01:28:47+00:00",
+    "image": "https://physics.stackexchange.com/Content/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228"
+  },
+  {
     "id": "a85d0cc625172cf9",
     "title": "Веніславський про скандал у \"Скелі\": Підстав для звільнення Сирсього \"точно немає\"",
     "summary": "Веніславський після свідчень про полк \"Скеля\" заявив, що не бачить підстав для звільнення Сирського.",
@@ -46,6 +166,18 @@
     "published": "2026-06-26T22:38:00+00:00",
     "fetched": "2026-06-26T23:12:06+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/6/858957/06b4d1a7d5728c422876e552dcb41dce.jpeg"
+  },
+  {
+    "id": "2f3830581c5944b2",
+    "title": "AI in mathematics is forcing big questions",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 34 # Comments: 10",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-26T22:36:51+00:00",
+    "fetched": "2026-06-27T01:28:47+00:00",
+    "image": "https://spectrum.ieee.org/media-library/image.png?id=67007978&width=1200&height=600&coordinates=0%2C0%2C0%2C250"
   },
   {
     "id": "bf5cbc34874d1352",
@@ -40258,113 +40390,5 @@
     "published": "2026-06-13T01:32:18+00:00",
     "fetched": "2026-06-13T05:05:51+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0057.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "1486bd15ee75f567",
-    "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
-    "summary": "The painter broke social taboos by celebrating same-sex relationships in his art.",
-    "url": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-13T01:14:00+00:00",
-    "fetched": "2026-06-13T11:19:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40db/live/40a0bd90-667c-11f1-8546-8f19e4fe30f4.png"
-  },
-  {
-    "id": "0c93909d9c200645",
-    "title": "As a result of a US Government directive, we are suspending access to Fable 5",
-    "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2065597942602531163 Comments URL: https://news.ycombinator.com/item?id=48511168 Points: 82 # Comments: 20",
-    "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T01:02:41+00:00",
-    "fetched": "2026-06-13T05:05:52+00:00",
-    "image": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_200x200.png"
-  },
-  {
-    "id": "b0d10e8dabf27096",
-    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-    "summary": "Article URL: https://www.anthropic.com/news/fable-mythos-access Comments URL: https://news.ycombinator.com/item?id=48511072 Points: 1528 # Comments: 1165",
-    "url": "https://www.anthropic.com/news/fable-mythos-access",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T00:51:30+00:00",
-    "fetched": "2026-06-13T05:05:52+00:00",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png"
-  },
-  {
-    "id": "ca94b458daf8d409",
-    "title": "Трамп вимагає у Конгресу анулювати два його імпічменти",
-    "summary": "Жоден інший глава держави в історії США не був близьким до усунення з посади двічі.",
-    "url": "https://lb.ua/world/2026/06/13/744962_tramp_vimagaie_kongresu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T00:40:00+00:00",
-    "fetched": "2026-06-13T05:05:51+00:00",
-    "image": "https://i.lb.ua/news/089/56/6a2ca7ff17083.jpg"
-  },
-  {
-    "id": "06b0e2491986c5c5",
-    "title": "ЗМІ: США та Іран близькі до підписання угоди щодо припинення війни",
-    "summary": "Скоро може бути підписана угода між США та Іраном: відновлення судноплавства, зняття санкцій, переговори щодо ядерної програми.",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039099/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T00:23:00+00:00",
-    "fetched": "2026-06-13T05:05:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/848597/27cae6bc8e0be331702d23558602e503.jpeg"
-  },
-  {
-    "id": "ad9d9a261a820f4f",
-    "title": "Росіяни атакували безпілотниками Миколаїв, є постраждалі",
-    "summary": "Одразу після обстрілу БПЛА була оголошена балістична загроза.",
-    "url": "https://lb.ua/society/2026/06/13/744960_rosiyani_atakuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T23:37:00+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://i.lb.ua/news/005/05/6a2c98c9e9b8a.jpg"
-  },
-  {
-    "id": "02d5e5b7713f937a",
-    "title": "Росіяни безпілотниками атакували Миколаїв: постраждали люди",
-    "summary": "Внаслідок удару дронів по Миколаєву поранені жінка і чоловік, постраждав 10-річний хлопчик, пошкоджено будинок.",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039098/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T23:31:00+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/848596/730e08181f172164ff102e5044e06c89.jpeg"
-  },
-  {
-    "id": "9197c00832a2973b",
-    "title": "У лікарні померла 33-річна жінка, яка постраждала через удар по Сумщині 12 червня",
-    "summary": "У лікарні померла 33-річна жінка, яка постраждала від обстрілу залізничної інфраструктури в Сумській області.",
-    "url": "https://www.pravda.com.ua/news/2026/06/13/8039097/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-12T23:17:00+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/c/848595/7c11424d2d8699b1796ab222f0ab36aa.jpeg"
-  },
-  {
-    "id": "d4f3546f32f6e98c",
-    "title": "I Think They [Anthropic] Are Lying to You [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=zfYsSFY4l18 Comments URL: https://news.ycombinator.com/item?id=48510471 Points: 8 # Comments: 3",
-    "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-12T23:12:39+00:00",
-    "fetched": "2026-06-13T00:03:06+00:00",
-    "image": null
   }
 ]
