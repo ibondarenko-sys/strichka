@@ -1,5 +1,41 @@
 [
   {
+    "id": "ea54ddb902459b5c",
+    "title": "Пробув під завалами 70 годин: у Венесуелі врятували 11-річного хлопчика",
+    "summary": "У Венесуелі врятували хлопчика, який пробув під завалами майже 3 доби.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041425/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T01:24:00+00:00",
+    "fetched": "2026-06-28T01:34:24+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/d/859395/bd5e71111c0ba99919d81b9452f51f19.jpeg"
+  },
+  {
+    "id": "d388e9b6db5abc82",
+    "title": "Трамп підтвердив удари США по Ірану і повторив погрози",
+    "summary": "Трамп вчергове пригрозив Ірану знищенням.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041424/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T00:36:00+00:00",
+    "fetched": "2026-06-28T01:34:24+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/859388/d45deeca39788ce2ed768c887dc0f8ba.jpeg"
+  },
+  {
+    "id": "27f9ca0fb16a33e5",
+    "title": "На Кубані в Росії після атаки дронів горить НПЗ",
+    "summary": "У ніч на 28 червня українські дрони атакували Слов'янський НПЗ у Росії .",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041423/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T00:04:00+00:00",
+    "fetched": "2026-06-28T01:34:24+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/859387/c889f848cc747b3a18bc8306850ed174.jpeg"
+  },
+  {
     "id": "c4952ff1d3ccde3d",
     "title": "Росія атакувала Київ балістикою",
     "summary": "Ворог здійснив декілька пусків.",
@@ -24,6 +60,30 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/859377/d0cdd5a1cf40b4fff165462f8bfc420e.jpeg"
   },
   {
+    "id": "7190210d73df2563",
+    "title": "Set Up Your Own DoH Service",
+    "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/ Comments URL: https://news.ycombinator.com/item?id=48702361 Points: 7 # Comments: 2",
+    "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T22:24:35+00:00",
+    "fetched": "2026-06-28T01:34:27+00:00",
+    "image": null
+  },
+  {
+    "id": "2a1197f392db4dc3",
+    "title": "Choosing a Public DNS Resolver",
+    "summary": "Article URL: https://evilbit.de/dns-resolver-guide.html Comments URL: https://news.ycombinator.com/item?id=48702273 Points: 45 # Comments: 13",
+    "url": "https://evilbit.de/dns-resolver-guide.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T22:11:28+00:00",
+    "fetched": "2026-06-28T01:34:27+00:00",
+    "image": null
+  },
+  {
     "id": "9738fdd2c6aec937",
     "title": "У США заявили про нові удари по цілях Ірану",
     "summary": "Військові США заявили про нові удари по цілях Ірану у відповідь на атаки суден в Ормузі.",
@@ -46,6 +106,18 @@
     "published": "2026-06-27T21:54:00+00:00",
     "fetched": "2026-06-27T23:08:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/3/859368/331cca051ce769df14afef537c85b45c.jpeg"
+  },
+  {
+    "id": "223aee1146f0e974",
+    "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+    "summary": "I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I'm a hobby game dev and wondered if I could procedurally generate these puzzles so…",
+    "url": "https://starglyphs.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T21:50:32+00:00",
+    "fetched": "2026-06-28T01:34:27+00:00",
+    "image": null
   },
   {
     "id": "8242f4f7d8bff45d",
@@ -142,6 +214,18 @@
     "published": "2026-06-27T21:12:51+00:00",
     "fetched": "2026-06-27T21:38:52+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg"
+  },
+  {
+    "id": "2e3f0360ee89a605",
+    "title": "Show HN: Kiso, an open-source publishing engine for Open Knowledge Format",
+    "summary": "Article URL: https://oak-invest.github.io/kiso/ Comments URL: https://news.ycombinator.com/item?id=48701771 Points: 8 # Comments: 0",
+    "url": "https://oak-invest.github.io/kiso/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-27T21:08:03+00:00",
+    "fetched": "2026-06-28T01:34:27+00:00",
+    "image": "https://oak-invest.github.io/kiso/assets/images/social/kiso-og.png"
   },
   {
     "id": "0a0d19d7a286893a",
@@ -40150,137 +40234,5 @@
     "published": "2026-06-14T01:55:00+00:00",
     "fetched": "2026-06-14T06:48:24+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/849109/65c9258ae7ce979708d07cc2531646e5.jpeg"
-  },
-  {
-    "id": "9a9e87aac8f277f0",
-    "title": "4 things to know about the new sunscreen ingredient the FDA approved",
-    "summary": "Article URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol Comments URL: https://news.ycombinator.com/item?id=48523203 Points: 16 # Comments: 1",
-    "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T01:10:46+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2120x1193+0+39/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2Fcf%2F4957644648c18d42045831f0bbb0%2Fgettyimages-2218762548.jpg"
-  },
-  {
-    "id": "5675b41287745c50",
-    "title": "Nigerian author accuses hospital of stalling review into her son's death",
-    "summary": "Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
-    "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-14T01:08:20+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e80/live/e9ef2460-677e-11f1-9177-9b1b06fa8e36.jpg"
-  },
-  {
-    "id": "655be740904ed045",
-    "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
-    "summary": "Article URL: https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25 Comments URL: https://news.ycombinator.com/item?id=48523165 Points: 9 # Comments: 2",
-    "url": "https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T01:05:08+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": "https://dims.apnews.com/dims4/default/bf7b18c/2147483647/strip/true/crop/4592x3060+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fdc%2F6a669d2edfbb34d0749fba38479f%2Fbbd6573159e84e33bc83a0c12f7723f3"
-  },
-  {
-    "id": "f766dfe1843db1c7",
-    "title": "Honda Civics and the Evil Valet",
-    "summary": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https://news.ycombinator.com/item?id=36052753 - May 2023 (43 comments) Comments URL: https://news.ycombinator.com/item?id=48523080 Points: 206 # Comments: 33",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T00:49:46+00:00",
-    "fetched": "2026-06-14T06:48:24+00:00",
-    "image": null
-  },
-  {
-    "id": "7c9bbb36425684e0",
-    "title": "Трамп і Макрон зустрінуться за вечерею після саміту G7 – ЗМІ",
-    "summary": "Дональд Трамп і Еммануель Макрон проведуть вечерю у Версалі після саміту G7 у Франції.",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039202/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T00:37:00+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/849108/722d7b7bcdb18b9b019f9a9cafad5d88.jpeg"
-  },
-  {
-    "id": "b90255103e5d136d",
-    "title": "State Attorneys General Are Investigating OpenAI",
-    "summary": "Article URL: https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html Comments URL: https://news.ycombinator.com/item?id=48522675 Points: 30 # Comments: 3",
-    "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T23:52:19+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": null
-  },
-  {
-    "id": "60b68e9c034401cb",
-    "title": "Правоохоронці затримали в Ірпені чоловіка, який вчинив стрілянину на вулиці",
-    "summary": "В Ірпені затримали 47-річного місцевого за стрілянину по перехожих. Ніхто не постраждав.",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039200/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-13T23:35:00+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/6/849106/16354c5e8619ecb53a7486b2c5af6350.jpeg"
-  },
-  {
-    "id": "46924b55c5f66e0b",
-    "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
-    "summary": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
-    "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-13T23:22:52+00:00",
-    "fetched": "2026-06-14T17:59:46+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f415/live/35e17930-6672-11f1-bfb6-f5752cbbcf38.jpg"
-  },
-  {
-    "id": "f785cbbd81642445",
-    "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-    "summary": "Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life Comments URL: https://news.ycombinator.com/item?id=48522486 Points: 79 # Comments: 8",
-    "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-13T23:22:05+00:00",
-    "fetched": "2026-06-14T01:55:56+00:00",
-    "image": "https://www.phoronix.net/image.php?id=2026&image=reactos_halflife_1"
-  },
-  {
-    "id": "e1ea4d619b76146c",
-    "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-    "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-    "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-13T23:19:52+00:00",
-    "fetched": "2026-06-14T06:48:24+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg"
-  },
-  {
-    "id": "3fd4bbb9392c1a1f",
-    "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
-    "summary": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
-    "url": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-13T23:11:28+00:00",
-    "fetched": "2026-06-14T06:48:24+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b782/live/b3f93840-6699-11f1-80bb-fb4d08542828.jpg"
   }
 ]
