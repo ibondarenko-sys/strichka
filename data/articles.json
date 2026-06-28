@@ -1,5 +1,77 @@
 [
   {
+    "id": "93180e120c5c448e",
+    "title": "Путін визнав проблему з пальним в Росії: уже ввели заборону на експорт бензину, на черзі – дизель",
+    "summary": "Путін визнав проблеми з пальним у РФ через удари по нафтопереробних заводах: уже ввели заборону на експорт бензину, думають про заборону на експорт дизелю",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041512/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T20:41:00+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/859952/72293e05fdb5952b4a5fb74b397664b7.jpeg"
+  },
+  {
+    "id": "c09e447fce121165",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T20:27:36+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "719325792479b232",
+    "title": "Росіяни завдали трьох ударів по Запоріжжі, є постраждалі (оновлено)",
+    "summary": "Також ворог атакував об’єкт промислової інфраструктури.",
+    "url": "https://lb.ua/society/2026/06/28/748182_rosiyani_zavdali_troh_udariv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T20:25:00+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://i.lb.ua/static/logo.480.jpg"
+  },
+  {
+    "id": "eca0c2c7a818dc0e",
+    "title": "Іран атакував Бахрейн та Кувейт дронами і ракетами",
+    "summary": "Іранська воєнізована Революційна варта взяла на себе відповідальність за атаки.",
+    "url": "https://lb.ua/world/2026/06/28/748184_iran_atakuvav_bahreyn_kuveyt.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T20:23:00+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://i.lb.ua/news/086/43/6a4182f2e486c.jpg"
+  },
+  {
+    "id": "118144b4dc26eb18",
+    "title": "Прем’єр Латвії не бачить сенсу у переговорах з Росією зараз",
+    "summary": "Прем’єр-міністр Латвії Андріс Кулбергс вважає, що ще не час для переговорів Європи з Росією, та пропонує натомість продемонструвати Москві силу.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041511/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T20:17:00+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/e/7/e7c9219-images--19-.jpeg"
+  },
+  {
+    "id": "e2f60ecd9bb11f0a",
+    "title": "Делегація ЄС відвідає Анкару перед самітом НАТО – ЗМІ",
+    "summary": "Делегація Європейського Союзу на чолі з головною дипломаткою Каєю Каллас у вівторок відвідає Туреччину за кілька днів до початку саміту НАТО в Анкарі.",
+    "url": "https://www.pravda.com.ua/news/2026/06/28/8041510/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T19:52:00+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/2/927141e-licensed-image---2026-06-28t184503.360.jpeg"
+  },
+  {
     "id": "92d0bd933f6e8854",
     "title": "Росіяни вдарили по Сумщині: загинула жінка",
     "summary": "У Сумській області 28 червня внаслідок російських обстрілів загинула мешканка Середино-Будської громади.",
@@ -12,6 +84,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/1/859922/91db2ff8f6fad7696fd3857d7cba5e1b.jpeg"
   },
   {
+    "id": "dbc60c2badc41106",
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime. It uses only Bash, curl, and jq. You can send prompts, start a small chat,…",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T19:43:10+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://repository-images.githubusercontent.com/1137022555/f62dd142-2d98-4213-ba1f-f5f1e657df79"
+  },
+  {
     "id": "3b5811d3f63f6a46",
     "title": "На Запоріжжі розслідують смерть командира військової частини",
     "summary": "Його знайшли мертвим із вогнепальним пораненням.",
@@ -22,6 +106,30 @@
     "published": "2026-06-28T19:40:00+00:00",
     "fetched": "2026-06-28T19:54:53+00:00",
     "image": "https://i.lb.ua/news/060/14/6a4178ec5389e.jpg"
+  },
+  {
+    "id": "2f23bcceaae6e17e",
+    "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "summary": "Hi everyone, I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they…",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T19:38:14+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://opengraph.githubassets.com/74fca98de619d83019d75800a8ad8d3d022840f3d5ea83974168f8e1c5f2ec92/JustVugg/nanoeuler"
+  },
+  {
+    "id": "07e679af6797f9fc",
+    "title": "TOP500 at ISC'26: We Have a New Number 1 – By George Cozma",
+    "summary": "Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number Comments URL: https://news.ycombinator.com/item?id=48710775 Points: 28 # Comments: 11",
+    "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T19:38:00+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/sBmc3TjQhNM"
   },
   {
     "id": "4122cdeebff21e43",
@@ -58,6 +166,30 @@
     "published": "2026-06-28T19:12:00+00:00",
     "fetched": "2026-06-28T19:54:53+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/3/859906/6371cf28aa6edddbe108d663c4275999.jpeg"
+  },
+  {
+    "id": "ad9877c7ecb2c685",
+    "title": "The US Used to Demand the Best Tech. Now We Ban It",
+    "summary": "Article URL: https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it Comments URL: https://news.ycombinator.com/item?id=48710437 Points: 51 # Comments: 32",
+    "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T19:07:49+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": "https://i.pcmag.com/imagery/articles/04ltqIf4ihFMDfo38F0qNgS-1.fit_lim.size_1200x630.v1782561174.png"
+  },
+  {
+    "id": "4b6b26c5cc432c52",
+    "title": "Do LLMs pass the mirror test?",
+    "summary": "Article URL: https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test Comments URL: https://news.ycombinator.com/item?id=48710414 Points: 6 # Comments: 0",
+    "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T19:06:07+00:00",
+    "fetched": "2026-06-28T21:07:58+00:00",
+    "image": null
   },
   {
     "id": "e3a4aec1c1c0028e",
@@ -40246,125 +40378,5 @@
     "published": "2026-06-14T21:26:00+00:00",
     "fetched": "2026-06-14T22:43:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/d/849523/fd3fb110d35588f044fce1158ed9ed35.jpeg"
-  },
-  {
-    "id": "274982b3d0e0b596",
-    "title": "Abu Fanous",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Abu_Fanous Comments URL: https://news.ycombinator.com/item?id=48532722 Points: 32 # Comments: 6",
-    "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T21:06:41+00:00",
-    "fetched": "2026-06-14T22:43:41+00:00",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%D8%B8%D8%A7%D9%87%D8%B1%D8%A9_%D8%A3%D8%A8%D9%8A_%D9%81%D8%A7%D9%86%D9%88%D8%B3.gif"
-  },
-  {
-    "id": "2bb9cb464983cb50",
-    "title": "В Італії генерал заснував ультраправу партію, яка може загрожувати перспективам Мелоні",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039287/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T20:51:00+00:00",
-    "fetched": "2026-06-14T21:18:15+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/3/d/3ded5ce-roberto-vannacci-alla-costituente-di-fn-ph-ansa.jpg"
-  },
-  {
-    "id": "8ac89a3a6ceea00b",
-    "title": "Головне за неділю, 14 червня: майже 120 боєзіткнень, удари по Путивлю, атаки на Харків та Харківщину, ювілей Трампа",
-    "summary": "Бойові дії на Донеччині, 118 бойових зіткнень, ворожі обстріли, остаточні підсумки виборів у Вірменії. Яким запам’ятається 1571-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/06/14/745296_golovne_nedilyu_14_chervnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T20:51:00+00:00",
-    "fetched": "2026-06-14T21:18:16+00:00",
-    "image": "https://i.lb.ua/news/072/14/6a2f148bad209.jpg"
-  },
-  {
-    "id": "ee1976980ec66cef",
-    "title": "The FBI built a small town to simulate cyberattacks",
-    "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store,…",
-    "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T20:35:41+00:00",
-    "fetched": "2026-06-14T21:18:15+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/high.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "7f3701f6f0b07724",
-    "title": "Росіяни вдарили по цивільному підприємству в Харкові",
-    "summary": "Удар по Харкову: пожежа на цивільному підприємстві, житлові будинки не постраждали.",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039286/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T20:26:00+00:00",
-    "fetched": "2026-06-14T21:18:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/849509/7a2f5a1dd6e56b52c68115287fa9160c.jpeg"
-  },
-  {
-    "id": "3a79de7d7a98e642",
-    "title": "AI is code – and can't be prompted into being smarter",
-    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 11 # Comments: 4",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T20:17:54+00:00",
-    "fetched": "2026-06-14T22:43:41+00:00",
-    "image": "https://image.theregister.com/227602.jpg?imageId=227602&x=0&y=11.03&cropw=100&croph=88.97&panox=0&panoy=11.03&panow=100&panoh=88.97&width=1200&height=683"
-  },
-  {
-    "id": "eadc8f9d95794cb0",
-    "title": "Vibe Coder vs. Software Engineer",
-    "summary": "Article URL: https://yusufaytas.com/vibe-coder-vs-software-engineer Comments URL: https://news.ycombinator.com/item?id=48532116 Points: 39 # Comments: 12",
-    "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T20:12:42+00:00",
-    "fetched": "2026-06-14T22:43:41+00:00",
-    "image": "https://yusufaytas.com/images/2026/06/pretty-please-approve-pr.jpg"
-  },
-  {
-    "id": "0de8f829258c39d6",
-    "title": "Прем'єр Албанії назвав дурнями учасників протестів проти курорту, пов'язаного з Кушнером",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039285/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T20:12:00+00:00",
-    "fetched": "2026-06-14T21:18:15+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/b/7baaf2e-5475227-2023-03-07t122345z-792423594-rc20pz9bidvj-rtrmadp-3-germany-albania-copy-ls.jpg"
-  },
-  {
-    "id": "a7aa6d2054512263",
-    "title": "ЧС-2026 з футболу: Німеччина розгромила Кюрасао з рахунком 7:1",
-    "summary": "В іншому матчі групи Е в ніч на понеділок зустрінуться Кот-д'Івуар та Еквадор.",
-    "url": "https://lb.ua/sport/2026/06/14/745294_chs-2026_z_futbolu_nimechchina.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T20:03:00+00:00",
-    "fetched": "2026-06-14T21:18:16+00:00",
-    "image": "https://i.lb.ua/news/018/60/6a2f15d2af676.jpg"
-  },
-  {
-    "id": "1e0a1a3e87d41fd3",
-    "title": "В Україні у понеділок пройдуть дощі, на сході град і шквали",
-    "summary": "15 червня в Україні очікуються дощі, грози, на сході місцями град і шквали. Детальний прогноз по регіонах.",
-    "url": "https://www.pravda.com.ua/news/2026/06/14/8039283/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T19:56:00+00:00",
-    "fetched": "2026-06-14T21:18:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/849489/e13f24cb34fdfff3f50561cb0adb1a1b.jpeg"
   }
 ]
