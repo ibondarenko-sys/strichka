@@ -1,5 +1,77 @@
 [
   {
+    "id": "431bd94db28bec76",
+    "title": "​Онофрійчук здобула два \"золота\" та \"срібло\" на Кубку світового виклику в Румунії",
+    "summary": "Днями українська гімнастка також здобула \"срібло\" в індивідуальному багатоборстві.",
+    "url": "https://lb.ua/sport/2026/06/29/748188_onofriychuk_zdobula_dva_zolota.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T21:59:00+00:00",
+    "fetched": "2026-06-28T22:35:39+00:00",
+    "image": "https://i.lb.ua/news/118/29/6a419ae2eeb3f.jpg"
+  },
+  {
+    "id": "4b8483f42d9ed316",
+    "title": "Путін згадав фото Зеленського біля стели в Куп’янську: До Куп’янська нам залишилося 2-4 км, до Сум – 10",
+    "summary": "Російський правитель Володимир Путін заявив, що російським окупантам залишилося трохи більше 10 км до українського міста Суми, а до Куп'янська, біля стели якого в грудні 2025 року фотографувався український президент, всього 2,5-5 км.",
+    "url": "https://www.pravda.com.ua/news/2026/06/29/8041517/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T21:49:00+00:00",
+    "fetched": "2026-06-28T22:35:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/b/859968/bb70180430151e5a1f685463604519b0.jpeg"
+  },
+  {
+    "id": "5d43e7e568e30b45",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T21:42:51+00:00",
+    "fetched": "2026-06-28T22:35:38+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "fad6defbb142f8d1",
+    "title": "Зеленський пропонує заснувати нову державну нагороду – орден Європи",
+    "summary": "Президент Володимир Зеленський запропонував запровадити нову державну нагороду – орден Європи, яким відзначатимуть українців та іноземців за визначні заслуги у підтримці євроінтеграційного курсу України.",
+    "url": "https://www.pravda.com.ua/news/2026/06/29/8041516/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T21:42:00+00:00",
+    "fetched": "2026-06-28T22:35:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/859967/54f51c7df6b390238eac76c787ab3f7d.jpeg"
+  },
+  {
+    "id": "cf1560d0b215c441",
+    "title": "На фронті відбулося 197 боєзіткнень, найактивніше ворог атакував на трьох напрямках – Генштаб",
+    "summary": "Протягом доби 28 червня на фронті відбулося 197 бойових зіткнень, найбільшу штурмову активність російські окупанти виявили на Слов'янському, Покровському та Гуляйпільському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/06/29/8041514/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T21:15:00+00:00",
+    "fetched": "2026-06-28T22:35:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/859964/cc10147451b810a2b24317734425468d.jpeg"
+  },
+  {
+    "id": "807e6d33f019ca18",
+    "title": "Головне за неділю, 28 червня: атака на Запоріжжя, ракетний удар по Харківщині, майже 200 боєзіткнень",
+    "summary": "Бойові дії на Донеччині, 197 бойових зіткнень, ворожі обстріли, відкриття погруддя Мазепи в Києво-Печерській Лаврі. Яким запам’ятається 1586-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/06/28/748186_golovne_nedilyu_28_chervnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T20:58:00+00:00",
+    "fetched": "2026-06-28T22:35:39+00:00",
+    "image": "https://i.lb.ua/news/058/14/6a418dc0a01c6.jpg"
+  },
+  {
     "id": "93180e120c5c448e",
     "title": "Путін визнав проблему з пальним в Росії: уже ввели заборону на експорт бензину, на черзі – дизель",
     "summary": "Путін визнав проблеми з пальним у РФ через удари по нафтопереробних заводах: уже ввели заборону на експорт бензину, думають про заборону на експорт дизелю",
@@ -226,6 +298,18 @@
     "published": "2026-06-28T18:59:53+00:00",
     "fetched": "2026-06-28T19:54:53+00:00",
     "image": "https://archive.org/services/img/colby1968-computer-aided-language-development-in-non-speaking-children"
+  },
+  {
+    "id": "65f82efe9163b8bf",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa",
+    "summary": "Article URL: https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/ Comments URL: https://news.ycombinator.com/item?id=48710325 Points: 10 # Comments: 1",
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T18:56:46+00:00",
+    "fetched": "2026-06-28T22:35:38+00:00",
+    "image": null
   },
   {
     "id": "387b68ac9975c345",
@@ -490,6 +574,18 @@
     "published": "2026-06-28T16:42:00+00:00",
     "fetched": "2026-06-28T19:54:53+00:00",
     "image": "https://i.lb.ua/news/028/12/6a414f20cf22d.jpg"
+  },
+  {
+    "id": "acc0f3def6715c72",
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 97 # Comments: 114",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T16:41:12+00:00",
+    "fetched": "2026-06-28T22:35:38+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/J6ITLVPHQNHI3BHNR3FPIX5URE.jpg?auth=29cc39cd3e10fbe5a5266dd40100f1d61e4fe145ccd2e4ab13b6a6bd0b67f1dd&width=1200"
   },
   {
     "id": "2f6e35d4cb81442e",
@@ -40258,125 +40354,5 @@
     "published": "2026-06-14T22:43:49+00:00",
     "fetched": "2026-06-15T00:17:54+00:00",
     "image": null
-  },
-  {
-    "id": "609b0f9e9bf5540f",
-    "title": "Інцидент у Києві: група осіб \"перешкоджала затриманню правопорушника\" – патрульна поліція",
-    "summary": "У неділю ввечері у соцмережах з'явилися відео про інцидент у Деснянському районі Києва з масовими заворушення, у патрульній поліції Києва повідомили про \"затримання правопорушника\", якого доставили до РТЦК та СП.",
-    "url": "https://www.pravda.com.ua/news/2026/06/15/8039292/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T22:34:00+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/b/849533/4bfe051c40f92e2524eda586f0c58b0b.jpeg"
-  },
-  {
-    "id": "c73b029d678b63ce",
-    "title": "Did Anthropic ask for this?",
-    "summary": "Article URL: https://www.verysane.ai/p/did-anthropic-ask-for-this Comments URL: https://news.ycombinator.com/item?id=48533504 Points: 127 # Comments: 92",
-    "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T22:23:05+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!eErw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c7c5126-190f-4119-a68f-5d0e417ce754_1700x828.png"
-  },
-  {
-    "id": "5ba8c3ef0c64be5c",
-    "title": "У Києві вирують пожежі через ворожу атаку",
-    "summary": "У ніч на 15 червня у Києві та області сили ППО працювали по ворожих дронах, у столиці було чути вибухи і зайнялися пожежі, зокрема й у житлових будинках, є потерпілий.",
-    "url": "https://www.pravda.com.ua/news/2026/06/15/8039291/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T22:08:00+00:00",
-    "fetched": "2026-06-14T22:43:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/849532/40d690c87476bd9202a8fe4fa7b76499.jpeg"
-  },
-  {
-    "id": "cb5d719aee21285e",
-    "title": "Росія розпочала чергову комбіновану атаку",
-    "summary": "Людей закликали перебувати в укриттях.",
-    "url": "https://lb.ua/society/2026/06/15/745298_rosiya_rozpochala_chergovu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T22:08:00+00:00",
-    "fetched": "2026-06-14T22:43:40+00:00",
-    "image": "https://i.lb.ua/news/043/54/6a2f264a31fc5.jpg"
-  },
-  {
-    "id": "d36ba90a63c74605",
-    "title": "Росія провела чергову комбіновану атаку. Пошкоджені Лавра і численні житлові будинки",
-    "summary": "Є жертви і поранені в різних регіонах.",
-    "url": "https://lb.ua/society/2026/06/15/745298_rosiya_provela_chergovu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T22:08:00+00:00",
-    "fetched": "2026-06-15T05:39:38+00:00",
-    "image": "https://i.lb.ua/news/098/57/6a2f5e11df697.jpg"
-  },
-  {
-    "id": "ebd61a3aea6e37fc",
-    "title": "Why Is Claude Turning into an a**Hole?",
-    "summary": "Article URL: https://bramcohen.com/p/why-is-claude-turning-into-an-asshole Comments URL: https://news.ycombinator.com/item?id=48533308 Points: 46 # Comments: 32",
-    "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T22:04:01+00:00",
-    "fetched": "2026-06-14T22:43:41+00:00",
-    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DUAK7t3Lf8s"
-  },
-  {
-    "id": "b0680a304264fb23",
-    "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-    "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds Comments URL: https://news.ycombinator.com/item?id=48533101 Points: 167 # Comments: 106",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T21:42:12+00:00",
-    "fetched": "2026-06-15T05:39:38+00:00",
-    "image": "https://cdn.mos.cms.futurecdn.net/j6KmfXaKwgMziobFTx9itD-1687-80.jpg"
-  },
-  {
-    "id": "f0c904d990559bc1",
-    "title": "Трамп заявив про угоду з Іраном і відкриття Ормузької протоки",
-    "summary": "Президент США Дональд Трамп заявив про укладення мирної угоди з Іраном та відкриття Ормузької протоки.",
-    "url": "https://www.pravda.com.ua/news/2026/06/15/8039289/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T21:40:00+00:00",
-    "fetched": "2026-06-14T22:43:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/6/849524/f634a80d5afbeb71d92d68d253df856d.jpeg"
-  },
-  {
-    "id": "c1798ec536a35f8d",
-    "title": "ЧС-2026: Нідерланди та Японія поділили очки в результативному матчі",
-    "summary": "Японці двічі поступалися упродовж матчу.",
-    "url": "https://lb.ua/sport/2026/06/15/745300_chs-2026_niderlandi_yaponiya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T21:40:00+00:00",
-    "fetched": "2026-06-15T00:17:55+00:00",
-    "image": "https://i.lb.ua/news/124/14/6a2f2e0c979fe.jpg"
-  },
-  {
-    "id": "f1d3d26712e1a819",
-    "title": "Прем'єр Пакистану заявив про досягнення \"мирної угоди між США та Іраном\"",
-    "summary": "Прем'єр-міністр Пакистану Шехбаз Шаріф заявив, що \"мирна угода між Сполученими Штатами Америки та Ісламською Республікою Іран досягнута\".",
-    "url": "https://www.pravda.com.ua/news/2026/06/15/8039288/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T21:26:00+00:00",
-    "fetched": "2026-06-14T22:43:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/d/849523/fd3fb110d35588f044fce1158ed9ed35.jpeg"
   }
 ]
