@@ -1,5 +1,53 @@
 [
   {
+    "id": "27d12bcb21905e80",
+    "title": "Україна веде переговори з Францією про ліцензії на виробництво ракет SCALP – Федоров",
+    "summary": "Міністр оборони Михайло Федоров заявив, Україна веде переговори з Францією щодо можливості отримання ліцензій на виробництво французьких крилатих ракет SCALP.",
+    "url": "https://www.pravda.com.ua/news/2026/06/30/8041698/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-29T22:42:00+00:00",
+    "fetched": "2026-06-29T23:02:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/860882/9ef52bfd413c52b60cd105dba253e158.jpeg"
+  },
+  {
+    "id": "bae2e71a68e42eed",
+    "title": "Scientists find molecular-level evidence for two structures in liquid water",
+    "summary": "Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html Comments URL: https://news.ycombinator.com/item?id=48726073 Points: 7 # Comments: 1",
+    "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-29T22:18:26+00:00",
+    "fetched": "2026-06-29T23:02:19+00:00",
+    "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-find-molecu-1.jpg"
+  },
+  {
+    "id": "1b01167b4f5d2528",
+    "title": "Єврокомісія на тлі аномальної спеки розкритикувала скептиків \"зеленого курсу\"",
+    "summary": "Ті, хто захищає індустрію викопного палива, отримали \"драматичне попередження\".",
+    "url": "https://lb.ua/world/2026/06/30/748420_ievrokomisiya_tli_anomalnoyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-29T22:17:00+00:00",
+    "fetched": "2026-06-29T23:02:19+00:00",
+    "image": "https://i.lb.ua/news/059/10/6a42eef9c2456.jpg"
+  },
+  {
+    "id": "07760f3dd981b14f",
+    "title": "У вівторок в Україні очікується спека до +38°, подекуди грози",
+    "summary": "На Київщині оголосили надзвичайний рівень пожежної небезпеки.",
+    "url": "https://lb.ua/society/2026/06/30/748418_vivtorok_ukrayini_ochikuietsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-29T21:58:00+00:00",
+    "fetched": "2026-06-29T23:02:19+00:00",
+    "image": "https://i.lb.ua/news/043/06/6a42ea723e685.jpg"
+  },
+  {
     "id": "60a371c1dc507092",
     "title": "Трамп програв апеляцію у справі про сексуальне насильство",
     "summary": "Консервативний склад Верховного суду США знову не на боці президента.",
@@ -58,6 +106,18 @@
     "published": "2026-06-29T21:19:28+00:00",
     "fetched": "2026-06-29T21:53:14+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg"
+  },
+  {
+    "id": "205e805ff8224b58",
+    "title": "Is It Out Yet?",
+    "summary": "Article URL: https://outyet.ai Comments URL: https://news.ycombinator.com/item?id=48725397 Points: 23 # Comments: 9",
+    "url": "https://outyet.ai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-29T21:18:46+00:00",
+    "fetched": "2026-06-29T23:02:19+00:00",
+    "image": "https://outyet.ai/opengraph-image?825dc31203fb37b9"
   },
   {
     "id": "ab2e2ffc1a86be80",
@@ -40606,137 +40666,5 @@
     "published": "2026-06-15T23:06:58+00:00",
     "fetched": "2026-06-16T08:29:07+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d0/live/06baa470-6919-11f1-b1db-af71d47507d6.jpg"
-  },
-  {
-    "id": "7b28c32132f5afe2",
-    "title": "'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
-    "summary": "The streets of the capital, Praia, shook with wild celebrations as the small island nation held Spain to a shock 0-0 draw.",
-    "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-15T23:01:30+00:00",
-    "fetched": "2026-06-16T08:29:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/830b/live/fa8d8a20-690c-11f1-9db7-8df355e9939d.jpg"
-  },
-  {
-    "id": "fe934165163d3d90",
-    "title": "Telegraph: Трамп може використати модель Ірану для нав'язування \"миру\" Україні",
-    "summary": "Попри постійні запевнення у перемозі, президент США пішов на угоду з великими поступками.",
-    "url": "https://lb.ua/society/2026/06/16/745526_telegraph_tramp_mozhe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-15T22:50:00+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://i.lb.ua/news/120/23/6a30825a8b133.jpg"
-  },
-  {
-    "id": "c85bb76d1fbbdc81",
-    "title": "Нетаньягу: \"З угодою чи без неї, Іран не матиме ядерної зброї\"",
-    "summary": "Нетаньягу в коментарі про угоду США та Ірану заявив, що захищатиме інтереси Ізріїлю.",
-    "url": "https://www.pravda.com.ua/news/2026/06/16/8039498/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-15T22:44:00+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/c/850477/6cff77a045ce5a0934f3157a484106af.jpeg"
-  },
-  {
-    "id": "6dfa13b6aceb974a",
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-    "summary": "Article URL: https://www.richardosgood.com/posts/banned-book-library/ Comments URL: https://news.ycombinator.com/item?id=48547985 Points: 17 # Comments: 1",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-15T22:37:55+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://www.richardosgood.com/images/logo.png"
-  },
-  {
-    "id": "10977e01eb14fef8",
-    "title": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
-    "summary": "Video assistant referee Shaun Evans has denied \"intentionally\" making a hand gesture \"to communicate a message, affiliation, game or belief of any kind\" and claimed it was a \"an involuntary, subconscious twitch\" that he was \"unaware\" of.",
-    "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-15T22:29:29+00:00",
-    "fetched": "2026-06-16T08:29:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f73/live/314f8770-6903-11f1-9f9e-71137dc50e9c.jpg"
-  },
-  {
-    "id": "9c7d20c4dc186d1a",
-    "title": "Зеленський прибув на саміт G7 у Женеву і зустрівся з президентом Швейцарії",
-    "summary": "Президент України Володимир Зеленський повідомив про зустріч із лідером Швейцарії Гі Пармеленом, під час якої обговорили постійні російські атаки та потреби України для посилення ППО, а також санкційні кроки, які \"можуть примусити Росію сісти за стіл переговорів\".",
-    "url": "https://www.pravda.com.ua/news/2026/06/16/8039497/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-15T22:20:00+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/850476/24ff77c7d5dc58e3f38db133acd8d64f.jpeg"
-  },
-  {
-    "id": "ba9026667661861f",
-    "title": "Латвійське міноборони пообіцяло перехоплювати усі дрони, які залітають в країну",
-    "summary": "Міністр підтримує атаки України по території РФ.",
-    "url": "https://lb.ua/society/2026/06/16/745524_latviyske_minoboroni_poobitsyalo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-15T22:15:00+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://i.lb.ua/news/070/59/6a3079b92b462.jpg"
-  },
-  {
-    "id": "81266ca74da8fe8f",
-    "title": "San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs",
-    "summary": "Article URL: https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different Comments URL: https://news.ycombinator.com/item?id=48547608 Points: 19 # Comments: 9",
-    "url": "https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-15T22:00:44+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/06/260608-PGEBREAKUPPRICING-06-BL-KQED.jpg"
-  },
-  {
-    "id": "b1209b6daa109fd0",
-    "title": "Why I Email Complete Strangers",
-    "summary": "Article URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/ Comments URL: https://news.ycombinator.com/item?id=48547566 Points: 28 # Comments: 7",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-15T21:57:10+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": null
-  },
-  {
-    "id": "861b9849133adf4b",
-    "title": "У Кабміні прогнозують виконання бенчмарків вступу до ЄС упродовж 2 років",
-    "summary": "Усе потрібне законодавство планують ухвалити до кінця 2027 року.",
-    "url": "https://lb.ua/news/2026/06/16/745522_kabmini_prognozuyut_vikonannya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-15T21:57:00+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://i.lb.ua/news/019/62/6a30750f9740e.jpg"
-  },
-  {
-    "id": "947a6fb6d7da20de",
-    "title": "Reuters: справжні масштаби спалаху еболи в Конго досі невідомі",
-    "summary": "Урядові дані, ймовірно, применшують кількість жертв.",
-    "url": "https://lb.ua/world/2026/06/16/745520_reuters_spravzhni_masshtabi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-15T21:55:00+00:00",
-    "fetched": "2026-06-15T23:18:41+00:00",
-    "image": "https://i.lb.ua/news/017/40/6a3072927dd94.jpg"
   }
 ]
