@@ -1,5 +1,77 @@
 [
   {
+    "id": "50ff316920c95994",
+    "title": "США та Іран домовилися припинити обмін ударами",
+    "summary": "Сполучені Штати та Іран домовилися припинити взаємні удари та планують провести переговори у вівторок, 30 червня, у столиці Катару для врегулювання суперечки навколо Ормузької протоки.",
+    "url": "https://www.pravda.com.ua/news/2026/06/29/8041519/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T23:43:00+00:00",
+    "fetched": "2026-06-29T00:12:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/859970/22ee1f32799a2219f9dba57458e65ce6.jpeg"
+  },
+  {
+    "id": "4b01c0566181dca5",
+    "title": "ЧС-2026: Канада мінімально здолала ПАР в 1/16 фіналу змагань",
+    "summary": "Канадці забили на останніх хвилинах матчу.",
+    "url": "https://lb.ua/sport/2026/06/29/748190_chs-2026_kanada_minimalno.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T23:13:00+00:00",
+    "fetched": "2026-06-29T00:12:55+00:00",
+    "image": "https://i.lb.ua/news/084/50/6a41ac1d6f04f.jpg"
+  },
+  {
+    "id": "6d5a78ca04aa7f58",
+    "title": "Іран атакував Бахрейн та Кувейт у відповідь на удари США і погрожує вийти з переговорів",
+    "summary": "Іран у неділю завдав ударів безпілотниками та ракетами по Бахрейну і Кувейту у відповідь на атаки США, а також пригрозив повністю припинити переговори про завершення війни, якщо Вашингтон продовжить свої обстріли.",
+    "url": "https://www.pravda.com.ua/news/2026/06/29/8041518/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-28T22:54:00+00:00",
+    "fetched": "2026-06-29T00:12:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/b/859969/6bb9870a9e2c934054a3bcf29691a5b8.jpeg"
+  },
+  {
+    "id": "43c18090a720530c",
+    "title": "Knowledge Distillation of Black-Box Large Language Models",
+    "summary": "Article URL: https://arxiv.org/abs/2401.07013 Comments URL: https://news.ycombinator.com/item?id=48712420 Points: 23 # Comments: 11",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T22:32:04+00:00",
+    "fetched": "2026-06-29T00:12:55+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "5cf9a3878c9aa83a",
+    "title": "A QNX-inspired operating system with selectable kernels",
+    "summary": "Article URL: https://qsoe.net Comments URL: https://news.ycombinator.com/item?id=48712338 Points: 20 # Comments: 1",
+    "url": "https://qsoe.net",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T22:21:51+00:00",
+    "fetched": "2026-06-29T00:12:55+00:00",
+    "image": null
+  },
+  {
+    "id": "503158e1a9cf8868",
+    "title": "Xonaly – Canada's Independent Search Engine",
+    "summary": "Article URL: https://xonaly.com/ Comments URL: https://news.ycombinator.com/item?id=48712324 Points: 34 # Comments: 15",
+    "url": "https://xonaly.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T22:20:56+00:00",
+    "fetched": "2026-06-29T00:12:55+00:00",
+    "image": null
+  },
+  {
     "id": "431bd94db28bec76",
     "title": "​Онофрійчук здобула два \"золота\" та \"срібло\" на Кубку світового виклику в Румунії",
     "summary": "Днями українська гімнастка також здобула \"срібло\" в індивідуальному багатоборстві.",
@@ -82,6 +154,18 @@
     "published": "2026-06-28T20:41:00+00:00",
     "fetched": "2026-06-28T21:07:58+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/859952/72293e05fdb5952b4a5fb74b397664b7.jpeg"
+  },
+  {
+    "id": "992106250efd2330",
+    "title": "POSIX Is Not a Shell",
+    "summary": "Article URL: https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html Comments URL: https://news.ycombinator.com/item?id=48711403 Points: 29 # Comments: 5",
+    "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-28T20:39:50+00:00",
+    "fetched": "2026-06-29T00:12:55+00:00",
+    "image": null
   },
   {
     "id": "c09e447fce121165",
@@ -40258,101 +40342,5 @@
     "published": "2026-06-15T00:34:00+00:00",
     "fetched": "2026-06-15T05:39:38+00:00",
     "image": "https://i.lb.ua/news/013/35/6a2f4ae2d80eb.jpg"
-  },
-  {
-    "id": "ecd2955437568dab",
-    "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-    "summary": "Article URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/ Comments URL: https://news.ycombinator.com/item?id=48534628 Points: 47 # Comments: 6",
-    "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-15T00:07:32+00:00",
-    "fetched": "2026-06-15T05:39:38+00:00",
-    "image": "https://blog.apnic.net/wp-content/uploads/2025/10/2025-10-featured-fallacies.png"
-  },
-  {
-    "id": "3ce766f35545273f",
-    "title": "Під час повторного удару росіян по Харкову загинули 5 рятувальників – Клименко",
-    "summary": "Під час гасіння пожежі, що виникла внаслідок ракетної атаки на Харків вночі 15 червня, загинули 5 рятувальників і щонайменше 5 – поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/06/15/8039294/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T23:50:00+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/3/849553/23d074e448be2c0b5ff4fff7b1db92d0.jpeg"
-  },
-  {
-    "id": "1cb88be62f81d45f",
-    "title": "Від російського удару по Києву горить Лавра",
-    "summary": "За інформацією очільника Київської ОВА, відбулося пряме влучання.",
-    "url": "https://lb.ua/society/2026/06/15/745302_vid_rosiyskogo_udaru_kiievu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T23:49:00+00:00",
-    "fetched": "2026-06-15T00:17:55+00:00",
-    "image": "https://i.lb.ua/news/022/09/6a2f4001d7075.jpg"
-  },
-  {
-    "id": "6cd5996822b9da88",
-    "title": "Атака на Київ: горить Києво-Печерська лавра через пряме влучання – КМВА",
-    "summary": "Внаслідок масованої атаки на Київ сталася пожежа на території Києво-Печерської лаври.",
-    "url": "https://www.pravda.com.ua/news/2026/06/15/8039293/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-14T23:00:00+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/849550/5316e7d010b7a19bd521f54633a8a337.jpeg"
-  },
-  {
-    "id": "d36dbe6d57c8acef",
-    "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
-    "summary": "Article URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/ Comments URL: https://news.ycombinator.com/item?id=48533848 Points: 50 # Comments: 12",
-    "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T22:54:55+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://andreklein.net/wp-content/uploads/2026/06/gandalf-1024x625.jpg"
-  },
-  {
-    "id": "5526e3364f44bd93",
-    "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
-    "summary": "Article URL: https://iza.ac/posts/2026/06/food-authenticity/ Comments URL: https://news.ycombinator.com/item?id=48533829 Points: 18 # Comments: 14",
-    "url": "https://iza.ac/posts/2026/06/food-authenticity/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T22:53:17+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://iza.ac/images/header-small.png"
-  },
-  {
-    "id": "250b2baee6369713",
-    "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
-    "summary": "Article URL: https://twitter.com/maattttbrown/status/2066215255987163246 Comments URL: https://news.ycombinator.com/item?id=48533756 Points: 70 # Comments: 15",
-    "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T22:45:55+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": "https://jf.x.com/images/media-preview/2066215255987163246"
-  },
-  {
-    "id": "f37575394a409910",
-    "title": "The Jqwik Anti-AI Affair",
-    "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 24 # Comments: 15",
-    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-14T22:43:49+00:00",
-    "fetched": "2026-06-15T00:17:54+00:00",
-    "image": null
   }
 ]
