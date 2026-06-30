@@ -1,5 +1,185 @@
 [
   {
+    "id": "3e74ba82793d5c8c",
+    "title": "Dish files for bankruptcy, but not shutting down",
+    "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion…",
+    "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T22:46:52+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_STK052_01-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "13741da72f61d2dd",
+    "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+    "summary": "Article URL: https://hatari.frama.io/hatari/online/hatari.html Comments URL: https://news.ycombinator.com/item?id=48740135 Points: 3 # Comments: 0",
+    "url": "https://hatari.frama.io/hatari/online/hatari.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T22:34:23+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": null
+  },
+  {
+    "id": "aec65db9f15d95d6",
+    "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+    "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+    "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-30T22:29:47+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1a/live/16f1e680-74c4-11f1-b1db-af71d47507d6.jpg"
+  },
+  {
+    "id": "0c58da9e63f56c35",
+    "title": "Указ Трампа про скасування громадянства за народженням визнаний неконституційним",
+    "summary": "Народжені у США будуть і надалі автоматично отримувати право на американський паспорт.",
+    "url": "https://lb.ua/world/2026/07/01/748672_ukaz_trampa_pro_skasuvannya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T22:17:00+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://i.lb.ua/news/012/17/6a4440a1180f1.jpg"
+  },
+  {
+    "id": "c1ef366401f41d49",
+    "title": "TabFM: A zero-shot foundation model for tabular data",
+    "summary": "Article URL: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/ Comments URL: https://news.ycombinator.com/item?id=48739919 Points: 6 # Comments: 1",
+    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T22:08:38+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
+    "id": "8c18b44bf584c129",
+    "title": "Ask HN: Since when does Craigslist's front page have emojis?",
+    "summary": "Today I noticed the inclusion of emojis in Craigslist's listings/categories: https://www.craigslist.org/area/sfbay . Now, Craigslist, as a legacy of the 1990s web, has for a long time stubbornly maintained its minimalist style, to the point where several \"modern\" startups have…",
+    "url": "https://news.ycombinator.com/item?id=48739792",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:58:49+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": null
+  },
+  {
+    "id": "1ca10dc693b0955c",
+    "title": "В окупованому Донецьку пролунали вибухи: спалахнула пожежа",
+    "summary": "Вибухи в окупованому Донецьку: безпілотники вразили логістичну автостоянку ворога, спалахнула пожежа.",
+    "url": "https://www.pravda.com.ua/news/2026/07/01/8041843/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T21:56:00+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/861484/38e154fe22bb10006aecd4658eea4b6f.jpeg"
+  },
+  {
+    "id": "48d376cfbee500ab",
+    "title": "В середу в Україні буде спекотно, температура повітря підніметься до +38°",
+    "summary": "В більшості областей оголосили надзвичайний рівень пожежної небезпеки.",
+    "url": "https://lb.ua/society/2026/07/01/748670_seredu_ukrayini_bude_spekotno.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T21:55:00+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://i.lb.ua/news/071/33/6a443ae8f2a3f.jpg"
+  },
+  {
+    "id": "e2765848a2248501",
+    "title": "Майже мільйон мігрантів подали заявки на легалізацію в Іспанії",
+    "summary": "У Мадриді думали, що за три місяці програмою скористаються близько 500 тисяч шукачів притулку.",
+    "url": "https://lb.ua/world/2026/07/01/748668_mayzhe_milyon_migrantiv_podali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T21:48:00+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://i.lb.ua/news/045/31/6a443ace8b056.jpg"
+  },
+  {
+    "id": "2e8b8f1472a28538",
+    "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+    "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+    "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-30T21:30:52+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9778/live/5b9c0de0-74c1-11f1-8546-8f19e4fe30f4.jpg"
+  },
+  {
+    "id": "21a1bfcc5555b16f",
+    "title": "Understanding lattice risks: Many differences between marketing and reality",
+    "summary": "Article URL: https://blog.cr.yp.to/20260630-risk.html Comments URL: https://news.ycombinator.com/item?id=48739467 Points: 7 # Comments: 0",
+    "url": "https://blog.cr.yp.to/20260630-risk.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:29:15+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": null
+  },
+  {
+    "id": "8f939ab7a0620b09",
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "summary": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=48739466 Points: 56 # Comments: 36",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:29:13+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=kt4rIA7tiyMQ7kNvwHsqW2T&_nc_oc=Ado5IEc80BO10V7QdpIqmWABvstCU8PrXVawXZBKJjg5PWSx7Iue0skbquCQDc5b_gQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=WwRQqUg9bPZKEw6iqpoT9Q&_nc_ss=7b20f&oh=00_AQAX5RXfF0Dr0pps25d16uZ5o6TSUQjSexUUdTA0znf7KA&oe=6A5E8CAD"
+  },
+  {
+    "id": "cd0db9a306f8ad7d",
+    "title": "У червні до загального фонду держбюджету надійшло майже 434 млрд гривень",
+    "summary": "Значним джерелом доходу стали кошти, отримані у вигляді грантів - понад 214 млрд.",
+    "url": "https://lb.ua/economics/2026/07/01/748666_chervni_zagalnogo_fondu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T21:29:00+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://i.lb.ua/news/043/08/6a443557400a9.jpg"
+  },
+  {
+    "id": "e6e8abfea2d2ef77",
+    "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+    "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information…",
+    "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:20:01+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK103__02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6b80d6e2232e1a98",
+    "title": "Навроцький у день пам'яті Волинської трагедії може оголосити про обмеження контактів із Зеленським",
+    "summary": "В офісі польського глави держави готують відповідь на оголошення про створення Національного пантеону.",
+    "url": "https://lb.ua/news/2026/07/01/748664_navrotskiy_den_pamyati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T21:14:00+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://i.lb.ua/news/021/21/6a4431c828184.jpg"
+  },
+  {
     "id": "9de95fad23788f28",
     "title": "У Миколаєві внаслідок стрілянини загинули двоє іноземців",
     "summary": "У Миколаєві 30 червня сталася стрілянина, внаслідок якої загинули двоє іноземців.",
@@ -46,6 +226,18 @@
     "published": "2026-06-30T20:48:36+00:00",
     "fetched": "2026-06-30T21:15:33+00:00",
     "image": "https://ngrok.com/blog-assets/images/2026-06-26-i-ported-kubernetes-to-the-browser/og.jpg"
+  },
+  {
+    "id": "5d84170704bfb07f",
+    "title": "Leanstral 1.5",
+    "summary": "Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06 Comments URL: https://news.ycombinator.com/item?id=48738938 Points: 17 # Comments: 1",
+    "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T20:44:56+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://docs.mistral.ai//api/og?title=Leanstral+1.5&description=An+updated+Lean+4+formal+proof+engineering+model+optimised+for+automated+theorem+proving+and+autoformalization.+119B+total+parameters%2C+6.5B+active.&eyebraw=v1.5&image=&type=model&v=35fa871c487ea09cad5c2bf7ae6044c6b93b2bd0"
   },
   {
     "id": "ca41ab83e8067c82",
@@ -190,6 +382,18 @@
     "published": "2026-06-30T19:49:00+00:00",
     "fetched": "2026-06-30T21:15:30+00:00",
     "image": "https://i.lb.ua/news/114/18/6a441dceb8010.jpg"
+  },
+  {
+    "id": "bf5e071aa32d75f8",
+    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+    "summary": "Article URL: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/ Comments URL: https://news.ycombinator.com/item?id=48738262 Points: 19 # Comments: 7",
+    "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T19:47:24+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/06/1_546951.jpg?w=1000&h=525&crop=1"
   },
   {
     "id": "3498f3724567c8df",
@@ -432,6 +636,18 @@
     "image": "https://i.lb.ua/news/000/57/6a44060b12365.jpg"
   },
   {
+    "id": "234cfa55cee12019",
+    "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+    "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+    "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-06-30T18:28:41+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/bd280e50-74a9-11f1-9c5b-41132a229f02.jpg"
+  },
+  {
     "id": "94e032d394d02921",
     "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
     "summary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according to a preliminary analysis of satellite data…",
@@ -478,6 +694,18 @@
     "published": "2026-06-30T18:12:33+00:00",
     "fetched": "2026-06-30T19:20:12+00:00",
     "image": null
+  },
+  {
+    "id": "dd7ca1aef089dc2e",
+    "title": "Amazon seller reveals glimpse of shadow bribery market",
+    "summary": "Article URL: https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers Comments URL: https://news.ycombinator.com/item?id=48736839 Points: 79 # Comments: 42",
+    "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T18:12:33+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/916d9da/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F09%2F4b4c1577705669093972a66782bb%2F1x-1.jpg"
   },
   {
     "id": "e6a9058dc7a9bf97",
@@ -814,6 +1042,18 @@
     "published": "2026-06-30T16:51:00+00:00",
     "fetched": "2026-06-30T17:24:33+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/f/861393/2f72ce2b8915c359937b22c32eb17273.jpeg"
+  },
+  {
+    "id": "2c5d30e5533cabfd",
+    "title": "Show HN: My 13-year-old built an ant colony tracker",
+    "summary": "He's 13 years old. He wanted to track his own ant colonies — growth, feeding, humidity, and other metrics. He built the whole app himself with some help from AI tools; I just helped him deploy it to a server. Would love to hear your feedback! Comments URL:…",
+    "url": "https://formicarium.es",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T16:48:47+00:00",
+    "fetched": "2026-06-30T22:51:07+00:00",
+    "image": "https://formicarium.es/opengraph-image?735303218c04de2a"
   },
   {
     "id": "2495e423a8f2981c",
@@ -40822,125 +41062,5 @@
     "published": "2026-06-16T22:53:34+00:00",
     "fetched": "2026-06-17T02:03:10+00:00",
     "image": null
-  },
-  {
-    "id": "0ac0581a534169bb",
-    "title": "Ілон Маск пообіцяв засудити німецького телемовника через наклеп про мігрантів",
-    "summary": "ZDF зробив трильйонера відповідальним за протести у Північній Ірландії.",
-    "url": "https://lb.ua/world/2026/06/17/745712_ilon_mask_poobitsyav_zasuditi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T22:27:00+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://i.lb.ua/news/045/24/6a31cd7367390.jpg"
-  },
-  {
-    "id": "67e44170e75c1aef",
-    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-    "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-    "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T22:22:44+00:00",
-    "fetched": "2026-06-17T02:03:08+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
-  },
-  {
-    "id": "4f1df109ee32235f",
-    "title": "The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy",
-    "summary": "Article URL: https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/ Comments URL: https://news.ycombinator.com/item?id=48562957 Points: 21 # Comments: 7",
-    "url": "https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T22:15:55+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
-  },
-  {
-    "id": "665e013b3059db18",
-    "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-    "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
-    "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T22:11:15+00:00",
-    "fetched": "2026-06-17T02:03:08+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg"
-  },
-  {
-    "id": "8eb7e2cc80b3f66b",
-    "title": "В середу в Україні прогріється до +28°, місцями короткочасні дощі",
-    "summary": "Вночі без опадів, вдень дощу не передбачається лише на півдні.",
-    "url": "https://lb.ua/society/2026/06/17/745710_seredu_ukrayini_progriietsya_28.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T21:56:00+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://i.lb.ua/news/037/51/6a31c6790de1f.jpg"
-  },
-  {
-    "id": "290b748a46d0d2b7",
-    "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
-    "summary": "Transferring genes across species doesn't just happen in microbes.",
-    "url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T21:54:41+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1906194565-1152x648.jpg"
-  },
-  {
-    "id": "046c544e4ce96ffe",
-    "title": "Німецькі ультраправі досягли рекордного відриву від партії влади в соцопитуваннях",
-    "summary": "Українофобська \"Альтернатива для Німеччини\" могла б взяти 29% портфелів у Бундестазі.",
-    "url": "https://lb.ua/world/2026/06/17/745706_nimetski_ultrapravi_dosyagli.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T21:45:00+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://i.lb.ua/news/011/55/6a31c3e4c3b66.jpg"
-  },
-  {
-    "id": "7456a5a9f164dce6",
-    "title": "Brazilian court convicts Jair Bolsonaro’s son of seeking US help for his father",
-    "summary": "Supreme court finds Eduardo Bolsonaro tried to get sanctions put on judges trying ex-president over coup plot Brazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in prison after finding him guilty of courting US ⁠interference in his father’s coup…",
-    "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-16T21:44:54+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://i.guim.co.uk/img/media/2715212aac09064905bca58c8e472a38835edbb1/454_54_2652_2123/master/2652.jpg?width=140&quality=85&auto=format&fit=max&s=603d795b88a23ebb9ed7b3c188b919de"
-  },
-  {
-    "id": "d9f8ff7b00c1a389",
-    "title": "ФБР заявило про запобігання нападу на Білий дім під час святкування ювілею Трампа",
-    "summary": "Відомо, що кілька людей були затримані.",
-    "url": "https://lb.ua/world/2026/06/17/745708_fbr_zayavilo_pro_zapobigannya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T21:37:00+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://i.lb.ua/news/053/37/6a31c212348ac.jpg"
-  },
-  {
-    "id": "3b38f675d41f07e8",
-    "title": "Звільнення зі служби за указом президента матиме пріоритет над контрактами – Федоров",
-    "summary": "Міністр оборони Михайло Федоров заявив, що з кінця осені поточного року розпочнеться процес часткового звільнення військовослужбовців, які перебувають в армії з 2022 року або раніше, причому указ президента матиме пріоритет над підписаними контрактами.",
-    "url": "https://www.pravda.com.ua/news/2026/06/17/8039691/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T21:36:00+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/851395/080a76475f28e2dbb9706ae554600247.jpeg"
   }
 ]
