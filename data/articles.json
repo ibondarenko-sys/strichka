@@ -1,5 +1,53 @@
 [
   {
+    "id": "c5e612bf83f7d2e2",
+    "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+    "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-01T00:03:55+00:00",
+    "fetched": "2026-07-01T00:12:06+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ce2462e9765f91a4",
+    "title": "У Венесуелі зросла кількість жертв через земретлус",
+    "summary": "У Венесуелі землетруси забрали 1943 життя, десятки тисяч зниклих, понад 58 тисяч будівель зруйновано.",
+    "url": "https://www.pravda.com.ua/news/2026/07/01/8041848/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T23:50:00+00:00",
+    "fetched": "2026-07-01T00:12:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/861489/25abd7598438f52c2819594eadb8336c.jpeg"
+  },
+  {
+    "id": "0b8ebbfd74d9f29f",
+    "title": "У Німеччині розвідка б'є на сполох через різке зростання кількості правих екстремістів",
+    "summary": "Політика ультраправих - \"найбільша загроза німецькій демократії\".",
+    "url": "https://lb.ua/world/2026/07/01/748676_nimechchini_rozvidka_bie_spoloh.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T23:33:00+00:00",
+    "fetched": "2026-07-01T00:12:07+00:00",
+    "image": "https://i.lb.ua/news/035/13/6a4453133133a.jpg"
+  },
+  {
+    "id": "faecd7b7115487c8",
+    "title": "Франція розгромила Швецію в 1/16 фіналу Мундіалю, Мбаппе зрівнявся з Мессі",
+    "summary": "Нападник віцечемпіонів світу ділить з аргентинцем перший рядок у списку бомбардирів чемпіонату.",
+    "url": "https://lb.ua/sport/2026/07/01/748674_frantsiya_rozgromila_shvetsiyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-06-30T22:53:00+00:00",
+    "fetched": "2026-07-01T00:12:07+00:00",
+    "image": "https://i.lb.ua/news/006/22/6a44490aa9ec7.jpg"
+  },
+  {
     "id": "3e74ba82793d5c8c",
     "title": "Dish files for bankruptcy, but not shutting down",
     "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion…",
@@ -46,6 +94,18 @@
     "published": "2026-06-30T22:17:00+00:00",
     "fetched": "2026-06-30T22:51:07+00:00",
     "image": "https://i.lb.ua/news/012/17/6a4440a1180f1.jpg"
+  },
+  {
+    "id": "614d22ec7fc83335",
+    "title": "June research roundup: 6 cool science stories we almost missed",
+    "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
+    "url": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T22:11:10+00:00",
+    "fetched": "2026-07-01T00:12:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-1152x648-1782840720.jpg"
   },
   {
     "id": "c1ef366401f41d49",
@@ -96,6 +156,18 @@
     "image": "https://i.lb.ua/news/071/33/6a443ae8f2a3f.jpg"
   },
   {
+    "id": "81819225dcda8f82",
+    "title": "Gone but Not Forgotten: Recovering the Dead Web",
+    "summary": "Article URL: https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/ Comments URL: https://news.ycombinator.com/item?id=48739682 Points: 7 # Comments: 0",
+    "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:48:43+00:00",
+    "fetched": "2026-07-01T00:12:08+00:00",
+    "image": null
+  },
+  {
     "id": "e2765848a2248501",
     "title": "Майже мільйон мігрантів подали заявки на легалізацію в Іспанії",
     "summary": "У Мадриді думали, що за три місяці програмою скористаються близько 500 тисяч шукачів притулку.",
@@ -106,6 +178,18 @@
     "published": "2026-06-30T21:48:00+00:00",
     "fetched": "2026-06-30T22:51:07+00:00",
     "image": "https://i.lb.ua/news/045/31/6a443ace8b056.jpg"
+  },
+  {
+    "id": "a6eb25f38f513f17",
+    "title": "Reddit will require you to log in to use old.reddit.com",
+    "summary": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
+    "url": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:46:35+00:00",
+    "fetched": "2026-07-01T00:12:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2203349473-1152x648-1782854744.jpg"
   },
   {
     "id": "2e8b8f1472a28538",
@@ -178,6 +262,18 @@
     "published": "2026-06-30T21:14:00+00:00",
     "fetched": "2026-06-30T22:51:07+00:00",
     "image": "https://i.lb.ua/news/021/21/6a4431c828184.jpg"
+  },
+  {
+    "id": "b4e35879f2d06873",
+    "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+    "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
+    "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-06-30T21:04:53+00:00",
+    "fetched": "2026-07-01T00:12:06+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/MGViZTU1YTIt._CB799536100_-1152x648.jpg"
   },
   {
     "id": "9de95fad23788f28",
@@ -40990,77 +41086,5 @@
     "published": "2026-06-17T00:21:00+00:00",
     "fetched": "2026-06-17T02:03:08+00:00",
     "image": "https://i.lb.ua/news/025/49/6a31eb2384690.jpg"
-  },
-  {
-    "id": "7be33add9008eac5",
-    "title": "Трамп може піти на поступки щодо України в обмін на допомогу Європи в Ормузькій протоці – ЗМІ",
-    "summary": "Президент США Дональд Трамп готовий підтримати Україну та посилити тиск на Росію в обмін на допомогу європейських союзників у розмінуванні Ормузької протоки.",
-    "url": "https://www.pravda.com.ua/news/2026/06/17/8039694/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T23:44:00+00:00",
-    "fetched": "2026-06-17T02:03:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/851398/654fdb44c168a8f2bc37ed19529fd37f.jpeg"
-  },
-  {
-    "id": "e869c00817721e0f",
-    "title": "Син експрезидента Бразилії отримав тюремний термін, як і його батько",
-    "summary": "Едуарду Болсонару засудили за лобіювання санкцій проти причетних до визнання його батька винним.",
-    "url": "https://lb.ua/world/2026/06/17/745716_sin_eksprezidenta_braziliyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T23:38:00+00:00",
-    "fetched": "2026-06-17T02:03:08+00:00",
-    "image": "https://i.lb.ua/news/092/25/6a31e0fb075d9.jpg"
-  },
-  {
-    "id": "c2226b7b12bec2d0",
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-    "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/ Comments URL: https://news.ycombinator.com/item?id=48563609 Points: 65 # Comments: 10",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T23:15:44+00:00",
-    "fetched": "2026-06-17T02:03:10+00:00",
-    "image": "https://content.wolfram.com/sites/43/2026/06/v15-tile-wolframblog.png"
-  },
-  {
-    "id": "461ccfbf54495ca4",
-    "title": "NLnet announces funding for 67 more open-source projects",
-    "summary": "Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html Comments URL: https://news.ycombinator.com/item?id=48563569 Points: 61 # Comments: 10",
-    "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T23:12:09+00:00",
-    "fetched": "2026-06-17T02:03:10+00:00",
-    "image": null
-  },
-  {
-    "id": "930d39f1c9a82e38",
-    "title": "Гілларі Клінтон прямо звинуватила Джо Байдена у поразці демократів на виборах",
-    "summary": "Колишня кандидатка на посаду глави держави називає дії однопартійця зрадою.",
-    "url": "https://lb.ua/world/2026/06/17/745714_gillari_klinton_pryamo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-16T22:57:00+00:00",
-    "fetched": "2026-06-16T23:06:34+00:00",
-    "image": "https://i.lb.ua/news/099/29/6a31d1a1ca3d9.jpg"
-  },
-  {
-    "id": "a8fd6d9cf369a621",
-    "title": "Humiliating IIS servers for fun and jail time",
-    "summary": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ Comments URL: https://news.ycombinator.com/item?id=48563394 Points: 87 # Comments: 14",
-    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-16T22:53:34+00:00",
-    "fetched": "2026-06-17T02:03:10+00:00",
-    "image": null
   }
 ]
