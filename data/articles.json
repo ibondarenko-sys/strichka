@@ -1,5 +1,113 @@
 [
   {
+    "id": "68a1c766bf2c3ab8",
+    "title": "Юнацька збірна України з футболу вийшла в півфінал Євро-2026 і на чемпіонат світу",
+    "summary": "Команда Дмитра Михайленка вже виконала завдання мінімум.",
+    "url": "https://lb.ua/sport/2026/07/03/749150_yunatska_zbirna_ukrayini_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-02T22:12:00+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://i.lb.ua/news/076/49/6a46e2144c0d2.jpg"
+  },
+  {
+    "id": "6c61bba2e3c3714a",
+    "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+    "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving…",
+    "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T22:09:33+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3228cb1e251cd509",
+    "title": "Укренерго: в п'ятницю в Україні не прогнозуються відключення електроенергії",
+    "summary": "Енергетики закликали до ощадливого споживання у вечірні години.",
+    "url": "https://lb.ua/economics/2026/07/03/749148_ukrenergo_pyatnitsyu_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-02T21:56:00+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://i.lb.ua/news/000/42/6a46de4fa590d.jpg"
+  },
+  {
+    "id": "13921ea9ae9492e1",
+    "title": "Україна та Польща проведуть переговори на рівні міністрів закордонних справ",
+    "summary": "Сибіга їде до Сікорського у Варшаву.",
+    "url": "https://lb.ua/news/2026/07/03/749146_ukrayina_polscha_provedut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-02T21:48:00+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://i.lb.ua/news/099/37/6a46dcb6cfa80.jpg"
+  },
+  {
+    "id": "686b200c68349c68",
+    "title": "Ескалація російського терору є проявом зростання відчаю Кремля – Україна в ОБСЄ",
+    "summary": "Україна в ОБСЄ заявила про зростання відчаю Кремля і посилення терору – як наслідок.",
+    "url": "https://www.pravda.com.ua/news/2026/07/03/8042174/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-02T21:40:00+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/863176/df84cc75cd0f5a7808568327426fd9e4.jpeg"
+  },
+  {
+    "id": "4ee1120f241ca211",
+    "title": "Росіяни вдарили по житловому сектору в Кривому Розі",
+    "summary": "Двоє людей поранені, є значні пошкодження в будинках.",
+    "url": "https://lb.ua/society/2026/07/03/749144_rosiyani_vdarili_zhitlovomu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-02T21:24:00+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://i.lb.ua/news/045/38/6a46d70b9d2e0.jpg"
+  },
+  {
+    "id": "6ab00486e6b48988",
+    "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
+    "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
+    "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-02T21:21:36+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9745/live/6c75c790-7652-11f1-a627-714adb4eed6e.jpg"
+  },
+  {
+    "id": "a359ee4d03c2a2ac",
+    "title": "BlastRadar – paste a Git diff, get a production risk score in 10 seconds",
+    "summary": "Article URL: https://blastradar.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48767515 Points: 8 # Comments: 0",
+    "url": "https://blastradar.vercel.app/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T21:19:20+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": null
+  },
+  {
+    "id": "397919256f428dcd",
+    "title": "В червні втрати РФ в артилерії були найбільшими за час війни",
+    "summary": "Також знищено або підбито найбільшу кількість в автотехніці окупантів.",
+    "url": "https://lb.ua/society/2026/07/03/749138_chervni_vtrati_rf_artileriyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-02T21:14:00+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://i.lb.ua/news/101/44/6a46d4c81ba80.jpg"
+  },
+  {
     "id": "4f855a35e7b8033d",
     "title": "Meta has a new app to let you make little AI experiences",
     "summary": "Meta has launched a new social app called Pocket that lets you make and share little interactive \"gizmos\" with an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI as the new social media, and he's previously described a vision of how users…",
@@ -22,6 +130,18 @@
     "published": "2026-07-02T21:05:00+00:00",
     "fetched": "2026-07-02T21:14:18+00:00",
     "image": "https://i.lb.ua/news/120/07/6a46d2dfc3c87.jpg"
+  },
+  {
+    "id": "e35f0adbce7c3b4a",
+    "title": "Virginia bans sale of geolocation data",
+    "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data Comments URL: https://news.ycombinator.com/item?id=48767347 Points: 164 # Comments: 20",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T21:03:45+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png"
   },
   {
     "id": "4b6f2e4b66b4392b",
@@ -132,6 +252,18 @@
     "image": "https://i.lb.ua/news/073/19/6a46bfd6aecc1.jpg"
   },
   {
+    "id": "d717fcf2d2e529ca",
+    "title": "Newly discovered PamStealer isn't your typical macOS malware",
+    "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+    "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T19:38:57+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg"
+  },
+  {
     "id": "afe2b4a8537fa71a",
     "title": "Шмигаль: найближчі дні країна зможе пройти без графіків відключень електроенергії",
     "summary": "Також він повідомив про скоригований план відновлення енергосистеми.",
@@ -142,6 +274,30 @@
     "published": "2026-07-02T19:38:00+00:00",
     "fetched": "2026-07-02T21:14:18+00:00",
     "image": "https://i.lb.ua/news/020/27/6a46be24c8b6b.jpg"
+  },
+  {
+    "id": "2b11d233c015ac08",
+    "title": "Wireless LAN SD",
+    "summary": "Article URL: https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/ Comments URL: https://news.ycombinator.com/item?id=48766297 Points: 18 # Comments: 18",
+    "url": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T19:35:20+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://www.sdcard.org/wp-content/uploads/2020/12/isdio-graphic.png"
+  },
+  {
+    "id": "f586005fc1cf740d",
+    "title": "Great Salt Lake Tracker – Grow the Flow",
+    "summary": "Article URL: https://growtheflowutah.org/laketracker/ Comments URL: https://news.ycombinator.com/item?id=48766286 Points: 30 # Comments: 3",
+    "url": "https://growtheflowutah.org/laketracker/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T19:33:55+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://growtheflowutah.org/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-4.10.57-PM.webp"
   },
   {
     "id": "049f243883b19f91",
@@ -202,6 +358,18 @@
     "published": "2026-07-02T19:15:00+00:00",
     "fetched": "2026-07-02T19:39:04+00:00",
     "image": "https://i.lb.ua/news/048/13/6a46b8cb3f74f.jpg"
+  },
+  {
+    "id": "c8ebef26ce4c7819",
+    "title": "The Short Leash AI Coding Method for Beating Fable",
+    "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 40 # Comments: 24",
+    "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T19:11:57+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": null
   },
   {
     "id": "9e5663cb740fc845",
@@ -708,6 +876,18 @@
     "image": "https://i.guim.co.uk/img/media/6e7b37b3b665d03e4bbb7dc3214238b3619a6711/443_0_2218_1774/master/2218.jpg?width=140&quality=85&auto=format&fit=max&s=4662b732ae1e56744727405b357da005"
   },
   {
+    "id": "3866338514a571ce",
+    "title": "24-bit/192kHz music downloads and why they make no sense (2012)",
+    "summary": "Article URL: https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm Comments URL: https://news.ycombinator.com/item?id=48763790 Points: 77 # Comments: 105",
+    "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T16:24:49+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": null
+  },
+  {
     "id": "c6c5908a764c7c58",
     "title": "Штурмовики \"Скелі\" ліквідували прорив державного кордону в районі Козачої Лопані",
     "summary": "У 425-му окремому штурмовому полку\"Скеля\" заявили, що їхні штурмовики зупинили прорив державного кордону в районі Козачої Лопані на Харківщині.",
@@ -826,6 +1006,18 @@
     "published": "2026-07-02T15:41:00+00:00",
     "fetched": "2026-07-02T17:54:31+00:00",
     "image": "https://i.lb.ua/news/038/31/6a468627e0c5b.jpg"
+  },
+  {
+    "id": "a05445022d30b8e3",
+    "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+    "summary": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier. However to prove anything, the computation first has to be expressed as a circuit: a system of polynomial equations (constraints) over…",
+    "url": "https://zk.golf/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-02T15:40:05+00:00",
+    "fetched": "2026-07-02T22:38:26+00:00",
+    "image": "https://zk.golf/socials.png"
   },
   {
     "id": "f170420096d5c9cb",
@@ -41722,125 +41914,5 @@
     "published": "2026-06-18T22:49:00+00:00",
     "fetched": "2026-06-18T23:18:54+00:00",
     "image": "https://i.lb.ua/news/007/62/6a3475f169477.jpg"
-  },
-  {
-    "id": "f79f58eee8da7227",
-    "title": "How Smashing The NIMBYs Created Modern Capitalism",
-    "summary": "Article URL: https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/ Comments URL: https://news.ycombinator.com/item?id=48592576 Points: 13 # Comments: 0",
-    "url": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-18T22:37:22+00:00",
-    "fetched": "2026-06-19T02:19:06+00:00",
-    "image": "https://worksinprogress.co/wip-image/uploads/2026/06/glorious_revolution_website_image-1-scaled.jpg"
-  },
-  {
-    "id": "eeb409b78d5a3197",
-    "title": "ЄС вперше продовжив секторальні санкції проти Росії одразу на рік",
-    "summary": "Раніше обмежувалися терміном у 6 місяців.",
-    "url": "https://lb.ua/society/2026/06/19/746228_ies_vpershe_prodovzhiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-18T22:15:00+00:00",
-    "fetched": "2026-06-18T23:18:54+00:00",
-    "image": "https://i.lb.ua/news/115/19/6a346dee728c7.jpg"
-  },
-  {
-    "id": "47bfab9a8d01bdc2",
-    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-    "summary": "In February, a Trump official refused to review the vaccine.",
-    "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-18T22:08:59+00:00",
-    "fetched": "2026-06-19T02:19:05+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
-  },
-  {
-    "id": "96ce27680d3d57f9",
-    "title": "Гідрометцентр: в п'ятницю в Україні переважно без опадів, повітря прогріється до +27°",
-    "summary": "В багатьох областях попереджають про надзвичайний рівень пожежної небезпеки.",
-    "url": "https://lb.ua/society/2026/06/19/746226_gidromettsentr_pyatnitsyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-18T21:55:00+00:00",
-    "fetched": "2026-06-18T23:18:54+00:00",
-    "image": "https://i.lb.ua/news/057/40/6a3468bee550d.jpg"
-  },
-  {
-    "id": "afc8bac5884eeccc",
-    "title": "Zero-Touch OAuth for MCP",
-    "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ Comments URL: https://news.ycombinator.com/item?id=48592163 Points: 12 # Comments: 3",
-    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-18T21:54:10+00:00",
-    "fetched": "2026-06-18T23:18:58+00:00",
-    "image": "https://blog.modelcontextprotocol.io/og-image.png"
-  },
-  {
-    "id": "5321bf7fa8544471",
-    "title": "Ціна на нафту впала нижче позначки у 75 доларів за барель",
-    "summary": "Мінус десяток доларів за тиждень завдяки Трамповому миру з Іраном.",
-    "url": "https://lb.ua/economics/2026/06/19/746224_tsina_naftu_vpala_nizhche.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-18T21:45:00+00:00",
-    "fetched": "2026-06-18T23:18:54+00:00",
-    "image": "https://i.lb.ua/news/103/58/6a3466f0b707a.jpg"
-  },
-  {
-    "id": "48bda87aecdaa9cf",
-    "title": "Лідери ЄС погодили продовження санкцій проти РФ на довший термін",
-    "summary": "Лідери ЄС узгодили продовження санкцій проти Росії на рік, а не на пів року, вперше від початку війни.",
-    "url": "https://www.pravda.com.ua/news/2026/06/19/8040064/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-18T21:44:00+00:00",
-    "fetched": "2026-06-18T23:18:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/c/853068/ece403a15a263c5b3e01b92a163753ea.jpeg"
-  },
-  {
-    "id": "05b45ad240358ee3",
-    "title": "Росіяни дроном влучили у технічний поверх багатоповерхівки у Сумах",
-    "summary": "У Сумах дрон «Молнія» РФ влучив у багатоповерхівку: пошкоджено дах, люди не постраждали.",
-    "url": "https://www.pravda.com.ua/news/2026/06/19/8040062/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-18T21:34:00+00:00",
-    "fetched": "2026-06-18T23:18:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/a/853059/3a4d6e503943ae6c3ec11af05fbfd986.jpeg"
-  },
-  {
-    "id": "72e6e0e7833bf01d",
-    "title": "As China looms, Taiwan makes more drones for defense and the US military",
-    "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
-    "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-18T21:21:26+00:00",
-    "fetched": "2026-06-19T02:19:05+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-1152x648.jpg"
-  },
-  {
-    "id": "428c1bcc59b7fabb",
-    "title": "Зеленський підбив підсумки візиту до Брюсселя",
-    "summary": "Президент також зазначив, що Путін може посилювати удари по Україні і закликав користуватись укриттями.",
-    "url": "https://lb.ua/news/2026/06/19/746220_zelenskiy_pidbiv_pidsumki_vizitu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-18T21:20:00+00:00",
-    "fetched": "2026-06-18T23:18:54+00:00",
-    "image": "https://i.lb.ua/news/119/33/6a34610c793af.jpg"
   }
 ]
