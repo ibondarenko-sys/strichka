@@ -1,5 +1,53 @@
 [
   {
+    "id": "faf49c5eb0759ba3",
+    "title": "Через російські удари по Києву є руйнування в житлових будинках та медзакладі: постраждали люди",
+    "summary": "Внаслідок нічної атаки РФ у Києві пошкоджені будинки, медзаклад, 5 людей постраждали.",
+    "url": "https://www.pravda.com.ua/news/2026/07/02/8042014/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-01T23:46:00+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/7/862352/7794bcbf3ed0d5e5fcc008e79d9e905e.jpeg"
+  },
+  {
+    "id": "62408a4dac90e495",
+    "title": "Росіяни атакують Київ балістикою, \"Цирконами\" і крилатими ракетами: є постраждалі і руйнування (оновлено)",
+    "summary": "Після реактивних БПЛА ворог застосовує ракетне озброєння.",
+    "url": "https://lb.ua/society/2026/07/02/748944_rosiyani_atakuyut_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-01T23:38:00+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://i.lb.ua/news/054/34/6a459d8c2b432.jpg"
+  },
+  {
+    "id": "0bd50726c373dc3b",
+    "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+    "summary": "Article URL: https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production Comments URL: https://news.ycombinator.com/item?id=48754155 Points: 28 # Comments: 13",
+    "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-01T22:48:56+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://news.cuanschutz.edu/hubfs/2026-06_reduced%20mitochondrial%20efficiency%20(1).png"
+  },
+  {
+    "id": "5fed04926df2009a",
+    "title": "Бельгія здійснила камбек у матчі із Сенегалом і вийшла до 1/8 фіналу Мундіалю",
+    "summary": "За рахунку 0:2 надії на успіх європейців було дуже мало.",
+    "url": "https://lb.ua/sport/2026/07/02/748942_belgiya_zdiysnila_kambek_matchi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-01T22:45:00+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://i.lb.ua/news/118/13/6a459ad23ed3e.jpg"
+  },
+  {
     "id": "caf67364722e21a4",
     "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
     "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\" The…",
@@ -10,6 +58,30 @@
     "published": "2026-07-01T22:39:43+00:00",
     "fetched": "2026-07-01T22:48:14+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero-251015.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "bc740fcd57c6fd07",
+    "title": "The Underhanded C Contest",
+    "summary": "Article URL: https://underhanded-c.org/ Comments URL: https://news.ycombinator.com/item?id=48754080 Points: 19 # Comments: 2",
+    "url": "https://underhanded-c.org/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-01T22:39:15+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": null
+  },
+  {
+    "id": "eb1d83bd15913080",
+    "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+    "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+    "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-01T22:36:43+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcae/live/0a189580-759b-11f1-aa81-a5efa93da41b.jpg"
   },
   {
     "id": "6e149beb2c13246c",
@@ -24,6 +96,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/862348/ff53769a030bfde734adb9f0865d9e0c.jpeg"
   },
   {
+    "id": "f5a9196d79fbe9d9",
+    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/ Comments URL: https://news.ycombinator.com/item?id=48753979 Points: 16 # Comments: 7",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-01T22:27:47+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-07-03_12.59.53_PM.width-1300.png"
+  },
+  {
     "id": "2f0d1680c5a3c782",
     "title": "Криптовалюта, Біблія і \"Сам удома\": Трамп розкрив походження мільярдів, зароблених у перший рік президентства",
     "summary": "Декларація глави держави зайняла майже 1000 сторінок.",
@@ -34,6 +118,18 @@
     "published": "2026-07-01T22:17:00+00:00",
     "fetched": "2026-07-01T22:48:14+00:00",
     "image": "https://i.lb.ua/news/020/54/6a459201389c2.jpg"
+  },
+  {
+    "id": "14f4c2d0ad2c0bd5",
+    "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+    "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
+    "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-01T22:13:03+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc8/live/a4a15a10-7131-11f1-b1db-af71d47507d6.jpg"
   },
   {
     "id": "ab2a4a46b603ba2e",
@@ -94,6 +190,18 @@
     "published": "2026-07-01T21:47:00+00:00",
     "fetched": "2026-07-01T22:48:14+00:00",
     "image": "https://i.lb.ua/news/112/37/6a458aec09fca.jpg"
+  },
+  {
+    "id": "dae876dc198c2819",
+    "title": "Chip Off the Old Block",
+    "summary": "Article URL: https://www.astralcodexten.com/p/chip-off-the-old-block Comments URL: https://news.ycombinator.com/item?id=48753524 Points: 26 # Comments: 1",
+    "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-01T21:42:57+00:00",
+    "fetched": "2026-07-02T00:13:46+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!Zomw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23faa91b-8d6c-478f-85cc-2ecfac0aa5f5_713x480.png"
   },
   {
     "id": "d3c14cb7c9c26dda",
@@ -41650,53 +41758,5 @@
     "published": "2026-06-18T00:23:00+00:00",
     "fetched": "2026-06-18T02:01:41+00:00",
     "image": "https://i.lb.ua/news/103/45/6a333acd2dcfc.jpg"
-  },
-  {
-    "id": "5101e183c6ab02ac",
-    "title": "Білий дім підтвердив, що мирний договір між США та Іраном набув чинності",
-    "summary": "Трамп підписав документ дистанційно з Версаля.",
-    "url": "https://lb.ua/world/2026/06/18/746006_biliy_dim_pidtverdiv_scho_mirniy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-17T23:58:00+00:00",
-    "fetched": "2026-06-18T02:01:41+00:00",
-    "image": "https://i.lb.ua/news/074/43/6a33363992f35.jpg"
-  },
-  {
-    "id": "5f34e8b4cca1c3f1",
-    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-    "summary": "Article URL: https://www.horg.com/horg/?page_id=921 Comments URL: https://news.ycombinator.com/item?id=48578388 Points: 55 # Comments: 8",
-    "url": "https://www.horg.com/horg/?page_id=921",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-17T23:20:38+00:00",
-    "fetched": "2026-06-18T02:01:46+00:00",
-    "image": "https://www.horg.com/horg/wp-content/uploads/2012/02/phyla_01.jpg"
-  },
-  {
-    "id": "510604a42fcd1066",
-    "title": "Clojure Hosted on Go",
-    "summary": "Article URL: https://github.com/glojurelang/glojure Comments URL: https://news.ycombinator.com/item?id=48578326 Points: 20 # Comments: 1",
-    "url": "https://github.com/glojurelang/glojure",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-17T23:14:49+00:00",
-    "fetched": "2026-06-18T02:01:46+00:00",
-    "image": "https://repository-images.githubusercontent.com/570750090/6e70cd38-3c44-4bdb-a204-0ef41d9cb9da"
-  },
-  {
-    "id": "76125cbd48c49c89",
-    "title": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
-    "summary": "Chase died from sepsis following a bout with meningitis in a Los Angeles hospital, her longtime manager told the BBC.",
-    "url": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-17T22:55:46+00:00",
-    "fetched": "2026-06-18T07:16:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3832/live/f52109d0-6a7f-11f1-8e56-530bbb41ec43.jpg"
   }
 ]
