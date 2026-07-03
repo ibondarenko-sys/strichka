@@ -1,6 +1,4 @@
 {
-  "68af954cade221e8": "https://static.simonwillison.net/static/2026/datasette-apps-card.jpg",
-  "a0b921cc89317833": "https://images.ctfassets.net/92fo1e671z6m/1jQu6T1XfkcBMcTa3ED361/2894d1eb54ecdefe04faac67248a284b/Flexport_LP_Standard_Meta_IMG.jpeg?w=478&h=250&fl=progressive&q=80&fm=jpg&bg=transparent",
   "27d7a4ffa17529a4": "https://img.eurointegration.com.ua/images/doc/7/6/7638f8d-gettyimages-2281465234.jpg",
   "cc54347d26485b09": "https://img.eurointegration.com.ua/images/doc/2/b/2bde26e-oslx7ln-.jpg",
   "fc84f9ff79c2a712": "https://img.eurointegration.com.ua/images/doc/6/8/6816215-gettyimages-2281627201.jpg",
@@ -10,8 +8,6 @@
   "ba48efda6a602a34": "https://substackcdn.com/image/fetch/$s_!wuD-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F230b5f07-3942-4526-8b93-08d3967ef323_1664x1106.png",
   "74d653fcb61df188": "https://mnot.net/blog/image/sign.jpeg",
   "6b89a90e69f128db": "https://substackcdn.com/image/fetch/$s_!3GhD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d9124f8-8a73-453b-88e2-7df5c98022ec_1920x1080.png",
-  "f21ee9cf432bcd7b": null,
-  "d4ee3e221a3d463c": null,
   "8208bc0e89799b61": null,
   "666bd65a90b60b44": "https://img.eurointegration.com.ua/images/doc/a/b/aba7495-000-b7kn374-e1781819483424-1024x575.jpg",
   "c3b43aae64e201fb": "https://substackcdn.com/image/fetch/$s_!Wg2y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b2b023-2201-4191-8686-3ed8863e7f81_5711x3808.jpeg",
@@ -915,5 +911,11 @@
   "c8ebef26ce4c7819": null,
   "652489a9cf1a9144": null,
   "5988429fc84a18cb": "https://opengraph.githubassets.com/baf241422c726c39ab650c6e4c77f37dbb70f45ea16ea5b06148e549827d27c8/FractalFir/crustc",
-  "29ab83264a115e8a": "https://codeberg.org/jjba23/modusregel/-/summary-card"
+  "29ab83264a115e8a": "https://codeberg.org/jjba23/modusregel/-/summary-card",
+  "ce5f35429ee5a4c4": "https://scottaaronson.blog/wp-content/uploads/2026/07/image-2.png",
+  "fba2ff9cc80668b6": null,
+  "03a1b3134cea3737": null,
+  "f0a8dfe6f339304c": "https://www.eff.org/files/banner_library/twitter-elon.png",
+  "98eb351781e4a40e": null,
+  "b108c8bfc2f91f0d": "https://stefan.schueller.net/posts/the-free-market-lie/title-image.png"
 }
