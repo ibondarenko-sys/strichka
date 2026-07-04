@@ -1,5 +1,53 @@
 [
   {
+    "id": "7e9ffc3a6038f105",
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 28 # Comments: 2",
+    "url": "https://github.com/openai/codex/issues/30364",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-04T21:51:09+00:00",
+    "fetched": "2026-07-04T22:29:17+00:00",
+    "image": "https://opengraph.githubassets.com/a5d6c4d003a2626f4266714ca382f0703c2db3b9e282b6ddf3033c244b663526/openai/codex/issues/30364"
+  },
+  {
+    "id": "9f8f64177a132efd",
+    "title": "\"Батьківщина-мати\" засяяла кольорами американського прапора на 250-річчя США",
+    "summary": "Увечері 4 липня київський монумент \"Батьківщина-мати\" підсвітили синім, білим та червоним кольорами американського прапора на честь 250-ї річниці проголошення незалежності Сполучених Штатів Америки.",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042434/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-04T21:43:00+00:00",
+    "fetched": "2026-07-04T22:29:17+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/864337/62331d93864fb6a26d78dc3bf9a5f25c.jpeg"
+  },
+  {
+    "id": "72d861b624a2df4d",
+    "title": "Росіяни поцілили у багатоповерхівку в Запоріжжі: поранено трьох людей, зокрема дитину – ОВА",
+    "summary": "Увечері 4 липня російські загарбники завдали щонайменше п'яти ударів по Запоріжжю, внаслідок чого було зруйновано стіну багатоповерхівки з першого по п'ятий поверх та поранено трьох людей, зокрема дитину.",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042433/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-04T21:15:00+00:00",
+    "fetched": "2026-07-04T22:29:17+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/864336/3f2c43beb29ae8f31cd14b35948feeb7.jpeg"
+  },
+  {
+    "id": "d15644d49449e4c4",
+    "title": "Головне за суботу, 4 липня: авіаудар по Краматорську, знищення Міг-29 на «Бельбеку», пожежі в Чорнобильській зоні",
+    "summary": "Бойові дії на Донеччині, 236 бойових зіткнень, ворожі обстріли, День незалежності США. Яким запам’ятається 1592-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/07/04/749620_golovne_subotu_4_lipnya_aviaudar.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-04T20:58:00+00:00",
+    "fetched": "2026-07-04T22:29:18+00:00",
+    "image": "https://i.lb.ua/news/090/20/6a497b6521fdd.jpg"
+  },
+  {
     "id": "460486fda9a44b91",
     "title": "Зеленський: Україні потрібна морська лінія оборони з дронами-перехоплювачами",
     "summary": "Президент України Володимир Зеленський 4 липня в Одесі повідомив, що Україні потрібно мати лінію оборони в морі з дронами-перехоплювачами.",
@@ -22,6 +70,18 @@
     "published": "2026-07-04T20:52:00+00:00",
     "fetched": "2026-07-04T21:03:36+00:00",
     "image": "https://i.lb.ua/news/103/37/6a49710757738.jpg"
+  },
+  {
+    "id": "1ebf93c6041682e7",
+    "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+    "summary": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 4 # Comments: 0",
+    "url": "https://arxiv.org/abs/2606.26967",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-04T20:38:39+00:00",
+    "fetched": "2026-07-04T22:29:17+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
     "id": "aa16ba8f0ea0b183",
@@ -70,6 +130,18 @@
     "published": "2026-07-04T20:17:00+00:00",
     "fetched": "2026-07-04T21:03:36+00:00",
     "image": "https://i.lb.ua/news/088/46/6a496a8549cc7.jpg"
+  },
+  {
+    "id": "8622a31aa83d95e5",
+    "title": "Better Models: Worse Tools",
+    "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 34 # Comments: 13",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-04T20:16:22+00:00",
+    "fetched": "2026-07-04T22:29:17+00:00",
+    "image": "https://lucumr.pocoo.org/social/2026-07-04-better-models-worse-tools-social.png"
   },
   {
     "id": "e0f3d22570333c45",
@@ -42622,101 +42694,5 @@
     "published": "2026-06-20T22:30:00+00:00",
     "fetched": "2026-06-20T22:44:14+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/b/854725/8bff81f75b718e631910e1045e800edb.jpeg"
-  },
-  {
-    "id": "e7867233da5f2d2f",
-    "title": "Збірна Німеччини здійснила камбек у матчі з Котом-д’Івуаром і вийшла у плей-оф ЧС-2026",
-    "summary": "Бундестім врятував футболіст, який вийшов на заміну.",
-    "url": "https://lb.ua/sport/2026/06/21/746646_zbirna_nimechchini_zdiysnila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-20T22:27:00+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://i.lb.ua/news/099/13/6a371682b2536.jpg"
-  },
-  {
-    "id": "f63c331483aca1e5",
-    "title": "Slow breathing modulates brain function and risk behavior",
-    "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 13 # Comments: 0",
-    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T22:22:52+00:00",
-    "fetched": "2026-06-21T00:13:19+00:00",
-    "image": null
-  },
-  {
-    "id": "8413892b85fbd698",
-    "title": "Після прильотів у Керчі горить паливний термінал – пабліки",
-    "summary": "Перед першою годиною ночі в суботу, 21 червня, окупанти повідомили про перекриття Кримського моста, у соцмережах з'явилася інформацію про вибухи у Криму та пожежу після прильотів на паливному терміналі в Керчі.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040357/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-20T22:04:00+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/854720/4e608f754e1e13175785abc7a1388aea.jpeg"
-  },
-  {
-    "id": "a495715f1e14978e",
-    "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-    "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
-    "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-20T21:57:36+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfd/live/e03cdc90-6ced-11f1-bb4f-2f04956fdc7f.jpg"
-  },
-  {
-    "id": "01ae705afc805580",
-    "title": "По всій Україні оголошували повітряну тривогу через зліт російського МіГа",
-    "summary": "Через зліт росісйького МіГ Україну охоплювала повітряна тривога.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040356/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-20T21:56:00+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/9/854701/a96263116ed1e896d48d2f08a186b4f1.jpeg"
-  },
-  {
-    "id": "44498285a401beda",
-    "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
-    "summary": "Article URL: https://www.phoronix.com/news/systemd-261 Comments URL: https://news.ycombinator.com/item?id=48613328 Points: 12 # Comments: 1",
-    "url": "https://www.phoronix.com/news/systemd-261",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T21:50:42+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://www.phoronix.net/image.php?id=2026&image=systemd_261"
-  },
-  {
-    "id": "34a3f5a9cfb9637f",
-    "title": "Делегація Ірану прибула до Швейцарії для проведення переговорів зі США – ЗМІ",
-    "summary": "Іран відправив делегацію у Цюрих для переговорів із США.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040355/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-20T21:22:00+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/854700/035033d527be6e63e31381cf37c62aef.jpeg"
-  },
-  {
-    "id": "6c68b9a3fbd51a5c",
-    "title": "Supermarket giant Tesco sues VMware for breach of contract",
-    "summary": "Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651 Comments URL: https://news.ycombinator.com/item?id=48613008 Points: 31 # Comments: 4",
-    "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T21:09:39+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://image.theregister.com/260306.jpg?imageId=260306&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683"
   }
 ]
