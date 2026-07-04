@@ -1,5 +1,149 @@
 [
   {
+    "id": "d67f0f6fc9c54048",
+    "title": "Російська влада заявила про атаку безпілотників на Москву",
+    "summary": "З початку доби 4 липня влада російської столиці заявила про атаку 13 безпілотників, які \"летіли на Москву\".",
+    "url": "https://www.pravda.com.ua/news/2026/07/04/8042329/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-04T00:04:00+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/863911/95c9d8df3c35e2c043f25f9889d1beaf.jpeg"
+  },
+  {
+    "id": "98d899db0a8b99b4",
+    "title": "У Лондоні посадили за ґрати румунів, які напали на журналіста від імені Ірану",
+    "summary": "Розслідування резонансного злочину тривало понад 2 роки.",
+    "url": "https://lb.ua/world/2026/07/04/749446_londoni_posadili_ghrati_rumuniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-03T23:41:00+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://i.lb.ua/news/068/46/6a484b3477bb6.jpg"
+  },
+  {
+    "id": "6a8afb646d1174ce",
+    "title": "Odin, Wikipedia and Engagement Farming",
+    "summary": "Article URL: https://katamari64.se/posts/2026/odin-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=48781196 Points: 17 # Comments: 0",
+    "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T23:24:35+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": null
+  },
+  {
+    "id": "003676cbdd8d6cf3",
+    "title": "Окупанти перекривали Кримський міст, соцмережі повідомили про вибухи в Керчі",
+    "summary": "У тимчасово окупованому Криму в ніч на 4 липня перекривали Керченський міст, у соцмережах повідомляли про вибухи в районі.",
+    "url": "https://www.pravda.com.ua/news/2026/07/04/8042328/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-03T22:58:00+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/863903/042b22788a651470884e04b103d42aaf.jpeg"
+  },
+  {
+    "id": "f88b059f5b49de10",
+    "title": "The circuit that lets your brain think and see",
+    "summary": "Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see Comments URL: https://news.ycombinator.com/item?id=48780996 Points: 16 # Comments: 1",
+    "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:56:17+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": null
+  },
+  {
+    "id": "f72d123c01424d70",
+    "title": "Зеленський відреагував на ворожий терор у Сумах і Запоріжжі: потрібен тиск на Росію",
+    "summary": "Президент закликав партнерів не втрачати жодного дня.",
+    "url": "https://lb.ua/society/2026/07/04/749444_zelenskiy_vidreaguvav_vorozhiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-03T22:50:00+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://i.lb.ua/news/038/00/6a483d32a5a77.jpg"
+  },
+  {
+    "id": "b9dda7e6c27539bc",
+    "title": "Amsterdam invented the fire department",
+    "summary": "Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/ Comments URL: https://news.ycombinator.com/item?id=48780913 Points: 24 # Comments: 6",
+    "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:46:18+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://worksinprogress.co/wip-image/uploads/2026/07/firefighting-share-card-.jpg"
+  },
+  {
+    "id": "9449060b3be018bb",
+    "title": "Giant trees have no trouble pumping water to top branches",
+    "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/ Comments URL: https://news.ycombinator.com/item?id=48780870 Points: 41 # Comments: 19",
+    "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:40:29+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://news.exeter.ac.uk/wp-content/uploads/2026/07/A-57m-tall-Dipterocarp-tree-with-a-double-rope-technique-DRT-rigged-for-canopy-access.-Credit-Palasiah-Jotan-x.jpg"
+  },
+  {
+    "id": "16578d75350ba58b",
+    "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+    "summary": "Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge Comments URL: https://news.ycombinator.com/item?id=48780865 Points: 30 # Comments: 5",
+    "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:39:50+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://opengraph.githubassets.com/34de48aac22305bb26b6e7aba91cee7cfeb50cb18ac8fd3d0ced4fa00fc39b56/FossPrime/Steam-Controller-Auto-Charge"
+  },
+  {
+    "id": "c25a6fc4d2a83f5e",
+    "title": "Dispersion loss counteracts embedding condensation in small language models",
+    "summary": "Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/ Comments URL: https://news.ycombinator.com/item?id=48780826 Points: 15 # Comments: 3",
+    "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:35:47+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": null
+  },
+  {
+    "id": "7166eeebfdeb98a6",
+    "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+    "summary": "Article URL: https://gitfut.com Comments URL: https://news.ycombinator.com/item?id=48780812 Points: 6 # Comments: 4",
+    "url": "https://gitfut.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:34:16+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://gitfut.com/opengraph-image?e2293c2f2e0bf28f"
+  },
+  {
+    "id": "02c8b85a9a6075ab",
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "summary": "Article URL: https://mistral.ai/news/leanstral-1-5/ Comments URL: https://news.ycombinator.com/item?id=48780801 Points: 34 # Comments: 4",
+    "url": "https://mistral.ai/news/leanstral-1-5/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T22:33:10+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg"
+  },
+  {
     "id": "2c4a941c43f35c6b",
     "title": "Зеленський на тлі ударів по Україні: Потрібен тиск партнерів на Росію, \"щоб цей терор припинився\"",
     "summary": "Президент Володимир Зеленський заявив на тлі російських атак у п'ятницю на Суми, Запоріжжя, Харків, і область, Дніпропетровщину та Донеччину, що необхідно, аби \"партнери тиснули на Росію для того, щоб цей терор припинився\".",
@@ -60,6 +204,18 @@
     "image": "https://i.lb.ua/news/057/18/6a4815955c67e.jpg"
   },
   {
+    "id": "b7e86ff92336a1f7",
+    "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+    "summary": "Article URL: https://www.wafer.ai/blog/glm52-amd Comments URL: https://news.ycombinator.com/item?id=48780417 Points: 34 # Comments: 9",
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T21:49:06+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://www.wafer.ai/assets/images/og-image.png"
+  },
+  {
     "id": "dd468bc1e5d370b5",
     "title": "Серед загиблих – дитина, 27 поранених через російський удар 6 КАБами по центру Сум",
     "summary": "Російська армія 3 липня поцілила авіабомбою по одній із центральних вулиць Сум: загинули 3 людей, є поранені, серед них діти.",
@@ -96,6 +252,18 @@
     "image": "https://i.lb.ua/news/123/29/6a482ca9dc3e9.jpg"
   },
   {
+    "id": "2fe3c0465e1769ec",
+    "title": "Software, from First Principles",
+    "summary": "Article URL: https://fazamhd.com/mental-models/software/ Comments URL: https://news.ycombinator.com/item?id=48780224 Points: 16 # Comments: 6",
+    "url": "https://fazamhd.com/mental-models/software/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T21:28:55+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://fazamhd.com/og/mental-models/software.png"
+  },
+  {
     "id": "4a491c16993c8467",
     "title": "Путін наказав продовжити масовані удари по Україні – росЗМІ",
     "summary": "Правитель Кремля розпорядився продовжити масовані удари по Україні.",
@@ -118,6 +286,18 @@
     "published": "2026-07-03T21:27:00+00:00",
     "fetched": "2026-07-03T22:34:49+00:00",
     "image": "https://i.lb.ua/news/034/58/6a482956e2866.jpg"
+  },
+  {
+    "id": "616f8e70b9f85b56",
+    "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+    "summary": "Article URL: https://epoch.ai/data-insights/cve-severity-spike Comments URL: https://news.ycombinator.com/item?id=48780056 Points: 20 # Comments: 6",
+    "url": "https://epoch.ai/data-insights/cve-severity-spike",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-03T21:16:16+00:00",
+    "fetched": "2026-07-04T00:09:38+00:00",
+    "image": "https://epoch.ai/assets/images/data-insights/cve-severity-spike/t-cve-severity-spike-di.png"
   },
   {
     "id": "49f762ec6dbfdb58",
@@ -42478,113 +42658,5 @@
     "published": "2026-06-20T00:11:07+00:00",
     "fetched": "2026-06-20T01:36:17+00:00",
     "image": "https://substackcdn.com/image/fetch/$s_!hzhP!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftidyfirst.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1150222451%26version%3D9"
-  },
-  {
-    "id": "6336d8a6a1ba404f",
-    "title": "Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers",
-    "summary": "Article URL: https://github.com/ascorbic/cirrus Comments URL: https://news.ycombinator.com/item?id=48604801 Points: 25 # Comments: 2",
-    "url": "https://github.com/ascorbic/cirrus",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T00:04:59+00:00",
-    "fetched": "2026-06-20T12:01:16+00:00",
-    "image": "https://opengraph.githubassets.com/f63dd40988cd794d8dbfb718ef35e6d36a3c689806f48644ad4002c19338159f/ascorbic/cirrus"
-  },
-  {
-    "id": "4e55c74e38240563",
-    "title": "У Броварах внаслідок ДТП загинула 2-річна дитина, ще дев'ятеро людей травмовані – поліція",
-    "summary": "У Броварах зіткнення ВАЗ з автобусом: загинула 2-річна дівчинка, дев'ятеро осіб отримали травми.",
-    "url": "https://www.pravda.com.ua/news/2026/06/20/8040254/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-19T23:55:00+00:00",
-    "fetched": "2026-06-20T01:36:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/3/854084/b3cbe956142d178b03837e493a575ecb.jpeg"
-  },
-  {
-    "id": "355e7ecb729be287",
-    "title": "Aikido Code Audit",
-    "summary": "Article URL: https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase Comments URL: https://news.ycombinator.com/item?id=48604741 Points: 9 # Comments: 3",
-    "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-19T23:54:54+00:00",
-    "fetched": "2026-06-20T01:36:17+00:00",
-    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a314e9d380e584d32a2d7d1_OG_How-Intel-Works_16x9.jpg"
-  },
-  {
-    "id": "a59305b74370c6b5",
-    "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
-    "summary": "Article URL: https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow Comments URL: https://news.ycombinator.com/item?id=48604584 Points: 72 # Comments: 60",
-    "url": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-19T23:32:03+00:00",
-    "fetched": "2026-06-20T01:36:17+00:00",
-    "image": "https://www.lloydslist.com/-/media/lloyds-list/images/strait-of-hormuz-crisis/ships/tankers-hormuz-may-larak.png?rev=bfb4c0c8913048239b75faee5e65cbad"
-  },
-  {
-    "id": "2ae9492fa0d28b1f",
-    "title": "Трамп презентував модифікований літак з Катару, який навзав \"летючим Білим домом\"",
-    "summary": "На те, щоб привести до ладу подарунок від еміра, пішло близько 400 мільйонів доларів.",
-    "url": "https://lb.ua/world/2026/06/20/746478_tramp_prezentuvav_modifikovaniy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-19T23:31:00+00:00",
-    "fetched": "2026-06-20T01:36:17+00:00",
-    "image": "https://i.lb.ua/news/037/34/6a35d15375f01.jpg"
-  },
-  {
-    "id": "26533f2b1bfd3213",
-    "title": "В окупованому Криму пролунали вибухи: під удар могла потрапити Таврійська ТЕС",
-    "summary": "У Криму пролунали вибухи та пожежа біля Таврійської ТЕС після атаки дронів. ППО працює у Сімферополі та Перевальному.",
-    "url": "https://www.pravda.com.ua/news/2026/06/20/8040253/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-19T22:55:00+00:00",
-    "fetched": "2026-06-20T01:36:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/854083/463e3cf9a8fc0047d4e07bab65584bba.jpeg"
-  },
-  {
-    "id": "0a2da26f42a29ebe",
-    "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
-    "summary": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory? Comments URL: https://news.ycombinator.com/item?id=48604232 Points: 4 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=48604232",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-19T22:51:09+00:00",
-    "fetched": "2026-06-19T23:02:32+00:00",
-    "image": null
-  },
-  {
-    "id": "40d3b6f1127f254e",
-    "title": "У Британії через зіткнення поїздів загинула людина, майже сотня поранених",
-    "summary": "11 постраждалих у вкрай важкому стані.",
-    "url": "https://lb.ua/world/2026/06/20/746476_britaniyi_cherez_zitknennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-19T22:48:00+00:00",
-    "fetched": "2026-06-19T23:02:32+00:00",
-    "image": "https://i.lb.ua/news/111/45/6a35c7b1a19aa.jpg"
-  },
-  {
-    "id": "7e1a4f0739d06a1a",
-    "title": "Americans express unease over SpaceX's influence on retirement savings",
-    "summary": "Article URL: https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk Comments URL: https://news.ycombinator.com/item?id=48604186 Points: 139 # Comments: 66",
-    "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-19T22:45:20+00:00",
-    "fetched": "2026-06-20T01:36:17+00:00",
-    "image": "https://i.guim.co.uk/img/media/b56f868abaa9c1e006a6f7ca7e8265818773db65/536_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f6912daa17b72547200a3f96d773c13"
   }
 ]
