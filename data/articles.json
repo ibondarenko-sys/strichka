@@ -1,5 +1,29 @@
 [
   {
+    "id": "1156a299eeb5d477",
+    "title": "Путін привітав Трампа з 250-річчям США і похвалився перед ним захопленням Костянтинівки – Ушаков",
+    "summary": "Помічник російського диктатора Юрій Ушаков заявив, що Володимир Путін провів телефонну розмову з президентом США Дональдом Трампом, під час якої вони обговорили війну в Україні та майбутній саміт НАТО в Туреччині.",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042435/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-04T22:55:00+00:00",
+    "fetched": "2026-07-04T23:36:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/864338/7a67c67b65f62ab70d9ac4f85ff0edcc.jpeg"
+  },
+  {
+    "id": "0aceebdaf893d635",
+    "title": "New bacterial species discovered in NASA's cleanrooms",
+    "summary": "Article URL: https://www.nature.com/articles/d44151-025-00219-7 Comments URL: https://news.ycombinator.com/item?id=48789699 Points: 6 # Comments: 1",
+    "url": "https://www.nature.com/articles/d44151-025-00219-7",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-04T22:34:30+00:00",
+    "fetched": "2026-07-04T23:36:37+00:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d44151-025-00219-7/d44151-025-00219-7_51741648.jpg"
+  },
+  {
     "id": "7e9ffc3a6038f105",
     "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
     "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 28 # Comments: 2",
@@ -10,6 +34,18 @@
     "published": "2026-07-04T21:51:09+00:00",
     "fetched": "2026-07-04T22:29:17+00:00",
     "image": "https://opengraph.githubassets.com/a5d6c4d003a2626f4266714ca382f0703c2db3b9e282b6ddf3033c244b663526/openai/codex/issues/30364"
+  },
+  {
+    "id": "8d586b3e473f56cd",
+    "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422 Comments URL: https://news.ycombinator.com/item?id=48789416 Points: 9 # Comments: 1",
+    "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-04T21:50:14+00:00",
+    "fetched": "2026-07-04T23:36:37+00:00",
+    "image": "https://live-production.wcms.abc-cdn.net.au/23d41d4ad0b62d7c89027b7d18e798d3?impolicy=wcms_watermark_news&cropH=595&cropW=1058&xPos=0&yPos=54&width=862&height=485&imformat=generic"
   },
   {
     "id": "9f8f64177a132efd",
@@ -42610,89 +42646,5 @@
     "published": "2026-06-20T23:50:00+00:00",
     "fetched": "2026-06-21T00:13:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/854732/9c540572d333f56c73ba1466f118f2da.jpeg"
-  },
-  {
-    "id": "9d209a837cfaf0b6",
-    "title": "Венс назвав пріоритети переговорів з Іраном у Швейцарії",
-    "summary": "Віцепрезидент США Джей Ді Венс заявив, що його головними пріоритетами в переговорах з Іраном є створення структури цих переговорів, \"досягнення прогресу\" в ядерних питаннях та припинення вогню в Лівані.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040360/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-20T23:24:00+00:00",
-    "fetched": "2026-06-21T00:13:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/d/854731/dd20f1c82ec0f0e66e18b6b2a192ffc1.jpeg"
-  },
-  {
-    "id": "faf40d3fb79ce926",
-    "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-    "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
-    "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-20T23:17:51+00:00",
-    "fetched": "2026-06-21T05:26:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c9/live/a7a4ecd0-6bf1-11f1-8631-5f302ec8cd09.jpg"
-  },
-  {
-    "id": "6d08701c55cdc71d",
-    "title": "Epoll vs. Io_uring in Linux",
-    "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/ Comments URL: https://news.ycombinator.com/item?id=48613872 Points: 24 # Comments: 3",
-    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T23:07:09+00:00",
-    "fetched": "2026-06-21T00:13:19+00:00",
-    "image": null
-  },
-  {
-    "id": "556f0a7eda04b2d3",
-    "title": "Not just books: renting a sewing machine from the library can improve democracy",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland Comments URL: https://news.ycombinator.com/item?id=48613755 Points: 45 # Comments: 15",
-    "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T22:54:11+00:00",
-    "fetched": "2026-06-21T00:13:19+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0nssr23.jpg"
-  },
-  {
-    "id": "8781f4223d3cc106",
-    "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
-    "summary": "Article URL: https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/ Comments URL: https://news.ycombinator.com/item?id=48613732 Points: 114 # Comments: 42",
-    "url": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T22:50:43+00:00",
-    "fetched": "2026-06-21T00:13:19+00:00",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/c4070c12-0860-40f7-9876-5044019be5f9.jpeg?crop=1xw:0.667xh;0xw,0.088xh&resize=1200:*"
-  },
-  {
-    "id": "2c08735a78f571d1",
-    "title": "Pre-2022 Books",
-    "summary": "Article URL: https://notes.lorenzogravina.com/musings/pre-2022-books Comments URL: https://news.ycombinator.com/item?id=48613631 Points: 107 # Comments: 50",
-    "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-20T22:36:23+00:00",
-    "fetched": "2026-06-21T00:13:19+00:00",
-    "image": "https://notes.lorenzogravina.com/musings/pre-2022-books-og-image.webp"
-  },
-  {
-    "id": "857b04db28c0dc4e",
-    "title": "Трамп зробив заяву про мита в Ормузькій протоці",
-    "summary": "Трамп висловив своє бачення можливості мит в Ормузькій протоці.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040359/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-20T22:30:00+00:00",
-    "fetched": "2026-06-20T22:44:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/b/854725/8bff81f75b718e631910e1045e800edb.jpeg"
   }
 ]
