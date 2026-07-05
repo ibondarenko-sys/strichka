@@ -1,5 +1,149 @@
 [
   {
+    "id": "570af19f494730c5",
+    "title": "ЄС планує зусилля, щоб подолати проблеми черг з новою системою в'їзду",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042515/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T16:26:00+00:00",
+    "fetched": "2026-07-05T16:35:38+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/3/4/3491d8d----.jpg"
+  },
+  {
+    "id": "243f6ff03d289c32",
+    "title": "Росіяни атакували Запоріжжя: одна людина загинула, ще 9 поранено",
+    "summary": "Дві ворожі авіабомби зруйнували приватні будинки та пошкодили 35 квартир у багатоповерхівці.",
+    "url": "https://lb.ua/society/2026/07/05/749754_rosiyani_atakuvali_zaporizhzhya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T16:23:00+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://i.lb.ua/news/026/11/6a4a850d726c5.jpg"
+  },
+  {
+    "id": "1f2295a771d84d8a",
+    "title": "У Польщі поліція буде з'ясовувати, хто понівечив могилу українського поета Лепкого",
+    "summary": "У польській поліції заявили, що провели огляд на могилі українського поета, письменника та громадсько-культурного діяча Богдана Лепкого, та з'ясовують обставини пошкодження пам'ятника на ній.",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042514/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T16:15:00+00:00",
+    "fetched": "2026-07-05T16:35:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/2/864779/02b76944ca286392613c77a0f3cd216c.jpeg"
+  },
+  {
+    "id": "e744ced525a53300",
+    "title": "У понеділок відключень електроенергії не прогнозується, - Укренерго",
+    "summary": "Українців закликають ощадливо споживати електроенергію у вечірні години.",
+    "url": "https://lb.ua/society/2026/07/05/749752_ponedilok_vidklyuchen.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T16:15:00+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://i.lb.ua/news/039/37/6a4a829fa4293.jpg"
+  },
+  {
+    "id": "453ea49777740b54",
+    "title": "The Plight of the Martian Farmer",
+    "summary": "Article URL: https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer Comments URL: https://news.ycombinator.com/item?id=48795303 Points: 3 # Comments: 0",
+    "url": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T16:04:23+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": null
+  },
+  {
+    "id": "54a6b47e0d4f6798",
+    "title": "Where to preorder Grand Theft Auto VI",
+    "summary": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs, so your options for preordering are straightforward. The…",
+    "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T16:00:00+00:00",
+    "fetched": "2026-07-05T16:35:38+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "425107f5cb4a3436",
+    "title": "В Албанії не вщухають антиурядові протести: у суботу мітингували тисячі людей",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042494/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T16:00:00+00:00",
+    "fetched": "2026-07-05T16:35:38+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/4/745a42c-----.jpg"
+  },
+  {
+    "id": "92fbd5530c674af8",
+    "title": "Венс: успіхи України на фронті допомагають створити умови для завершення війни",
+    "summary": "Віцепрезидент США вважає, що українці, паралельно з переговорами, повинні максимально зосередитися на обороні.",
+    "url": "https://lb.ua/world/2026/07/05/749750_vens_uspihi_ukrayini_fronti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T15:55:00+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://i.lb.ua/news/015/40/6a4a7e8f88abe.jpg"
+  },
+  {
+    "id": "fd30544b5ebe5a7b",
+    "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+    "summary": "Article URL: https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/ Comments URL: https://news.ycombinator.com/item?id=48795174 Points: 5 # Comments: 1",
+    "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T15:49:18+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://www.designboom.com/twitterimages/uploads/2026/01/autonomous-flying-umbrella-follows-users-i-build-stuff-designboom-fb.jpg"
+  },
+  {
+    "id": "1f51f0c1a807e93b",
+    "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+    "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
+    "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-05T15:48:20+00:00",
+    "fetched": "2026-07-05T16:35:37+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/3525a160-7888-11f1-a627-714adb4eed6e.jpg"
+  },
+  {
+    "id": "417777f3a353c92d",
+    "title": "46,6% поляків вважають Україну відповідальною за ескалацію конфлікту у відносинах",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/05/8042510/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T15:35:00+00:00",
+    "fetched": "2026-07-05T16:35:38+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/3/e/3ec8769---.jpg"
+  },
+  {
+    "id": "0ef6415fc1a5b61a",
+    "title": "Від початку року українські дрони майже 200 разів уразили НПЗ в Росії, - FT",
+    "summary": "А кількість успішних українських ударів по російських НПЗ у травні досягла історичного місячного рекорду - 16.",
+    "url": "https://lb.ua/society/2026/07/05/749748_vid_pochatku_roku_ukrayinski.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T15:15:00+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://i.lb.ua/news/017/17/6a4a74269c465.jpg"
+  },
+  {
     "id": "55a4fa9d2e49a46d",
     "title": "Міністр оборони Польщі наказав розсекретити військову допомогу Україні з початку повномасштабного вторгнення РФ",
     "summary": "Владислав Косіняк-Камиш також доручив Службі військової контррозвідки (SKW) розслідувати, хто навмисно намагався розкрити державну таємницю про допомогу.",
@@ -22,6 +166,18 @@
     "published": "2026-07-05T15:06:00+00:00",
     "fetched": "2026-07-05T15:16:57+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/0/f/0fbf0c9---.jpg"
+  },
+  {
+    "id": "42cd1aa0ddf85468",
+    "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+    "summary": "Article URL: https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec Comments URL: https://news.ycombinator.com/item?id=48794788 Points: 3 # Comments: 0",
+    "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T15:00:21+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec.png"
   },
   {
     "id": "10db63d01c73f599",
@@ -58,6 +214,18 @@
     "published": "2026-07-05T14:53:00+00:00",
     "fetched": "2026-07-05T15:16:57+00:00",
     "image": "https://i.lb.ua/news/039/14/6a4a6bcdf24fb.jpg"
+  },
+  {
+    "id": "2587378649a39d5a",
+    "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+    "summary": "Article URL: https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri Comments URL: https://news.ycombinator.com/item?id=48794704 Points: 32 # Comments: 16",
+    "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T14:49:42+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://images.euronews.com/articles/stories/09/82/37/90/1200x675_cmsv2_08ddd015-4096-5f19-be21-c19a1ae3fb19-9823790.jpg"
   },
   {
     "id": "ad3a2dfed86bc477",
@@ -250,6 +418,18 @@
     "published": "2026-07-05T13:50:00+00:00",
     "fetched": "2026-07-05T13:53:04+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/c/7/c77a5f8-kk.jpg"
+  },
+  {
+    "id": "596768a353e7ec21",
+    "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+    "summary": "Article URL: https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html Comments URL: https://news.ycombinator.com/item?id=48794302 Points: 30 # Comments: 6",
+    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T13:47:44+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": null
   },
   {
     "id": "9f57ea5f961704ba",
@@ -598,6 +778,18 @@
     "published": "2026-07-05T11:49:00+00:00",
     "fetched": "2026-07-05T11:55:39+00:00",
     "image": "https://i.lb.ua/news/034/59/6a4a449704b15.jpg"
+  },
+  {
+    "id": "bbaeaf520e1aeed8",
+    "title": "EU Council forces Chat Control via fast-track",
+    "summary": "Article URL: https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html Comments URL: https://news.ycombinator.com/item?id=48793393 Points: 106 # Comments: 29",
+    "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T11:44:04+00:00",
+    "fetched": "2026-07-05T16:35:39+00:00",
+    "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/2/4/1/shutterstock_2470794027-57ca76eccf9f6c6c.jpg"
   },
   {
     "id": "46e71296e8c24289",
@@ -42934,161 +43126,5 @@
     "published": "2026-06-21T16:39:00+00:00",
     "fetched": "2026-06-21T18:06:53+00:00",
     "image": "https://i.lb.ua/news/057/36/6a3813d9484bd.jpg"
-  },
-  {
-    "id": "18fdf495d7c7116b",
-    "title": "На Нікопольщині через удари РФ поранено 5 цивільних, серед них дворічна дитина",
-    "summary": "Під час ударів по Дніпропетровщині поранено 5 осіб, включаючи дворічного хлопчика. Є руйнування будинків та авто.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040445/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T16:34:00+00:00",
-    "fetched": "2026-06-21T18:06:53+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/b/855084/bbd22c5b0f220c74b0cde859b4facc0b.jpeg"
-  },
-  {
-    "id": "d4028383c6d4c7be",
-    "title": "Венс заявив про \"значний прогрес\" за останні кілька годин переговорів з Іраном",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040443/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T16:22:00+00:00",
-    "fetched": "2026-06-21T18:06:53+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/4/7447031-lcimg-7fe969ca-0db6-47a6-9f0d-5a56358998a4.jpeg"
-  },
-  {
-    "id": "d877cf826625b06f",
-    "title": "В Укренерго повідомили, чи вимикатимуть світло у понеділок",
-    "summary": "Енергетики закликали використовувати електроенергію раціонально.",
-    "url": "https://lb.ua/economics/2026/06/21/746770_ukrenergo_povidomili_chi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T16:15:00+00:00",
-    "fetched": "2026-06-21T18:06:53+00:00",
-    "image": "https://i.lb.ua/news/056/08/6a380e635ba56.jpg"
-  },
-  {
-    "id": "4844aebee7fcbd6c",
-    "title": "The early hiring funnel is now breaking on both ends",
-    "summary": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it Comments URL: https://news.ycombinator.com/item?id=48620142 Points: 48 # Comments: 63",
-    "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-21T16:14:54+00:00",
-    "fetched": "2026-06-21T18:06:53+00:00",
-    "image": "https://hbr.org/resources/images/article_assets/2026/05/Jun26_05_116781636.jpg"
-  },
-  {
-    "id": "67fd567354e4e67a",
-    "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
-    "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction Comments URL: https://news.ycombinator.com/item?id=48620090 Points: 166 # Comments: 124",
-    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-21T16:08:23+00:00",
-    "fetched": "2026-06-21T18:06:53+00:00",
-    "image": null
-  },
-  {
-    "id": "ab739b68f0b19a3c",
-    "title": "На Харківщині підірвалися троє цивільних: одна людина загинула",
-    "summary": "У Богодухівському районі вибухнув небезпечний предмет: одна людина загинула, ще двоє поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040441/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T16:05:00+00:00",
-    "fetched": "2026-06-21T16:16:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/855063/f3cfb4e435b8deb4b89d82297bd40973.jpeg"
-  },
-  {
-    "id": "b84ceb8627916a89",
-    "title": "В окупованому росіянами Криму запровадили графіки відключення світла",
-    "summary": "Людям не пояснюють справжніх причин аварій в електромережах.",
-    "url": "https://lb.ua/society/2026/06/21/746768_okupovanomu_rosiyanami_krimu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T15:57:00+00:00",
-    "fetched": "2026-06-21T16:16:35+00:00",
-    "image": "https://i.lb.ua/news/121/45/6a380a2de3429.jpg"
-  },
-  {
-    "id": "22acf79d12c3f250",
-    "title": "(How to Write a (Lisp) Interpreter (In Python))",
-    "summary": "Article URL: https://norvig.com/lispy.html Comments URL: https://news.ycombinator.com/item?id=48619831 Points: 15 # Comments: 4",
-    "url": "https://norvig.com/lispy.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-21T15:36:33+00:00",
-    "fetched": "2026-06-21T16:16:37+00:00",
-    "image": null
-  },
-  {
-    "id": "014d4360bfe1cebc",
-    "title": "Експосол України в Польщі відмовився від польської нагороди",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040439/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T15:34:00+00:00",
-    "fetched": "2026-06-21T16:16:34+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/d/4/d4b7e00-727904398-3587152798099247-4468815837466340125-n.jpg"
-  },
-  {
-    "id": "1ec1b180521d52b1",
-    "title": "У російській Пензі поліція погрожує карати за інформацію про облави на чоловіків",
-    "summary": "У Пензі поліція заперечує масові затримання чоловіків для війни з Україною та погрожує покаранням за \"фейкові\" новини.",
-    "url": "https://www.pravda.com.ua/news/2026/06/21/8040438/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T15:27:00+00:00",
-    "fetched": "2026-06-21T16:16:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/855040/b70038c49e94f4001d6208b16d8128f9.jpeg"
-  },
-  {
-    "id": "c62b590ab14127a6",
-    "title": "Експосол у Польщі Зварич відмовився від ордена \"За заслуги\", отриманого в 2024 році від Дуди",
-    "summary": "Він наголосив, що це не є жестом неповаги до польського народу.",
-    "url": "https://lb.ua/world/2026/06/21/746766_eksposol_polschi_zvarich.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T15:26:00+00:00",
-    "fetched": "2026-06-21T16:16:35+00:00",
-    "image": "https://i.lb.ua/news/028/24/6a38025f77433.jpg"
-  },
-  {
-    "id": "f411192282018cde",
-    "title": "У ВМС ЗСУ попередили, що туристів у Криму цьогоріч буде менше",
-    "summary": "На півострові – паливна блокада і серйозні проблеми з логістикою.",
-    "url": "https://lb.ua/society/2026/06/21/746762_vms_zsu_poperedili_scho_turistiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T15:25:00+00:00",
-    "fetched": "2026-06-21T16:16:35+00:00",
-    "image": "https://i.lb.ua/news/103/58/6a3802aa889fc.jpg"
-  },
-  {
-    "id": "1a71b9bc78c333c6",
-    "title": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
-    "summary": "Rob Jetten acknowledges grief and pain of Moluccan families as crowdfunded monument unveiled in Rotterdam The Dutch prime minister, Rob Jetten, has formally apologised for the “heartless” mistreatment of thousands of Moluccan soldiers who fought for the Dutch colonial army…",
-    "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-21T15:18:53+00:00",
-    "fetched": "2026-06-21T16:16:34+00:00",
-    "image": "https://i.guim.co.uk/img/media/61deed685b528d28cba22035f35a9e8bbb806759/546_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a9eb7b4be2deeaf57a871c56f9317eda"
   }
 ]
