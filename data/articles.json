@@ -1,5 +1,89 @@
 [
   {
+    "id": "e7f15896ed250bbe",
+    "title": "Удар по Києву: на Подолі російська ракета поцілила у дев’ятиповерхівку",
+    "summary": "У ніч на 6 липня російська ракета влучила в дев'ятиповерховий житловий будинок у Подільському районі Києва, внаслідок чого сталося його часткове руйнування.",
+    "url": "https://www.pravda.com.ua/news/2026/07/06/8042543/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T23:40:00+00:00",
+    "fetched": "2026-07-06T00:11:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/864950/38b89760b74b7f4b8a6cc8a37e073d67.jpeg"
+  },
+  {
+    "id": "eff33f1643ae50ee",
+    "title": "Connections in Math: the two kinds of random",
+    "summary": "Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/ Comments URL: https://news.ycombinator.com/item?id=48799026 Points: 5 # Comments: 0",
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T23:31:30+00:00",
+    "fetched": "2026-07-06T00:11:41+00:00",
+    "image": null
+  },
+  {
+    "id": "9cd08cb9a96df3c2",
+    "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+    "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-05T23:31:04+00:00",
+    "fetched": "2026-07-06T00:11:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae5/live/6c2d8350-7868-11f1-ab53-3dbca6ef5ee1.jpg"
+  },
+  {
+    "id": "2b92fd43780475f4",
+    "title": "The African fishermen who blame Chinese trawlers for their woes",
+    "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+    "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-05T23:30:40+00:00",
+    "fetched": "2026-07-06T00:11:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be5/live/fdafa040-6f23-11f1-af60-8d06db225241.jpg"
+  },
+  {
+    "id": "ccd8adf73bd78f15",
+    "title": "Окупанти вдарили по Одесі безпілотниками: пошкоджено будинки, є поранений",
+    "summary": "Увечері 5 липня російські війська атакували Одесу ударними безпілотниками, внаслідок чого отримав поранення 23-річний хлопець та були пошкоджені приватні й багатоквартирні будинки",
+    "url": "https://www.pravda.com.ua/news/2026/07/06/8042540/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T22:56:00+00:00",
+    "fetched": "2026-07-06T00:11:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/0/864932/00ff1ee0fef92d3a8ad8a7e7b9f6541a.jpeg"
+  },
+  {
+    "id": "358cb7225daef2bd",
+    "title": "Росія атакує Київ ракетами і дронами",
+    "summary": "Окупанти провели численні пуски.",
+    "url": "https://lb.ua/society/2026/07/06/749780_rosiya_atakuie_kiyiv_raketami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T22:41:00+00:00",
+    "fetched": "2026-07-06T00:11:41+00:00",
+    "image": "https://i.lb.ua/news/085/55/6a4add960dfd8.jpg"
+  },
+  {
+    "id": "6f56210d34471b09",
+    "title": "Росія атакує Київ балістичними ракетами: є влучання в будинок",
+    "summary": "У ніч на 6 липня російські війська атакували Київ балістичними ракетами, внаслідок чого у Подільському районі сталося часткове руйнування житлового будинку.",
+    "url": "https://www.pravda.com.ua/news/2026/07/06/8042539/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T22:36:00+00:00",
+    "fetched": "2026-07-06T00:11:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/864926/82ea0585865a1d46248ddc60b40c758b.jpeg"
+  },
+  {
     "id": "63ccfa75fe8c55a3",
     "title": "Some of the nation’s rich are letting AI teach their kids",
     "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.…",
@@ -10,6 +94,30 @@
     "published": "2026-07-05T22:30:54+00:00",
     "fetched": "2026-07-05T22:31:48+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "41bcdea9756d08bb",
+    "title": "Норвегія з дублем Голанда обіграла Бразилію і вийшла в чвертьфінал ЧС-2026",
+    "summary": "Бразильці змогли відіграти один м’яч завдяки Неймару, але цього не вистачило, щоб пройти далі.",
+    "url": "https://lb.ua/sport/2026/07/06/749778_norvegiya_z_dublem_golanda.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-05T22:22:00+00:00",
+    "fetched": "2026-07-06T00:11:41+00:00",
+    "image": "https://i.lb.ua/news/063/38/6a4adb0507073.jpg"
+  },
+  {
+    "id": "d420d1ad5f796fca",
+    "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+    "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+    "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-05T22:01:43+00:00",
+    "fetched": "2026-07-06T00:11:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg"
   },
   {
     "id": "f290bfb646202c35",
@@ -36,6 +144,18 @@
     "image": "https://i.guim.co.uk/img/media/8484070a522057b1eb049841190d3af484688d7c/453_0_4854_3884/master/4854.jpg?width=140&quality=85&auto=format&fit=max&s=63cfd02ddde8cf1f1533d8b84da22f52"
   },
   {
+    "id": "38467a9c0281d5e3",
+    "title": "Composite Video on the NES: Why's it so wobbly?",
+    "summary": "Article URL: https://nicole.express/2026/phase-altering-by-line.html Comments URL: https://news.ycombinator.com/item?id=48798247 Points: 24 # Comments: 1",
+    "url": "https://nicole.express/2026/phase-altering-by-line.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T21:45:17+00:00",
+    "fetched": "2026-07-06T00:11:41+00:00",
+    "image": "https://nicole.express/assets/img/wobbly/frames.gif"
+  },
+  {
     "id": "d3f0eb40a9ef8152",
     "title": "CoCom regulations and GPS receivers for balloons and cubesats",
     "summary": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube Comments URL: https://news.ycombinator.com/item?id=48798210 Points: 7 # Comments: 0",
@@ -46,6 +166,18 @@
     "published": "2026-07-05T21:39:05+00:00",
     "fetched": "2026-07-05T22:31:48+00:00",
     "image": "https://space.stackexchange.com/Content/Sites/space/Img/apple-touch-icon@2.png?v=bb39c00dba34"
+  },
+  {
+    "id": "f9445fdaff216e77",
+    "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+    "summary": "Article URL: https://github.com/electronicsleep/rust-vim Comments URL: https://news.ycombinator.com/item?id=48798187 Points: 8 # Comments: 1",
+    "url": "https://github.com/electronicsleep/rust-vim",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-05T21:36:28+00:00",
+    "fetched": "2026-07-06T00:11:41+00:00",
+    "image": "https://opengraph.githubassets.com/40a9e00c64f127ddbc0974633d6089e7c04967f2caf3e2e5205f69da7e97edaa/electronicsleep/rust-vim"
   },
   {
     "id": "309a8aeba9d365ea",
@@ -43114,137 +43246,5 @@
     "published": "2026-06-22T00:34:33+00:00",
     "fetched": "2026-06-22T02:03:38+00:00",
     "image": null
-  },
-  {
-    "id": "31795f541852e88d",
-    "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-    "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
-    "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-21T23:57:59+00:00",
-    "fetched": "2026-06-22T08:40:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cad/live/dd9b7ea0-6bf9-11f1-8546-8f19e4fe30f4.jpg"
-  },
-  {
-    "id": "6ffdce4432e70fdb",
-    "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-    "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
-    "url": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-21T23:57:59+00:00",
-    "fetched": "2026-06-23T10:11:21+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cad/live/dd9b7ea0-6bf9-11f1-8546-8f19e4fe30f4.jpg"
-  },
-  {
-    "id": "9194f2b90650c5db",
-    "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-    "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
-    "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-21T23:53:13+00:00",
-    "fetched": "2026-06-22T08:40:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0109/live/d88f5710-6dca-11f1-8546-8f19e4fe30f4.jpg"
-  },
-  {
-    "id": "cca7b8fa6a48244e",
-    "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
-    "summary": "As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.",
-    "url": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-21T23:44:31+00:00",
-    "fetched": "2026-06-22T08:40:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27cd/live/86ca4870-6e0d-11f1-8546-8f19e4fe30f4.jpg"
-  },
-  {
-    "id": "4c8dcf78bf8be4b1",
-    "title": "Трамп прокоментував імовірну відставку прем’єра Британії",
-    "summary": "Трамп зробив заяву про відставку Стармера і його \"головні невдачі\".",
-    "url": "https://www.pravda.com.ua/news/2026/06/22/8040466/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T23:44:00+00:00",
-    "fetched": "2026-06-22T02:03:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/e/855224/7ecc4e72b14add03f9b6beaaa1c912e1.jpeg"
-  },
-  {
-    "id": "5bfeb5f148ef3f90",
-    "title": "Petition against Meta's employee training data collection for ML models",
-    "summary": "Article URL: https://mcipetition.com/ Comments URL: https://news.ycombinator.com/item?id=48623721 Points: 30 # Comments: 23",
-    "url": "https://mcipetition.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-21T23:34:07+00:00",
-    "fetched": "2026-06-22T02:03:38+00:00",
-    "image": null
-  },
-  {
-    "id": "d672157fd3d990c2",
-    "title": "Ворог атакував дронами Запоріжжя: є поранений, зруйнований будинок",
-    "summary": "Росіяни знову завдали ударів дронами по Запоріжжю, поранили чоловіка, спричинили руйнування.",
-    "url": "https://www.pravda.com.ua/news/2026/06/22/8040465/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T23:02:00+00:00",
-    "fetched": "2026-06-21T23:23:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/3/855223/433880ca1993a94e4a29c6a86a8bdb34.jpeg"
-  },
-  {
-    "id": "201ce65b3ce57d12",
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 21 # Comments: 2",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-21T22:55:23+00:00",
-    "fetched": "2026-06-22T02:03:38+00:00",
-    "image": "https://www.teachmecoolstuff.com/img/tor.jpg"
-  },
-  {
-    "id": "67e50bb2d7ff431a",
-    "title": "Simple hard way to conjugate Japanese verbs",
-    "summary": "Article URL: https://underreacted.leaflet.pub/3mmevu6woys27 Comments URL: https://news.ycombinator.com/item?id=48623419 Points: 36 # Comments: 30",
-    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-21T22:53:50+00:00",
-    "fetched": "2026-06-22T02:03:38+00:00",
-    "image": "https://leaflet.pub/lish/did%3Aplc%3Afpruhuo22xkm5o7ttr2ktxdo/3m23dstduds2v/3mmevu6woys27/opengraph-image-vzkbb4?edc23816ae45539e"
-  },
-  {
-    "id": "000d15a14adb2d0a",
-    "title": "Far-right millionaire Abelardo de la Espriella wins Colombia’s presidential runoff",
-    "summary": "Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer secures narrow majority The Trump-admiring far-right millionaire lawyer and self-styled “outsider” Abelardo de la Espriella has won Colombia’s presidential runoff, defeating the leftwing senator Iván…",
-    "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-21T22:51:47+00:00",
-    "fetched": "2026-06-21T23:23:01+00:00",
-    "image": "https://i.guim.co.uk/img/media/1266e2737d14a680e9b6d22e1a5e000518896b11/418_0_2980_2384/master/2980.jpg?width=140&quality=85&auto=format&fit=max&s=fbc0acc05e7ba3eb62254f66ec310960"
-  },
-  {
-    "id": "f58dec273293bf54",
-    "title": "В окупованому Криму знову лунають вибухи, фіксуються відключення світла – пабліки",
-    "summary": "У Криму чергову ніч поспіль лунають вибухи і фіксуються відключення світла.",
-    "url": "https://www.pravda.com.ua/news/2026/06/22/8040464/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-21T22:44:00+00:00",
-    "fetched": "2026-06-21T23:23:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/855222/78c390c5d7209a261f78b54dd5f74fa5.jpeg"
   }
 ]
