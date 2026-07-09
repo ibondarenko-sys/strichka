@@ -1,5 +1,65 @@
 [
   {
+    "id": "bc248fd4a36d2331",
+    "title": "Мерц пообіцяв, що Європа закриє прогалину щодо далекобійного озброєння",
+    "summary": "Висновки саміту НАТО в Анкарі для європейських союзників.",
+    "url": "https://lb.ua/world/2026/07/09/750576_merts_poobitsyav_scho_ievropa.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-08T23:51:00+00:00",
+    "fetched": "2026-07-09T00:15:47+00:00",
+    "image": "https://i.lb.ua/news/099/52/6a4ee28acaea7.jpg"
+  },
+  {
+    "id": "c54fb665b572acf1",
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 Comments URL: https://news.ycombinator.com/item?id=48838876 Points: 17 # Comments: 2",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-08T23:37:43+00:00",
+    "fetched": "2026-07-09T00:15:49+00:00",
+    "image": "https://dims.apnews.com/dims4/default/eb2d449/2147483647/strip/true/crop/4513x3007+0+162/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fc8%2F5fff3b3e7c95ef4bbd4696383598%2F674e975157b745d28967fa953a18c3d4"
+  },
+  {
+    "id": "8712f02b8dfd1ab5",
+    "title": "Виведення американських військ із Європи залежатиме від Гренландії та Ірану – Трамп",
+    "summary": "Президент США Дональд Трамп заявив, що ухвалення рішення про виведення додаткового контингенту американських військ із Європи залежатиме від розв'язання суперечки навколо Гренландії, а також від подальшої поведінки європейських союзників щодо Ірану.",
+    "url": "https://www.pravda.com.ua/news/2026/07/09/8043151/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-08T23:33:00+00:00",
+    "fetched": "2026-07-09T00:15:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/867493/ee6e26cb9c06866a0762ab2d10553e93.jpeg"
+  },
+  {
+    "id": "b99a26122b951ac6",
+    "title": "У Німеччині засудили до довічного ув'язнення лікаря-вбивцю",
+    "summary": "41-річний медик позбавив життя не менше 15 своїх пацієнтів.",
+    "url": "https://lb.ua/world/2026/07/09/750574_nimechchini_zasudili_dovichnogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-08T23:12:00+00:00",
+    "fetched": "2026-07-09T00:15:47+00:00",
+    "image": "https://i.lb.ua/news/061/56/6a4eda7465dfd.jpg"
+  },
+  {
+    "id": "4861f2c0035e8141",
+    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+    "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask…",
+    "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-08T22:37:25+00:00",
+    "fetched": "2026-07-09T00:15:48+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "f98419d6ea60c625",
     "title": "Прем'єр Албанії виправдався за рішення інвестувати державні гроші в концерт Каньє Веста",
     "summary": "Інші демократичні держави намагаються ізолюватися від скандального виконавця.",
@@ -36,6 +96,18 @@
     "image": "https://i.lb.ua/news/080/20/6a4ec82cb75c8.jpg"
   },
   {
+    "id": "90fe2c12faeb1178",
+    "title": "Rewriting Bun in Rust",
+    "summary": "Article URL: https://bun.com/blog/bun-in-rust Comments URL: https://news.ycombinator.com/item?id=48837877 Points: 181 # Comments: 76",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-08T21:49:59+00:00",
+    "fetched": "2026-07-09T00:15:49+00:00",
+    "image": null
+  },
+  {
     "id": "a4df0017104f2365",
     "title": "На тлі нових ударів по Ірану Трамп заявив, що \"війни не буде\"",
     "summary": "Знову невизначеність на Близькому Сході.",
@@ -58,6 +130,18 @@
     "published": "2026-07-08T21:47:00+00:00",
     "fetched": "2026-07-08T22:33:34+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/867481/c108426884e5c7915b78fc2714b27c77.jpeg"
+  },
+  {
+    "id": "c85bef214c98f9b3",
+    "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+    "summary": "Article URL: https://opensourcebarware.com Comments URL: https://news.ycombinator.com/item?id=48837809 Points: 10 # Comments: 5",
+    "url": "https://opensourcebarware.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-08T21:43:07+00:00",
+    "fetched": "2026-07-09T00:15:49+00:00",
+    "image": "https://opensourcebarware.com/images/og-image.jpg"
   },
   {
     "id": "796a2e39bbc4f718",
@@ -358,6 +442,18 @@
     "published": "2026-07-08T19:28:00+00:00",
     "fetched": "2026-07-08T21:13:21+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/867466/f33b4a7be4b13f479aa8eab773234d84.jpeg"
+  },
+  {
+    "id": "bb02e367c8d1f6b8",
+    "title": "New Sweden: the US's long-lost 'secret' colony",
+    "summary": "Article URL: https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony Comments URL: https://news.ycombinator.com/item?id=48836324 Points: 28 # Comments: 2",
+    "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-08T19:26:18+00:00",
+    "fetched": "2026-07-09T00:15:49+00:00",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nvtng9.jpg"
   },
   {
     "id": "2c835aeb06a8d4e6",
@@ -43618,101 +43714,5 @@
     "published": "2026-06-25T00:17:00+00:00",
     "fetched": "2026-06-25T01:32:28+00:00",
     "image": "https://i.lb.ua/news/029/20/6a3c7cd963d42.jpg"
-  },
-  {
-    "id": "812ce4ce0cfc54f6",
-    "title": "Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas",
-    "summary": "Homes and buildings collapse in first magnitude 7.1 earthquake, with tremors felt in neighbouring Colombia Venezuela earthquakes: follow live updates Venezuela’s capital, Caracas, has been struck by two powerful earthquakes that caused major damage at the international airport…",
-    "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-24T23:50:05+00:00",
-    "fetched": "2026-06-25T01:32:27+00:00",
-    "image": "https://i.guim.co.uk/img/media/059976cc3ece33393907dd5bb0249d0e355ca62f/815_0_4755_3804/master/4755.jpg?width=140&quality=85&auto=format&fit=max&s=689073f3b8c91861e0eb928b9997659c"
-  },
-  {
-    "id": "f2001f0e55345cb1",
-    "title": "Blogging can just be stating the obvious",
-    "summary": "Article URL: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/ Comments URL: https://news.ycombinator.com/item?id=48666927 Points: 51 # Comments: 17",
-    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-24T23:46:37+00:00",
-    "fetched": "2026-06-25T01:32:28+00:00",
-    "image": null
-  },
-  {
-    "id": "637bad33577d2aa8",
-    "title": "Крим потрапив під атаку безпілотників: лунають вибухи",
-    "summary": "У Севастополі, Сімферополі та Саках, а також біля ТЕС пролунали вибухи.",
-    "url": "https://www.pravda.com.ua/news/2026/06/25/8040989/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-24T23:44:00+00:00",
-    "fetched": "2026-06-25T01:32:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/857468/a09673de20ad4cfad904ca802d7e15e6.jpeg"
-  },
-  {
-    "id": "65627f39ab00c3c3",
-    "title": "Суд назавжди заборонив Трампу втручатися у процедуру виборів",
-    "summary": "Вимогу про громадянство для реєстрації виборців та чіткі терміни поштового голосування скасовано.",
-    "url": "https://lb.ua/world/2026/06/25/747428_sud_nazavzhdi_zaboroniv_trampu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-24T23:33:00+00:00",
-    "fetched": "2026-06-25T01:32:28+00:00",
-    "image": "https://i.lb.ua/news/100/33/6a3c6d4041bca.jpg"
-  },
-  {
-    "id": "e0388e99d52b9d88",
-    "title": "Трамп похвалив Зеленського за те, що той \"добре тримається\"",
-    "summary": "\"Немає карт\" вже в далекому минулому.",
-    "url": "https://lb.ua/society/2026/06/25/747426_tramp_pohvaliv_zelenskogo_scho.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-24T22:52:00+00:00",
-    "fetched": "2026-06-24T23:09:16+00:00",
-    "image": "https://i.lb.ua/news/100/09/6a3c5fdbf0625.jpg"
-  },
-  {
-    "id": "23b98d1ba5790716",
-    "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-    "summary": "GTA6 might be an outlier, though—at least for now.",
-    "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-24T22:47:03+00:00",
-    "fetched": "2026-06-25T01:32:28+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg"
-  },
-  {
-    "id": "8ff0c860b7a466ea",
-    "title": "PostgreSQL is enough (2024)",
-    "summary": "Article URL: https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb Comments URL: https://news.ycombinator.com/item?id=48666433 Points: 94 # Comments: 64",
-    "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-24T22:39:37+00:00",
-    "fetched": "2026-06-25T01:32:28+00:00",
-    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-  },
-  {
-    "id": "9bac958cb21eedfc",
-    "title": "Росіяни вдарили дронами по Сумах: постраждала дитина",
-    "summary": "Внаслідок атаки російських дронів у Сумах постраждала дитина, пошкоджено будинки та автівки.",
-    "url": "https://www.pravda.com.ua/news/2026/06/25/8040988/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-24T22:34:00+00:00",
-    "fetched": "2026-06-24T23:09:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/8/857467/e8912901fc546d86e7c3a9ee5c28c926.jpeg"
   }
 ]
