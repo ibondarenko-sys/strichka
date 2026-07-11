@@ -1,5 +1,65 @@
 [
   {
+    "id": "10884710ca181b8d",
+    "title": "Кількість загиблих від землетрусів у Венесуелі зросла до понад 4 300 людей",
+    "summary": "Кількість загиблих у Венесуелі внаслідок подвійного землетрусу, що стався 24 червня, зросла до 4 333 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/07/12/8043668/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T22:47:00+00:00",
+    "fetched": "2026-07-11T22:56:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/b/869970/0b1b3cbe1600e0d35078fab0fa0e4cd8.jpeg"
+  },
+  {
+    "id": "3822e0e0e383c981",
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 4 # Comments: 1",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T22:38:57+00:00",
+    "fetched": "2026-07-11T22:56:48+00:00",
+    "image": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh"
+  },
+  {
+    "id": "9efe1373724b401d",
+    "title": "Stop Telling Me to Ask an LLM",
+    "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 17 # Comments: 11",
+    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T22:28:48+00:00",
+    "fetched": "2026-07-11T22:56:48+00:00",
+    "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&ixlib=rb-4.1.0&q=80&w=2000"
+  },
+  {
+    "id": "d5abfc00032cd01d",
+    "title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "summary": "Article URL: https://github.com/Wren6991/RISCBoy Comments URL: https://news.ycombinator.com/item?id=48876245 Points: 7 # Comments: 1",
+    "url": "https://github.com/Wren6991/RISCBoy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T21:58:00+00:00",
+    "fetched": "2026-07-11T22:56:48+00:00",
+    "image": "https://opengraph.githubassets.com/17f8650245b31018b724dd99b0449bec9666a8326791abed8dd1b13b56d49e2a/Wren6991/RISCBoy"
+  },
+  {
+    "id": "4f47510b9d440dbd",
+    "title": "У Росії обмежили роботу іноземних SIM-карток: блокують обхід цензури та навігацію українських дронів",
+    "summary": "Робота іноземних SIM-карток на території Росії була суттєво обмежена, що унеможливлює подальший безперешкодний обхід російської інтернет-цензури. Роумінговий трафік відтепер підлягає жорсткій фільтрації за загальними правилами місцевих операторів зв'язку.",
+    "url": "https://www.pravda.com.ua/news/2026/07/12/8043664/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T21:53:00+00:00",
+    "fetched": "2026-07-11T22:56:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/869966/ac2aaf54739cd978b6aa7283b1138650.jpeg"
+  },
+  {
     "id": "46099f1c758974fd",
     "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
     "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it…",
@@ -44014,53 +44074,5 @@
     "published": "2026-06-27T22:58:00+00:00",
     "fetched": "2026-06-27T23:08:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/859377/d0cdd5a1cf40b4fff165462f8bfc420e.jpeg"
-  },
-  {
-    "id": "c71382b3ebdb1581",
-    "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-    "summary": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
-    "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-27T22:34:11+00:00",
-    "fetched": "2026-06-28T11:48:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba8/live/f77e45a0-71d0-11f1-8281-1bc626104723.jpg"
-  },
-  {
-    "id": "7190210d73df2563",
-    "title": "Set Up Your Own DoH Service",
-    "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/ Comments URL: https://news.ycombinator.com/item?id=48702361 Points: 7 # Comments: 2",
-    "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T22:24:35+00:00",
-    "fetched": "2026-06-28T01:34:27+00:00",
-    "image": null
-  },
-  {
-    "id": "2a1197f392db4dc3",
-    "title": "Choosing a Public DNS Resolver",
-    "summary": "Article URL: https://evilbit.de/dns-resolver-guide.html Comments URL: https://news.ycombinator.com/item?id=48702273 Points: 45 # Comments: 13",
-    "url": "https://evilbit.de/dns-resolver-guide.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T22:11:28+00:00",
-    "fetched": "2026-06-28T01:34:27+00:00",
-    "image": null
-  },
-  {
-    "id": "9738fdd2c6aec937",
-    "title": "У США заявили про нові удари по цілях Ірану",
-    "summary": "Військові США заявили про нові удари по цілях Ірану у відповідь на атаки суден в Ормузі.",
-    "url": "https://www.pravda.com.ua/news/2026/06/28/8041420/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T22:04:00+00:00",
-    "fetched": "2026-06-27T23:08:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/e/859376/ce2d4edb2f533ea0f66e2d9b7ea40c76.jpeg"
   }
 ]
