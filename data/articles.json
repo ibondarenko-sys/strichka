@@ -1,5 +1,29 @@
 [
   {
+    "id": "46099f1c758974fd",
+    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+    "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it…",
+    "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T20:57:42+00:00",
+    "fetched": "2026-07-11T21:55:53+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ec2638dee764588e",
+    "title": "Головне за суботу, 11 липня: авіаудари по Сумах та Слов’янську, 215 бойових зіткнень, розшук командира 155-ї омбр",
+    "summary": "Бойові дії на Донеччині, 215 бойових зіткнень, ворожі обстріли, візит міністра оборони Польщі. Яким запам’ятається 1599-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/07/11/751278_golovne_subotu_11_lipnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T20:56:00+00:00",
+    "fetched": "2026-07-11T21:55:53+00:00",
+    "image": "https://i.lb.ua/news/036/23/6a52b21cc11b8.jpg"
+  },
+  {
     "id": "41519bbd3498a9dd",
     "title": "У Рівному судитимуть лікаря, який сам собі виписував наркотики",
     "summary": "Слідство встановило, що отоларинголог “лікувався” морфіном, трамадолом та діазепамом.",
@@ -10,6 +34,18 @@
     "published": "2026-07-11T20:52:00+00:00",
     "fetched": "2026-07-11T20:55:50+00:00",
     "image": "https://i.lb.ua/news/118/35/6a52aafd66849.jpg"
+  },
+  {
+    "id": "fda74001e540acaf",
+    "title": "За 10 днів СБС уразили 60 енерговузлів на окупованих територіях – Мадяр",
+    "summary": "З 1 по 10 липня безпілотники уразили 60 енерговузлів у Криму, на сході й півдні України.",
+    "url": "https://www.pravda.com.ua/news/2026/07/11/8043631/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T20:52:00+00:00",
+    "fetched": "2026-07-11T21:55:52+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/869933/a59f4a19b14fcda9514cb9328b01fafb.jpeg"
   },
   {
     "id": "81ee1d033a9d091a",
@@ -34,6 +70,42 @@
     "published": "2026-07-11T20:31:00+00:00",
     "fetched": "2026-07-11T20:55:50+00:00",
     "image": "https://i.lb.ua/news/083/52/6a52a85f28c35.jpg"
+  },
+  {
+    "id": "b3412dda77ffe067",
+    "title": "I used to love Claude, but the latest models are slowly ruining it",
+    "summary": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/ Comments URL: https://news.ycombinator.com/item?id=48875494 Points: 17 # Comments: 14",
+    "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T20:21:25+00:00",
+    "fetched": "2026-07-11T21:55:53+00:00",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/the-claude-app-on-a-smartphone-scaled.jpg"
+  },
+  {
+    "id": "0083f6b143976255",
+    "title": "У Білій Церкві сталася стрілянина, поранено юнака",
+    "summary": "У Білій Церкві постріл з пневматичної зброї поранив 18-річного хлопця. Поліція шукає нападника.",
+    "url": "https://www.pravda.com.ua/news/2026/07/11/8043630/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T20:18:00+00:00",
+    "fetched": "2026-07-11T21:55:52+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/869917/c3c14bdee0472289877bac48df1a972a.jpeg"
+  },
+  {
+    "id": "a6601a4798ab970e",
+    "title": "У Фінляндії затримали 48 учасників масової бійки футбольних фанатів",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/11/8043629/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T20:14:00+00:00",
+    "fetched": "2026-07-11T21:55:52+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/3/93b671f---------------2026-07-11-200616.jpg"
   },
   {
     "id": "5b25279a47680278",
@@ -82,6 +154,18 @@
     "published": "2026-07-11T19:46:00+00:00",
     "fetched": "2026-07-11T20:55:51+00:00",
     "image": "https://image5.sixthtone.com/image/5/98/597.jpg"
+  },
+  {
+    "id": "fa93e3d5a36221cc",
+    "title": "На фронті вже 215 боїв, Покровський і Слов'янський напрямки найгарячіші – Генштаб",
+    "summary": "ЗСУ повідомляє про 215 боєзіткнень на фронті: найбільше атак – на Покровському та Слов'янському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/07/11/8043628/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T19:46:00+00:00",
+    "fetched": "2026-07-11T21:55:52+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/869909/b6f4c7a3a6bec4922dce4225d5510b71.jpeg"
   },
   {
     "id": "983923e110d2699d",
@@ -43978,173 +44062,5 @@
     "published": "2026-06-27T22:04:00+00:00",
     "fetched": "2026-06-27T23:08:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/e/859376/ce2d4edb2f533ea0f66e2d9b7ea40c76.jpeg"
-  },
-  {
-    "id": "129ddb00817249d3",
-    "title": "В Україні представили морський безпілотник MOBIDIK і назвали його переваги",
-    "summary": "MOBIDIK: новий український морський безпілотник представили в Україні.",
-    "url": "https://www.pravda.com.ua/news/2026/06/28/8041419/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T21:54:00+00:00",
-    "fetched": "2026-06-27T23:08:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/3/859368/331cca051ce769df14afef537c85b45c.jpeg"
-  },
-  {
-    "id": "223aee1146f0e974",
-    "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
-    "summary": "I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I'm a hobby game dev and wondered if I could procedurally generate these puzzles so…",
-    "url": "https://starglyphs.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:50:32+00:00",
-    "fetched": "2026-06-28T01:34:27+00:00",
-    "image": null
-  },
-  {
-    "id": "8242f4f7d8bff45d",
-    "title": "Michigan spent $1.8B and only created 602 jobs",
-    "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu Comments URL: https://news.ycombinator.com/item?id=48702060 Points: 35 # Comments: 9",
-    "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:44:57+00:00",
-    "fetched": "2026-06-27T23:08:06+00:00",
-    "image": null
-  },
-  {
-    "id": "63af20bc73a81916",
-    "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-    "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-27T21:35:40+00:00",
-    "fetched": "2026-06-27T23:08:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a5/live/076a6550-7241-11f1-930d-75324f3b4c6e.jpg"
-  },
-  {
-    "id": "294985a0e94eb76d",
-    "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice",
-    "summary": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis Comments URL: https://news.ycombinator.com/item?id=48701984 Points: 39 # Comments: 28",
-    "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:34:06+00:00",
-    "fetched": "2026-06-27T23:08:06+00:00",
-    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-06/shutterstock_2284966451.jpg?h=99361e79&itok=GqJ4weXl"
-  },
-  {
-    "id": "9d511318604b765b",
-    "title": "Budapest's first Pride since Orban left power",
-    "summary": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
-    "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-27T21:28:04+00:00",
-    "fetched": "2026-06-28T11:48:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b540/live/730a5be0-7268-11f1-856a-2f39ab9183fd.jpg"
-  },
-  {
-    "id": "bd102586a4d58087",
-    "title": "Enhancing X11 Application Security with LXC",
-    "summary": "Article URL: https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/ Comments URL: https://news.ycombinator.com/item?id=48701936 Points: 4 # Comments: 0",
-    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:27:36+00:00",
-    "fetched": "2026-06-27T23:08:06+00:00",
-    "image": null
-  },
-  {
-    "id": "e55e00bd4a6aa28a",
-    "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-    "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length…",
-    "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:20:32+00:00",
-    "fetched": "2026-06-27T21:38:53+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/teenageengineering1.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ecbcce568fce687f",
-    "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
-    "summary": "Article URL: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/ Comments URL: https://news.ycombinator.com/item?id=48701822 Points: 124 # Comments: 39",
-    "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:14:19+00:00",
-    "fetched": "2026-06-27T23:08:06+00:00",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26176790762613-e1782489902594.jpg?resize=1200,600"
-  },
-  {
-    "id": "08a3208a8919fcca",
-    "title": "Землетруси у Венесуелі: кількість загиблих перевищила 1 400 осіб",
-    "summary": "Внаслідок двох потужних землетрусів у Венесуелі зростає кількість загиблих.",
-    "url": "https://www.pravda.com.ua/news/2026/06/28/8041417/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T21:14:00+00:00",
-    "fetched": "2026-06-27T21:38:53+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/859367/c30d9903d8522d665ff15c2bd5ccefd9.jpeg"
-  },
-  {
-    "id": "57ac82c1a05c71e3",
-    "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-    "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-    "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-27T21:12:51+00:00",
-    "fetched": "2026-06-27T21:38:52+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg"
-  },
-  {
-    "id": "2e3f0360ee89a605",
-    "title": "Show HN: Kiso, an open-source publishing engine for Open Knowledge Format",
-    "summary": "Article URL: https://oak-invest.github.io/kiso/ Comments URL: https://news.ycombinator.com/item?id=48701771 Points: 8 # Comments: 0",
-    "url": "https://oak-invest.github.io/kiso/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T21:08:03+00:00",
-    "fetched": "2026-06-28T01:34:27+00:00",
-    "image": "https://oak-invest.github.io/kiso/assets/images/social/kiso-og.png"
-  },
-  {
-    "id": "0a0d19d7a286893a",
-    "title": "Головне за суботу, 27 червня: 200 боєзіткнень, втрата МіГ-29, підсумки конференції у Ґданську",
-    "summary": "Бойові дії на Донеччині, 200 бойових зіткнень, ворожі обстріли, повернення з полону сімох цивільних українців. Яким запам’ятається 1585-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/06/27/748026_golovne_subotu_27_chervnya_200.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T20:58:00+00:00",
-    "fetched": "2026-06-27T21:38:53+00:00",
-    "image": "https://i.lb.ua/news/083/13/6a403dfeb8f72.jpg"
-  },
-  {
-    "id": "762375eb5803de92",
-    "title": "Німеччина другий день поспіль б'є рекорди спеки",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/06/27/8041414/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T20:57:00+00:00",
-    "fetched": "2026-06-27T21:38:53+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/2/a/2a7b817-images.jpg"
   }
 ]
