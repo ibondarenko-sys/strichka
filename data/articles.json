@@ -1,5 +1,29 @@
 [
   {
+    "id": "6334485d29c29576",
+    "title": "США завдають нових ударів по Ірану",
+    "summary": "CENTCOM: США завдали нових ударів по Ірану для послаблення його атак на цивільне судноплавство в Ормузькій протоці.",
+    "url": "https://www.pravda.com.ua/news/2026/07/13/8043806/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-12T22:29:00+00:00",
+    "fetched": "2026-07-12T22:59:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/870428/19b7ddf6c92b9777310afa6d971bd385.jpeg"
+  },
+  {
+    "id": "3cd5f96562fae30d",
+    "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+    "summary": "Article URL: https://kode.diy Comments URL: https://news.ycombinator.com/item?id=48884992 Points: 9 # Comments: 3",
+    "url": "https://kode.diy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T21:27:29+00:00",
+    "fetched": "2026-07-12T22:59:42+00:00",
+    "image": "https://kode.diy/products/kode-dot/kode-dot-og.jpg"
+  },
+  {
     "id": "e5c32a1e0b034f97",
     "title": "Армія РФ атакувала дроном автівку у Херсоні: постраждали люди",
     "summary": "У Центральному районі Херсона російський дрон атакував авто, поранивши чоловіка та жінку. Постраждалі в лікарні.",
@@ -44338,65 +44362,5 @@
     "published": "2026-06-28T23:13:00+00:00",
     "fetched": "2026-06-29T00:12:55+00:00",
     "image": "https://i.lb.ua/news/084/50/6a41ac1d6f04f.jpg"
-  },
-  {
-    "id": "6d5a78ca04aa7f58",
-    "title": "Іран атакував Бахрейн та Кувейт у відповідь на удари США і погрожує вийти з переговорів",
-    "summary": "Іран у неділю завдав ударів безпілотниками та ракетами по Бахрейну і Кувейту у відповідь на атаки США, а також пригрозив повністю припинити переговори про завершення війни, якщо Вашингтон продовжить свої обстріли.",
-    "url": "https://www.pravda.com.ua/news/2026/06/29/8041518/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-28T22:54:00+00:00",
-    "fetched": "2026-06-29T00:12:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/b/859969/6bb9870a9e2c934054a3bcf29691a5b8.jpeg"
-  },
-  {
-    "id": "43c18090a720530c",
-    "title": "Knowledge Distillation of Black-Box Large Language Models",
-    "summary": "Article URL: https://arxiv.org/abs/2401.07013 Comments URL: https://news.ycombinator.com/item?id=48712420 Points: 23 # Comments: 11",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-28T22:32:04+00:00",
-    "fetched": "2026-06-29T00:12:55+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "5cf9a3878c9aa83a",
-    "title": "A QNX-inspired operating system with selectable kernels",
-    "summary": "Article URL: https://qsoe.net Comments URL: https://news.ycombinator.com/item?id=48712338 Points: 20 # Comments: 1",
-    "url": "https://qsoe.net",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-28T22:21:51+00:00",
-    "fetched": "2026-06-29T00:12:55+00:00",
-    "image": null
-  },
-  {
-    "id": "503158e1a9cf8868",
-    "title": "Xonaly – Canada's Independent Search Engine",
-    "summary": "Article URL: https://xonaly.com/ Comments URL: https://news.ycombinator.com/item?id=48712324 Points: 34 # Comments: 15",
-    "url": "https://xonaly.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-28T22:20:56+00:00",
-    "fetched": "2026-06-29T00:12:55+00:00",
-    "image": null
-  },
-  {
-    "id": "431bd94db28bec76",
-    "title": "​Онофрійчук здобула два \"золота\" та \"срібло\" на Кубку світового виклику в Румунії",
-    "summary": "Днями українська гімнастка також здобула \"срібло\" в індивідуальному багатоборстві.",
-    "url": "https://lb.ua/sport/2026/06/29/748188_onofriychuk_zdobula_dva_zolota.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-28T21:59:00+00:00",
-    "fetched": "2026-06-28T22:35:39+00:00",
-    "image": "https://i.lb.ua/news/118/29/6a419ae2eeb3f.jpg"
   }
 ]
