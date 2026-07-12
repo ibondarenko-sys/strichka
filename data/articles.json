@@ -1,5 +1,53 @@
 [
   {
+    "id": "9699707722e01de6",
+    "title": "Кожен восьмий молодий американець симпатизує ХАМАСу – опитування",
+    "summary": "Кожен восьмий молодий американець позитивно ставиться до терористичного угруповання ХАМАС, тоді як загальна підтримка Ізраїлю серед населення продовжує знижуватися.",
+    "url": "https://www.pravda.com.ua/news/2026/07/12/8043670/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T23:57:00+00:00",
+    "fetched": "2026-07-12T00:02:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/869993/352f01021d82c5269e5ca252e09d16f4.jpeg"
+  },
+  {
+    "id": "5ffbdb7118c1324a",
+    "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+    "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/ Comments URL: https://news.ycombinator.com/item?id=48876741 Points: 10 # Comments: 2",
+    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T23:15:06+00:00",
+    "fetched": "2026-07-12T00:02:28+00:00",
+    "image": null
+  },
+  {
+    "id": "f373803a143ad3d1",
+    "title": "Іран обстріляв комерційне судно та закрив Ормузьку протоку",
+    "summary": "У ніч на неділю сили Корпусу вартових ісламської революції обстріляли комерційне вантажне судно, яке намагалося пройти через Ормузьку протоку.",
+    "url": "https://www.pravda.com.ua/news/2026/07/12/8043669/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-11T23:13:00+00:00",
+    "fetched": "2026-07-12T00:02:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/869990/03779655bf7f4544c86c2e3eed6deece.jpeg"
+  },
+  {
+    "id": "0a9c3f3cea406274",
+    "title": "Weightlifting beats running for blood sugar control, researchers find",
+    "summary": "Article URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html Comments URL: https://news.ycombinator.com/item?id=48876593 Points: 55 # Comments: 28",
+    "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-11T22:49:42+00:00",
+    "fetched": "2026-07-12T00:02:28+00:00",
+    "image": "https://news.vt.edu/content/news_vt_edu/en/articles/2025/11/research_fralinbiomed_yanweightlifting/_jcr_content/image.transform/l-medium/image.jpg"
+  },
+  {
     "id": "10884710ca181b8d",
     "title": "Кількість загиблих від землетрусів у Венесуелі зросла до понад 4 300 людей",
     "summary": "Кількість загиблих у Венесуелі внаслідок подвійного землетрусу, що стався 24 червня, зросла до 4 333 осіб.",
@@ -44026,53 +44074,5 @@
     "published": "2026-06-28T00:04:00+00:00",
     "fetched": "2026-06-28T01:34:24+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/859387/c889f848cc747b3a18bc8306850ed174.jpeg"
-  },
-  {
-    "id": "ed804135ad1cf84b",
-    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-    "summary": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust Comments URL: https://news.ycombinator.com/item?id=48702848 Points: 40 # Comments: 3",
-    "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-27T23:32:58+00:00",
-    "fetched": "2026-06-28T06:23:56+00:00",
-    "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FWAL_RUS_Blog_Banner_00f644032a.jpg&w=1200&h=630&q=75"
-  },
-  {
-    "id": "bf8d66ccabe492bd",
-    "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-    "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
-    "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-27T23:10:39+00:00",
-    "fetched": "2026-06-28T06:23:55+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png"
-  },
-  {
-    "id": "c4952ff1d3ccde3d",
-    "title": "Росія атакувала Київ балістикою",
-    "summary": "Ворог здійснив декілька пусків.",
-    "url": "https://lb.ua/society/2026/06/28/748028_rosiya_atakuvala_kiyiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T22:59:00+00:00",
-    "fetched": "2026-06-27T23:08:06+00:00",
-    "image": "https://i.lb.ua/news/114/36/6a40566cc89e5.jpg"
-  },
-  {
-    "id": "78f1674f620239f4",
-    "title": "У Києві та низці областей – повітряна тривога через загрозу балістики",
-    "summary": "У ніч на неділю, 28 червня, у Києві та низці областей оголошували повітряну тривогу через загрозу ворожої балістики.",
-    "url": "https://www.pravda.com.ua/news/2026/06/28/8041421/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-27T22:58:00+00:00",
-    "fetched": "2026-06-27T23:08:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/859377/d0cdd5a1cf40b4fff165462f8bfc420e.jpeg"
   }
 ]
