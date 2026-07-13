@@ -1,5 +1,65 @@
 [
   {
+    "id": "1be34d694699059b",
+    "title": "Смерть Ліндсі Грема: стала відома попередня причина",
+    "summary": "Сенатор-республіканець Ліндсі Грем імовірно помер через розрив аорти на фоні серцевого захворювання.",
+    "url": "https://www.pravda.com.ua/news/2026/07/13/8043807/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-12T23:38:00+00:00",
+    "fetched": "2026-07-13T00:05:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/870429/c128b58cd061c68f942038e1b5878097.jpeg"
+  },
+  {
+    "id": "210858ff89197443",
+    "title": "Designing and assembling my first PCB",
+    "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html Comments URL: https://news.ycombinator.com/item?id=48885728 Points: 11 # Comments: 0",
+    "url": "https://vilkeliskis.com/b/2026/0711.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T22:56:56+00:00",
+    "fetched": "2026-07-13T00:05:28+00:00",
+    "image": null
+  },
+  {
+    "id": "4e703addbac2f0cd",
+    "title": "Architecture Description Languages [pdf]",
+    "summary": "Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf Comments URL: https://news.ycombinator.com/item?id=48885708 Points: 6 # Comments: 1",
+    "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T22:54:07+00:00",
+    "fetched": "2026-07-13T00:05:28+00:00",
+    "image": null
+  },
+  {
+    "id": "e3bea4011af66daf",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels",
+    "summary": "Article URL: https://shellzine.net/cyberpunk-comics/ Comments URL: https://news.ycombinator.com/item?id=48885643 Points: 20 # Comments: 2",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T22:45:31+00:00",
+    "fetched": "2026-07-13T00:05:28+00:00",
+    "image": null
+  },
+  {
+    "id": "74a8c5e52058f656",
+    "title": "A Speed Limit for Computers",
+    "summary": "Article URL: https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm Comments URL: https://news.ycombinator.com/item?id=48885525 Points: 10 # Comments: 7",
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T22:29:46+00:00",
+    "fetched": "2026-07-13T00:05:28+00:00",
+    "image": null
+  },
+  {
     "id": "6334485d29c29576",
     "title": "США завдають нових ударів по Ірану",
     "summary": "CENTCOM: США завдали нових ударів по Ірану для послаблення його атак на цивільне судноплавство в Ормузькій протоці.",
@@ -12,6 +72,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/870428/19b7ddf6c92b9777310afa6d971bd385.jpeg"
   },
   {
+    "id": "bf1f5f5c786c6fd2",
+    "title": "Profiling the \"Abundance\" housing bottleneck with real data",
+    "summary": "Article URL: https://laxmena.com/same-capacity-less-throughput Comments URL: https://news.ycombinator.com/item?id=48885138 Points: 9 # Comments: 1",
+    "url": "https://laxmena.com/same-capacity-less-throughput",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T21:45:28+00:00",
+    "fetched": "2026-07-13T00:05:28+00:00",
+    "image": "https://i.snap.as/wjoTv1yV.png"
+  },
+  {
     "id": "3cd5f96562fae30d",
     "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
     "summary": "Article URL: https://kode.diy Comments URL: https://news.ycombinator.com/item?id=48884992 Points: 9 # Comments: 3",
@@ -22,6 +94,18 @@
     "published": "2026-07-12T21:27:29+00:00",
     "fetched": "2026-07-12T22:59:42+00:00",
     "image": "https://kode.diy/products/kode-dot/kode-dot-og.jpg"
+  },
+  {
+    "id": "3a713b2838fef0e6",
+    "title": "Ask HN: What Are You Working On? (July 2026)",
+    "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=48884984 Points: 35 # Comments: 77",
+    "url": "https://news.ycombinator.com/item?id=48884984",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-12T21:26:41+00:00",
+    "fetched": "2026-07-13T00:05:28+00:00",
+    "image": null
   },
   {
     "id": "e5c32a1e0b034f97",
@@ -44326,41 +44410,5 @@
     "published": "2026-06-29T00:17:00+00:00",
     "fetched": "2026-06-29T05:13:37+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/859977/7337fa9271be1a4da0e0f348724017ca.jpeg"
-  },
-  {
-    "id": "0b9003209b9727c1",
-    "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
-    "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-29T00:02:44+00:00",
-    "fetched": "2026-06-29T14:34:47+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6a/live/b6f81890-734b-11f1-8e1d-bbbb1017d210.jpg"
-  },
-  {
-    "id": "50ff316920c95994",
-    "title": "США та Іран домовилися припинити обмін ударами",
-    "summary": "Сполучені Штати та Іран домовилися припинити взаємні удари та планують провести переговори у вівторок, 30 червня, у столиці Катару для врегулювання суперечки навколо Ормузької протоки.",
-    "url": "https://www.pravda.com.ua/news/2026/06/29/8041519/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-28T23:43:00+00:00",
-    "fetched": "2026-06-29T00:12:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/859970/22ee1f32799a2219f9dba57458e65ce6.jpeg"
-  },
-  {
-    "id": "4b01c0566181dca5",
-    "title": "ЧС-2026: Канада мінімально здолала ПАР в 1/16 фіналу змагань",
-    "summary": "Канадці забили на останніх хвилинах матчу.",
-    "url": "https://lb.ua/sport/2026/06/29/748190_chs-2026_kanada_minimalno.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-28T23:13:00+00:00",
-    "fetched": "2026-06-29T00:12:55+00:00",
-    "image": "https://i.lb.ua/news/084/50/6a41ac1d6f04f.jpg"
   }
 ]
