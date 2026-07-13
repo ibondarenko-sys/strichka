@@ -1,5 +1,101 @@
 [
   {
+    "id": "7a9e053a75644747",
+    "title": "Під час саміту НАТО Іран готував на Трампа замах",
+    "summary": "Загрозу для президента США вдалося попередити завдяки роботі спецслужб.",
+    "url": "https://lb.ua/world/2026/07/14/751698_pid_chas_samitu_nato_iran.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T22:15:00+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://i.lb.ua/news/120/38/6a556383083c6.jpg"
+  },
+  {
+    "id": "e3cd0a68f01d19c7",
+    "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+    "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than a dozen Mexican migrants in immigration…",
+    "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-13T22:06:01+00:00",
+    "fetched": "2026-07-13T22:31:55+00:00",
+    "image": "https://i.guim.co.uk/img/media/a74528bba21bb5b43432b76c4df26600e3fcc94c/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=821ef7b7c0da7bd993e1065195436706"
+  },
+  {
+    "id": "b2e9538ae44822ad",
+    "title": "ООН: ХАМАС перешкоджає наданню допомоги Газі",
+    "summary": "Озброєні чоловіки напали на гуманітарних працівників у пункті розподілу продуктів харчування.",
+    "url": "https://lb.ua/world/2026/07/14/751696_oon_hamas_pereshkodzhaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T21:59:00+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://i.lb.ua/news/107/44/6a555ffd54a5e.jpg"
+  },
+  {
+    "id": "bffa40c75f625fcf",
+    "title": "Microsoft tests Windows Search without all the ads and fluff",
+    "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks…",
+    "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T21:53:20+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-update.png?quality=90&strip=all&crop=0,6.2259176247693,100,93.774082375231"
+  },
+  {
+    "id": "6f0f1d23aeff9123",
+    "title": "Гідрометцентр: у вівторок в Україні короткочасні дощі та грози",
+    "summary": "Лише на півдні та сході країни вночі без опадів.",
+    "url": "https://lb.ua/society/2026/07/14/751694_gidromettsentr_vivtorok_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T21:50:00+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://i.lb.ua/news/121/19/6a555b945e8d3.jpg"
+  },
+  {
+    "id": "7f45897cf04dd2bf",
+    "title": "OnePlus is reportedly bailing on the US",
+    "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors…",
+    "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T21:48:43+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e5299c8c5ffbaac6",
+    "title": "ЄС запровадив санкції проти причетних до катувань українських полонених",
+    "summary": "У чорному списку 15 осіб та 1 юридична особа.",
+    "url": "https://lb.ua/society/2026/07/14/751690_ies_zaprovadiv_sanktsiyi_proti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T21:47:00+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://i.lb.ua/news/117/00/6a555a13408a7.jpg"
+  },
+  {
+    "id": "b6f9f58892ce48ac",
+    "title": "CNN: Трамп готовий підтримати санкції проти Росії, ініційовані Гремом",
+    "summary": "Президент Трамп підтримав двопартійний законопроєкт про санкції проти РФ після смерті Ліндсі Грема.",
+    "url": "https://www.pravda.com.ua/news/2026/07/14/8043971/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T21:29:00+00:00",
+    "fetched": "2026-07-13T22:31:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/6/871256/66af6d411a9fabdb2e40e4194e27a096.jpeg"
+  },
+  {
     "id": "452754325107db48",
     "title": "Росія атакує Київ балістикою: в столиці працює ППО",
     "summary": "У Києві та регіонах оголосили повітряну тривогу, столицю атакують балістикою, працює ППО.",
@@ -250,6 +346,18 @@
     "published": "2026-07-13T20:13:14+00:00",
     "fetched": "2026-07-13T21:29:40+00:00",
     "image": "https://opengraph.githubassets.com/2af8eb319603aefe13a39a3a8e51f52ed9263610797e374cf0024defc72e5340/marcelpanse/youtube-guitar-tab-parser"
+  },
+  {
+    "id": "6db9086930acaa32",
+    "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+    "summary": "Article URL: https://github.com/Poseidon-fan/linux-0.11-rs Comments URL: https://news.ycombinator.com/item?id=48898134 Points: 37 # Comments: 15",
+    "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T20:11:29+00:00",
+    "fetched": "2026-07-13T22:31:56+00:00",
+    "image": "https://opengraph.githubassets.com/6e9d9c7ba3c7f10330b0c16a81537496e2c2b3792fdbb6f259f210188a53a53b/Poseidon-fan/linux-0.11-rs"
   },
   {
     "id": "430dd3e332b88717",
@@ -684,6 +792,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24533944/STK437_Electric_Vehicle_charge_EV.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "7613396396c44ecd",
+    "title": "Нові правила верифікації Starlink, санкції проти російських застосунків та нові функції у Waze. Підсумки 13 липня",
+    "summary": "AIN підсумовує головні технологічні та бізнесові новини 13 липня.",
+    "url": "https://ain.ua/2026/07/13/golovne-za-den-13072026/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T18:00:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/uD6YoSGMl8UjsV0gVV61hhj2NCmkH7ZncPht43ZX.webp"
+  },
+  {
     "id": "ef9388f57c43ee7c",
     "title": "ЗСУ звільнили шість сіл на Дніпропетровщині, – АрміяInform",
     "summary": "Українські військові прорвали російську оборону на 25 кілометрів углиб тимчасово окупованої території.",
@@ -960,6 +1080,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/5/871068/05115f138788bd76fb466ed57cd96cd9.jpeg"
   },
   {
+    "id": "6b6c6a8337d1501e",
+    "title": "Юлія Свириденко подала у відставку з посади премʼєр-міністерки — її заява уже надійшла до парламенту",
+    "summary": "Голова Верховної Ради Руслан Стефанчук повідомив, що парламент розгляне це питання найближчим часом «відповідно до встановленої процедури».",
+    "url": "https://ain.ua/2026/07/13/iuliia-sviridenko-podala-u-vidstavku/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T16:48:55+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/mWEiC4uVwVh8k56ZHgihIgLPgqwdoGweix4tKze6.webp"
+  },
+  {
     "id": "54587859cfd77cb8",
     "title": "Полк \"Скеля\" звільнив 6 сіл на Дніпропетровщині",
     "summary": "425 штурмовий полк \"Скеля\" звільнив шість сіл на Дніпропетровщині. Під контроль України повернули Тернове, Запорізьке, Новогеоргіївку, Вороне, Січневе та Маліївку.",
@@ -1212,6 +1344,18 @@
     "image": "https://i.lb.ua/news/119/00/6a55083a360df.jpg"
   },
   {
+    "id": "068eb85ac915aa65",
+    "title": "У Дії змінили правила верифікації Starlink. Що змінилося для користувачів?",
+    "summary": "Фізичні особи та ФОП можуть пройти верифікацію через ЦНАП. Відтепер вони мають показати всі термінали, які реєструють",
+    "url": "https://ain.ua/2026/07/13/novi-umovi-verifikaciyi-statlink/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T15:45:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/9P5WE6VH0HdXJsI8yoieapvjHhJlkVjVm4qT3G0R.webp"
+  },
+  {
     "id": "999eb5b509da7b82",
     "title": "Зеленський зустрівся з Макроном та відзначив його орденом Свободи",
     "summary": "",
@@ -1294,6 +1438,18 @@
     "published": "2026-07-13T15:18:00+00:00",
     "fetched": "2026-07-13T16:37:30+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/870966/87d92c6e122f298c4ba3ad2c3d13f76b.jpeg"
+  },
+  {
+    "id": "8572837d2c723391",
+    "title": "Коли зв’язок буде майже всюди: чи збережемо ми право бути офлайн — колонка",
+    "summary": "Микола Калініченко, CEO Adaptis, у колонці для AIN аналізує світові тенденції в розвитку 5G та пояснює, чому аварійний зв’язок під час блекаутів став критичним для бізнесів і як суспільство вимушене формувати нову етику «керованого офлайну».",
+    "url": "https://ain.ua/2026/07/13/koli-zviazok-bude-maize-vsiudi-ci-zberezemo-mi-pravo-buti-oflain-kolonka/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T15:15:01+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/2jiJBzgW8CWPL4LZ7dceNeUslrcy7X9guYi0Ll9H.webp"
   },
   {
     "id": "8502906fe2165d8a",
@@ -1404,6 +1560,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/flowz13.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "c247fc134c0bbc70",
+    "title": "Байопік «Майкл» зібрав понад $1 млрд у світовому прокаті",
+    "summary": "Стрічка про Майкла Джексона стала першим біографічним фільмом, який подолав позначку в один мільярд доларів касових зборів.",
+    "url": "https://ain.ua/2026/07/13/baiopik-maikl-zibrav-ponad-1-mlrd-u-svitovomu-prokati/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T14:52:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/8bsAHNLrohlAP2kj6qLmx7UN1gq6Ui00P7VtpAYV.webp"
+  },
+  {
     "id": "6b05e3b2349e693f",
     "title": "Медик \"Коновал\" та в’язень: повідомили підозру 2 росіянам, які катували українських полонених",
     "summary": "ОГП підозрює двох росіян у катуваннях, насильстві та тортурах українських полонених у російській колонії №7.",
@@ -1452,6 +1620,18 @@
     "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4raPYKDa5ifslzx2izHKzA/4935a3d9476c0551f0d8f398663b2b9d/Introducing_Precursor-_detecting_agentic_behavior_with_continuous_client-side_signals-OG.png"
   },
   {
+    "id": "f22482eb09db25a0",
+    "title": "Скільки коштує зібрати FPV-дрон: розбивка собівартості і де купувати компоненти",
+    "summary": "«Головна ілюзія новачка — думати, що якщо сам дрон коштує $500, то і вхід у сферу коштує $500»",
+    "url": "https://ain.ua/2026/07/13/skilki-kostuje-zibrati-fpv-dron-rozbivka-sobivartosti-i-de-kupuvati-komponenti/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T14:30:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/ZGCpgvH8G8GDUEpfaCYWxcHzMq4RYad4JjvFbzJF.webp"
+  },
+  {
     "id": "deea4f9229c4afad",
     "title": "П’ятеро людей загинули, ще десятеро постраждали через атаку РФ на порт Одещини",
     "summary": "Окупанти вдень 13 липня атакували портову інфраструктуру Одещини: п'ятеро людей загинули, ще десятеро зазнали поранень. Джерело: Офіс генерального прокурора , голова Одеської ОВА Олег Кіпер Деталі: За даними слідства, пошкоджень зазнала надбудова цивільного іноземного судна, яке…",
@@ -1486,6 +1666,30 @@
     "published": "2026-07-13T14:00:49+00:00",
     "fetched": "2026-07-13T16:37:30+00:00",
     "image": "https://i.guim.co.uk/img/media/47ef4bc525153f24a51b0a766a45d2e43394da0e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d12d700c3d52be73980da7797e7807fa"
+  },
+  {
+    "id": "b00be99b67c31f0c",
+    "title": "Що AI-агенти дають бізнесу насправді: операційна ефективність без збільшення штату",
+    "summary": "Ритейл, девелопмент і фітнес — три індустрії, де AI-агенти вже виконують операційні завдання. Розбираємо, як це працює на прикладі кейсів Devlight.",
+    "url": "https://ain.ua/2026/07/13/yak-ai-agenti-zminyuyut-biznes-try-keisy-devlight/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T14:00:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/HmDKZ9QYfzT7japmW8pP9COWYSC6pmLwkkRkblfr.webp"
+  },
+  {
+    "id": "e1ae323f1ea4b1ef",
+    "title": "Waze запускає персоналізовану навігацію та інтегрує нові функції на базі Gemini",
+    "summary": "Навігаційний застосунок отримав режим для мотоциклістів, функцію «менше балачок» для прослуховування музики та розмовне оновлення мап.",
+    "url": "https://ain.ua/2026/07/13/waze-zapuskaje-personalizovanu-navigaciiu-ta-integruje-novi-funkciyi-na-bazi-gemini/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T13:55:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/dV0c32uw9Tv49GBrclNLbnkqEBG1tLRG5nYEckZZ.webp"
   },
   {
     "id": "b5547f18ada26d74",
@@ -1858,6 +2062,18 @@
     "published": "2026-07-13T11:54:00+00:00",
     "fetched": "2026-07-13T13:40:02+00:00",
     "image": "https://i.lb.ua/news/064/44/6a54d1f059595.jpg"
+  },
+  {
+    "id": "379939aff5f40b66",
+    "title": "ЄС запровадив санкції проти розробників російських застосунків Мах та VK",
+    "summary": "VK передавав інформацію про людей, які критикували повномасштабне вторгнення росії в Україну.",
+    "url": "https://ain.ua/2026/07/13/jes-zaprovadiv-sankciyi-proti-rosiiskogo-zastosunku-max/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T11:54:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/qggtVnaWleavyezM91WjBugt59vD6U1dGlLLQ8XO.webp"
   },
   {
     "id": "d309d2fa1760326c",
@@ -2268,6 +2484,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/c3779220-7e9b-11f1-bff3-4914dc3e2c6b.jpg"
   },
   {
+    "id": "efabf02014586e5b",
+    "title": "Meta вимкнула функцію в Instagram, яка дозволяла створювати ШІ-зображення на основі публічних акаунтів",
+    "summary": "Компанія скасувала інструмент моделі Muse через критику щодо порушення прав на особисті зображення та ризиків використання технології шахраями.",
+    "url": "https://ain.ua/2026/07/13/meta-vimknula-funkciiu-v-instagram-iaka-dozvoliala-stvoriuvati-si-zobrazennia/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T10:10:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/budnabhrUwMFPF8LZKcqtmF8eLQ9dx6t2et60TvB.webp"
+  },
+  {
     "id": "73cd17947feaf994",
     "title": "Український організатор рейвів Cxema проведе вечірку в Амстердамі",
     "summary": "Подія стане колаборацією з амстердамською серією вечірок MOVA.",
@@ -2376,6 +2604,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/870620/8f4eb77ab15bc7d63d357c745dbaeb1a.jpeg"
   },
   {
+    "id": "e4fd305e7996f808",
+    "title": "Найм IT-фахівців без комісій і рекрутерів-посередників: як працює платформа DevHunt",
+    "summary": "Компанії та кандидати взаємодіють напряму, а платформа монетизується через фіксовану підписку замість оплати за успішний найм.",
+    "url": "https://ain.ua/2026/07/06/devhunt-platforma-naimu-rozrobnykiv-bez-komisii/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T09:30:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-08/UIRTj3v6kd588RZPCwjD1nPPoC6FxEr4Bl0QW5wo.webp"
+  },
+  {
     "id": "a3408eb1817930b2",
     "title": "Окупанти на ЗАЕС розташували пункти управління дронами та склади зі зброєю – розвідка",
     "summary": "Окупанти розмістили на ЗАЕС дрони, склади зброї, замінували об’єкт та створили ризики для безпеки.",
@@ -2448,6 +2688,18 @@
     "image": "https://raymyers.org/weblog-card-1.png"
   },
   {
+    "id": "88c1a57d3ed97a07",
+    "title": "ЄС поки не погодив 21-й пакет санкцій проти росії, але може розширити його",
+    "summary": "Країни Євросоюзу досі мають питання щодо нових обмежень, зокрема стосовно заборони морських послуг і посилення лімітів на російський зріджений газ.",
+    "url": "https://ain.ua/2026/07/13/jes-poki-ne-pogodiv-21-i-paket-sankcii-proti-rosiyi/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T08:35:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/7viES1e00THxctxpG5tDQlyc6OyrMX8iaaTwfxcd.webp"
+  },
+  {
     "id": "f7ca8f1b3ce333c5",
     "title": "У Литві заявили, що відкриють 6-й кластер для України у вівторок, а всі інші – восени",
     "summary": "Після відкриття 6-го кластера для України у перемовинах про вступ до ЄС у вівторок, 14 липня, питання щодо наступних кластерів буде перенесене на осінь.",
@@ -2482,6 +2734,18 @@
     "published": "2026-07-13T08:15:52+00:00",
     "fetched": "2026-07-13T11:17:45+00:00",
     "image": null
+  },
+  {
+    "id": "33c08cc76d7bdfaf",
+    "title": "Helsing призначила Андрія Шевченка керівним директором в Україні",
+    "summary": "У компанії зазначають, що Шевченко приєднався до компанії в період розширення її роботи в Україні.",
+    "url": "https://ain.ua/2026/07/13/helsing-priznacila-andriia-sevcenka-keruiucim-direktorom-v-ukrayini/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T08:15:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/KrxnWimEcfSCUD6d1E2KYBSCAoVTt48p5Xq2nKa5.webp"
   },
   {
     "id": "092976496ade5e2e",
@@ -2758,6 +3022,18 @@
     "published": "2026-07-13T06:32:00+00:00",
     "fetched": "2026-07-13T07:48:44+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/system/MediaPhoto/photo/9/2/870519/9270ab0b02a6621d2987fc744ecd79691783924005.jpg"
+  },
+  {
+    "id": "5c82a1a190246d56",
+    "title": "Курс валют на 13 липня 2026 року: скільки коштує долар і євро",
+    "summary": "Актуальний курс гривні щодо іноземних валют у банках та обмінниках.",
+    "url": "https://ain.ua/2026/05/04/currency-exchange-rate-ain/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-13T06:25:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-13/aMoioUhkkLdKnouX7VxlmaLL6jtO7PDq8GL34ElO.webp"
   },
   {
     "id": "b76b13554ae36bd5",
@@ -4522,6 +4798,18 @@
     "published": "2026-07-12T12:42:00+00:00",
     "fetched": "2026-07-12T14:05:39+00:00",
     "image": "https://i.lb.ua/news/010/21/6a538acd2e217.jpg"
+  },
+  {
+    "id": "a66df58259ed582e",
+    "title": "Український ритейл зріс до двох трильйонів гривень у 2025 році",
+    "summary": "Виторг компаній-лідерів перевищив 647 млрд грн, а поріг входу до першої десятки зріс до 30 млрд.",
+    "url": "https://ain.ua/2026/07/10/ukrayinskii-riteil-zris-do-209-triliona-griven-u-2025-roci/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-07-12T12:40:00+00:00",
+    "fetched": "2026-07-13T22:31:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-07-10/Kc59EtmHFswIkoiu53Gzyo5BdsFZwpbUU5nhyh7t.webp"
   },
   {
     "id": "3f45061b24234e3b",
@@ -44734,89 +45022,5 @@
     "published": "2026-06-29T22:42:00+00:00",
     "fetched": "2026-06-29T23:02:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/860882/9ef52bfd413c52b60cd105dba253e158.jpeg"
-  },
-  {
-    "id": "bae2e71a68e42eed",
-    "title": "Scientists find molecular-level evidence for two structures in liquid water",
-    "summary": "Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html Comments URL: https://news.ycombinator.com/item?id=48726073 Points: 7 # Comments: 1",
-    "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-29T22:18:26+00:00",
-    "fetched": "2026-06-29T23:02:19+00:00",
-    "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-find-molecu-1.jpg"
-  },
-  {
-    "id": "1b01167b4f5d2528",
-    "title": "Єврокомісія на тлі аномальної спеки розкритикувала скептиків \"зеленого курсу\"",
-    "summary": "Ті, хто захищає індустрію викопного палива, отримали \"драматичне попередження\".",
-    "url": "https://lb.ua/world/2026/06/30/748420_ievrokomisiya_tli_anomalnoyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T22:17:00+00:00",
-    "fetched": "2026-06-29T23:02:19+00:00",
-    "image": "https://i.lb.ua/news/059/10/6a42eef9c2456.jpg"
-  },
-  {
-    "id": "ffa49a7f73143e52",
-    "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-    "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
-    "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-29T22:05:33+00:00",
-    "fetched": "2026-06-30T01:31:21+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-1152x648.jpg"
-  },
-  {
-    "id": "07760f3dd981b14f",
-    "title": "У вівторок в Україні очікується спека до +38°, подекуди грози",
-    "summary": "На Київщині оголосили надзвичайний рівень пожежної небезпеки.",
-    "url": "https://lb.ua/society/2026/06/30/748418_vivtorok_ukrayini_ochikuietsya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T21:58:00+00:00",
-    "fetched": "2026-06-29T23:02:19+00:00",
-    "image": "https://i.lb.ua/news/043/06/6a42ea723e685.jpg"
-  },
-  {
-    "id": "60a371c1dc507092",
-    "title": "Трамп програв апеляцію у справі про сексуальне насильство",
-    "summary": "Консервативний склад Верховного суду США знову не на боці президента.",
-    "url": "https://lb.ua/world/2026/06/30/748410_tramp_prograv_apelyatsiyu_spravi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T21:48:00+00:00",
-    "fetched": "2026-06-29T21:53:14+00:00",
-    "image": "https://i.lb.ua/news/109/18/6a42e8b8506ff.jpg"
-  },
-  {
-    "id": "65e2a5570c736b20",
-    "title": "ЗМІ: в Монако стався теракт в житловому будинку, постраждала сім'я українського олігарха",
-    "summary": "Двоє батьків перебувають в критичному стані, постраждав також неповнолітній.",
-    "url": "https://lb.ua/world/2026/06/30/748416_zmi_monako_stavsya_terakt.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T21:35:00+00:00",
-    "fetched": "2026-06-29T21:53:14+00:00",
-    "image": "https://i.lb.ua/news/077/35/6a42e51f5bcbd.jpg"
-  },
-  {
-    "id": "77789d0cdbd51640",
-    "title": "У Монако стався вибух, у критичному стані ймовірний український олігарх та його дружина – Le Figaro",
-    "summary": "У князівстві Монако стався потужний вибух у житловому будинку на кордоні з Францією. Внаслідок інциденту постраждали троє членів української родини, двоє з яких перебувають у критичному стані – одним із потерпілих, ймовірно, є український олігарх.",
-    "url": "https://www.pravda.com.ua/news/2026/06/30/8041696/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T21:34:00+00:00",
-    "fetched": "2026-06-29T21:53:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/9/860837/29719bedc7853e47d50301bf08cb5b22.jpeg"
   }
 ]
