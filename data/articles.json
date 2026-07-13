@@ -1,5 +1,89 @@
 [
   {
+    "id": "041d0406e3447361",
+    "title": "У Донецьку горить склад боєприпасів: лунають вибухи",
+    "summary": "У Донецьку вибухнув склад боєприпасів — тривала детонація й масштабна пожежа, причина інциденту невідома.",
+    "url": "https://www.pravda.com.ua/news/2026/07/14/8043973/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T23:49:00+00:00",
+    "fetched": "2026-07-13T23:57:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/3/871258/e3429a1ed8cf407ab4979131746b182c.jpeg"
+  },
+  {
+    "id": "783f6e2e0604be83",
+    "title": "Місце Ліндсі Грема у Сенаті США дісталося його сестрі",
+    "summary": "Губернатор Південної Кароліни визначився з наступницею республіканця.",
+    "url": "https://lb.ua/world/2026/07/14/751702_mistse_lindsi_grema_senati_ssha.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T23:34:00+00:00",
+    "fetched": "2026-07-13T23:57:16+00:00",
+    "image": "https://i.lb.ua/news/075/27/6a5576afbfe53.jpg"
+  },
+  {
+    "id": "a0ee10328730add8",
+    "title": "An Englishwoman who sketched India before photography took hold",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cm2drrv6q54o Comments URL: https://news.ycombinator.com/item?id=48900191 Points: 5 # Comments: 0",
+    "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T23:12:22+00:00",
+    "fetched": "2026-07-13T23:57:20+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/153b/live/27ae69b0-76a1-11f1-b7c5-7f4e24437938.jpg"
+  },
+  {
+    "id": "6c5a3f29016dc20c",
+    "title": "Трамп готовий підтримати санкційний пакет Грема-Блументаля проти Росії",
+    "summary": "Раптова смерть автора законопроєкту могла ще більше переконати президента.",
+    "url": "https://lb.ua/society/2026/07/14/751700_tramp_gotoviy_pidtrimati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T22:50:00+00:00",
+    "fetched": "2026-07-13T23:57:16+00:00",
+    "image": "https://i.lb.ua/news/086/47/6a556bd0d3643.jpg"
+  },
+  {
+    "id": "e22e19bec4016931",
+    "title": "На Харківщині внаслідок російської атаки постраждала дитина",
+    "summary": "Російські війська атакували Харківщину дронами, поранено 11-річну дитину. Наслідки ударів уточнюються.",
+    "url": "https://www.pravda.com.ua/news/2026/07/14/8043972/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-13T22:41:00+00:00",
+    "fetched": "2026-07-13T23:57:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/871257/823158e7b65b69a1e22110551f26bd54.jpeg"
+  },
+  {
+    "id": "cf5cf6f8578ef6b2",
+    "title": "Manifest Man",
+    "summary": "Article URL: https://www.thenewcritic.com/p/manifest-man Comments URL: https://news.ycombinator.com/item?id=48899888 Points: 6 # Comments: 3",
+    "url": "https://www.thenewcritic.com/p/manifest-man",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T22:40:55+00:00",
+    "fetched": "2026-07-13T23:57:20+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!vvaX!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F878cff15-8ca4-436a-895b-fe3fbea079cc_1394x1237.png"
+  },
+  {
+    "id": "5e19792c0d8d5fb6",
+    "title": "‘Asia's cleanest village’ bans tourists on Sundays",
+    "summary": "Article URL: https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays Comments URL: https://news.ycombinator.com/item?id=48899672 Points: 41 # Comments: 15",
+    "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T22:19:16+00:00",
+    "fetched": "2026-07-13T23:57:20+00:00",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nv09zm.jpg"
+  },
+  {
     "id": "7a9e053a75644747",
     "title": "Під час саміту НАТО Іран готував на Трампа замах",
     "summary": "Загрозу для президента США вдалося попередити завдяки роботі спецслужб.",
@@ -22,6 +106,18 @@
     "published": "2026-07-13T22:06:01+00:00",
     "fetched": "2026-07-13T22:31:55+00:00",
     "image": "https://i.guim.co.uk/img/media/a74528bba21bb5b43432b76c4df26600e3fcc94c/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=821ef7b7c0da7bd993e1065195436706"
+  },
+  {
+    "id": "be3acb7db6993623",
+    "title": "Claude is just Mr. Meeseeks",
+    "summary": "Article URL: https://github.com/thephw/claude-meseeks Comments URL: https://news.ycombinator.com/item?id=48899529 Points: 71 # Comments: 21",
+    "url": "https://github.com/thephw/claude-meseeks",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T22:03:54+00:00",
+    "fetched": "2026-07-13T23:57:20+00:00",
+    "image": "https://opengraph.githubassets.com/0d95e51d21f1d63e171d75e7f00afa59bbdc532f2179e354add0057dda45a9b3/thephw/claude-meseeks"
   },
   {
     "id": "b2e9538ae44822ad",
@@ -82,6 +178,30 @@
     "published": "2026-07-13T21:47:00+00:00",
     "fetched": "2026-07-13T22:31:56+00:00",
     "image": "https://i.lb.ua/news/117/00/6a555a13408a7.jpg"
+  },
+  {
+    "id": "b960647707393a15",
+    "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
+    "summary": "Article URL: https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/ Comments URL: https://news.ycombinator.com/item?id=48899324 Points: 10 # Comments: 3",
+    "url": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T21:44:18+00:00",
+    "fetched": "2026-07-13T23:57:20+00:00",
+    "image": "https://insideai.news/wp-content/uploads/2026/07/New-method-aims-to-keep-kids-safe-from-illegal-AI-generated-content-1.webp"
+  },
+  {
+    "id": "b03c5d45d4402118",
+    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "summary": "Article URL: https://arxiv.org/abs/2607.01418 Comments URL: https://news.ycombinator.com/item?id=48899321 Points: 8 # Comments: 1",
+    "url": "https://arxiv.org/abs/2607.01418",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-13T21:43:51+00:00",
+    "fetched": "2026-07-13T23:57:20+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
     "id": "b6f9f58892ce48ac",
@@ -44974,53 +45094,5 @@
     "published": "2026-06-30T00:05:33+00:00",
     "fetched": "2026-06-30T01:31:22+00:00",
     "image": "https://opengraph.githubassets.com/0cf938a1060163ae666318be2764d77ea32fb60abbe8fb672480aea87cba2bab/SMJAI/open-memory-protocol"
-  },
-  {
-    "id": "2b8bd7a84f3a6c13",
-    "title": "Парагвай сенсаційно пройшов Німеччину на Мундіалі у серії пенальті",
-    "summary": "Бундестім гучно провалює чемпіонат світу.",
-    "url": "https://lb.ua/sport/2026/06/30/748424_paragvay_sensatsiyno_proyshov.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T23:36:00+00:00",
-    "fetched": "2026-06-30T01:31:21+00:00",
-    "image": "https://i.lb.ua/news/004/56/6a43021b36e73.jpg"
-  },
-  {
-    "id": "f159a0ce1d7f42b3",
-    "title": "Venezuelans newly deported from US missing after hotel collapse",
-    "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off a scramble to find survivors and bodies…",
-    "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-29T23:10:15+00:00",
-    "fetched": "2026-06-30T01:31:21+00:00",
-    "image": "https://i.guim.co.uk/img/media/1e55ec14b3d1572d5285202a019cf6d0cd28b5ca/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=5a7648b80dc14b712f7555ed7c210266"
-  },
-  {
-    "id": "e71ff48f03210cc7",
-    "title": "Польські депутати вимагають від Євросоюзу засудження \"геноциду, скоєного УПА\"",
-    "summary": "У Європарламенті зареєстровано відповідну резолюцію.",
-    "url": "https://lb.ua/news/2026/06/30/748422_polski_deputati_vimagayut_vid.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T22:52:00+00:00",
-    "fetched": "2026-06-30T01:31:21+00:00",
-    "image": "https://i.lb.ua/news/083/34/6a42f87eb7640.jpg"
-  },
-  {
-    "id": "27d12bcb21905e80",
-    "title": "Україна веде переговори з Францією про ліцензії на виробництво ракет SCALP – Федоров",
-    "summary": "Міністр оборони Михайло Федоров заявив, Україна веде переговори з Францією щодо можливості отримання ліцензій на виробництво французьких крилатих ракет SCALP.",
-    "url": "https://www.pravda.com.ua/news/2026/06/30/8041698/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-29T22:42:00+00:00",
-    "fetched": "2026-06-29T23:02:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/860882/9ef52bfd413c52b60cd105dba253e158.jpeg"
   }
 ]
