@@ -1,13 +1,8 @@
 {
-  "58d5b9cd5fbe80d6": null,
-  "64062a41ea632f00": null,
-  "e3dfdd001d3c426e": null,
-  "0f764e9bc764237a": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
   "3e6579549c6a106d": "https://ngrok.com/blog-assets/images/2026-06-26-i-ported-kubernetes-to-the-browser/og.jpg",
   "3ebb844fcd1fc212": "https://media.newyorker.com/photos/6a3976e78091bea48e0d7df8/16:9/w_1280,c_limit/r49680.jpg",
   "ca41ab83e8067c82": "https://img.eurointegration.com.ua/images/doc/1/c/1c8d0c8----.jpg",
   "dbd7c8a5e5ce6dbe": "https://img.eurointegration.com.ua/images/doc/0/6/0620f32----.jpg",
-  "dd7ca1aef089dc2e": "https://ca-times.brightspotcdn.com/dims4/default/916d9da/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F09%2F4b4c1577705669093972a66782bb%2F1x-1.jpg",
   "bf5e071aa32d75f8": "https://soranews24.com/wp-content/uploads/sites/3/2026/06/1_546951.jpg?w=1000&h=525&crop=1",
   "c1ef366401f41d49": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
   "5d84170704bfb07f": "https://docs.mistral.ai//api/og?title=Leanstral+1.5&description=An+updated+Lean+4+formal+proof+engineering+model+optimised+for+automated+theorem+proving+and+autoformalization.+119B+total+parameters%2C+6.5B+active.&eyebraw=v1.5&image=&type=model&v=35fa871c487ea09cad5c2bf7ae6044c6b93b2bd0",
@@ -1069,5 +1064,7 @@
   "43498327422baedd": "https://img.eurointegration.com.ua/images/doc/8/d/8d8d842----.jpg",
   "c713440ac113e4ef": "https://img.eurointegration.com.ua/images/doc/9/4/9479af2-we.jpg",
   "497658ea902e2df0": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/index.png",
-  "140593276c0e8c03": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/1/8/2/shutterstock_1488283535-6facec649168f734.jpg"
+  "140593276c0e8c03": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/1/8/2/shutterstock_1488283535-6facec649168f734.jpg",
+  "449874491314fa9e": null,
+  "1dff06cf1d6044de": "https://img.eurointegration.com.ua/images/doc/1/0/10b33eb--------------.jpg"
 }
