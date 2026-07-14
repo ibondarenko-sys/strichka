@@ -1,14 +1,7 @@
 {
-  "79d58c8792dbad8e": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1610028290816-5d937a395a49.jpeg",
-  "8a029d26f51ac94f": null,
-  "1c34f84811354415": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
-  "e065226757e6ab03": "https://jf.x.com/images/media-preview/2071971609183678544",
-  "49b21106f46e91cc": null,
-  "2495e423a8f2981c": "https://lh3.googleusercontent.com/lb-MMov_96xz_rXSHcC3fOU91ehheRSkXmiGudc3PWnLtmB5YN1-NInY5Le9JOmY2LBIIeAUwBhlhcskmv90eSFxz8gNh2TvWcnegYoq98NmuOEL=w1200-h630-n-nu-rw",
   "58d5b9cd5fbe80d6": null,
   "64062a41ea632f00": null,
   "e3dfdd001d3c426e": null,
-  "7afdcdf821ad965c": null,
   "0f764e9bc764237a": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
   "3e6579549c6a106d": "https://ngrok.com/blog-assets/images/2026-06-26-i-ported-kubernetes-to-the-browser/og.jpg",
   "3ebb844fcd1fc212": "https://media.newyorker.com/photos/6a3976e78091bea48e0d7df8/16:9/w_1280,c_limit/r49680.jpg",
@@ -20,7 +13,6 @@
   "5d84170704bfb07f": "https://docs.mistral.ai//api/og?title=Leanstral+1.5&description=An+updated+Lean+4+formal+proof+engineering+model+optimised+for+automated+theorem+proving+and+autoformalization.+119B+total+parameters%2C+6.5B+active.&eyebraw=v1.5&image=&type=model&v=35fa871c487ea09cad5c2bf7ae6044c6b93b2bd0",
   "21a1bfcc5555b16f": null,
   "8c18b44bf584c129": null,
-  "2c5d30e5533cabfd": "https://formicarium.es/opengraph-image?735303218c04de2a",
   "13741da72f61d2dd": null,
   "8f939ab7a0620b09": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=kt4rIA7tiyMQ7kNvwHsqW2T&_nc_oc=Ado5IEc80BO10V7QdpIqmWABvstCU8PrXVawXZBKJjg5PWSx7Iue0skbquCQDc5b_gQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=WwRQqUg9bPZKEw6iqpoT9Q&_nc_ss=7b20f&oh=00_AQAX5RXfF0Dr0pps25d16uZ5o6TSUQjSexUUdTA0znf7KA&oe=6A5E8CAD",
   "81819225dcda8f82": null,
@@ -1068,5 +1060,14 @@
   "cd1f0ce9e46d011d": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/871874/og_8044082_ukr.png?w=1200&q=85&stamp=1784042692",
   "f211e8029459d7fd": "https://img.eurointegration.com.ua/images/doc/3/9/39c42c2---.jpg",
   "fef279fe207e8c0c": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
-  "dbc30ea704efe796": "https://substackcdn.com/image/fetch/$s_!Fahe!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcommonreader.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-107347525%26version%3D9"
+  "dbc30ea704efe796": "https://substackcdn.com/image/fetch/$s_!Fahe!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcommonreader.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-107347525%26version%3D9",
+  "faeb5936a414ad5a": "https://lucumr.pocoo.org/social/2026-07-13-the-tower-keeps-rising-social.png",
+  "a240c2e199aabd88": "https://s.dou.ua/img/announces/samuel-regan-asante-ozxZtcfi7t0-.jpg",
+  "7b0174cecda7cfbf": "https://agnost.ai/agnost/og-card.png",
+  "37294fcce70cfd14": "https://bookface-images.s3.amazonaws.com/logos/021205547e8691c3f3d6448bac786086900d5b0e.png?1718238521",
+  "0f034c5a49e06887": "https://substackcdn.com/image/fetch/$s_!QJH4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc03157ad-d8f9-4584-a614-6451ee1739ca_1456x821.webp",
+  "43498327422baedd": "https://img.eurointegration.com.ua/images/doc/8/d/8d8d842----.jpg",
+  "c713440ac113e4ef": "https://img.eurointegration.com.ua/images/doc/9/4/9479af2-we.jpg",
+  "497658ea902e2df0": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/index.png",
+  "140593276c0e8c03": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/1/8/2/shutterstock_1488283535-6facec649168f734.jpg"
 }
