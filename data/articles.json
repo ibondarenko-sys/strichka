@@ -1,5 +1,53 @@
 [
   {
+    "id": "40e1d9ff04f8a0f4",
+    "title": "Трамп заявив, що в Ірані \"нікого не залишиться\", якщо країна не піде на угоду зі США",
+    "summary": "Трамп знову погрожує Ірану в разі, якщо той не укладе угоду зі США.",
+    "url": "https://www.pravda.com.ua/news/2026/07/15/8044139/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-14T23:54:00+00:00",
+    "fetched": "2026-07-15T00:01:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/872154/b15f632165891aee78128f2531f62bae.jpeg"
+  },
+  {
+    "id": "30f6203ecbadfa2c",
+    "title": "Радник міністра оборони пояснив, чому у Києві стаються удари балістикою до тривоги",
+    "summary": "Політ ракети до столиці з місця запуску займає від 2 до 4 хвилин.",
+    "url": "https://lb.ua/society/2026/07/15/751972_radnik_ministra_oboroni_poyasniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-14T23:31:00+00:00",
+    "fetched": "2026-07-15T00:01:13+00:00",
+    "image": "https://i.lb.ua/news/024/40/6a56c755d2cdd.jpg"
+  },
+  {
+    "id": "34c6017b9ed56872",
+    "title": "\"Флеш\" пояснив, чому прильоти балістики стаються до сигналів тривоги",
+    "summary": "\"Флеш\" пояснив, чому трапляються прильоти, зокрема і в Києві, до оголошення тривоги.",
+    "url": "https://www.pravda.com.ua/news/2026/07/15/8044138/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-14T23:04:00+00:00",
+    "fetched": "2026-07-15T00:01:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/872153/a124b8cba5bf0b9206fba9596a960e1f.jpeg"
+  },
+  {
+    "id": "b63bcf6d7b46e14a",
+    "title": "Linear is always a lagging indicator",
+    "summary": "Article URL: https://remark.ing/rob/rob.mw/-/Linear-is-always-a Comments URL: https://news.ycombinator.com/item?id=48913953 Points: 7 # Comments: 3",
+    "url": "https://remark.ing/rob/rob.mw/-/Linear-is-always-a",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-14T22:52:23+00:00",
+    "fetched": "2026-07-15T00:01:13+00:00",
+    "image": "https://media.markwhen.com/7mGszd2clHRHudsf0lLX4Kb1ChI3/cef3-a901-e1b7-5585.png"
+  },
+  {
     "id": "11f0c014725f8265",
     "title": "Брата прем'єр-міністра Іспанії визнали винним у корупційних діях",
     "summary": "Чоловік скористався статусом Педро Санчеза, щоб отримати зручну посаду на регіональному рівні.",
@@ -10,6 +58,30 @@
     "published": "2026-07-14T22:48:00+00:00",
     "fetched": "2026-07-14T23:00:13+00:00",
     "image": "https://i.lb.ua/news/111/49/6a56bac6600b3.jpg"
+  },
+  {
+    "id": "d9c899efc5dd7c54",
+    "title": "Casio FX-870P Emulator",
+    "summary": "Article URL: https://github.com/urbancamo/fx870p-emulator Comments URL: https://news.ycombinator.com/item?id=48913910 Points: 5 # Comments: 0",
+    "url": "https://github.com/urbancamo/fx870p-emulator",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-14T22:47:58+00:00",
+    "fetched": "2026-07-15T00:01:13+00:00",
+    "image": "https://opengraph.githubassets.com/497e7b03f82aa25ba1a5f698add03dccf71c3e2812a18ac2f55899ab6e7f2faa/urbancamo/fx870p-emulator"
+  },
+  {
+    "id": "ecb90bef619bdb5a",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario Comments URL: https://news.ycombinator.com/item?id=48913763 Points: 14 # Comments: 0",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-14T22:30:47+00:00",
+    "fetched": "2026-07-15T00:01:13+00:00",
+    "image": "https://www.benjamin-bai.com/project-assets/lemario/architecture.png"
   },
   {
     "id": "744913f8982a4e77",
@@ -45718,77 +45790,5 @@
     "published": "2026-07-01T00:03:55+00:00",
     "fetched": "2026-07-01T00:12:06+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "4a5791968d27b5b5",
-    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "summary": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341 Comments URL: https://news.ycombinator.com/item?id=48740771 Points: 451 # Comments: 221",
-    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-30T23:55:12+00:00",
-    "fetched": "2026-07-01T05:06:58+00:00",
-    "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg"
-  },
-  {
-    "id": "ce2462e9765f91a4",
-    "title": "У Венесуелі зросла кількість жертв через земретлус",
-    "summary": "У Венесуелі землетруси забрали 1943 життя, десятки тисяч зниклих, понад 58 тисяч будівель зруйновано.",
-    "url": "https://www.pravda.com.ua/news/2026/07/01/8041848/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-30T23:50:00+00:00",
-    "fetched": "2026-07-01T00:12:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/861489/25abd7598438f52c2819594eadb8336c.jpeg"
-  },
-  {
-    "id": "7f2655e5fe90d4b8",
-    "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-    "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
-    "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-30T23:49:19+00:00",
-    "fetched": "2026-07-01T05:06:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8c/live/75e572e0-74da-11f1-8546-8f19e4fe30f4.jpg"
-  },
-  {
-    "id": "6ae24dea82c4938f",
-    "title": "Google copybara: moving code between repositories",
-    "summary": "Article URL: https://github.com/google/copybara Comments URL: https://news.ycombinator.com/item?id=48740698 Points: 124 # Comments: 17",
-    "url": "https://github.com/google/copybara",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-06-30T23:45:39+00:00",
-    "fetched": "2026-07-01T05:06:58+00:00",
-    "image": "https://repository-images.githubusercontent.com/67722017/76fcc500-525b-11ea-85e2-37c7b18c893c"
-  },
-  {
-    "id": "0b8ebbfd74d9f29f",
-    "title": "У Німеччині розвідка б'є на сполох через різке зростання кількості правих екстремістів",
-    "summary": "Політика ультраправих - \"найбільша загроза німецькій демократії\".",
-    "url": "https://lb.ua/world/2026/07/01/748676_nimechchini_rozvidka_bie_spoloh.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-06-30T23:33:00+00:00",
-    "fetched": "2026-07-01T00:12:07+00:00",
-    "image": "https://i.lb.ua/news/035/13/6a4453133133a.jpg"
-  },
-  {
-    "id": "b64b2021d6474489",
-    "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-    "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
-    "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-06-30T23:24:05+00:00",
-    "fetched": "2026-07-01T05:06:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee9/live/f266eb80-7446-11f1-b2c7-5138402a5536.jpg"
   }
 ]
