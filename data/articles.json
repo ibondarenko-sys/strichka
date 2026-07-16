@@ -1,5 +1,125 @@
 [
   {
+    "id": "788abce1dc122709",
+    "title": "В п'ятницю в Україні буде спекотно, опадів синоптики не прогнозують",
+    "summary": "Лише на півдні країни можливий невеликий дощ з грозою.",
+    "url": "https://lb.ua/society/2026/07/17/752494_pyatnitsyu_ukrayini_bude.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T21:30:00+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://i.lb.ua/news/055/46/6a594d5e3a4ff.jpg"
+  },
+  {
+    "id": "15a7fda0d596c969",
+    "title": "США посилили візові обмеження для іноземців, які підтримують ультраліві терористичні групи – Рубіо",
+    "summary": "Держдеп США запровадив нову політику візових обмежень для іноземців, які фінансують або підтримують ультралівий тероризм.",
+    "url": "https://www.pravda.com.ua/news/2026/07/17/8044468/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T21:28:00+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/873901/af0bcc13b9dd7456ff926cb063146312.jpeg"
+  },
+  {
+    "id": "5e3b657a91000802",
+    "title": "Росіяни знову вдарили по Одесі ракетами: є загиблі та постраждалі (оновлено)",
+    "summary": "Пошкоджена цивільна інфраструктура.",
+    "url": "https://lb.ua/society/2026/07/17/752486_rosiyani_znovu_vdarili_odesi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T21:20:00+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://i.lb.ua/news/022/37/6a593b61c25c9.jpg"
+  },
+  {
+    "id": "590b92affc8ffc9a",
+    "title": "Київське \"Динамо\" вийшло до другого кваліфікаційного раунду Ліги Європи",
+    "summary": "Забити з гри \"Університаті\" з Клуж-Напоки так і не вдалося.",
+    "url": "https://lb.ua/sport/2026/07/17/752490_kiyivske_dinamo_viyshlo_drugogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T21:00:00+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://i.lb.ua/news/031/46/6a5945564892c.jpg"
+  },
+  {
+    "id": "5ab49c8165545321",
+    "title": "Головне за четвер, 16 липня: новий уряд, атака на Запоріжжя, майже 200 бойових зіткнень",
+    "summary": "Бойові дії на Донеччині, 199 бойових зіткнень, ворожі обстріли. Яким запам’ятається 1604-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/07/16/752498_golovne_chetver_16_lipnya_noviy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T20:59:00+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://i.lb.ua/news/116/21/6a594d1c2f727.jpg"
+  },
+  {
+    "id": "d40fe791576d6caf",
+    "title": "Із зони обов'язкової евакуації в Херсоні вивезли жінку з двома дітьми",
+    "summary": "Родина вже виїжджала до Одещини, проте через постійні обстріли повернулись до Херсону.",
+    "url": "https://lb.ua/society/2026/07/16/752488_zoni_obovyazkovoyi_evakuatsiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T20:59:00+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://i.lb.ua/news/060/16/6a594671a513d.jpg"
+  },
+  {
+    "id": "a2b471145b65d5d3",
+    "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
+    "summary": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and…",
+    "url": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:47:30+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/samsungtheframetv75inch.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "01bb588cdd2480c3",
+    "title": "Mathematics of Data Science",
+    "summary": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 4 # Comments: 0",
+    "url": "https://arxiv.org/abs/2607.11938",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:38:48+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "b2be9e11ad8aa556",
+    "title": "Netflix says around 300 titles used generative AI",
+    "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher…",
+    "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:29:27+00:00",
+    "fetched": "2026-07-16T21:36:23+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/american-experiment.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d309d52ca7362c2c",
+    "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+    "summary": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 5 # Comments: 12",
+    "url": "https://timelinescan.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:25:47+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": "https://timelinescan.com/images/logo/light_1200x630.png"
+  },
+  {
     "id": "b9d2dac9c84f2c03",
     "title": "Kris Jenner's mother Mary Jo dies aged 91",
     "summary": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
@@ -10,6 +130,18 @@
     "published": "2026-07-16T20:24:54+00:00",
     "fetched": "2026-07-16T20:27:25+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21a2/live/384fe450-8151-11f1-badc-afcab3cff8b6.png"
+  },
+  {
+    "id": "7f57ffe62247dfed",
+    "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/science.aea9708 Comments URL: https://news.ycombinator.com/item?id=48939742 Points: 24 # Comments: 1",
+    "url": "https://www.science.org/doi/10.1126/science.aea9708",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:24:02+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": null
   },
   {
     "id": "024f94dbf8629f03",
@@ -24,6 +156,30 @@
     "image": "https://img.eurointegration.com.ua/images/fblogo.gif"
   },
   {
+    "id": "9be1570d40144667",
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 30 # Comments: 4",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:18:15+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg"
+  },
+  {
+    "id": "ccae6b63056cf9b7",
+    "title": "The privacy problems hidden in your period tracker",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details Comments URL: https://news.ycombinator.com/item?id=48939641 Points: 29 # Comments: 5",
+    "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:15:58+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nyzvlm.jpg"
+  },
+  {
     "id": "13c2795e0a421ad0",
     "title": "Росіяни знову вдарили по Одесі ракетами: є загиблі та постраждалі",
     "summary": "Пошкоджена цивільна інфраструктура.",
@@ -34,6 +190,18 @@
     "published": "2026-07-16T20:13:00+00:00",
     "fetched": "2026-07-16T20:27:25+00:00",
     "image": "https://i.lb.ua/news/022/37/6a593b61c25c9.jpg"
+  },
+  {
+    "id": "43ec292aa7b0db41",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 31 # Comments: 20",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:03:23+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358"
   },
   {
     "id": "aaa22610737f57fd",
@@ -214,6 +382,18 @@
     "published": "2026-07-16T18:40:00+00:00",
     "fetched": "2026-07-16T19:19:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/c/873839/7cbc04c86e50132461baeda1e334a6ff.jpeg"
+  },
+  {
+    "id": "4f19754ba4bc35a1",
+    "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
+    "summary": "Article URL: https://nicholas-afk.github.io/AttoChess/ Comments URL: https://news.ycombinator.com/item?id=48938372 Points: 20 # Comments: 10",
+    "url": "https://nicholas-afk.github.io/AttoChess/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T18:33:24+00:00",
+    "fetched": "2026-07-16T21:36:24+00:00",
+    "image": null
   },
   {
     "id": "8cf37ab722ffb558",
@@ -47170,149 +47350,5 @@
     "published": "2026-07-02T21:40:00+00:00",
     "fetched": "2026-07-02T22:38:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/863176/df84cc75cd0f5a7808568327426fd9e4.jpeg"
-  },
-  {
-    "id": "4ee1120f241ca211",
-    "title": "Росіяни вдарили по житловому сектору в Кривому Розі",
-    "summary": "Двоє людей поранені, є значні пошкодження в будинках.",
-    "url": "https://lb.ua/society/2026/07/03/749144_rosiyani_vdarili_zhitlovomu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T21:24:00+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://i.lb.ua/news/045/38/6a46d70b9d2e0.jpg"
-  },
-  {
-    "id": "6ab00486e6b48988",
-    "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
-    "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
-    "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-02T21:21:36+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9745/live/6c75c790-7652-11f1-a627-714adb4eed6e.jpg"
-  },
-  {
-    "id": "a359ee4d03c2a2ac",
-    "title": "BlastRadar – paste a Git diff, get a production risk score in 10 seconds",
-    "summary": "Article URL: https://blastradar.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48767515 Points: 8 # Comments: 0",
-    "url": "https://blastradar.vercel.app/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T21:19:20+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": null
-  },
-  {
-    "id": "397919256f428dcd",
-    "title": "В червні втрати РФ в артилерії були найбільшими за час війни",
-    "summary": "Також знищено або підбито найбільшу кількість в автотехніці окупантів.",
-    "url": "https://lb.ua/society/2026/07/03/749138_chervni_vtrati_rf_artileriyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T21:14:00+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://i.lb.ua/news/101/44/6a46d4c81ba80.jpg"
-  },
-  {
-    "id": "4f855a35e7b8033d",
-    "title": "Meta has a new app to let you make little AI experiences",
-    "summary": "Meta has launched a new social app called Pocket that lets you make and share little interactive \"gizmos\" with an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI as the new social media, and he's previously described a vision of how users…",
-    "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T21:09:06+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "b6cc05afe520a239",
-    "title": "Іспанія не помітила Австрію на шляху до 1/8 фіналу чемпіонату світу",
-    "summary": "Чемпіони Європи заввиграшки розібралися з іншою європейською командою.",
-    "url": "https://lb.ua/sport/2026/07/03/749142_ispaniya_pomitila_avstriyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T21:05:00+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://i.lb.ua/news/120/07/6a46d2dfc3c87.jpg"
-  },
-  {
-    "id": "e35f0adbce7c3b4a",
-    "title": "Virginia bans sale of geolocation data",
-    "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data Comments URL: https://news.ycombinator.com/item?id=48767347 Points: 164 # Comments: 20",
-    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T21:03:45+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png"
-  },
-  {
-    "id": "4b6f2e4b66b4392b",
-    "title": "РФ завдала ракетного удару по Кривому Рогу: двоє поранених",
-    "summary": "Увечері 2 липня Росія завдала удару по Кривому Рогу, удар прийшовся по сектору щільної міської забудови між багатоквартирними будинками. Двоє людей поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/07/02/8042171/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T20:58:00+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/863167/b21bf392820b9746408e9f623aea958b.jpeg"
-  },
-  {
-    "id": "c067ddaf027a76d7",
-    "title": "Головне за четвер, 2 липня: майже 130 загиблих та поранених у Києві, авіаудар по Дніпропетровщині, понад 220 боєзіткнень",
-    "summary": "Бойові дії на Донеччині, 224 бойові зіткнення, ворожі обстріли, наслідки масованої атаки на Київ, викриття масштабної шахрайської мережі криптообмінників. Яким запам’ятається 1590-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/02/749140_golovne_chetver_2_lipnya_mayzhe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T20:53:00+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://i.lb.ua/news/070/16/6a46d032044b5.jpg"
-  },
-  {
-    "id": "34a652ad16cc242b",
-    "title": "В Естонії досі не знають, коли надійдуть очікувані поставки зброї зі США",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/02/8042170/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T20:44:00+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/8/d/8d39c2b----.jpg"
-  },
-  {
-    "id": "0ce498b037595500",
-    "title": "Європа вживає жорсткіших заходів проти російських тіньових танкерів під прапором Камеруну",
-    "summary": "Через це Камерун виключив вже 39 таких суден зі свого реєстру.",
-    "url": "https://lb.ua/world/2026/07/02/749136_ievropa_vzhivaie_zhorstkishih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T20:41:00+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://i.lb.ua/news/013/52/6a46ccffbb69f.jpg"
-  },
-  {
-    "id": "01b426b41dfa2cc7",
-    "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-    "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-    "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-02T20:34:52+00:00",
-    "fetched": "2026-07-02T21:14:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062b/live/8a25abc0-764d-11f1-a011-354a7c444b02.jpg"
   }
 ]
