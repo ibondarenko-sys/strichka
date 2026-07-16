@@ -1,5 +1,209 @@
 [
   {
+    "id": "cd1ffdb63cf710e7",
+    "title": "На Сумщині через російські удари протягом дня постраждали семеро людей, серед них – дитина",
+    "summary": "Внаслідок обстрілів і атак дронами у Сумському районі поранені семеро людей, включно з 4-річною дитиною.",
+    "url": "https://www.pravda.com.ua/news/2026/07/17/8044470/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T22:53:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/873903/5f1d4479370181bad7312cdd220d090f.jpeg"
+  },
+  {
+    "id": "3709174db3d8874b",
+    "title": "В Італії оголосили вироки відповідальним за падіння мосту у Генуї",
+    "summary": "Трагедія 2018 року забрала життя 43 людей.",
+    "url": "https://lb.ua/world/2026/07/17/752502_italiyi_ogolosili_viroki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T22:47:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://i.lb.ua/news/111/32/6a595d76c2c63.jpg"
+  },
+  {
+    "id": "847524b4d82ee9d1",
+    "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+    "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 27 # Comments: 8",
+    "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:29:44+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://imdanielkendall.com/static/og-image.png"
+  },
+  {
+    "id": "65f5253bdc6ce315",
+    "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+    "summary": "I've written Mojibake because I don't like the other Unicode libraries for Unicode support. It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case conversion, segmentation,…",
+    "url": "https://mojibake.zaerl.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:29:21+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": null
+  },
+  {
+    "id": "b56b218c4d394206",
+    "title": "The Little Book of Reinforcement Learning",
+    "summary": "Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 6 # Comments: 0",
+    "url": "https://github.com/alxndrTL/little-book-rl/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:27:22+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://opengraph.githubassets.com/f34853d373640b4a0873451b519e56bb552671beb930459411df25e19dca9007/alxndrTL/little-book-rl"
+  },
+  {
+    "id": "8dd8d4210352be49",
+    "title": "FIFA World Cup 2026 Data Portraits",
+    "summary": "Article URL: https://wc26.bogachev.fr/index.html Comments URL: https://news.ycombinator.com/item?id=48941056 Points: 22 # Comments: 11",
+    "url": "https://wc26.bogachev.fr/index.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:21:59+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://wc26.bogachev.fr/og-cover.png?v=3"
+  },
+  {
+    "id": "649fd7f3e8bf7b34",
+    "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+    "summary": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 5 # Comments: 0",
+    "url": "https://github.com/cgrtml/reasongate",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:21:31+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://repository-images.githubusercontent.com/1253754548/de48dd7e-e3aa-410b-a52e-05dd3d80519d"
+  },
+  {
+    "id": "c75a0f519920f455",
+    "title": "Російський удар по Одесі: кількість постраждалих зросла до восьми",
+    "summary": "Ракетна атака Росії по Одесі: 2 загиблих, 8 поранених, пошкоджено будинки та інфраструктуру.",
+    "url": "https://www.pravda.com.ua/news/2026/07/17/8044469/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T22:11:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/873902/7bbd59a100a9d3d027dabf37e6bf24f5.jpeg"
+  },
+  {
+    "id": "4b78ed5781df58f5",
+    "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+    "summary": "Article URL: https://hellorecon.com/blog/cve-2026-25089 Comments URL: https://news.ycombinator.com/item?id=48940895 Points: 9 # Comments: 0",
+    "url": "https://hellorecon.com/blog/cve-2026-25089",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:07:30+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://hellorecon.com/og.png"
+  },
+  {
+    "id": "500dcd8807163223",
+    "title": "Оператор телесуфлера у Білому домі заробляв на прогнозах щодо промов Трампа",
+    "summary": "Чоловік робив ставки на те, які слова президент використає у своїх зверненнях до народу і конгресменів.",
+    "url": "https://lb.ua/world/2026/07/17/752500_operator_telesuflera_bilomu_domi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T22:01:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://i.lb.ua/news/024/10/6a594f3b66847.jpg"
+  },
+  {
+    "id": "ccf73dac0a95aef2",
+    "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+    "summary": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?id=48940833 Points: 16 # Comments: 1",
+    "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:00:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-07/Likweli-20260702_02-flat-3840W.jpg?h=fcf25457&itok=FlZUJBSU"
+  },
+  {
+    "id": "ca9479ee6ecade83",
+    "title": "Семеро людей постраждали внаслідок російських атак у Сумах та районі",
+    "summary": "Серед них - чотирирічна дитина.",
+    "url": "https://lb.ua/society/2026/07/17/752496_semero_lyudey_postrazhdali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T21:56:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://i.lb.ua/news/095/24/6a59517e38dd5.jpg"
+  },
+  {
+    "id": "990c09efb1a420a7",
+    "title": "Just Do Things",
+    "summary": "Article URL: https://ray.zo.space/blog/just-do-things Comments URL: https://news.ycombinator.com/item?id=48940801 Points: 7 # Comments: 2",
+    "url": "https://ray.zo.space/blog/just-do-things",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T21:55:49+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://zo.computer/api/space-og?handle=ray&path=%2Fblog%2Fjust-do-things&bg=https%3A%2F%2Fray.zo.space%2Fimages%2Fcalendulas-pixel-art.png&hide_overlay=1"
+  },
+  {
+    "id": "d9c7ae522ab9570e",
+    "title": "Blasts reported in Iran as US launches new wave of strikes",
+    "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+    "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-16T21:44:37+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg"
+  },
+  {
+    "id": "74b96f140e7e2818",
+    "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+    "summary": "Article URL: https://arxiv.org/abs/2607.12395 Comments URL: https://news.ycombinator.com/item?id=48940603 Points: 12 # Comments: 0",
+    "url": "https://arxiv.org/abs/2607.12395",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T21:38:02+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "14d65eace9cd3271",
+    "title": "Перед самітом НАТО російська ракета спричинила в Туреччині повітряну тривогу",
+    "summary": "Про інцидент стало відомо аж через тиждень після завершення зустрічі в Анкарі.",
+    "url": "https://lb.ua/world/2026/07/17/752492_pered_samitom_nato_rosiyska.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T21:35:00+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://i.lb.ua/news/102/07/6a594b91ae3d7.jpg"
+  },
+  {
+    "id": "8570fa8f34ac0758",
+    "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+    "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\"…",
+    "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T21:30:35+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/uefn-conversations-blog-header-opt-02.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "788abce1dc122709",
     "title": "В п'ятницю в Україні буде спекотно, опадів синоптики не прогнозують",
     "summary": "Лише на півдні країни можливий невеликий дощ з грозою.",
@@ -22,6 +226,18 @@
     "published": "2026-07-16T21:28:00+00:00",
     "fetched": "2026-07-16T21:36:23+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/873901/af0bcc13b9dd7456ff926cb063146312.jpeg"
+  },
+  {
+    "id": "938c6a354cf1a6ac",
+    "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+    "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+    "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-16T21:22:09+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg"
   },
   {
     "id": "5e3b657a91000802",
@@ -72,6 +288,18 @@
     "image": "https://i.lb.ua/news/060/16/6a594671a513d.jpg"
   },
   {
+    "id": "eeaf1f9ce5ef99b4",
+    "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+    "summary": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:52:47+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/t-mobile-store-logo-1152x648-1784232880.jpg"
+  },
+  {
     "id": "a2b471145b65d5d3",
     "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
     "summary": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and…",
@@ -82,6 +310,18 @@
     "published": "2026-07-16T20:47:30+00:00",
     "fetched": "2026-07-16T21:36:23+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/samsungtheframetv75inch.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "07ed030492571bc5",
+    "title": "It's official: EU will force Google to share search data and open up AI on Android",
+    "summary": "Google says these changes could endanger user privacy and security.",
+    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:41:45+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-1152x648-1742412347.jpg"
   },
   {
     "id": "01bb588cdd2480c3",
@@ -106,6 +346,18 @@
     "published": "2026-07-16T20:29:27+00:00",
     "fetched": "2026-07-16T21:36:23+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/american-experiment.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "23cebf3a219de505",
+    "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+    "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:26:23+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg"
   },
   {
     "id": "d309d52ca7362c2c",
@@ -156,6 +408,18 @@
     "image": "https://img.eurointegration.com.ua/images/fblogo.gif"
   },
   {
+    "id": "be880998c8abfcfc",
+    "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+    "summary": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails. A few months ago we released Libretto, a…",
+    "url": "https://libretto.sh/debug-agents",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:21:27+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://libretto.sh/og-image.png"
+  },
+  {
     "id": "9be1570d40144667",
     "title": "LM Studio Bionic: the AI agent for open models",
     "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 30 # Comments: 4",
@@ -192,6 +456,18 @@
     "image": "https://i.lb.ua/news/022/37/6a593b61c25c9.jpg"
   },
   {
+    "id": "2a21e49a82730e7c",
+    "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+    "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+    "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T20:09:48+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-1152x648.png"
+  },
+  {
     "id": "43ec292aa7b0db41",
     "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
     "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 31 # Comments: 20",
@@ -202,6 +478,18 @@
     "published": "2026-07-16T20:03:23+00:00",
     "fetched": "2026-07-16T21:36:24+00:00",
     "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358"
+  },
+  {
+    "id": "dfd43df9b73b08b7",
+    "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
+    "summary": "If only someone could have predicted it.",
+    "url": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T19:55:46+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2157679961-1152x648.jpg"
   },
   {
     "id": "aaa22610737f57fd",
@@ -240,6 +528,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/873885/45c14cc556ff741ee5e14e8febd6ae11.jpeg"
   },
   {
+    "id": "d6d50539e7d301a6",
+    "title": "2026 Toyota RAV4 plug-in: Big battery means daily drives are all-electric",
+    "summary": "Toyota's everyday small SUV should rarely require trips to the gas station.",
+    "url": "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T19:46:22+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/2026-Toyota-RAV4-PHEV-1-1152x648.jpg"
+  },
+  {
     "id": "cc627b57b1bd2a67",
     "title": "Зеленський зустрівся з главою МЗС Туреччини та нагородив його орденом",
     "summary": "",
@@ -274,6 +574,30 @@
     "published": "2026-07-16T19:31:00+00:00",
     "fetched": "2026-07-16T20:27:25+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/f/873867/9f3b534bfcc78612a64402eb8b51438c.jpeg"
+  },
+  {
+    "id": "c79abf6a76277dea",
+    "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+    "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+    "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T19:28:33+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg"
+  },
+  {
+    "id": "c4d7c9eda0c6cb87",
+    "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+    "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T19:18:23+00:00",
+    "fetched": "2026-07-16T23:01:26+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-1152x648.jpg"
   },
   {
     "id": "8073ee645b340658",
@@ -47206,149 +47530,5 @@
     "published": "2026-07-02T23:14:29+00:00",
     "fetched": "2026-07-03T07:47:04+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6a/live/47161e30-7627-11f1-9510-1546718f668b.jpg"
-  },
-  {
-    "id": "5988429fc84a18cb",
-    "title": "crustc: entirety of `rustc`, translated to C",
-    "summary": "Article URL: https://github.com/FractalFir/crustc Comments URL: https://news.ycombinator.com/item?id=48768464 Points: 69 # Comments: 10",
-    "url": "https://github.com/FractalFir/crustc",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T22:57:35+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://opengraph.githubassets.com/baf241422c726c39ab650c6e4c77f37dbb70f45ea16ea5b06148e549827d27c8/FractalFir/crustc"
-  },
-  {
-    "id": "d32322def18c9637",
-    "title": "Землетруси у Венесуелі: врятували чоловіка, який пробув під завалами 8 днів",
-    "summary": "Рятувальники витягли чоловіка з-під завалів дев'ятиповерхової будівлі у Венесуелі в ході \"дивовижної\" операції через вісім днів після руйнівних землетрусів, що уразили країну.",
-    "url": "https://www.pravda.com.ua/news/2026/07/03/8042175/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T22:56:00+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/863177/347d687ff166fc8c23a79ec5a1e115b6.jpeg"
-  },
-  {
-    "id": "492a4deeeb8c97fd",
-    "title": "МЗС Чехії пообіцяло росіянам місце в пеклі за атаки на Україну",
-    "summary": "Обстріл Києва викликав бурхливу реакцію в чеському уряді.",
-    "url": "https://lb.ua/society/2026/07/03/749152_mzs_chehiyi_poobitsyalo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T22:49:00+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://i.lb.ua/news/119/34/6a46eaae4ae2e.jpg"
-  },
-  {
-    "id": "652489a9cf1a9144",
-    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
-    "summary": "Article URL: https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html Comments URL: https://news.ycombinator.com/item?id=48768336 Points: 16 # Comments: 3",
-    "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T22:44:04+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": null
-  },
-  {
-    "id": "9fbcbb0795a4ba69",
-    "title": "РФ завдала ракетного удару по Кривому Рогу: семеро потерпілих",
-    "summary": "Увечері 2 липня Росія завдала удару по Кривому Рогу, удар прийшовся по сектору щільної міської забудови між багатоквартирними будинками. 7 людей поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/07/03/8042171/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T22:32:00+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/863167/b21bf392820b9746408e9f623aea958b.jpeg"
-  },
-  {
-    "id": "68a1c766bf2c3ab8",
-    "title": "Юнацька збірна України з футболу вийшла в півфінал Євро-2026 і на чемпіонат світу",
-    "summary": "Команда Дмитра Михайленка вже виконала завдання мінімум.",
-    "url": "https://lb.ua/sport/2026/07/03/749150_yunatska_zbirna_ukrayini_z.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T22:12:00+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://i.lb.ua/news/076/49/6a46e2144c0d2.jpg"
-  },
-  {
-    "id": "6c61bba2e3c3714a",
-    "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
-    "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving…",
-    "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T22:09:33+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "aec6733cf489ff2d",
-    "title": "A mayor in Japan announced her maternity leave - and got the whole country talking",
-    "summary": "In the face of criticism, Shoko Kawata, 35, says she loves her job and is proud to be taking time off to have a baby.",
-    "url": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-02T22:00:11+00:00",
-    "fetched": "2026-07-03T07:47:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed82/live/d39bf9a0-7628-11f1-a627-714adb4eed6e.jpg"
-  },
-  {
-    "id": "3228cb1e251cd509",
-    "title": "Укренерго: в п'ятницю в Україні не прогнозуються відключення електроенергії",
-    "summary": "Енергетики закликали до ощадливого споживання у вечірні години.",
-    "url": "https://lb.ua/economics/2026/07/03/749148_ukrenergo_pyatnitsyu_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T21:56:00+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://i.lb.ua/news/000/42/6a46de4fa590d.jpg"
-  },
-  {
-    "id": "29ab83264a115e8a",
-    "title": "Simple, beautiful Emacs modeline: modusregel",
-    "summary": "Article URL: https://codeberg.org/jjba23/modusregel Comments URL: https://news.ycombinator.com/item?id=48767834 Points: 8 # Comments: 0",
-    "url": "https://codeberg.org/jjba23/modusregel",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T21:50:11+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://codeberg.org/jjba23/modusregel/-/summary-card"
-  },
-  {
-    "id": "13921ea9ae9492e1",
-    "title": "Україна та Польща проведуть переговори на рівні міністрів закордонних справ",
-    "summary": "Сибіга їде до Сікорського у Варшаву.",
-    "url": "https://lb.ua/news/2026/07/03/749146_ukrayina_polscha_provedut.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T21:48:00+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://i.lb.ua/news/099/37/6a46dcb6cfa80.jpg"
-  },
-  {
-    "id": "686b200c68349c68",
-    "title": "Ескалація російського терору є проявом зростання відчаю Кремля – Україна в ОБСЄ",
-    "summary": "Україна в ОБСЄ заявила про зростання відчаю Кремля і посилення терору – як наслідок.",
-    "url": "https://www.pravda.com.ua/news/2026/07/03/8042174/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T21:40:00+00:00",
-    "fetched": "2026-07-02T22:38:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/863176/df84cc75cd0f5a7808568327426fd9e4.jpeg"
   }
 ]
