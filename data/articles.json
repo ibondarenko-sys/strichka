@@ -1,5 +1,113 @@
 [
   {
+    "id": "0f8c5248274d1055",
+    "title": "ЗМІ не знайшли в оприлюднених Білим домом документах доказів заяв Трампа про \"вкрадені\" вибори",
+    "summary": "Чимало гучних заяв і цифр не підкріплені реальними даними про порушення.",
+    "url": "https://lb.ua/world/2026/07/18/752739_zmi_znayshli_oprilyudnenih_bilim.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T22:14:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://i.lb.ua/news/070/25/6a5aa636ab0ac.jpg"
+  },
+  {
+    "id": "2280c1a658c7806e",
+    "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+    "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum…",
+    "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T22:09:47+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2139547139.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d05b4892a5c3fd0e",
+    "title": "У Києві та областях оголошували тривогу через загрозу балістики",
+    "summary": "У ніч на 18 липня Київ та області оголошували повітряну тривогу через загрозу балістики з Таганрога.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044648/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T22:08:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/874884/b7ca9a302197f6a355afc72c210c6df9.jpeg"
+  },
+  {
+    "id": "8d3079292ff40d66",
+    "title": "У Дніпрі внаслідок ворожої атаки пошкоджено гуманітарний склад Всесвітньої продовольчої програми ООН",
+    "summary": "Впродовж доби росіяни чотири рази атакували будівлю безпілотниками.",
+    "url": "https://lb.ua/society/2026/07/18/752737_dnipri_vnaslidok_vorozhoyi_ataki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T21:56:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://i.lb.ua/news/022/09/6a5aa508228fb.jpg"
+  },
+  {
+    "id": "158c93d2e0460d3c",
+    "title": "Трамп погрожує Канаді підняттям тарифів через смог від лісових пожеж",
+    "summary": "У Вашингтоні оголошено \"пурпуровий рівень\" небезпеки якості повітря.",
+    "url": "https://lb.ua/world/2026/07/18/752733_tramp_pogrozhuie_kanadi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T21:43:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://i.lb.ua/news/028/05/6a5aa018a65fb.jpg"
+  },
+  {
+    "id": "b06b01155c506bdf",
+    "title": "\"Резерв+\" може бути недоступним з 18 до 22 липня — Міноборони",
+    "summary": "Через технічні роботи Резерв+ буде тимчасово недоступним 18-22 липня. Завчасно підготуйте PDF-документ.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044647/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T21:42:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/5/874883/e5e4d5a4ed7521b0034d35d7a5174b9d.jpeg"
+  },
+  {
+    "id": "a6f6a2eb59734de3",
+    "title": "В МЗС відреагували на заяви відкликаного посла України на Кіпрі Ніжинського",
+    "summary": "Там заявили, що всі звинувачення експосла є неправдивими і ним \"рухає мотив помсти\".",
+    "url": "https://lb.ua/news/2026/07/18/752731_mzs_vidreaguvali_zayavi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T21:30:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://i.lb.ua/news/108/30/6a5a9f6a2cc8d.jpg"
+  },
+  {
+    "id": "447fbeb442251723",
+    "title": "I built a digital F1 garage to learn how Formula 1 cars work",
+    "summary": "Article URL: https://paddockpass.app Comments URL: https://news.ycombinator.com/item?id=48952450 Points: 4 # Comments: 1",
+    "url": "https://paddockpass.app",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T21:25:09+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://paddockpass.app/images/hero.png"
+  },
+  {
+    "id": "70bfceb83de9a1c6",
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 30 # Comments: 5",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T21:22:53+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080"
+  },
+  {
     "id": "fa63b20540873088",
     "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
     "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
@@ -22,6 +130,18 @@
     "published": "2026-07-17T21:12:00+00:00",
     "fetched": "2026-07-17T21:24:56+00:00",
     "image": "https://i.lb.ua/news/056/23/6a5a9b3ee353f.jpg"
+  },
+  {
+    "id": "ed6178f9a08a1c79",
+    "title": "Головне за п’ятницю, 17 липня: майже 230 бойових зіткнень, знищення ворожого Ту-95 в Енгельсі, атаки на об'єкти газовидобутку",
+    "summary": "Бойові дії на Донеччині, 229 бойових зіткнень, ворожі обстріли, авіаудар по Ізюму. Яким запам’ятається 1605-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/07/17/752735_golovne_pyatnitsyu_17_lipnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T20:59:00+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://i.lb.ua/news/051/32/6a5a9fb0c6e26.jpg"
   },
   {
     "id": "5db3be8019283d14",
@@ -118,6 +238,18 @@
     "published": "2026-07-17T20:15:54+00:00",
     "fetched": "2026-07-17T20:27:55+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/shark_chillpill3.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1667ea65f94f5547",
+    "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
+    "summary": "FDA investigation identified a single supplier of the lettuce, but federal warnings did not name the company Federal health officials have identified lettuce from Mexico served by Taco Bell locations across five US states as a source of the widespread outbreak of the…",
+    "url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-17T20:10:26+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": "https://i.guim.co.uk/img/media/b48e78579c53b59ecce1818f3804d3b0a8e5356d/0_0_6111_4889/master/6111.jpg?width=140&quality=85&auto=format&fit=max&s=161dcaadb3be51363a58116b2539327f"
   },
   {
     "id": "21c6eb37a85c076d",
@@ -766,6 +898,18 @@
     "published": "2026-07-17T17:01:16+00:00",
     "fetched": "2026-07-17T19:17:13+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c45/live/db409700-464f-11f1-891c-cf9f2bee9693.jpg"
+  },
+  {
+    "id": "e1ce09da1b5655e1",
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "summary": "Tomorrow is the 15th anniversary of the first day of the Recurse Center ( https://www.recurse.com/ ) My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building \"OkCupid for jobs.\" That idea quickly fizzled, and we spent the better part…",
+    "url": "https://news.ycombinator.com/item?id=48949551",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T16:57:27+00:00",
+    "fetched": "2026-07-17T22:23:46+00:00",
+    "image": null
   },
   {
     "id": "b2bd7ba19294fad0",
@@ -47998,149 +48142,5 @@
     "published": "2026-07-03T22:33:10+00:00",
     "fetched": "2026-07-04T00:09:38+00:00",
     "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg"
-  },
-  {
-    "id": "2c4a941c43f35c6b",
-    "title": "Зеленський на тлі ударів по Україні: Потрібен тиск партнерів на Росію, \"щоб цей терор припинився\"",
-    "summary": "Президент Володимир Зеленський заявив на тлі російських атак у п'ятницю на Суми, Запоріжжя, Харків, і область, Дніпропетровщину та Донеччину, що необхідно, аби \"партнери тиснули на Росію для того, щоб цей терор припинився\".",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042327/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T22:20:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/7/863901/97c279f0cd15302b6faa5e0c34a37b44.jpeg"
-  },
-  {
-    "id": "4afabce3a7efc157",
-    "title": "В опитуванні більшість поляків підтримали політику Навроцького щодо України, а не уряду",
-    "summary": "\"Пробачати і просити пробачення\" готові лише близько третини наших сусідів.",
-    "url": "https://lb.ua/news/2026/07/04/749442_opituvanni_bilshist_polyakiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T22:15:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://i.lb.ua/news/105/16/6a483506e9609.jpg"
-  },
-  {
-    "id": "381da7efc14c3ffa",
-    "title": "Окупанти вдарили КАБами по найбільшій в Європі птахофабриці \"Чорнобаївська\"",
-    "summary": "Збитки",
-    "url": "https://lb.ua/society/2026/07/04/749440_okupanti_vdarili_kabami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T21:56:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://i.lb.ua/news/069/30/6a482df0d9846.jpg"
-  },
-  {
-    "id": "1f0689dc97a9ca5e",
-    "title": "The Demoralization of the White-Collar Worker",
-    "summary": "Article URL: https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/ Comments URL: https://news.ycombinator.com/item?id=48780469 Points: 3 # Comments: 0",
-    "url": "https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T21:53:04+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": null
-  },
-  {
-    "id": "b5de470229fde1d0",
-    "title": "Суми під масованою атакою ворожих безпілотників та КАБів: відомо про 4 загиблих, є постраждалі (оновлено)",
-    "summary": "Російська авіабомба вдарила по одній з центральних вулиць міста.",
-    "url": "https://lb.ua/society/2026/07/04/749424_sumi_pid_masovanoyu_atakoyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T21:51:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://i.lb.ua/news/057/18/6a4815955c67e.jpg"
-  },
-  {
-    "id": "b7e86ff92336a1f7",
-    "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-    "summary": "Article URL: https://www.wafer.ai/blog/glm52-amd Comments URL: https://news.ycombinator.com/item?id=48780417 Points: 34 # Comments: 9",
-    "url": "https://www.wafer.ai/blog/glm52-amd",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T21:49:06+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://www.wafer.ai/assets/images/og-image.png"
-  },
-  {
-    "id": "dd468bc1e5d370b5",
-    "title": "Серед загиблих – дитина, 27 поранених через російський удар 6 КАБами по центру Сум",
-    "summary": "Російська армія 3 липня поцілила авіабомбою по одній із центральних вулиць Сум: загинули 3 людей, є поранені, серед них діти.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042322/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T21:46:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/2/863879/c2b6adc9263a50ad6780398c13839caa.jpeg"
-  },
-  {
-    "id": "b3f630d44647a2fd",
-    "title": "Goodbye, Forever, Probably",
-    "summary": "Article URL: https://whitep4nth3r.com/blog/goodbye-forever-probably/ Comments URL: https://news.ycombinator.com/item?id=48780352 Points: 12 # Comments: 2",
-    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T21:42:19+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://res.cloudinary.com/whitep4nth3r/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_900,c_fit,g_north_west,co_rgb:ffffff,x_20,y_20,l_text:Anton_100__line_spacing_-40:GOODBYE%252C%20FOREVER%252C%20PROBABLY./og_2026.png"
-  },
-  {
-    "id": "35a0a8dd21b282a8",
-    "title": "НАТО у декларації саміту в Анкарі готує 140 мільярдів доларів для України",
-    "summary": "Документ також чітко визначатиме Росію як загрозу євроатлантичній безпеці.",
-    "url": "https://lb.ua/society/2026/07/04/749432_nato_deklaratsiyi_samitu_ankari.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T21:42:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://i.lb.ua/news/123/29/6a482ca9dc3e9.jpg"
-  },
-  {
-    "id": "2fe3c0465e1769ec",
-    "title": "Software, from First Principles",
-    "summary": "Article URL: https://fazamhd.com/mental-models/software/ Comments URL: https://news.ycombinator.com/item?id=48780224 Points: 16 # Comments: 6",
-    "url": "https://fazamhd.com/mental-models/software/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T21:28:55+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://fazamhd.com/og/mental-models/software.png"
-  },
-  {
-    "id": "4a491c16993c8467",
-    "title": "Путін наказав продовжити масовані удари по Україні – росЗМІ",
-    "summary": "Правитель Кремля розпорядився продовжити масовані удари по Україні.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042326/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T21:28:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/863894/8448ed6e380d720fbe84118c2c2117f8.jpeg"
-  },
-  {
-    "id": "9c49d1c7386787a8",
-    "title": "На вихідних в Україні очікуються дощі та місцями грози",
-    "summary": "Середня температура повітря вдень +26°.",
-    "url": "https://lb.ua/society/2026/07/04/749436_vihidnih_ukrayini_ochikuyutsya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T21:27:00+00:00",
-    "fetched": "2026-07-03T22:34:49+00:00",
-    "image": "https://i.lb.ua/news/034/58/6a482956e2866.jpg"
   }
 ]
