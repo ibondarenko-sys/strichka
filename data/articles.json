@@ -1,5 +1,53 @@
 [
   {
+    "id": "30c064f5d87c0d2c",
+    "title": "Apple потіснила NVIDIA з першого місця у списку найдорожчих компаній світу",
+    "summary": "Інвестори почали переосмислювати своє ставлення до штучного інтелекту.",
+    "url": "https://lb.ua/economics/2026/07/18/752741_apple_potisnila_nvidia_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T22:50:00+00:00",
+    "fetched": "2026-07-17T23:25:41+00:00",
+    "image": "https://i.lb.ua/news/069/44/6a5ab29c383d0.jpg"
+  },
+  {
+    "id": "d9a371a9b05ccb2c",
+    "title": "США оголосили про нові удари по Ірану",
+    "summary": "CENTCOM сьому ніч поспіль атакує цілі в Ірані задля послаблення його військового потенціалу.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044649/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T22:30:00+00:00",
+    "fetched": "2026-07-17T23:25:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/a/874885/5a53a4514a4adf959e8d9e79e8f8e489.jpeg"
+  },
+  {
+    "id": "4e8207e4328d2bb8",
+    "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+    "summary": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence ended last week, has been given permission…",
+    "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-17T22:28:42+00:00",
+    "fetched": "2026-07-17T23:25:41+00:00",
+    "image": "https://i.guim.co.uk/img/media/79a9117cbef0898a8ab80259f48d6a91a63125c7/772_81_3966_3172/master/3966.jpg?width=140&quality=85&auto=format&fit=max&s=e080c38de385cb3e93d74f7a35971297"
+  },
+  {
+    "id": "e2ba394be3628a9b",
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 68 # Comments: 45",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T22:26:30+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1"
+  },
+  {
     "id": "0f8c5248274d1055",
     "title": "ЗМІ не знайшли в оприлюднених Білим домом документах доказів заяв Трампа про \"вкрадені\" вибори",
     "summary": "Чимало гучних заяв і цифр не підкріплені реальними даними про порушення.",
@@ -10,6 +58,42 @@
     "published": "2026-07-17T22:14:00+00:00",
     "fetched": "2026-07-17T22:23:46+00:00",
     "image": "https://i.lb.ua/news/070/25/6a5aa636ab0ac.jpg"
+  },
+  {
+    "id": "15984ec3e4c28703",
+    "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
+    "summary": "Article URL: https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/ Comments URL: https://news.ycombinator.com/item?id=48952788 Points: 15 # Comments: 3",
+    "url": "https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T22:13:16+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": "https://media.wired.com/photos/6a59488f44f3d0096a773504/191:100/w_1280,c_limit/CDC-Cyclospora-Lab-Was-Downsized-Science-2249518403.jpg"
+  },
+  {
+    "id": "07e55aedd5a67184",
+    "title": "White House defends Argentina team over Falklands banner",
+    "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-17T22:12:54+00:00",
+    "fetched": "2026-07-17T23:25:41+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg"
+  },
+  {
+    "id": "30ac488c874c35bc",
+    "title": "The US grocery slowdown is real",
+    "summary": "Article URL: https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/ Comments URL: https://news.ycombinator.com/item?id=48952773 Points: 42 # Comments: 44",
+    "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T22:11:01+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": "https://www.bain.com/contentassets/69d97af635954f9d83e89b83aea5b35e/v1-1_46105_grocerysoftness_promo_16.9.png"
   },
   {
     "id": "2280c1a658c7806e",
@@ -168,6 +252,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/a/874882/2afba98c3823b4f5716885c3cb21fd83.jpeg"
   },
   {
+    "id": "3b8a70c80fcd9c06",
+    "title": "Open Book Touch: open-source e-reader",
+    "summary": "Article URL: https://www.crowdsupply.com/oddly-specific-objects/open-book-touch Comments URL: https://news.ycombinator.com/item?id=48952135 Points: 13 # Comments: 1",
+    "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T20:47:57+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": "https://www.crowdsupply.com/img/7a19/ea41febb-029e-492e-bb3b-5953813c7a19_open-graph.jpg"
+  },
+  {
     "id": "8952e473b0355a37",
     "title": "РФ знову атакувала судно під прапором Маршаллових Островів в порту Одещини: 4 постраждалих",
     "summary": "Російські війська ввечері 17 липня атакували цивільне судно під прапором Маршаллових Островів на Одещині: четверо членів екіпажу постраждали.",
@@ -178,6 +274,18 @@
     "published": "2026-07-17T20:45:00+00:00",
     "fetched": "2026-07-17T21:24:56+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/e/874880/fe00f81079c45e0c735ef3356e0f49a7.jpeg"
+  },
+  {
+    "id": "5f987f0636c53831",
+    "title": "Topcoat: The full full-stack framework for Rust",
+    "summary": "Article URL: https://github.com/tokio-rs/topcoat Comments URL: https://news.ycombinator.com/item?id=48952067 Points: 15 # Comments: 3",
+    "url": "https://github.com/tokio-rs/topcoat",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T20:41:43+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": "https://opengraph.githubassets.com/3e0fcf4e562b72b7b5b96cee0d53d901d83553efba6be564fb0f9e832652f824/tokio-rs/topcoat"
   },
   {
     "id": "16c7e0e500a64987",
@@ -216,6 +324,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/d/874873/2ddfe5237e9698e604573c4fc8f6fefe.jpeg"
   },
   {
+    "id": "bf8687e1f502929e",
+    "title": "Static search trees: 40x faster than binary search (2024)",
+    "summary": "Article URL: https://curiouscoding.nl/posts/static-search-tree/ Comments URL: https://news.ycombinator.com/item?id=48951898 Points: 10 # Comments: 0",
+    "url": "https://curiouscoding.nl/posts/static-search-tree/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T20:24:55+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": null
+  },
+  {
     "id": "35f94d148ee33616",
     "title": "Росіяни вдарили дроном по Новгород-Сіверському на Чернігівщині: постраждала сім'я з дітьми",
     "summary": "Окупанти влучили по житловому будинку, де проживали постраждалі.",
@@ -238,6 +358,18 @@
     "published": "2026-07-17T20:15:54+00:00",
     "fetched": "2026-07-17T20:27:55+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/shark_chillpill3.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "964d6cdfdf0725df",
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "summary": "Article URL: https://www.up.com/news/safety/Tracking-Rail-Heat-260608 Comments URL: https://news.ycombinator.com/item?id=48951780 Points: 11 # Comments: 1",
+    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T20:12:59+00:00",
+    "fetched": "2026-07-17T23:25:42+00:00",
+    "image": "https://www.up.com/content/dam/upcom/corp-comm/images/news/2026/june/IMG_UP_260608_Rail_heat.jpg"
   },
   {
     "id": "1667ea65f94f5547",
@@ -48022,125 +48154,5 @@
     "published": "2026-07-03T23:36:46+00:00",
     "fetched": "2026-07-04T04:20:48+00:00",
     "image": "https://news.exeter.ac.uk/wp-content/uploads/2026/06/Flycatcher.jpg"
-  },
-  {
-    "id": "6a8afb646d1174ce",
-    "title": "Odin, Wikipedia and Engagement Farming",
-    "summary": "Article URL: https://katamari64.se/posts/2026/odin-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=48781196 Points: 17 # Comments: 0",
-    "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T23:24:35+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": null
-  },
-  {
-    "id": "003676cbdd8d6cf3",
-    "title": "Окупанти перекривали Кримський міст, соцмережі повідомили про вибухи в Керчі",
-    "summary": "У тимчасово окупованому Криму в ніч на 4 липня перекривали Керченський міст, у соцмережах повідомляли про вибухи в районі.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042328/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T22:58:00+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/863903/042b22788a651470884e04b103d42aaf.jpeg"
-  },
-  {
-    "id": "f88b059f5b49de10",
-    "title": "The circuit that lets your brain think and see",
-    "summary": "Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see Comments URL: https://news.ycombinator.com/item?id=48780996 Points: 16 # Comments: 1",
-    "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:56:17+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": null
-  },
-  {
-    "id": "f72d123c01424d70",
-    "title": "Зеленський відреагував на ворожий терор у Сумах і Запоріжжі: потрібен тиск на Росію",
-    "summary": "Президент закликав партнерів не втрачати жодного дня.",
-    "url": "https://lb.ua/society/2026/07/04/749444_zelenskiy_vidreaguvav_vorozhiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T22:50:00+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://i.lb.ua/news/038/00/6a483d32a5a77.jpg"
-  },
-  {
-    "id": "b9dda7e6c27539bc",
-    "title": "Amsterdam invented the fire department",
-    "summary": "Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/ Comments URL: https://news.ycombinator.com/item?id=48780913 Points: 24 # Comments: 6",
-    "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:46:18+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://worksinprogress.co/wip-image/uploads/2026/07/firefighting-share-card-.jpg"
-  },
-  {
-    "id": "9449060b3be018bb",
-    "title": "Giant trees have no trouble pumping water to top branches",
-    "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/ Comments URL: https://news.ycombinator.com/item?id=48780870 Points: 41 # Comments: 19",
-    "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:40:29+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://news.exeter.ac.uk/wp-content/uploads/2026/07/A-57m-tall-Dipterocarp-tree-with-a-double-rope-technique-DRT-rigged-for-canopy-access.-Credit-Palasiah-Jotan-x.jpg"
-  },
-  {
-    "id": "16578d75350ba58b",
-    "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-    "summary": "Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge Comments URL: https://news.ycombinator.com/item?id=48780865 Points: 30 # Comments: 5",
-    "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:39:50+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://opengraph.githubassets.com/34de48aac22305bb26b6e7aba91cee7cfeb50cb18ac8fd3d0ced4fa00fc39b56/FossPrime/Steam-Controller-Auto-Charge"
-  },
-  {
-    "id": "c25a6fc4d2a83f5e",
-    "title": "Dispersion loss counteracts embedding condensation in small language models",
-    "summary": "Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/ Comments URL: https://news.ycombinator.com/item?id=48780826 Points: 15 # Comments: 3",
-    "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:35:47+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": null
-  },
-  {
-    "id": "7166eeebfdeb98a6",
-    "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
-    "summary": "Article URL: https://gitfut.com Comments URL: https://news.ycombinator.com/item?id=48780812 Points: 6 # Comments: 4",
-    "url": "https://gitfut.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:34:16+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://gitfut.com/opengraph-image?e2293c2f2e0bf28f"
-  },
-  {
-    "id": "02c8b85a9a6075ab",
-    "title": "Leanstral 1.5: Proof Abundance for All",
-    "summary": "Article URL: https://mistral.ai/news/leanstral-1-5/ Comments URL: https://news.ycombinator.com/item?id=48780801 Points: 34 # Comments: 4",
-    "url": "https://mistral.ai/news/leanstral-1-5/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T22:33:10+00:00",
-    "fetched": "2026-07-04T00:09:38+00:00",
-    "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg"
   }
 ]
