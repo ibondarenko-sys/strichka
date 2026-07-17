@@ -1,5 +1,41 @@
 [
   {
+    "id": "c0df6bc2dd33f922",
+    "title": "Законопроєкт Грема-Блументаля про антиросійські санкції набрав у Сенаті потрібну кількість голосів",
+    "summary": "Тепер питання за тим, коли документ винесуть на голосування.",
+    "url": "https://lb.ua/society/2026/07/17/752506_zakonoproiekt_grema-blumentalya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-17T00:26:00+00:00",
+    "fetched": "2026-07-17T01:03:25+00:00",
+    "image": "https://i.lb.ua/news/077/31/6a5976226ca2c.jpg"
+  },
+  {
+    "id": "f77bf254c7eeadb4",
+    "title": "Axios: Законопроєкт Ліндсі Грема щодо посилення санкцій проти Росії набрав необхідну кількість голосів",
+    "summary": "Законопроєкт Грема про вторинні мита проти Росії вже має понад 60 співавторів у Сенаті",
+    "url": "https://www.pravda.com.ua/news/2026/07/17/8044471/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T23:38:00+00:00",
+    "fetched": "2026-07-17T01:03:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/873904/956c85b61c37a0ca0ed4ac53599312f0.jpeg"
+  },
+  {
+    "id": "280689b6e70b5933",
+    "title": "Білий дім підтвердив, що Трамп відвідає фінал чемпіонату світу з футболу",
+    "summary": "Минула спортивна подія у Нью-Йорку за участі президента супроводжувалась гучним свистом.",
+    "url": "https://lb.ua/world/2026/07/17/752504_biliy_dim_pidtverdiv_scho_tramp.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-16T23:32:00+00:00",
+    "fetched": "2026-07-17T01:03:25+00:00",
+    "image": "https://i.lb.ua/news/058/10/6a596a27d20de.jpg"
+  },
+  {
     "id": "cd1ffdb63cf710e7",
     "title": "На Сумщині через російські удари протягом дня постраждали семеро людей, серед них – дитина",
     "summary": "Внаслідок обстрілів і атак дронами у Сумському районі поранені семеро людей, включно з 4-річною дитиною.",
@@ -22,6 +58,18 @@
     "published": "2026-07-16T22:47:00+00:00",
     "fetched": "2026-07-16T23:01:26+00:00",
     "image": "https://i.lb.ua/news/111/32/6a595d76c2c63.jpg"
+  },
+  {
+    "id": "224f272240528dd5",
+    "title": "Two Trump health nominees crash and burn in tense Senate hearing",
+    "summary": "Both nominees flailed in their own unique ways as senators sought answers.",
+    "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:33:24+00:00",
+    "fetched": "2026-07-17T01:03:25+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286229894-1152x648.jpg"
   },
   {
     "id": "847524b4d82ee9d1",
@@ -106,6 +154,18 @@
     "published": "2026-07-16T22:07:30+00:00",
     "fetched": "2026-07-16T23:01:26+00:00",
     "image": "https://hellorecon.com/og.png"
+  },
+  {
+    "id": "90c848da595b3387",
+    "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+    "summary": "Resellers threatened to ditch HP printing supplies for counterfeits.",
+    "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T22:02:31+00:00",
+    "fetched": "2026-07-17T01:03:25+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg"
   },
   {
     "id": "500dcd8807163223",
@@ -250,6 +310,18 @@
     "published": "2026-07-16T21:20:00+00:00",
     "fetched": "2026-07-16T21:36:23+00:00",
     "image": "https://i.lb.ua/news/022/37/6a593b61c25c9.jpg"
+  },
+  {
+    "id": "dfff518bed115361",
+    "title": "Scaling to 1M concurrent sandboxes in seconds",
+    "summary": "Article URL: https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds Comments URL: https://news.ycombinator.com/item?id=48940231 Points: 19 # Comments: 3",
+    "url": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-16T21:04:32+00:00",
+    "fetched": "2026-07-17T01:03:26+00:00",
+    "image": "https://modal.com/docs/social-image.png?title=Scaling+to+1+million+concurrent+sandboxes+in+seconds&socialType=blog"
   },
   {
     "id": "590b92affc8ffc9a",
@@ -47386,149 +47458,5 @@
     "published": "2026-07-03T01:05:13+00:00",
     "fetched": "2026-07-03T04:26:32+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072872/110923_new_Playstation_5_Slim_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "98eb351781e4a40e",
-    "title": "CarPlay Is Additive",
-    "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts Comments URL: https://news.ycombinator.com/item?id=48769397 Points: 111 # Comments: 130",
-    "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T01:02:45+00:00",
-    "fetched": "2026-07-03T04:26:32+00:00",
-    "image": null
-  },
-  {
-    "id": "a05e68e0f3fa3c54",
-    "title": "У замаху на Єрмолаєва підозрюють жінку, яка видавала себе за чоловіка – ЗМІ",
-    "summary": "ЗМІ пишуть, що до замаху на Єрмолаєва, імовірно, причетна жінка.",
-    "url": "https://www.pravda.com.ua/news/2026/07/03/8042178/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T00:50:00+00:00",
-    "fetched": "2026-07-03T04:26:32+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/4/863190/4429d56b3280eea2203a60f0b9663643.jpeg"
-  },
-  {
-    "id": "8fd44707d26d626a",
-    "title": "Росіяни вбили двох жінок на Сумщині ударом у приватний будинок",
-    "summary": "Ворог атакував Роменську громаду.",
-    "url": "https://lb.ua/society/2026/07/03/749156_rosiyani_vbili_dvoh_zhinok.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-03T00:35:00+00:00",
-    "fetched": "2026-07-03T04:26:32+00:00",
-    "image": "https://i.lb.ua/news/102/04/6a4703ea45d9b.jpg"
-  },
-  {
-    "id": "03a1b3134cea3737",
-    "title": "Order a burned CD of your own public GitHub repo",
-    "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl Comments URL: https://news.ycombinator.com/item?id=48768997 Points: 116 # Comments: 88",
-    "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T00:01:26+00:00",
-    "fetched": "2026-07-03T04:26:32+00:00",
-    "image": null
-  },
-  {
-    "id": "ce5f35429ee5a4c4",
-    "title": "An American Privacy Emergency",
-    "summary": "Recent and related: Noise infusion banned from statistical products published by Census Bureau - https://news.ycombinator.com/item?id=48517377 - June 2026 (604 comments) Comments URL: https://news.ycombinator.com/item?id=48768992 Points: 216 # Comments: 72",
-    "url": "https://scottaaronson.blog/?p=9902",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-03T00:01:06+00:00",
-    "fetched": "2026-07-03T04:26:32+00:00",
-    "image": "https://scottaaronson.blog/wp-content/uploads/2026/07/image-2.png"
-  },
-  {
-    "id": "52e39ebfd84254cc",
-    "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-    "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipient As Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian…",
-    "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-03T00:00:13+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=140&quality=85&auto=format&fit=max&s=5dacd17fd5f30448a549bac7637871ac"
-  },
-  {
-    "id": "fba2ff9cc80668b6",
-    "title": "Right to Local Intelligence",
-    "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 81 # Comments: 36",
-    "url": "https://righttointelligence.org/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-02T23:54:03+00:00",
-    "fetched": "2026-07-03T04:26:32+00:00",
-    "image": null
-  },
-  {
-    "id": "f31cb9879711dfc4",
-    "title": "В окупованому Маріуполі пролунали вибухи, виникли пожежі",
-    "summary": "\"Центр вивчення окупації\" повідомив у ніч на 3 липня про прильоти та пожежі в окупованому Маріуполі.",
-    "url": "https://www.pravda.com.ua/news/2026/07/03/8042177/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T23:44:00+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/863187/619b3d6add75bdbee242b304ee7ea37c.jpeg"
-  },
-  {
-    "id": "557193e8b22283c6",
-    "title": "У Венесуелі живим з-під завалів дістали чоловіка, який пробув там 8 днів",
-    "summary": "Справжнє диво під час рятувальної операції після землетрусів.",
-    "url": "https://lb.ua/world/2026/07/03/749154_venesueli_zhivim_z-pid_zavaliv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T23:40:00+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://i.lb.ua/news/043/47/6a46f7c762826.jpg"
-  },
-  {
-    "id": "080727929b7a7442",
-    "title": "Через атаку російських безпілотників на Сумщині – двоє загиблих",
-    "summary": "У Сумській області росіяни атакою безпілотників убили двох жінок.",
-    "url": "https://www.pravda.com.ua/news/2026/07/03/8042176/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-02T23:24:00+00:00",
-    "fetched": "2026-07-03T00:10:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/6/863178/163c22cfa61b7df217abd5a1f3c9a728.jpeg"
-  },
-  {
-    "id": "ccce318f1b71714a",
-    "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-    "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
-    "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-02T23:15:22+00:00",
-    "fetched": "2026-07-03T07:47:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/8ecc3ab0-76a0-11f1-a627-714adb4eed6e.jpg"
-  },
-  {
-    "id": "36e0fc86def9fa31",
-    "title": "How the American Dream has survived 250 years, but only just",
-    "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading",
-    "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-02T23:14:29+00:00",
-    "fetched": "2026-07-03T07:47:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6a/live/47161e30-7627-11f1-9510-1546718f668b.jpg"
   }
 ]
