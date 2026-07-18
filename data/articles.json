@@ -1,5 +1,77 @@
 [
   {
+    "id": "d06575225c10d59b",
+    "title": "Матч за третє місце ЧС-2026. Франція – Англія (0:2). Онлайн-трансляція матчу (ОНОВЛЮЄТЬСЯ)",
+    "summary": "19 липня збірні Франції і Англії змагаються за бронзові нагороди чемпіонату світу з футболу 2026 року.",
+    "url": "https://lb.ua/sport/2026/07/19/752924_match_tretie_mistse_chs-2026.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T21:01:00+00:00",
+    "fetched": "2026-07-18T21:25:41+00:00",
+    "image": "https://i.lb.ua/news/049/53/6a5bec10bdff1.jpg"
+  },
+  {
+    "id": "0326a8b277ec5938",
+    "title": "Головне за суботу, 18 липня: удар по парку розваг у Одесі, понад 190 бойових зіткнень, протести після відставки Федорова",
+    "summary": "Бойові дії на Донеччині, 193 бойових зіткнення, ворожі обстріли, атака на Кривий Ріг. Яким запам’ятається 1606-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/07/18/752926_golovne_subotu_18_lipnya_udar.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T20:59:00+00:00",
+    "fetched": "2026-07-18T21:25:41+00:00",
+    "image": "https://i.lb.ua/news/079/61/6a5becad74cc6.jpg"
+  },
+  {
+    "id": "3d89d3a43d6e93b9",
+    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+    "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T20:54:42+00:00",
+    "fetched": "2026-07-18T21:25:41+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0b8fd90851dc078a",
+    "title": "“Флеш”: потрібна сильна, сучасна трійка: міністр оборони — головнокомандувач — начальник Генштабу",
+    "summary": "Сергій Бескрестнов розповів, над чим планує працювати у першу чергу на посаді радника президента. Водночас він зауважив, що військове керівництво має динамічно реагувати на виклики ворога.",
+    "url": "https://lb.ua/society/2026/07/18/752922_flesh_potribna_silna_suchasna.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T20:52:00+00:00",
+    "fetched": "2026-07-18T21:25:41+00:00",
+    "image": "https://i.lb.ua/news/091/31/6a5be2cd7030d.jpg"
+  },
+  {
+    "id": "baf177fb6db9a8d2",
+    "title": "В Одесі засуджено дилера, який ховав кокаїн у пачках з-під кукурудзяних паличок і прикривався 10-річною донькою",
+    "summary": "Він отримав 9 років позбавлення волі з конфіскацією всього майна.",
+    "url": "https://lb.ua/society/2026/07/18/752920_odesi_zasudzheno_dilera_yakiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T20:26:00+00:00",
+    "fetched": "2026-07-18T21:25:41+00:00",
+    "image": "https://i.lb.ua/news/109/14/6a5be064c69e2.jpg"
+  },
+  {
+    "id": "0f59a377b9fa66e7",
+    "title": "Дрон РФ влучив у багатоповерхівку в Херсоні: 5 постраждалих, діти у важкому стані",
+    "summary": "Унаслідок атаки дрона в Херсоні постраждали 5 людей, серед них двоє дітей у важкому стані.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044750/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T20:22:00+00:00",
+    "fetched": "2026-07-18T21:25:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/875302/b742b8076cf3b1ff0da6a5ac9c5a5d03.jpeg"
+  },
+  {
     "id": "9468d3ead904d911",
     "title": "ZN.UA: Федорову можуть запропонувати нову роль, а Сирського замінити",
     "summary": "На Банковій розглядають Федорова як \"miltech czar\" для розвитку військових технологій і озброєнь.",
@@ -48082,89 +48154,5 @@
     "published": "2026-07-04T21:43:00+00:00",
     "fetched": "2026-07-04T22:29:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/864337/62331d93864fb6a26d78dc3bf9a5f25c.jpeg"
-  },
-  {
-    "id": "72d861b624a2df4d",
-    "title": "Росіяни поцілили у багатоповерхівку в Запоріжжі: поранено трьох людей, зокрема дитину – ОВА",
-    "summary": "Увечері 4 липня російські загарбники завдали щонайменше п'яти ударів по Запоріжжю, внаслідок чого було зруйновано стіну багатоповерхівки з першого по п'ятий поверх та поранено трьох людей, зокрема дитину.",
-    "url": "https://www.pravda.com.ua/news/2026/07/05/8042433/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T21:15:00+00:00",
-    "fetched": "2026-07-04T22:29:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/864336/3f2c43beb29ae8f31cd14b35948feeb7.jpeg"
-  },
-  {
-    "id": "d15644d49449e4c4",
-    "title": "Головне за суботу, 4 липня: авіаудар по Краматорську, знищення Міг-29 на «Бельбеку», пожежі в Чорнобильській зоні",
-    "summary": "Бойові дії на Донеччині, 236 бойових зіткнень, ворожі обстріли, День незалежності США. Яким запам’ятається 1592-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/04/749620_golovne_subotu_4_lipnya_aviaudar.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T20:58:00+00:00",
-    "fetched": "2026-07-04T22:29:18+00:00",
-    "image": "https://i.lb.ua/news/090/20/6a497b6521fdd.jpg"
-  },
-  {
-    "id": "460486fda9a44b91",
-    "title": "Зеленський: Україні потрібна морська лінія оборони з дронами-перехоплювачами",
-    "summary": "Президент України Володимир Зеленський 4 липня в Одесі повідомив, що Україні потрібно мати лінію оборони в морі з дронами-перехоплювачами.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042432/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T20:53:00+00:00",
-    "fetched": "2026-07-04T21:03:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/864323/871203e12de3ba622a9dee381546b915.jpeg"
-  },
-  {
-    "id": "2d8dda06b3ebde09",
-    "title": "У Німеччині кількість шлюбів упала до найнижчого рівня за 75 років",
-    "summary": "Водночас минулого року зросла кількість одностатевих шлюбів.",
-    "url": "https://lb.ua/world/2026/07/04/749618_nimechchini_kilkist_shlyubiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T20:52:00+00:00",
-    "fetched": "2026-07-04T21:03:36+00:00",
-    "image": "https://i.lb.ua/news/103/37/6a49710757738.jpg"
-  },
-  {
-    "id": "1ebf93c6041682e7",
-    "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-    "summary": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 4 # Comments: 0",
-    "url": "https://arxiv.org/abs/2606.26967",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T20:38:39+00:00",
-    "fetched": "2026-07-04T22:29:17+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "aa16ba8f0ea0b183",
-    "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-    "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and religious structures,…",
-    "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-04T20:32:52+00:00",
-    "fetched": "2026-07-04T21:03:36+00:00",
-    "image": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=140&quality=85&auto=format&fit=max&s=8edc3dc6eea3352f53f37e661884deb9"
-  },
-  {
-    "id": "a461a36048ba79e8",
-    "title": "Зеленський розповів про плани створити лінію оборони в Чорному морі для захисту Одеси",
-    "summary": "Зокрема, йдеться про можливість запускати перехоплювачі з морських дронів.",
-    "url": "https://lb.ua/society/2026/07/04/749616_zelenskiy_rozpoviv_pro_plani.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T20:27:00+00:00",
-    "fetched": "2026-07-04T21:03:36+00:00",
-    "image": "https://i.lb.ua/news/118/53/6a496ba1c2601.jpg"
   }
 ]
