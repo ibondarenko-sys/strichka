@@ -1,5 +1,41 @@
 [
   {
+    "id": "2f14182855678677",
+    "title": "В Ірані прихильники жорсткого курсу попереджають про \"державний переворот\" – CNN",
+    "summary": "ЗМІ повідомляють, що іранці говорять \"державний переворот\" на тлі переговорів із США.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044754/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T22:10:00+00:00",
+    "fetched": "2026-07-18T22:25:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/875309/fff0399d4c220da5ca3fe3fc6a7467db.jpeg"
+  },
+  {
+    "id": "e05396a0133c2651",
+    "title": "Judge a book by its first pages",
+    "summary": "Article URL: https://uncovered.ink Comments URL: https://news.ycombinator.com/item?id=48962893 Points: 4 # Comments: 0",
+    "url": "https://uncovered.ink",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T22:02:31+00:00",
+    "fetched": "2026-07-18T22:25:03+00:00",
+    "image": "https://uncovered.ink/og.png"
+  },
+  {
+    "id": "ea8ed5c1362594a4",
+    "title": "У Запоріжжі внаслідок ворожої атаки пожежа охопила будівлю вишу – ОВА",
+    "summary": "У Запоріжжі після ворожої атаки горить будівля вишу.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044753/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T21:24:00+00:00",
+    "fetched": "2026-07-18T22:25:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/875310/155128a77708d483e73eff1eba2030fc.jpeg"
+  },
+  {
     "id": "d06575225c10d59b",
     "title": "Матч за третє місце ЧС-2026. Франція – Англія (0:2). Онлайн-трансляція матчу (ОНОВЛЮЄТЬСЯ)",
     "summary": "19 липня збірні Франції і Англії змагаються за бронзові нагороди чемпіонату світу з футболу 2026 року.",
@@ -70,6 +106,18 @@
     "published": "2026-07-18T20:22:00+00:00",
     "fetched": "2026-07-18T21:25:41+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/875302/b742b8076cf3b1ff0da6a5ac9c5a5d03.jpeg"
+  },
+  {
+    "id": "96142c8bea522b02",
+    "title": "SpaceX and the myth of independent Wall St research",
+    "summary": "Article URL: https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434 Comments URL: https://news.ycombinator.com/item?id=48961864 Points: 28 # Comments: 8",
+    "url": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T20:13:56+00:00",
+    "fetched": "2026-07-18T22:25:03+00:00",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe975bb85-0d5c-41cd-a4f2-ed5b21f73307.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page"
   },
   {
     "id": "9468d3ead904d911",
@@ -48118,41 +48166,5 @@
     "published": "2026-07-04T22:34:30+00:00",
     "fetched": "2026-07-04T23:36:37+00:00",
     "image": "https://media.nature.com/lw1200/magazine-assets/d44151-025-00219-7/d44151-025-00219-7_51741648.jpg"
-  },
-  {
-    "id": "7e9ffc3a6038f105",
-    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-    "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 28 # Comments: 2",
-    "url": "https://github.com/openai/codex/issues/30364",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T21:51:09+00:00",
-    "fetched": "2026-07-04T22:29:17+00:00",
-    "image": "https://opengraph.githubassets.com/a5d6c4d003a2626f4266714ca382f0703c2db3b9e282b6ddf3033c244b663526/openai/codex/issues/30364"
-  },
-  {
-    "id": "8d586b3e473f56cd",
-    "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
-    "summary": "Article URL: https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422 Comments URL: https://news.ycombinator.com/item?id=48789416 Points: 9 # Comments: 1",
-    "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T21:50:14+00:00",
-    "fetched": "2026-07-04T23:36:37+00:00",
-    "image": "https://live-production.wcms.abc-cdn.net.au/23d41d4ad0b62d7c89027b7d18e798d3?impolicy=wcms_watermark_news&cropH=595&cropW=1058&xPos=0&yPos=54&width=862&height=485&imformat=generic"
-  },
-  {
-    "id": "9f8f64177a132efd",
-    "title": "\"Батьківщина-мати\" засяяла кольорами американського прапора на 250-річчя США",
-    "summary": "Увечері 4 липня київський монумент \"Батьківщина-мати\" підсвітили синім, білим та червоним кольорами американського прапора на честь 250-ї річниці проголошення незалежності Сполучених Штатів Америки.",
-    "url": "https://www.pravda.com.ua/news/2026/07/05/8042434/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T21:43:00+00:00",
-    "fetched": "2026-07-04T22:29:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/864337/62331d93864fb6a26d78dc3bf9a5f25c.jpeg"
   }
 ]
