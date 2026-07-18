@@ -1,5 +1,125 @@
 [
   {
+    "id": "1ed149e757c7fd74",
+    "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+    "summary": "Sonam Wangchuk had urged people to join a protest march to parliament on 20 July.",
+    "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-18T03:54:51+00:00",
+    "fetched": "2026-07-18T04:07:34+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/ad78f910-825a-11f1-9346-85db1a1d6a02.jpg"
+  },
+  {
+    "id": "aa4bbf7956716c47",
+    "title": "США завершили чергову серію ударів по Ірану",
+    "summary": "Американські війська сьому ніч поспіль завдають ударів по об'єктах Ірану – CENTCOM.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044656/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T03:32:00+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/d/874892/5d0914d96c80749120fcdcdcbdf1d05c.jpeg"
+  },
+  {
+    "id": "bcb2b11990b6237f",
+    "title": "US strikes hit Iran for seventh consecutive night",
+    "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+    "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-18T03:02:01+00:00",
+    "fetched": "2026-07-18T04:07:34+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg"
+  },
+  {
+    "id": "168b75ca52a46510",
+    "title": "Дрони атакували Тамбовську область РФ: загорівся логістичний центр",
+    "summary": "Дрони атакували Котовськ та Тамбов: пожежі у логістичному центрі та житловому будинку після вибухів.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044655/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T02:47:00+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/874891/b2594271e283273f9d7454ea0e0162bd.jpeg"
+  },
+  {
+    "id": "3fdc513bc45c8a77",
+    "title": "MeToo воєнного часу",
+    "summary": "Кілька тижнів тому Україну сколихнув \"СкеляГейт\" – один із найгучніших скандалів цього літа.",
+    "url": "https://www.pravda.com.ua/articles/2026/07/18/8044581/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T02:30:00+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/c/874692/0cd70a7c63f41101aa2a610072a8c697.jpeg"
+  },
+  {
+    "id": "d3a49b56626bc3e0",
+    "title": "Трамп пригрозив Канаді підвищенням мит через забрудення лісів",
+    "summary": "Трамп дорікнув Канаді за сміття в лісах, що шкодить США, й пригрозив збільшенням мит.",
+    "url": "https://www.pravda.com.ua/news/2026/07/18/8044654/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T02:24:00+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/0/874890/b04aa92776b572a411fe1695eee38b0c.jpeg"
+  },
+  {
+    "id": "a51698ff7f84f345",
+    "title": "Соцмережа Трампа планує продавати ранній доступ до його постів",
+    "summary": "Дописи президента здатні за секунди змінювати тенденції на фондовому ринку.",
+    "url": "https://lb.ua/world/2026/07/18/752747_sotsmerezha_trampa_planuie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T02:02:00+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://i.lb.ua/news/067/23/6a5adbc7d9a89.jpg"
+  },
+  {
+    "id": "6db357dfc79ceba6",
+    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+    "summary": "Article URL: https://moonstone.sh/ Comments URL: https://news.ycombinator.com/item?id=48954175 Points: 19 # Comments: 4",
+    "url": "https://moonstone.sh/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T01:18:15+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": null
+  },
+  {
+    "id": "8f717b57980b32d1",
+    "title": "I Started a \"Dirt Notebook\"",
+    "summary": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 28 # Comments: 19",
+    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T01:12:13+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://pinewind.bearblog.dev/static/og-image.png"
+  },
+  {
+    "id": "a6a9c81d0fd1c241",
+    "title": "DrDroid (YC W23) Is Hiring",
+    "summary": "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory Comments URL: https://news.ycombinator.com/item?id=48954074 Points: 0 # Comments: 0",
+    "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T01:01:08+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/6b57f1a7b6dd9a5c9660f68f80895462c94843d4.png?1668800160"
+  },
+  {
     "id": "fa1a6e4d0838fa6d",
     "title": "Дрони атакували окупований Крим: під удар міг потрапити аеродром",
     "summary": "У ніч на 18 липня дрони атакували Крим: вибухи у Гвардійському, Севастополі, Феодосії, Керчі.",
@@ -10,6 +130,18 @@
     "published": "2026-07-18T00:56:00+00:00",
     "fetched": "2026-07-18T00:57:50+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/1/874888/218cb66d858bcc13dbf6d710d82781c6.jpeg"
+  },
+  {
+    "id": "53ae656a4919f0e3",
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+    "summary": "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 20 # Comments: 3",
+    "url": "https://www.stenchill.com/en/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T00:48:37+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://stenchill.com/og-image.png"
   },
   {
     "id": "ab3d7b17c1000b69",
@@ -240,6 +372,18 @@
     "image": "https://i.lb.ua/news/028/05/6a5aa018a65fb.jpg"
   },
   {
+    "id": "6d8a107b806c574e",
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "summary": "Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md Comments URL: https://news.ycombinator.com/item?id=48952565 Points: 60 # Comments: 12",
+    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-17T21:42:43+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://opengraph.githubassets.com/48d730474da6666f7940eade2f6cea04f3391dea4e7bf467ba97736cbacdf896/BadChemical/IoT-Vulnerability-Research-Public"
+  },
+  {
     "id": "b06b01155c506bdf",
     "title": "\"Резерв+\" може бути недоступним з 18 до 22 липня — Міноборони",
     "summary": "Через технічні роботи Резерв+ буде тимчасово недоступним 18-22 липня. Завчасно підготуйте PDF-документ.",
@@ -250,6 +394,18 @@
     "published": "2026-07-17T21:42:00+00:00",
     "fetched": "2026-07-17T22:23:46+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/5/874883/e5e4d5a4ed7521b0034d35d7a5174b9d.jpeg"
+  },
+  {
+    "id": "437b9cd21a1b45a2",
+    "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+    "summary": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagers Get our breaking news email , free app or daily news podcast The Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high…",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-17T21:36:05+00:00",
+    "fetched": "2026-07-18T04:07:35+00:00",
+    "image": "https://i.guim.co.uk/img/media/0d2d72ae4e995e42bf28f134c5c0186101686aca/205_0_2117_1694/master/2117.jpg?width=140&quality=85&auto=format&fit=max&s=dbfbf488c08584390364daf15d5bf6ca"
   },
   {
     "id": "a6f6a2eb59734de3",
@@ -47986,137 +48142,5 @@
     "published": "2026-07-04T04:19:00+00:00",
     "fetched": "2026-07-04T04:20:46+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/8/862841/b801a3e92979ceb10732143bc8248297.jpeg?w=1200&q=85&stamp=1783000673"
-  },
-  {
-    "id": "de6a214eb7ec71eb",
-    "title": "Maybe you should learn something",
-    "summary": "Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 32 # Comments: 16",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T03:36:03+00:00",
-    "fetched": "2026-07-04T07:23:50+00:00",
-    "image": null
-  },
-  {
-    "id": "4d14f43e9fa0ef41",
-    "title": "Атака на Запоріжжя: окупанти влучили у житлову забудову, 8 поранених",
-    "summary": "Ворог вчергове атакував Запоріжжя, 8 поранених.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042335/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T03:28:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/b/863930/eb8922a0bf7c031078cfc2e8cf13aaaf.jpeg"
-  },
-  {
-    "id": "1d0cd46e5f9e1a40",
-    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-    "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-04T02:57:48+00:00",
-    "fetched": "2026-07-04T07:23:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8188/live/f848ea30-7716-11f1-8716-9bf866a7588e.jpg"
-  },
-  {
-    "id": "db01bd3dc6609af7",
-    "title": "Synthesis is harder than analysis",
-    "summary": "Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/ Comments URL: https://news.ycombinator.com/item?id=48782219 Points: 10 # Comments: 3",
-    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T02:45:24+00:00",
-    "fetched": "2026-07-04T04:20:48+00:00",
-    "image": "https://surfingcomplexity.blog/wp-content/uploads/2026/07/image-6.png"
-  },
-  {
-    "id": "a1697416955155a4",
-    "title": "Рятувальники показали наслідки удару росіян КАБами по центру Сум",
-    "summary": "Рятувальники показали наслідки російського удару КАБами по центру Сум.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042334/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T02:42:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/863928/18488f3ffa1091c7c10cba7f101d6bee.jpeg"
-  },
-  {
-    "id": "4a8dc3ad419eb155",
-    "title": "Не народжений четвертого липня",
-    "summary": "Сполучені Штати відзначають ювілейний День Незалежності.",
-    "url": "https://www.pravda.com.ua/articles/2026/07/04/8042097/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T02:30:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/863725/73f7f576a8da60eae090692e5aada3b0.jpeg"
-  },
-  {
-    "id": "d62eb26c457e2699",
-    "title": "Росіяни КАБами вдарили по найбільшій птахофабриці України: збитки оцінюють у сотні мільйонів доларів",
-    "summary": "Армія РФ завдала удару КАБами по найбільшій птахофабриці в Україні.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042333/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T02:30:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/863916/03d7804895737337a8d0d933b4e4a0c7.jpeg"
-  },
-  {
-    "id": "5e650486610911dc",
-    "title": "Генерал самооборони розглядається як кандидат на посаду президента Естонії",
-    "summary": "Ріхо Юхтегі має чималий військовий досвід.",
-    "url": "https://lb.ua/world/2026/07/04/749452_general_samooboroni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T02:27:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://i.lb.ua/news/057/36/6a485f010e349.jpg"
-  },
-  {
-    "id": "0a6f5e3a89db1624",
-    "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-    "summary": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
-    "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-04T02:26:54+00:00",
-    "fetched": "2026-07-04T07:23:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fd/live/91ddb5d0-7763-11f1-a627-714adb4eed6e.jpg"
-  },
-  {
-    "id": "8027848e80e9bda5",
-    "title": "Трамп показав 100-доларову купюру зі своїм підписом",
-    "summary": "Напередодні 250-річчя США Трамп оприлюднив зображення 100-доларової купюри за своїм підписом.",
-    "url": "https://www.pravda.com.ua/news/2026/07/04/8042332/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T01:40:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/5/863914/d5322abe1cc5fd9f77714028710f6f2c.jpeg"
-  },
-  {
-    "id": "538376db5a6de1f0",
-    "title": "Кабо-Верде ледь не вибило чинних чемпіонів світу з Мундіалю",
-    "summary": "Острівна країна-дебютант дала бій Мессі і компанії.",
-    "url": "https://lb.ua/sport/2026/07/04/749450_kabo-verde_led_vibilo_chinnih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T01:05:00+00:00",
-    "fetched": "2026-07-04T04:20:46+00:00",
-    "image": "https://i.lb.ua/news/029/48/6a485c6ae3f21.jpg"
   }
 ]
