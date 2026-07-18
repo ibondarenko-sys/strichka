@@ -1,5 +1,53 @@
 [
   {
+    "id": "34bb0d0f705a8318",
+    "title": "Росія атакує Київ ракетами",
+    "summary": "Лунали численні вибухи.",
+    "url": "https://lb.ua/society/2026/07/19/752928_rosiya_atakuie_kiyiv_raketami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T22:27:00+00:00",
+    "fetched": "2026-07-18T23:28:16+00:00",
+    "image": "https://i.lb.ua/static/logo.480.jpg"
+  },
+  {
+    "id": "0743f8b1ad7921b1",
+    "title": "Балістична атака на Київ: горять будинки, ТРЦ, автомобілі",
+    "summary": "У Києві пролунали численні вибухи, ворог атакує балістикою.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044755/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T22:24:00+00:00",
+    "fetched": "2026-07-18T23:28:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/875312/52cb812535aadb67ade92a66cb5b97ea.jpeg"
+  },
+  {
+    "id": "4faf0c553ba08f9c",
+    "title": "Gap in Mochizuki's proof of ABC confirmed by Lean",
+    "summary": "Article URL: https://twitter.com/FumiharuKato/status/2078017230537892207 Comments URL: https://news.ycombinator.com/item?id=48963019 Points: 9 # Comments: 1",
+    "url": "https://twitter.com/FumiharuKato/status/2078017230537892207",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T22:19:37+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": "https://pbs.twimg.com/profile_images/654557578261741570/MAmfCYYX_200x200.jpg"
+  },
+  {
+    "id": "a20309c6ae08862a",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 45 # Comments: 23",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T22:13:39+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg"
+  },
+  {
     "id": "2f14182855678677",
     "title": "В Ірані прихильники жорсткого курсу попереджають про \"державний переворот\" – CNN",
     "summary": "ЗМІ повідомляють, що іранці говорять \"державний переворот\" на тлі переговорів із США.",
@@ -10,6 +58,18 @@
     "published": "2026-07-18T22:10:00+00:00",
     "fetched": "2026-07-18T22:25:02+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/875309/fff0399d4c220da5ca3fe3fc6a7467db.jpeg"
+  },
+  {
+    "id": "af0e1b43fff69b7e",
+    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+    "summary": "Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf Comments URL: https://news.ycombinator.com/item?id=48962944 Points: 8 # Comments: 2",
+    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T22:09:07+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": null
   },
   {
     "id": "e05396a0133c2651",
@@ -24,6 +84,30 @@
     "image": "https://uncovered.ink/og.png"
   },
   {
+    "id": "dc41641ba9184158",
+    "title": "Classic Amiga titles, free to download",
+    "summary": "Article URL: https://amigafreeware.downer.tech/ Comments URL: https://news.ycombinator.com/item?id=48962838 Points: 11 # Comments: 0",
+    "url": "https://amigafreeware.downer.tech/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T21:55:27+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": null
+  },
+  {
+    "id": "603bdbc95384c8e8",
+    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+    "summary": "Article URL: https://www.neatnik.net/hardcore-indieweb Comments URL: https://news.ycombinator.com/item?id=48962758 Points: 28 # Comments: 21",
+    "url": "https://www.neatnik.net/hardcore-indieweb",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T21:45:12+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": "https://www.neatnik.net/hardcore-indieweb/og.png"
+  },
+  {
     "id": "ea8ed5c1362594a4",
     "title": "У Запоріжжі внаслідок ворожої атаки пожежа охопила будівлю вишу – ОВА",
     "summary": "У Запоріжжі після ворожої атаки горить будівля вишу.",
@@ -34,6 +118,30 @@
     "published": "2026-07-18T21:24:00+00:00",
     "fetched": "2026-07-18T22:25:02+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/875310/155128a77708d483e73eff1eba2030fc.jpeg"
+  },
+  {
+    "id": "cb40ed53af634353",
+    "title": "Co-evolution of self-replication and function in a digital primordial soup",
+    "summary": "Article URL: https://arxiv.org/abs/2607.09211 Comments URL: https://news.ycombinator.com/item?id=48962429 Points: 8 # Comments: 1",
+    "url": "https://arxiv.org/abs/2607.09211",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T21:09:01+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "6f4e7b4dbb1c14cc",
+    "title": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+    "summary": "Article URL: https://github.com/saineshnakra/automated-data-analyst Comments URL: https://news.ycombinator.com/item?id=48962405 Points: 4 # Comments: 2",
+    "url": "https://github.com/saineshnakra/automated-data-analyst",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T21:06:49+00:00",
+    "fetched": "2026-07-18T23:28:19+00:00",
+    "image": "https://opengraph.githubassets.com/39b37bff17b1bfdd81df6e71a00fd9ccf2d76a9974d73da0d3f148e14342b51b/saineshnakra/automated-data-analyst"
   },
   {
     "id": "d06575225c10d59b",
@@ -48094,77 +48202,5 @@
     "published": "2026-07-04T23:33:27+00:00",
     "fetched": "2026-07-05T15:16:56+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb10/live/e66eeba0-7803-11f1-b71c-71dc57e03e12.jpg"
-  },
-  {
-    "id": "85705186a84e774f",
-    "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
-    "summary": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986 Points: 12 # Comments: 0",
-    "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T23:25:53+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": "https://ridgetext.com/blog/mapbox-llm-composition/fire-perimeter-trail.jpg"
-  },
-  {
-    "id": "212c09bd917e1ad4",
-    "title": "Drone Autonomy Crash Course",
-    "summary": "Article URL: https://www.cggonzalez.com/blog/index.html Comments URL: https://news.ycombinator.com/item?id=48789965 Points: 16 # Comments: 1",
-    "url": "https://www.cggonzalez.com/blog/index.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T23:22:15+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": null
-  },
-  {
-    "id": "257618211680b0f9",
-    "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-    "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-    "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-04T23:17:24+00:00",
-    "fetched": "2026-07-05T07:32:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/799f/live/4ae824d0-76d7-11f1-b508-3b3f1f22a3c1.jpg"
-  },
-  {
-    "id": "1156a299eeb5d477",
-    "title": "Путін привітав Трампа з 250-річчям США і похвалився перед ним захопленням Костянтинівки – Ушаков",
-    "summary": "Помічник російського диктатора Юрій Ушаков заявив, що Володимир Путін провів телефонну розмову з президентом США Дональдом Трампом, під час якої вони обговорили війну в Україні та майбутній саміт НАТО в Туреччині.",
-    "url": "https://www.pravda.com.ua/news/2026/07/05/8042435/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T22:55:00+00:00",
-    "fetched": "2026-07-04T23:36:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/864338/7a67c67b65f62ab70d9ac4f85ff0edcc.jpeg"
-  },
-  {
-    "id": "a54ac843329b5a8a",
-    "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-    "summary": "Article URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets Comments URL: https://news.ycombinator.com/item?id=48789712 Points: 59 # Comments: 13",
-    "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T22:36:28+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": "https://www.mbl.edu/sites/default/files/2026-06/resizing%20for%20article%20header%288%29_0.jpg"
-  },
-  {
-    "id": "0aceebdaf893d635",
-    "title": "New bacterial species discovered in NASA's cleanrooms",
-    "summary": "Article URL: https://www.nature.com/articles/d44151-025-00219-7 Comments URL: https://news.ycombinator.com/item?id=48789699 Points: 6 # Comments: 1",
-    "url": "https://www.nature.com/articles/d44151-025-00219-7",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T22:34:30+00:00",
-    "fetched": "2026-07-04T23:36:37+00:00",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d44151-025-00219-7/d44151-025-00219-7_51741648.jpg"
   }
 ]
