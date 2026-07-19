@@ -1,5 +1,89 @@
 [
   {
+    "id": "499cf91b1e020a32",
+    "title": "Через ворожу атаку на Київ загинула людина – КМВА",
+    "summary": "У Києві в ніч на 19 липня внаслідок російського ракетного удару загинула людина.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044759/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T00:36:00+00:00",
+    "fetched": "2026-07-19T01:04:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/c/875325/6c6491f47dc3314af8bf605b35fe484b.jpeg"
+  },
+  {
+    "id": "934b2be1d06fbafd",
+    "title": "На Сумщині росіяни знищили центр реабілітації – ЗМІ",
+    "summary": "За даними ЗМІ, російські окупанти знищили центр реабілітації дітей та осіб з інвалідністю на Сумщині.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044758/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T00:30:00+00:00",
+    "fetched": "2026-07-19T01:04:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/0/875316/b05446af8be9ae9219ff050304ee9bd7.jpeg"
+  },
+  {
+    "id": "bcf3ccc240e75ebe",
+    "title": "Обійшов Мессі: Кіліан Мбаппе став найкращим бомбардиром в історії чемпіонатів світу з футболу",
+    "summary": "Француз оновив рекорд результативності завдяки дублю у ворота збірної Англії.",
+    "url": "https://lb.ua/sport/2026/07/19/752932_obiyshov_messi_kilian_mbappe.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T00:28:00+00:00",
+    "fetched": "2026-07-19T01:04:39+00:00",
+    "image": "https://i.lb.ua/news/104/17/6a5c1c6620b64.jpg"
+  },
+  {
+    "id": "e492fd47f9180adb",
+    "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+    "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+    "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-18T23:59:26+00:00",
+    "fetched": "2026-07-19T01:04:38+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg"
+  },
+  {
+    "id": "989b84694c8be659",
+    "title": "США атакували Іран у відповідь на удари по Йорданії",
+    "summary": "У ніч на неділю армія США продовжила завдавати ударів по Ірану.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044756/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T23:30:00+00:00",
+    "fetched": "2026-07-19T01:04:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/b/875314/fb01be8fd72a3af7655bcb97ce6a639a.jpeg"
+  },
+  {
+    "id": "d81e3e231d4a7369",
+    "title": "Збірна Англії у матчі з десятьма голами обіграла Францію і виграла бронзові медалі ЧС-2026",
+    "summary": "Підопічні Томаса Тухеля вели з рахунком 4:0 упродовж гри.",
+    "url": "https://lb.ua/sport/2026/07/19/752930_zbirna_angliyi_matchi_z_desyatma.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T23:30:00+00:00",
+    "fetched": "2026-07-19T01:04:39+00:00",
+    "image": "https://i.lb.ua/news/056/12/6a5c0e5254e55.jpg"
+  },
+  {
+    "id": "d6dc55b43892f503",
+    "title": "Codex Resets",
+    "summary": "Article URL: https://codex-resets.com/ Comments URL: https://news.ycombinator.com/item?id=48963465 Points: 61 # Comments: 52",
+    "url": "https://codex-resets.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T23:24:26+00:00",
+    "fetched": "2026-07-19T01:04:39+00:00",
+    "image": null
+  },
+  {
     "id": "34bb0d0f705a8318",
     "title": "Росія атакує Київ ракетами",
     "summary": "Лунали численні вибухи.",
@@ -9,6 +93,18 @@
     "lang": "uk",
     "published": "2026-07-18T22:27:00+00:00",
     "fetched": "2026-07-18T23:28:16+00:00",
+    "image": "https://i.lb.ua/static/logo.480.jpg"
+  },
+  {
+    "id": "8655e48360665d5a",
+    "title": "Росія атакувала Київ ракетами",
+    "summary": "Лунали численні вибухи.",
+    "url": "https://lb.ua/society/2026/07/19/752928_rosiya_atakuvala_kiyiv_raketami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-18T22:27:00+00:00",
+    "fetched": "2026-07-19T01:04:39+00:00",
     "image": "https://i.lb.ua/static/logo.480.jpg"
   },
   {
@@ -358,6 +454,18 @@
     "published": "2026-07-18T19:09:00+00:00",
     "fetched": "2026-07-18T19:17:28+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/875262/b69d14ea32766376e48f89f216991a79.jpeg?w=1200&q=85&stamp=1784402019"
+  },
+  {
+    "id": "3714ed5b9210b6cc",
+    "title": "What's the deal with all the random weekly quota resets for agents lately?",
+    "summary": "Article URL: https://minimaxir.com/2026/07/agent-quota-reset/ Comments URL: https://news.ycombinator.com/item?id=48961157 Points: 18 # Comments: 23",
+    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-18T19:06:23+00:00",
+    "fetched": "2026-07-19T01:04:39+00:00",
+    "image": "https://minimaxir.com/2026/07/agent-quota-reset/featured.png"
   },
   {
     "id": "10a608cf2739eee7",
@@ -48130,77 +48238,5 @@
     "published": "2026-07-05T01:23:11+00:00",
     "fetched": "2026-07-05T07:32:53+00:00",
     "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/THZ7NVPHNNARTKPV23JAQU3VFA.jpg?auth=761ea0ffe3f5f70ba2d1e195a716c34579a6315beb3bee42493fe68e6f2db80e&width=1200&height=600&smart=true"
-  },
-  {
-    "id": "8e4bdc7e5d0861fc",
-    "title": "Egg consumption inversely correlated with Alzheimer's",
-    "summary": "Article URL: https://pubmed.ncbi.nlm.nih.gov/42002260/ Comments URL: https://news.ycombinator.com/item?id=48790349 Points: 48 # Comments: 28",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42002260/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T00:48:15+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-  },
-  {
-    "id": "eaa99695099fa55c",
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
-    "summary": "Article URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/ Comments URL: https://news.ycombinator.com/item?id=48790240 Points: 22 # Comments: 4",
-    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T00:22:25+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": "https://writerbeware.blog/wp-content/uploads/2014/11/Blog-images-scam-3-scaled.jpg"
-  },
-  {
-    "id": "05c5c0f3e8816921",
-    "title": "Франція з голом Мбаппе обіграла Парагвай в 1/8 фіналу ЧС-2026",
-    "summary": "В активі Кіліана сім голів на світовій першості в США, Мексиці та Канаді.",
-    "url": "https://lb.ua/sport/2026/07/05/749622_frantsiya_z_golom_mbappe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-05T00:11:00+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": "https://i.lb.ua/news/032/37/6a49a2db653d4.jpg"
-  },
-  {
-    "id": "85f2e3caf6287f9d",
-    "title": "У Вашингтоні на 250-річчя незалежності США пройшов марш прихильників вищості білої раси",
-    "summary": "У суботу, 4 липня, сотні членів ультраправого угруповання Patriot Front у масках пройшли маршем вулицями Вашингтона під час святкування 250-ї річниці незалежності США.",
-    "url": "https://www.pravda.com.ua/news/2026/07/05/8042437/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-04T23:52:00+00:00",
-    "fetched": "2026-07-05T03:55:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/a/864340/aa6fa90bfc6dd3a1992c34deb348eeeb.jpeg"
-  },
-  {
-    "id": "53b7a46579949108",
-    "title": "Reflections on the Guillotine (1957)",
-    "summary": "Article URL: https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine Comments URL: https://news.ycombinator.com/item?id=48790036 Points: 32 # Comments: 10",
-    "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-04T23:36:11+00:00",
-    "fetched": "2026-07-05T03:55:36+00:00",
-    "image": "https://theanarchistlibrary.org/sitefiles/en/opengraph.png"
-  },
-  {
-    "id": "491c4164c397c563",
-    "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
-    "summary": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
-    "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-04T23:33:27+00:00",
-    "fetched": "2026-07-05T15:16:56+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb10/live/e66eeba0-7803-11f1-b71c-71dc57e03e12.jpg"
   }
 ]
