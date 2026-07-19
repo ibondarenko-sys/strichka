@@ -1,5 +1,53 @@
 [
   {
+    "id": "7e788bbb992fa72b",
+    "title": "Heavy TV watching associated with smaller brain structures, study finds",
+    "summary": "Article URL: https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/ Comments URL: https://news.ycombinator.com/item?id=48971418 Points: 32 # Comments: 1",
+    "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-19T20:25:58+00:00",
+    "fetched": "2026-07-19T20:56:19+00:00",
+    "image": "https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/06/raichlen-sedentary-brain-top.jpg"
+  },
+  {
+    "id": "3cdc8299000dc06c",
+    "title": "Атака РФ на судно в Чорному морі: вже 6 моряків загинули, 4 вважаються зниклими",
+    "summary": "Вже 6 моряків атакованого Росією біля Одеси судна загинули, ще 4 вважаються зниклими безвісти.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044851/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T20:14:00+00:00",
+    "fetched": "2026-07-19T20:56:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/875704/20aa33679ec1661c285731c312528dd8.jpeg"
+  },
+  {
+    "id": "7a46e915c4dd7dbf",
+    "title": "155 бригада отримала нового командира замість арештованого Лучанова",
+    "summary": "Ним став його заступник Андрій Крока.",
+    "url": "https://lb.ua/society/2026/07/19/753068_155_brigada_otrimala_novogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T20:02:00+00:00",
+    "fetched": "2026-07-19T20:56:18+00:00",
+    "image": "https://i.lb.ua/news/066/29/6a5d2c9b53e7c.jpg"
+  },
+  {
+    "id": "201ab9f3f132a084",
+    "title": "На фронті 183 зіткнення, найбільше на Слов'янському напрямку – Генштаб",
+    "summary": "Від початку доби на фронті відбулося 183 бойові зіткнення, зокрема на Слов'янському напрямку зупинено 24 атаки росіян, на Костянтинівському ворог атакував 19 разів, на Покровському – 18.",
+    "url": "https://www.pravda.com.ua/news/2026/07/19/8044850/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T19:45:00+00:00",
+    "fetched": "2026-07-19T20:56:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/875693/8d070b5559d659cf573db0813930d171.jpeg"
+  },
+  {
     "id": "0fac497d9314e7a4",
     "title": "У Києві біля станції метро \"Лук’янівська\" ​облаштовують тимчасовий наземний пішохідний перехід",
     "summary": "Підземний перехід зруйновано внаслідок ворожого обстрілу.",
@@ -22,6 +70,18 @@
     "published": "2026-07-19T19:39:58+00:00",
     "fetched": "2026-07-19T19:46:13+00:00",
     "image": "https://i.guim.co.uk/img/media/fc1cf8802bb8a428bae7dd2c2ca5dc1a17ab6030/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=d1113ffbf37c8307c41ccfae538185d1"
+  },
+  {
+    "id": "6225cfd7b374bcba",
+    "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+    "summary": "Article URL: https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv Comments URL: https://news.ycombinator.com/item?id=48970991 Points: 20 # Comments: 3",
+    "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-19T19:27:16+00:00",
+    "fetched": "2026-07-19T20:56:19+00:00",
+    "image": "https://cdn.videocardz.com/1/2026/07/GTA3-INSIDE-GTA-SA-MOD.webp"
   },
   {
     "id": "16760ad6fcdea7ec",
@@ -48,6 +108,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/875681/618b7bb747ab33e20a37f7efae36a1fe.jpeg"
   },
   {
+    "id": "ad496fe89060b16e",
+    "title": "Orion Browser by Kagi",
+    "summary": "Article URL: https://orionbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=48970894 Points: 17 # Comments: 8",
+    "url": "https://orionbrowser.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-19T19:13:29+00:00",
+    "fetched": "2026-07-19T20:56:19+00:00",
+    "image": "https://orionbrowser.com/orion-og.png"
+  },
+  {
     "id": "021138a72d58b89b",
     "title": "На фронті відбулося 183 боєзіткнення, - Генштаб",
     "summary": "Ворог активний на кількох напрямках.",
@@ -58,6 +130,18 @@
     "published": "2026-07-19T19:07:00+00:00",
     "fetched": "2026-07-19T19:46:12+00:00",
     "image": "https://i.lb.ua/news/098/40/6a5d20547b6a6.jpg"
+  },
+  {
+    "id": "738312e13873f317",
+    "title": "HomeLab #1: MikroTik as a Home Router",
+    "summary": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router Comments URL: https://news.ycombinator.com/item?id=48970772 Points: 23 # Comments: 9",
+    "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-19T18:57:01+00:00",
+    "fetched": "2026-07-19T20:56:19+00:00",
+    "image": null
   },
   {
     "id": "6ce6f552ac7c40ad",
@@ -47830,137 +47914,5 @@
     "published": "2026-07-05T20:59:00+00:00",
     "fetched": "2026-07-05T22:31:48+00:00",
     "image": "https://i.lb.ua/news/098/39/6a4acec15ec0f.jpg"
-  },
-  {
-    "id": "88ade8355b7ce25c",
-    "title": "Pint in England",
-    "summary": "Article URL: https://dispatch-media.com/the-best-pint-in-england/ Comments URL: https://news.ycombinator.com/item?id=48797865 Points: 14 # Comments: 4",
-    "url": "https://dispatch-media.com/the-best-pint-in-england/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:55:47+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": "https://dispatch-media.com/content/images/size/w1200/2026/06/1.jpg"
-  },
-  {
-    "id": "8fd1457d04a207ae",
-    "title": "Dependencies should be fetched directly from VCS",
-    "summary": "Article URL: https://www.arp242.net/deps-vcs.html Comments URL: https://news.ycombinator.com/item?id=48797771 Points: 13 # Comments: 6",
-    "url": "https://www.arp242.net/deps-vcs.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:44:01+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": null
-  },
-  {
-    "id": "f82ce16ce1434385",
-    "title": "Лідерка \"АдН\", яка живе з жінкою, відповіла на маніфест своєї партії щодо \"традиційної сім'ї\"",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/05/8042530/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-05T20:36:00+00:00",
-    "fetched": "2026-07-05T21:07:13+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/2/d/2de170a---.jpg"
-  },
-  {
-    "id": "bfe2ef9a062c2dce",
-    "title": "Show HN: Osint tool that finds exposed files on domains",
-    "summary": "hey guys, wanted to show one of my side projects i just made public. the idea is basically another osint tool for pentesters and bug bounty hunters. it watches certificate transparency logs and checks newly-seen domains for exposed stuff like .env files, open .git dirs, config…",
-    "url": "https://search.cerast-intelligence.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:24:37+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": null
-  },
-  {
-    "id": "114ef594abdc8804",
-    "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
-    "summary": "Article URL: https://segflow.github.io/post/zero-copy-sendfile-splice/ Comments URL: https://news.ycombinator.com/item?id=48797655 Points: 22 # Comments: 1",
-    "url": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:24:31+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": null
-  },
-  {
-    "id": "cac394758cd49043",
-    "title": "Trouble Transitioning (2025)",
-    "summary": "Article URL: https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning Comments URL: https://news.ycombinator.com/item?id=48797501 Points: 4 # Comments: 0",
-    "url": "https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:05:13+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": "https://www.lrb.co.uk/storage/social_image/images/9/5/7/2/30472759-1-eng-GB/9e6caa030cb1-tooze-hp.jpg"
-  },
-  {
-    "id": "325bfb7602cca124",
-    "title": "Генштаб: На фронті від початку доби понад 200 бойових зіткнень з ворогом",
-    "summary": "Загалом від початку доби 5 липня на фронті відбулося 201 бойове зіткнення, найбільше ворог наступає на Гуляйпільському, Слов'янському та Покровському напрямках.",
-    "url": "https://www.pravda.com.ua/news/2026/07/05/8042534/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-05T20:03:00+00:00",
-    "fetched": "2026-07-05T21:07:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/a/864904/aa8123d147e6b36f38797315c03bcc6b.jpeg"
-  },
-  {
-    "id": "fd62813f03eb702f",
-    "title": "Speech and Noise Corpora for Pitch Estimation of Human Speech",
-    "summary": "Article URL: https://zenodo.org/records/3920591 Comments URL: https://news.ycombinator.com/item?id=48797469 Points: 6 # Comments: 0",
-    "url": "https://zenodo.org/records/3920591",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:00:42+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": null
-  },
-  {
-    "id": "f69c0a49c7404c7d",
-    "title": "Cursed circuits #5: capacitance multiplier",
-    "summary": "Article URL: https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier Comments URL: https://news.ycombinator.com/item?id=48797467 Points: 20 # Comments: 0",
-    "url": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T20:00:30+00:00",
-    "fetched": "2026-07-05T22:31:48+00:00",
-    "image": null
-  },
-  {
-    "id": "e3f399f9218e8ead",
-    "title": "Поранена через удар Росії по Харкову 29 червня дівчина померла в лікарні",
-    "summary": "Раніше повідомлялося про одного загиблого і більше 10 постраждалих.",
-    "url": "https://lb.ua/society/2026/07/05/749772_poranena_cherez_udar_rosiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-05T19:59:00+00:00",
-    "fetched": "2026-07-05T21:07:13+00:00",
-    "image": "https://i.lb.ua/news/080/46/6a4ab75eb326c.jpg"
-  },
-  {
-    "id": "196c92e9162d99c9",
-    "title": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
-    "summary": "‘Haiti is a failed state’, says Carlos Giménez, congressman and Miami Cuban exile, after controversial court ruling Carlos Giménez, a Republican congressman from Florida, broke with the Trump administration on Sunday, calling on the White House to reconsider its push to…",
-    "url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-05T19:54:38+00:00",
-    "fetched": "2026-07-05T21:07:13+00:00",
-    "image": "https://i.guim.co.uk/img/media/2264b79b9425157f39e0961676cee0bac524b79e/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=030c688833b69bdabe5b444411a6e40f"
   }
 ]
