@@ -1,5 +1,65 @@
 [
   {
+    "id": "4066124c8b0bb74a",
+    "title": "DeKalb deputy charged with Flock camera misuse; more Georgia officers fired",
+    "summary": "Article URL: https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/ Comments URL: https://news.ycombinator.com/item?id=48973123 Points: 4 # Comments: 2",
+    "url": "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T00:41:32+00:00",
+    "fetched": "2026-07-20T01:05:52+00:00",
+    "image": "https://images.ajc.com/resizer/v2/2R5X3VYCB3SN4CJTIQDW4WDUY4.jpg?auth=b555ec381ca0b5ddbd59f50bd257307814bd88448fc43914a206e2356200ecae&width=1200&height=630&smart=true"
+  },
+  {
+    "id": "0b9c7e79500fc97e",
+    "title": "У столиці РФ заявили про атаку дронів, пабліки повідомили про прильоти в Московській області",
+    "summary": "У ніч на понеділок, 20 липня, в Московській області, а також у низці інших регіонів Росії оголошували ракетну небезпеку, разом з тим влада столиці РФ заявляла про атаку безпілотників, які \"летіли на Москву\".",
+    "url": "https://www.pravda.com.ua/news/2026/07/20/8044860/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-20T00:18:00+00:00",
+    "fetched": "2026-07-20T01:05:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/8/875736/48df452fcde490844925c162c9699b5c.jpeg"
+  },
+  {
+    "id": "81a25053ebd3f7de",
+    "title": "Ask HN: What are your favorite blogs not about AI?",
+    "summary": "Many of my favorite bloggers have stopped writing (or have drastically shifted topics). What are your favorite blogs? I miss the 2009 era of blogging about personal projects or super niche factoids. Comments URL: https://news.ycombinator.com/item?id=48972858 Points: 25 #…",
+    "url": "https://news.ycombinator.com/item?id=48972858",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-19T23:58:12+00:00",
+    "fetched": "2026-07-20T01:05:52+00:00",
+    "image": null
+  },
+  {
+    "id": "d161ec35a9893bb9",
+    "title": "США заявили про нову хвилю ударів по Ірану, які тривають дев’яту ніч поспіль",
+    "summary": "9 ніч поспіль США продовжують завдавати ударів по Ірану.",
+    "url": "https://www.pravda.com.ua/news/2026/07/20/8044859/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T23:30:00+00:00",
+    "fetched": "2026-07-20T01:05:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/1/875727/21a1a082c22c9b728266a3323f1c93fd.jpeg"
+  },
+  {
+    "id": "bcf674f1ede41b85",
+    "title": "Ціни на нафту зросли на 3% після 8-денних ударів між США та Іраном",
+    "summary": "ЗМІ повідомили, як змінюється ціна на нафту після відновлення ударів між США та Іраном.",
+    "url": "https://www.pravda.com.ua/news/2026/07/20/8044858/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-19T23:14:00+00:00",
+    "fetched": "2026-07-20T01:05:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/7/875716/d7087c3049856e86b46c2e77e3f32a3f.jpeg"
+  },
+  {
     "id": "fdb6cca75d0232a8",
     "title": "Окупанти знову перекрили міст, соцмережі повідомили про атаку дронів на Ялту",
     "summary": "У соцмережах пишуть про перекриття Кримського моста і вибухи в окупованій Ялті.",
@@ -82,6 +142,18 @@
     "published": "2026-07-19T21:51:26+00:00",
     "fetched": "2026-07-19T23:02:51+00:00",
     "image": "https://opengraph.githubassets.com/7b7d48b41c26abe10e8f9a855a1a728297373eb2bb462b7fa34ead2f816197a1/Pedroshakoor/grok-build-ios"
+  },
+  {
+    "id": "4d9dba5587f60629",
+    "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+    "summary": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer Comments URL: https://news.ycombinator.com/item?id=48971938 Points: 25 # Comments: 1",
+    "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-19T21:42:12+00:00",
+    "fetched": "2026-07-20T01:05:52+00:00",
+    "image": "https://spectrum.ieee.org/media-library/computer-chips-spread-vertically-across-several-shelves-to-create-a-1-million-probabilistic-bit-computer.jpg?id=67500450&width=1200&height=600&coordinates=0%2C330%2C0%2C170"
   },
   {
     "id": "e3b8080c66d47ee6",
@@ -47794,125 +47866,5 @@
     "published": "2026-07-06T01:26:00+00:00",
     "fetched": "2026-07-06T04:53:44+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/864955/4e40a6ec8edd86028519fb008f9d64a4.jpeg"
-  },
-  {
-    "id": "df10d95f0b771866",
-    "title": "GPT-5.6 Sol Ultra will be in Codex",
-    "summary": "Article URL: https://twitter.com/thsottiaux/status/2073933490513752151 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 151 # Comments: 88",
-    "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-06T01:04:03+00:00",
-    "fetched": "2026-07-06T04:53:47+00:00",
-    "image": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_200x200.jpg"
-  },
-  {
-    "id": "0a5406dd2dc77e94",
-    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-    "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 122 # Comments: 46",
-    "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-06T00:04:48+00:00",
-    "fetched": "2026-07-06T04:53:47+00:00",
-    "image": "https://images.unsplash.com/photo-1713345248737-2698000f143d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMnx8YWl8ZW58MHx8fHwxNzgxNjIwMjk1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "id": "9488cbd6901de368",
-    "title": "Bangladesh courts China even as ties with India improve",
-    "summary": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
-    "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-06T00:02:29+00:00",
-    "fetched": "2026-07-06T04:53:44+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46d/live/7b635980-75f2-11f1-8c3f-e37c76e39331.jpg"
-  },
-  {
-    "id": "b463ef360b993987",
-    "title": "The Private Capture of Public Genius",
-    "summary": "Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius Comments URL: https://news.ycombinator.com/item?id=48799178 Points: 62 # Comments: 19",
-    "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T23:52:20+00:00",
-    "fetched": "2026-07-06T04:53:47+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!jqqi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F899bc8e9-3eb9-4e5f-a6ef-febdf8c248eb_8917x5532.jpeg"
-  },
-  {
-    "id": "66e423b255a328eb",
-    "title": "Has_not_been_viewed_much",
-    "summary": "Article URL: https://iamwillwang.com/notes/has-not-been-viewed-much/ Comments URL: https://news.ycombinator.com/item?id=48799155 Points: 143 # Comments: 38",
-    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T23:49:00+00:00",
-    "fetched": "2026-07-06T04:53:47+00:00",
-    "image": null
-  },
-  {
-    "id": "e7f15896ed250bbe",
-    "title": "Удар по Києву: на Подолі російська ракета поцілила у дев’ятиповерхівку",
-    "summary": "У ніч на 6 липня російська ракета влучила в дев'ятиповерховий житловий будинок у Подільському районі Києва, внаслідок чого сталося його часткове руйнування.",
-    "url": "https://www.pravda.com.ua/news/2026/07/06/8042543/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-05T23:40:00+00:00",
-    "fetched": "2026-07-06T00:11:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/864950/38b89760b74b7f4b8a6cc8a37e073d67.jpeg"
-  },
-  {
-    "id": "eff33f1643ae50ee",
-    "title": "Connections in Math: the two kinds of random",
-    "summary": "Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/ Comments URL: https://news.ycombinator.com/item?id=48799026 Points: 5 # Comments: 0",
-    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T23:31:30+00:00",
-    "fetched": "2026-07-06T00:11:41+00:00",
-    "image": null
-  },
-  {
-    "id": "9cd08cb9a96df3c2",
-    "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
-    "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-05T23:31:04+00:00",
-    "fetched": "2026-07-06T00:11:40+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae5/live/6c2d8350-7868-11f1-ab53-3dbca6ef5ee1.jpg"
-  },
-  {
-    "id": "2b92fd43780475f4",
-    "title": "The African fishermen who blame Chinese trawlers for their woes",
-    "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
-    "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-05T23:30:40+00:00",
-    "fetched": "2026-07-06T00:11:40+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be5/live/fdafa040-6f23-11f1-af60-8d06db225241.jpg"
-  },
-  {
-    "id": "45db783519d6e9bd",
-    "title": "Does Code Cleanliness Affect Coding Agents?",
-    "summary": "Article URL: https://arxiv.org/abs/2605.20049 Comments URL: https://news.ycombinator.com/item?id=48798815 Points: 68 # Comments: 27",
-    "url": "https://arxiv.org/abs/2605.20049",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-05T23:03:55+00:00",
-    "fetched": "2026-07-06T04:53:47+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   }
 ]
