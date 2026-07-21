@@ -1,5 +1,125 @@
 [
   {
+    "id": "1db9c8ac263782c1",
+    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+    "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 9 # Comments: 0",
+    "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T03:56:03+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630"
+  },
+  {
+    "id": "c5672822a1595327",
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "summary": "Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 3 # Comments: 0",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T03:54:16+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": null
+  },
+  {
+    "id": "d22d995a386e73c6",
+    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+    "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/ Comments URL: https://news.ycombinator.com/item?id=48987831 Points: 4 # Comments: 0",
+    "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T03:52:05+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": "https://content.instructables.com/FIM/IWCR/MRPABNRQ/FIMIWCRMRPABNRQ.jpg?auto=webp&frame=1"
+  },
+  {
+    "id": "234034b2c732e217",
+    "title": "Сили оборони України знешкодили ще 1370 російських окупантів – Генштаб",
+    "summary": "Сили оборони України за добу знешкодили 1 370 росіян. Загальні втрати РФ перевищили 1,4 млн осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045060/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T03:45:00+00:00",
+    "fetched": "2026-07-21T04:24:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/b/876696/8b7b67eb4b0e7e4fa53b14429e23672f.jpeg"
+  },
+  {
+    "id": "662ace2c38054770",
+    "title": "США завершили чергову серію ударів по Ірану",
+    "summary": "Армія США вдарила по іранських військових об'єктах для захисту судноплавства в Ормузькій протоці.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045059/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T03:27:00+00:00",
+    "fetched": "2026-07-21T04:24:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/876695/2b73b4c45ecb5ad60779afdfe17352d8.jpeg"
+  },
+  {
+    "id": "fcd300595b863d01",
+    "title": "Is surveillance risk chilling your online speech?",
+    "summary": "Given the expansion of the fed/state/local/corporate surveillance net, do you find yourself expressing yourself less freely on the internet than you did five years ago? Comments URL: https://news.ycombinator.com/item?id=48987634 Points: 27 # Comments: 21",
+    "url": "https://news.ycombinator.com/item?id=48987634",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T03:17:10+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": null
+  },
+  {
+    "id": "fb2cba45e2bed603",
+    "title": "У російському Липецьку спалахнула пожежа в районі ТЕЦ після вибухів",
+    "summary": "У Липецьку після ракетної небезпеки спалахнула пожежа біля ТЕЦ і заводу, в Всеволожську горів завод полімерів.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045058/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T02:55:00+00:00",
+    "fetched": "2026-07-21T04:24:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/0/876694/e0fbbb7e1785b48843cee05378825aa4.jpeg"
+  },
+  {
+    "id": "92905e456a70d82d",
+    "title": "Тарас Чмут: Якщо хтось думає, що зможе побудувати тут авторитарну систему – розчарую. Суспільство цього не дозволить",
+    "summary": "За останній час склалася традиція, що двічі на рік \"Українська правда\" записує інтерв'ю з керівником фонду \"Повернись живим\" Тарасом Чмутом. Адже розмова з ним – це наче звірити компас, щоб розуміти, куди рухаємося.",
+    "url": "https://www.pravda.com.ua/articles/2026/07/21/8045038/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T02:30:00+00:00",
+    "fetched": "2026-07-21T04:24:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/876634/19f128898708f464f739e26bc33f9c5f.jpeg"
+  },
+  {
+    "id": "1967687457f3d588",
+    "title": "Пентагон розповів про втрати пораненими у новій стадії війни з Іраном",
+    "summary": "У міністерстві війни відповіли на закиди ЗМІ щодо приховування наслідків бойових дій для військовослужбовців.",
+    "url": "https://lb.ua/world/2026/07/21/753334_pentagon_rozpoviv_pro_vtrati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T02:28:00+00:00",
+    "fetched": "2026-07-21T04:24:28+00:00",
+    "image": "https://i.lb.ua/news/116/47/6a5ed3f8713ab.jpg"
+  },
+  {
+    "id": "1e18f79251abeb30",
+    "title": "Директор ФБР зібрався відвідати Росію",
+    "summary": "Кеш Пател свого часу діяв в інтересах Кремля у справі про президентські вибори 2016 року.",
+    "url": "https://lb.ua/world/2026/07/21/753332_direktor_fbr_zibravsya_vidvidati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T01:33:00+00:00",
+    "fetched": "2026-07-21T04:24:28+00:00",
+    "image": "https://i.lb.ua/news/114/07/6a5ecc855c23f.jpg"
+  },
+  {
     "id": "43a9a2057713cddd",
     "title": "Директор ФБР планує відвідати Росію – ЗМІ",
     "summary": "Очільник ФБР США Кеш Пател планує поїздку до Росії в жовтні: можливі зустрічі у Москві та Санкт-Петербурзі.",
@@ -22,6 +142,18 @@
     "published": "2026-07-21T00:37:00+00:00",
     "fetched": "2026-07-21T01:00:05+00:00",
     "image": "https://i.lb.ua/news/080/22/6a5ebf7de7f8f.jpg"
+  },
+  {
+    "id": "ace9504c93ad4a36",
+    "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+    "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country Comments URL: https://news.ycombinator.com/item?id=48986731 Points: 207 #…",
+    "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T00:33:53+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": "https://assets.aclu.org/live/uploads/2026/07/flock-camera-closeup-s.jpg"
   },
   {
     "id": "685ca81283b9f873",
@@ -48,6 +180,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/876690/a54488f1d11703e90e36e19de39ea3b3.jpeg"
   },
   {
+    "id": "4ea52742c6f961be",
+    "title": "Jellyfin founder Andrew leaves team",
+    "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes Comments URL: https://news.ycombinator.com/item?id=48986091 Points: 149 # Comments: 85",
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T23:15:41+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": null
+  },
+  {
     "id": "1c79ae7cc82625b3",
     "title": "Армія РФ вдарила ракетами касетного типу по будинках на Харківщині",
     "summary": "Окупанти обстріляли Шевченкове на Харківщині касетними ракетами: є загиблий, 8 поранених, пошкоджено будинки.",
@@ -58,6 +202,18 @@
     "published": "2026-07-20T23:11:00+00:00",
     "fetched": "2026-07-21T01:00:04+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/876689/b2a5b541cf5cc25ec866a2578b15e385.jpeg"
+  },
+  {
+    "id": "9c6bead16cb9e637",
+    "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+    "summary": "Article URL: https://words.filippo.io/passkey-record/ Comments URL: https://news.ycombinator.com/item?id=48985956 Points: 25 # Comments: 5",
+    "url": "https://words.filippo.io/passkey-record/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T23:00:29+00:00",
+    "fetched": "2026-07-21T04:24:29+00:00",
+    "image": "https://assets.buttondown.email/images/15df3c3e-98e0-486d-97e4-7542a638e7f4.jpeg?w=960&fit=max"
   },
   {
     "id": "8834a578b88ceea2",
@@ -48454,113 +48610,5 @@
     "published": "2026-07-07T04:49:00+00:00",
     "fetched": "2026-07-07T07:45:12+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/865581/b68498d311850b52dad6ab028ea6b9a7.jpeg"
-  },
-  {
-    "id": "6fc048ce84b250cc",
-    "title": "Сили оборони України знешкодили ще 1200 російських окупантів – Генштаб",
-    "summary": "Втрати РФ у війні проти України перевищили 1 412 250 осіб, за добу ліквідовано ще 1 200 окупантів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/07/8042744/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T03:48:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/865578/3f68def1a0b5d2d90a87f131f3b7de2b.jpeg"
-  },
-  {
-    "id": "f68beacb57750c97",
-    "title": "China sentences official to death for taking $325m in bribes",
-    "summary": "The 69-year-old helped companies secure valuable contracts in exchange for money, a court heard.",
-    "url": "https://www.bbc.co.uk/news/articles/c33y0n1v1xjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-07T03:36:56+00:00",
-    "fetched": "2026-07-07T19:05:23+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258b/live/2bc73090-79b2-11f1-bebe-3701069fbdcb.jpg"
-  },
-  {
-    "id": "caef04a4f7435116",
-    "title": "Іран атакував комерційне судно поблизу Ормузької протоки",
-    "summary": "Іранські військові випустили ракету по танкеру біля Ормузької протоки, розслідування триває.",
-    "url": "https://www.pravda.com.ua/news/2026/07/07/8042738/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T03:04:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/865572/79a3164069b498ecf992abff6c0d9819.jpeg"
-  },
-  {
-    "id": "c13b0aea8b97f8c2",
-    "title": "Дрон влучив в об'єкт цивільної інфраструктури у Кривому Розі: виникла пожежа",
-    "summary": "У Кривому Розі дрон РФ влучив у цивільну інфраструктуру, виникла велика пожежа. Рятувальники проводять операцію.",
-    "url": "https://www.pravda.com.ua/news/2026/07/07/8042737/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T02:33:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/a/865571/3ad1a4644c86c758ef3e02522e2c938f.jpeg"
-  },
-  {
-    "id": "bb17b613a254dd12",
-    "title": "Українців у Польщі багато, їх легко помітити. У найгіршому разі це може вилитися в погроми – Володимир Вʼятрович",
-    "summary": "\"Джина ненависті легко випустити, але заштовхати назад буде важко\", – вважає Володимир В'ятрович, один із найвідоміших в Україні дослідників визвольного руху та українсько-польських взаємин і очільник Інституту Національної памʼяті у 2014-2019 роках.",
-    "url": "https://www.pravda.com.ua/articles/2026/07/07/8042727/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T02:30:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/d/865549/cd22059809ce268e8dbfe805500c7ac2.jpeg"
-  },
-  {
-    "id": "ddc753a144904093",
-    "title": "Збірна США останньою з господарок вилетіла з Мундіалю-2026",
-    "summary": "Втручання Трампа не допомогло.",
-    "url": "https://lb.ua/sport/2026/07/07/750036_zbirna_ssha_ostannoyu_z.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T02:15:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://i.lb.ua/news/115/41/6a4c5faac7325.jpg"
-  },
-  {
-    "id": "53644386dad45195",
-    "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-    "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
-    "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-07T02:07:15+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg"
-  },
-  {
-    "id": "adb9023424d4a6a1",
-    "title": "Російський Бєлгород зазнав ракетної атаки по газовій інфраструктурі",
-    "summary": "Влучання в об'єкт \"Газпрому\".",
-    "url": "https://lb.ua/society/2026/07/07/750034_rosiyskiy_bielgorod_zaznav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T01:40:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://i.lb.ua/news/112/59/6a4c5ab128cb2.jpg"
-  },
-  {
-    "id": "b152de759a4f05c4",
-    "title": "Бєлгород опинився під ракетним ударом: у регіоні є перебої зі світлом та спалахнули пожежі",
-    "summary": "Вночі 7 липня в Бєлгороді сталися вибухи, пошкоджено газопровід та енергетичну інфраструктуру, є жертви та перебої з водою і світлом.",
-    "url": "https://www.pravda.com.ua/news/2026/07/07/8042735/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T01:23:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/865569/27fad7e5afbc0cc52a13b1f3f193a277.jpeg"
   }
 ]
