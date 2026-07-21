@@ -1,5 +1,65 @@
 [
   {
+    "id": "43a9a2057713cddd",
+    "title": "Директор ФБР планує відвідати Росію – ЗМІ",
+    "summary": "Очільник ФБР США Кеш Пател планує поїздку до Росії в жовтні: можливі зустрічі у Москві та Санкт-Петербурзі.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045056/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T00:50:00+00:00",
+    "fetched": "2026-07-21T01:00:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/876692/22b209e5ae7c4d5858b33ebc94d2a230.jpeg"
+  },
+  {
+    "id": "de554fb399e3b28e",
+    "title": "Проросійський диктатор Нікарагуа заявив про скасування будь-яких виборів в країні",
+    "summary": "Даніель Ортега остаточно руйнує навіть імітацію демократії.",
+    "url": "https://lb.ua/world/2026/07/21/753330_prorosiyskiy_diktator_nikaragua.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T00:37:00+00:00",
+    "fetched": "2026-07-21T01:00:05+00:00",
+    "image": "https://i.lb.ua/news/080/22/6a5ebf7de7f8f.jpg"
+  },
+  {
+    "id": "685ca81283b9f873",
+    "title": "Збірна України визначилась з домашнім стадіоном на Лігу Націй",
+    "summary": "Грати у Польщі \"синьо-жовті\" більше не хочуть.",
+    "url": "https://lb.ua/sport/2026/07/21/753328_zbirna_ukrayini_viznachilas_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-20T23:40:00+00:00",
+    "fetched": "2026-07-21T01:00:05+00:00",
+    "image": "https://i.lb.ua/news/056/16/6a5eb4faaf8fc.jpg"
+  },
+  {
+    "id": "f0b161fd3aa3a3ac",
+    "title": "США запровадили 50% мита на імпорт з Канади",
+    "summary": "США підвищили мита до 50% на низку канадських товарів у відповідь на дискримінацію продукції з США.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045055/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-20T23:39:00+00:00",
+    "fetched": "2026-07-21T01:00:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/876690/a54488f1d11703e90e36e19de39ea3b3.jpeg"
+  },
+  {
+    "id": "1c79ae7cc82625b3",
+    "title": "Армія РФ вдарила ракетами касетного типу по будинках на Харківщині",
+    "summary": "Окупанти обстріляли Шевченкове на Харківщині касетними ракетами: є загиблий, 8 поранених, пошкоджено будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045054/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-20T23:11:00+00:00",
+    "fetched": "2026-07-21T01:00:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/876689/b2a5b541cf5cc25ec866a2578b15e385.jpeg"
+  },
+  {
     "id": "8834a578b88ceea2",
     "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
     "summary": "New report denounces Havana and claims ‘campaign of subversion’ has infiltrated highest levels of US government As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups…",
@@ -10,6 +70,18 @@
     "published": "2026-07-20T22:50:46+00:00",
     "fetched": "2026-07-20T23:03:42+00:00",
     "image": "https://i.guim.co.uk/img/media/e06e272d55a8b716359d5f30cebc2d6c055613db/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5fd491c1afb4077a06e369c41deee83f"
+  },
+  {
+    "id": "e0f8f7b31a8deb8b",
+    "title": "До України приїхала блогерка з оточення Трампа Лора Лумер",
+    "summary": "Блогерка Лора Лумер відвідала Україну, щоб особисто перевірити факти російської пропаганди й поділитися побаченим.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045053/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-20T22:47:00+00:00",
+    "fetched": "2026-07-21T01:00:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/a/876687/3a8ace1f481372d879c122d6928944a0.jpeg"
   },
   {
     "id": "abdc2416e82ccde6",
@@ -60,6 +132,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "11a5d5cb495f1148",
+    "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+    "summary": "Pennsylvania cop charged with oppression and obstruction.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T22:15:51+00:00",
+    "fetched": "2026-07-21T01:00:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-1152x648.jpg"
+  },
+  {
     "id": "d30ea08e8ea2fa4c",
     "title": "Російські війська вдарили по Шевченковому на Харківщині ракетами касетного типу: є жертви та поранені",
     "summary": "Удар припав на густонаселений мікрорайон багатоквартирних будинків.",
@@ -70,6 +154,18 @@
     "published": "2026-07-20T21:56:00+00:00",
     "fetched": "2026-07-20T23:03:42+00:00",
     "image": "https://i.lb.ua/news/125/40/6a5e98f8ceb58.jpg"
+  },
+  {
+    "id": "594b8c34707984d5",
+    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+    "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+    "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T21:55:52+00:00",
+    "fetched": "2026-07-21T01:00:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-1152x648.png"
   },
   {
     "id": "c4c2871795708324",
@@ -94,6 +190,18 @@
     "published": "2026-07-20T21:45:00+00:00",
     "fetched": "2026-07-20T23:03:42+00:00",
     "image": "https://i.lb.ua/news/002/20/6a5e9700bde48.jpg"
+  },
+  {
+    "id": "8a7bc057ddb45b30",
+    "title": "США завдають нових ударів по Ірану",
+    "summary": "CENTCOM повідомило про нову серію ударів США по Ірану у відповідь на атаки та тиск щодо безпеки в Ормузькій протоці.",
+    "url": "https://www.pravda.com.ua/news/2026/07/21/8045052/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-20T21:44:00+00:00",
+    "fetched": "2026-07-21T01:00:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/876681/73d005b21eac3c678a8496ab2335ccdb.jpeg"
   },
   {
     "id": "101984db5ac661e1",
@@ -180,6 +288,18 @@
     "image": "https://i.lb.ua/news/042/00/6a5e92b11ce36.jpg"
   },
   {
+    "id": "a395bb32fd32aaab",
+    "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+    "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T21:10:14+00:00",
+    "fetched": "2026-07-21T01:00:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg"
+  },
+  {
     "id": "d299f4599f1f842f",
     "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
     "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
@@ -261,6 +381,18 @@
     "lang": "en",
     "published": "2026-07-20T20:30:25+00:00",
     "fetched": "2026-07-20T21:44:17+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-1152x648-1784578136.jpg"
+  },
+  {
+    "id": "98ef2225af28dfa1",
+    "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+    "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
+    "url": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-20T20:30:25+00:00",
+    "fetched": "2026-07-21T01:00:05+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-1152x648-1784578136.jpg"
   },
   {
@@ -48430,137 +48562,5 @@
     "published": "2026-07-07T01:23:00+00:00",
     "fetched": "2026-07-07T03:53:00+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/865569/27fad7e5afbc0cc52a13b1f3f193a277.jpeg"
-  },
-  {
-    "id": "dffd67a357a3af36",
-    "title": "Why some African nations are turning down Trump aid money",
-    "summary": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-    "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-07T00:49:08+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/e2f21850-763f-11f1-b976-0b9c15b0ccfc.jpg"
-  },
-  {
-    "id": "cb0543c835542f64",
-    "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-    "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-    "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-07T00:46:03+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91be/live/fc88efc0-7985-11f1-9510-1546718f668b.jpg"
-  },
-  {
-    "id": "ee6605ab6c6ba210",
-    "title": "У США розпочалося попереднє слухання справи про вбивство Чарлі Кірка",
-    "summary": "У суду є 5 днів для того, щоб вирішити, чи достатньо доказів проти Тайлера Робінсона.",
-    "url": "https://lb.ua/world/2026/07/07/750032_ssha_rozpochalosya_poperednie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T00:36:00+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://i.lb.ua/news/106/42/6a4c4f422803b.jpg"
-  },
-  {
-    "id": "d248fccd46d805a4",
-    "title": "How to sequence your own DNA at home",
-    "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Comments URL: https://news.ycombinator.com/item?id=48812156 Points: 86 # Comments: 22",
-    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-07T00:14:21+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f7bd0bf9-fe1a-4481-ae32-a529633a4c5d/img_4423/public"
-  },
-  {
-    "id": "224f5f92f80babe9",
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
-    "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 39 # Comments: 10",
-    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-06T23:59:54+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67101133&width=1200&height=600&coordinates=0%2C889%2C0%2C361"
-  },
-  {
-    "id": "f79fe4a1c10df5a8",
-    "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
-    "summary": "Hiya! So I've been playing around with having Claude make videos for a bit now even had some success posting the results to TikTok (and setup a whole pipeline so Claude can generate and post autonomously). With the release of Nano Banana 2 Lite, I was curious show fast I could…",
-    "url": "https://instantvideos.org/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-06T23:58:38+00:00",
-    "fetched": "2026-07-07T07:45:13+00:00",
-    "image": null
-  },
-  {
-    "id": "2a3806b0fc90fad0",
-    "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-    "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-06T23:55:53+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg"
-  },
-  {
-    "id": "0c1fe16ac3621485",
-    "title": "NSA and IETF: Fairness",
-    "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html Comments URL: https://news.ycombinator.com/item?id=48811887 Points: 87 # Comments: 80",
-    "url": "https://blog.cr.yp.to/20260706-fairness.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-06T23:33:54+00:00",
-    "fetched": "2026-07-07T07:45:13+00:00",
-    "image": null
-  },
-  {
-    "id": "16d2b9e638989afa",
-    "title": "Chinese government tells critics not to ‘overinterpret’ missile test in Pacific as criticism grows",
-    "summary": "The Australian government says there was ‘insufficient notice’ as details of missile path are released by Taiwan government China’s missile test in the Pacific did not comply with international law and was conducted with “insufficient notice” to nearby countries, officials in…",
-    "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-06T23:33:52+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": "https://i.guim.co.uk/img/media/eb62fd438a63ba5f189cafa57f0e1e6778ee8022/117_0_2108_1687/master/2108.jpg?width=140&quality=85&auto=format&fit=max&s=36b4507a044498a7b8aa457ce3ec6677"
-  },
-  {
-    "id": "a07055ef49d41658",
-    "title": "У принца Гаррі знову конфлікт з королівською родиною - тепер через розміщення на час візиту у Лондон",
-    "summary": "Версія Букінгемського палацу відрізняється від того, що кажуть в оточенні Гаррі.",
-    "url": "https://lb.ua/world/2026/07/07/750030_printsa_garri_znovu_konflikt_z.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-06T23:29:00+00:00",
-    "fetched": "2026-07-06T23:39:09+00:00",
-    "image": "https://i.lb.ua/news/013/60/6a4c3b8c2c333.jpg"
-  },
-  {
-    "id": "3fc5c87d9d3fcb5c",
-    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-    "summary": "Article URL: https://ternlight-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48811644 Points: 115 # Comments: 34",
-    "url": "https://ternlight-demo.vercel.app/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-06T23:06:31+00:00",
-    "fetched": "2026-07-07T03:53:00+00:00",
-    "image": null
   }
 ]
