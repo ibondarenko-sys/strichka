@@ -1,5 +1,101 @@
 [
   {
+    "id": "dd5b31d5f9c9b4f9",
+    "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+    "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+    "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T23:01:23+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-1152x648.jpg"
+  },
+  {
+    "id": "4d6fd8fb3af5e23c",
+    "title": "An Engineer's Guide to USB Type-C [pdf]",
+    "summary": "Article URL: https://www.ti.com/lit/eb/slyy228/slyy228.pdf Comments URL: https://news.ycombinator.com/item?id=48999376 Points: 5 # Comments: 1",
+    "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T22:45:27+00:00",
+    "fetched": "2026-07-21T23:31:47+00:00",
+    "image": null
+  },
+  {
+    "id": "7c0436e676a3319e",
+    "title": "Трамп пообіцяв \"розібратися\" з хуситами, якщо вони заблокують шлях у Червоне море",
+    "summary": "Ситуація на Близькому Сході загострюється, а нафта знову росте.",
+    "url": "https://lb.ua/world/2026/07/22/753546_tramp_poobitsyav_rozibratisya_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T22:42:00+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://i.lb.ua/news/117/48/6a5ff9a97c8e0.jpg"
+  },
+  {
+    "id": "fe47182aaef83dd2",
+    "title": "Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
+    "summary": "Article URL: https://github.com/MatheuZSecurity/Furtex Comments URL: https://news.ycombinator.com/item?id=48999323 Points: 3 # Comments: 0",
+    "url": "https://github.com/MatheuZSecurity/Furtex",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T22:39:58+00:00",
+    "fetched": "2026-07-21T23:31:47+00:00",
+    "image": "https://repository-images.githubusercontent.com/1305154003/6358233d-5236-429a-80df-e15ec8609ecb"
+  },
+  {
+    "id": "fff831fa60d097e1",
+    "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+    "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK resident was medically evacuated from the…",
+    "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-21T22:39:00+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://i.guim.co.uk/img/media/f82b08d31127854cb9dff7de7c18ede5377fc00d/504_95_4607_3685/master/4607.jpg?width=140&quality=85&auto=format&fit=max&s=657449af45b15efa81429366bfbcaa9e"
+  },
+  {
+    "id": "3a5d3053d25b8562",
+    "title": "Трамп доручив скасувати угоди про нерозголошення даних щодо НЛО",
+    "summary": "Трамп скасував NDA для ексдержслужбовців, щоб розкрити нову інформацію про UAP. Дані можуть публікувати після перевірки.",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045250/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T22:38:00+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/877482/0ed34286def10e9dce0c3510b8488154.jpeg"
+  },
+  {
+    "id": "162a22c492bcf29a",
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "summary": "Article URL: https://fireworks.ai/blog/kimik3-fable Comments URL: https://news.ycombinator.com/item?id=48999291 Points: 90 # Comments: 37",
+    "url": "https://fireworks.ai/blog/kimik3-fable",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T22:35:24+00:00",
+    "fetched": "2026-07-21T23:31:47+00:00",
+    "image": "https://cdn.sanity.io/images/pv37i0yn/production/4f0b611f9b0ec4e15ea45aabe369a3ba88fe4abf-2048x1152.svg"
+  },
+  {
+    "id": "5e735ead72a27d27",
+    "title": "Двоє пожежників загинули під час ліквідації займання біля аеропорту французького Бордо",
+    "summary": "Регіон останніми днями потерпає від лісових пожеж через аномальну спеку.",
+    "url": "https://lb.ua/world/2026/07/22/753544_dvoie_pozhezhnikiv_zaginuli_pid.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-21T22:22:00+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://i.lb.ua/news/089/21/6a5ff29bef08f.jpg"
+  },
+  {
     "id": "45095198141eb13e",
     "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
     "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios,…",
@@ -10,6 +106,18 @@
     "published": "2026-07-21T22:06:43+00:00",
     "fetched": "2026-07-21T22:27:36+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "f7b732521aeefd78",
+    "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+    "summary": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+    "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T22:04:56+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-1080x648.jpg"
   },
   {
     "id": "2e193e4944d428ff",
@@ -58,6 +166,18 @@
     "published": "2026-07-21T21:40:00+00:00",
     "fetched": "2026-07-21T22:27:36+00:00",
     "image": "https://i.lb.ua/news/054/55/6a5fe69030c38.jpg"
+  },
+  {
+    "id": "bf82e94d12a8f1fd",
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "summary": "Article URL: https://ai.google.dev/gemini-api/docs/latest-model Comments URL: https://news.ycombinator.com/item?id=48998606 Points: 13 # Comments: 2",
+    "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T21:27:54+00:00",
+    "fetched": "2026-07-21T23:31:47+00:00",
+    "image": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
   },
   {
     "id": "8f2495e6efe5e229",
@@ -276,6 +396,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/877460/0ae92beee7d174c895788e162f4ec5c0.jpeg"
   },
   {
+    "id": "78052867c16ec8de",
+    "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
+    "summary": "\"Maybe that's my responsibility, to live alone with the truth.\"",
+    "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T19:50:10+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-1152x648-1784661224.jpg"
+  },
+  {
     "id": "0f3ef5061c91ee59",
     "title": "Від початку доби на фронті відбулося 188 бойових зіткнень – Генштаб",
     "summary": "На фронті від початку доби 21 липня зафіксували 188 бойових зіткнень, з них 24 на Слов'янському напрямку і 23 – на Покровському.",
@@ -334,6 +466,18 @@
     "published": "2026-07-21T19:41:00+00:00",
     "fetched": "2026-07-21T21:14:56+00:00",
     "image": "https://cdn.ain.ua/ua/articles/2026-07-21/3KcbnHjTERxTdvvoaIqYXcXXbBuEVT06lS4DjE86.webp"
+  },
+  {
+    "id": "8631720c03407a81",
+    "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
+    "summary": "Taylor Farms stirred confusion on FDA test and provided a vague recall list.",
+    "url": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-21T19:39:10+00:00",
+    "fetched": "2026-07-21T23:31:44+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg"
   },
   {
     "id": "22098ef7626100a0",
@@ -48862,77 +49006,5 @@
     "published": "2026-07-07T23:54:00+00:00",
     "fetched": "2026-07-08T00:01:34+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/6/866629/c676323742203f9dd5125e59e0a2d64f.jpeg"
-  },
-  {
-    "id": "6fd99c89e9cc4141",
-    "title": "Show HN: Free Mermaid Diagram Editor",
-    "summary": "I've been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on Google rankings so I figured I'd share in case people find it useful! We also have…",
-    "url": "https://moxiedocs.com/mermaid-diagram-editor",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-07T23:29:36+00:00",
-    "fetched": "2026-07-08T03:55:18+00:00",
-    "image": "https://moxiedocs.com/opengraph-image"
-  },
-  {
-    "id": "fa548bf21c005f1b",
-    "title": "Git Hash Chain Malleability",
-    "summary": "Article URL: https://arxiv.org/abs/2607.02820 Comments URL: https://news.ycombinator.com/item?id=48825356 Points: 9 # Comments: 5",
-    "url": "https://arxiv.org/abs/2607.02820",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-07T23:21:03+00:00",
-    "fetched": "2026-07-08T03:55:18+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "d198ada932595fce",
-    "title": "У Харкові через влучання балістики пошкоджені приватні будинки (оновлено)",
-    "summary": "Як і Київ та Одеса, місто зазнало обстрілу вночі.",
-    "url": "https://lb.ua/society/2026/07/08/750292_harkovi_cherez_vluchannya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T23:20:00+00:00",
-    "fetched": "2026-07-08T00:01:35+00:00",
-    "image": "https://i.lb.ua/news/083/52/6a4d8b2ea2973.jpg"
-  },
-  {
-    "id": "32488e44578e676b",
-    "title": "Ракетний удар по Одесі: кількість постраждалих зросла до 10",
-    "summary": "Внаслідок ракетного удару по Одесі постраждали 10 осіб, восьмеро госпіталізовані, одна людина у важкому стані.",
-    "url": "https://www.pravda.com.ua/news/2026/07/08/8042950/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T23:16:00+00:00",
-    "fetched": "2026-07-08T00:01:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/5/866628/e5f6fabb252c036b3fc0380f578341fe.jpeg"
-  },
-  {
-    "id": "5abebb06bb586151",
-    "title": "Швейцарія вийшла у чвертьфінал чемпіонату світу після серії пенальті з Колумбією",
-    "summary": "Визначився суперник для Аргентини.",
-    "url": "https://lb.ua/sport/2026/07/08/750290_shveytsariya_viyshla_chvertfinal.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-07T22:50:00+00:00",
-    "fetched": "2026-07-08T00:01:35+00:00",
-    "image": "https://i.lb.ua/news/101/22/6a4d84cd32e7b.jpg"
-  },
-  {
-    "id": "84d3e254fd8d955e",
-    "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-    "summary": "Cases have risen quickly as officials are working to identify a common source.",
-    "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-07T22:29:00+00:00",
-    "fetched": "2026-07-08T00:01:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-700x648.jpg"
   }
 ]
