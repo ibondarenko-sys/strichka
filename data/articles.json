@@ -1,5 +1,221 @@
 [
   {
+    "id": "3a331cc9566530ce",
+    "title": "Кабмін погодив Тимура Ткаченка на посаду очільника Київської ОВА",
+    "summary": "Раніше він очолював Київську МВА.",
+    "url": "https://lb.ua/news/2026/07/22/753808_kabmin_pogodiv_timura_tkachenka.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:48:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/058/57/6a611e9f6fc78.jpg"
+  },
+  {
+    "id": "2b750577154c56e9",
+    "title": "На сьомий день люди знову вийшли на мітинги проти відставки Федорова з посади міністра оборони",
+    "summary": "У Києві та інших містах України сьомий день тривають протести проти відставки Михайла Федорова з посади міністра оборони.",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045428/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:45:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/878235/350a853bf2248564f99198d2d60c0d9c.jpeg"
+  },
+  {
+    "id": "e0d14974403226b9",
+    "title": "Уряд погодив призначення екскерівника КМВА Ткаченка головою Київської ОДА",
+    "summary": "Кабінет міністрів 22 липня погодив призначення колишнього керівника КМВА Ткаченка Тимура головою Київської ОДА.",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045426/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:25:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/878233/8e6cb25623a5c8b5ae446a06af4f9aec.jpeg"
+  },
+  {
+    "id": "7314f15d2e94ee61",
+    "title": "Генштаб: від початку доби на фронті відбулося 211 бойових зіткнень",
+    "summary": "Найгарячіше на Покровському та Слов'янському напрямках.",
+    "url": "https://lb.ua/society/2026/07/22/753802_genshtab_vid_pochatku_dobi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:24:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/117/09/6a6118e6da04c.jpg"
+  },
+  {
+    "id": "de45125c076a0e6c",
+    "title": "Окупаційна влада Харківщини відкрила кримінальну справу проти гурту \"Жадан і собаки\"",
+    "summary": "Музикантів звинувачують у дискредитації російських збройних сил та фінансуванні Сил оборони України.",
+    "url": "https://lb.ua/society/2026/07/22/753806_okupatsiyna_vlada_harkivschini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:18:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/019/55/6a6117866098f.jpg"
+  },
+  {
+    "id": "0bd166e9d66d4be0",
+    "title": "Price-hiked iPads are a little cheaper right now",
+    "summary": "A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently happening is on the 13-inch iPad Pro M5 with 512GB of storage. Normally $1,699,…",
+    "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T19:14:31+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/apple-ipad-pro-m5-roundup-deal.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "4d0d59c7e68862dd",
+    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+    "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing…",
+    "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T19:13:21+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7eb2b6627d80a37a",
+    "title": "У США початок судового процесу над Мадуро призначили на 1 червня 2027 року",
+    "summary": "Захопленого США президента Венесуели Ніколаса Мадуро у середу привезли до суду у Нью-Йорку, де призначили дату судового процесу над ним за висунутими звинуваченнями.",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045425/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:08:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/878232/c37e06969e908abecc55b59cd03f333f.jpeg"
+  },
+  {
+    "id": "7b53e2f6279f7680",
+    "title": "​Сибіга: Україна скликає Радбез ООН через атаки РФ на чорноморський морський коридор",
+    "summary": "22 липня жоден корабель не пройшов коридором.",
+    "url": "https://lb.ua/society/2026/07/22/753804_sibiga_ukrayina_sklikaie_radbez.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T19:03:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/021/53/6a61140fdac1e.jpg"
+  },
+  {
+    "id": "4d627dc363e6f08f",
+    "title": "Окупанти атакували безпілотником підприємство в Запоріжжі",
+    "summary": "На місці влучання виникла пожежа.",
+    "url": "https://lb.ua/society/2026/07/22/753800_okupanti_atakuvali_bezpilotnikom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:58:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/115/33/6a6112f09c164.jpg"
+  },
+  {
+    "id": "54046684094f8c15",
+    "title": "ЄС не зміг ухвалити 21-й пакет санкцій проти Росії, дискусія продовжиться 23 липня",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045424/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:52:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/a/6/a601780-greek-shipping-new-public-domain.jpg"
+  },
+  {
+    "id": "69db7ea4767be2f4",
+    "title": "Суд у США призначив дату розгляду справи проти Ніколаса Мадуро",
+    "summary": "Перше засідання припадає на 1 червня 2027 року.",
+    "url": "https://lb.ua/world/2026/07/22/753798_sud_ssha_priznachiv_datu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:51:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/043/57/6a61112b96ec4.jpg"
+  },
+  {
+    "id": "2df1e7e6bd349b54",
+    "title": "Росіяни вдарили FPV-дронами по підприємству на Харківщині",
+    "summary": "За попередніми даними, обійшлося без постраждалих.",
+    "url": "https://lb.ua/society/2026/07/22/753796_rosiyani_vdarili_fpv-dronami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:43:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/087/62/6a610f5bcb6ac.jpg"
+  },
+  {
+    "id": "207d3a9aea8b2a0f",
+    "title": "Росіяни вдруге за день атакували FPV-дроном АЗС у Харкові, є постраждала",
+    "summary": "Російські війська 22 липня вдруге атакували АЗС у Харкові: постраждала 22-річна дівчина.",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045423/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:34:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/878215/3588fc65b66e86688666a4545e09f341.jpeg"
+  },
+  {
+    "id": "17662a3cfce0cced",
+    "title": "На Кирилівському озері в Києві виявили нові витоки нафтопродуктів після ворожої атаки",
+    "summary": "Екологи також встановили факт ймовірного забруднення прибережної захисної смуги озера.",
+    "url": "https://lb.ua/kyiv/2026/07/22/753794_kirilivskomu_ozeri_kiievi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:27:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/030/59/6a610ba94d910.jpg"
+  },
+  {
+    "id": "9a234c69deebc690",
+    "title": "Михайло Драпатий: що відомо про нового головнокомандувача ЗСУ",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/22/8045422/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:23:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/878209/2284f1f9594c370b8673e7afc9823965.jpeg?w=1200&q=85&stamp=1784744316"
+  },
+  {
+    "id": "46cb8ce6f449e78a",
+    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+    "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
+    "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T18:18:12+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-1152x648.jpg"
+  },
+  {
+    "id": "79877fb6bfa338c7",
+    "title": "Посли країн ЄС планують узгодити новий пакет санкцій проти Росії у четвер",
+    "summary": "Консультації все ще тривають.",
+    "url": "https://lb.ua/world/2026/07/22/753792_posli_krayin_ies_planuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:15:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://i.lb.ua/news/082/57/6a6108e30f1de.jpg"
+  },
+  {
     "id": "afacf306e31c77b3",
     "title": "Суд залишив у силі заборону на публікацію розслідування про 143 об'єкти нерухомості брата директора ДБР – ЦПК",
     "summary": "Суддя Печерського районного суду Києва Сергій Вовк відмовився скасувати заборону на публікацію розслідування \"Слідства.Інфо\" та Центру протидії корупції про 143 об'єкти нерухомості, які, за даними журналістів, належали брату директора Державного бюро розслідувань Олексія…",
@@ -36,6 +252,18 @@
     "image": "https://cdn.ain.ua/ua/articles/2026-07-22/YkTaH0A10yUcSGPiZ1rUJy4qhTfBTbTCh0GMfhHE.webp"
   },
   {
+    "id": "d2c036508a7d62d1",
+    "title": "Михайло Драпатий на чолі ЗСУ: чи стане новий головком символом іншої армії?",
+    "summary": "Відколи учасники картонкового майдану почали скандувати на площах українських міст не лише \"за повернення Федорова\", а й \"за відставку Сирського\", найбільш обговорюваним у суспільстві питанням стало те, чи відбудуться зміни в керівництві армії.",
+    "url": "https://www.pravda.com.ua/articles/2026/07/22/8045412/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T18:00:00+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/878200/7a346cf15b8667f6449440dbac6bcfd4.jpeg"
+  },
+  {
     "id": "2d0d46aef5d7dc79",
     "title": "На Закарпатті викрили підпільне виготовлення документів із печатками державних органів",
     "summary": "В звичайному гаражі виготовляли фальшиві водійські посвідчення, свідоцтва про народження та інші офіційні документи.",
@@ -70,6 +298,18 @@
     "published": "2026-07-22T17:54:00+00:00",
     "fetched": "2026-07-22T18:15:35+00:00",
     "image": "https://i.lb.ua/news/048/22/6a61034cc2e8b.jpg"
+  },
+  {
+    "id": "2a21281a6027871a",
+    "title": "Everyone Should Know SIMD",
+    "summary": "Article URL: https://mitchellh.com/writing/everyone-should-know-simd Comments URL: https://news.ycombinator.com/item?id=49010648 Points: 39 # Comments: 10",
+    "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T17:48:18+00:00",
+    "fetched": "2026-07-22T19:52:54+00:00",
+    "image": null
   },
   {
     "id": "b70b835089ce771d",
@@ -120,6 +360,18 @@
     "image": "https://i.lb.ua/news/072/47/6a60ff6c270c4.jpg"
   },
   {
+    "id": "8fcc591b02ebed1d",
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "summary": "Article URL: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56 Comments URL: https://news.ycombinator.com/item?id=49010345 Points: 275 # Comments: 133",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T17:30:40+00:00",
+    "fetched": "2026-07-22T19:52:54+00:00",
+    "image": "https://cdn.openai.com/chatgpt/share-og.png"
+  },
+  {
     "id": "871a2926de70c670",
     "title": "Сили оборони: Росія посилила наступ Куп'янському напрямку",
     "summary": "Ефективність ворожих наступів залишається низькою.",
@@ -142,6 +394,30 @@
     "published": "2026-07-22T17:24:00+00:00",
     "fetched": "2026-07-22T18:15:35+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/4/878193/f46f20bcde212ced5ad57456a175c3c5.jpeg"
+  },
+  {
+    "id": "e08b4c6de43cfaee",
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "summary": "Article URL: https://github.com/marcelroed/gigatoken/ Comments URL: https://news.ycombinator.com/item?id=49010167 Points: 156 # Comments: 27",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T17:20:38+00:00",
+    "fetched": "2026-07-22T19:52:54+00:00",
+    "image": "https://opengraph.githubassets.com/dd8a1aba57d3ecbeb88f5ea2c2e2bce79a42e09d07a88649c156e1fcf785e8a0/marcelroed/gigatoken"
+  },
+  {
+    "id": "6e8a63b0c20dd747",
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 118 # Comments: 44",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T17:17:54+00:00",
+    "fetched": "2026-07-22T19:52:54+00:00",
+    "image": "https://dylancastillo.co/posts/images/social_media_card.webp"
   },
   {
     "id": "a0e87c2b766d6fdd",
@@ -204,6 +480,18 @@
     "image": "https://i.lb.ua/news/074/24/6a60f6ff66d3b.jpg"
   },
   {
+    "id": "6f472f51e23cb551",
+    "title": "Next Space Force chief throws cold water on the idea of space privateers",
+    "summary": "It turns out some of Benjamin Franklin's opinions from 240 years ago are still relevant today.",
+    "url": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T17:02:44+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-3071177-1152x648.jpg"
+  },
+  {
     "id": "1f4a77039fb1ea96",
     "title": "Під Одесою тліють 8 гектарів трави та очерету: людям радять менше перебувати на вулиці",
     "summary": "Під Одесою тліють близько 8 гектарів трави та очерету, через їдкий запах диму людям радять менше перебувати на вулиці.",
@@ -226,6 +514,18 @@
     "published": "2026-07-22T16:50:00+00:00",
     "fetched": "2026-07-22T16:56:47+00:00",
     "image": "https://i.lb.ua/news/061/51/6a60f3f87ef7b.jpg"
+  },
+  {
+    "id": "5d0c6b9d07fb1e21",
+    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+    "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T16:47:49+00:00",
+    "fetched": "2026-07-22T19:52:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-1152x648.jpg"
   },
   {
     "id": "4d5be28a015ac10b",
@@ -502,6 +802,18 @@
     "published": "2026-07-22T15:47:10+00:00",
     "fetched": "2026-07-22T16:56:46+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Fold8-Fan-Cam.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "05846c603fed017a",
+    "title": "Does creatine make you smarter?",
+    "summary": "Article URL: https://dynomight.net/creatine/ Comments URL: https://news.ycombinator.com/item?id=49008642 Points: 143 # Comments: 139",
+    "url": "https://dynomight.net/creatine/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T15:45:18+00:00",
+    "fetched": "2026-07-22T19:52:54+00:00",
+    "image": "https://dynomight.net/img/creatine/the_biglin_brothers_racing.jpg"
   },
   {
     "id": "8b807e4c9f7e8f7d",
@@ -49342,185 +49654,5 @@
     "published": "2026-07-08T19:56:37+00:00",
     "fetched": "2026-07-08T22:33:34+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-1024x648.jpg"
-  },
-  {
-    "id": "67531f33e283b280",
-    "title": "Almost Always Unsigned",
-    "summary": "Article URL: https://graphitemaster.github.io/aau/ Comments URL: https://news.ycombinator.com/item?id=48836431 Points: 14 # Comments: 5",
-    "url": "https://graphitemaster.github.io/aau/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T19:35:07+00:00",
-    "fetched": "2026-07-08T22:33:34+00:00",
-    "image": null
-  },
-  {
-    "id": "4c47226f5cbe0a5d",
-    "title": "Російські війська скинули авіабомбу на Дружківку в Донецькій області: є загиблі та постраждалі",
-    "summary": "Російські війська 8 липня скинули авіабомбу на Дружківку на Донеччині: троє людей загинули, ще двоє отримали поранення.",
-    "url": "https://www.pravda.com.ua/news/2026/07/08/8043141/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T19:28:00+00:00",
-    "fetched": "2026-07-08T21:13:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/867466/f33b4a7be4b13f479aa8eab773234d84.jpeg"
-  },
-  {
-    "id": "bb02e367c8d1f6b8",
-    "title": "New Sweden: the US's long-lost 'secret' colony",
-    "summary": "Article URL: https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony Comments URL: https://news.ycombinator.com/item?id=48836324 Points: 28 # Comments: 2",
-    "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T19:26:18+00:00",
-    "fetched": "2026-07-09T00:15:49+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0nvtng9.jpg"
-  },
-  {
-    "id": "2c835aeb06a8d4e6",
-    "title": "219 бойових зіткнень відбулось на фронті від початку доби",
-    "summary": "Найбільше ворожих атак зафіксовано на Покровському, Костянтинівському, Слов'янському та Гуляйпільському напрямках.",
-    "url": "https://lb.ua/society/2026/07/08/750548_219_boyovih_zitknen_vidbulos.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T19:25:00+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://i.lb.ua/news/119/10/6a4ea41c6cba0.jpg"
-  },
-  {
-    "id": "ef9ebd1751a903ef",
-    "title": "Cloudflare Drop",
-    "summary": "Article URL: https://www.cloudflare.com/drop/ Comments URL: https://news.ycombinator.com/item?id=48836233 Points: 61 # Comments: 34",
-    "url": "https://www.cloudflare.com/drop/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T19:18:26+00:00",
-    "fetched": "2026-07-08T21:13:22+00:00",
-    "image": "https://www.cloudflare.com/_summon/og-image.png"
-  },
-  {
-    "id": "1bdee488cac18a88",
-    "title": "СЗРУ: Казахстан ухвалив нову конституцію і поволі віддаляється від Росії",
-    "summary": "",
-    "url": "https://lb.ua/world/2026/07/08/750540_szru_kazahstan_uhvaliv_novu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T19:15:00+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://i.lb.ua/news/023/33/6a4ea1c04d0e0.jpg"
-  },
-  {
-    "id": "d2880d8e01497885",
-    "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
-    "summary": "Kalshi tried to ignore gambling laws on its prediction market, NY governor says.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T19:14:02+00:00",
-    "fetched": "2026-07-08T22:33:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
-  },
-  {
-    "id": "2b0f352160888b3c",
-    "title": "Україна отримає 16 шведських винищувачів Gripen на початку 2027 року",
-    "summary": "Наша держава хоче пришвидшити підготовку пілотів і технічного персоналу для цих винищувачів.",
-    "url": "https://lb.ua/society/2026/07/08/750544_ukrayina_otrimaie_16_shvedskih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T19:07:00+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://i.lb.ua/news/095/41/6a4ea00c323ce.jpg"
-  },
-  {
-    "id": "38c224337d568a9b",
-    "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-    "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
-    "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T19:01:19+00:00",
-    "fetched": "2026-07-08T22:33:34+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-  },
-  {
-    "id": "c41fa214e1d8a90d",
-    "title": "Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-    "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer…",
-    "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T18:50:27+00:00",
-    "fetched": "2026-07-08T19:40:26+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_9c317dc153b2905648f0b78301cde36f17001327.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "3af1d98e682fcb8d",
-    "title": "Сили оборони повністю зачистили від окупантів селище Новохатське на Донеччині",
-    "summary": "Сили оборони повернули під свій контроль селище Новохатське на Донеччині.",
-    "url": "https://www.pravda.com.ua/news/2026/07/08/8043137/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T18:48:00+00:00",
-    "fetched": "2026-07-08T19:40:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/867461/92ac315376d1435d5dc3295c42c4100f.jpeg"
-  },
-  {
-    "id": "150186e69a098ac8",
-    "title": "На Херсонщині внаслідок дронової атаки загинув чоловік",
-    "summary": "Росіяни вдарили по Борозенській громаді.",
-    "url": "https://lb.ua/society/2026/07/08/750536_hersonschini_vnaslidok_dronovoyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T18:38:00+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://i.lb.ua/news/122/50/6a4e9935c9184.jpg"
-  },
-  {
-    "id": "90b50c143081c718",
-    "title": "НАТО змінює місію повітряного патрулювання Балтії на місію протиповітряної оборони",
-    "summary": "Тепер пілоти Альянсу зможуть самостійно знищувати об’єкти, які становлять пряму загрозу.",
-    "url": "https://lb.ua/world/2026/07/08/750538_nato_zminyuie_misiyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T18:36:00+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://i.lb.ua/news/026/52/6a4e98d597d8e.jpg"
-  },
-  {
-    "id": "3059aad8b9261d4a",
-    "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-    "summary": "Article URL: https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997 Comments URL: https://news.ycombinator.com/item?id=48835439 Points: 7 # Comments: 0",
-    "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T18:21:53+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://forum.openmandriva.org/uploads/default/original/2X/e/eb6bc6e5e60da2e909cb97a086c16d0a7c130855.jpeg"
-  },
-  {
-    "id": "8f4cb5aca73f97a5",
-    "title": "Петр Павел: підтримка України активно обговорювалась на саміті НАТО",
-    "summary": "Чеські фірми зацікавлені в співпраці з Україною.",
-    "url": "https://lb.ua/news/2026/07/08/750534_petr_pavel_pidtrimka_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T18:21:00+00:00",
-    "fetched": "2026-07-08T19:40:27+00:00",
-    "image": "https://i.lb.ua/news/021/58/6a4e95575a203.jpg"
   }
 ]
