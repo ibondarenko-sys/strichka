@@ -1,5 +1,65 @@
 [
   {
+    "id": "d2d4341d05df7b11",
+    "title": "Палата представників США ухвалила військовий бюджет на понад трильйон доларів",
+    "summary": "Поправка щодо припинення будь-якої допомоги Україні провалилась.",
+    "url": "https://lb.ua/world/2026/07/23/753830_palata_predstavnikiv_ssha.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T23:33:00+00:00",
+    "fetched": "2026-07-23T00:03:55+00:00",
+    "image": "https://i.lb.ua/news/002/42/6a61537c95eae.jpg"
+  },
+  {
+    "id": "ba784f931e99bcca",
+    "title": "Трамп схвалив ядерну угоду з Саудівською Аравією",
+    "summary": "США підписали угоду з Саудівською Аравією, яка може дозволити королівству збагачувати ядерне паливо.",
+    "url": "https://www.pravda.com.ua/news/2026/07/23/8045437/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T23:16:00+00:00",
+    "fetched": "2026-07-23T00:03:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/f/878275/bfcce88e4389f0519ca47cc0cbb8abd2.jpeg"
+  },
+  {
+    "id": "bea210e2aedf0a1d",
+    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+    "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-22T23:06:08+00:00",
+    "fetched": "2026-07-23T00:03:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg"
+  },
+  {
+    "id": "2e7f37dd1e0997a3",
+    "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+    "summary": "Article URL: https://arxiv.org/abs/2607.18250 Comments URL: https://news.ycombinator.com/item?id=49014537 Points: 5 # Comments: 0",
+    "url": "https://arxiv.org/abs/2607.18250",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T22:49:58+00:00",
+    "fetched": "2026-07-23T00:03:56+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "b25d05834fe8a14e",
+    "title": "Через зіткнення трамваїв у Роттердамі постраждали 15 людей",
+    "summary": "Один з пасажирів опинився затисненим між уламками.",
+    "url": "https://lb.ua/world/2026/07/23/753828_cherez_zitknennya_tramvayiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-22T22:49:00+00:00",
+    "fetched": "2026-07-23T00:03:55+00:00",
+    "image": "https://i.lb.ua/news/116/48/6a6146891165b.jpg"
+  },
+  {
     "id": "88ddb8b099311acc",
     "title": "США продовжили завдавати ударів по об’єктах Ірану – CENTCOM",
     "summary": "У ніч на четвер, 23 липня, військові США заявили про нові удари по Ірану.",
@@ -118,6 +178,18 @@
     "published": "2026-07-22T21:15:26+00:00",
     "fetched": "2026-07-22T22:33:57+00:00",
     "image": "http://yummymelon.com/devnull/images/opengraph-default.jpg"
+  },
+  {
+    "id": "1ece4b26cff4b4b3",
+    "title": "Sales were up at Tesla but so were costs and spending",
+    "summary": "Q2 2026 was profitable, but barely.",
+    "url": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T21:15:19+00:00",
+    "fetched": "2026-07-23T00:03:55+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering.jpg"
   },
   {
     "id": "5c5864c78685fc98",
@@ -468,6 +540,18 @@
     "image": "https://i.lb.ua/news/115/33/6a6112f09c164.jpg"
   },
   {
+    "id": "e4047279f31662a9",
+    "title": "Clarity didn't work, trying mysterianism",
+    "summary": "Article URL: https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html Comments URL: https://news.ycombinator.com/item?id=49011687 Points: 6 # Comments: 0",
+    "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T18:55:42+00:00",
+    "fetched": "2026-07-23T00:03:56+00:00",
+    "image": null
+  },
+  {
     "id": "54046684094f8c15",
     "title": "ЄС не зміг ухвалити 21-й пакет санкцій проти Росії, дискусія продовжиться 23 липня",
     "summary": "",
@@ -622,6 +706,18 @@
     "published": "2026-07-22T17:59:00+00:00",
     "fetched": "2026-07-22T18:15:35+00:00",
     "image": "https://i.lb.ua/news/006/06/6a61051ea8209.jpg"
+  },
+  {
+    "id": "bc4da3fea4fcc006",
+    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "summary": "Hey HN, Henry & Roman here from Cactus. A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score…",
+    "url": "https://github.com/cactus-compute/cactus-hybrid",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-22T17:56:29+00:00",
+    "fetched": "2026-07-23T00:03:56+00:00",
+    "image": "https://opengraph.githubassets.com/96d074050474d0c1d8503c392ab40fccfb4bb94650581d5f928c637b8683c39d/cactus-compute/cactus-hybrid"
   },
   {
     "id": "a382f3eb8c664839",
@@ -49510,113 +49606,5 @@
     "published": "2026-07-09T00:12:00+00:00",
     "fetched": "2026-07-09T04:32:04+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/867504/24b400996d7dd867aeff6e6e6cb29652.jpeg"
-  },
-  {
-    "id": "bc248fd4a36d2331",
-    "title": "Мерц пообіцяв, що Європа закриє прогалину щодо далекобійного озброєння",
-    "summary": "Висновки саміту НАТО в Анкарі для європейських союзників.",
-    "url": "https://lb.ua/world/2026/07/09/750576_merts_poobitsyav_scho_ievropa.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T23:51:00+00:00",
-    "fetched": "2026-07-09T00:15:47+00:00",
-    "image": "https://i.lb.ua/news/099/52/6a4ee28acaea7.jpg"
-  },
-  {
-    "id": "8da5ce7d121d2c28",
-    "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-    "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-    "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-08T23:40:57+00:00",
-    "fetched": "2026-07-09T04:32:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a6f/live/0bd17d90-7ad4-11f1-b976-0b9c15b0ccfc.jpg"
-  },
-  {
-    "id": "c54fb665b572acf1",
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 Comments URL: https://news.ycombinator.com/item?id=48838876 Points: 17 # Comments: 2",
-    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T23:37:43+00:00",
-    "fetched": "2026-07-09T00:15:49+00:00",
-    "image": "https://dims.apnews.com/dims4/default/eb2d449/2147483647/strip/true/crop/4513x3007+0+162/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fc8%2F5fff3b3e7c95ef4bbd4696383598%2F674e975157b745d28967fa953a18c3d4"
-  },
-  {
-    "id": "8712f02b8dfd1ab5",
-    "title": "Виведення американських військ із Європи залежатиме від Гренландії та Ірану – Трамп",
-    "summary": "Президент США Дональд Трамп заявив, що ухвалення рішення про виведення додаткового контингенту американських військ із Європи залежатиме від розв'язання суперечки навколо Гренландії, а також від подальшої поведінки європейських союзників щодо Ірану.",
-    "url": "https://www.pravda.com.ua/news/2026/07/09/8043151/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T23:33:00+00:00",
-    "fetched": "2026-07-09T00:15:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/867493/ee6e26cb9c06866a0762ab2d10553e93.jpeg"
-  },
-  {
-    "id": "f06877a3ba2b2ce2",
-    "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
-    "summary": "The case highlights the problem of child trafficking in Indonesia and raises questions about how Singapore fails to detect it.",
-    "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-08T23:31:53+00:00",
-    "fetched": "2026-07-09T04:32:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cab/live/eab048a0-74ff-11f1-b1db-af71d47507d6.jpg"
-  },
-  {
-    "id": "d2c76413508c4503",
-    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-    "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 108 # Comments: 49",
-    "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T23:27:14+00:00",
-    "fetched": "2026-07-09T04:32:05+00:00",
-    "image": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off/opengraph-image-yqks0s?3313ef8f7f360358"
-  },
-  {
-    "id": "b99a26122b951ac6",
-    "title": "У Німеччині засудили до довічного ув'язнення лікаря-вбивцю",
-    "summary": "41-річний медик позбавив життя не менше 15 своїх пацієнтів.",
-    "url": "https://lb.ua/world/2026/07/09/750574_nimechchini_zasudili_dovichnogo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-08T23:12:00+00:00",
-    "fetched": "2026-07-09T00:15:47+00:00",
-    "image": "https://i.lb.ua/news/061/56/6a4eda7465dfd.jpg"
-  },
-  {
-    "id": "99c4972935f7dbf3",
-    "title": "Wealthy AI workers send San Francisco house prices soaring",
-    "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-    "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-08T23:11:35+00:00",
-    "fetched": "2026-07-09T04:32:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6c/live/84338380-79eb-11f1-b976-0b9c15b0ccfc.jpg"
-  },
-  {
-    "id": "4861f2c0035e8141",
-    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
-    "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask…",
-    "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-08T22:37:25+00:00",
-    "fetched": "2026-07-09T00:15:48+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
