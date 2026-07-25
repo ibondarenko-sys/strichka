@@ -1,5 +1,89 @@
 [
   {
+    "id": "48851d5a95642755",
+    "title": "Іран звинуватив Україну в атаці на його торгове судно в Каспійському морі",
+    "summary": "МЗС Ірану заявило про атаку на іранське судно у Каспійському морі та звинуватило Україну. Є загиблий та поранений.",
+    "url": "https://www.pravda.com.ua/news/2026/07/25/8045919/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T20:44:00+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/880657/6549c96389ca01f713bb8f52b64a0aff.jpeg"
+  },
+  {
+    "id": "2859149de925e1f3",
+    "title": "Росія вдарила ракетою по Дергачах на Харківщині",
+    "summary": "За попередніми даними, постраждалих немає.",
+    "url": "https://lb.ua/society/2026/07/25/754556_rosiya_vdarila_raketoyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T20:42:00+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://i.lb.ua/news/094/32/6a651fb1c425d.jpg"
+  },
+  {
+    "id": "8ef9cc0d4a4caaaa",
+    "title": "​У Німеччині легкомоторний літак врізався в житловий будинок. Загинули двоє людей",
+    "summary": "Кабіна пілота була повністю розтрощена.",
+    "url": "https://lb.ua/world/2026/07/25/754554_nimechchini_legkomotorniy_litak.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T20:27:00+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://i.lb.ua/news/095/30/6a651c39e1117.jpg"
+  },
+  {
+    "id": "1db2703a842f10c7",
+    "title": "Сибіга: Росія може вдатися до фальшивої дипломатії, щоб уникнути санкцій США",
+    "summary": "Міністр Сибіга попередив: Росія може імітувати діалог, щоб уникнути нових санкцій США. Закликає до пильності.",
+    "url": "https://www.pravda.com.ua/news/2026/07/25/8045918/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T20:10:00+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/0/880647/e0cc281c867e2442ea991118fce22531.jpeg"
+  },
+  {
+    "id": "55dede5f311e7a3b",
+    "title": "Трамп наказав припинити удари по Ірану після 13 днів безперервних атак, – Axios",
+    "summary": "Рішення пов’язують з можливими переговорами за посередництва Оману.",
+    "url": "https://lb.ua/world/2026/07/25/754552_tramp_nakazav_pripiniti_udari.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T20:02:00+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://i.lb.ua/news/073/38/6a65162fbffc3.jpg"
+  },
+  {
+    "id": "e4257c6558659f17",
+    "title": "Польща відправляє понад 100 вогнеборців на допомогу Іспанії, де вирують лісові пожежі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/25/8045917/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T19:56:00+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/d/5d1c5e3---------------2026-07-25-195027.jpg"
+  },
+  {
+    "id": "cadfd2c47cd57031",
+    "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
+    "summary": "Article URL: https://github.com/lucid-fabrics/proxmox-bluetooth Comments URL: https://news.ycombinator.com/item?id=49050824 Points: 20 # Comments: 5",
+    "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T19:41:07+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://opengraph.githubassets.com/7a5a6bd8301cd311bf31a98a8726390a594984c9860d49ef165b7394c8ef7fa7/lucid-fabrics/proxmox-bluetooth"
+  },
+  {
     "id": "90957de305cf7e72",
     "title": "На кордоні з Молдовою у автоцистерні з написом «Вогненебезпечно. No smoking» знайшли величезну партію сигарет",
     "summary": "Загалом виявили 100 тисяч пачок контрабандних сигарет.",
@@ -10,6 +94,18 @@
     "published": "2026-07-25T19:40:00+00:00",
     "fetched": "2026-07-25T19:46:51+00:00",
     "image": "https://i.lb.ua/news/029/07/6a65110d4e4a9.jpg"
+  },
+  {
+    "id": "876f0c42d2b48488",
+    "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+    "summary": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ Comments URL: https://news.ycombinator.com/item?id=49050735 Points: 37 # Comments: 12",
+    "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T19:30:24+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": "https://ammoniaenergy.org/wp-content/uploads/2026/07/uminn-morris.png"
   },
   {
     "id": "d5936c284554cadf",
@@ -202,6 +298,18 @@
     "published": "2026-07-25T18:11:00+00:00",
     "fetched": "2026-07-25T18:27:41+00:00",
     "image": "https://i.lb.ua/news/073/41/6a64fc63dd3e3.jpg"
+  },
+  {
+    "id": "e60b304e524763ee",
+    "title": "Memory Safety Absolutists",
+    "summary": "Article URL: https://itsallaboutthebit.com/memory-safety-absolutists/ Comments URL: https://news.ycombinator.com/item?id=49050058 Points: 11 # Comments: 0",
+    "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T18:08:52+00:00",
+    "fetched": "2026-07-25T20:57:32+00:00",
+    "image": null
   },
   {
     "id": "02949c595da007ed",
@@ -50770,137 +50878,5 @@
     "published": "2026-07-11T20:57:42+00:00",
     "fetched": "2026-07-11T21:55:53+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ec2638dee764588e",
-    "title": "Головне за суботу, 11 липня: авіаудари по Сумах та Слов’янську, 215 бойових зіткнень, розшук командира 155-ї омбр",
-    "summary": "Бойові дії на Донеччині, 215 бойових зіткнень, ворожі обстріли, візит міністра оборони Польщі. Яким запам’ятається 1599-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/11/751278_golovne_subotu_11_lipnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:56:00+00:00",
-    "fetched": "2026-07-11T21:55:53+00:00",
-    "image": "https://i.lb.ua/news/036/23/6a52b21cc11b8.jpg"
-  },
-  {
-    "id": "41519bbd3498a9dd",
-    "title": "У Рівному судитимуть лікаря, який сам собі виписував наркотики",
-    "summary": "Слідство встановило, що отоларинголог “лікувався” морфіном, трамадолом та діазепамом.",
-    "url": "https://lb.ua/society/2026/07/11/751276_rivnomu_suditimut_likarya_yakiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:52:00+00:00",
-    "fetched": "2026-07-11T20:55:50+00:00",
-    "image": "https://i.lb.ua/news/118/35/6a52aafd66849.jpg"
-  },
-  {
-    "id": "fda74001e540acaf",
-    "title": "За 10 днів СБС уразили 60 енерговузлів на окупованих територіях – Мадяр",
-    "summary": "З 1 по 10 липня безпілотники уразили 60 енерговузлів у Криму, на сході й півдні України.",
-    "url": "https://www.pravda.com.ua/news/2026/07/11/8043631/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:52:00+00:00",
-    "fetched": "2026-07-11T21:55:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/869933/a59f4a19b14fcda9514cb9328b01fafb.jpeg"
-  },
-  {
-    "id": "81ee1d033a9d091a",
-    "title": "OpenAI Forked Git on GitHub",
-    "summary": "Article URL: https://github.com/openai/git Comments URL: https://news.ycombinator.com/item?id=48875709 Points: 9 # Comments: 1",
-    "url": "https://github.com/openai/git",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T20:49:14+00:00",
-    "fetched": "2026-07-11T20:55:51+00:00",
-    "image": "https://opengraph.githubassets.com/5ef6e2177473b86d5997857d579b8539e93a9e10afcbb5269576ee17c9dcd97d/openai/git"
-  },
-  {
-    "id": "e090414282485479",
-    "title": "Hromadske: Один з викрадених бійцями 155-ї бригади братів був колишнім військовим. Їхній батько загинув на фронті",
-    "summary": "Видання повідомило імена братів, у викраденні та вбивстві яких підозрюють бійців та комбрига 155-ї ОМБр, – це Максим та Роман Мосейчуки.",
-    "url": "https://lb.ua/society/2026/07/11/751274_hromadske_z_vikradenih_biytsyami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:31:00+00:00",
-    "fetched": "2026-07-11T20:55:50+00:00",
-    "image": "https://i.lb.ua/news/083/52/6a52a85f28c35.jpg"
-  },
-  {
-    "id": "b3412dda77ffe067",
-    "title": "I used to love Claude, but the latest models are slowly ruining it",
-    "summary": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/ Comments URL: https://news.ycombinator.com/item?id=48875494 Points: 17 # Comments: 14",
-    "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T20:21:25+00:00",
-    "fetched": "2026-07-11T21:55:53+00:00",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/the-claude-app-on-a-smartphone-scaled.jpg"
-  },
-  {
-    "id": "0083f6b143976255",
-    "title": "У Білій Церкві сталася стрілянина, поранено юнака",
-    "summary": "У Білій Церкві постріл з пневматичної зброї поранив 18-річного хлопця. Поліція шукає нападника.",
-    "url": "https://www.pravda.com.ua/news/2026/07/11/8043630/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:18:00+00:00",
-    "fetched": "2026-07-11T21:55:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/869917/c3c14bdee0472289877bac48df1a972a.jpeg"
-  },
-  {
-    "id": "a6601a4798ab970e",
-    "title": "У Фінляндії затримали 48 учасників масової бійки футбольних фанатів",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/11/8043629/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:14:00+00:00",
-    "fetched": "2026-07-11T21:55:52+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/9/3/93b671f---------------2026-07-11-200616.jpg"
-  },
-  {
-    "id": "5b25279a47680278",
-    "title": "У неділю в Україні місцями короткочасні дощі та грози",
-    "summary": "Вдень до 25 градусів тепла.",
-    "url": "https://lb.ua/society/2026/07/11/751272_nedilyu_ukrayini_mistsyami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T20:11:00+00:00",
-    "fetched": "2026-07-11T20:55:50+00:00",
-    "image": "https://i.lb.ua/news/091/52/6a52a371266ac.jpg"
-  },
-  {
-    "id": "4bba99136d2771e4",
-    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-    "summary": "Hello HN! I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps…",
-    "url": "https://antjs.org",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T20:07:18+00:00",
-    "fetched": "2026-07-11T20:55:51+00:00",
-    "image": "https://antjs.org/og_image.png"
-  },
-  {
-    "id": "7b7ca143397d106d",
-    "title": "Верховний лідер Ірану Моджтаба Хаменеї пообіцяв помститися за загибель свого батька",
-    "summary": "Новий верховний лідер наголосив, що помста залежить не лише від Ірану, а й від «вільних людей усього світу».",
-    "url": "https://lb.ua/world/2026/07/11/751270_verhovniy_lider_iranu_modzhtaba.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T19:56:00+00:00",
-    "fetched": "2026-07-11T20:55:50+00:00",
-    "image": "https://i.lb.ua/news/109/39/6a529f8b670e8.jpg"
   }
 ]
