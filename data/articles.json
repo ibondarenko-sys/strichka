@@ -1,5 +1,53 @@
 [
   {
+    "id": "1e55105115b66dcf",
+    "title": "Clinical Failure Rates over the Decades: Yikes",
+    "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 4 # Comments: 0",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T22:57:17+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": null
+  },
+  {
+    "id": "94727dd60131f02e",
+    "title": "Трамп призупинив удари по Ірану, щоб дати шанс дипломатії – Axios",
+    "summary": "Дональд Трамп розпорядився призупинити атаки США на Іран, даючи шанс дипломатичному врегулюванню ситуації.",
+    "url": "https://www.pravda.com.ua/news/2026/07/26/8045922/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T22:56:00+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/880661/6d96d440ef7ee848529ca7030536acf3.jpeg"
+  },
+  {
+    "id": "0c7dcd22274ed559",
+    "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+    "summary": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
+    "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-25T22:15:14+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6249/live/bc091200-873a-11f1-a10e-a5d4f08bc20c.jpg"
+  },
+  {
+    "id": "4a9bc858ba9f1608",
+    "title": "Kimi K3 built a Windows XP in browser",
+    "summary": "Article URL: https://windows-xp.kimi.site/ Comments URL: https://news.ycombinator.com/item?id=49052074 Points: 29 # Comments: 15",
+    "url": "https://windows-xp.kimi.site/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T22:03:22+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": null
+  },
+  {
     "id": "677a2b99e251e71c",
     "title": "Росія б'є по Києву ракетами: в одному з районів уламки впали на 18-поверховий будинок",
     "summary": "Вночі 26 липня росіяни обстріляли Київ, уламки пошкодили 18-поверхівку, є пожежі у кількох районах.",
@@ -72,6 +120,18 @@
     "image": "https://i.lb.ua/static/logo.480.jpg"
   },
   {
+    "id": "00ab79a03ae23a5c",
+    "title": "Росія атакувала Київ балістичними ракетами",
+    "summary": "Ворог запустив одразу декілька засобів ураження.",
+    "url": "https://lb.ua/society/2026/07/26/754562_rosiya_atakuvala_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T21:27:00+00:00",
+    "fetched": "2026-07-25T23:31:52+00:00",
+    "image": "https://i.lb.ua/news/078/47/6a653477e27c2.jpg"
+  },
+  {
     "id": "a923215953221637",
     "title": "'AI Mania Is Eviscerating Global Decision-Making'",
     "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 22 # Comments: 3",
@@ -94,6 +154,18 @@
     "published": "2026-07-25T21:02:00+00:00",
     "fetched": "2026-07-25T22:02:05+00:00",
     "image": "https://i.lb.ua/news/056/59/6a6524816be05.jpg"
+  },
+  {
+    "id": "77cd27e7f9101f32",
+    "title": "Who does Anubis actually stop?",
+    "summary": "Article URL: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Comments URL: https://news.ycombinator.com/item?id=49051505 Points: 30 # Comments: 36",
+    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:59:24+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": null
   },
   {
     "id": "acd3e4a1dc978521",
@@ -276,6 +348,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/5/d/5d1c5e3---------------2026-07-25-195027.jpg"
   },
   {
+    "id": "10e81be27811cd25",
+    "title": "General Resolution: LLM Usage in Debian",
+    "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 24 # Comments: 9",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T19:44:39+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": null
+  },
+  {
     "id": "cadfd2c47cd57031",
     "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
     "summary": "Article URL: https://github.com/lucid-fabrics/proxmox-bluetooth Comments URL: https://news.ycombinator.com/item?id=49050824 Points: 20 # Comments: 5",
@@ -298,6 +382,18 @@
     "published": "2026-07-25T19:40:00+00:00",
     "fetched": "2026-07-25T19:46:51+00:00",
     "image": "https://i.lb.ua/news/029/07/6a65110d4e4a9.jpg"
+  },
+  {
+    "id": "98671c483284eed0",
+    "title": "Show HN: Minesweeper Raycasted",
+    "summary": "Article URL: https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f Comments URL: https://news.ycombinator.com/item?id=49050803 Points: 13 # Comments: 9",
+    "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T19:39:12+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": "https://claude.ai/images/claude_ogimage.png"
   },
   {
     "id": "876f0c42d2b48488",
@@ -382,6 +478,18 @@
     "published": "2026-07-25T19:02:17+00:00",
     "fetched": "2026-07-25T19:46:52+00:00",
     "image": "https://i.guim.co.uk/img/media/a0e891a7ff70313f89b236d20509fdb2404a049b/0_495_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ce6eb2b1ce8c618bf027c75fec00f7c"
+  },
+  {
+    "id": "5f284decdfa5e286",
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 17 # Comments: 0",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T18:59:50+00:00",
+    "fetched": "2026-07-25T23:31:51+00:00",
+    "image": "https://opengraph.githubassets.com/a0409853c1fa03e688f7f7de389cad3dc07cf4e7ebe733baea353d082bbb879e/slvDev/esp32-ai"
   },
   {
     "id": "4eb2bb5697a02a00",
@@ -50950,101 +51058,5 @@
     "published": "2026-07-11T23:57:00+00:00",
     "fetched": "2026-07-12T00:02:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/869993/352f01021d82c5269e5ca252e09d16f4.jpeg"
-  },
-  {
-    "id": "4417b797e3c5f9f5",
-    "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
-    "summary": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
-    "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-11T23:27:31+00:00",
-    "fetched": "2026-07-12T09:27:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a65/live/935d5910-70a1-11f1-98f6-a389d1d57bcb.png"
-  },
-  {
-    "id": "5ffbdb7118c1324a",
-    "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
-    "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/ Comments URL: https://news.ycombinator.com/item?id=48876741 Points: 10 # Comments: 2",
-    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T23:15:06+00:00",
-    "fetched": "2026-07-12T00:02:28+00:00",
-    "image": null
-  },
-  {
-    "id": "f373803a143ad3d1",
-    "title": "Іран обстріляв комерційне судно та закрив Ормузьку протоку",
-    "summary": "У ніч на неділю сили Корпусу вартових ісламської революції обстріляли комерційне вантажне судно, яке намагалося пройти через Ормузьку протоку.",
-    "url": "https://www.pravda.com.ua/news/2026/07/12/8043669/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T23:13:00+00:00",
-    "fetched": "2026-07-12T00:02:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/869990/03779655bf7f4544c86c2e3eed6deece.jpeg"
-  },
-  {
-    "id": "d771850a624afcca",
-    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-    "summary": "Article URL: https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/ Comments URL: https://news.ycombinator.com/item?id=48876619 Points: 10 # Comments: 1",
-    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T22:54:06+00:00",
-    "fetched": "2026-07-12T04:07:23+00:00",
-    "image": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/cover.png"
-  },
-  {
-    "id": "0a9c3f3cea406274",
-    "title": "Weightlifting beats running for blood sugar control, researchers find",
-    "summary": "Article URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html Comments URL: https://news.ycombinator.com/item?id=48876593 Points: 55 # Comments: 28",
-    "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T22:49:42+00:00",
-    "fetched": "2026-07-12T00:02:28+00:00",
-    "image": "https://news.vt.edu/content/news_vt_edu/en/articles/2025/11/research_fralinbiomed_yanweightlifting/_jcr_content/image.transform/l-medium/image.jpg"
-  },
-  {
-    "id": "10884710ca181b8d",
-    "title": "Кількість загиблих від землетрусів у Венесуелі зросла до понад 4 300 людей",
-    "summary": "Кількість загиблих у Венесуелі внаслідок подвійного землетрусу, що стався 24 червня, зросла до 4 333 осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/07/12/8043668/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T22:47:00+00:00",
-    "fetched": "2026-07-11T22:56:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/b/869970/0b1b3cbe1600e0d35078fab0fa0e4cd8.jpeg"
-  },
-  {
-    "id": "3822e0e0e383c981",
-    "title": "Mesh LLM: distributed AI computing on iroh",
-    "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 4 # Comments: 1",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T22:38:57+00:00",
-    "fetched": "2026-07-11T22:56:48+00:00",
-    "image": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh"
-  },
-  {
-    "id": "9efe1373724b401d",
-    "title": "Stop Telling Me to Ask an LLM",
-    "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 17 # Comments: 11",
-    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T22:28:48+00:00",
-    "fetched": "2026-07-11T22:56:48+00:00",
-    "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&ixlib=rb-4.1.0&q=80&w=2000"
   }
 ]

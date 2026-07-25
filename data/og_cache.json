@@ -1,8 +1,4 @@
 {
-  "9efe1373724b401d": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&ixlib=rb-4.1.0&q=80&w=2000",
-  "3822e0e0e383c981": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
-  "0a9c3f3cea406274": "https://news.vt.edu/content/news_vt_edu/en/articles/2025/11/research_fralinbiomed_yanweightlifting/_jcr_content/image.transform/l-medium/image.jpg",
-  "5ffbdb7118c1324a": null,
   "3760f6f5f6f34c90": "https://i.guim.co.uk/img/media/caeb8d0189ea09e374076badf019fa85bc388f2a/45_52_3581_2866/master/3581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8d3b633e4f46c8b71405859a1def195",
   "2d8ff7388b5cff3f": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Social.jpg",
   "87ecb4409facf614": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -10,7 +6,6 @@
   "97eef611405717ea": null,
   "b21c70de14cb3e02": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
   "335706e9d39918f0": null,
-  "d771850a624afcca": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/cover.png",
   "fd017b9085c3e9c1": "https://i.abcnewsfe.com/a/8835e7b2-65e3-4a45-b2f3-4acfec9712ea/wirestory_41e5b4da4f4e710344dd0872d7fcf987_16x9.jpg?w=1600",
   "85adc296a069ffdc": null,
   "8a9b2e65f661ebe0": "https://opengraph.githubassets.com/c358f81226fc52a9a631eec302a112f2b6fb6b9f00fa3767ca25eb5cc25cd7ec/PJHkorea/quantum-mesh-qec",
@@ -1173,5 +1168,11 @@
   "8622cff3d13f10d0": "https://spectrum.ieee.org/media-library/a-sodium-ion-prismatic-cell-battery-pack.jpg?id=67517723&width=1200&height=600&coordinates=0%2C16%2C0%2C234",
   "439112ecdf42d067": "https://fly.io/blog/kurt-scott-money-sprites/assets/swirl-cover.webp",
   "db7e7c09162ea539": "https://www.phoronix.net/image.php?id=2023&image=fedora_web_1",
-  "49e4277781bf7453": "https://opengraph.githubassets.com/6da838bc3eddb7c43afeaa011535df096c1bdb6df65bc420424edf9915a5ed84/0hardik1/awsmux"
+  "49e4277781bf7453": "https://opengraph.githubassets.com/6da838bc3eddb7c43afeaa011535df096c1bdb6df65bc420424edf9915a5ed84/0hardik1/awsmux",
+  "77cd27e7f9101f32": null,
+  "98671c483284eed0": "https://claude.ai/images/claude_ogimage.png",
+  "1e55105115b66dcf": null,
+  "4a9bc858ba9f1608": null,
+  "5f284decdfa5e286": "https://opengraph.githubassets.com/a0409853c1fa03e688f7f7de389cad3dc07cf4e7ebe733baea353d082bbb879e/slvDev/esp32-ai",
+  "10e81be27811cd25": null
 }
