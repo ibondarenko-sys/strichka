@@ -1,5 +1,137 @@
 [
   {
+    "id": "677a2b99e251e71c",
+    "title": "Росія б'є по Києву ракетами: в одному з районів уламки впали на 18-поверховий будинок",
+    "summary": "Вночі 26 липня росіяни обстріляли Київ, уламки пошкодили 18-поверхівку, є пожежі у кількох районах.",
+    "url": "https://www.pravda.com.ua/news/2026/07/26/8045920/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T21:53:00+00:00",
+    "fetched": "2026-07-25T22:02:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/d/880658/0d63c58f3aa4cf962d643c3f03b96982.jpeg"
+  },
+  {
+    "id": "8622cff3d13f10d0",
+    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+    "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 5 # Comments: 0",
+    "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T21:48:22+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://spectrum.ieee.org/media-library/a-sodium-ion-prismatic-cell-battery-pack.jpg?id=67517723&width=1200&height=600&coordinates=0%2C16%2C0%2C234"
+  },
+  {
+    "id": "c2c2f6031c3058c7",
+    "title": "Понад 250 тисяч людей евакуювали через сильні лісові пожежі у Франції та Іспанії",
+    "summary": "Лісові пожежі у Франції та Іспанії змусили більше 250 тисяч людей покинути домівки. Оголошено надзвичайний стан.",
+    "url": "https://www.pravda.com.ua/news/2026/07/26/8045921/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T21:48:00+00:00",
+    "fetched": "2026-07-25T22:02:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/880660/ac2664bf0fb9aba8c75cb3c6cdfc5c16.jpeg"
+  },
+  {
+    "id": "1e4ce5560c24d7f3",
+    "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+    "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+    "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-25T21:33:00+00:00",
+    "fetched": "2026-07-25T22:02:04+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "31af3da3b7139274",
+    "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
+    "summary": "Article URL: https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/ Comments URL: https://news.ycombinator.com/item?id=49051816 Points: 16 # Comments: 9",
+    "url": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T21:32:08+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://www.cltampa.com/wp-content/uploads/2026/07/wideanglefullframe18557184555775724.jpg"
+  },
+  {
+    "id": "abd02d70ead6f769",
+    "title": "Росія атакує Київ ракетами",
+    "summary": "Ворог запустив одразу декілька засобів ураження.",
+    "url": "https://lb.ua/society/2026/07/26/754562_rosiya_atakuie_kiyiv_raketami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T21:27:00+00:00",
+    "fetched": "2026-07-25T22:02:05+00:00",
+    "image": "https://i.lb.ua/static/logo.480.jpg"
+  },
+  {
+    "id": "a923215953221637",
+    "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+    "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 22 # Comments: 3",
+    "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T21:18:06+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://daringfireball.net/graphics/df-wide-card.png"
+  },
+  {
+    "id": "61d8fc5daa1363f0",
+    "title": "У Слов'янську через російський удар загинули двоє працівників «Донецькоблгазу»",
+    "summary": "Чоловіки допомагали гасити пожежу після атаки, коли пролунав вибух.",
+    "url": "https://lb.ua/society/2026/07/26/754558_slovyansku_cherez_rosiyskiy_udar.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T21:02:00+00:00",
+    "fetched": "2026-07-25T22:02:05+00:00",
+    "image": "https://i.lb.ua/news/056/59/6a6524816be05.jpg"
+  },
+  {
+    "id": "acd3e4a1dc978521",
+    "title": "Головне за суботу, 25 липня: атаки на Дніпропетровщину, понад 200 бойових зіткнень, ураження Тюменського НПЗ",
+    "summary": "Бойові дії на Донеччині, 202 бойових зіткнення, ворожі обстріли, підготовка Кремля для розширення мобілізації. Яким запам’ятається 1613-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/07/25/754560_golovne_subotu_25_lipnya_ataki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-25T20:57:00+00:00",
+    "fetched": "2026-07-25T22:02:05+00:00",
+    "image": "https://i.lb.ua/news/009/14/6a65284abdf2b.jpg"
+  },
+  {
+    "id": "e9a19816a357bfba",
+    "title": "Multicast TV Distribution on My Home Network",
+    "summary": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/ Comments URL: https://news.ycombinator.com/item?id=49051463 Points: 9 # Comments: 0",
+    "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:55:12+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://www.apalrd.net/img/favicon/orange.png"
+  },
+  {
+    "id": "cd791503bb4f48e9",
+    "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+    "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+    "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:52:30+00:00",
+    "fetched": "2026-07-25T22:02:05+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg"
+  },
+  {
     "id": "48851d5a95642755",
     "title": "Іран звинуватив Україну в атаці на його торгове судно в Каспійському морі",
     "summary": "МЗС Ірану заявило про атаку на іранське судно у Каспійському морі та звинуватило Україну. Є загиблий та поранений.",
@@ -10,6 +142,30 @@
     "published": "2026-07-25T20:44:00+00:00",
     "fetched": "2026-07-25T20:57:32+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/880657/6549c96389ca01f713bb8f52b64a0aff.jpeg"
+  },
+  {
+    "id": "439112ecdf42d067",
+    "title": "Fly.io CEO Kurt Mackey is stepping down",
+    "summary": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/ Comments URL: https://news.ycombinator.com/item?id=49051369 Points: 52 # Comments: 10",
+    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:43:11+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://fly.io/blog/kurt-scott-money-sprites/assets/swirl-cover.webp"
+  },
+  {
+    "id": "81e43f0350012225",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 41 # Comments: 17",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:42:35+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a639c6b2e881afef80764c6_og_the-new-rules-of-context-engineering-for-claude-5-generation-models.jpg"
   },
   {
     "id": "2859149de925e1f3",
@@ -36,6 +192,30 @@
     "image": "https://i.lb.ua/news/095/30/6a651c39e1117.jpg"
   },
   {
+    "id": "6d7db52ff482e06d",
+    "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+    "summary": "I like writing Markdown, but do not like writing it inside a plain textarea. I wanted something I could use anywhere by dropping in a single web component: ``` ``` That became Writemark. It renders Markdown while you write, but Markdown remains the value you read, store, and…",
+    "url": "https://news.ycombinator.com/item?id=49051130",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:18:54+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": null
+  },
+  {
+    "id": "1484ebabc140ad68",
+    "title": "Did They Ghost You?",
+    "summary": "Article URL: https://didtheyghostyou.com/ Comments URL: https://news.ycombinator.com/item?id=49051120 Points: 39 # Comments: 7",
+    "url": "https://didtheyghostyou.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:18:03+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://didtheyghostyou.com/og-image.png"
+  },
+  {
     "id": "1db2703a842f10c7",
     "title": "Сибіга: Росія може вдатися до фальшивої дипломатії, щоб уникнути санкцій США",
     "summary": "Міністр Сибіга попередив: Росія може імітувати діалог, щоб уникнути нових санкцій США. Закликає до пильності.",
@@ -46,6 +226,30 @@
     "published": "2026-07-25T20:10:00+00:00",
     "fetched": "2026-07-25T20:57:32+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/0/880647/e0cc281c867e2442ea991118fce22531.jpeg"
+  },
+  {
+    "id": "db7e7c09162ea539",
+    "title": "Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations",
+    "summary": "Article URL: https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install Comments URL: https://news.ycombinator.com/item?id=49051055 Points: 5 # Comments: 0",
+    "url": "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:10:00+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://www.phoronix.net/image.php?id=2023&image=fedora_web_1"
+  },
+  {
+    "id": "49e4277781bf7453",
+    "title": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+    "summary": "awsmux fans one AWS CLI command out across hundreds of accounts and regions in parallel and merges the results into a single stream. There's an MCP server built in for agents. In a 150-session benchmark, agents using awsmux beat agents using the raw AWS CLI in every test: up to…",
+    "url": "https://github.com/0hardik1/awsmux",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-25T20:09:06+00:00",
+    "fetched": "2026-07-25T22:02:12+00:00",
+    "image": "https://opengraph.githubassets.com/6da838bc3eddb7c43afeaa011535df096c1bdb6df65bc420424edf9915a5ed84/0hardik1/awsmux"
   },
   {
     "id": "55dede5f311e7a3b",
@@ -50842,41 +51046,5 @@
     "published": "2026-07-11T22:28:48+00:00",
     "fetched": "2026-07-11T22:56:48+00:00",
     "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&ixlib=rb-4.1.0&q=80&w=2000"
-  },
-  {
-    "id": "d5abfc00032cd01d",
-    "title": "RISCBoy is an open-source portable games console, designed from scratch",
-    "summary": "Article URL: https://github.com/Wren6991/RISCBoy Comments URL: https://news.ycombinator.com/item?id=48876245 Points: 7 # Comments: 1",
-    "url": "https://github.com/Wren6991/RISCBoy",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T21:58:00+00:00",
-    "fetched": "2026-07-11T22:56:48+00:00",
-    "image": "https://opengraph.githubassets.com/17f8650245b31018b724dd99b0449bec9666a8326791abed8dd1b13b56d49e2a/Wren6991/RISCBoy"
-  },
-  {
-    "id": "4f47510b9d440dbd",
-    "title": "У Росії обмежили роботу іноземних SIM-карток: блокують обхід цензури та навігацію українських дронів",
-    "summary": "Робота іноземних SIM-карток на території Росії була суттєво обмежена, що унеможливлює подальший безперешкодний обхід російської інтернет-цензури. Роумінговий трафік відтепер підлягає жорсткій фільтрації за загальними правилами місцевих операторів зв'язку.",
-    "url": "https://www.pravda.com.ua/news/2026/07/12/8043664/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-11T21:53:00+00:00",
-    "fetched": "2026-07-11T22:56:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/869966/ac2aaf54739cd978b6aa7283b1138650.jpeg"
-  },
-  {
-    "id": "46099f1c758974fd",
-    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-    "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it…",
-    "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-11T20:57:42+00:00",
-    "fetched": "2026-07-11T21:55:53+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
