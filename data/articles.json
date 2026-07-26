@@ -1,5 +1,41 @@
 [
   {
+    "id": "1cc71ffc0ebffc44",
+    "title": "У військовому командуванні США вважають, що удари в районі Ормузу вичерпали ефективність – Axios",
+    "summary": "Axios пише, що американські військові вважають, що удари по Ормузу вичерпали ефективність.",
+    "url": "https://www.pravda.com.ua/news/2026/07/27/8046017/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-26T22:18:00+00:00",
+    "fetched": "2026-07-26T22:32:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/881219/b706cdf51bebdb12aac8c0beb74dc995.jpeg"
+  },
+  {
+    "id": "4fae19ba99845d97",
+    "title": "Teaching Kids Forth – Anna Liberty",
+    "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/ Comments URL: https://news.ycombinator.com/item?id=49062700 Points: 10 # Comments: 4",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T21:39:17+00:00",
+    "fetched": "2026-07-26T22:32:59+00:00",
+    "image": "https://gracefulliberty.com/avatar.png"
+  },
+  {
+    "id": "702c5e1d5d905b48",
+    "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+    "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+    "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-26T21:30:20+00:00",
+    "fetched": "2026-07-26T22:32:59+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
     "id": "d2167b06d7039fe5",
     "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
     "summary": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than…",
@@ -46,6 +82,30 @@
     "published": "2026-07-26T20:55:00+00:00",
     "fetched": "2026-07-26T21:27:45+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/881206/8fb834813bb04e0de51558e90c28ffba.jpeg"
+  },
+  {
+    "id": "a2b2343f84272e62",
+    "title": "We have proof automation now",
+    "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html Comments URL: https://news.ycombinator.com/item?id=49062291 Points: 12 # Comments: 1",
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T20:53:26+00:00",
+    "fetched": "2026-07-26T22:32:59+00:00",
+    "image": null
+  },
+  {
+    "id": "ac784dc4521ae75f",
+    "title": "Multiway Turing Machines (2021 pre-ai)",
+    "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/ Comments URL: https://news.ycombinator.com/item?id=49062259 Points: 12 # Comments: 3",
+    "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T20:49:43+00:00",
+    "fetched": "2026-07-26T22:32:59+00:00",
+    "image": null
   },
   {
     "id": "e3ccb9243f5d0502",
@@ -154,6 +214,18 @@
     "published": "2026-07-26T19:51:05+00:00",
     "fetched": "2026-07-26T21:27:52+00:00",
     "image": null
+  },
+  {
+    "id": "4fbca79c509c134a",
+    "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+    "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie , and Marvel news.",
+    "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T19:48:43+00:00",
+    "fetched": "2026-07-26T22:32:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer-1152x648.jpg"
   },
   {
     "id": "dbc625d90dfc78ee",
@@ -50590,41 +50662,5 @@
     "published": "2026-07-12T22:45:31+00:00",
     "fetched": "2026-07-13T00:05:28+00:00",
     "image": null
-  },
-  {
-    "id": "74a8c5e52058f656",
-    "title": "A Speed Limit for Computers",
-    "summary": "Article URL: https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm Comments URL: https://news.ycombinator.com/item?id=48885525 Points: 10 # Comments: 7",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-12T22:29:46+00:00",
-    "fetched": "2026-07-13T00:05:28+00:00",
-    "image": null
-  },
-  {
-    "id": "6334485d29c29576",
-    "title": "США завдають нових ударів по Ірану",
-    "summary": "CENTCOM: США завдали нових ударів по Ірану для послаблення його атак на цивільне судноплавство в Ормузькій протоці.",
-    "url": "https://www.pravda.com.ua/news/2026/07/13/8043806/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-12T22:29:00+00:00",
-    "fetched": "2026-07-12T22:59:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/870428/19b7ddf6c92b9777310afa6d971bd385.jpeg"
-  },
-  {
-    "id": "bf1f5f5c786c6fd2",
-    "title": "Profiling the \"Abundance\" housing bottleneck with real data",
-    "summary": "Article URL: https://laxmena.com/same-capacity-less-throughput Comments URL: https://news.ycombinator.com/item?id=48885138 Points: 9 # Comments: 1",
-    "url": "https://laxmena.com/same-capacity-less-throughput",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-12T21:45:28+00:00",
-    "fetched": "2026-07-13T00:05:28+00:00",
-    "image": "https://i.snap.as/wjoTv1yV.png"
   }
 ]
