@@ -1,5 +1,137 @@
 [
   {
+    "id": "16c1579246457975",
+    "title": "Ціна на нафту знизилася, зафіксувавши найбільше падіння з квітня",
+    "summary": "Обвал ціни на нафту: зафіксували найбільше падіння з квітня.",
+    "url": "https://www.pravda.com.ua/news/2026/07/28/8046171/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-27T22:46:00+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/9/882055/09fcc36ee92c70d39078648f631ab5a0.jpeg"
+  },
+  {
+    "id": "ba8804ac1be41c22",
+    "title": "Два мільйони людей подивились фільм Крістофера Нолана \"Одіссея\" завдяки зливу в мережу X",
+    "summary": "У правовласників пішло близько 2,5 годин на те, щоб прибрати стрічку з вільного доступу.",
+    "url": "https://lb.ua/culture/2026/07/28/754964_dva_milyoni_lyudey_podivilis.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-27T22:45:00+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://i.lb.ua/news/022/42/6a67df5e44a94.jpg"
+  },
+  {
+    "id": "28f6dc5441a18c6c",
+    "title": "Трамп планує зустрічі із Зеленським та Нетаньягу в один день",
+    "summary": "Господар Білого дому говоритими з двома різними лідерами в різний час про дві різні війни.",
+    "url": "https://lb.ua/news/2026/07/28/754962_tramp_planuie_zustrichi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-27T22:18:00+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://i.lb.ua/news/015/24/6a67d7e6bd512.jpg"
+  },
+  {
+    "id": "115deccb6b910b90",
+    "title": "X Money is launching in the US starting today",
+    "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X…",
+    "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T22:10:18+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2764d896294136c0",
+    "title": "A Japanese town wrestles with identity after protests over its first mosque",
+    "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+    "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-27T22:08:21+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ab/live/e671d390-89a3-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "80d8760fd0f40ab2",
+    "title": "Our position on open-weights models",
+    "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 176 # Comments: 157",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T22:03:49+00:00",
+    "fetched": "2026-07-27T23:07:53+00:00",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png"
+  },
+  {
+    "id": "b80c461159b45fde",
+    "title": "Карнаух: ДПС працює над тим, щоб більше громад запровадили туристичний збір",
+    "summary": "За словами очільниці, це ті кошти, які йдуть на розвиток громад.",
+    "url": "https://lb.ua/economics/2026/07/28/754960_karnauh_dps_pratsyuie_nad_tim.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-27T21:57:00+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://i.lb.ua/news/032/61/6a67d380278cf.jpg"
+  },
+  {
+    "id": "7b818cd68cd5f7ab",
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T21:56:14+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
+  },
+  {
+    "id": "aaa2bb6d5c0518e4",
+    "title": "Американського сенатора Макконнелла виписали з лікарні",
+    "summary": "Стан здоров'я республіканця був предметом постійних спекуляцій.",
+    "url": "https://lb.ua/world/2026/07/28/754958_amerikanskogo_senatora.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-27T21:47:00+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://i.lb.ua/news/075/13/6a67d22e38085.jpg"
+  },
+  {
+    "id": "ddef5d36c0c164df",
+    "title": "Трамп має намір прийняти у вівторок в Білому домі Зеленського і Нетаньягу – CNN",
+    "summary": "ЗМІ повідомляють, що у вівторок Трамп обговорить війни в Україні та на Близькому Сході із Зеленським і Нетаньягу.",
+    "url": "https://www.pravda.com.ua/news/2026/07/28/8046169/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-27T21:44:00+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/4/882051/14b86eea3b9ef12e88e68e9b2f23d3b5.jpeg"
+  },
+  {
+    "id": "717a05554f06a6f2",
+    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+    "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T21:40:27+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg"
+  },
+  {
     "id": "d3d25218d9380859",
     "title": "US singer D4vd to go on trial for murder in death of teen",
     "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
@@ -120,6 +252,30 @@
     "image": "https://i.lb.ua/news/109/26/6a67c2efc2f49.jpg"
   },
   {
+    "id": "ca9e55c9bd917418",
+    "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+    "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+    "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T20:42:13+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg"
+  },
+  {
+    "id": "68990a81f348815e",
+    "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+    "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
+    "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T20:32:45+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg"
+  },
+  {
     "id": "4879c86bf66e9229",
     "title": "У Києві та інших містах 12-й день поспіль відбулися акції на підтримку Федорова",
     "summary": "27 липня в Україні дванадцятий день поспіль відбулися мирні акції на підтримку колишнього міністра оборони Михайла Федорова.",
@@ -144,6 +300,18 @@
     "image": "https://i.lb.ua/news/098/33/6a67be6d21eb2.jpg"
   },
   {
+    "id": "d31901bd4383ff34",
+    "title": "A missing underscore sent innocent man to prison for 18 months",
+    "summary": "When the first step goes wrong, bad results follow.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T20:22:03+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg"
+  },
+  {
     "id": "829c886b92843183",
     "title": "Росіяни вдарили дроном по селу на Харківщині: спалахнула пожежа",
     "summary": "Російські війська атакували безпілотником село Новий Коротич на Харківщині. Попередньо, після удару спалахнула пожежа, інформацію про постраждалих уточнюють.",
@@ -156,6 +324,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/882043/727095e388184ae4264ae4df177dd4e1.jpeg"
   },
   {
+    "id": "86e46d31beeb1ed2",
+    "title": "Forth",
+    "summary": "Article URL: https://xkcd.com/3277/ Comments URL: https://news.ycombinator.com/item?id=49074991 Points: 47 # Comments: 10",
+    "url": "https://xkcd.com/3277/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T20:15:50+00:00",
+    "fetched": "2026-07-27T23:07:53+00:00",
+    "image": "https://imgs.xkcd.com/comics/forth_2x.png"
+  },
+  {
     "id": "97235b80ac4dac04",
     "title": "Сибіга подякував польській владі за оперативне затримання нападників на українців",
     "summary": "Глава МЗС Андрій Сибіга відреагував на затримання двох підозрюваних у нападі на українців у Вроцлаві, подякувавши польській владі за швидку реакцію та закликавши встановити всі обставини злочину.",
@@ -166,6 +346,18 @@
     "published": "2026-07-27T20:13:00+00:00",
     "fetched": "2026-07-27T20:26:22+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/882041/31c4d2e7dce99600c25360d0b5a6062d.jpeg"
+  },
+  {
+    "id": "545e6c11df31f696",
+    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+    "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-27T20:12:42+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg"
   },
   {
     "id": "1ebd96dd70c26654",
@@ -202,6 +394,18 @@
     "published": "2026-07-27T19:55:00+00:00",
     "fetched": "2026-07-27T20:26:22+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/0/882040/70fc8f3203642c156c2eaafa35009ac0.jpeg"
+  },
+  {
+    "id": "f7a32b6e514aa87d",
+    "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+    "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
+    "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-27T19:54:24+00:00",
+    "fetched": "2026-07-27T23:07:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/fa919fc0-89f0-11f1-8dc9-8d222ac753ff.jpg"
   },
   {
     "id": "27bc555ba6baa848",
@@ -50386,197 +50590,5 @@
     "published": "2026-07-13T23:12:22+00:00",
     "fetched": "2026-07-13T23:57:20+00:00",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_news/153b/live/27ae69b0-76a1-11f1-b7c5-7f4e24437938.jpg"
-  },
-  {
-    "id": "6c5a3f29016dc20c",
-    "title": "Трамп готовий підтримати санкційний пакет Грема-Блументаля проти Росії",
-    "summary": "Раптова смерть автора законопроєкту могла ще більше переконати президента.",
-    "url": "https://lb.ua/society/2026/07/14/751700_tramp_gotoviy_pidtrimati.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-13T22:50:00+00:00",
-    "fetched": "2026-07-13T23:57:16+00:00",
-    "image": "https://i.lb.ua/news/086/47/6a556bd0d3643.jpg"
-  },
-  {
-    "id": "e22e19bec4016931",
-    "title": "На Харківщині внаслідок російської атаки постраждала дитина",
-    "summary": "Російські війська атакували Харківщину дронами, поранено 11-річну дитину. Наслідки ударів уточнюються.",
-    "url": "https://www.pravda.com.ua/news/2026/07/14/8043972/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-13T22:41:00+00:00",
-    "fetched": "2026-07-13T23:57:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/871257/823158e7b65b69a1e22110551f26bd54.jpeg"
-  },
-  {
-    "id": "cf5cf6f8578ef6b2",
-    "title": "Manifest Man",
-    "summary": "Article URL: https://www.thenewcritic.com/p/manifest-man Comments URL: https://news.ycombinator.com/item?id=48899888 Points: 6 # Comments: 3",
-    "url": "https://www.thenewcritic.com/p/manifest-man",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T22:40:55+00:00",
-    "fetched": "2026-07-13T23:57:20+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!vvaX!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F878cff15-8ca4-436a-895b-fe3fbea079cc_1394x1237.png"
-  },
-  {
-    "id": "5e19792c0d8d5fb6",
-    "title": "‘Asia's cleanest village’ bans tourists on Sundays",
-    "summary": "Article URL: https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays Comments URL: https://news.ycombinator.com/item?id=48899672 Points: 41 # Comments: 15",
-    "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T22:19:16+00:00",
-    "fetched": "2026-07-13T23:57:20+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0nv09zm.jpg"
-  },
-  {
-    "id": "7a9e053a75644747",
-    "title": "Під час саміту НАТО Іран готував на Трампа замах",
-    "summary": "Загрозу для президента США вдалося попередити завдяки роботі спецслужб.",
-    "url": "https://lb.ua/world/2026/07/14/751698_pid_chas_samitu_nato_iran.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-13T22:15:00+00:00",
-    "fetched": "2026-07-13T22:31:56+00:00",
-    "image": "https://i.lb.ua/news/120/38/6a556383083c6.jpg"
-  },
-  {
-    "id": "1e3f11a209570d74",
-    "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-    "summary": "The man is said to be doing well in a Frankfurt hospital.",
-    "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T22:07:34+00:00",
-    "fetched": "2026-07-14T03:20:51+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284895790-1152x648.jpg"
-  },
-  {
-    "id": "e3cd0a68f01d19c7",
-    "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
-    "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than a dozen Mexican migrants in immigration…",
-    "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-13T22:06:01+00:00",
-    "fetched": "2026-07-13T22:31:55+00:00",
-    "image": "https://i.guim.co.uk/img/media/a74528bba21bb5b43432b76c4df26600e3fcc94c/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=821ef7b7c0da7bd993e1065195436706"
-  },
-  {
-    "id": "be3acb7db6993623",
-    "title": "Claude is just Mr. Meeseeks",
-    "summary": "Article URL: https://github.com/thephw/claude-meseeks Comments URL: https://news.ycombinator.com/item?id=48899529 Points: 71 # Comments: 21",
-    "url": "https://github.com/thephw/claude-meseeks",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T22:03:54+00:00",
-    "fetched": "2026-07-13T23:57:20+00:00",
-    "image": "https://opengraph.githubassets.com/0d95e51d21f1d63e171d75e7f00afa59bbdc532f2179e354add0057dda45a9b3/thephw/claude-meseeks"
-  },
-  {
-    "id": "dad1b796afef081d",
-    "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-    "summary": "The environmental activist has been on a hunger strike for 16 days and is getting visibly weaker.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-13T22:03:16+00:00",
-    "fetched": "2026-07-14T10:18:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b08/live/36b8cf50-7f3d-11f1-926f-c90d1bcfbc84.jpg"
-  },
-  {
-    "id": "b2e9538ae44822ad",
-    "title": "ООН: ХАМАС перешкоджає наданню допомоги Газі",
-    "summary": "Озброєні чоловіки напали на гуманітарних працівників у пункті розподілу продуктів харчування.",
-    "url": "https://lb.ua/world/2026/07/14/751696_oon_hamas_pereshkodzhaie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-13T21:59:00+00:00",
-    "fetched": "2026-07-13T22:31:56+00:00",
-    "image": "https://i.lb.ua/news/107/44/6a555ffd54a5e.jpg"
-  },
-  {
-    "id": "bffa40c75f625fcf",
-    "title": "Microsoft tests Windows Search without all the ads and fluff",
-    "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks…",
-    "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T21:53:20+00:00",
-    "fetched": "2026-07-13T22:31:56+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-update.png?quality=90&strip=all&crop=0,6.2259176247693,100,93.774082375231"
-  },
-  {
-    "id": "6f0f1d23aeff9123",
-    "title": "Гідрометцентр: у вівторок в Україні короткочасні дощі та грози",
-    "summary": "Лише на півдні та сході країни вночі без опадів.",
-    "url": "https://lb.ua/society/2026/07/14/751694_gidromettsentr_vivtorok_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-13T21:50:00+00:00",
-    "fetched": "2026-07-13T22:31:56+00:00",
-    "image": "https://i.lb.ua/news/121/19/6a555b945e8d3.jpg"
-  },
-  {
-    "id": "7f45897cf04dd2bf",
-    "title": "OnePlus is reportedly bailing on the US",
-    "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors…",
-    "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T21:48:43+00:00",
-    "fetched": "2026-07-13T22:31:56+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "e5299c8c5ffbaac6",
-    "title": "ЄС запровадив санкції проти причетних до катувань українських полонених",
-    "summary": "У чорному списку 15 осіб та 1 юридична особа.",
-    "url": "https://lb.ua/society/2026/07/14/751690_ies_zaprovadiv_sanktsiyi_proti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-13T21:47:00+00:00",
-    "fetched": "2026-07-13T22:31:56+00:00",
-    "image": "https://i.lb.ua/news/117/00/6a555a13408a7.jpg"
-  },
-  {
-    "id": "b960647707393a15",
-    "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
-    "summary": "Article URL: https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/ Comments URL: https://news.ycombinator.com/item?id=48899324 Points: 10 # Comments: 3",
-    "url": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T21:44:18+00:00",
-    "fetched": "2026-07-13T23:57:20+00:00",
-    "image": "https://insideai.news/wp-content/uploads/2026/07/New-method-aims-to-keep-kids-safe-from-illegal-AI-generated-content-1.webp"
-  },
-  {
-    "id": "b03c5d45d4402118",
-    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "summary": "Article URL: https://arxiv.org/abs/2607.01418 Comments URL: https://news.ycombinator.com/item?id=48899321 Points: 8 # Comments: 1",
-    "url": "https://arxiv.org/abs/2607.01418",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-13T21:43:51+00:00",
-    "fetched": "2026-07-13T23:57:20+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   }
 ]
