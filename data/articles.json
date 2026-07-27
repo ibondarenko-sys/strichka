@@ -1,5 +1,65 @@
 [
   {
+    "id": "8aecd307d6ed395a",
+    "title": "Пентагон змінив принцип підрахунку загиблих військових США у війні з Іраном – ЗМІ",
+    "summary": "Чотири американські військовослужбовці, які загинули під час поновлення бойових дій між США та Іраном протягом останніх тижнів, більше не враховуються в офіційному підрахунку жертв Пентагону як загиблі у війні з Іраном, а були віднесені до нової, окремої категорії.",
+    "url": "https://www.pravda.com.ua/news/2026/07/27/8046019/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-26T23:56:00+00:00",
+    "fetched": "2026-07-27T00:04:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/3/881223/3310e7ee8c1c2cbe39c5dc63eafa4a43.jpeg"
+  },
+  {
+    "id": "2ef54e42d4c548fd",
+    "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
+    "summary": "Hi HN, we built world-model-optimizer, an open-source tool for continually improve models specialized to agents. Today we are launching `wmo serve`, a tool to route repetitive tasks to distilled smaller models. Agent traces you already capture are opportunities to get signal on…",
+    "url": "https://github.com/experientiallabs/world-model-optimizer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T23:35:15+00:00",
+    "fetched": "2026-07-27T00:04:10+00:00",
+    "image": "https://opengraph.githubassets.com/e3bcb25a3953248fac82ea57abba93c76fd8bd2bc40ff71d3cafa64d3737611e/experientiallabs/world-model-optimizer"
+  },
+  {
+    "id": "c2d7a902019a4e5a",
+    "title": "Japan legend Miura, 59, scores first goal since 2022",
+    "summary": "Article URL: https://www.bbc.com/sport/football/articles/c3r087181ndo Comments URL: https://news.ycombinator.com/item?id=49063266 Points: 26 # Comments: 4",
+    "url": "https://www.bbc.com/sport/football/articles/c3r087181ndo",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T23:03:35+00:00",
+    "fetched": "2026-07-27T00:04:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e19d/live/3a982b90-8931-11f1-b684-d3f861a1f4cf.jpg"
+  },
+  {
+    "id": "0f06af29cc530cb0",
+    "title": "У Німеччині поліція застрелила підозрюваного у смертельному наїзді на учасників прайду",
+    "summary": "Поліцейські Німеччини застрелили підозрюваного у смертельному наїзді на учасників прайду.",
+    "url": "https://www.pravda.com.ua/news/2026/07/27/8046018/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-26T22:56:00+00:00",
+    "fetched": "2026-07-27T00:04:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/881220/c8f267b0c080d4e9dfdbbe9ad75a4da8.jpeg"
+  },
+  {
+    "id": "61d407843efb3c2e",
+    "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+    "summary": "Article URL: https://github.com/hkc5/cursor-bridge Comments URL: https://news.ycombinator.com/item?id=49063186 Points: 11 # Comments: 9",
+    "url": "https://github.com/hkc5/cursor-bridge",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-26T22:48:09+00:00",
+    "fetched": "2026-07-27T00:04:10+00:00",
+    "image": "https://opengraph.githubassets.com/2d309fc739b01c222e0e5d2eb21a755bf7aba0e3cc380c8b78d4a191353c074f/hkc5/cursor-bridge"
+  },
+  {
     "id": "1cc71ffc0ebffc44",
     "title": "У військовому командуванні США вважають, що удари в районі Ормузу вичерпали ефективність – Axios",
     "summary": "Axios пише, що американські військові вважають, що удари по Ормузу вичерпали ефективність.",
@@ -50578,89 +50638,5 @@
     "published": "2026-07-13T00:29:21+00:00",
     "fetched": "2026-07-13T07:48:44+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3502/live/a47f3390-7e4c-11f1-bee8-53ce494e1abc.png"
-  },
-  {
-    "id": "13513965303accfd",
-    "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-    "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
-    "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-12T23:41:00+00:00",
-    "fetched": "2026-07-13T04:09:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8b/live/f2b1e0f0-7e3b-11f1-bc25-ef36095a5e54.jpg"
-  },
-  {
-    "id": "1be34d694699059b",
-    "title": "Смерть Ліндсі Грема: стала відома попередня причина",
-    "summary": "Сенатор-республіканець Ліндсі Грем імовірно помер через розрив аорти на фоні серцевого захворювання.",
-    "url": "https://www.pravda.com.ua/news/2026/07/13/8043807/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-12T23:38:00+00:00",
-    "fetched": "2026-07-13T00:05:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/870429/c128b58cd061c68f942038e1b5878097.jpeg"
-  },
-  {
-    "id": "30e427085ae73b55",
-    "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-    "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-    "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-12T23:29:06+00:00",
-    "fetched": "2026-07-13T11:17:45+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg"
-  },
-  {
-    "id": "210858ff89197443",
-    "title": "Designing and assembling my first PCB",
-    "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html Comments URL: https://news.ycombinator.com/item?id=48885728 Points: 11 # Comments: 0",
-    "url": "https://vilkeliskis.com/b/2026/0711.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-12T22:56:56+00:00",
-    "fetched": "2026-07-13T00:05:28+00:00",
-    "image": null
-  },
-  {
-    "id": "4e703addbac2f0cd",
-    "title": "Architecture Description Languages [pdf]",
-    "summary": "Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf Comments URL: https://news.ycombinator.com/item?id=48885708 Points: 6 # Comments: 1",
-    "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-12T22:54:07+00:00",
-    "fetched": "2026-07-13T00:05:28+00:00",
-    "image": null
-  },
-  {
-    "id": "5e9fff5f52ca585b",
-    "title": "Why Vanilla JavaScript",
-    "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html Comments URL: https://news.ycombinator.com/item?id=48885705 Points: 96 # Comments: 50",
-    "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-12T22:53:51+00:00",
-    "fetched": "2026-07-13T04:09:38+00:00",
-    "image": null
-  },
-  {
-    "id": "e3bea4011af66daf",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels",
-    "summary": "Article URL: https://shellzine.net/cyberpunk-comics/ Comments URL: https://news.ycombinator.com/item?id=48885643 Points: 20 # Comments: 2",
-    "url": "https://shellzine.net/cyberpunk-comics/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-12T22:45:31+00:00",
-    "fetched": "2026-07-13T00:05:28+00:00",
-    "image": null
   }
 ]
