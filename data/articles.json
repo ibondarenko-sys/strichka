@@ -1,5 +1,149 @@
 [
   {
+    "id": "4ed107a8d8b3bf19",
+    "title": "Уряд схвалив законопроєкт, що змінює правила оподаткування товарів придбаних через іноземні маркетплейси",
+    "summary": "Йдеться про ПДВ на імпортні товари вартістю до 150 євро. Корецький заявив, що це питання підтримки українських виробників.",
+    "url": "https://lb.ua/economics/2026/07/29/755414_uryad_shvaliv_zakonoproiekt_scho.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-29T20:52:00+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://i.lb.ua/news/069/42/6a6a67f2608d9.jpg"
+  },
+  {
+    "id": "26985a57b0fb2af2",
+    "title": "Генштаб: Росіяни 191 раз атакували позиції Сил оборони від початку доби",
+    "summary": "Від початку 29 липня на фронті відбулося 191 бойове зіткнення. Найбільше атак російські війська здійснили на Покровському, Костянтинівському та Слов'янському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/07/29/8046469/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-29T20:41:00+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/883525/74662bd84313b3dbaf1ba9958723fa51.jpeg"
+  },
+  {
+    "id": "9c58f8b83a3091ef",
+    "title": "The coolest use for the Vision Pro",
+    "summary": "Article URL: https://christianselig.com/2026/07/vision-pro-house/ Comments URL: https://news.ycombinator.com/item?id=49102774 Points: 4 # Comments: 0",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T20:39:40+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://christianselig.com/2026/07/vision-pro-house/hero.jpeg"
+  },
+  {
+    "id": "42a83386fa4877e3",
+    "title": "Федоров пов’язав своє звільнення з реформами в Міноборони: \"Наступив на інтереси багатьох людей і компаній\"",
+    "summary": "Колишній міністр оборони Михайло Федоров вважає, що одним із чинників його звільнення став спротив реформам у Міністерстві оборони, зокрема змінам у сфері закупівель і тендерів, які зачепили інтереси багатьох людей та компаній.",
+    "url": "https://www.pravda.com.ua/news/2026/07/29/8046468/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-29T20:35:00+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/883524/7881aea620ca7209c7b14d0e1041d21d.jpeg"
+  },
+  {
+    "id": "e9229374c6759b89",
+    "title": "Одна людина поранена внаслідок російської атаки по Запорізькій області",
+    "summary": "Пошкоджено багатоквартирний будинок.",
+    "url": "https://lb.ua/society/2026/07/29/755412_lyudina_poranena_vnaslidok.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-29T20:29:00+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://i.lb.ua/news/018/06/6a6a62c9bca99.jpg"
+  },
+  {
+    "id": "8335c9276e38d2c7",
+    "title": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges",
+    "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 14 percent, according to Microsoft's fourth-quarter earnings report released…",
+    "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T20:26:48+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "43556dcba4b5e1a8",
+    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+    "summary": "Article URL: https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture Comments URL: https://news.ycombinator.com/item?id=49102525 Points: 6 # Comments: 0",
+    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T20:21:48+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://cdn.prod.website-files.com/69b08eccd318a55f50603856/6a6a2c2962ed0e0497454b86_ChatGPT%20Image%20Jul%2029%2C%202026%2C%2009_52_55%20AM.png"
+  },
+  {
+    "id": "e7ece2d69f47dfe7",
+    "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+    "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+    "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-29T20:21:46+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad2/live/e88c90f0-8b8a-11f1-9432-3dcf466331f0.jpg"
+  },
+  {
+    "id": "df46fae6a1b92d2e",
+    "title": "A Trampoline",
+    "summary": "Article URL: https://dogdogfish.com/blog/2026/07/29/a-trampoline/ Comments URL: https://news.ycombinator.com/item?id=49102425 Points: 9 # Comments: 2",
+    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T20:14:36+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": null
+  },
+  {
+    "id": "a174e1130f41150b",
+    "title": "Федоров в інтерв'ю УП розповів про причини своєї відставки",
+    "summary": "Він також заявив, що не ставив президенту ультиматуму щодо посади міністра оборони.",
+    "url": "https://lb.ua/news/2026/07/29/755410_fedorov_intervyu_up_rozpoviv_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-29T20:08:00+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://i.lb.ua/news/113/48/6a6a5db3ed9b5.jpg"
+  },
+  {
+    "id": "3584c79fbc77b6c9",
+    "title": "Who wins and who loses after US bans foreign robots?",
+    "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+    "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T20:03:42+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg"
+  },
+  {
+    "id": "ce380da70fd535b0",
+    "title": "Claude Is Down",
+    "summary": "Article URL: https://status.claude.com/incidents/q2kg8n613kr3 Comments URL: https://news.ycombinator.com/item?id=49102150 Points: 158 # Comments: 134",
+    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T19:50:42+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
+  },
+  {
     "id": "2e9ddeb3a13b00d9",
     "title": "Федоров: Реформу мобілізації планували запустити в серпні, щоб у вересні розв’язати проблему",
     "summary": "Колишній міністр оборони Михайло Федоров заявив, що реформу мобілізації планували представити у липні, запустити в серпні, а вже у вересні вона мала суттєво змінити ситуацію з комплектуванням війська.",
@@ -36,6 +180,30 @@
     "image": "https://i.lb.ua/news/007/15/6a6a56d650ce4.jpg"
   },
   {
+    "id": "99863285e0770524",
+    "title": "Глава МЗС Боснії про євроінтеграцію України: вони навіть не контролюють всю свою територію",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/07/29/8046466/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-29T19:36:00+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/f/b/fbc9e21-qpkktkpturbxy82nzu1njkxnzdlntfkythhnjmwztbhotyxmjezzme1oc5qcgerlqlnb9aawsm.jpeg"
+  },
+  {
+    "id": "ab17c0bd8708a387",
+    "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+    "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T19:33:55+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/banana-cream-pie-1152x648-1785351920.jpg"
+  },
+  {
     "id": "6c4f37b656c34ee6",
     "title": "Федоров: За пів години до фракції мені повідомили про кандидатуру Клименка",
     "summary": "Колишній міністр оборони Михайло Федоров заявив, що президент Володимир Зеленський повідомив йому про намір призначити нового очільника Міноборони Євгена Клименка приблизно за пів години до засідання фракції \"Слуга народу\".",
@@ -48,6 +216,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/8/883505/a8fb31dc08b2ba08a9fce4a6d8daec8d.jpeg"
   },
   {
+    "id": "c67f0599e5bd7326",
+    "title": "Kimi K3-256k",
+    "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 174 # Comments: 39",
+    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T19:25:33+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": null
+  },
+  {
     "id": "d995be5a08e18a93",
     "title": "Зеленський: Цієї ночі є велика ймовірність масованого удару РФ",
     "summary": "Президент Володимир Зеленський попередив, що в ніч на 30 липня Росія може завдати чергового масованого повітряного удару по Україні.",
@@ -58,6 +238,18 @@
     "published": "2026-07-29T19:24:00+00:00",
     "fetched": "2026-07-29T19:53:07+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/a/883504/4af1f5008e1275e6d8c5c23eb63062c2.jpeg"
+  },
+  {
+    "id": "4470558f362152b3",
+    "title": "Customize Ars your way with an Ars Pro subscription",
+    "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+    "url": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T19:23:27+00:00",
+    "fetched": "2026-07-29T21:01:09+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ars-subscriber-ball-track-1152x648.jpg"
   },
   {
     "id": "bfd5c2d247ca1a3c",
@@ -84,6 +276,18 @@
     "image": "https://i.lb.ua/news/019/48/6a6a516dc93a1.jpg"
   },
   {
+    "id": "5c3c4b506ed470f3",
+    "title": "How much can you delegate to agents?",
+    "summary": "Article URL: https://newsletter.posthog.com/p/agent-autonomy Comments URL: https://news.ycombinator.com/item?id=49101655 Points: 20 # Comments: 0",
+    "url": "https://newsletter.posthog.com/p/agent-autonomy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T19:07:13+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!MZjp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e69b042-b83c-4028-a0b5-202080e59195_2912x2096.png"
+  },
+  {
     "id": "8825e94989cb0a4c",
     "title": "Михайло Федоров про своє звільнення, тиск навколо закупівель, мобілізаційну реформу та план війни",
     "summary": "",
@@ -106,6 +310,18 @@
     "published": "2026-07-29T19:00:00+00:00",
     "fetched": "2026-07-29T19:53:07+00:00",
     "image": "https://i.lb.ua/news/113/50/6a6a4dd3c0fa7.jpg"
+  },
+  {
+    "id": "b62aa70a9254a560",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 24 # Comments: 18",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T18:57:10+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png"
   },
   {
     "id": "2c3505adf5e9fd4d",
@@ -132,6 +348,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/883491/a051594aacd0a0e7e7cace855f5ed876.jpeg"
   },
   {
+    "id": "7c79c143a6fe3639",
+    "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+    "summary": "Article URL: https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html Comments URL: https://news.ycombinator.com/item?id=49101351 Points: 24 # Comments: 4",
+    "url": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T18:42:10+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": null
+  },
+  {
     "id": "3ea53c3cdf22f23b",
     "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
     "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
@@ -154,6 +382,18 @@
     "published": "2026-07-29T18:41:00+00:00",
     "fetched": "2026-07-29T19:53:07+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/b/883486/3b21bebdb77654d6eb8177248dcccf56.jpeg"
+  },
+  {
+    "id": "b540639b2297753e",
+    "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
+    "summary": "Article URL: https://gleam.run/news/a-field-day-for-gleams-language-server/ Comments URL: https://news.ycombinator.com/item?id=49101334 Points: 8 # Comments: 0",
+    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T18:40:52+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://gleam.run/images/preview/v1.18.png"
   },
   {
     "id": "455e33dc5779d53d",
@@ -202,6 +442,18 @@
     "published": "2026-07-29T18:32:00+00:00",
     "fetched": "2026-07-29T19:53:07+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/7/b/7b938b7-4b79042be72b60749997e8c414930a87-1756112874-extra-large.jpeg"
+  },
+  {
+    "id": "dcd0cc90eb32c846",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+    "summary": "Article URL: https://prilik.com/blog/post/automating-ac-nyc/ Comments URL: https://news.ycombinator.com/item?id=49101198 Points: 45 # Comments: 28",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-29T18:28:51+00:00",
+    "fetched": "2026-07-29T21:01:11+00:00",
+    "image": "https://prilik.com/blog/img/favicon/blue.png"
   },
   {
     "id": "453862f893b65c09",
@@ -50170,173 +50422,5 @@
     "published": "2026-07-15T21:04:22+00:00",
     "fetched": "2026-07-15T22:06:04+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg"
-  },
-  {
-    "id": "aab8e06bb6f2ab12",
-    "title": "Show HN: Firefox in WebAssembly",
-    "summary": "This is the entire Firefox browser rendering to a element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly. Here are a few things you might find interesting: - This is fully end to end encrypted! We use the WISP protocol for…",
-    "url": "https://developer.puter.com/labs/firefox-wasm/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-15T21:00:17+00:00",
-    "fetched": "2026-07-15T22:06:05+00:00",
-    "image": null
-  },
-  {
-    "id": "9ab802f498decbce",
-    "title": "Головне за середу, 15 липня: удар КАБами по Сумах, 235 бойових зіткнень, нові кандидати в урядовці",
-    "summary": "Бойові дії на Донеччині, 235 бойових зіткнень, ворожі обстріли. Яким запам’ятається 1603-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/15/752236_golovne_seredu_15_lipnya_udar.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T20:59:00+00:00",
-    "fetched": "2026-07-15T22:06:05+00:00",
-    "image": "https://i.lb.ua/news/006/45/6a57f8db94591.jpg"
-  },
-  {
-    "id": "292ce7102231e624",
-    "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-    "summary": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operations Mexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and Customs Enforcement custody or…",
-    "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-15T20:58:43+00:00",
-    "fetched": "2026-07-15T22:06:04+00:00",
-    "image": "https://i.guim.co.uk/img/media/7d0736fc97812addee2f06e9ff17a1f2084b1b60/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=6171a9ef9d1cb9452a10ff9c7e727e19"
-  },
-  {
-    "id": "d7ad265ee994410f",
-    "title": "До Ради надійшло подання президента Зеленського про призначення Сергія Корецького прем'єр-міністром",
-    "summary": "Парламент розгляне його вже \"найближчим часом\".",
-    "url": "https://lb.ua/news/2026/07/15/752228_radi_nadiyshlo_podannya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T20:39:00+00:00",
-    "fetched": "2026-07-15T22:06:05+00:00",
-    "image": "https://i.lb.ua/news/063/29/6a57f0268c645.jpg"
-  },
-  {
-    "id": "0df43d595cb77a1b",
-    "title": "Зеленський подав до Верховної Ради кандидатуру Сергія Корецького на посаду прем'єра",
-    "summary": "Президент України володимир Зеленський вніс у Верховну раду",
-    "url": "https://www.pravda.com.ua/news/2026/07/15/8044295/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T20:29:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/0/873013/7002ab24865a06b7ae1d6e92bd9d8a9f.jpeg"
-  },
-  {
-    "id": "f42bd958467e680d",
-    "title": "Grok Build",
-    "summary": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 88 # Comments: 101",
-    "url": "https://github.com/xai-org/grok-build",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-15T20:24:58+00:00",
-    "fetched": "2026-07-15T22:06:05+00:00",
-    "image": "https://avatars.githubusercontent.com/u/130314967?s=400&v=4"
-  },
-  {
-    "id": "78fc1b9c6e227435",
-    "title": "У МЗС Болгарії пояснили, чому країна вийшла з \"коаліції рішучих\"",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/15/8044293/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T20:22:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/2/4/24ad275----.jpg"
-  },
-  {
-    "id": "84e11ed206367a48",
-    "title": "Норвегія приєдналась до Спецтрибуналу щодо агресії Росії",
-    "summary": "В МЗС країни заявили про необхідність притягнення російського керівництва до відповідальності за війну.",
-    "url": "https://lb.ua/news/2026/07/15/752226_norvegiya_priiednalas.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T20:19:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://i.lb.ua/news/124/48/6a57eb6d80f6e.jpg"
-  },
-  {
-    "id": "36de50aa801733a6",
-    "title": "Roblox is shutting down its video chat service",
-    "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people…",
-    "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-15T20:02:26+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/5c0b7b15-9367-f7f0-60f5-77c45d313ece.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "08af9757f3b155e5",
-    "title": "У Запоріжжі до трьох зросла кількість загиблих від російської атаки, 15 постраждалих",
-    "summary": "Внаслідок російського авіаудару на Запоріжжя 15 липня загинули 3 людей, ще 15 поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/07/15/8044292/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T20:01:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/872999/454022dcaa4442a0538a7abf955a8a8a.jpeg"
-  },
-  {
-    "id": "aa32e1edecf76be3",
-    "title": "AI slop movies are the new direct-to-video cash grabs",
-    "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses…",
-    "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-15T20:00:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "f6b48a2319b55d4a",
-    "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
-    "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
-    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-15T19:59:48+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg"
-  },
-  {
-    "id": "dc37927b7495f7fa",
-    "title": "Генштаб повідомив про 235 бойових дій з початку доби",
-    "summary": "Від початку доби 15 липня на фронті відбулось 235 бойових зіткнень, зокрема 32 на Покровському напрямку.",
-    "url": "https://www.pravda.com.ua/news/2026/07/15/8044291/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T19:58:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/d/872998/dd74c6c7cc19983ec1b1c1374c622be1.jpeg"
-  },
-  {
-    "id": "4e8a363748d7957d",
-    "title": "На Тернопільщині викрили міжрегіональний канал збуту психотропів через Telegram",
-    "summary": "П'ятьом учасникам злочинної групи повідомили про підозру.",
-    "url": "https://lb.ua/society/2026/07/15/752224_ternopilschini_vikrili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-15T19:55:00+00:00",
-    "fetched": "2026-07-15T20:34:47+00:00",
-    "image": "https://i.lb.ua/news/074/52/6a57e5c670c2d.jpg"
   }
 ]
