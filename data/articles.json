@@ -1,5 +1,101 @@
 [
   {
+    "id": "2c84d1a306e8b4bf",
+    "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+    "summary": "Israel and Hamas have yet to comment on the announcement.",
+    "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-07-30T23:30:41+00:00",
+    "fetched": "2026-07-31T00:06:28+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "4a7e77917b85e8fa",
+    "title": "ЗМІ: Віткофф та Кушнер вперше приїдуть до Києва на День Незалежності",
+    "summary": "Переговорники Дональда Трампа тривалий час відмовлялись відвідувати Україну.",
+    "url": "https://lb.ua/society/2026/07/31/755668_zmi_vitkoff_kushner_vpershe.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-30T23:28:00+00:00",
+    "fetched": "2026-07-31T00:06:28+00:00",
+    "image": "https://i.lb.ua/news/021/58/6a6bde4f33436.jpg"
+  },
+  {
+    "id": "cfcccf116d3f84e6",
+    "title": "The AI Aesthetic",
+    "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 10 # Comments: 2",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-30T23:22:16+00:00",
+    "fetched": "2026-07-31T00:06:29+00:00",
+    "image": null
+  },
+  {
+    "id": "8772875fcabf3268",
+    "title": "Окупанти перекривали Кримський міст, у Севастополі заявили про роботу ППО",
+    "summary": "Вночі 31 липня в окупованому Севастополі заявили про роботу ППО.",
+    "url": "https://www.pravda.com.ua/news/2026/07/31/8046628/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-30T23:20:00+00:00",
+    "fetched": "2026-07-31T00:06:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/d/884220/ad1f0104ca1204057705cd03c86d2e70.jpeg"
+  },
+  {
+    "id": "d382e1dba0c73c1f",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals Comments URL: https://news.ycombinator.com/item?id=49116922 Points: 48 # Comments: 30",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-30T23:00:51+00:00",
+    "fetched": "2026-07-31T00:06:29+00:00",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather"
+  },
+  {
+    "id": "0b3f17321d90b208",
+    "title": "Трамп заявив про досягнення \"історичної угоди\" про повне роззброєння ХАМАС у Газі",
+    "summary": "Трамп заявив, що досягнуто угоди про повне роззброєння ХАМАС у Газі.",
+    "url": "https://www.pravda.com.ua/news/2026/07/31/8046627/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-30T22:58:00+00:00",
+    "fetched": "2026-07-31T00:06:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/884219/b9c8a813f9a2dc16b36a0fcff95c9acd.jpeg"
+  },
+  {
+    "id": "8448d2434c37f6d1",
+    "title": "Іран пригрозив Болгарії та Кіпру через розміщення американських літаків",
+    "summary": "МЗС ісламської республіки залякує союзників Сполучених Штатів у Європі.",
+    "url": "https://lb.ua/world/2026/07/31/755666_iran_prigroziv_bolgariyi_kipru.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-30T22:49:00+00:00",
+    "fetched": "2026-07-31T00:06:28+00:00",
+    "image": "https://i.lb.ua/news/093/31/6a6bd72673a17.jpg"
+  },
+  {
+    "id": "4ad44c609c51f1ae",
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49116721 Points: 40 # Comments: 6",
+    "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-30T22:33:11+00:00",
+    "fetched": "2026-07-31T00:06:29+00:00",
+    "image": null
+  },
+  {
     "id": "ee384203db2a6b56",
     "title": "Tim Cook hints at iCloud Plus tier for AI power users",
     "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities…",
@@ -82,6 +178,18 @@
     "published": "2026-07-30T21:37:00+00:00",
     "fetched": "2026-07-30T22:37:03+00:00",
     "image": "https://i.lb.ua/news/091/36/6a6bc3cb44950.jpg"
+  },
+  {
+    "id": "d190dd6c0c2d8b06",
+    "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+    "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct Comments URL: https://news.ycombinator.com/item?id=49116074 Points: 16 # Comments: 3",
+    "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-07-30T21:31:03+00:00",
+    "fetched": "2026-07-31T00:06:29+00:00",
+    "image": null
   },
   {
     "id": "b20b8c8780bef4cf",
@@ -49858,65 +49966,5 @@
     "published": "2026-07-17T00:07:49+00:00",
     "fetched": "2026-07-17T04:43:28+00:00",
     "image": "https://opengraph.githubassets.com/7662b8d8974347482a84692bdbf904d6dd89e1dc4e2c052d81b217ac17a50b6c/Robbyant/lingbot-map"
-  },
-  {
-    "id": "acbbfd25a3daf586",
-    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-    "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-    "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-17T00:02:54+00:00",
-    "fetched": "2026-07-17T04:43:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-1152x648.jpg"
-  },
-  {
-    "id": "f77bf254c7eeadb4",
-    "title": "Axios: Законопроєкт Ліндсі Грема щодо посилення санкцій проти Росії набрав необхідну кількість голосів",
-    "summary": "Законопроєкт Грема про вторинні мита проти Росії вже має понад 60 співавторів у Сенаті",
-    "url": "https://www.pravda.com.ua/news/2026/07/17/8044471/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-16T23:38:00+00:00",
-    "fetched": "2026-07-17T01:03:25+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/873904/956c85b61c37a0ca0ed4ac53599312f0.jpeg"
-  },
-  {
-    "id": "280689b6e70b5933",
-    "title": "Білий дім підтвердив, що Трамп відвідає фінал чемпіонату світу з футболу",
-    "summary": "Минула спортивна подія у Нью-Йорку за участі президента супроводжувалась гучним свистом.",
-    "url": "https://lb.ua/world/2026/07/17/752504_biliy_dim_pidtverdiv_scho_tramp.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-16T23:32:00+00:00",
-    "fetched": "2026-07-17T01:03:25+00:00",
-    "image": "https://i.lb.ua/news/058/10/6a596a27d20de.jpg"
-  },
-  {
-    "id": "cd1ffdb63cf710e7",
-    "title": "На Сумщині через російські удари протягом дня постраждали семеро людей, серед них – дитина",
-    "summary": "Внаслідок обстрілів і атак дронами у Сумському районі поранені семеро людей, включно з 4-річною дитиною.",
-    "url": "https://www.pravda.com.ua/news/2026/07/17/8044470/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-16T22:53:00+00:00",
-    "fetched": "2026-07-16T23:01:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/873903/5f1d4479370181bad7312cdd220d090f.jpeg"
-  },
-  {
-    "id": "3709174db3d8874b",
-    "title": "В Італії оголосили вироки відповідальним за падіння мосту у Генуї",
-    "summary": "Трагедія 2018 року забрала життя 43 людей.",
-    "url": "https://lb.ua/world/2026/07/17/752502_italiyi_ogolosili_viroki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-16T22:47:00+00:00",
-    "fetched": "2026-07-16T23:01:26+00:00",
-    "image": "https://i.lb.ua/news/111/32/6a595d76c2c63.jpg"
   }
 ]
