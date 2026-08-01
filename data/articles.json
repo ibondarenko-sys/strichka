@@ -1,5 +1,53 @@
 [
   {
+    "id": "83920f94ca5c548b",
+    "title": "Литва викличе представника РФ через пошкодження свого посольства в Києві під час російської атаки",
+    "summary": "МЗС Литви викличе представника Росії після ракетної атаки, що пошкодила посольство у Києві.",
+    "url": "https://www.pravda.com.ua/news/2026/08/02/8046871/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T21:51:00+00:00",
+    "fetched": "2026-08-01T22:29:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/885088/3711c6e7fd4ee3df685e347a11ca78bd.jpeg"
+  },
+  {
+    "id": "bfffe3c86d90395e",
+    "title": "Pixel 11 specs and price leak with no surprises",
+    "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but…",
+    "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T21:31:24+00:00",
+    "fetched": "2026-08-01T22:29:48+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6adf340901baeb34",
+    "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+    "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+    "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-01T21:03:42+00:00",
+    "fetched": "2026-08-01T22:29:47+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg"
+  },
+  {
+    "id": "537dedb7460a92cd",
+    "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
+    "summary": "Article URL: https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/ Comments URL: https://news.ycombinator.com/item?id=49138443 Points: 61 # Comments: 19",
+    "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T21:02:07+00:00",
+    "fetched": "2026-08-01T22:29:48+00:00",
+    "image": "https://assets.sfstandard.com/image/994911177489/image_lgh2ukl3j1287477e0ejo4pi4n/-C100.00%25x78.75%25%2C0.00%25%2C13.40%25-S1200x630-FPNG"
+  },
+  {
     "id": "5a2e67c062a1d7ae",
     "title": "Головне за суботу, 1 серпня: понад 190 бойових зіткнень, влучання у склад компанії Rozetka, вибух у ресторані у центрі Москви",
     "summary": "Бойові дії на Донеччині, 193 бойових зіткнення, ворожі обстріли, удар по автобусу на Дніпропетровщині. Яким запам’ятається 1620-й день повномасштабної війни.",
@@ -46,6 +94,18 @@
     "published": "2026-08-01T20:46:00+00:00",
     "fetched": "2026-08-01T21:27:20+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/2/f/2f580ee-90a98f83-882e-4efe-b496-26de5e574454-w1840-r1.5-fpx54-fpy65.png"
+  },
+  {
+    "id": "9abc53d7091c26dd",
+    "title": "Seedance 2.5",
+    "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 36 # Comments: 10",
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T20:45:12+00:00",
+    "fetched": "2026-08-01T22:29:48+00:00",
+    "image": null
   },
   {
     "id": "916c591d7e1a2e95",
@@ -49906,125 +49966,5 @@
     "published": "2026-07-18T23:24:26+00:00",
     "fetched": "2026-07-19T01:04:39+00:00",
     "image": null
-  },
-  {
-    "id": "34bb0d0f705a8318",
-    "title": "Росія атакує Київ ракетами",
-    "summary": "Лунали численні вибухи.",
-    "url": "https://lb.ua/society/2026/07/19/752928_rosiya_atakuie_kiyiv_raketami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T22:27:00+00:00",
-    "fetched": "2026-07-18T23:28:16+00:00",
-    "image": "https://i.lb.ua/static/logo.480.jpg"
-  },
-  {
-    "id": "8655e48360665d5a",
-    "title": "Росія атакувала Київ ракетами",
-    "summary": "Лунали численні вибухи.",
-    "url": "https://lb.ua/society/2026/07/19/752928_rosiya_atakuvala_kiyiv_raketami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T22:27:00+00:00",
-    "fetched": "2026-07-19T01:04:39+00:00",
-    "image": "https://i.lb.ua/static/logo.480.jpg"
-  },
-  {
-    "id": "0743f8b1ad7921b1",
-    "title": "Балістична атака на Київ: горять будинки, ТРЦ, автомобілі",
-    "summary": "У Києві пролунали численні вибухи, ворог атакує балістикою.",
-    "url": "https://www.pravda.com.ua/news/2026/07/19/8044755/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T22:24:00+00:00",
-    "fetched": "2026-07-18T23:28:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/875312/52cb812535aadb67ade92a66cb5b97ea.jpeg"
-  },
-  {
-    "id": "4faf0c553ba08f9c",
-    "title": "Gap in Mochizuki's proof of ABC confirmed by Lean",
-    "summary": "Article URL: https://twitter.com/FumiharuKato/status/2078017230537892207 Comments URL: https://news.ycombinator.com/item?id=48963019 Points: 9 # Comments: 1",
-    "url": "https://twitter.com/FumiharuKato/status/2078017230537892207",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T22:19:37+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": "https://pbs.twimg.com/profile_images/654557578261741570/MAmfCYYX_200x200.jpg"
-  },
-  {
-    "id": "a20309c6ae08862a",
-    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-    "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 45 # Comments: 23",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T22:13:39+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg"
-  },
-  {
-    "id": "2f14182855678677",
-    "title": "В Ірані прихильники жорсткого курсу попереджають про \"державний переворот\" – CNN",
-    "summary": "ЗМІ повідомляють, що іранці говорять \"державний переворот\" на тлі переговорів із США.",
-    "url": "https://www.pravda.com.ua/news/2026/07/19/8044754/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T22:10:00+00:00",
-    "fetched": "2026-07-18T22:25:02+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/875309/fff0399d4c220da5ca3fe3fc6a7467db.jpeg"
-  },
-  {
-    "id": "af0e1b43fff69b7e",
-    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-    "summary": "Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf Comments URL: https://news.ycombinator.com/item?id=48962944 Points: 8 # Comments: 2",
-    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T22:09:07+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": null
-  },
-  {
-    "id": "e05396a0133c2651",
-    "title": "Judge a book by its first pages",
-    "summary": "Article URL: https://uncovered.ink Comments URL: https://news.ycombinator.com/item?id=48962893 Points: 4 # Comments: 0",
-    "url": "https://uncovered.ink",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T22:02:31+00:00",
-    "fetched": "2026-07-18T22:25:03+00:00",
-    "image": "https://uncovered.ink/og.png"
-  },
-  {
-    "id": "dc41641ba9184158",
-    "title": "Classic Amiga titles, free to download",
-    "summary": "Article URL: https://amigafreeware.downer.tech/ Comments URL: https://news.ycombinator.com/item?id=48962838 Points: 11 # Comments: 0",
-    "url": "https://amigafreeware.downer.tech/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T21:55:27+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": null
-  },
-  {
-    "id": "603bdbc95384c8e8",
-    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-    "summary": "Article URL: https://www.neatnik.net/hardcore-indieweb Comments URL: https://news.ycombinator.com/item?id=48962758 Points: 28 # Comments: 21",
-    "url": "https://www.neatnik.net/hardcore-indieweb",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T21:45:12+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": "https://www.neatnik.net/hardcore-indieweb/og.png"
   }
 ]
