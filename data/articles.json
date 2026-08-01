@@ -1,5 +1,89 @@
 [
   {
+    "id": "5a2e67c062a1d7ae",
+    "title": "Головне за суботу, 1 серпня: понад 190 бойових зіткнень, влучання у склад компанії Rozetka, вибух у ресторані у центрі Москви",
+    "summary": "Бойові дії на Донеччині, 193 бойових зіткнення, ворожі обстріли, удар по автобусу на Дніпропетровщині. Яким запам’ятається 1620-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/01/756104_golovne_subotu_1_serpnya_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T20:59:00+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": "https://i.lb.ua/news/100/27/6a6e628cbe384.jpg"
+  },
+  {
+    "id": "97afcf3f2d664e43",
+    "title": "​Washington Post: Командувач сил США в Європі попередив про можливий брак ресурсів для захисту Ізраїлю від Ірану",
+    "summary": "Без додаткового есмінця Пентагону доведеться вибирати між захистом Ізраїлю та самих США.",
+    "url": "https://lb.ua/world/2026/08/01/756102_washington_post_komanduvach_sil.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T20:54:00+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": "https://i.lb.ua/news/089/57/6a6e5d0c55999.jpg"
+  },
+  {
+    "id": "947baee6e271c7fe",
+    "title": "Tourist plane crashes in Peru, killing 13",
+    "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+    "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-01T20:51:09+00:00",
+    "fetched": "2026-08-01T21:27:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e78/live/b07d6b40-8de6-11f1-92c6-e748252fe919.jpg"
+  },
+  {
+    "id": "5eccceb0d873b907",
+    "title": "Сотні тисяч людей вийшли на прайди в Гамбурзі і Амстердамі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/01/8046870/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T20:46:00+00:00",
+    "fetched": "2026-08-01T21:27:20+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/2/f/2f580ee-90a98f83-882e-4efe-b496-26de5e574454-w1840-r1.5-fpx54-fpy65.png"
+  },
+  {
+    "id": "916c591d7e1a2e95",
+    "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+    "summary": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authorities At least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Nazca’s municipal government said the plane was taking…",
+    "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-01T20:42:06+00:00",
+    "fetched": "2026-08-01T21:27:20+00:00",
+    "image": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=140&quality=85&auto=format&fit=max&s=71bda09cf7acce35d6c19ed47fd0a76f"
+  },
+  {
+    "id": "b117854c872aff85",
+    "title": "Diátaxis",
+    "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 23 # Comments: 6",
+    "url": "https://diataxis.fr/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T20:33:27+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": null
+  },
+  {
+    "id": "df64a2b68b99ae19",
+    "title": "Суд відправив під домашній арешт затриманого ветерана KRAKEN, – Суспільне",
+    "summary": "Раніше про справу проти Гліба Новостройного повідомив співзасновник KRAKEN Костянтин Немічев.",
+    "url": "https://lb.ua/society/2026/08/01/756100_sud_vidpraviv_pid_domashniy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T20:31:00+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": "https://i.lb.ua/news/080/28/6a6e578e2af78.jpg"
+  },
+  {
     "id": "fc3244c62f9a0cad",
     "title": "У Росії заявили, що в московському ресторані підірвали вибухівку",
     "summary": "Національний антитерористичний комітет РФ заявив, що в ресторані Balzi Rossi в центрі Москви підірвали саморобний вибуховий пристрій.",
@@ -10,6 +94,18 @@
     "published": "2026-08-01T20:22:00+00:00",
     "fetched": "2026-08-01T20:27:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/885078/og_8046869_ukr.png?w=1200&q=85&stamp=1785615940"
+  },
+  {
+    "id": "d9aabc019c8a0db3",
+    "title": "The Silicon Valley Founder Meat Grinder",
+    "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 43 # Comments: 7",
+    "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T20:20:58+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": "https://zaksa.zip/images/share.png"
   },
   {
     "id": "de5af23a6b216faf",
@@ -48,6 +144,18 @@
     "image": "https://i.lb.ua/news/085/24/6a6e335c7dc84.jpg"
   },
   {
+    "id": "8dcf962fed283c36",
+    "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+    "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+    "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-01T20:09:27+00:00",
+    "fetched": "2026-08-01T21:27:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg"
+  },
+  {
     "id": "42fded289b20c2ff",
     "title": "Ветерана KRAKEN відправили під цілодобовий домашній арешт – ЗМІ",
     "summary": "Ветерану KRAKEN Глібу Новостройному призначено цілодобовий домашній арешт. Суть підозри офіційно не розголошують.",
@@ -58,6 +166,18 @@
     "published": "2026-08-01T20:08:00+00:00",
     "fetched": "2026-08-01T20:27:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/885074/6483f2c43651929663091c0e9c9afb55.jpeg"
+  },
+  {
+    "id": "53f07568afcc10f8",
+    "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+    "summary": "Article URL: https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose Comments URL: https://news.ycombinator.com/item?id=49137904 Points: 29 # Comments: 17",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T20:07:39+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f337127b-b7da-4c04-ba43-86e2dc9d771e/Cookware_card_1200_630.png?t=1784049693"
   },
   {
     "id": "e7c52d173f0b1d2c",
@@ -310,6 +430,18 @@
     "published": "2026-08-01T18:24:00+00:00",
     "fetched": "2026-08-01T19:15:34+00:00",
     "image": "https://i.lb.ua/news/097/62/6a6e39dbc9c34.jpg"
+  },
+  {
+    "id": "dfac76250606fc61",
+    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+    "summary": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets Comments URL: https://news.ycombinator.com/item?id=49136955 Points: 7 # Comments: 0",
+    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-01T18:21:41+00:00",
+    "fetched": "2026-08-01T21:27:21+00:00",
+    "image": "https://framerusercontent.com/images/QzYGhNgh0IQIDoXeiClgcslk6c.svg?width=1200&height=630"
   },
   {
     "id": "3e26c8def12c65c6",
@@ -49894,89 +50026,5 @@
     "published": "2026-07-18T21:45:12+00:00",
     "fetched": "2026-07-18T23:28:19+00:00",
     "image": "https://www.neatnik.net/hardcore-indieweb/og.png"
-  },
-  {
-    "id": "ea8ed5c1362594a4",
-    "title": "У Запоріжжі внаслідок ворожої атаки пожежа охопила будівлю вишу – ОВА",
-    "summary": "У Запоріжжі після ворожої атаки горить будівля вишу.",
-    "url": "https://www.pravda.com.ua/news/2026/07/19/8044753/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T21:24:00+00:00",
-    "fetched": "2026-07-18T22:25:02+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/875310/155128a77708d483e73eff1eba2030fc.jpeg"
-  },
-  {
-    "id": "cb40ed53af634353",
-    "title": "Co-evolution of self-replication and function in a digital primordial soup",
-    "summary": "Article URL: https://arxiv.org/abs/2607.09211 Comments URL: https://news.ycombinator.com/item?id=48962429 Points: 8 # Comments: 1",
-    "url": "https://arxiv.org/abs/2607.09211",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T21:09:01+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "6f4e7b4dbb1c14cc",
-    "title": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-    "summary": "Article URL: https://github.com/saineshnakra/automated-data-analyst Comments URL: https://news.ycombinator.com/item?id=48962405 Points: 4 # Comments: 2",
-    "url": "https://github.com/saineshnakra/automated-data-analyst",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T21:06:49+00:00",
-    "fetched": "2026-07-18T23:28:19+00:00",
-    "image": "https://opengraph.githubassets.com/39b37bff17b1bfdd81df6e71a00fd9ccf2d76a9974d73da0d3f148e14342b51b/saineshnakra/automated-data-analyst"
-  },
-  {
-    "id": "d06575225c10d59b",
-    "title": "Матч за третє місце ЧС-2026. Франція – Англія (0:2). Онлайн-трансляція матчу (ОНОВЛЮЄТЬСЯ)",
-    "summary": "19 липня збірні Франції і Англії змагаються за бронзові нагороди чемпіонату світу з футболу 2026 року.",
-    "url": "https://lb.ua/sport/2026/07/19/752924_match_tretie_mistse_chs-2026.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T21:01:00+00:00",
-    "fetched": "2026-07-18T21:25:41+00:00",
-    "image": "https://i.lb.ua/news/049/53/6a5bec10bdff1.jpg"
-  },
-  {
-    "id": "0326a8b277ec5938",
-    "title": "Головне за суботу, 18 липня: удар по парку розваг у Одесі, понад 190 бойових зіткнень, протести після відставки Федорова",
-    "summary": "Бойові дії на Донеччині, 193 бойових зіткнення, ворожі обстріли, атака на Кривий Ріг. Яким запам’ятається 1606-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/18/752926_golovne_subotu_18_lipnya_udar.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T20:59:00+00:00",
-    "fetched": "2026-07-18T21:25:41+00:00",
-    "image": "https://i.lb.ua/news/079/61/6a5becad74cc6.jpg"
-  },
-  {
-    "id": "3d89d3a43d6e93b9",
-    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-    "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T20:54:42+00:00",
-    "fetched": "2026-07-18T21:25:41+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "0b8fd90851dc078a",
-    "title": "“Флеш”: потрібна сильна, сучасна трійка: міністр оборони — головнокомандувач — начальник Генштабу",
-    "summary": "Сергій Бескрестнов розповів, над чим планує працювати у першу чергу на посаді радника президента. Водночас він зауважив, що військове керівництво має динамічно реагувати на виклики ворога.",
-    "url": "https://lb.ua/society/2026/07/18/752922_flesh_potribna_silna_suchasna.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T20:52:00+00:00",
-    "fetched": "2026-07-18T21:25:41+00:00",
-    "image": "https://i.lb.ua/news/091/31/6a5be2cd7030d.jpg"
   }
 ]
