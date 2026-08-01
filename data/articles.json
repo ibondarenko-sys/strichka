@@ -1,5 +1,65 @@
 [
   {
+    "id": "a8f28cf57dd6ca10",
+    "title": "США та Ізраїль можуть завдати ударів по енергетиці Ірану на вихідних – ЗМІ",
+    "summary": "За даними CBS News, США та Ізраїль планують одну з наймасштабніших атак на об'єкти енергетичної інфраструктури в Ірані на цих вихідних.",
+    "url": "https://www.pravda.com.ua/news/2026/08/01/8046781/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T00:48:00+00:00",
+    "fetched": "2026-08-01T01:04:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/884674/843d0e0f6c0b256e07dcb0d4f4349436.jpeg"
+  },
+  {
+    "id": "0dd3872bab10a791",
+    "title": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen",
+    "summary": "Treasury secretary’s notepad, photographed by Reuters on Friday morning, prompts questions over US plans During a cabinet meeting at Camp David on Friday, the US treasury secretary Scott Bessent carelessly revealed plans for the US to buy $5bn-$10bn ⁠in Japanese yen in a…",
+    "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-01T00:33:29+00:00",
+    "fetched": "2026-08-01T01:04:36+00:00",
+    "image": "https://i.guim.co.uk/img/media/d6c2b31e56ea4bd013b4f8e25ecd3d2d1d8c34a2/710_0_5383_4307/master/5383.jpg?width=140&quality=85&auto=format&fit=max&s=0d295ada0b8c57f0191208e78b4f8535"
+  },
+  {
+    "id": "c805386009885713",
+    "title": "ФІФА відмовилась від планів продати частку комерційних прав на чемпіонат світу",
+    "summary": "Джанні Інфантіно зрозумів, що не збере достатньо голосів асоціацій.",
+    "url": "https://lb.ua/sport/2026/08/01/755918_fifa_vidmovilas_vid_planiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T00:25:00+00:00",
+    "fetched": "2026-08-01T01:04:36+00:00",
+    "image": "https://i.lb.ua/news/009/05/6a6d3d00bbf2b.jpg"
+  },
+  {
+    "id": "0598457661b4810f",
+    "title": "У Києві та низці областей лунала друга з початку доби повітряна тривога",
+    "summary": "О 3:17 у Києві та низці областей оголошували другу повітряну тривогу з початку доби.",
+    "url": "https://www.pravda.com.ua/news/2026/08/01/8046780/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-01T00:20:00+00:00",
+    "fetched": "2026-08-01T01:04:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/884673/e2fd1820b2788ef3bb4e054fa7556b3b.jpeg"
+  },
+  {
+    "id": "09cd2ed8baa8423e",
+    "title": "\"Можемо взяти практично все, що захочемо\" – Трамп про угоду з Україною про надра",
+    "summary": "Президент США Дональд Трамп зробив заяву з приводу угоди про рідкісноземельні ресурси, яка, за його словами, забезпечує Сполученим Штатам доступ до українських надр і може виявитися вигіднішою за обсяг наданої американської допомоги.",
+    "url": "https://www.pravda.com.ua/news/2026/08/01/8046779/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-31T23:12:00+00:00",
+    "fetched": "2026-08-01T01:04:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/884671/37b008ab3c767cfaa11bc38acfbececb.jpeg"
+  },
+  {
     "id": "ac790763acf04675",
     "title": "Росіяни атакують Київ балістикою і \"Цирконами\" (доповнюється)",
     "summary": "Знову ракетна небезпека для столиці.",
@@ -9,6 +69,18 @@
     "lang": "uk",
     "published": "2026-07-31T22:40:00+00:00",
     "fetched": "2026-07-31T23:06:15+00:00",
+    "image": "https://i.lb.ua/news/120/34/6a6d24a1d7592.jpg"
+  },
+  {
+    "id": "f3d5de36d47e99af",
+    "title": "Росіяни атакували Київ балістикою і \"Цирконами\", є загиблі (доповнено)",
+    "summary": "Знову ракетна небезпека для столиці.",
+    "url": "https://lb.ua/society/2026/08/01/755916_rosiyani_atakuvali_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-07-31T22:40:00+00:00",
+    "fetched": "2026-08-01T01:04:36+00:00",
     "image": "https://i.lb.ua/news/120/34/6a6d24a1d7592.jpg"
   },
   {
@@ -49642,125 +49714,5 @@
     "published": "2026-07-18T01:12:13+00:00",
     "fetched": "2026-07-18T04:07:35+00:00",
     "image": "https://pinewind.bearblog.dev/static/og-image.png"
-  },
-  {
-    "id": "a6a9c81d0fd1c241",
-    "title": "DrDroid (YC W23) Is Hiring",
-    "summary": "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory Comments URL: https://news.ycombinator.com/item?id=48954074 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T01:01:08+00:00",
-    "fetched": "2026-07-18T04:07:35+00:00",
-    "image": "https://bookface-images.s3.amazonaws.com/logos/6b57f1a7b6dd9a5c9660f68f80895462c94843d4.png?1668800160"
-  },
-  {
-    "id": "fa1a6e4d0838fa6d",
-    "title": "Дрони атакували окупований Крим: під удар міг потрапити аеродром",
-    "summary": "У ніч на 18 липня дрони атакували Крим: вибухи у Гвардійському, Севастополі, Феодосії, Керчі.",
-    "url": "https://www.pravda.com.ua/news/2026/07/18/8044652/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T00:56:00+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/1/874888/218cb66d858bcc13dbf6d710d82781c6.jpeg"
-  },
-  {
-    "id": "53ae656a4919f0e3",
-    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-    "summary": "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 20 # Comments: 3",
-    "url": "https://www.stenchill.com/en/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T00:48:37+00:00",
-    "fetched": "2026-07-18T04:07:35+00:00",
-    "image": "https://stenchill.com/og-image.png"
-  },
-  {
-    "id": "c4e41a9689ce5d46",
-    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-    "summary": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
-    "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-18T00:39:18+00:00",
-    "fetched": "2026-07-18T06:28:40+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg"
-  },
-  {
-    "id": "ab3d7b17c1000b69",
-    "title": "Трамп закликав сестру Ліндсі Грема балотуватися до Сенату США",
-    "summary": "Трамп закликав Дарлін Грем, сестру Ліндсі Грема, балотуватися в Сенат США після його смерті.",
-    "url": "https://www.pravda.com.ua/news/2026/07/18/8044651/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T00:34:00+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/6/874887/c64806d295176ed167e1798f0658a737.jpeg"
-  },
-  {
-    "id": "cb14cc369a18c2d4",
-    "title": "Парламент Японії вніс зміни до порядку успадкування престолу імператора",
-    "summary": "Але це не популярний в народі крок до зняття заборони на жіноче правління.",
-    "url": "https://lb.ua/world/2026/07/18/752745_parlament_yaponiyi_vnis_zmini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-18T00:34:00+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": "https://i.lb.ua/news/081/24/6a5accf38bd11.jpg"
-  },
-  {
-    "id": "1ad4b9c866203448",
-    "title": "Credit Card Points Are a Transfer from the Broke to the Comfortable",
-    "summary": "Article URL: https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer Comments URL: https://news.ycombinator.com/item?id=48953734 Points: 13 # Comments: 2",
-    "url": "https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-18T00:06:10+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": null
-  },
-  {
-    "id": "e1de5f09a269c706",
-    "title": "У Франції через сильну спеку за тиждень загинуло майже 3 тисячі людей",
-    "summary": "У червні рекордна спека спричинила понад 3 тис. смертей у регіоні Іль-де-Франс, що удвічі вище за норму.",
-    "url": "https://www.pravda.com.ua/news/2026/07/18/8044650/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-17T23:31:00+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/2/874886/c2a342b7e2afa461b1f1fa673b5028bc.jpeg"
-  },
-  {
-    "id": "73b2bff132fbc2a4",
-    "title": "У Литві зловмисники повідомили про хибні замінування, які призвели до евакуації",
-    "summary": "Кілька об'єктів у Вілюнюсі та Каунасі були оголошені небезпечними.",
-    "url": "https://lb.ua/world/2026/07/18/752743_litvi_zlovmisniki_povidomili_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-17T23:28:00+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": "https://i.lb.ua/news/108/50/6a5abb32e1453.jpg"
-  },
-  {
-    "id": "def4a5a3b01e09d1",
-    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-    "summary": "Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier Comments URL: https://news.ycombinator.com/item?id=48953406 Points: 14 # Comments: 0",
-    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-17T23:26:35+00:00",
-    "fetched": "2026-07-18T00:57:50+00:00",
-    "image": "https://cdn.prod.website-files.com/6846c7b5a78f3e9225c64f10/6989e3d45b7a3c2eb3795578_beyond-alphafold-with-isomorphic-labs-drug-design-engine_l.jpg"
   }
 ]
