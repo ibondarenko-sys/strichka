@@ -1,5 +1,29 @@
 [
   {
+    "id": "ed4282b3cbe408c7",
+    "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+    "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven…",
+    "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T21:53:15+00:00",
+    "fetched": "2026-08-02T22:29:27+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1d99027be37b3cda",
+    "title": "ВМС США перехопили 35 торгових суден після відновлення блокади Ірану",
+    "summary": "CENTCOM повідомило про перехоплення 35 суден, пов’язаних з Іраном, та огляди 2 з них після відновлення морської блокади.",
+    "url": "https://www.pravda.com.ua/news/2026/08/03/8046953/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-02T21:52:00+00:00",
+    "fetched": "2026-08-02T22:29:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/885369/256d0ce9618d41f492fd2597be7f04d9.jpeg"
+  },
+  {
     "id": "e75b9be04aac7307",
     "title": "Головне за неділю, 2 серпня: понад 170 бойових зіткнень, стрілянина в Одесі, удар ФАБ-250 по Слов'янську",
     "summary": "Бойові дії на Донеччині, 172 бойових зіткнення, ворожі обстріли, новий дизайн євробанкнот. Яким запам’ятається 1621-й день повномасштабної війни.",
@@ -142,6 +166,18 @@
     "published": "2026-08-02T20:12:39+00:00",
     "fetched": "2026-08-02T21:26:30+00:00",
     "image": null
+  },
+  {
+    "id": "42cdc0dbe85cdc59",
+    "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+    "summary": "Article URL: https://github.com/paoloanzn/microcodex Comments URL: https://news.ycombinator.com/item?id=49147842 Points: 9 # Comments: 2",
+    "url": "https://github.com/paoloanzn/microcodex",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:11:35+00:00",
+    "fetched": "2026-08-02T22:29:33+00:00",
+    "image": "https://opengraph.githubassets.com/d1b489eb6079a65014d968c4d2dbd32cd056d74f02e855c98f60f3554ee21b74/paoloanzn/microcodex"
   },
   {
     "id": "7401587693a4b505",
@@ -50074,125 +50110,5 @@
     "published": "2026-07-19T22:38:00+00:00",
     "fetched": "2026-07-19T23:02:50+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/e/875712/de47ba6638438974a2295208111c2283.jpeg"
-  },
-  {
-    "id": "e27bde9754cb59fa",
-    "title": "Іран звинуватив США в ударі по АЕС і пообіцяв \"відповідну\" реакцію",
-    "summary": "У неділю заступник міністра закордонних справ Ірану Казем Гарібабаді попередив про \"відповідну\" реакцію після того, як країна звинуватила США в атаці на атомну електростанцію Darkhovin на півдні Ірану.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8044855/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T22:24:00+00:00",
-    "fetched": "2026-07-19T23:02:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/1/875711/219a00c944f9eb0467f8c53cb6b4bb8e.jpeg"
-  },
-  {
-    "id": "7cb86a506acf264a",
-    "title": "Principia Artificialis – Mathematical Foundations of Artificial Thought",
-    "summary": "Article URL: https://github.com/holland202/Principia-Artificialis Comments URL: https://news.ycombinator.com/item?id=48972197 Points: 3 # Comments: 0",
-    "url": "https://github.com/holland202/Principia-Artificialis",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T22:22:25+00:00",
-    "fetched": "2026-07-19T23:02:51+00:00",
-    "image": "https://opengraph.githubassets.com/045407fb779c6ec6014afc53cce4908dde06662fa8913a6778a1acaa0161828d/holland202/Principia-Artificialis"
-  },
-  {
-    "id": "039c0e5f2fb92769",
-    "title": "Збірна Іспанії обіграла Аргентину і виграла чемпіонат світу з футболу 2026",
-    "summary": "Аргентинці грали в меншості в обох овертаймах.",
-    "url": "https://lb.ua/sport/2026/07/20/753072_zbirna_ispaniyi_obigrala.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T22:21:00+00:00",
-    "fetched": "2026-07-19T23:02:49+00:00",
-    "image": "https://i.lb.ua/news/098/05/6a5d4ef6c9fd4.jpg"
-  },
-  {
-    "id": "209d29820bec5183",
-    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-    "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
-    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T22:11:21+00:00",
-    "fetched": "2026-07-19T23:02:50+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-1152x648.jpg"
-  },
-  {
-    "id": "63a6a9bdc3f14a3c",
-    "title": "We want Texans to know their rights",
-    "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion Comments URL: https://news.ycombinator.com/item?id=48972062 Points: 33 # Comments: 6",
-    "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T22:03:11+00:00",
-    "fetched": "2026-07-19T23:02:51+00:00",
-    "image": "https://www.eff.org/files/banner_library/mayday_health_banner.png"
-  },
-  {
-    "id": "03b789275c66131e",
-    "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
-    "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios Comments URL: https://news.ycombinator.com/item?id=48971999 Points: 7 # Comments: 0",
-    "url": "https://github.com/Pedroshakoor/grok-build-ios",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T21:51:26+00:00",
-    "fetched": "2026-07-19T23:02:51+00:00",
-    "image": "https://opengraph.githubassets.com/7b7d48b41c26abe10e8f9a855a1a728297373eb2bb462b7fa34ead2f816197a1/Pedroshakoor/grok-build-ios"
-  },
-  {
-    "id": "4d9dba5587f60629",
-    "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-    "summary": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer Comments URL: https://news.ycombinator.com/item?id=48971938 Points: 25 # Comments: 1",
-    "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T21:42:12+00:00",
-    "fetched": "2026-07-20T01:05:52+00:00",
-    "image": "https://spectrum.ieee.org/media-library/computer-chips-spread-vertically-across-several-shelves-to-create-a-1-million-probabilistic-bit-computer.jpg?id=67500450&width=1200&height=600&coordinates=0%2C330%2C0%2C170"
-  },
-  {
-    "id": "e3b8080c66d47ee6",
-    "title": "Фінал ЧС-2026. Іспанія – Аргентина (1:0). Онлайн-трансляція матчу (ОНОВЛЮЄТЬСЯ)",
-    "summary": "Сьогодні, 19 липня, збірні Іспанії та Аргентини грають за кубок чемпіонів світу з футболу.",
-    "url": "https://lb.ua/sport/2026/07/20/753054_final_chs-2026_ispaniya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T21:40:00+00:00",
-    "fetched": "2026-07-19T21:59:18+00:00",
-    "image": "https://i.lb.ua/news/007/04/6a5d266c498cb.jpg"
-  },
-  {
-    "id": "99918ac0a48c1dd6",
-    "title": "Show HN: A canvas-based note taking and organizer app",
-    "summary": "So I've been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organized on a canvas. The app features: -Sticky notes for quick, small notes and A4 notes for long form…",
-    "url": "https://www.passinote.app/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T21:31:48+00:00",
-    "fetched": "2026-07-19T23:02:51+00:00",
-    "image": null
-  },
-  {
-    "id": "0bb7d52e6d4603f0",
-    "title": "Другу ніч поспіль у Києві та областях лунала повітряна тривога через загрозу балістики",
-    "summary": "У Києві та низці областей другу ніч поспіль оголошують тривогу через загрозу балістики.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8044853/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T21:28:00+00:00",
-    "fetched": "2026-07-19T21:59:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/3/875709/d338c2f06fe58c56136e8f3d92b1b036.jpeg"
   }
 ]
