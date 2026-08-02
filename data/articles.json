@@ -1,5 +1,149 @@
 [
   {
+    "id": "e75b9be04aac7307",
+    "title": "Головне за неділю, 2 серпня: понад 170 бойових зіткнень, стрілянина в Одесі, удар ФАБ-250 по Слов'янську",
+    "summary": "Бойові дії на Донеччині, 172 бойових зіткнення, ворожі обстріли, новий дизайн євробанкнот. Яким запам’ятається 1621-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/02/756252_golovne_nedilyu_2_serpnya_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-02T20:58:00+00:00",
+    "fetched": "2026-08-02T21:26:27+00:00",
+    "image": "https://i.lb.ua/news/121/31/6a6fb1fd80f31.jpg"
+  },
+  {
+    "id": "86b5360d6db2e6ef",
+    "title": "Внаслідок зіткнення пожежних гелікоптерів у Греції загинули двоє людей",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/02/8046952/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-02T20:54:00+00:00",
+    "fetched": "2026-08-02T21:26:26+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/4/748adb9--.jpg"
+  },
+  {
+    "id": "de30db574f39f7f0",
+    "title": "Bubble Memory",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Bubble_memory Comments URL: https://news.ycombinator.com/item?id=49148176 Points: 6 # Comments: 0",
+    "url": "https://en.wikipedia.org/wiki/Bubble_memory",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:50:02+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bubble_memory_module.jpg"
+  },
+  {
+    "id": "47956db567a3f5b5",
+    "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+    "summary": "Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare. I built Draco to fix this.…",
+    "url": "https://github.com/0xchasercat/draco/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:48:45+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": "https://opengraph.githubassets.com/f64b56056623ad9ebe6b94d5fabcc5689c9839a649fdac6b4bd2fa4d2883b4f3/0xchasercat/draco"
+  },
+  {
+    "id": "9ad28d2ed657906e",
+    "title": "AI Mania: From Tulips to Tokens",
+    "summary": "Article URL: https://seanhelvey.com/tools-and-their-tools/ Comments URL: https://news.ycombinator.com/item?id=49148159 Points: 21 # Comments: 9",
+    "url": "https://seanhelvey.com/tools-and-their-tools/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:48:28+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": null
+  },
+  {
+    "id": "621187d0d0c04cc4",
+    "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+    "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 14 # Comments: 2",
+    "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:44:24+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": "https://linuxiac.com/wp-content/uploads/2026/08/eu-digital-identity.jpg"
+  },
+  {
+    "id": "13353e8741497a19",
+    "title": "Show HN: Make your Framework 12 sound like a creaky door",
+    "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor ( https://github.com/samhenrigold/LidAngleSensor ) but for the Framework 12 on Linux, so you can make…",
+    "url": "https://github.com/ArcaEge/creakwork12",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:33:01+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": "https://opengraph.githubassets.com/47b817bc3ef93862048ada045df3b4c8e10f5d2ea198889a792e1d4aef907068/ArcaEge/creakwork12"
+  },
+  {
+    "id": "137993b4f9cc702c",
+    "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+    "summary": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 8 # Comments: 1",
+    "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:26:47+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": null
+  },
+  {
+    "id": "2fe74ca91e52b1ac",
+    "title": "Прем'єр Британії висловив підтримку ідеї прийняття писемної конституції",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/02/8046950/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-02T20:20:00+00:00",
+    "fetched": "2026-08-02T21:26:26+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/e/5e2d594---.jpg"
+  },
+  {
+    "id": "69995d37928f6a7e",
+    "title": "Росіяни атакували безпілотником АЗС у Харкові",
+    "summary": "На місці влучання сталася пожежа.",
+    "url": "https://lb.ua/society/2026/08/02/756250_rosiyani_atakuvali_bezpilotnikom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-02T20:20:00+00:00",
+    "fetched": "2026-08-02T21:26:27+00:00",
+    "image": "https://i.lb.ua/news/046/26/6a6fa64938de3.jpg"
+  },
+  {
+    "id": "0f63b599861f818e",
+    "title": "Let the Machines In",
+    "summary": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 9 # Comments: 0",
+    "url": "https://blog.semenzin.com/let-the-machines-in/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:17:16+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": null
+  },
+  {
+    "id": "52d64a8831c570a3",
+    "title": "Adding Go's Defer to the TypeScript Compiler",
+    "summary": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 3 # Comments: 0",
+    "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:12:39+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": null
+  },
+  {
     "id": "7401587693a4b505",
     "title": "​В Одесі чоловік поранив із пістолета чотирьох військовослужбовців ТЦК (оновлено)",
     "summary": "Стрільця затримала поліція.",
@@ -12,6 +156,18 @@
     "image": "https://i.lb.ua/news/125/26/6a6fa31f0e9ca.jpg"
   },
   {
+    "id": "e0fa82fb17f62c52",
+    "title": "TinyNES Review – A Super Niche NES Console",
+    "summary": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 3 # Comments: 0",
+    "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T20:01:37+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": null
+  },
+  {
     "id": "e7d06cdc129f7d26",
     "title": "Корецький провів нараду з аграріями через блокаду портів Росією",
     "summary": "\"Росія посилює терор на морі. Атакує судна, які перевозять українську аграрну продукцію та портову інфраструктуру\".",
@@ -22,6 +178,18 @@
     "published": "2026-08-02T19:57:00+00:00",
     "fetched": "2026-08-02T20:12:01+00:00",
     "image": "https://i.lb.ua/news/096/49/6a6fa185a96b0.jpg"
+  },
+  {
+    "id": "a5105b2590090561",
+    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+    "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 34 # Comments: 18",
+    "url": "https://frogs.vaguespac.es/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T19:42:08+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": "https://frogs.vaguespac.es/og.png"
   },
   {
     "id": "cfdd2789b4eab3ae",
@@ -142,6 +310,18 @@
     "published": "2026-08-02T18:58:00+00:00",
     "fetched": "2026-08-02T20:12:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/7/885326/07e21ad2bcfd6cefb5a9a93cd70b4355.jpeg"
+  },
+  {
+    "id": "55390b6e4d0ae232",
+    "title": "The Myth of Snow Leopard",
+    "summary": "Article URL: https://www.rubenerd.au/the-myth-of-snow-leopard/ Comments URL: https://news.ycombinator.com/item?id=49146960 Points: 10 # Comments: 0",
+    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T18:21:45+00:00",
+    "fetched": "2026-08-02T21:26:30+00:00",
+    "image": "https://www.rubenerd.au/files/2026/snow-leopard@2x.jpg"
   },
   {
     "id": "98b157f942001f77",
@@ -50014,101 +50194,5 @@
     "published": "2026-07-19T21:28:00+00:00",
     "fetched": "2026-07-19T21:59:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/3/875709/d338c2f06fe58c56136e8f3d92b1b036.jpeg"
-  },
-  {
-    "id": "417a710eff9fd7f7",
-    "title": "How to Abandon Your Climate Commitments and Get Away with It",
-    "summary": "Article URL: https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html Comments URL: https://news.ycombinator.com/item?id=48971781 Points: 19 # Comments: 1",
-    "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T21:24:03+00:00",
-    "fetched": "2026-07-19T23:02:51+00:00",
-    "image": null
-  },
-  {
-    "id": "ffe3b95cbfa1712b",
-    "title": "У Харкові загинула трирічна дитина, випавши з вікна п'ятого поверху",
-    "summary": "Поліція розслідує факт загибелі дитини, яка випала з 5 поверху.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8044852/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T21:24:00+00:00",
-    "fetched": "2026-07-19T21:59:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/875708/e2ba8426459aec046e7ead0dc62269b0.jpeg"
-  },
-  {
-    "id": "fd0a7ef35a9debb9",
-    "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
-    "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 97 # Comments: 38",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T21:18:10+00:00",
-    "fetched": "2026-07-19T23:02:51+00:00",
-    "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif"
-  },
-  {
-    "id": "1054dfa94f9fd075",
-    "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-    "summary": "Just why? ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥ What am I supposed to do with this? It's un-Googleable.…",
-    "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T21:02:45+00:00",
-    "fetched": "2026-07-19T21:59:18+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/four-tet-wingdings.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "674aad5a0b7c44f2",
-    "title": "Головне за неділю, 19 липня: атаки на Ізюм та Слов’янськ, авіаудар по Сумах, понад 180 бойових зіткнень",
-    "summary": "Бойові дії на Донеччині, 183 бойових зіткнення, ворожі обстріли, ракетний удар по цивільному судну. Яким запам’ятається 1607-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/19/753070_golovne_nedilyu_19_lipnya_ataki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T20:55:00+00:00",
-    "fetched": "2026-07-19T21:59:18+00:00",
-    "image": "https://i.lb.ua/news/021/61/6a5d3a521fcf1.jpg"
-  },
-  {
-    "id": "c71e6b13e93ea31e",
-    "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-    "summary": "Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html Comments URL: https://news.ycombinator.com/item?id=48971566 Points: 15 # Comments: 8",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T20:50:42+00:00",
-    "fetched": "2026-07-19T21:59:18+00:00",
-    "image": null
-  },
-  {
-    "id": "7e788bbb992fa72b",
-    "title": "Heavy TV watching associated with smaller brain structures, study finds",
-    "summary": "Article URL: https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/ Comments URL: https://news.ycombinator.com/item?id=48971418 Points: 32 # Comments: 1",
-    "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-19T20:25:58+00:00",
-    "fetched": "2026-07-19T20:56:19+00:00",
-    "image": "https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/06/raichlen-sedentary-brain-top.jpg"
-  },
-  {
-    "id": "3cdc8299000dc06c",
-    "title": "Атака РФ на судно в Чорному морі: вже 6 моряків загинули, 4 вважаються зниклими",
-    "summary": "Вже 6 моряків атакованого Росією біля Одеси судна загинули, ще 4 вважаються зниклими безвісти.",
-    "url": "https://www.pravda.com.ua/news/2026/07/19/8044851/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T20:14:00+00:00",
-    "fetched": "2026-07-19T20:56:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/875704/20aa33679ec1661c285731c312528dd8.jpeg"
   }
 ]
