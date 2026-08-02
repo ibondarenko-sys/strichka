@@ -1,5 +1,29 @@
 [
   {
+    "id": "c3a400f48f5a36b4",
+    "title": "Трамп заявив, що США можуть будь-коли вдарити по Ірану у разі необхідності",
+    "summary": "Дональд Трамп заявив, що США готові завдати ударів по Ірану у разі необхідності.",
+    "url": "https://www.pravda.com.ua/news/2026/08/03/8046954/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-02T22:50:00+00:00",
+    "fetched": "2026-08-02T23:33:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/885373/f3d8b1dad3d99a3d2408bb3ef38e7b9f.jpeg"
+  },
+  {
+    "id": "7195fb47ecb0def7",
+    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+    "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: https://news.ycombinator.com/item?id=49148987 Points: 31 # Comments: 5",
+    "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T22:16:34+00:00",
+    "fetched": "2026-08-02T23:33:23+00:00",
+    "image": null
+  },
+  {
     "id": "ed4282b3cbe408c7",
     "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
     "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven…",
@@ -22,6 +46,18 @@
     "published": "2026-08-02T21:52:00+00:00",
     "fetched": "2026-08-02T22:29:27+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/885369/256d0ce9618d41f492fd2597be7f04d9.jpeg"
+  },
+  {
+    "id": "85f80aaeb5613925",
+    "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+    "summary": "Article URL: https://www.11971.com/ Comments URL: https://news.ycombinator.com/item?id=49148541 Points: 7 # Comments: 1",
+    "url": "https://www.11971.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-02T21:30:04+00:00",
+    "fetched": "2026-08-02T23:33:23+00:00",
+    "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQU9Ih4J8oDgrJqyV1G8PV4JMnNADnTAoJPZ2t2N_kLFHdQnwBwFHkXyWYfw1Lsiqumo4uh9l-KCtLHr36lM155UI3Rw-7NBYAYvrEYEuyofKH2cNJxDAI5VjPMy7yqC0fnS2TKNBuMhb3xngmaPcUURpUbN897Qcif2iGV7nkXCRGZgC5t8m4cWEn3oa1XJzD6TFqSRPIAYRMncRqqvpZE"
   },
   {
     "id": "e75b9be04aac7307",
@@ -50062,53 +50098,5 @@
     "published": "2026-07-19T23:58:12+00:00",
     "fetched": "2026-07-20T01:05:52+00:00",
     "image": null
-  },
-  {
-    "id": "d161ec35a9893bb9",
-    "title": "США заявили про нову хвилю ударів по Ірану, які тривають дев’яту ніч поспіль",
-    "summary": "9 ніч поспіль США продовжують завдавати ударів по Ірану.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8044859/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T23:30:00+00:00",
-    "fetched": "2026-07-20T01:05:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/1/875727/21a1a082c22c9b728266a3323f1c93fd.jpeg"
-  },
-  {
-    "id": "52b68d8eae54ab15",
-    "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-    "summary": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
-    "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-19T23:16:04+00:00",
-    "fetched": "2026-07-20T11:23:08+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ab/live/23ffb250-83c2-11f1-8c17-094a3427da23.jpg"
-  },
-  {
-    "id": "bcf674f1ede41b85",
-    "title": "Ціни на нафту зросли на 3% після 8-денних ударів між США та Іраном",
-    "summary": "ЗМІ повідомили, як змінюється ціна на нафту після відновлення ударів між США та Іраном.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8044858/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T23:14:00+00:00",
-    "fetched": "2026-07-20T01:05:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/7/875716/d7087c3049856e86b46c2e77e3f32a3f.jpeg"
-  },
-  {
-    "id": "fdb6cca75d0232a8",
-    "title": "Окупанти знову перекрили міст, соцмережі повідомили про атаку дронів на Ялту",
-    "summary": "У соцмережах пишуть про перекриття Кримського моста і вибухи в окупованій Ялті.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8044856/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-19T22:38:00+00:00",
-    "fetched": "2026-07-19T23:02:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/e/875712/de47ba6638438974a2295208111c2283.jpeg"
   }
 ]
