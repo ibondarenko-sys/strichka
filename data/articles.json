@@ -1,5 +1,149 @@
 [
   {
+    "id": "f9e0e5bd92d5809d",
+    "title": "Your Fitbit data can now connect directly to Apple Health",
+    "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose…",
+    "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T21:24:23+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0036.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6a6f17085b1ec51d",
+    "title": "Залужний відкинув можливість для України вступити в НАТО",
+    "summary": "Колишній головнокомандувач \"12 років слухав казки, що ось-ось\".",
+    "url": "https://lb.ua/society/2026/08/04/756464_zaluzhniy_vidkinuv_mozhlivist.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T21:15:00+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://i.lb.ua/news/018/20/6a71056972427.jpg"
+  },
+  {
+    "id": "3e9781fff5059bb1",
+    "title": "LLMs reward expertise",
+    "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/ Comments URL: https://news.ycombinator.com/item?id=49161518 Points: 60 # Comments: 16",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T21:13:53+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://www.seangoedecke.com/og-image.jpg"
+  },
+  {
+    "id": "ab1222d2662ed15a",
+    "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+    "summary": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon and B&H Photo both have it discounted to…",
+    "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T21:13:38+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-M80F-Lifestyle.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c0cb91d02c5850ba",
+    "title": "Головне за понеділок, 3 серпня: понад 180 бойових зіткнень, завдання послів, нові посади Умєрова і Клименка",
+    "summary": "Бойові дії на Донеччині, 182 бойових зіткнення, ворожі обстріли, президентські укази про звільнення послів у низці країн. Яким запам’ятається 1622-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/03/756468_golovne_ponedilok_3_serpnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T20:59:00+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://i.lb.ua/news/088/47/6a7104322a8df.jpg"
+  },
+  {
+    "id": "fee2d7bffb712bea",
+    "title": "У липні в Україні розмінували понад 900 га звільнених територій",
+    "summary": "Фахівці виявили та знешкодили 276 вибухонебезпечних предметів.",
+    "url": "https://lb.ua/society/2026/08/03/756462_lipni_ukrayini_rozminuvali_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T20:59:00+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://i.lb.ua/news/060/15/6a71011c69241.jpg"
+  },
+  {
+    "id": "20bff11e7d98226f",
+    "title": "Молдова запроваджує заходи економії електроенергії та води через обміління Дністра",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/03/8047112/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T20:47:00+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/8/7/875302e-0ccec19-2.jpg"
+  },
+  {
+    "id": "3280a1ce1dbd1652",
+    "title": "Гідрометцентр: у вівторок в Україні сильна спека 35-38°",
+    "summary": "Через погодні умови, з 4 по 6 серпня в більшості областей України оголосили надзвичайний рівень пожежної небезпеки.",
+    "url": "https://lb.ua/society/2026/08/03/756460_gidromettsentr_vivtorok_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T20:26:00+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://i.lb.ua/news/041/31/6a70f9988aea7.jpg"
+  },
+  {
+    "id": "bda800337d38b0e5",
+    "title": "Через удар російських дронів палають склади з продуктами біля Дніпра",
+    "summary": "Масштабна пожежа на складах із продуктами під Дніпром через атаку російських дронів. Інформація про постраждалих уточнюється.",
+    "url": "https://www.pravda.com.ua/news/2026/08/03/8047111/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T20:19:00+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/885886/d41ba6ea99e4aeef5d309a7a88a1e8e1.jpeg"
+  },
+  {
+    "id": "8a9c56134c9a0237",
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+    "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T20:13:37+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/incaboy-1152x648-1785365793.jpg"
+  },
+  {
+    "id": "a9916288e6a55e48",
+    "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+    "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+    "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-03T20:05:46+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2925/live/e6ad2ad0-8f75-11f1-94d6-1138f63f65fc.jpg"
+  },
+  {
+    "id": "0cde03794f63d68d",
+    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+    "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 71 # Comments: 37",
+    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T20:02:21+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2249021916-e1785504459772.jpg?resize=1200,600"
+  },
+  {
     "id": "8d0f3bcf95b65c91",
     "title": "В передмісті Дніпра виникла масштабна пожежа через атаку російського дрона",
     "summary": "Інформація про постраждалих уточнюється.",
@@ -10,6 +154,18 @@
     "published": "2026-08-03T20:01:00+00:00",
     "fetched": "2026-08-03T20:13:27+00:00",
     "image": "https://i.lb.ua/news/058/32/6a70f3b55f910.jpg"
+  },
+  {
+    "id": "fd4f67b426b71590",
+    "title": "DDoS against Norwegian government IT infrastructure – status",
+    "summary": "Article URL: https://status.digdir.no/incidents/d7hvqmf2yr3l Comments URL: https://news.ycombinator.com/item?id=49160631 Points: 67 # Comments: 39",
+    "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T19:56:27+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
   },
   {
     "id": "85f825f94555466f",
@@ -36,6 +192,18 @@
     "image": "https://i.lb.ua/news/115/24/6a70ef7793878.jpg"
   },
   {
+    "id": "1f986e4e87a9d0c1",
+    "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+    "summary": "Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real Comments URL: https://news.ycombinator.com/item?id=49160437 Points: 72 # Comments: 77",
+    "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T19:39:34+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/light-bulb-1042480_1920_1.jpeg?itok=nDOISjZp"
+  },
+  {
     "id": "a744c55668befd0f",
     "title": "Генштаб: 182 бойові зіткнення відбулись на фронті від початку доби",
     "summary": "Найгарячіше на Костянтинівському напрямку. Там росіяни атакували 26 разів.",
@@ -46,6 +214,18 @@
     "published": "2026-08-03T19:25:00+00:00",
     "fetched": "2026-08-03T20:13:27+00:00",
     "image": "https://i.lb.ua/news/049/35/6a70eb3d4f691.jpg"
+  },
+  {
+    "id": "da9ff99a8bf8e94f",
+    "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+    "summary": "The orbiting observatory in minifigure scale.",
+    "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T19:21:16+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-1152x648.jpg"
   },
   {
     "id": "930ff7c7741f1544",
@@ -70,6 +250,30 @@
     "published": "2026-08-03T19:03:00+00:00",
     "fetched": "2026-08-03T20:13:27+00:00",
     "image": "https://i.lb.ua/news/102/14/6a70e5fd05be8.jpg"
+  },
+  {
+    "id": "7930501cc9800dff",
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "summary": "Top scores increased by 5x.",
+    "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T19:00:50+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg"
+  },
+  {
+    "id": "01f3a7a3e540ddd4",
+    "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+    "summary": "Article URL: https://github.com/SwagSoftware/KisakCOD Comments URL: https://news.ycombinator.com/item?id=49159970 Points: 13 # Comments: 0",
+    "url": "https://github.com/SwagSoftware/KisakCOD",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T18:58:00+00:00",
+    "fetched": "2026-08-03T21:41:49+00:00",
+    "image": "https://opengraph.githubassets.com/7883a000d69d36de6a5ed9687aca545842a07cce53e525ea3de489b751ab3532/SwagSoftware/KisakCOD"
   },
   {
     "id": "97943dcc40262db6",
@@ -2256,6 +2460,18 @@
     "image": "https://octanejs.dev/og-image.png"
   },
   {
+    "id": "97b183ed23d40713",
+    "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+    "summary": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-03T07:49:33+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0fe/live/77f3d980-8d91-11f1-800e-433295bded5e.jpg"
+  },
+  {
     "id": "fce9527d72945655",
     "title": "Директора CEO Club Ukraine Карчука затримали у Польщі через викрадені електровелосипеди в Німеччині. Що відомо про справу?",
     "summary": "Німеччина підозрює Дмитра Карчука у викраденні партії електровелосипедів у 2024 році, тоді як у компанії заявляють, що він у цей час перебував в Україні.",
@@ -2506,6 +2722,18 @@
     "published": "2026-08-03T05:32:00+00:00",
     "fetched": "2026-08-03T06:45:37+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/3/d3967a6-telemmglpict000428253311-17855010549940-trans-nvbqzqnjv4bqro0u4xu-30odves4pxv-vv4xpit-dmgvdp2n7fdd82k.png"
+  },
+  {
+    "id": "1d2b0647418cd76d",
+    "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+    "summary": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
+    "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-03T05:31:55+00:00",
+    "fetched": "2026-08-03T21:41:48+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4fc/live/39fee800-8ef3-11f1-9414-7f9a7ecedd61.jpg"
   },
   {
     "id": "47ebc76a60b452a7",
@@ -49522,209 +49750,5 @@
     "published": "2026-07-20T21:43:07+00:00",
     "fetched": "2026-07-20T23:03:42+00:00",
     "image": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png"
-  },
-  {
-    "id": "6d4bba00b4cace90",
-    "title": "Nicaragua’s president says country will not hold any more elections",
-    "summary": "Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to prevent the opposition from coming to power. The 80-year-old…",
-    "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-20T21:36:47+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.guim.co.uk/img/media/1ad9f6e529a004c24c2fa9706fd07d6cea3c62a1/142_0_944_755/master/944.jpg?width=140&quality=85&auto=format&fit=max&s=527c03b8632379e4e6487d04b5bd68ee"
-  },
-  {
-    "id": "eadcf94226811811",
-    "title": "Trump imposes 50% tariff on Canadian imports",
-    "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-    "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-20T21:35:33+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg"
-  },
-  {
-    "id": "11504212be8b531c",
-    "title": "My falling-out with the rationalist community",
-    "summary": "Article URL: https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist Comments URL: https://news.ycombinator.com/item?id=48985140 Points: 48 # Comments: 35",
-    "url": "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T21:30:56+00:00",
-    "fetched": "2026-07-20T23:03:42+00:00",
-    "image": null
-  },
-  {
-    "id": "8a12c2f33eec01e2",
-    "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-    "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods, White House officials said on Monday, declaring Canada has unfairly discriminated against American autos,…",
-    "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-20T21:30:41+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.guim.co.uk/img/media/b676e070a3802a4c0fb7894918f91ff7fab08845/294_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=5ccf1dbc07a20acb768e162eb321eb44"
-  },
-  {
-    "id": "cb6331a0ab3a2ad6",
-    "title": "Завтра по всій території Польщі оголосять 12-ти годинну повітряну тривогу",
-    "summary": "В країні заплановані навчання з вмикання сирен екстреного режиму.",
-    "url": "https://lb.ua/world/2026/07/21/753318_zavtra_vsiy_teritoriyi_polschi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T21:23:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.lb.ua/news/049/02/6a5e91ba00c9c.jpg"
-  },
-  {
-    "id": "0f72ccb06a455252",
-    "title": "Вперше за 12 років Канада призначила посла в Україні без українського коріння",
-    "summary": "Перервано традицію, що очільники дипломатичної місії в Києві мають українське походження.",
-    "url": "https://lb.ua/news/2026/07/21/753314_vpershe_12_rokiv_kanada.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T21:13:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.lb.ua/news/042/00/6a5e92b11ce36.jpg"
-  },
-  {
-    "id": "a395bb32fd32aaab",
-    "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-    "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T21:10:14+00:00",
-    "fetched": "2026-07-21T01:00:05+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg"
-  },
-  {
-    "id": "d299f4599f1f842f",
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
-    "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-20T21:09:31+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg"
-  },
-  {
-    "id": "98f0a6b315f2193b",
-    "title": "SpaceX in your index fund, explained",
-    "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is…",
-    "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T21:00:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "55752b20fa438b37",
-    "title": "Головне за понеділок, 20 липня: майже 190 бойових зіткнень, День жалоби в Одесі",
-    "summary": "Бойові дії на Донеччині, 186 бойових зіткнень, ворожі обстріли, новий очільник уряду Британії. Яким запам’ятається 1608-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/20/753320_golovne_ponedilok_20_lipnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T20:59:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.lb.ua/news/034/27/6a5e902e1a635.jpg"
-  },
-  {
-    "id": "344392cc783baf01",
-    "title": "Гідрометцентр: у вівторок в Україні очікується тепла погода, в центральних та південних областях можливі дощі",
-    "summary": "В окремих районах очікуються град та шквали.",
-    "url": "https://lb.ua/society/2026/07/20/753312_gidromettsentr_vivtorok_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T20:55:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.lb.ua/news/040/29/6a5e8b3ec98be.jpg"
-  },
-  {
-    "id": "805ce7913f6ba8f8",
-    "title": "На фронті від початку доби відбулося 186 бойових зіткнень – Генштаб",
-    "summary": "Від початку доби 20 липня на фронті відбулось 186 бойових зіткнень.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8045051/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T20:42:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/876680/f9f89edd38e5e58f8617e60c80d5fcf8.jpeg"
-  },
-  {
-    "id": "aa4fe57410c02b29",
-    "title": "The creepiest 'sales demo' of all time",
-    "summary": "Article URL: https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html Comments URL: https://news.ycombinator.com/item?id=48984555 Points: 41 # Comments: 15",
-    "url": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T20:36:37+00:00",
-    "fetched": "2026-07-20T23:03:42+00:00",
-    "image": "https://bloximages.newyork1.vip.townnews.com/appenmedia.com/content/tncms/assets/v3/editorial/a/8f/a8f0cc6c-29d3-41f7-8668-8a855f760efb/6a5e1cc713897.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-  },
-  {
-    "id": "8ee67fb9617c8c6c",
-    "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
-    "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
-    "url": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T20:30:25+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-1152x648-1784578136.jpg"
-  },
-  {
-    "id": "98ef2225af28dfa1",
-    "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
-    "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
-    "url": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T20:30:25+00:00",
-    "fetched": "2026-07-21T01:00:05+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-1152x648-1784578136.jpg"
-  },
-  {
-    "id": "fce9aba386a191ac",
-    "title": "В Міносвіти розповіли про масштаби знищених підручників внаслідок ворожої атаки на столицю",
-    "summary": "Знищено майже 250 тисяч примірників книг, частина з яких - навчальні. Ще 350 тисяч примірників пошкоджено.",
-    "url": "https://lb.ua/society/2026/07/20/753310_minosviti_rozpovili_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T20:24:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://i.lb.ua/news/106/51/6a5e840f3194f.jpg"
-  },
-  {
-    "id": "f2de9897ec355a9c",
-    "title": "РФ атакує Суми: виникла масштабна пожежа в ТРЦ, пошкоджена багатоповерхівка, постраждали діти",
-    "summary": "Російська армія увечері 20 липня атакувала в Сумах багатоповерхівку та ТРЦ: постраждали двоє дорослих і четверо дітей.",
-    "url": "https://www.pravda.com.ua/news/2026/07/20/8045050/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T20:19:00+00:00",
-    "fetched": "2026-07-20T21:44:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/876679/6033b77a8df5c62be6d7002b9caa215d.jpeg"
   }
 ]
