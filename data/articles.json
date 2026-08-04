@@ -1,5 +1,101 @@
 [
   {
+    "id": "fe228d1ac6efe4d1",
+    "title": "Native Apps Should Be Avoided Whenever Possible",
+    "summary": "Article URL: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/ Comments URL: https://news.ycombinator.com/item?id=49163158 Points: 6 # Comments: 0",
+    "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-04T00:46:22+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": null
+  },
+  {
+    "id": "bd75601812a3d220",
+    "title": "У Сумах через російську атаку КАБами загинула людина",
+    "summary": "Ворог обстріляв приватний сектор та інфраструктуру.",
+    "url": "https://lb.ua/society/2026/08/04/756476_sumah_cherez_rosiysku_ataku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-04T00:33:00+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://i.lb.ua/news/069/48/6a7133408f92c.jpg"
+  },
+  {
+    "id": "c3fddc25b721ae9d",
+    "title": "Росіяни скинули авіабомби на Суми: загинула людина, є поранені",
+    "summary": "У ніч на 4 серпня російські окупаційні війська атакували керованими авіабомбами цивільну інфраструктуру Сум, унаслідок чого одна людина загинула, також є поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/04/8047118/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-04T00:22:00+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/885917/0198780079999591485874758dbe7f80.jpeg"
+  },
+  {
+    "id": "3810279d9d824b94",
+    "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+    "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning…",
+    "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-04T00:00:00+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "5b549f3cc1515861",
+    "title": "Нова Зеландія зробила англійську офіційною мовою - нею і так говорять 95% населення",
+    "summary": "У парламенті запропонували також ухвалити закон \"про зміну літа та зими\".",
+    "url": "https://lb.ua/world/2026/08/04/756474_nova_zelandiya_zrobila_angliysku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T23:48:00+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://i.lb.ua/news/070/48/6a7128d619a29.jpg"
+  },
+  {
+    "id": "234fe9ac3c58e254",
+    "title": "There Will Come Soft Rains [pdf]",
+    "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf Comments URL: https://news.ycombinator.com/item?id=49162653 Points: 7 # Comments: 1",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T23:24:53+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": null
+  },
+  {
+    "id": "c59f89531478e9d6",
+    "title": "Половина штатів подали позов проти Трампа щодо нових митних тарифів",
+    "summary": "Білий дім нібито знову перевищив повноваження.",
+    "url": "https://lb.ua/world/2026/08/04/756472_polovina_shtativ_podali_pozov.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T23:15:00+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://i.lb.ua/news/074/59/6a712169d6d5c.jpg"
+  },
+  {
+    "id": "5a1ec006426dc497",
+    "title": "Умєров розповів, чим займатиметься на посаді голови Служби зовнішньої розвідки",
+    "summary": "Новопризначений голова Служби зовнішньої розвідки України Рустем Умєров заявив, що на новій посаді зосередиться на розвитку міжнародного співробітництва, реалізації стратегічних оборонних проєктів та посиленні спроможностей відомства.",
+    "url": "https://www.pravda.com.ua/news/2026/08/04/8047117/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-03T23:07:00+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/885916/b14f3125b84e7a3ecd94ad6aa90f9be5.jpeg"
+  },
+  {
     "id": "e163e047f2c80739",
     "title": "Зеленський звільнив низку послів та змінив представника України при ЮНЕСКО",
     "summary": "Президент Володимир Зеленський підписав серію указів про кадрові зміни в дипломатичному корпусі України, звільнивши послів у кількох державах та призначивши нову постійну представницю при ЮНЕСКО.",
@@ -22,6 +118,18 @@
     "published": "2026-08-03T22:27:00+00:00",
     "fetched": "2026-08-03T23:06:35+00:00",
     "image": "https://i.lb.ua/news/004/08/6a7115baa2408.jpg"
+  },
+  {
+    "id": "2e8aa46c7aa18e9e",
+    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+    "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+    "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T22:11:39+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-1152x648.png"
   },
   {
     "id": "ceff07d4ef2a9f4a",
@@ -1080,6 +1188,18 @@
     "image": "https://i.lb.ua/news/067/01/6a70af4891af1.jpg"
   },
   {
+    "id": "fdab8d3e1fc3bbb6",
+    "title": "Twenty Years of Pandoc",
+    "summary": "Article URL: https://pandoc.org/twenty-years-of-pandoc.html Comments URL: https://news.ycombinator.com/item?id=49156750 Points: 95 # Comments: 11",
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T15:04:53+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": null
+  },
+  {
     "id": "beeafcb26c3ab5ad",
     "title": "Міноборони Польщі: у теробороні кожен п'ятий військовослужбовець – жінка",
     "summary": "Кожен п'ятий військовослужбовець Сил територіальної оборони Польщі є жінкою.",
@@ -1090,6 +1210,30 @@
     "published": "2026-08-03T15:02:00+00:00",
     "fetched": "2026-08-03T16:29:14+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/0/2/0206587-----------------.jpg"
+  },
+  {
+    "id": "6393450e9fc3964c",
+    "title": "Ask HN: Who is hiring? (August 2026)",
+    "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per…",
+    "url": "https://news.ycombinator.com/item?id=49156683",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T15:00:54+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": null
+  },
+  {
+    "id": "fd93919d8794707e",
+    "title": "Ask HN: Who wants to be hired? (August 2026)",
+    "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers:…",
+    "url": "https://news.ycombinator.com/item?id=49156682",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-03T15:00:54+00:00",
+    "fetched": "2026-08-04T01:00:49+00:00",
+    "image": null
   },
   {
     "id": "e07e0767e3ab4d1d",
@@ -49582,89 +49726,5 @@
     "published": "2026-07-21T01:33:00+00:00",
     "fetched": "2026-07-21T04:24:28+00:00",
     "image": "https://i.lb.ua/news/114/07/6a5ecc855c23f.jpg"
-  },
-  {
-    "id": "43a9a2057713cddd",
-    "title": "Директор ФБР планує відвідати Росію – ЗМІ",
-    "summary": "Очільник ФБР США Кеш Пател планує поїздку до Росії в жовтні: можливі зустрічі у Москві та Санкт-Петербурзі.",
-    "url": "https://www.pravda.com.ua/news/2026/07/21/8045056/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-21T00:50:00+00:00",
-    "fetched": "2026-07-21T01:00:04+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/876692/22b209e5ae7c4d5858b33ebc94d2a230.jpeg"
-  },
-  {
-    "id": "de554fb399e3b28e",
-    "title": "Проросійський диктатор Нікарагуа заявив про скасування будь-яких виборів в країні",
-    "summary": "Даніель Ортега остаточно руйнує навіть імітацію демократії.",
-    "url": "https://lb.ua/world/2026/07/21/753330_prorosiyskiy_diktator_nikaragua.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-21T00:37:00+00:00",
-    "fetched": "2026-07-21T01:00:05+00:00",
-    "image": "https://i.lb.ua/news/080/22/6a5ebf7de7f8f.jpg"
-  },
-  {
-    "id": "ace9504c93ad4a36",
-    "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-    "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country Comments URL: https://news.ycombinator.com/item?id=48986731 Points: 207 #…",
-    "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-21T00:33:53+00:00",
-    "fetched": "2026-07-21T04:24:29+00:00",
-    "image": "https://assets.aclu.org/live/uploads/2026/07/flock-camera-closeup-s.jpg"
-  },
-  {
-    "id": "685ca81283b9f873",
-    "title": "Збірна України визначилась з домашнім стадіоном на Лігу Націй",
-    "summary": "Грати у Польщі \"синьо-жовті\" більше не хочуть.",
-    "url": "https://lb.ua/sport/2026/07/21/753328_zbirna_ukrayini_viznachilas_z.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T23:40:00+00:00",
-    "fetched": "2026-07-21T01:00:05+00:00",
-    "image": "https://i.lb.ua/news/056/16/6a5eb4faaf8fc.jpg"
-  },
-  {
-    "id": "f0b161fd3aa3a3ac",
-    "title": "США запровадили 50% мита на імпорт з Канади",
-    "summary": "США підвищили мита до 50% на низку канадських товарів у відповідь на дискримінацію продукції з США.",
-    "url": "https://www.pravda.com.ua/news/2026/07/21/8045055/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T23:39:00+00:00",
-    "fetched": "2026-07-21T01:00:04+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/876690/a54488f1d11703e90e36e19de39ea3b3.jpeg"
-  },
-  {
-    "id": "4ea52742c6f961be",
-    "title": "Jellyfin founder Andrew leaves team",
-    "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes Comments URL: https://news.ycombinator.com/item?id=48986091 Points: 149 # Comments: 85",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-20T23:15:41+00:00",
-    "fetched": "2026-07-21T04:24:29+00:00",
-    "image": null
-  },
-  {
-    "id": "1c79ae7cc82625b3",
-    "title": "Армія РФ вдарила ракетами касетного типу по будинках на Харківщині",
-    "summary": "Окупанти обстріляли Шевченкове на Харківщині касетними ракетами: є загиблий, 8 поранених, пошкоджено будинки.",
-    "url": "https://www.pravda.com.ua/news/2026/07/21/8045054/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-20T23:11:00+00:00",
-    "fetched": "2026-07-21T01:00:04+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/876689/b2a5b541cf5cc25ec866a2578b15e385.jpeg"
   }
 ]
