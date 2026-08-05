@@ -1,5 +1,113 @@
 [
   {
+    "id": "90b8f1c64bf91f0f",
+    "title": "Вартість кораблів на честь Трампа може сягнути $275 млрд – ЗМІ",
+    "summary": "У США порахували, що вартість кораблів на честь Трампа обійдеться щонайменше на 50 відсотків дорожче, ніж передбачалося раніше.",
+    "url": "https://www.pravda.com.ua/news/2026/08/06/8047478/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T22:58:00+00:00",
+    "fetched": "2026-08-05T23:04:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/887203/cffa77c41b8775dd287204cde7f3d4f5.jpeg"
+  },
+  {
+    "id": "21eeb275ac502f9e",
+    "title": "Суд у Туреччині заблокував доступ до передвиборчого акаунту головного суперника Ердогана",
+    "summary": "Мережа X, яку Ілон Маск позиціонував як останній рубіж свободи слова, була змушена коритися.",
+    "url": "https://lb.ua/world/2026/08/06/756978_sud_turechchini_zablokuvav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T22:49:00+00:00",
+    "fetched": "2026-08-05T23:04:41+00:00",
+    "image": "https://i.lb.ua/news/009/54/6a73bde415edf.jpg"
+  },
+  {
+    "id": "3fc936b103bdafc2",
+    "title": "У Києві та низці областей лунала повітряна тривога через загрозу балістики",
+    "summary": "У ніч на 6 серпня у столиці України та низці областей оголосили повітряну тривогу через загрозу ворожої балістики.",
+    "url": "https://www.pravda.com.ua/news/2026/08/06/8047477/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T22:32:00+00:00",
+    "fetched": "2026-08-05T23:04:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/887202/78ff3b1de76ef7b34d5a9a96ab0c9c0a.jpeg"
+  },
+  {
+    "id": "85002be8f0936052",
+    "title": "X product chief Nikita Bier is leaving after one year",
+    "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the…",
+    "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-05T22:19:55+00:00",
+    "fetched": "2026-08-05T23:04:40+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "64d358586f56c1d5",
+    "title": "Toronto Zoo announces birth of pygmy hippo calf, third for mother Kindia",
+    "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo, started showing signs of labor at around…",
+    "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-05T22:16:20+00:00",
+    "fetched": "2026-08-05T23:04:40+00:00",
+    "image": "https://i.guim.co.uk/img/media/7382959e05950456eeaf08482f2f9d66c2ac2d81/0_53_750_600/master/750.jpg?width=140&quality=85&auto=format&fit=max&s=4bf6315c4b95ffc0d048db1521a8bea4"
+  },
+  {
+    "id": "7eb9b8e39b431fb0",
+    "title": "Усі 27 найбільших міст Італії переведено в \"червоний\" режим загрози через спеку",
+    "summary": "Країна переживає вже четвертий період аномальних температур цього літа.",
+    "url": "https://lb.ua/world/2026/08/06/756976_usi_27_naybilshih_mist_italiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T22:16:00+00:00",
+    "fetched": "2026-08-05T23:04:41+00:00",
+    "image": "https://i.lb.ua/news/077/43/6a73b6b771932.jpg"
+  },
+  {
+    "id": "9e04235953c741b1",
+    "title": "Внаслідок російського удару знову пошкоджено склади видавництва Bookchef",
+    "summary": "Знищені понад 100 000 книг.",
+    "url": "https://lb.ua/society/2026/08/06/756972_vnaslidok_rosiyskogo_udaru_znovu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T21:56:00+00:00",
+    "fetched": "2026-08-05T23:04:41+00:00",
+    "image": "https://i.lb.ua/news/033/55/6a73b0978358e.jpg"
+  },
+  {
+    "id": "a4452fdb6551b1ce",
+    "title": "ЗМІ: США тягнуть з затвердженням кандидатури посла Франції на тлі суперечок щодо прав людини",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/06/8047476/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T21:48:00+00:00",
+    "fetched": "2026-08-05T23:04:40+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/7/477efd0-4325042.jpg"
+  },
+  {
+    "id": "59af98febdd50b4d",
+    "title": "Обсяг повернення США \"мит Трампа\" перетнув позначку у 100 мільярдів доларів",
+    "summary": "І це лише 60% того, що було сплачено компаніями-імпортерами.",
+    "url": "https://lb.ua/economics/2026/08/06/756974_obsyag_povernennya_ssha_mit.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T21:48:00+00:00",
+    "fetched": "2026-08-05T23:04:41+00:00",
+    "image": "https://i.lb.ua/news/003/55/6a73affa9badf.jpg"
+  },
+  {
     "id": "70e1938410a75c7f",
     "title": "Infantino remains Fifa president after executive meeting",
     "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives in a meeting in Morocco.",
@@ -10,6 +118,18 @@
     "published": "2026-08-05T21:37:08+00:00",
     "fetched": "2026-08-05T21:48:15+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg"
+  },
+  {
+    "id": "bb1427aeae2f5ded",
+    "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+    "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 49 # Comments: 12",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-05T21:29:23+00:00",
+    "fetched": "2026-08-05T23:04:43+00:00",
+    "image": "https://randsinrepose.com/wp-content/uploads/2026/08/bladerunner.png"
   },
   {
     "id": "a5f4fbdbb48de413",
@@ -46,6 +166,18 @@
     "published": "2026-08-05T21:21:51+00:00",
     "fetched": "2026-08-05T21:48:15+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "428b9199f32c5d8c",
+    "title": "Nikita Bier Steps Down as Head of Product at X",
+    "summary": "Article URL: https://twitter.com/nikitabier/status/2085105586966827343/ Comments URL: https://news.ycombinator.com/item?id=49189113 Points: 31 # Comments: 36",
+    "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-05T21:15:40+00:00",
+    "fetched": "2026-08-05T23:04:43+00:00",
+    "image": "https://jf.x.com/images/media-preview/2085105586966827343"
   },
   {
     "id": "641d86cda68d0129",
@@ -49582,125 +49714,5 @@
     "published": "2026-07-22T23:06:08+00:00",
     "fetched": "2026-07-23T00:03:55+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg"
-  },
-  {
-    "id": "4e23ac16bfc3688f",
-    "title": "Google burning through cash with spiralling AI costs",
-    "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
-    "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-22T23:02:32+00:00",
-    "fetched": "2026-07-23T06:33:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"
-  },
-  {
-    "id": "2e7f37dd1e0997a3",
-    "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-    "summary": "Article URL: https://arxiv.org/abs/2607.18250 Comments URL: https://news.ycombinator.com/item?id=49014537 Points: 5 # Comments: 0",
-    "url": "https://arxiv.org/abs/2607.18250",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-22T22:49:58+00:00",
-    "fetched": "2026-07-23T00:03:56+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "b25d05834fe8a14e",
-    "title": "Через зіткнення трамваїв у Роттердамі постраждали 15 людей",
-    "summary": "Один з пасажирів опинився затисненим між уламками.",
-    "url": "https://lb.ua/world/2026/07/23/753828_cherez_zitknennya_tramvayiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-22T22:49:00+00:00",
-    "fetched": "2026-07-23T00:03:55+00:00",
-    "image": "https://i.lb.ua/news/116/48/6a6146891165b.jpg"
-  },
-  {
-    "id": "88ddb8b099311acc",
-    "title": "США продовжили завдавати ударів по об’єктах Ірану – CENTCOM",
-    "summary": "У ніч на четвер, 23 липня, військові США заявили про нові удари по Ірану.",
-    "url": "https://www.pravda.com.ua/news/2026/07/23/8045436/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-22T22:26:00+00:00",
-    "fetched": "2026-07-22T22:33:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/7/878274/57a7d73c16044f49d4204763c4f4633d.jpeg"
-  },
-  {
-    "id": "44ee3f51b04d2462",
-    "title": "В Анголі двох росіян засудили за тероризм і поширення антизахідної пропаганди",
-    "summary": "Чоловікам інкримінували шпигунство і спробу втручання у вибори.",
-    "url": "https://lb.ua/world/2026/07/23/753826_angoli_dvoh_rosiyan_zasudili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-22T22:14:00+00:00",
-    "fetched": "2026-07-22T22:33:56+00:00",
-    "image": "https://i.lb.ua/news/038/22/6a6140479fa3b.jpg"
-  },
-  {
-    "id": "238f92a256c5c1de",
-    "title": "Meta won’t have to face the next planned social media addiction trial",
-    "summary": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of…",
-    "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-22T22:03:53+00:00",
-    "fetched": "2026-07-22T22:33:56+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "74ac43c15bac5d7f",
-    "title": "Гідрометцентр: в четвер на півдні та заході України очікуються дощі, температурний максимум +29°",
-    "summary": "В Одесі очікуються значні дощі та грози.",
-    "url": "https://lb.ua/society/2026/07/23/753824_gidromettsentr_chetver_pivdni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-22T21:57:00+00:00",
-    "fetched": "2026-07-22T22:33:56+00:00",
-    "image": "https://i.lb.ua/news/000/13/6a613baad576c.jpg"
-  },
-  {
-    "id": "55d6d3cbedbce083",
-    "title": "Medici family mystery may be solved after more than 400 years",
-    "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria Comments URL: https://news.ycombinator.com/item?id=49014007 Points: 21 # Comments: 2",
-    "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-22T21:55:34+00:00",
-    "fetched": "2026-07-22T22:33:57+00:00",
-    "image": null
-  },
-  {
-    "id": "23396bdacf0626c1",
-    "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-    "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/ Comments URL: https://news.ycombinator.com/item?id=49013995 Points: 11 # Comments: 0",
-    "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-22T21:54:30+00:00",
-    "fetched": "2026-07-22T22:33:57+00:00",
-    "image": null
-  },
-  {
-    "id": "d1270a67788b5ee1",
-    "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-    "summary": "Article URL: https://claytondorge.com/patterns-list Comments URL: https://news.ycombinator.com/item?id=49013924 Points: 33 # Comments: 3",
-    "url": "https://claytondorge.com/patterns-list",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-22T21:48:44+00:00",
-    "fetched": "2026-07-23T03:55:00+00:00",
-    "image": "http://static1.squarespace.com/static/52121500e4b0a807b65308ff/t/6377d4d465ddb14380cb9425/1668797656906/unsplash-image-D_4R9CcYZOk.jpg?format=1500w"
   }
 ]
