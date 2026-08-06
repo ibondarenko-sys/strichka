@@ -1,5 +1,89 @@
 [
   {
+    "id": "81506720716e3757",
+    "title": "Росіяни вдарили КАБами по Сумах: двоє потерпілих, багато ушкоджень",
+    "summary": "У ніч на 6 серпня російські окупанти завдали ударів 4 КАБами по Сумах, щонайменше двоє потерпілих, багато ушкоджень.",
+    "url": "https://www.pravda.com.ua/news/2026/08/06/8047481/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-06T00:30:00+00:00",
+    "fetched": "2026-08-06T00:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/7/887215/7763ce57fb263619753cf3904f76395b.jpeg"
+  },
+  {
+    "id": "a165a3bad2856995",
+    "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-06T00:25:10+00:00",
+    "fetched": "2026-08-06T00:52:00+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1acb23ae0cce45e3",
+    "title": "Росіяни обстріляли Суми КАБами, є постраждалі",
+    "summary": "Зафіксовано чотири удари керованими бомбами.",
+    "url": "https://lb.ua/society/2026/08/06/756982_rosiyani_obstrilyali_sumi_kabami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-06T00:24:00+00:00",
+    "fetched": "2026-08-06T00:51:59+00:00",
+    "image": "https://i.lb.ua/news/098/19/6a73d49094007.jpg"
+  },
+  {
+    "id": "a4e5c5ae77a639a1",
+    "title": "США продовжують переговори з Україною про виробництво ракет Patriot – Reuters",
+    "summary": "За даними агентства Reuters, США продовжують переговори щодо надання Україні дозволу на виробництво ракет-перехоплювачів Patriot, яких Київ терміново потребує для захисту від російських атак, навіть після того, як президент США Дональд Трамп висловив сумніви щодо такої угоди.",
+    "url": "https://www.pravda.com.ua/news/2026/08/06/8047480/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-06T00:14:00+00:00",
+    "fetched": "2026-08-06T00:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/6/887211/66d24f1063134cee6d52a3e14aa35cce.jpeg"
+  },
+  {
+    "id": "b72f14dc4cb5978a",
+    "title": "DHS Wants Protesters' Signal Group Chats",
+    "summary": "Article URL: https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/ Comments URL: https://news.ycombinator.com/item?id=49190753 Points: 11 # Comments: 1",
+    "url": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-06T00:07:08+00:00",
+    "fetched": "2026-08-06T00:52:01+00:00",
+    "image": "https://media.wired.com/photos/6a739a0f26343102b87aa86c/191:100/w_1280,c_limit/GettyImages-2285454063.jpg"
+  },
+  {
+    "id": "c7bc0a2af07f63d4",
+    "title": "У зоні бойових дій на Донеччині залишаються 12 тисяч цивільних – ОВА",
+    "summary": "В ОВА повідомили, скільки цивільних залишаються в зоні бойових дій на Донеччині.",
+    "url": "https://www.pravda.com.ua/news/2026/08/06/8047479/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T23:44:00+00:00",
+    "fetched": "2026-08-06T00:51:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/887210/5c01dae34299088d40a492d1b319b615.jpeg"
+  },
+  {
+    "id": "21a03118883733dd",
+    "title": "Гелікоптер Трампа небезпечно наблизився до пасажирського літака у Вашингтоні",
+    "summary": "Проблеми зі зв'язком ледь не створили аварійну ситуацію для глави держави.",
+    "url": "https://lb.ua/world/2026/08/06/756980_gelikopter_trampa_nebezpechno.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-05T23:35:00+00:00",
+    "fetched": "2026-08-06T00:51:59+00:00",
+    "image": "https://i.lb.ua/news/118/26/6a73c8bc02b3a.jpg"
+  },
+  {
     "id": "90b8f1c64bf91f0f",
     "title": "Вартість кораблів на честь Трампа може сягнути $275 млрд – ЗМІ",
     "summary": "У США порахували, що вартість кораблів на честь Трампа обійдеться щонайменше на 50 відсотків дорожче, ніж передбачалося раніше.",
@@ -22,6 +106,18 @@
     "published": "2026-08-05T22:49:00+00:00",
     "fetched": "2026-08-05T23:04:41+00:00",
     "image": "https://i.lb.ua/news/009/54/6a73bde415edf.jpg"
+  },
+  {
+    "id": "a09b8a0550b0e7d6",
+    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+    "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+    "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-05T22:35:20+00:00",
+    "fetched": "2026-08-06T00:52:00+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
   },
   {
     "id": "3fc936b103bdafc2",
@@ -49630,89 +49726,5 @@
     "published": "2026-07-23T01:06:56+00:00",
     "fetched": "2026-07-23T03:55:00+00:00",
     "image": "https://codeberg.org/Codeberg/org/pulls/1254/summary-card"
-  },
-  {
-    "id": "5582ea673d9f711d",
-    "title": "Сибіга обговорив із главою МЗС Естонії безпеку в Чорному морі та посилення ППО України",
-    "summary": "Міністри закордонних справ України Андрій Сибіга та Естонії Магус Цахкна обговорили посилення безпеки в регіоні Чорного моря, а також протиповітряної оборони України.",
-    "url": "https://www.pravda.com.ua/news/2026/07/23/8045439/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-23T00:44:00+00:00",
-    "fetched": "2026-07-23T03:54:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/a/878277/8a5c42b843a26ca0a9337186113bcfb0.jpeg"
-  },
-  {
-    "id": "2fcfbcd3a7f143b0",
-    "title": "Лувр відкрив для відвідувачів галерею, де сталося пограбування",
-    "summary": "Жодного експонату у залі більше немає, але сама вона має велику художню цінність.",
-    "url": "https://lb.ua/culture/2026/07/23/753832_luvr_vidkriv_vidviduvachiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-23T00:34:00+00:00",
-    "fetched": "2026-07-23T03:54:59+00:00",
-    "image": "https://i.lb.ua/news/104/36/6a6161c68ad8d.jpg"
-  },
-  {
-    "id": "39c77f80cfc9b236",
-    "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
-    "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a $200…",
-    "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-23T00:30:00+00:00",
-    "fetched": "2026-07-23T03:54:59+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/lego-donkey-kong-5.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "b3a4117e165d4d73",
-    "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-    "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-    "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-23T00:15:12+00:00",
-    "fetched": "2026-07-23T03:54:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5eb/live/f92abbb0-85dd-11f1-9837-c51febdbeb82.jpg"
-  },
-  {
-    "id": "d2d4341d05df7b11",
-    "title": "Палата представників США ухвалила військовий бюджет на понад трильйон доларів",
-    "summary": "Поправка щодо припинення будь-якої допомоги Україні провалилась.",
-    "url": "https://lb.ua/world/2026/07/23/753830_palata_predstavnikiv_ssha.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-22T23:33:00+00:00",
-    "fetched": "2026-07-23T00:03:55+00:00",
-    "image": "https://i.lb.ua/news/002/42/6a61537c95eae.jpg"
-  },
-  {
-    "id": "ba784f931e99bcca",
-    "title": "Трамп схвалив ядерну угоду з Саудівською Аравією",
-    "summary": "США підписали угоду з Саудівською Аравією, яка може дозволити королівству збагачувати ядерне паливо.",
-    "url": "https://www.pravda.com.ua/news/2026/07/23/8045437/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-22T23:16:00+00:00",
-    "fetched": "2026-07-23T00:03:55+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/f/878275/bfcce88e4389f0519ca47cc0cbb8abd2.jpeg"
-  },
-  {
-    "id": "bea210e2aedf0a1d",
-    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-    "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-22T23:06:08+00:00",
-    "fetched": "2026-07-23T00:03:55+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg"
   }
 ]
