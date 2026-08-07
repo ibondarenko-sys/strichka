@@ -1,5 +1,89 @@
 [
   {
+    "id": "8a78dfa8720a8e72",
+    "title": "Герой без паспорта. Чому іноземці, які воюють за Україну, залишаються без найвищого визнання",
+    "summary": "\"Я не хочу бути героєм України – Не цінує героїв моя країна!\" – це слова з пісні \"Не хочу\" гурту \"Тартак\", записаної на початку нульових. Пісня стала одним із лейтмотивів Помаранчевої революції, бо в ній був увесь біль за тих, хто докладав зусиль для побудови незалежності…",
+    "url": "https://www.pravda.com.ua/articles/2026/08/07/8047627/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T02:30:00+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/6/887673/06c8e825ec7acc74c8b8333930a0ce6e.jpeg"
+  },
+  {
+    "id": "15f340e33cc5097f",
+    "title": "Трамп відкинув надання Україні ракет до Patriot, згадавши Байдена",
+    "summary": "Знову улюблена спекуляція республіканця про 300 мільярдів доларів воєнної підтримки.",
+    "url": "https://lb.ua/society/2026/08/07/757248_tramp_vidkinuv_nadannya_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T02:11:00+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://i.lb.ua/news/081/41/6a7539af4481f.jpg"
+  },
+  {
+    "id": "6b4039a5e3d2bb1f",
+    "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+    "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+    "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T02:07:46+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7090/live/f29bd430-9200-11f1-8bb2-b1dba9ee6a3c.jpg"
+  },
+  {
+    "id": "5eed72158ed1ac6b",
+    "title": "Сибіга: Атаками на цивільні судна Росія прагне досягнути результату 2022 року",
+    "summary": "Після російської атаки на цивільне судно в Чорному морі Сибіга закликав посилити тиск на Москву.",
+    "url": "https://www.pravda.com.ua/news/2026/08/07/8047661/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T01:44:00+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/887781/dfda2326107184a43ec9aae0953bf62c.jpeg"
+  },
+  {
+    "id": "ca547e5487046583",
+    "title": "Trump imposes 15% tariff on key chip material to counter China",
+    "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+    "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T01:03:35+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg"
+  },
+  {
+    "id": "240bf69bf2ebf3de",
+    "title": "Two people convicted in relation to death of French streamer",
+    "summary": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+    "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T00:51:40+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8835/live/1b4a78c0-91f0-11f1-b2ab-0dd01740f9f6.jpg"
+  },
+  {
+    "id": "84a3828a31c24f0a",
+    "title": "Латвія відпрацює мобілізацію за допомогою центрів збору у великих містах",
+    "summary": "Резервісти-добровольці пройдуть курс опанування військових навичок.",
+    "url": "https://lb.ua/world/2026/08/07/757246_latviya_vidpratsyuie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T00:33:00+00:00",
+    "fetched": "2026-08-07T03:30:33+00:00",
+    "image": "https://i.lb.ua/news/028/35/6a752a19902c6.jpg"
+  },
+  {
     "id": "089031ea474d0df2",
     "title": "Трамп підписав укази на обмеження громадянства за правом народження",
     "summary": "\"Пологовий туризм\": Трамп продовжує спроби обмежити громадянства за правом народження.",
@@ -10,6 +94,18 @@
     "published": "2026-08-07T00:20:00+00:00",
     "fetched": "2026-08-07T00:25:27+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/d/887779/1dcff8fafc13faa1fcc1863f75d0c51e.jpeg"
+  },
+  {
+    "id": "b5e35d978ebef48d",
+    "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+    "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 87 # Comments: 48",
+    "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T00:06:28+00:00",
+    "fetched": "2026-08-07T03:30:34+00:00",
+    "image": null
   },
   {
     "id": "05ae93802b36f282",
@@ -946,6 +1042,18 @@
     "published": "2026-08-06T15:59:15+00:00",
     "fetched": "2026-08-07T00:25:28+00:00",
     "image": "https://provenmetal.com/opengraph-image.png?opengraph-image.1ijtenr-ahy8x.png?dpl=dpl_7PsCFD8HpVYXuB2f3Maqj7oGShJJ"
+  },
+  {
+    "id": "f88eba64bc8e121e",
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "summary": "https://www.githubstatus.com/uptime/br0l2tvcx85d Comments URL: https://news.ycombinator.com/item?id=49198302 Points: 348 # Comments: 280",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-06T15:49:38+00:00",
+    "fetched": "2026-08-07T03:30:34+00:00",
+    "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png"
   },
   {
     "id": "f39e7fa5ee38d0e6",
@@ -48898,125 +49006,5 @@
     "published": "2026-07-24T03:42:00+00:00",
     "fetched": "2026-07-24T04:21:09+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/879302/c4e36d58814dcfa301de076c4b2a0f3a.jpeg"
-  },
-  {
-    "id": "4f66641782f706dd",
-    "title": "Ілон Маск назвав нереалістичним повернення Україною окупованих територій",
-    "summary": "Найбагатший бізнесмен світу фактично виступає за мир будь-якою ціною.",
-    "url": "https://lb.ua/society/2026/07/24/754102_ilon_mask_nazvav_nerealistichnim.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T02:25:00+00:00",
-    "fetched": "2026-07-24T04:21:09+00:00",
-    "image": "https://i.lb.ua/news/059/03/6a62bf583264a.jpg"
-  },
-  {
-    "id": "ed56804c44994613",
-    "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
-    "summary": "Article URL: https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/ Comments URL: https://news.ycombinator.com/item?id=49030547 Points: 30 # Comments: 20",
-    "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T02:18:23+00:00",
-    "fetched": "2026-07-24T04:21:09+00:00",
-    "image": "https://reprodev.com/content/images/size/w1200/2026/07/Ghost-Blog-Featured-ThursdayThinkpiece01.png"
-  },
-  {
-    "id": "8e6a1391d178ba00",
-    "title": "Польща заявила про готовність долучитися до виробництва ракет Patriot",
-    "summary": "Польща запропонувала Сполученим Штатам створити спільне з Україною виробництво ракет до систем протиповітряної оборони Patriot з розміщенням його на польській території як безпечному майданчику.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045628/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T02:14:00+00:00",
-    "fetched": "2026-07-24T04:21:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/879298/5f9ecc1915cbb67b21364d9eda37872d.jpeg"
-  },
-  {
-    "id": "af451ee8f955059f",
-    "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-    "summary": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607 Comments URL: https://news.ycombinator.com/item?id=49030474 Points: 38 # Comments: 13",
-    "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T02:06:31+00:00",
-    "fetched": "2026-07-24T04:21:09+00:00",
-    "image": null
-  },
-  {
-    "id": "d23acee4b0fcc4a5",
-    "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-    "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-24T01:59:49+00:00",
-    "fetched": "2026-07-24T17:41:23+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c0/live/60bb5b90-86b5-11f1-bb58-d3ffca85db6d.jpg"
-  },
-  {
-    "id": "6516d7492a340ee7",
-    "title": "У Росії заявили про атаку дронів та ураження складів Wildberries",
-    "summary": "Вчергове Ленобласть РФ атакували дрони.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045627/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T01:18:00+00:00",
-    "fetched": "2026-07-24T04:21:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/879300/2b2622d6b4d84b5e9838ddcdf21dad44.jpeg"
-  },
-  {
-    "id": "f3a649226b9988f2",
-    "title": "Зеленський зустрінеться з Трампом у США 28 липня",
-    "summary": "Визначена дата візиту, під час якого глава держави також відвідає похорон американського сенатора.",
-    "url": "https://lb.ua/news/2026/07/24/754100_zelenskiy_zustrinetsya_z_trampom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T01:17:00+00:00",
-    "fetched": "2026-07-24T04:21:09+00:00",
-    "image": "https://i.lb.ua/news/056/51/6a62bc5bbbaca.jpg"
-  },
-  {
-    "id": "8120a117b8366d3b",
-    "title": "Наступного тижня Зеленський зустрінеться з Трампом – ЗМІ",
-    "summary": "За даними \"Суспільного\" президент України Володимир Зеленський зустрінеться із президентом США Дональдом Трампом під час свого візиту до Америки наступного тижня.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045626/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T00:42:00+00:00",
-    "fetched": "2026-07-24T00:56:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/3/879296/d38dd232e93d2a5a9637bbc5a9aa6146.jpeg"
-  },
-  {
-    "id": "52a7ef755c17a4d8",
-    "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-    "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-24T00:40:26+00:00",
-    "fetched": "2026-07-24T00:56:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg"
-  },
-  {
-    "id": "0e341708550d3e82",
-    "title": "Через лісові пожежі в Європі евакуюють десятки тисяч людей",
-    "summary": "Іспанія оголосила надзвичайну ситуацію, Франція активувала захисний механізм ЄС.",
-    "url": "https://lb.ua/world/2026/07/24/754098_cherez_lisovi_pozhezhi_ievropi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T00:34:00+00:00",
-    "fetched": "2026-07-24T00:56:33+00:00",
-    "image": "https://i.lb.ua/news/006/14/6a62b33b2128a.jpg"
   }
 ]
