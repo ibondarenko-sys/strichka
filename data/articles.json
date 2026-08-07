@@ -1,5 +1,101 @@
 [
   {
+    "id": "fbade28d6edd2cae",
+    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+    "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+    "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T20:40:56+00:00",
+    "fetched": "2026-08-07T20:46:38+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg"
+  },
+  {
+    "id": "55f8bee78eb5e2a7",
+    "title": "8 серпня в більшості областей України очікуються дощі та грози",
+    "summary": "В окремих районах прогнозують град та шквали.",
+    "url": "https://lb.ua/society/2026/08/07/757522_8_serpnya_bilshosti_oblastey.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T20:27:00+00:00",
+    "fetched": "2026-08-07T20:46:39+00:00",
+    "image": "https://i.lb.ua/news/113/60/6a763fbfdb31c.jpg"
+  },
+  {
+    "id": "3aa2d6966c74de3f",
+    "title": "РФ атакувала лікарню в Херсоні: четверо медпрацівниць постраждали",
+    "summary": "Російські війська 7 серпня атакували територію лікарні в Херсоні: постраждали четверо працівниць.",
+    "url": "https://www.pravda.com.ua/news/2026/08/07/8047829/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T20:24:00+00:00",
+    "fetched": "2026-08-07T20:46:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888506/a35725e73663e24e73f9fae2016f954c.jpeg"
+  },
+  {
+    "id": "d24024f22be6a99b",
+    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T20:01:51+00:00",
+    "fetched": "2026-08-07T20:46:39+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1ff7e65f4663faf6",
+    "title": "Окупанти завдали авіаудару по Шосткинській громаді на Сумщині",
+    "summary": "Двоє людей поранені.",
+    "url": "https://lb.ua/society/2026/08/07/757520_okupanti_zavdali_aviaudaru.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T19:59:00+00:00",
+    "fetched": "2026-08-07T20:46:39+00:00",
+    "image": "https://i.lb.ua/news/049/29/6a76390c9d695.jpg"
+  },
+  {
+    "id": "7864829cae920d1a",
+    "title": "Cибіга привітав ухвалення Сенатом США \"проєкту Грема\" про санкції проти РФ",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/07/8047827/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T19:47:00+00:00",
+    "fetched": "2026-08-07T20:46:38+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/2/0/20622c3---------------2026-08-07-220351.jpg"
+  },
+  {
+    "id": "e3fcb8b4a4b1cc24",
+    "title": "За експосадовця МЗС Банькова, якого підозрюють у розкраданні, внесли заставу",
+    "summary": "За колишнього держсекретаря Міністерства закордонних справ Олександра Банькова 3 серпня внесли заставу у розмірі 10 млн грн і він вийшов із СІЗО.",
+    "url": "https://www.pravda.com.ua/news/2026/08/07/8047826/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T19:45:00+00:00",
+    "fetched": "2026-08-07T20:46:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/b/888488/ab226cf65f29ae14d52f4b9e45d0f66e.jpeg"
+  },
+  {
+    "id": "53a43a4d91e7b29c",
+    "title": "Росіяни атакували дронами лікарню в Херсоні: є постраждалі",
+    "summary": "Четверо медпрацівниць дістали травми та контузії.",
+    "url": "https://lb.ua/society/2026/08/07/757518_rosiyani_atakuvali_dronami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T19:32:00+00:00",
+    "fetched": "2026-08-07T20:46:39+00:00",
+    "image": "https://i.lb.ua/news/103/58/6a7632cf177aa.jpg"
+  },
+  {
     "id": "23acc9c32ba0bdc8",
     "title": "Генштаб: 192 бойові зіткнення відбулося на фронті від початку доби",
     "summary": "Найгарячіше на Покровському напрямку, де відбулось 25 ворожих атак.",
@@ -70,6 +166,18 @@
     "published": "2026-08-07T18:59:08+00:00",
     "fetched": "2026-08-07T19:31:00+00:00",
     "image": "https://daringfireball.net/graphics/df-wide-card.png"
+  },
+  {
+    "id": "2d98a155f03e09f3",
+    "title": "Psychological Warfare in Reverse Engineering",
+    "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 10 # Comments: 1",
+    "url": "https://github.com/xoreaxeaxeax/repsych",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T18:51:45+00:00",
+    "fetched": "2026-08-07T20:46:40+00:00",
+    "image": "https://opengraph.githubassets.com/26c6442f5d9ca216f30249bfdd78977179f28e9a0b49a1b0b9121704a2ae18c5/xoreaxeaxeax/REpsych"
   },
   {
     "id": "5dec09279d1b52b6",
@@ -250,6 +358,18 @@
     "published": "2026-08-07T17:56:20+00:00",
     "fetched": "2026-08-07T18:23:10+00:00",
     "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2"
+  },
+  {
+    "id": "3783eaf014c3ac37",
+    "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+    "summary": "Article URL: https://theclaudyssey.com/ Comments URL: https://news.ycombinator.com/item?id=49213985 Points: 20 # Comments: 18",
+    "url": "https://theclaudyssey.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T17:55:14+00:00",
+    "fetched": "2026-08-07T20:46:40+00:00",
+    "image": "https://theclaudyssey.com/cover.jpg"
   },
   {
     "id": "ebc8cae2c318bf44",
@@ -48826,137 +48946,5 @@
     "published": "2026-07-24T20:59:00+00:00",
     "fetched": "2026-07-24T22:35:07+00:00",
     "image": "https://i.lb.ua/news/105/15/6a63d3d909f10.jpg"
-  },
-  {
-    "id": "4a23410842e02a68",
-    "title": "Латвія викликала російського дипломата через удар по почесному консульству у Слов'янську",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045812/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T20:45:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/f/b/fbbd120-ee5612d---------------2026-07-24-170834.jpg"
-  },
-  {
-    "id": "16a3f9bcb78b214a",
-    "title": "Сумська громада під атакою ворожих безпілотників: є жертви (оновлено)",
-    "summary": "Російський ударний БпЛА влучив по об'єкту цивільної інфраструктури.",
-    "url": "https://lb.ua/society/2026/07/24/754356_sumska_gromada_pid_atakoyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T20:44:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://i.lb.ua/news/009/44/6a63c90eab806.jpg"
-  },
-  {
-    "id": "dd41179d8db21407",
-    "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-    "summary": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-24T20:37:21+00:00",
-    "fetched": "2026-07-25T06:21:43+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg"
-  },
-  {
-    "id": "315f3ea0f5f835de",
-    "title": "РФ вдарила реактивним безпілотником по Сумській громаді: загинув чоловік",
-    "summary": "Російські війська ввечері 24 липня завдали удару по поштовому відділенню в Сумській громаді: загинув чоловік, ще один поранений.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045810/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T20:22:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/2/880173/32564762d1c3c1c54d835ea09625e87c.jpeg"
-  },
-  {
-    "id": "ee69539efc836a81",
-    "title": "Трамп пригрозив Євросоюзу новими тарифами через оштрафований Google",
-    "summary": "Президент США Дональд Трамп заявив, що доб'ється скасування штрафів ЄС проти американських технологічних гігантів і пригрозив Євросоюзу новими тарифами.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045809/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T20:18:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/1/880172/d17473014f524cd36dfcbb48ab787b15.jpeg"
-  },
-  {
-    "id": "5070110133c3727a",
-    "title": "ЦПД: США внесли 33 російські установи до списку загроз національній безпеці",
-    "summary": "Серед них - ключові техуніверситети Росії.",
-    "url": "https://lb.ua/world/2026/07/24/754354_tspd_ssha_vnesli_33_rosiyski.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T20:11:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://i.lb.ua/news/090/23/6a63c6e4750b0.jpg"
-  },
-  {
-    "id": "a6b6c2a80b7f9774",
-    "title": "Трамп каже, що довіряє заявам Сі і Путіна щодо продажу зброї Ірану",
-    "summary": "Президент США Дональд Трамп заявив, що довіряє заявам лідера Китаю Сі Цзіньпіна та правителя РФ Владіміра Путіна щодо торгівлі зброєю з Іраном.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045807/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T20:03:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/e/880170/6e4ca991419667e34ff26002c9f752c8.jpeg"
-  },
-  {
-    "id": "3169624917cc38cf",
-    "title": "Від російського удару на полігоні в Київській області загинула комунікаційниця УДО",
-    "summary": "Від ракетного удару Росії по Київщині 24 липня загинула керівниця центру міжнародного співробітництва та стратегічних комунікацій Управління державної охорони України Валентина Савіцька.",
-    "url": "https://www.pravda.com.ua/news/2026/07/24/8045805/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T19:48:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/2/880168/125f073b7091c3d22fc6a6a690bbf36d.jpeg"
-  },
-  {
-    "id": "0e91b5564c2a8044",
-    "title": "Калашник: є області, де темпи підготовки до зими вимагають суттєвого прискорення",
-    "summary": "Готовність регіонів до опалювального сезону та реалізацію планів стійкості обговорили на координаційній нараді.",
-    "url": "https://lb.ua/economics/2026/07/24/754352_kalashnik_ie_oblasti_de_tempi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T19:47:00+00:00",
-    "fetched": "2026-07-24T21:08:33+00:00",
-    "image": "https://i.lb.ua/news/075/08/6a63c160c9945.jpg"
-  },
-  {
-    "id": "e616440e259bcd17",
-    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-    "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 14 # Comments: 6",
-    "url": "https://artificialanalysis.ai/models",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T19:45:10+00:00",
-    "fetched": "2026-07-24T22:35:08+00:00",
-    "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321"
-  },
-  {
-    "id": "a6f7e270ef145776",
-    "title": "Roku raises streaming stick prices by up to 60 percent",
-    "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
-    "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T19:41:06+00:00",
-    "fetched": "2026-07-24T22:35:07+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg"
   }
 ]
