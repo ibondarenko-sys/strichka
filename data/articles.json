@@ -1,5 +1,89 @@
 [
   {
+    "id": "55db4a80f3cf9aaa",
+    "title": "Іспанія дзеркально відповіла Італії на призупинення дії Шенгенського договору",
+    "summary": "Мандрівникам з Італії доведеться проходити прикордонний контроль.",
+    "url": "https://lb.ua/world/2026/08/08/757536_ispaniya_dzerkalno_vidpovila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T22:30:00+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://i.lb.ua/news/100/27/6a765d76c9277.jpg"
+  },
+  {
+    "id": "4ee14d5d7908da59",
+    "title": "DeepState: РФ просунулась поблизу Костянтинівки",
+    "summary": "DeepState повідомляє про просування російських військ біля Костянтинівки Донецької області.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047836/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T22:23:00+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/888521/890853468ba07a3ee8822a5aa08381e5.jpeg"
+  },
+  {
+    "id": "10be5f0435ae13ef",
+    "title": "У Києві та низці областей оголосили відбій тривоги через загрозу ворожих дронів",
+    "summary": "У столиці та регіонах України оголошували повітряну тривогу через загрозу ударних дронів",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047835/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T22:11:00+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/888520/54e28de22476e65e8a294c2ef7b37490.jpeg"
+  },
+  {
+    "id": "685d4d64d519e1c2",
+    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is…",
+    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T22:05:08+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7101cb9cdd0af69e",
+    "title": "За перше півріччя 2026 року українці 16 млн разів перетнули кордон",
+    "summary": "Кількість виїздів на 244 тисячі перевищила кількість повернень.",
+    "url": "https://lb.ua/economics/2026/08/08/757534_pershe_pivrichchya_2026_roku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T21:57:00+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://i.lb.ua/news/043/07/6a7654ce56b62.jpg"
+  },
+  {
+    "id": "667538d9c4eb7c39",
+    "title": "Гантер Байден визнав шкоду, яку його помилування завдало репутації батька",
+    "summary": "46-ий президент США наразі бореться з раком.",
+    "url": "https://lb.ua/world/2026/08/08/757532_ganter_bayden_viznav_shkodu_yaku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T21:47:00+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://i.lb.ua/news/099/35/6a76528bbfb05.jpg"
+  },
+  {
+    "id": "df66205a66f8a664",
+    "title": "Spain to introduce temporary border checks on visitors from Italy",
+    "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The…",
+    "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T21:44:38+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb"
+  },
+  {
     "id": "f66a47c275c9ca70",
     "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
     "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
@@ -82,6 +166,18 @@
     "published": "2026-08-07T21:09:00+00:00",
     "fetched": "2026-08-07T21:43:09+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
+  },
+  {
+    "id": "4e33a89a919d5a04",
+    "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+    "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+    "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T21:05:45+00:00",
+    "fetched": "2026-08-07T22:41:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e5/live/2f52b920-929c-11f1-b6aa-e1ff997f01b8.jpg"
   },
   {
     "id": "b1ad0f062fadf8a7",
@@ -48886,101 +48982,5 @@
     "published": "2026-07-24T22:44:38+00:00",
     "fetched": "2026-07-25T00:08:34+00:00",
     "image": "https://www.spacex.com/assets/images/share.jpg"
-  },
-  {
-    "id": "f56159eaffd429ea",
-    "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-    "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
-    "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T22:28:20+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2287501646-1152x648.jpg"
-  },
-  {
-    "id": "9e95f97a32c95b65",
-    "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-    "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson…",
-    "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T22:27:46+00:00",
-    "fetched": "2026-07-24T22:35:07+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0075.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "b09bfede0a54b938",
-    "title": "AIs don't do what you want. This is bad",
-    "summary": "Article URL: https://rewardhacking.org Comments URL: https://news.ycombinator.com/item?id=49042354 Points: 15 # Comments: 2",
-    "url": "https://rewardhacking.org",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T22:24:08+00:00",
-    "fetched": "2026-07-25T00:08:34+00:00",
-    "image": "https://rewardhacking.org/og.png"
-  },
-  {
-    "id": "abd2f167273486d0",
-    "title": "Під час удару балістикою на Київщині загинула комунікаційниця Валентина Савіцька",
-    "summary": "Вона працювала в Управлінні державної охорони України.",
-    "url": "https://lb.ua/society/2026/07/25/754370_pid_chas_udaru_balistikoyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T22:10:00+00:00",
-    "fetched": "2026-07-24T22:35:07+00:00",
-    "image": "https://i.lb.ua/news/032/42/6a63e1f39b4c0.jpg"
-  },
-  {
-    "id": "53d3c60938ef259f",
-    "title": "25 липня на Київщині оголосили Днем жалоби за загиблими внаслідок російської атаки",
-    "summary": "Через атаку в Бучанському районі загинули 10 людей.",
-    "url": "https://lb.ua/society/2026/07/25/754368_25_lipnya_kiyivschini_ogolosili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T22:00:00+00:00",
-    "fetched": "2026-07-24T22:35:07+00:00",
-    "image": "https://i.lb.ua/news/044/59/6a63e08274422.jpg"
-  },
-  {
-    "id": "3921932808f238d2",
-    "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-    "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T21:56:02+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg"
-  },
-  {
-    "id": "d403796795825529",
-    "title": "YouTube заблокував в Україні канали російських артистів, які підтримують війну",
-    "summary": "Відео семи виконавців українським користувачам більше не демонструватимуть.",
-    "url": "https://lb.ua/society/2026/07/25/754366_youtube_zablokuvav_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T21:48:00+00:00",
-    "fetched": "2026-07-24T22:35:07+00:00",
-    "image": "https://i.lb.ua/news/095/57/6a63ddbb7077c.jpg"
-  },
-  {
-    "id": "0008452186b767a4",
-    "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-    "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-    "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-24T21:47:16+00:00",
-    "fetched": "2026-07-24T22:35:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg"
   }
 ]
