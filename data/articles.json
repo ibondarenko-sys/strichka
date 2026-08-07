@@ -1,5 +1,29 @@
 [
   {
+    "id": "546276825f3e45d1",
+    "title": "Гілларі Клінтон порівняла Трампа із Саддамом Хуссейном через декор у Білому домі",
+    "summary": "Колишня кандидатка у президенти нагадала, що резиденція належить американцям, а не політику.",
+    "url": "https://lb.ua/world/2026/08/08/757538_gillari_klinton_porivnyala.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T23:24:00+00:00",
+    "fetched": "2026-08-07T23:37:15+00:00",
+    "image": "https://i.lb.ua/news/104/04/6a7667e550a1c.jpg"
+  },
+  {
+    "id": "5cd351b64ac4a348",
+    "title": "Фон дер Ляєн привітала рішення Сенату США щодо санкції проти РФ",
+    "summary": "Урсула фон дер Ляєн привітала ухвалення Сенатом США законопроєкту щодо нових санкцій проти РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047837/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T22:53:00+00:00",
+    "fetched": "2026-08-07T23:37:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/888522/181709263a9e317ea58ec5727753f4d0.jpeg"
+  },
+  {
     "id": "55db4a80f3cf9aaa",
     "title": "Іспанія дзеркально відповіла Італії на призупинення дії Шенгенського договору",
     "summary": "Мандрівникам з Італії доведеться проходити прикордонний контроль.",
@@ -58,6 +82,18 @@
     "published": "2026-08-07T21:57:00+00:00",
     "fetched": "2026-08-07T22:41:03+00:00",
     "image": "https://i.lb.ua/news/043/07/6a7654ce56b62.jpg"
+  },
+  {
+    "id": "5cd4a4ede33f4df6",
+    "title": "Europe's free satellite service just made it easier to track wildfires",
+    "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+    "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T21:48:21+00:00",
+    "fetched": "2026-08-07T23:37:15+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-1152x648.jpg"
   },
   {
     "id": "667538d9c4eb7c39",
@@ -238,6 +274,18 @@
     "published": "2026-08-07T20:27:00+00:00",
     "fetched": "2026-08-07T20:46:39+00:00",
     "image": "https://i.lb.ua/news/113/60/6a763fbfdb31c.jpg"
+  },
+  {
+    "id": "cc50a699d0876772",
+    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+    "summary": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805 Comments URL: https://news.ycombinator.com/item?id=49215786 Points: 21 # Comments: 11",
+    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T20:25:04+00:00",
+    "fetched": "2026-08-07T23:37:15+00:00",
+    "image": "https://jf.x.com/images/media-preview/2084686552299634805"
   },
   {
     "id": "3aa2d6966c74de3f",
@@ -48910,77 +48958,5 @@
     "published": "2026-07-24T23:40:00+00:00",
     "fetched": "2026-07-25T00:08:33+00:00",
     "image": "https://i.lb.ua/news/065/38/6a63f9e4b882c.jpg"
-  },
-  {
-    "id": "02c4e818bddcde54",
-    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-    "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 6 # Comments: 0",
-    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T23:13:18+00:00",
-    "fetched": "2026-07-25T00:08:34+00:00",
-    "image": null
-  },
-  {
-    "id": "27ed257558a26634",
-    "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-    "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-    "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-24T23:11:13+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg"
-  },
-  {
-    "id": "24be73606fd12226",
-    "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-    "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-    "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-24T23:01:06+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg"
-  },
-  {
-    "id": "1f5433c561760b6b",
-    "title": "Лісова пожежа біля Мадрида визнана владою найгіршою в історії",
-    "summary": "Пожежники повідомили, що поки не в змозі стримати поширення вогню.",
-    "url": "https://lb.ua/world/2026/07/25/754372_lisova_pozhezha_bilya_madrida.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T22:49:00+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://i.lb.ua/news/102/18/6a63ec251bf95.jpg"
-  },
-  {
-    "id": "617dc3a26013a969",
-    "title": "Прокурора МКС Каріма Хана офіційно звільнили з посади через домагання",
-    "summary": "Міжнародний кримінальний суд підтвердив звільнення Каріма Хана з посади прокурора через доведене порушення службових обов'язків.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045815/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T22:45:00+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/e/880187/2e553fafc864c2b28bdeed5ad7d961a9.jpeg"
-  },
-  {
-    "id": "7683cd2b235a5cea",
-    "title": "SpaceX Starship Flight 13 livestream [video]",
-    "summary": "Article URL: https://www.spacex.com/launches/starship-flight-13 Comments URL: https://news.ycombinator.com/item?id=49042528 Points: 38 # Comments: 28",
-    "url": "https://www.spacex.com/launches/starship-flight-13",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-24T22:44:38+00:00",
-    "fetched": "2026-07-25T00:08:34+00:00",
-    "image": "https://www.spacex.com/assets/images/share.jpg"
   }
 ]
