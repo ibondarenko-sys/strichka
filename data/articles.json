@@ -1,5 +1,41 @@
 [
   {
+    "id": "4084d487325fc21d",
+    "title": "My server is a phone now",
+    "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 3 # Comments: 0",
+    "url": "https://seg6.space/posts/phone-server/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T22:49:23+00:00",
+    "fetched": "2026-08-08T23:33:02+00:00",
+    "image": "https://seg6.space/img/phone-server/system-dashboard.png"
+  },
+  {
+    "id": "db7cb1e96f327c9a",
+    "title": "У Херсоні через ворожий дрон постраждала 12-річна дитина",
+    "summary": "Внаслідок атаки російського безпілотника у Херсоні постраждала 12-річна дівчинка. Її госпіталізовано з травмами.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047933/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T22:48:00+00:00",
+    "fetched": "2026-08-08T23:32:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/888969/fc77268e2a14a6ce9855480f15292758.jpeg"
+  },
+  {
+    "id": "a25e28b10bed8df1",
+    "title": "Туреччина закликала оголосити мораторій на удари по суднах у Чорному морі",
+    "summary": "Туреччина пропонує Україні та Росії запровадити мораторій на атаки торговельних суден у Чорному морі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047932/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T22:38:00+00:00",
+    "fetched": "2026-08-08T23:32:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/888968/b6c404798f857cd4d661d408faffc5d5.jpeg"
+  },
+  {
     "id": "0fdb9dcab94a91b6",
     "title": "На Миколаївщині постраждала людина через російський удар дроном",
     "summary": "Унаслідок удару дрона по Снігурівській громаді поранено чоловіка, пошкоджена АЗС.",
@@ -48754,65 +48790,5 @@
     "published": "2026-07-25T23:41:00+00:00",
     "fetched": "2026-07-26T03:27:16+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/880662/089ea09dfff89f8efc4099094fcc611d.jpeg"
-  },
-  {
-    "id": "7f366388db06517c",
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL:…",
-    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T23:32:50+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://opengraph.githubassets.com/f02b91dbbd03c332bbb193f8141380a6fd9a443f575a7d7d7e2adfd57c88c631/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22"
-  },
-  {
-    "id": "1e55105115b66dcf",
-    "title": "Clinical Failure Rates over the Decades: Yikes",
-    "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 4 # Comments: 0",
-    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T22:57:17+00:00",
-    "fetched": "2026-07-25T23:31:51+00:00",
-    "image": null
-  },
-  {
-    "id": "94727dd60131f02e",
-    "title": "Трамп призупинив удари по Ірану, щоб дати шанс дипломатії – Axios",
-    "summary": "Дональд Трамп розпорядився призупинити атаки США на Іран, даючи шанс дипломатичному врегулюванню ситуації.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045922/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T22:56:00+00:00",
-    "fetched": "2026-07-25T23:31:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/880661/6d96d440ef7ee848529ca7030536acf3.jpeg"
-  },
-  {
-    "id": "6876b0340723b593",
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 83 # Comments: 90",
-    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T22:51:10+00:00",
-    "fetched": "2026-07-26T08:57:27+00:00",
-    "image": null
-  },
-  {
-    "id": "53c12c6d644adb84",
-    "title": "Cloudflare's new AI traffic options for customers",
-    "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 53 # Comments: 31",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T22:50:49+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KWW2Q1J78MZF5QRDGYXQN4VN.png"
   }
 ]
