@@ -1,5 +1,113 @@
 [
   {
+    "id": "95803b856bd0c454",
+    "title": "Польща назвала популізмом заяви опозиції щодо депортації українців",
+    "summary": "Польське МВС назвало заяви PiS про депортацію українців популізмом. 95% працюють легально.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047868/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T09:02:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/9/888610/d996daca85126ec362a583ae6b009754.jpeg"
+  },
+  {
+    "id": "f50133e9cf7923f9",
+    "title": "У Херсоні окупанти поранили 63-річного цивільного",
+    "summary": "Чоловік дістав мінно-вибухову травму.",
+    "url": "https://lb.ua/society/2026/08/08/757594_hersoni_okupanti_poranili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:58:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://i.lb.ua/news/064/23/6a76efab6b94f.jpg"
+  },
+  {
+    "id": "2e78d09f3b6328a2",
+    "title": "Іванчук увійде до Зали світової шахової слави",
+    "summary": "Офіційна церемонія відбудеться в жовтні.",
+    "url": "https://lb.ua/sport/2026/08/08/757592_ivanchuk_uviyde_zali_svitovoyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:46:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://i.lb.ua/news/116/57/6a76ede3b6898.jpg"
+  },
+  {
+    "id": "5257f50ca571853f",
+    "title": "Нова Зеландія ввела санкції проти Росії",
+    "summary": "Під санкції потрапили 33 особи та організації.",
+    "url": "https://lb.ua/world/2026/08/08/757590_nova_zelandiya_vvela_sanktsiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:44:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://i.lb.ua/news/095/43/6a76ec512d107.jpg"
+  },
+  {
+    "id": "4981fc3119a533c8",
+    "title": "Посольство РФ вважає інцидент у Лейпцигу сфабрикованою провокацією",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047866/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:42:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": null
+  },
+  {
+    "id": "dc66bc44ece8fd59",
+    "title": "Сили оборони уразили ворожий пост спостереження на буровій установці \"Сиваш\" і два російські НПЗ",
+    "summary": "Ступінь завданих збитків та результати ураження об'єктів ворога уточнюються.",
+    "url": "https://lb.ua/society/2026/08/08/757588_sili_oboroni_urazili_vorozhiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:27:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://i.lb.ua/news/095/10/6a76e859c7386.jpg"
+  },
+  {
+    "id": "b1377af1d21cc7b9",
+    "title": "Україна уразила ще два НПЗ у Росії – Генштаб",
+    "summary": "У ніч на 8 серпня ЗСУ уразили Ільський і Сизранський НПЗ у РФ та об'єкт у Чорному морі. Є підтверджені пожежі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047863/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:21:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/0/888600/006963069c5323b2866dd78290bb43ca.jpeg"
+  },
+  {
+    "id": "bdc1f4243eda4c05",
+    "title": "Юлію Свириденко розглядають для призначення в «Нафтогаз»",
+    "summary": "Відповідно до статуту акціонерного товариства, призначення проводить наглядова рада.",
+    "url": "https://lb.ua/news/2026/08/08/757584_yuliyu_sviridenko_rozglyadayut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:12:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://i.lb.ua/news/093/46/6a76e4de9b38d.jpg"
+  },
+  {
+    "id": "62ee72bb6abafeb6",
+    "title": "Дрони ГУР уразили Ільський НПЗ в Росії",
+    "summary": "На території НПЗ виникла пожежа.",
+    "url": "https://lb.ua/society/2026/08/08/757586_droni_gur_urazili_ilskiy_npz.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:11:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://i.lb.ua/news/003/42/6a76e6014c229.jpg"
+  },
+  {
     "id": "b022aa8d4de64ff2",
     "title": "Зеленський: На Київщині загинули 3-річний хлопчик, його бабуся та дідусь, а батьки поранені",
     "summary": "У Пухівці Київської області внаслідок російської атаки загинуло троє, четверо поранені. Зеленський закликає посилити санкції.",
@@ -10,6 +118,18 @@
     "published": "2026-08-08T08:01:00+00:00",
     "fetched": "2026-08-08T08:09:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/888585/ff8c7351bc82704b9a9eebc66c629ce9.jpeg"
+  },
+  {
+    "id": "1960fc0bcc8349cc",
+    "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+    "summary": "Article URL: https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/ Comments URL: https://news.ycombinator.com/item?id=49219775 Points: 4 # Comments: 1",
+    "url": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T07:58:36+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": null
   },
   {
     "id": "a2fe6fb7c0984a9e",
@@ -33,6 +153,18 @@
     "lang": "uk",
     "published": "2026-08-08T07:46:00+00:00",
     "fetched": "2026-08-08T08:09:40+00:00",
+    "image": "https://i.lb.ua/news/011/37/6a76db9e511ac.jpg"
+  },
+  {
+    "id": "f25993127607e31d",
+    "title": "Зеленьський: ворог запустив на Київ шість балістичних ракет, в області РФ вбила дитину",
+    "summary": "Україні необхідне посилення протиповітряної та протиракетної оборони.",
+    "url": "https://lb.ua/society/2026/08/08/757580_zelenskiy_vorog_zapustiv_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T07:46:00+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
     "image": "https://i.lb.ua/news/011/37/6a76db9e511ac.jpg"
   },
   {
@@ -646,6 +778,18 @@
     "published": "2026-08-07T23:24:00+00:00",
     "fetched": "2026-08-07T23:37:15+00:00",
     "image": "https://i.lb.ua/news/104/04/6a7667e550a1c.jpg"
+  },
+  {
+    "id": "b22f5e23a0bbd2c0",
+    "title": "The phone book that led us to Assad's spy chief in hiding",
+    "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+    "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-07T23:23:12+00:00",
+    "fetched": "2026-08-08T09:10:59+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png"
   },
   {
     "id": "5cd351b64ac4a348",
@@ -48874,101 +49018,5 @@
     "published": "2026-07-25T09:16:00+00:00",
     "fetched": "2026-07-25T10:37:14+00:00",
     "image": "https://i.lb.ua/news/068/40/6a647e5caf3ee.jpg"
-  },
-  {
-    "id": "473aaa171e572ca0",
-    "title": "Reuters: глава Міноборони Італії запропонував Михайлу Федорову стати своїм радником",
-    "summary": "Крозетто високо оцінив роль Федорова у розвитку військових технологій.",
-    "url": "https://lb.ua/world/2026/07/25/754434_reuters_glava_minoboroni_italiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T09:04:00+00:00",
-    "fetched": "2026-07-25T10:37:14+00:00",
-    "image": "https://i.lb.ua/news/085/37/6a647b7399bb2.jpg"
-  },
-  {
-    "id": "c5a4ef7337e7a03d",
-    "title": "На Чернігівщині унаслідок атак російських дронів поранені троє цивільних",
-    "summary": "Пошкоджено будинок культури та агропідприємства.",
-    "url": "https://lb.ua/society/2026/07/25/754430_chernigivschini_unaslidok_atak.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:53:00+00:00",
-    "fetched": "2026-07-25T10:37:14+00:00",
-    "image": "https://i.lb.ua/news/104/06/6a64770f22aab.jpg"
-  },
-  {
-    "id": "10815afd1f839405",
-    "title": "В Міноборони Румунії розповіли подробиці про нове збиття дрона",
-    "summary": "У Міністерстві оборони Румунії розповіли подробиці інциденту з порушенням повітряного простору країни невідомим дроном і його подальше збиття.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045852/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:45:00+00:00",
-    "fetched": "2026-07-25T10:37:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/8/880350/28f8709b57ff662d5a6ae2a0c6255d5c.jpeg"
-  },
-  {
-    "id": "7420ea984f95003b",
-    "title": "Четверо палестинців та двоє ізраїльтян загинули внаслідок стрілянини на Західному березі",
-    "summary": "Цей інцидент став у регіоні найсмертоноснішим окремим інцидентом за останні місяці.",
-    "url": "https://lb.ua/world/2026/07/25/754422_chetvero_palestintsiv_dvoie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:27:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://i.lb.ua/news/041/24/6a6472d8eb3b0.jpg"
-  },
-  {
-    "id": "a0ca3e4b7b3050c2",
-    "title": "FT: Удари по складах Wildberries \"оголили\" нову вразливість воєнної економіки РФ",
-    "summary": "Після ураження перших п'яти складських комплексів Wildberries стала одним із найуразливіших елементів економіки РФ.",
-    "url": "https://lb.ua/society/2026/07/25/754424_ft_udari_skladah_wildberries.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:23:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://i.lb.ua/news/095/24/6a64719156120.jpg"
-  },
-  {
-    "id": "aaf85ff212fac32e",
-    "title": "Ілюзія контролю: як підприємець стає ботлнеком при масштабуванні бізнесу — колонка",
-    "summary": "Юлія Велішаєва, підприємиця та засновниця EdTech-екосистеми Mind Master, на прикладі гучних криз у компаніях Uber, Starbucks і Peloton у колонці для AIN розбирає пастки мікроменеджменту та пропонує чотири практичні інструменти для виходу з операційного хаосу.",
-    "url": "https://ain.ua/2026/07/24/iliuziia-kontroliu-iak-pidprijemec-staje-botlnekom-pri-masstabuvanni-biznesu-kolonka/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-07-25T08:20:48+00:00",
-    "fetched": "2026-07-25T08:30:52+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-07-24/zOrc72fjTVihEiTH4WAkzBE60G2J4BuwOsfiXXE7.webp"
-  },
-  {
-    "id": "8b8e6c6791af8647",
-    "title": "Трамп жартома допустив, що балотуватиметься на третій президентський термін",
-    "summary": "Президент США Дональд Трамп жартома заговорив про можливість балотування третій термін, що прямо заборонено американською конституцією.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045850/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:15:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/e/5ec4fa6-2026-07-25t032006z-637534272-rc2rkmaq42mm-rtrmadp-3-usa-trump-dinner.jpg"
-  },
-  {
-    "id": "dfa37dc83ab6dc77",
-    "title": "Росіяни завдали ракетного удару по Балаклії на Харківщині, є поранені",
-    "summary": "Щонайменше двоє поранених через ракетну атаку ворога.",
-    "url": "https://lb.ua/society/2026/07/25/754420_rosiyani_zavdali_raketnogo_udaru.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:11:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://i.lb.ua/news/004/33/6a646e3c9fa0f.jpg"
   }
 ]
