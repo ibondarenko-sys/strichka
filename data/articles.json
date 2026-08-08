@@ -1,5 +1,29 @@
 [
   {
+    "id": "0fdb9dcab94a91b6",
+    "title": "На Миколаївщині постраждала людина через російський удар дроном",
+    "summary": "Унаслідок удару дрона по Снігурівській громаді поранено чоловіка, пошкоджена АЗС.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047931/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T21:42:00+00:00",
+    "fetched": "2026-08-08T22:33:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/d/888967/dd7585d7ce41650b9013a5703e055896.jpeg"
+  },
+  {
+    "id": "60f8a1ef45c3b037",
+    "title": "Wikipedia's founder on his life's work: \"A propaganda tool\"",
+    "summary": "Article URL: https://nordictimes.com/world/wikipedias-founder-on-his-lifes-work-a-propaganda-tool/ Comments URL: https://news.ycombinator.com/item?id=49226113 Points: 5 # Comments: 1",
+    "url": "https://nordictimes.com/world/wikipedias-founder-on-his-lifes-work-a-propaganda-tool/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T21:34:58+00:00",
+    "fetched": "2026-08-08T22:33:55+00:00",
+    "image": "https://nordictimes.com/wp-content/uploads/2025/10/Larry-Sanger55.jpg"
+  },
+  {
     "id": "cf74cdee3f082e0c",
     "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
     "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified…",
@@ -82,6 +106,18 @@
     "published": "2026-08-08T20:43:00+00:00",
     "fetched": "2026-08-08T21:34:22+00:00",
     "image": "https://i.lb.ua/news/112/56/6a77950e4bef7.jpg"
+  },
+  {
+    "id": "b48c036bf1617f17",
+    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+    "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 10 # Comments: 1",
+    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T20:37:24+00:00",
+    "fetched": "2026-08-08T22:33:55+00:00",
+    "image": null
   },
   {
     "id": "65fd6cb59c191f98",
@@ -48778,65 +48814,5 @@
     "published": "2026-07-25T22:50:49+00:00",
     "fetched": "2026-07-26T03:27:16+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KWW2Q1J78MZF5QRDGYXQN4VN.png"
-  },
-  {
-    "id": "0c7dcd22274ed559",
-    "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
-    "summary": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
-    "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-25T22:15:14+00:00",
-    "fetched": "2026-07-25T23:31:51+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6249/live/bc091200-873a-11f1-a10e-a5d4f08bc20c.jpg"
-  },
-  {
-    "id": "4a9bc858ba9f1608",
-    "title": "Kimi K3 built a Windows XP in browser",
-    "summary": "Article URL: https://windows-xp.kimi.site/ Comments URL: https://news.ycombinator.com/item?id=49052074 Points: 29 # Comments: 15",
-    "url": "https://windows-xp.kimi.site/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T22:03:22+00:00",
-    "fetched": "2026-07-25T23:31:51+00:00",
-    "image": null
-  },
-  {
-    "id": "677a2b99e251e71c",
-    "title": "Росія б'є по Києву ракетами: в одному з районів уламки впали на 18-поверховий будинок",
-    "summary": "Вночі 26 липня росіяни обстріляли Київ, уламки пошкодили 18-поверхівку, є пожежі у кількох районах.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045920/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T21:53:00+00:00",
-    "fetched": "2026-07-25T22:02:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/d/880658/0d63c58f3aa4cf962d643c3f03b96982.jpeg"
-  },
-  {
-    "id": "8622cff3d13f10d0",
-    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-    "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 5 # Comments: 0",
-    "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T21:48:22+00:00",
-    "fetched": "2026-07-25T22:02:12+00:00",
-    "image": "https://spectrum.ieee.org/media-library/a-sodium-ion-prismatic-cell-battery-pack.jpg?id=67517723&width=1200&height=600&coordinates=0%2C16%2C0%2C234"
-  },
-  {
-    "id": "c2c2f6031c3058c7",
-    "title": "Понад 250 тисяч людей евакуювали через сильні лісові пожежі у Франції та Іспанії",
-    "summary": "Лісові пожежі у Франції та Іспанії змусили більше 250 тисяч людей покинути домівки. Оголошено надзвичайний стан.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045921/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T21:48:00+00:00",
-    "fetched": "2026-07-25T22:02:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/880660/ac2664bf0fb9aba8c75cb3c6cdfc5c16.jpeg"
   }
 ]
