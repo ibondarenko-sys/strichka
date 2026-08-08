@@ -1,5 +1,65 @@
 [
   {
+    "id": "b022aa8d4de64ff2",
+    "title": "Зеленський: На Київщині загинули 3-річний хлопчик, його бабуся та дідусь, а батьки поранені",
+    "summary": "У Пухівці Київської області внаслідок російської атаки загинуло троє, четверо поранені. Зеленський закликає посилити санкції.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047860/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T08:01:00+00:00",
+    "fetched": "2026-08-08T08:09:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/888585/ff8c7351bc82704b9a9eebc66c629ce9.jpeg"
+  },
+  {
+    "id": "a2fe6fb7c0984a9e",
+    "title": "Bloomberg: Експорт зерна з України може впасти на 54% через російські атаки на порти",
+    "summary": "Попередня оцінка експорту знизилася до 29,6 млн тонн.",
+    "url": "https://lb.ua/economics/2026/08/08/757582_bloomberg_eksport_zerna_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T07:55:00+00:00",
+    "fetched": "2026-08-08T08:09:40+00:00",
+    "image": "https://i.lb.ua/news/108/53/6a76e0f587f91.jpg"
+  },
+  {
+    "id": "a1f3d091366c1881",
+    "title": "Зеленький: ворог запустив на Київ шість балістичних ракет, в області РФ вбила дитину",
+    "summary": "Україні необхідне посилення протиповітряної та протиракетної оборони.",
+    "url": "https://lb.ua/society/2026/08/08/757580_zelenkiy_vorog_zapustiv_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T07:46:00+00:00",
+    "fetched": "2026-08-08T08:09:40+00:00",
+    "image": "https://i.lb.ua/news/011/37/6a76db9e511ac.jpg"
+  },
+  {
+    "id": "3d21f30f41242ce4",
+    "title": "В Єврокомісії дорікнули Іспанії за перевірки італійських мандрівників",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047859/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T07:44:00+00:00",
+    "fetched": "2026-08-08T08:09:40+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/0/9/095c28f-17861236848620.png"
+  },
+  {
+    "id": "73607c8cf094f1e5",
+    "title": "Російський дрон влучив у локомотив поїзда Суми – Київ",
+    "summary": "Пасажирів евакуювали.",
+    "url": "https://lb.ua/society/2026/08/08/757578_rosiyskiy_dron_vluchiv_lokomotiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T07:33:00+00:00",
+    "fetched": "2026-08-08T08:09:40+00:00",
+    "image": "https://i.lb.ua/news/001/29/6a76d9195c68e.jpg"
+  },
+  {
     "id": "ef3450eab8aa6117",
     "title": "Україна пройшла рекордну серпневу спеку без відключень електроенергії, – Шмигаль",
     "summary": "Українська енергосистема змогла уникнути дефіциту потужності.",
@@ -58,6 +118,18 @@
     "published": "2026-08-08T07:06:00+00:00",
     "fetched": "2026-08-08T07:30:04+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/d/888556/4db32f3295ddd15c404c59df237bd628.jpeg"
+  },
+  {
+    "id": "176c3e66e0bf3d12",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 16 # Comments: 1",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T07:04:51+00:00",
+    "fetched": "2026-08-08T08:09:42+00:00",
+    "image": "https://opengraph.githubassets.com/abe1f76e6f23833af79e8f79a65ce65a18b92cd992d4d97c9d2aa4c9c63123e9/xoreaxeaxeax/rosenbridge"
   },
   {
     "id": "bd777d85aa6de7af",
@@ -48898,89 +48970,5 @@
     "published": "2026-07-25T08:11:00+00:00",
     "fetched": "2026-07-25T08:30:51+00:00",
     "image": "https://i.lb.ua/news/004/33/6a646e3c9fa0f.jpg"
-  },
-  {
-    "id": "8a42790ee8147770",
-    "title": "Від розмінування до результатів: переосмислення протимінної діяльності в Україні",
-    "summary": "Ефективне розмінування: як Україна може швидше та безпечніше відновити території, спираючись на досвід Zone Rouge.",
-    "url": "https://www.pravda.com.ua/columns/2026/07/25/8045074/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:00:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/880039/og_8045074_ukr.png?w=1200&q=85&stamp=1784910207"
-  },
-  {
-    "id": "19440df7a2740a7c",
-    "title": "Росіяни вночі вдарили по Сумах – убили 3 водіїв \"Нової пошти\"",
-    "summary": "У Сумах внаслідок російської атаки загинули троє водіїв \"Нової пошти\".",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045845/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:00:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/880290/a26a24dc34841584c9a7985683b2265b.jpeg"
-  },
-  {
-    "id": "05a099c0722b2d5d",
-    "title": "Хмара: Україна розраховує на підтримку Британії у постачанні Gripen та ракет Meteor",
-    "summary": "В.о. міністра оборони Євгеній Хмара провів першу розмову з новопризначеним британським колегою Весом Стрітінгом.",
-    "url": "https://lb.ua/world/2026/07/25/754418_hmara_ukrayina_rozrahovuie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T08:00:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://i.lb.ua/news/106/44/6a646d2567e3d.jpg"
-  },
-  {
-    "id": "e42cddcbc2ae4157",
-    "title": "Румунія збила ще один дрон, який порушив її повітряний простір",
-    "summary": "Інцидент стався за 10 кілометрів на захід від міста Сфинту-Георге.",
-    "url": "https://lb.ua/world/2026/07/25/754416_rumuniya_zbila_sche_dron_yakiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T07:55:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://i.lb.ua/news/031/42/6a646ade91eac.jpg"
-  },
-  {
-    "id": "e03b1970071b34ff",
-    "title": "MouthPad: A Tongue-Controlled Touchpad",
-    "summary": "Article URL: https://www.augmental.tech/ Comments URL: https://news.ycombinator.com/item?id=49045446 Points: 11 # Comments: 1",
-    "url": "https://www.augmental.tech/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T07:51:19+00:00",
-    "fetched": "2026-07-25T10:37:14+00:00",
-    "image": "https://www.augmental.tech/og/home.jpg"
-  },
-  {
-    "id": "e4618a4e6c132f3a",
-    "title": "Сили безпілотних систем уразили вже шість складів Wildberries у РФ та окупованому Криму",
-    "summary": "«Поки шість», – зазначив «Мадяр».",
-    "url": "https://lb.ua/society/2026/07/25/754414_sili_bezpilotnih_sistem_urazili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T07:44:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://i.lb.ua/news/090/10/6a64689ef22c0.jpg"
-  },
-  {
-    "id": "9de591595a6a81fb",
-    "title": "Єкатеринбург атакували дрони: на території складу Wildberries вирує пожежа",
-    "summary": "Атака дронами на Wildberries у Єкатеринбурзі: вирує пожежа біля складу",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045841/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T07:35:00+00:00",
-    "fetched": "2026-07-25T08:30:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/880273/0320c1f1771bac6d27a2e63aadd1da92.jpeg"
   }
 ]
