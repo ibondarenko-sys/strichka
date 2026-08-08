@@ -1,5 +1,65 @@
 [
   {
+    "id": "c4f0ca8e64d01e0b",
+    "title": "У Києві через російську атаку постраждали четверо осіб",
+    "summary": "Унаслідок нічного обстрілу Києва 8 серпня постраждали 4 людини. Триває ліквідація наслідків атаки.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047842/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T03:24:00+00:00",
+    "fetched": "2026-08-08T03:39:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/a/888533/8a301e9a77a65b5c9f54af92900fa604.jpeg"
+  },
+  {
+    "id": "e3ab2bbc74628524",
+    "title": "ВМС США перехопили 51 торгове судно після відновлення блокади Ірану",
+    "summary": "Американські ВМС з моменту відновлення блокади Ірану перехопили 51 торгове судно, повідомляє CENTCOM.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047841/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T02:55:00+00:00",
+    "fetched": "2026-08-08T03:39:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888532/a30877b9874080c994a67eae8ae2e80f.jpeg"
+  },
+  {
+    "id": "8cdd6a4f774c2ebb",
+    "title": "Прокляття бліцкригу",
+    "summary": "Восьме серпня. Для наших сучасників ця дата нерозривно пов'язана з російським вторгненням до Грузії 2008 року.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/08/8047717/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T02:30:00+00:00",
+    "fetched": "2026-08-08T03:39:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/888508/5460fd31425667f5427c4af7cfac2a21.jpeg"
+  },
+  {
+    "id": "f928405592d22776",
+    "title": "ЗМІ: Російські регіони влаштовують виставу для Путіна, знижуючи ціну на бензин",
+    "summary": "Від диктатора приховують масштаби паливної кризи.",
+    "url": "https://lb.ua/society/2026/08/08/757546_zmi_rosiyski_regioni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T02:28:00+00:00",
+    "fetched": "2026-08-08T03:39:23+00:00",
+    "image": "https://i.lb.ua/news/089/02/6a768d8a47fc2.jpg"
+  },
+  {
+    "id": "3ac31eadf05b1c41",
+    "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+    "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 59 # Comments: 8",
+    "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T01:49:11+00:00",
+    "fetched": "2026-08-08T03:39:22+00:00",
+    "image": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-2000-80.jpg"
+  },
+  {
     "id": "72b31459a03ccdbe",
     "title": "Трамп вимагає від Конгресу роботи під час депутатських канікул",
     "summary": "На жаль, причина не у бажанні президента США пришвидшити допомогу Україні.",
@@ -10,6 +70,18 @@
     "published": "2026-08-08T01:44:00+00:00",
     "fetched": "2026-08-08T01:56:15+00:00",
     "image": "https://i.lb.ua/news/075/25/6a768a034cc3d.jpg"
+  },
+  {
+    "id": "82ff09b8f03c8c71",
+    "title": "The Nixpkgs core team has disbanded",
+    "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 143 # Comments: 59",
+    "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T01:12:45+00:00",
+    "fetched": "2026-08-08T03:39:22+00:00",
+    "image": "https://discourse.nixos.org/uploads/default/original/3X/a/5/a5e0d7873e3d34aecf874c577c91a1c06490f436.svg"
   },
   {
     "id": "c56fcba2f59a71d3",
@@ -48898,77 +48970,5 @@
     "published": "2026-07-25T03:41:00+00:00",
     "fetched": "2026-07-25T03:49:20+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/8/880193/581d3c6575d15f8360431aee8efc3ccd.jpeg"
-  },
-  {
-    "id": "31931af2271a6ed4",
-    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-    "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 22 # Comments: 0",
-    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T02:54:36+00:00",
-    "fetched": "2026-07-25T03:49:23+00:00",
-    "image": null
-  },
-  {
-    "id": "e565f4d1eb88751f",
-    "title": "Ядерний Кремль",
-    "summary": "Бурхливе літо 2026 року ознаменувалося черговим витком військової ескалації.",
-    "url": "https://www.pravda.com.ua/articles/2026/07/25/8045563/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T02:30:00+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/0/880003/9034e70ab4fcb6c4e9892c837df1f011.jpeg"
-  },
-  {
-    "id": "baeb86c254dc2c46",
-    "title": "Порушення повітряного простору Румунії: Сибіга закликав до комплексних заходів проти РФ",
-    "summary": "Сибіга закликав партнерів посилити заходи щодо Росії після порушення її БПЛА повітряного простору Румунії.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045820/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T02:25:00+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/c/880192/bcd8b79874d2a1d2e65014c750a9b800.jpeg"
-  },
-  {
-    "id": "1206ed6269774f4b",
-    "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-    "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-    "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-25T02:23:09+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg"
-  },
-  {
-    "id": "f76de72188e4e7eb",
-    "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-    "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-    "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-25T02:14:50+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f8b/live/a675bbc0-87b5-11f1-88ae-859397b768ed.jpg"
-  },
-  {
-    "id": "781f764c8888692a",
-    "title": "SpaceX провела перший успішний запуск ракети після перетворення на публічну компанію",
-    "summary": "Через годину польоту Starship м'яко приводнився в Індійському океані.",
-    "url": "https://lb.ua/world/2026/07/25/754380_spacex_provela_pershiy_uspishniy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T02:02:00+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://i.lb.ua/news/112/20/6a6412e1444b8.jpg"
   }
 ]
