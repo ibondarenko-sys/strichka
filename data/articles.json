@@ -1,5 +1,77 @@
 [
   {
+    "id": "72b31459a03ccdbe",
+    "title": "Трамп вимагає від Конгресу роботи під час депутатських канікул",
+    "summary": "На жаль, причина не у бажанні президента США пришвидшити допомогу Україні.",
+    "url": "https://lb.ua/world/2026/08/08/757544_tramp_vimagaie_vid_kongresu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T01:44:00+00:00",
+    "fetched": "2026-08-08T01:56:15+00:00",
+    "image": "https://i.lb.ua/news/075/25/6a768a034cc3d.jpg"
+  },
+  {
+    "id": "c56fcba2f59a71d3",
+    "title": "Росія запустила балістику на Київ (оновлено)",
+    "summary": "Попереднього ракетного удару росіяни завдали по Києву 5 серпня.",
+    "url": "https://lb.ua/society/2026/08/08/757542_rosiya_zapustila_balistiku_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T00:36:00+00:00",
+    "fetched": "2026-08-08T01:56:15+00:00",
+    "image": "https://i.lb.ua/news/041/41/6a76738eca75b.jpg"
+  },
+  {
+    "id": "aa70d27be7deff40",
+    "title": "Армія США витратить 400 млн доларів на лазерні системи для боротьби з дронами – ЗМІ",
+    "summary": "Пентагон уклав контракт із AeroVironment на постачання лазерних систем Locust для знищення дронів.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047839/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T00:33:00+00:00",
+    "fetched": "2026-08-08T01:56:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/e/888524/5e47aa380dfa2e92ea1ea188c72361d5.jpeg"
+  },
+  {
+    "id": "682035b82e136269",
+    "title": "Should AI labs be treated like the owners of dangerous animals?",
+    "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 30 # Comments: 38",
+    "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T00:03:31+00:00",
+    "fetched": "2026-08-08T01:56:17+00:00",
+    "image": null
+  },
+  {
+    "id": "3a544945a5308af3",
+    "title": "Росіяни атакували Київщину: загинули троє людей, серед них дитина",
+    "summary": "Росіяни атакували Броварський район Київщини: 3 загиблих, у тому числі дитина, ще 3 поранено.",
+    "url": "https://www.pravda.com.ua/news/2026/08/08/8047838/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T23:46:00+00:00",
+    "fetched": "2026-08-08T01:56:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/b/888523/cb89c01a711d75795a14b1048cbeddae.jpeg"
+  },
+  {
+    "id": "bd2d2d1f1d34fa64",
+    "title": "На Київщині через російську атаку - троє загиблих, включно з дитиною",
+    "summary": "Броварський район був під обстрілом ударними безпілотниками.",
+    "url": "https://lb.ua/society/2026/08/08/757540_kiyivschini_cherez_rosiysku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-07T23:38:00+00:00",
+    "fetched": "2026-08-08T01:56:15+00:00",
+    "image": "https://i.lb.ua/news/083/40/6a766c47d1a05.jpg"
+  },
+  {
     "id": "546276825f3e45d1",
     "title": "Гілларі Клінтон порівняла Трампа із Саддамом Хуссейном через декор у Білому домі",
     "summary": "Колишня кандидатка у президенти нагадала, що резиденція належить американцям, а не політику.",
@@ -34,6 +106,18 @@
     "published": "2026-08-07T22:30:00+00:00",
     "fetched": "2026-08-07T22:41:03+00:00",
     "image": "https://i.lb.ua/news/100/27/6a765d76c9277.jpg"
+  },
+  {
+    "id": "294109fce8a0054a",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 81 # Comments: 38",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-07T22:24:27+00:00",
+    "fetched": "2026-08-08T01:56:17+00:00",
+    "image": null
   },
   {
     "id": "4ee14d5d7908da59",
@@ -48886,77 +48970,5 @@
     "published": "2026-07-25T02:02:00+00:00",
     "fetched": "2026-07-25T03:49:20+00:00",
     "image": "https://i.lb.ua/news/112/20/6a6412e1444b8.jpg"
-  },
-  {
-    "id": "84e2664bd5f9b3f7",
-    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "summary": "Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize Comments URL: https://news.ycombinator.com/item?id=49043724 Points: 41 # Comments: 11",
-    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-25T01:44:12+00:00",
-    "fetched": "2026-07-25T06:21:44+00:00",
-    "image": null
-  },
-  {
-    "id": "4b9e4210a555835a",
-    "title": "Удар по Сумщині 24 липня: кількість загиблих зросла до двох",
-    "summary": "Після удару російського дрона по Сумській області 24 липня загинуло двоє цивільних чоловіків.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045818/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T00:42:00+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/880190/18e8b2ea0d627780982f350255935aef.jpeg"
-  },
-  {
-    "id": "1c81e76cd9f742ea",
-    "title": "Чинний президент Бразилії лідирує в опитуваннях перед виборами",
-    "summary": "Зіпсовані відносини зі США не заважають Лулі да Сілві бути фаворитом перегонів.",
-    "url": "https://lb.ua/world/2026/07/25/754378_chinniy_prezident_braziliyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T00:38:00+00:00",
-    "fetched": "2026-07-25T03:49:20+00:00",
-    "image": "https://i.lb.ua/news/081/14/6a6408578f653.jpg"
-  },
-  {
-    "id": "dcfcad16669edfb7",
-    "title": "У Києві та областях оголошували тривогу через загрозу балістики",
-    "summary": "25 липня вночі оголошували повітряну тривогу у Києві та регіонах через загрозу балістичного удару.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045816/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T23:59:00+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/880188/86506978f3c0926dbd4b144ce28475ea.jpeg"
-  },
-  {
-    "id": "ecd2315ce22357a7",
-    "title": "Бєлгород потрапив під масовану атаку безпілотників: горять логістичні склади",
-    "summary": "У Бєлгороді вночі атака безпілотників: горять склади, підстанція та ТЕЦ, працюють рятувальники.",
-    "url": "https://www.pravda.com.ua/news/2026/07/25/8045817/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T23:56:00+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/880189/60667562275df2f47019e7f5e5a2bb42.jpeg"
-  },
-  {
-    "id": "45c1f7cd6da14281",
-    "title": "Карім Хан був остаточно звільнений з посади прокурора Міжнародного кримінального суду",
-    "summary": "Людина, що домоглася ордеру на арешт Путіна, більше не працює в органі правосуддя.",
-    "url": "https://lb.ua/world/2026/07/25/754374_karim_han_buv_ostatochno.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-24T23:40:00+00:00",
-    "fetched": "2026-07-25T00:08:33+00:00",
-    "image": "https://i.lb.ua/news/065/38/6a63f9e4b882c.jpg"
   }
 ]
