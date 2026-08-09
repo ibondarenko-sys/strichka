@@ -1,5 +1,125 @@
 [
   {
+    "id": "145b314299c27c35",
+    "title": "Армія РФ атакувала Одещину ракетами та дронами: постраждали восьмеро людей",
+    "summary": "Найбільше руйнувань в Одесі.",
+    "url": "https://lb.ua/society/2026/08/09/757728_armiya_rf_atakuvala_odeschinu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T05:07:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://i.lb.ua/news/083/24/6a780b03098f1.jpg"
+  },
+  {
+    "id": "ecb81e3965a165a1",
+    "title": "Росіяни за добу поранили на Херсонщині 10 людей, серед них двоє дітей",
+    "summary": "Пошкоджена критична, соціальна інфраструктура та житлові будинки.",
+    "url": "https://lb.ua/society/2026/08/09/757726_rosiyani_dobu_poranili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T04:59:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://i.lb.ua/news/020/52/6a780947b43cd.jpg"
+  },
+  {
+    "id": "a5ccfdffa51203c2",
+    "title": "У Харкові внаслідок російських ударів пошкоджені багатоповерхівки: є загиблі та поранені",
+    "summary": "Обстріл росіянами Салтівського району Харкова: загинули 2 людей, 12 постраждали, зруйновані багатоповерхівки.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047945/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T04:53:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/888999/155ceddb07a475864bf9806339788309.jpeg"
+  },
+  {
+    "id": "00afb9652bb9a625",
+    "title": "Ворожий дрон поцілив у багатоповерхівку у Харкові, є жертви",
+    "summary": "Окупанти атакували Салтівський район Харкова.",
+    "url": "https://lb.ua/society/2026/08/09/757724_vorozhiy_dron_potsiliv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T04:53:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://i.lb.ua/news/038/23/6a7807dc4b372.jpg"
+  },
+  {
+    "id": "c29699d43cdd1b91",
+    "title": "Сили оборони ліквідували ще близько 1 130 російських військових",
+    "summary": "Загальні бойові втрати російських військ з початку повномасштабного вторгнення орієнтовно становлять близько 1 457 740 осіб.",
+    "url": "https://lb.ua/society/2026/08/09/757722_sili_oboroni_likviduvali_sche.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T04:45:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://i.lb.ua/news/044/00/6a7805e6825d9.jpg"
+  },
+  {
+    "id": "9c51281315e45340",
+    "title": "Perez Hilton faces long recovery after self-harm livestream",
+    "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+    "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T04:32:06+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg"
+  },
+  {
+    "id": "4c17583b64b536f0",
+    "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+    "summary": "Article URL: https://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 10 # Comments: 2",
+    "url": "https://longbets.org/601/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T04:30:26+00:00",
+    "fetched": "2026-08-09T05:13:45+00:00",
+    "image": null
+  },
+  {
+    "id": "d6a39eebedb93f2a",
+    "title": "Є лише 6 хвилин на знищення пускових установок: Як протидіяти російській балістиці",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047763/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T04:21:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/1/888117/11d840c36b003913b7f9eba92f0d5cd6.jpeg?w=1200&q=85&stamp=1786103405"
+  },
+  {
+    "id": "ec4474e914637e26",
+    "title": "Сили оборони України знешкодили ще 1130 російських окупантів – Генштаб",
+    "summary": "Сили оборони України за добу знищили 1 130 росіян. Загальні втрати ворога: 1 457 740 осіб, дані Генштабу ЗСУ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047943/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T04:11:00+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/a/888997/ba3dcb50ce2462b6e332c5060a6a96e0.jpeg"
+  },
+  {
+    "id": "7060f47147368729",
+    "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+    "summary": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 13 # Comments: 1",
+    "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T04:03:59+00:00",
+    "fetched": "2026-08-09T05:13:45+00:00",
+    "image": "https://itsfoss.com/content/images/2026/08/illinois-age-verification-banner.png"
+  },
+  {
     "id": "0ed1895424b8a0b4",
     "title": "РФ вдарила ракетами по Одесі: пошкоджені будинки, інфраструктура, шестеро постраждалих",
     "summary": "Росія завдала ракетного удару по Одесі вночі 9 серпня: 6 людей постраждали, пошкоджено будинки та автівки.",
@@ -22,6 +142,18 @@
     "published": "2026-08-09T03:37:00+00:00",
     "fetched": "2026-08-09T03:59:24+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/888984/86cb2a7f60f8d4dabdc8adbb306ee51a.jpeg"
+  },
+  {
+    "id": "bb938de13eaf0eec",
+    "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+    "summary": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 57 # Comments: 4",
+    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T03:26:00+00:00",
+    "fetched": "2026-08-09T05:13:45+00:00",
+    "image": "https://daringfireball.net/graphics/df-wide-card.png"
   },
   {
     "id": "a4026213a3535c70",
@@ -72,6 +204,18 @@
     "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png"
   },
   {
+    "id": "66bc5cf11e494b9a",
+    "title": "Incentives Are for Losers",
+    "summary": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers Comments URL: https://news.ycombinator.com/item?id=49227652 Points: 22 # Comments: 3",
+    "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T01:49:48+00:00",
+    "fetched": "2026-08-09T05:13:45+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!5i4W!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp"
+  },
+  {
     "id": "1da32b34006da17f",
     "title": "The AI Apocalypse Is Here",
     "summary": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 6 # Comments: 0",
@@ -96,6 +240,18 @@
     "image": "https://theoremdb.org/og.png?v=20260801-theoremdb-site"
   },
   {
+    "id": "ef46700b353fd67f",
+    "title": "Melatonin impairs morning cognition in healthy young adults",
+    "summary": "Article URL: https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621 Comments URL: https://news.ycombinator.com/item?id=49227365 Points: 22 # Comments: 3",
+    "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T00:59:58+00:00",
+    "fetched": "2026-08-09T05:13:45+00:00",
+    "image": null
+  },
+  {
     "id": "cad7d7c0c42f3934",
     "title": "Біля берегів Туреччини перехопили підводний безпілотник – ЗМІ",
     "summary": "Підводний безпілотник знайшли біля Артвіна в Туреччині, екстрені служби на місці, подробиці з'ясовують.",
@@ -108,6 +264,30 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/888972/86696dfa9d6db41fc5894c6f0c4caade.jpeg"
   },
   {
+    "id": "7358ec4fb804974c",
+    "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+    "summary": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
+    "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T00:15:28+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/4c1667b0-911a-11f1-9d85-c54b3ca88a18.jpg"
+  },
+  {
+    "id": "8e1ac2fcf6951de0",
+    "title": "Hundreds arrested over French wildfires, but who is to blame?",
+    "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+    "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-08T23:59:23+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
     "id": "b488ab327095fe59",
     "title": "Російський Бєлгород опинився під атакою дронів: лунали вибухи, спалахнули пожежі",
     "summary": "У Бєлгороді внаслідок атаки безпілотників пошкоджено житлові будинки та університет, лунають вибухи.",
@@ -118,6 +298,18 @@
     "published": "2026-08-08T23:52:00+00:00",
     "fetched": "2026-08-09T02:04:05+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/888970/04747a9b3a1b8e93cfc31a5c42fba436.jpeg"
+  },
+  {
+    "id": "7503591c004d82a9",
+    "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+    "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+    "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-08T23:43:44+00:00",
+    "fetched": "2026-08-09T05:13:37+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg"
   },
   {
     "id": "69ec2f4842efacbf",
@@ -48634,125 +48826,5 @@
     "published": "2026-07-26T05:16:00+00:00",
     "fetched": "2026-07-26T06:21:47+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/880675/76684b3dc74871fc2497effa9f44c9d8.jpeg"
-  },
-  {
-    "id": "761a1dc5ecd8237a",
-    "title": "На фронті відбулося 258 боїв, Покровський напрямок – найважчий",
-    "summary": "50 боєзіткнень зафіксовано на Слов'янському та Костянтинівському напрямках.",
-    "url": "https://lb.ua/society/2026/07/26/754570_fronti_vidbulosya_258_boyiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T05:09:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://i.lb.ua/news/029/33/6a659680e1cfa.jpg"
-  },
-  {
-    "id": "46b52f34105da78a",
-    "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
-    "summary": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism prison by the Trump administration are suing the US aviation companies that transported them there. A…",
-    "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-26T05:00:03+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://i.guim.co.uk/img/media/3e9e1459fc9e2f91af28faefff090d2f3466847f/493_0_4906_3927/master/4906.jpg?width=140&quality=85&auto=format&fit=max&s=aa3ec0fb863f4cb4b3781e3b07f18697"
-  },
-  {
-    "id": "f1baf969834980d7",
-    "title": "На Запоріжжі через обстріли РФ постраждали 12 людей, є загибла",
-    "summary": "Є пошкодження об’єктів інфраструктури, житла, автівок, господарських будівель.",
-    "url": "https://lb.ua/society/2026/07/26/754568_zaporizhzhi_cherez_obstrili_rf.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:57:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://i.lb.ua/news/030/21/6a659308d432f.jpg"
-  },
-  {
-    "id": "f2ae4d936012972a",
-    "title": "Росіяни вранці атакували Кривий Ріг: є приліт по торговельному центру",
-    "summary": "26 липня у Кривому Розі через атаку РФ загорівся торговельний центр. Інформація про постраждалих уточнюється.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045932/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:56:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/a/880673/6a53d52a4c3707a633cbc3499429972c.jpeg"
-  },
-  {
-    "id": "c7c4c13c8d0b2f52",
-    "title": "Російський удар по Києву: в трьох районах столиці виникли пожежі",
-    "summary": "У Деснянському, Шевченківському і Солом'янському районах Києва сталися пожежі через атаку РФ. Жертв немає.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045931/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:55:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/9/880674/e902802351a61979d2d44c0df03be596.jpeg"
-  },
-  {
-    "id": "469af11ec0ce41d7",
-    "title": "Армія РФ завдала 1029 ударів по Запорізькій області за добу: загинула людина, 12 поранених",
-    "summary": "Окупанти обстріляли 50 населених пунктів Запорізької області: 1 загиблий, 12 поранених.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045930/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:46:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/c/880670/bcd047e7d6a91f3df71a8add5fee7876.jpeg"
-  },
-  {
-    "id": "146317a77904ad00",
-    "title": "Росіяни завдали удару по Криому Рогу: горить ТРЦ",
-    "summary": "Інформація про постраждалих уточнюється.",
-    "url": "https://lb.ua/society/2026/07/26/754566_rosiyani_zavdali_udaru_kriomu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:46:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://i.lb.ua/news/040/50/6a6591166cc67.jpg"
-  },
-  {
-    "id": "5ea29b70f2e02bb7",
-    "title": "За минулу добу Сили оборони ліквідували ще 1440 російських окупантів",
-    "summary": "З початку повномасштабного вторгнення РФ втратила в Україні близько 1 438 990 солдатів.",
-    "url": "https://lb.ua/society/2026/07/26/754564_minulu_dobu_sili_oboroni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:39:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://i.lb.ua/news/031/35/6a658f902f0b7.jpg"
-  },
-  {
-    "id": "29297b1f74caaf16",
-    "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-    "summary": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 10 # Comments: 1",
-    "url": "https://github.com/mulfyx/w4me-station",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T04:19:59+00:00",
-    "fetched": "2026-07-26T06:21:48+00:00",
-    "image": "https://opengraph.githubassets.com/15fc7501a4cd66ae5490234170e5147f405eef22b4f29be2435bec34303e2004/mulfyx/w4me-station"
-  },
-  {
-    "id": "f252fb618bd9ca50",
-    "title": "У Харкові постраждала людина через російський удар дроном",
-    "summary": "У Харкові ударний дрон влучив у авто, поранено одну людину. Медики надають допомогу.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045929/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T04:13:00+00:00",
-    "fetched": "2026-07-26T06:21:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/d/880668/cd69ba1e336631f255dff004261e75db.jpeg"
   }
 ]
