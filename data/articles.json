@@ -1,5 +1,89 @@
 [
   {
+    "id": "1032d605d584a4d4",
+    "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+    "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+    "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T15:34:04+00:00",
+    "fetched": "2026-08-09T15:36:16+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg"
+  },
+  {
+    "id": "dbf9548a1556ce64",
+    "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+    "summary": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
+    "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T15:25:50+00:00",
+    "fetched": "2026-08-09T15:36:16+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg"
+  },
+  {
+    "id": "7bdf5f2f7015b554",
+    "title": "Сирія і РФ перетворять спільні військові бази на навчальні центри",
+    "summary": "Сирія перебере під свій контроль авіабазу Хмеймім та комерційний причал у порту Тартус.",
+    "url": "https://lb.ua/world/2026/08/09/757848_siriya_rf_peretvoryat_spilni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T15:25:00+00:00",
+    "fetched": "2026-08-09T15:36:17+00:00",
+    "image": "https://i.lb.ua/news/090/46/6a789be686ab7.jpg"
+  },
+  {
+    "id": "6137c9d82a455fcb",
+    "title": "Через посуху в Німеччині з-під води показалися \"камені голоду\"",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047994/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T15:20:00+00:00",
+    "fetched": "2026-08-09T15:36:17+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/1/41443a9---------------2.jpg"
+  },
+  {
+    "id": "cf80e5cd24888bb8",
+    "title": "Вже сформовано бачення фінансування Сил оборони на 2027 рік, – Корецький",
+    "summary": "Уряд працюватиме над пошуком додаткового ресурсу для сектору безпеки й оборони, зокрема із залученням допомоги наших міжнародних партнерів.",
+    "url": "https://lb.ua/society/2026/08/09/757846_vzhe_sformovano_bachennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T15:16:00+00:00",
+    "fetched": "2026-08-09T15:36:17+00:00",
+    "image": "https://i.lb.ua/news/102/32/6a78997783132.jpg"
+  },
+  {
+    "id": "4faa6b9e315b3c27",
+    "title": "На більшості території України тиждень почнеться з теплої сухої погоди",
+    "summary": "10 серпня в Україні переважно без опадів, до +33°, лише на південному сході короткочасний дощ і гроза.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047993/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T15:01:00+00:00",
+    "fetched": "2026-08-09T15:36:17+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/7/889150/d7b674d4f758fdb553cce00633eba2aa.jpeg"
+  },
+  {
+    "id": "37e4af8c5cf26b5b",
+    "title": "На Одещині у ДТП загинули три людини",
+    "summary": "Ще семеро людей постраждали.",
+    "url": "https://lb.ua/society/2026/08/09/757842_odeschini_dtp_zaginuli_tri.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T14:56:00+00:00",
+    "fetched": "2026-08-09T15:36:17+00:00",
+    "image": "https://i.lb.ua/news/002/45/6a78949c9767f.jpg"
+  },
+  {
     "id": "d4da6a2388678790",
     "title": "Ворог знову вдарив по Харкову, поцілив по об’єкту інфраструктури",
     "summary": "Армія окупантів вдарила по Салтівському та Немишлянському району.",
@@ -10,6 +94,18 @@
     "published": "2026-08-09T14:35:00+00:00",
     "fetched": "2026-08-09T14:39:08+00:00",
     "image": "https://i.lb.ua/news/101/36/6a788e8ccda12.jpg"
+  },
+  {
+    "id": "4851e70c338eb3a2",
+    "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
+    "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy. Against a backdrop of…",
+    "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T14:30:58+00:00",
+    "fetched": "2026-08-09T15:36:16+00:00",
+    "image": "https://i.guim.co.uk/img/media/e5fe24d1799da0408c9ca663658b3d23e982aae5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=86c6d405ea029535366ef8d23fcac925"
   },
   {
     "id": "a660732b7abdb16e",
@@ -58,6 +154,18 @@
     "published": "2026-08-09T13:56:00+00:00",
     "fetched": "2026-08-09T14:39:08+00:00",
     "image": "https://i.lb.ua/news/059/19/6a78867238da3.jpg"
+  },
+  {
+    "id": "98ed9ccfb2120e33",
+    "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 18 # Comments: 3",
+    "url": "https://kibotronics.net/unlisted/lilly-machines/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T13:47:36+00:00",
+    "fetched": "2026-08-09T15:36:17+00:00",
+    "image": "https://kibotronics.net/og-image.png"
   },
   {
     "id": "a9e4150e0ea5cc7a",
@@ -48802,149 +48910,5 @@
     "published": "2026-07-26T15:43:00+00:00",
     "fetched": "2026-07-26T17:06:55+00:00",
     "image": "https://i.lb.ua/news/020/30/6a662bca68803.jpg"
-  },
-  {
-    "id": "a0b7b532844f77d8",
-    "title": "АТБ в Чернігові атакував реактивний БпЛА з відеокамерою – поліція",
-    "summary": "За висновками поліції, російський реактивний безпілотник \"Герань-4\", яким атакували АТБ у Чернігові вдень 26 липня, був обладнаний відеокамерою.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045997/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T15:36:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/881086/31918f14a1af628663d954ef849da835.jpeg"
-  },
-  {
-    "id": "5ebda358141cb736",
-    "title": "Carrie is just trying to make a friend in the new trailer",
-    "summary": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the…",
-    "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T15:33:27+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/CARR_S1_Static16x9_Crown_3840x2160_PRE_PV_FINAL_en-US_3000.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "94d030042966287c",
-    "title": "An Inside Look at the Token Reseller Market",
-    "summary": "Article URL: https://vectoral.com/blog/token-relay-market Comments URL: https://news.ycombinator.com/item?id=49058993 Points: 41 # Comments: 13",
-    "url": "https://vectoral.com/blog/token-relay-market",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T15:17:06+00:00",
-    "fetched": "2026-07-26T17:07:00+00:00",
-    "image": null
-  },
-  {
-    "id": "43aaffe7c82f2650",
-    "title": "Рєуцький: Генштаб і президент мають відповісти на питання про передумови злочинів у \"Скелі\"",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045995/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T15:14:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/881079/og_8045993_ukr.png?w=1200&q=85&stamp=1785079049"
-  },
-  {
-    "id": "079eb83d1ac7344d",
-    "title": "Зеленський після наради: Ми оновили перелік цілей на території Росії",
-    "summary": "Україна оновила пріоритети ударів по РФ для посилення тиску й дипломатії, — Зеленський.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045994/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T15:10:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/881061/8d778d8dbb46cf46fac0cfd708cc4410.jpeg"
-  },
-  {
-    "id": "fa3ca367d3a5da3b",
-    "title": "Зеленський про дипстрайки: ми погодили продовження операцій та оновили перелік пріоритетних цілей",
-    "summary": "Також триває нарощення спроможностей діяти на більші дистанції.",
-    "url": "https://lb.ua/society/2026/07/26/754676_zelenskiy_pro_dipstrayki_mi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T15:09:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://i.lb.ua/news/105/24/6a6623318767c.jpg"
-  },
-  {
-    "id": "1a29ba7bf10d7692",
-    "title": "Корабель єдності та небезпечні \"скелі\"",
-    "summary": "Якщо б \"проблему \"Скелі\" досліджував Філіп Зімбардо, він, швидше за все, наголосив би: все, що там відбулося, не вірно зводити до проблеми \"ложки дьогтю\" – декількох поганих солдатів та офіцерів – у діжці меду українських сил оборони.",
-    "url": "https://www.pravda.com.ua/columns/2026/07/26/8045993/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T15:06:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/881079/og_8045993_ukr.png?w=1200&q=85&stamp=1785079049"
-  },
-  {
-    "id": "605814828b4d1bcb",
-    "title": "Пляжі Нормандії, де у 1944 році висадилися союзники, внесли до Всесвітньої спадщини ЮНЕСКО",
-    "summary": "Рішення прийняли на 48-й сесії Комітету всесвітньої спадщини в Пусані (Південна Корея).",
-    "url": "https://lb.ua/world/2026/07/26/754674_plyazhi_normandiyi_de_1944_rotsi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T15:00:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://i.lb.ua/news/112/20/6a6620bd18350.jpg"
-  },
-  {
-    "id": "ba7c08d249ed0bac",
-    "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-    "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba…",
-    "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T15:00:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "eaf95aad4157974a",
-    "title": "ЗМІ: ізраїльський удар вбив у Газі високопоставленого співробітника служби безпеки ХАМАСу",
-    "summary": "Удару було завдано по автомобілю, який рухався через місто Дейр-ель-Балах у центральній частині смуги Гази.",
-    "url": "https://lb.ua/world/2026/07/26/754672_zmi_izrayilskiy_udar_vbiv_gazi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T14:58:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://i.lb.ua/news/069/21/6a662092a09ad.jpg"
-  },
-  {
-    "id": "888b68999f7a6ca8",
-    "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-    "summary": "While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining the MCU as Ghost Rider, with the Shawn Levy-directed (Deadpool & Wolverine)…",
-    "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T14:51:33+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HOH7bVYboAAjHWn.jpeg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "aa2a1da850d7f93c",
-    "title": "Park by Robot at London Gatwick Airport",
-    "summary": "Article URL: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/ Comments URL: https://news.ycombinator.com/item?id=49058669 Points: 22 # Comments: 4",
-    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T14:40:27+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://aerospaceglobalnews.com/wp-content/uploads/2026/07/6a61de120354b41c5c00cf08.jpeg"
   }
 ]
