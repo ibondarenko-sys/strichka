@@ -1,5 +1,65 @@
 [
   {
+    "id": "1da32b34006da17f",
+    "title": "The AI Apocalypse Is Here",
+    "summary": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 6 # Comments: 0",
+    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T01:28:36+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://storage.ghost.io/c/65/af/65afbdb5-30bf-4286-acc4-9535069adb42/content/images/size/w1200/2026/07/IMG_3716--2-.jpg"
+  },
+  {
+    "id": "cad7d7c0c42f3934",
+    "title": "Біля берегів Туреччини перехопили підводний безпілотник – ЗМІ",
+    "summary": "Підводний безпілотник знайшли біля Артвіна в Туреччині, екстрені служби на місці, подробиці з'ясовують.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047936/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T00:57:00+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/888972/86696dfa9d6db41fc5894c6f0c4caade.jpeg"
+  },
+  {
+    "id": "b488ab327095fe59",
+    "title": "Російський Бєлгород опинився під атакою дронів: лунали вибухи, спалахнули пожежі",
+    "summary": "У Бєлгороді внаслідок атаки безпілотників пошкоджено житлові будинки та університет, лунають вибухи.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047934/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-08T23:52:00+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/888970/04747a9b3a1b8e93cfc31a5c42fba436.jpeg"
+  },
+  {
+    "id": "69ec2f4842efacbf",
+    "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+    "summary": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 29 # Comments: 8",
+    "url": "https://os8088.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T23:37:27+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://os8088.com/img/og.png"
+  },
+  {
+    "id": "8871612795f65ba2",
+    "title": "Dithered QR Codes",
+    "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 20 # Comments: 3",
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T23:05:24+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://www.andrewt.net/dithered-qr-codes/card.png"
+  },
+  {
     "id": "4084d487325fc21d",
     "title": "My server is a phone now",
     "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 3 # Comments: 0",
@@ -34,6 +94,30 @@
     "published": "2026-08-08T22:38:00+00:00",
     "fetched": "2026-08-08T23:32:58+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/888968/b6c404798f857cd4d661d408faffc5d5.jpeg"
+  },
+  {
+    "id": "ecc17e56f3718d78",
+    "title": "Should you stop cracking your knuckles?",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles Comments URL: https://news.ycombinator.com/item?id=49226563 Points: 9 # Comments: 2",
+    "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T22:36:25+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0p37czn.jpg"
+  },
+  {
+    "id": "7ef61f2efe25ab7b",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+    "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 41 # Comments: 7",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-08T22:32:50+00:00",
+    "fetched": "2026-08-09T02:04:05+00:00",
+    "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/d5a289aad251536cebddff8378b429f0.png"
   },
   {
     "id": "0fdb9dcab94a91b6",
@@ -48682,113 +48766,5 @@
     "published": "2026-07-26T02:18:31+00:00",
     "fetched": "2026-07-26T03:27:16+00:00",
     "image": "https://synaptale.com/synaptale-mark.png"
-  },
-  {
-    "id": "26526a78ba8ea338",
-    "title": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
-    "summary": "Article URL: https://www.zwplayer.com/ Comments URL: https://news.ycombinator.com/item?id=49053805 Points: 3 # Comments: 0",
-    "url": "https://www.zwplayer.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T01:49:37+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://www.zwplayer.com/static/images/og-image.jpg"
-  },
-  {
-    "id": "2eef1de66075be51",
-    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-    "summary": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ Comments URL: https://news.ycombinator.com/item?id=49053708 Points: 28 # Comments: 8",
-    "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T01:35:03+00:00",
-    "fetched": "2026-07-26T06:21:48+00:00",
-    "image": "https://www.seti.org/media/hk4lcjsh/figure-4.jpg"
-  },
-  {
-    "id": "7c9d1e2da7133f90",
-    "title": "У Берліні автомобіль в'їхав у натовп на прайді: загинула людина, 16 поранених",
-    "summary": "Ввечері 26 липня мікроавтобус в'їхав у натовп поблизу місця проведення щорічного ЛГБТ-прайду Christopher Street Day у центрі Берліна.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045926/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T01:23:00+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/d/880665/1df124fbcbca8ce8c0d0349e507098e4.jpeg"
-  },
-  {
-    "id": "1daca6b08ce85b63",
-    "title": "Git rebase -I is not that scary",
-    "summary": "Article URL: https://cachebag.sh/journal/interactive-rebasing/ Comments URL: https://news.ycombinator.com/item?id=49053385 Points: 27 # Comments: 21",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T00:37:54+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": null
-  },
-  {
-    "id": "f9c00c3e08d268f7",
-    "title": "Systems and Delays",
-    "summary": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 28 # Comments: 6",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T00:37:30+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": null
-  },
-  {
-    "id": "16b138d9f3a3eb20",
-    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "summary": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 30 # Comments: 2",
-    "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T00:36:30+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://huggingface.co/owensong/Inflect-Micro-v2/assets/inflect-v2-repository-hero.png"
-  },
-  {
-    "id": "118d73a45bbcd773",
-    "title": "У Києві та областях вдруге за ніч оголошували повітряну тривогу через загрозу балістики",
-    "summary": "У ніч на 26 липня у Києві та регіонах України двічі лунала повітряна тривога через загрозу балістичних ракет із півночі.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045924/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T00:30:00+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/6/880663/a659094f5bc827587fa3d2d51aa32354.jpeg"
-  },
-  {
-    "id": "02f6dfe5c8953e2a",
-    "title": "The notorious Cameroonian prison with its own record label",
-    "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
-    "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-26T00:24:30+00:00",
-    "fetched": "2026-07-26T03:27:15+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/8eb036e0-8117-11f1-926f-c90d1bcfbc84.jpg"
-  },
-  {
-    "id": "b7d4d6e06ce1352d",
-    "title": "У окупованому Мелітополі, Донецьку та Криму лунають вибухи та стрілянина – пабліки",
-    "summary": "У декількох окупованих містах пролунали вибухи та стрілянина, зафіксовано дрони над Феодосією.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045923/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-25T23:41:00+00:00",
-    "fetched": "2026-07-26T03:27:16+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/880662/089ea09dfff89f8efc4099094fcc611d.jpeg"
   }
 ]
