@@ -1,5 +1,29 @@
 [
   {
+    "id": "80c7423967f9bcf6",
+    "title": "Виробники Patriot побоюються, що Україна вдосконалить і здешевить їхні ракети – ЗМІ",
+    "summary": "Американські оборонні компанії Raytheon і Lockheed Martin побоюються, що Україна в разі отримання ліцензії зможе удосконалити зенітні ракети Patriot і виробляти їх швидше та значно дешевше за США.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048014/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T22:50:00+00:00",
+    "fetched": "2026-08-09T23:35:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/0/889273/3056a344355894e89572731a96184bfa.jpeg"
+  },
+  {
+    "id": "c98a03a7f66c1e92",
+    "title": "To Recruit Teachers, School Districts Are Building Homes",
+    "summary": "Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html Comments URL: https://news.ycombinator.com/item?id=49236541 Points: 12 # Comments: 2",
+    "url": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T22:00:36+00:00",
+    "fetched": "2026-08-09T23:35:41+00:00",
+    "image": null
+  },
+  {
     "id": "6f33d7e9ee1f2153",
     "title": "Нічна атака на Одещину: вже 14 постраждалих, одна людина у важкому стані",
     "summary": "Внаслідок нічної ракетно-дронової атаки по Одещині постраждали 13 людей, шість - у лікарні, один у важкому стані.",
@@ -10,6 +34,18 @@
     "published": "2026-08-09T21:43:00+00:00",
     "fetched": "2026-08-09T22:35:29+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/889218/56e9b19e39e3bf2f66180f2cff816982.jpeg"
+  },
+  {
+    "id": "8aa5140fdd343fe9",
+    "title": "Georgia police officers fired after Flock camera misuse",
+    "summary": "Article URL: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/ Comments URL: https://news.ycombinator.com/item?id=49236033 Points: 38 # Comments: 5",
+    "url": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T21:20:24+00:00",
+    "fetched": "2026-08-09T23:35:41+00:00",
+    "image": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/7V2532G6BNDC7J2M45F7MC7IFQ.png?auth=e0c883d2faecb5c7a8c375d9a6b1cd1251d656af06e55ccfb5a571ed2e80ef7d&width=1200&height=600&smart=true"
   },
   {
     "id": "1fbf5a67defd94a8",
@@ -49054,65 +49090,5 @@
     "published": "2026-07-26T23:45:09+00:00",
     "fetched": "2026-07-27T04:23:01+00:00",
     "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=b5d089ea"
-  },
-  {
-    "id": "2ef54e42d4c548fd",
-    "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
-    "summary": "Hi HN, we built world-model-optimizer, an open-source tool for continually improve models specialized to agents. Today we are launching `wmo serve`, a tool to route repetitive tasks to distilled smaller models. Agent traces you already capture are opportunities to get signal on…",
-    "url": "https://github.com/experientiallabs/world-model-optimizer",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T23:35:15+00:00",
-    "fetched": "2026-07-27T00:04:10+00:00",
-    "image": "https://opengraph.githubassets.com/e3bcb25a3953248fac82ea57abba93c76fd8bd2bc40ff71d3cafa64d3737611e/experientiallabs/world-model-optimizer"
-  },
-  {
-    "id": "c2d7a902019a4e5a",
-    "title": "Japan legend Miura, 59, scores first goal since 2022",
-    "summary": "Article URL: https://www.bbc.com/sport/football/articles/c3r087181ndo Comments URL: https://news.ycombinator.com/item?id=49063266 Points: 26 # Comments: 4",
-    "url": "https://www.bbc.com/sport/football/articles/c3r087181ndo",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T23:03:35+00:00",
-    "fetched": "2026-07-27T00:04:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e19d/live/3a982b90-8931-11f1-b684-d3f861a1f4cf.jpg"
-  },
-  {
-    "id": "0f06af29cc530cb0",
-    "title": "У Німеччині поліція застрелила підозрюваного у смертельному наїзді на учасників прайду",
-    "summary": "Поліцейські Німеччини застрелили підозрюваного у смертельному наїзді на учасників прайду.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046018/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T22:56:00+00:00",
-    "fetched": "2026-07-27T00:04:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/881220/c8f267b0c080d4e9dfdbbe9ad75a4da8.jpeg"
-  },
-  {
-    "id": "61d407843efb3c2e",
-    "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-    "summary": "Article URL: https://github.com/hkc5/cursor-bridge Comments URL: https://news.ycombinator.com/item?id=49063186 Points: 11 # Comments: 9",
-    "url": "https://github.com/hkc5/cursor-bridge",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T22:48:09+00:00",
-    "fetched": "2026-07-27T00:04:10+00:00",
-    "image": "https://opengraph.githubassets.com/2d309fc739b01c222e0e5d2eb21a755bf7aba0e3cc380c8b78d4a191353c074f/hkc5/cursor-bridge"
-  },
-  {
-    "id": "2df68072a7c10f38",
-    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-    "summary": "Article URL: https://github.com/vercel-labs/scriptc Comments URL: https://news.ycombinator.com/item?id=49063175 Points: 60 # Comments: 25",
-    "url": "https://github.com/vercel-labs/scriptc",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T22:46:10+00:00",
-    "fetched": "2026-07-27T04:23:01+00:00",
-    "image": "https://opengraph.githubassets.com/ae7d5a7ff2ebfea5b61fcf8b4d4619e87543e784fa4984bd205d547d586ef48b/vercel-labs/scriptc"
   }
 ]
