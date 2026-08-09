@@ -1,5 +1,101 @@
 [
   {
+    "id": "a7c4d93e02ba7f7e",
+    "title": "How I use LLMs to learn complex topics",
+    "summary": "Article URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ Comments URL: https://news.ycombinator.com/item?id=49234675 Points: 13 # Comments: 8",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T19:16:49+00:00",
+    "fetched": "2026-08-09T19:37:03+00:00",
+    "image": null
+  },
+  {
+    "id": "b0b2e1c9fd7636c9",
+    "title": "Ворог у неділю найбільше атакував на Лиманському напрямку – Генштаб",
+    "summary": "За день на фронті ЗСУ відбили 213 атак ворога, зокрема 27– на Лиманському, 24 – на Костянтинівському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048005/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T19:09:00+00:00",
+    "fetched": "2026-08-09T19:37:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/b/889219/4b0985c041a8519af5415722230ce306.jpeg"
+  },
+  {
+    "id": "28b8849f2d6e170b",
+    "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
+    "summary": "Article URL: https://github.com/nsrht/time-travel-sqlite-debugger Comments URL: https://news.ycombinator.com/item?id=49234506 Points: 8 # Comments: 1",
+    "url": "https://github.com/nsrht/time-travel-sqlite-debugger",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T18:59:53+00:00",
+    "fetched": "2026-08-09T19:37:03+00:00",
+    "image": "https://opengraph.githubassets.com/6558f40af39933874da2c4245fdc975e2e6502adff09a9fe053df108b531c22f/nsrht/time-travel-sqlite-debugger"
+  },
+  {
+    "id": "8f76bae228da5aaf",
+    "title": "Нічна атака на Одещину: зросла кількість постраждалих, одна людина у важкому стані",
+    "summary": "Внаслідок нічної ракетно-дронової атаки по Одещині постраждали 13 людей, шість - у лікарні, один у важкому стані.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048004/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:57:00+00:00",
+    "fetched": "2026-08-09T19:37:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/889218/56e9b19e39e3bf2f66180f2cff816982.jpeg"
+  },
+  {
+    "id": "9dc1f2f943235312",
+    "title": "На Одещині енергетики частково повернули світло критичній інфраструктурі та для понад 120 тисяч сімей",
+    "summary": "Ремонтні роботи триватимуть цілодобово.",
+    "url": "https://lb.ua/economics/2026/08/09/757870_odeschini_energetiki_chastkovo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:53:00+00:00",
+    "fetched": "2026-08-09T19:37:02+00:00",
+    "image": "https://i.lb.ua/news/015/61/6a78ccb817ac6.jpg"
+  },
+  {
+    "id": "771374a3d29d6576",
+    "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+    "summary": "Article URL: https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html Comments URL: https://news.ycombinator.com/item?id=49234393 Points: 17 # Comments: 8",
+    "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T18:51:57+00:00",
+    "fetched": "2026-08-09T19:37:03+00:00",
+    "image": null
+  },
+  {
+    "id": "3c13a4fe78952823",
+    "title": "Saying No",
+    "summary": "Article URL: https://rozumem.xyz/posts/19 Comments URL: https://news.ycombinator.com/item?id=49234379 Points: 37 # Comments: 15",
+    "url": "https://rozumem.xyz/posts/19",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T18:51:06+00:00",
+    "fetched": "2026-08-09T19:37:03+00:00",
+    "image": null
+  },
+  {
+    "id": "3e8e7271eaa7960c",
+    "title": "If experience is the goal, then you always win",
+    "summary": "Article URL: https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you Comments URL: https://news.ycombinator.com/item?id=49234279 Points: 11 # Comments: 0",
+    "url": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T18:42:09+00:00",
+    "fetched": "2026-08-09T19:37:03+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!C8yl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe409cbb2-0c6e-4615-8664-1a70cbd9c8b8_1456x1960.webp"
+  },
+  {
     "id": "fa97b1a84a1673c4",
     "title": "Сибіга розкритикував заяву ЮНІСЕФ про жертви серед дітей у РФ та Україні",
     "summary": "Міністр наголосив, що, представляючи ці жертви без важливого контексту, ЮНІСЕФ створює хибне уявлення про агресора та жертву.",
@@ -34,6 +130,18 @@
     "published": "2026-08-09T18:20:25+00:00",
     "fetched": "2026-08-09T18:48:07+00:00",
     "image": "https://i.guim.co.uk/img/media/d430cbfd2ba568e638adef3c68e9dfd626c145a3/317_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=726a139367f12898d5cf4b0779a5ab70"
+  },
+  {
+    "id": "c5c2b27eacc367e0",
+    "title": "У Польщі пройшли акції «Не будь байдужим» проти нападів на українців",
+    "summary": "Акції пройшли зокрема у Варшаві, Кракові, Гданську, Познані, Вроцлаві, Катовіце, Жешуві, Любліні, Лодзі, Щецині, Білостоку та Кельцях.",
+    "url": "https://lb.ua/world/2026/08/09/757866_polschi_proyshli_aktsiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:19:00+00:00",
+    "fetched": "2026-08-09T19:37:02+00:00",
+    "image": "https://i.lb.ua/news/051/08/6a78d1d2b6a0f.jpg"
   },
   {
     "id": "a611c47fee9b1df2",
@@ -129,6 +237,18 @@
     "lang": "en",
     "published": "2026-08-09T17:23:22+00:00",
     "fetched": "2026-08-09T18:48:07+00:00",
+    "image": null
+  },
+  {
+    "id": "63fb6ff725692342",
+    "title": "The Meme Factory: The Indonesians Making Money Off Facebook Outrage",
+    "summary": "Article URL: https://netbajura.blogspot.com/2026/08/inside-meme-factory-how-indonesians-are.html Comments URL: https://news.ycombinator.com/item?id=49233408 Points: 5 # Comments: 0",
+    "url": "https://netbajura.blogspot.com/2026/08/inside-meme-factory-how-indonesians-are.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T17:22:04+00:00",
+    "fetched": "2026-08-09T19:37:03+00:00",
     "image": null
   },
   {
@@ -48910,65 +49030,5 @@
     "published": "2026-07-26T19:48:43+00:00",
     "fetched": "2026-07-26T22:32:59+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer-1152x648.jpg"
-  },
-  {
-    "id": "dbc625d90dfc78ee",
-    "title": "На фронті понад 230 боїв, найбільше атак на Покровському і Слов'янському напрямках",
-    "summary": "ЗСУ відбили 231 атаку ворога за добу, на Покровському напрямку зафіксовано 23 атаки.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046009/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T19:37:00+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/881162/4e39996b26e872900b405ee9ae363ca1.jpeg"
-  },
-  {
-    "id": "7c4ba00e1d4e7840",
-    "title": "Apple is banking on privacy to set its smart glasses apart",
-    "summary": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses…",
-    "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T19:36:38+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "2098bb2dd7016d0c",
-    "title": "Berlin Pride attack suspect shot and killed during police operation",
-    "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-    "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-26T19:21:26+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "6e29bef91a2ee6f5",
-    "title": "У Слов'янську росіяни вбили двох працівників Донецькоблгазу",
-    "summary": "У Слов'янську Донецької області внаслідок удару РФ загинули двоє працівників аварійно-диспетчерської служби Донецькоблгаз.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046007/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T19:15:00+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/7/881158/4701aab7e5f1f42ef205504a0a556b07.jpeg"
-  },
-  {
-    "id": "be3e49c9490acdb1",
-    "title": "Від початку доби на фронті відбулося 231 боєзіткнення",
-    "summary": "Також ворог завдав двох ракетних ударів із застосуванням дев'яти ракет.",
-    "url": "https://lb.ua/society/2026/07/26/754698_vid_pochatku_dobi_fronti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T19:10:00+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://i.lb.ua/news/095/61/6a665b368fecc.jpg"
   }
 ]
