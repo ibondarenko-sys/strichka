@@ -1,5 +1,89 @@
 [
   {
+    "id": "180028ecccf05d99",
+    "title": "На Лиманському напрямку прикордонники знищили 124 російські дрони",
+    "summary": "Ворожі дрони знищили розрахунки РЛС підрозділу \"Срібна трійка\".",
+    "url": "https://lb.ua/society/2026/08/09/757804_limanskomu_napryamku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T11:22:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://i.lb.ua/news/095/47/6a786161a4bca.jpg"
+  },
+  {
+    "id": "8c8c03c50924f0c2",
+    "title": "Ворог удень вдарив по Одеському районі",
+    "summary": "Пошкоджено приватний будинок.",
+    "url": "https://lb.ua/society/2026/08/09/757802_vorog_uden_vdariv_odeskomu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T11:19:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://i.lb.ua/news/037/07/6a786225cad42.jpg"
+  },
+  {
+    "id": "816b2ab3e5d48617",
+    "title": "ЗМІ: Топкомандувач США закликає шукати вихід з війни з Іраном",
+    "summary": "Голова комітету штабів США Кейн радить Трампу шукати вихід з війни з Іраном, попереджаючи про ризики ескалації.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047968/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T11:14:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/e/889067/3e4417dff671d008b8ef05df0fb5d34b.jpeg"
+  },
+  {
+    "id": "5a5ed184866b7549",
+    "title": "Лубінець заявив про інформаційні атаки після перевірки ТЦК на Закарпатті",
+    "summary": "Омбудсман вимагає провести масштабні перевірки діяльності ТЦК та СП на Закарпатті.",
+    "url": "https://lb.ua/society/2026/08/09/757800_lubinets_zayaviv_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T11:10:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://i.lb.ua/news/002/32/6a785f87c8215.jpg"
+  },
+  {
+    "id": "93eb91df61d03203",
+    "title": "Німеччина “щодня” зазнає гібридних атак з боку іноземних держав, – МВС країни",
+    "summary": "Очільник міністерства Александер Добріндт не уточнив про які країни йдеться.",
+    "url": "https://lb.ua/world/2026/08/09/757798_nimechchina_schodnya_zaznaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T11:04:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://i.lb.ua/news/051/37/6a785e3b1b180.jpg"
+  },
+  {
+    "id": "d94efc0bc1f80445",
+    "title": "У Косові депутатка жбурнула яйця в прем’єр-міністра під час засідання парламенту, – ЗМІ",
+    "summary": "Засідання парламенту було зірвано.",
+    "url": "https://lb.ua/world/2026/08/09/757796_kosovi_deputatka_zhburnula.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T10:53:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://i.lb.ua/news/038/62/6a785bb3d9abe.jpg"
+  },
+  {
+    "id": "1e155de3145a0e62",
+    "title": "Reuters: Тайвань збільшить оборонний бюджет на 16% у 2027 році",
+    "summary": "Вперше оборонний бюджет острова перевищить 1 трлн тайванських доларів.",
+    "url": "https://lb.ua/world/2026/08/09/757790_reuters_tayvan_zbilshit.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T10:41:00+00:00",
+    "fetched": "2026-08-09T11:33:27+00:00",
+    "image": "https://i.lb.ua/news/017/38/6a785629adad8.jpg"
+  },
+  {
     "id": "7e4c3c861f989358",
     "title": "Влада Франції повідомила про затримання понад 400 осіб через лісові пожежі",
     "summary": "Уряд у Парижі опинився під критикою через непідготовленість до стихії, яка цього літа знищила понад 120 тисяч гектарів лісу.",
@@ -36,6 +120,18 @@
     "image": "https://i.lb.ua/news/082/10/6a78546e98f67.jpg"
   },
   {
+    "id": "4057ced6d5b24673",
+    "title": "CSS: The bomb inside your inbox",
+    "summary": "Article URL: https://portswigger.net/research/css-the-bomb-inside-your-inbox Comments URL: https://news.ycombinator.com/item?id=49230066 Points: 18 # Comments: 1",
+    "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T10:17:52+00:00",
+    "fetched": "2026-08-09T11:33:31+00:00",
+    "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
+  },
+  {
     "id": "70efa3658fdeb5f6",
     "title": "ОВА: через атаку РФ пошкоджено підприємство «Кромберг енд Шуберт Житомир»",
     "summary": "Наслідки атаки локалізували рятувальники ДСНС.",
@@ -46,6 +142,18 @@
     "published": "2026-08-09T10:11:00+00:00",
     "fetched": "2026-08-09T10:38:53+00:00",
     "image": "https://i.lb.ua/news/106/10/6a78508ebcf1f.jpg"
+  },
+  {
+    "id": "226d6abbcdfab8e3",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "summary": "Article URL: https://halfhill.com/byte/1998-12_alpha.html Comments URL: https://news.ycombinator.com/item?id=49230022 Points: 8 # Comments: 2",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T10:06:37+00:00",
+    "fetched": "2026-08-09T11:33:31+00:00",
+    "image": null
   },
   {
     "id": "c9edc0645eba931a",
@@ -48658,137 +48766,5 @@
     "published": "2026-07-26T11:47:00+00:00",
     "fetched": "2026-07-26T12:07:01+00:00",
     "image": "https://i.lb.ua/news/077/16/6a65ec833afbe.jpg"
-  },
-  {
-    "id": "f86a33733c4a5974",
-    "title": "Міненерго: Україна отримала енергетичне обладнання на майже 2,5 млн євро від чотирьох країн",
-    "summary": "Обладнання доставили завдяки внескам міжнародних партнерів до Фонду підтримки енергетики України.",
-    "url": "https://lb.ua/economics/2026/07/26/754638_minenergo_ukrayina_otrimala.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T11:31:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/104/40/6a65eaa29df21.jpg"
-  },
-  {
-    "id": "aa37381afedb5561",
-    "title": "У Харкові росіяни атакували житловий будинок, є жертви та поранені",
-    "summary": "Унаслідок атак по Слобідському району є загиблий та поранені.",
-    "url": "https://lb.ua/society/2026/07/26/754582_harkovi_rosiyani_atakuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T11:31:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/094/07/6a65e6a04c255.jpg"
-  },
-  {
-    "id": "78a70949b084fc48",
-    "title": "Син експрезидента Бразилії Флавіу Болсонару розпочав виборчу кампанію",
-    "summary": "Він виступив перед прихильниками.",
-    "url": "https://lb.ua/world/2026/07/26/754636_sin_eksprezidenta_braziliyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T11:21:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/037/26/6a65edd81439a.jpg"
-  },
-  {
-    "id": "be8958077907c92b",
-    "title": "Розвідка: Світ дистанціюється від стосунків з \"токсичною\" Росією",
-    "summary": "Індія, Азербайджан і Ботсвана висловили дипломатичні протести.",
-    "url": "https://lb.ua/world/2026/07/26/754634_rozvidka_svit_distantsiyuietsya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T11:16:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/035/03/6a65e8e03a403.jpg"
-  },
-  {
-    "id": "94538d4bc7df2723",
-    "title": "Стубб вважає, що позиції України зараз найміцніші з початку війни",
-    "summary": "Стубб заявив, що позиції України найсильніші, а підтримка партнерів важлива для миру.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045968/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T11:14:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/880901/a32ddf1dfd05f5010bc9ecd5b418425d.jpeg"
-  },
-  {
-    "id": "840446b01cc72f11",
-    "title": "An OpenAI model left notes about how to evade containment; we need more details",
-    "summary": "Article URL: https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we Comments URL: https://news.ycombinator.com/item?id=49056808 Points: 10 # Comments: 4",
-    "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T11:00:54+00:00",
-    "fetched": "2026-07-26T12:07:02+00:00",
-    "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-  },
-  {
-    "id": "d6262435ac9d010a",
-    "title": "У Києві перед будівлею МЗС України встановили восьмиметрову сталеву скульптуру \"Фенікс\"",
-    "summary": "Скульптуру створив український художник Олексій Сай.",
-    "url": "https://lb.ua/kyiv/2026/07/26/754632_kiievi_pered_budivleyu_mzs.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T11:00:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/108/20/6a65e5b0ebfdb.jpg"
-  },
-  {
-    "id": "3918d1b0ac61b774",
-    "title": "Драпатий розпочав аудит у Збройних силах: Жодних \"недоторканних\" не буде (новина анулюється)",
-    "summary": "Головнокомандувач ЗСУ Михайло Драпатий повідомив про аудит армії для оцінки боєготовності та управління.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045966/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T10:55:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/880895/69a3b587e314065cd73fa50e4fbecc68.jpeg"
-  },
-  {
-    "id": "6105a34f211e44c6",
-    "title": "До МЗС Румунії викликали російського посла через збиті дрони",
-    "summary": "Результати інцидентів із БпЛА стануть основою дипломатичного протесту.",
-    "url": "https://lb.ua/world/2026/07/26/754630_mzs_rumuniyi_viklikali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T10:50:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/084/39/6a65e696d089a.jpg"
-  },
-  {
-    "id": "59bcc288f605484b",
-    "title": "Сили оборони: ворог активізує бойові дії на Донеччині, щоб просунутися у напрямку Добропілля",
-    "summary": "Росія готує новий наступ на Покровському напрямку у бік Добропілля.",
-    "url": "https://lb.ua/society/2026/07/26/754626_sili_oboroni_vorog_aktivizuie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T10:48:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://i.lb.ua/news/019/47/6a65e1de2d1e8.jpg"
-  },
-  {
-    "id": "7b5ad13b7d4b0e5a",
-    "title": "Тепло та грози: синоптики розповіли, з чого почнеться погодний тиждень",
-    "summary": "Детальний прогноз погоди в Україні на 27-28 липня: дощі, грози, температура до +32°.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045965/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T10:45:00+00:00",
-    "fetched": "2026-07-26T12:07:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/880890/a2afdff58ab28fa130e419494b82ad6f.jpeg"
   }
 ]
