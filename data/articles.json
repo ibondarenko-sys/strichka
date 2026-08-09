@@ -1,5 +1,17 @@
 [
   {
+    "id": "6f33d7e9ee1f2153",
+    "title": "Нічна атака на Одещину: вже 14 постраждалих, одна людина у важкому стані",
+    "summary": "Внаслідок нічної ракетно-дронової атаки по Одещині постраждали 13 людей, шість - у лікарні, один у важкому стані.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048004/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T21:43:00+00:00",
+    "fetched": "2026-08-09T22:35:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/889218/56e9b19e39e3bf2f66180f2cff816982.jpeg"
+  },
+  {
     "id": "1fbf5a67defd94a8",
     "title": "У Києві та низці областей оголосили повітряну тривогу через загрозу балістики",
     "summary": "У ніч на 10 серпня у Києві та низці областей оголосили повітряну тривогу через загрозу балістичного удару з Росії.",
@@ -48,6 +60,18 @@
     "image": "https://i.lb.ua/news/078/31/6a78f1ad3db60.jpg"
   },
   {
+    "id": "6e3d5f2034008de6",
+    "title": "Tuxedo No. 2 – Cocktail recipes",
+    "summary": "Article URL: https://tuxedono2.com Comments URL: https://news.ycombinator.com/item?id=49235697 Points: 12 # Comments: 2",
+    "url": "https://tuxedono2.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:48:46+00:00",
+    "fetched": "2026-08-09T22:35:30+00:00",
+    "image": null
+  },
+  {
     "id": "6755bccb47faf482",
     "title": "Сибіга дорікнув ЮНІСЕФ за повідомлення про жертви серед дітей в Україні та РФ",
     "summary": "Сибіга закликав ЮНІСЕФ не замовчувати агресію РФ та правдиво висвітлювати жертви війни",
@@ -70,6 +94,18 @@
     "published": "2026-08-09T20:42:29+00:00",
     "fetched": "2026-08-09T21:37:01+00:00",
     "image": "https://media.propelmusic.co.nz/articles/nz-music-media/karangahape-road-auckland.webp"
+  },
+  {
+    "id": "127a8f07aebd5fb0",
+    "title": "The climate benefits of retiring an operational combustion engine vehicle",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/science.adv5441 Comments URL: https://news.ycombinator.com/item?id=49235572 Points: 6 # Comments: 4",
+    "url": "https://www.science.org/doi/10.1126/science.adv5441",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:35:48+00:00",
+    "fetched": "2026-08-09T22:35:30+00:00",
+    "image": null
   },
   {
     "id": "7ccfaeacc6a9ae84",
@@ -238,6 +274,18 @@
     "published": "2026-08-09T19:43:52+00:00",
     "fetched": "2026-08-09T21:37:01+00:00",
     "image": null
+  },
+  {
+    "id": "53a79654f36f811e",
+    "title": "Two wheels, a few tradeoffs, and gas prices",
+    "summary": "Article URL: https://blog.raed.dev/posts/motocycle/ Comments URL: https://news.ycombinator.com/item?id=49234980 Points: 10 # Comments: 6",
+    "url": "https://blog.raed.dev/posts/motocycle/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T19:41:23+00:00",
+    "fetched": "2026-08-09T22:35:30+00:00",
+    "image": "https://blog.raed.dev/Two%20wheels,%20a%20few%20tradeoffs,%20and%20gas%20prices.png"
   },
   {
     "id": "bca74f3b733c5fe6",
@@ -49066,41 +49114,5 @@
     "published": "2026-07-26T22:46:10+00:00",
     "fetched": "2026-07-27T04:23:01+00:00",
     "image": "https://opengraph.githubassets.com/ae7d5a7ff2ebfea5b61fcf8b4d4619e87543e784fa4984bd205d547d586ef48b/vercel-labs/scriptc"
-  },
-  {
-    "id": "afec1688213ecec7",
-    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-    "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html Comments URL: https://news.ycombinator.com/item?id=49063022 Points: 363 # Comments: 228",
-    "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T22:21:41+00:00",
-    "fetched": "2026-07-27T04:23:01+00:00",
-    "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg"
-  },
-  {
-    "id": "1cc71ffc0ebffc44",
-    "title": "У військовому командуванні США вважають, що удари в районі Ормузу вичерпали ефективність – Axios",
-    "summary": "Axios пише, що американські військові вважають, що удари по Ормузу вичерпали ефективність.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046017/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T22:18:00+00:00",
-    "fetched": "2026-07-26T22:32:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/881219/b706cdf51bebdb12aac8c0beb74dc995.jpeg"
-  },
-  {
-    "id": "4fae19ba99845d97",
-    "title": "Teaching Kids Forth – Anna Liberty",
-    "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/ Comments URL: https://news.ycombinator.com/item?id=49062700 Points: 10 # Comments: 4",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T21:39:17+00:00",
-    "fetched": "2026-07-26T22:32:59+00:00",
-    "image": "https://gracefulliberty.com/avatar.png"
   }
 ]
