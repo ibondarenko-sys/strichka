@@ -1,5 +1,77 @@
 [
   {
+    "id": "1fbf5a67defd94a8",
+    "title": "У Києві та низці областей оголосили повітряну тривогу через загрозу балістики",
+    "summary": "У ніч на 10 серпня у Києві та низці областей оголосили повітряну тривогу через загрозу балістичного удару з Росії.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048013/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T21:15:00+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/889271/791e7b685b102a2223fc4749fef4f932.jpeg"
+  },
+  {
+    "id": "5c80435db79fdd62",
+    "title": "Is it all just vapourware?",
+    "summary": "Article URL: https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware Comments URL: https://news.ycombinator.com/item?id=49235859 Points: 19 # Comments: 4",
+    "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T21:03:43+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://kirahowe.com/images/og.png?v=914e8a71"
+  },
+  {
+    "id": "d24299a61a68c8db",
+    "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+    "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 10 # Comments: 0",
+    "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T21:01:31+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": null
+  },
+  {
+    "id": "dba943054a4ba331",
+    "title": "Головне за неділю, 9 серпня: понад 210 бойових зіткнень, наслідки атаки на Одесу, евакуація з двох громад Херсонщини",
+    "summary": "Бойові дії на Донеччині, 213 бойових зіткнень, ворожі обстріли, уламки ударного дрона в Молдові, акції на захист українців у Польщі. Яким запам’ятається 1628-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/09/757880_golovne_nedilyu_9_serpnya_ponad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T20:59:00+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://i.lb.ua/news/078/31/6a78f1ad3db60.jpg"
+  },
+  {
+    "id": "6755bccb47faf482",
+    "title": "Сибіга дорікнув ЮНІСЕФ за повідомлення про жертви серед дітей в Україні та РФ",
+    "summary": "Сибіга закликав ЮНІСЕФ не замовчувати агресію РФ та правдиво висвітлювати жертви війни",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048012/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T20:47:00+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/889267/df0ddef24e09df02b6ac7a91ed3f92f6.jpeg"
+  },
+  {
+    "id": "e75ec7ce32753270",
+    "title": "New Zealand lost its music media, and what we're building to replace it",
+    "summary": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media Comments URL: https://news.ycombinator.com/item?id=49235641 Points: 5 # Comments: 0",
+    "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:42:29+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://media.propelmusic.co.nz/articles/nz-music-media/karangahape-road-auckland.webp"
+  },
+  {
     "id": "7ccfaeacc6a9ae84",
     "title": "​Пакистан, Саудівська Аравія і Туреччина підписали оборонну угоду",
     "summary": "Відповідно до угоди, «будь-який збройний напад на будь-яку з трьох держав розглядатиметься як напад на них усіх».",
@@ -12,6 +84,18 @@
     "image": "https://i.lb.ua/news/099/50/6a78e35f8b62d.jpg"
   },
   {
+    "id": "8e17d2671a9f16b6",
+    "title": "Archival Resource Key (Ark) Alliance",
+    "summary": "Article URL: https://arks.org/ Comments URL: https://news.ycombinator.com/item?id=49235486 Points: 3 # Comments: 0",
+    "url": "https://arks.org/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:28:54+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": null
+  },
+  {
     "id": "959976df020b50c2",
     "title": "No Dogs in Space is a music history podcast for true obsessives",
     "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing…",
@@ -22,6 +106,42 @@
     "published": "2026-08-09T20:28:31+00:00",
     "fetched": "2026-08-09T20:37:32+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b6296e86a2112341",
+    "title": "The Hacker's Renaissance",
+    "summary": "Article URL: https://phrack.org/issues/72/19#article Comments URL: https://news.ycombinator.com/item?id=49235378 Points: 7 # Comments: 1",
+    "url": "https://phrack.org/issues/72/19#article",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:18:44+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://phrack.org/images/p40ylogo.jpg"
+  },
+  {
+    "id": "5158f4ba0bec0f14",
+    "title": "How not to turn ideologically crazy",
+    "summary": "Article URL: https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn Comments URL: https://news.ycombinator.com/item?id=49235349 Points: 5 # Comments: 1",
+    "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:15:52+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!f14J!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e2b5331-29bd-400c-9da6-df6c0c8e0f65_2944x1648.png"
+  },
+  {
+    "id": "4aae321d1c614a5b",
+    "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+    "summary": "I've been working on a simple multiplayer word game called Alphabet Soup. It's a bit like NYT Spelling Bee, except it's multiplayer and only your best (longest) word counts toward your score. So, instead of trying to find as many words as possible, the game is more about finding…",
+    "url": "https://alphabetsoup.club",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:15:45+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": null
   },
   {
     "id": "e05c6dbb60a595be",
@@ -60,6 +180,18 @@
     "image": "https://i.lb.ua/news/060/62/6a78dec1ac9db.jpg"
   },
   {
+    "id": "d6e21e9a12b03d62",
+    "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+    "summary": "Article URL: https://github.com/yegors/deGDID Comments URL: https://news.ycombinator.com/item?id=49235242 Points: 32 # Comments: 17",
+    "url": "https://github.com/yegors/deGDID",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T20:06:51+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://opengraph.githubassets.com/ccf55e0b046505b2da83f0b12bea7c47f55f5786032e6a1fdd29533f0220b2b4/yegors/deGDID"
+  },
+  {
     "id": "6e9e3d1bddcac3ec",
     "title": "Сьогодні на фронті вже пройшло 213 зіткнень",
     "summary": "Найбільше боїв пройшло на Лиманському напрямку.",
@@ -94,6 +226,18 @@
     "published": "2026-08-09T19:57:00+00:00",
     "fetched": "2026-08-09T20:37:32+00:00",
     "image": "https://i.lb.ua/news/057/06/6a78dbc4bced1.jpg"
+  },
+  {
+    "id": "733a83db1c9d6b7a",
+    "title": "The tragedy of the commons, AI edition",
+    "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 21 # Comments: 2",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T19:43:52+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": null
   },
   {
     "id": "bca74f3b733c5fe6",
@@ -214,6 +358,18 @@
     "published": "2026-08-09T18:42:09+00:00",
     "fetched": "2026-08-09T19:37:03+00:00",
     "image": "https://substackcdn.com/image/fetch/$s_!C8yl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe409cbb2-0c6e-4615-8664-1a70cbd9c8b8_1456x1960.webp"
+  },
+  {
+    "id": "8ba6a00fbf84dda7",
+    "title": "I Made Tinnitus My Friend (Then It Disappeared)",
+    "summary": "Article URL: https://mynoise.net/vlog.php?ep=20260803 Comments URL: https://news.ycombinator.com/item?id=49234271 Points: 7 # Comments: 0",
+    "url": "https://mynoise.net/vlog.php?ep=20260803",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T18:41:35+00:00",
+    "fetched": "2026-08-09T21:37:01+00:00",
+    "image": "https://mynoise.net/Pix/imageProxy.php?url=https%3A%2F%2Fvz-067b1f4d-df2.b-cdn.net%2F69b827da-0ce9-46bf-a0cb-cabb5d037e33%2Fthumbnail_ee8ebe97.jpg"
   },
   {
     "id": "fa97b1a84a1673c4",
@@ -48946,89 +49102,5 @@
     "published": "2026-07-26T21:39:17+00:00",
     "fetched": "2026-07-26T22:32:59+00:00",
     "image": "https://gracefulliberty.com/avatar.png"
-  },
-  {
-    "id": "702c5e1d5d905b48",
-    "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-    "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-    "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-26T21:30:20+00:00",
-    "fetched": "2026-07-26T22:32:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "d2167b06d7039fe5",
-    "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-    "summary": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than…",
-    "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T21:24:07+00:00",
-    "fetched": "2026-07-26T21:27:45+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Champagne-and-Bullets.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "0858695340f66efd",
-    "title": "У Краматорську ворожий FPV-дрон атакував екіпаж поліцейських, поранений патрульний",
-    "summary": "У Нацполіції повідомили, що в Краматорську російський дрон атакував екіпаж патрульних.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046016/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T21:16:00+00:00",
-    "fetched": "2026-07-26T21:27:45+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/881211/271c12cc2200d9f08e454836106eb24a.jpeg"
-  },
-  {
-    "id": "f5bf9c4b5815168e",
-    "title": "Головне за неділю, 26 липня: удар по супермаркету в Чернігові, понад 230 бойових зіткнень",
-    "summary": "Бойові дії на Донеччині, 231 бойове зіткнення, ворожі обстріли, енергетичне обладнання від партнерів. Яким запам’ятається 1614-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/07/26/754704_golovne_nedilyu_26_lipnya_udar.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T20:58:00+00:00",
-    "fetched": "2026-07-26T21:27:45+00:00",
-    "image": "https://i.lb.ua/news/049/58/6a66784db4d78.jpg"
-  },
-  {
-    "id": "bd266e851fbdd0f0",
-    "title": "Росіяни атакували заклад торгівлі на Миколаївщині: двоє поранених",
-    "summary": "У Снігурівській громаді на Миколаївщині дрон атакував заклад торгівлі, двоє поранених.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046015/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T20:55:00+00:00",
-    "fetched": "2026-07-26T21:27:45+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/881206/8fb834813bb04e0de51558e90c28ffba.jpeg"
-  },
-  {
-    "id": "a2b2343f84272e62",
-    "title": "We have proof automation now",
-    "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html Comments URL: https://news.ycombinator.com/item?id=49062291 Points: 12 # Comments: 1",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T20:53:26+00:00",
-    "fetched": "2026-07-26T22:32:59+00:00",
-    "image": null
-  },
-  {
-    "id": "ac784dc4521ae75f",
-    "title": "Multiway Turing Machines (2021 pre-ai)",
-    "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/ Comments URL: https://news.ycombinator.com/item?id=49062259 Points: 12 # Comments: 3",
-    "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T20:49:43+00:00",
-    "fetched": "2026-07-26T22:32:59+00:00",
-    "image": null
   }
 ]
