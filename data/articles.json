@@ -1,5 +1,65 @@
 [
   {
+    "id": "d4da6a2388678790",
+    "title": "Ворог знову вдарив по Харкову, поцілив по об’єкту інфраструктури",
+    "summary": "Армія окупантів вдарила по Салтівському та Немишлянському району.",
+    "url": "https://lb.ua/society/2026/08/09/757840_vorog_znovu_vdariv_harkovu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T14:35:00+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": "https://i.lb.ua/news/101/36/6a788e8ccda12.jpg"
+  },
+  {
+    "id": "a660732b7abdb16e",
+    "title": "ЗМІ: Трамп хотів оголосити про перемогу у війні з Іраном, але той висунув жорсткіші умови",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047991/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T14:25:00+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": null
+  },
+  {
+    "id": "fa50ea975e819cb5",
+    "title": "Кримінального авторитета Деніела Кінахана повертають до Ірландії",
+    "summary": "Його картель нібито відповідальний за імпорт тонн наркотиків та вогнепальної зброї у всьому світі, а також пов'язаний з більше ніж десятком замовних вбивств.",
+    "url": "https://lb.ua/world/2026/08/09/757838_kriminalnogo_avtoriteta_deniela.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T14:23:00+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": "https://i.lb.ua/news/050/29/6a788d5b88d5d.jpg"
+  },
+  {
+    "id": "c80cf90cdeec9685",
+    "title": "Росіяни зруйнували гуманітарний склад ВООЗ у Дніпрі",
+    "summary": "У Дніпрі 7 серпня зруйновано склад ВООЗ для медичних закладів. Жертв немає, частину вантажу евакуйовано.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047986/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T14:01:00+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/889136/38dd196ddadbd18fbbd8276019178371.jpeg"
+  },
+  {
+    "id": "810212f8311f37ae",
+    "title": "Російська атака знищила у Дніпрі гуманітарний склад ВООЗ",
+    "summary": "Вдалося врятувати менше половину палет з медичними товарами.",
+    "url": "https://lb.ua/society/2026/08/09/757836_rosiyska_ataka_znischila_dnipri.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T13:56:00+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": "https://i.lb.ua/news/059/19/6a78867238da3.jpg"
+  },
+  {
     "id": "a9e4150e0ea5cc7a",
     "title": "У центрі Приштини зняли український прапор: \"Косово треба поважати\"",
     "summary": "З будівлі у центрі Приштини прибрали український прапор, мер пояснив позицію через державність Косово.",
@@ -204,6 +264,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/a/889100/1a15d18776575070fdf58fb683ac0086.jpeg"
   },
   {
+    "id": "521fe158cece5b70",
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "summary": "Article URL: https://github.com/rochus-keller/OberonSystem/tree/op2-rv32 Comments URL: https://news.ycombinator.com/item?id=49230891 Points: 20 # Comments: 2",
+    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T12:43:16+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": "https://opengraph.githubassets.com/f53eb1d21f312d491ef88d6916de63b28260b7bc16735518d5f606e53523ea0a/rochus-keller/OberonSystem"
+  },
+  {
     "id": "dfdea78b821d383f",
     "title": "На Київщині сталася пожежа у притулку для тварин",
     "summary": "Внаслідок займання загинули тварини.",
@@ -312,6 +384,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/889076/0eaf80b8475114c3cd5dac7e44e25755.jpeg"
   },
   {
+    "id": "bb53fdd0eaaf4860",
+    "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+    "summary": "Article URL: https://www.youtube.com/watch?v=NufJ7g63KSY Comments URL: https://news.ycombinator.com/item?id=49230630 Points: 34 # Comments: 12",
+    "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T12:01:39+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": null
+  },
+  {
     "id": "0c2e671de92dbe5d",
     "title": "Албанія підтримала візит Зеленського до Сербії та заявила про незмінну підтримку України й Косова",
     "summary": "Албанія підтвердила підтримку незалежності, суверенітету та територіальної цілісності України.",
@@ -346,6 +430,18 @@
     "published": "2026-08-09T11:59:00+00:00",
     "fetched": "2026-08-09T12:59:57+00:00",
     "image": "https://i.lb.ua/news/074/59/6a786b38d78d0.jpg"
+  },
+  {
+    "id": "3d640600898c1628",
+    "title": "70% of AI revenue comes from OpenAI and Anthropic",
+    "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 17 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T11:56:16+00:00",
+    "fetched": "2026-08-09T14:39:08+00:00",
+    "image": null
   },
   {
     "id": "c0bb151f497495e3",
@@ -48850,53 +48946,5 @@
     "published": "2026-07-26T14:40:27+00:00",
     "fetched": "2026-07-26T15:40:46+00:00",
     "image": "https://aerospaceglobalnews.com/wp-content/uploads/2026/07/6a61de120354b41c5c00cf08.jpeg"
-  },
-  {
-    "id": "8dbbbeea91d320bd",
-    "title": "На Покровському напрямку окупанти готують штурми на квадроциклах і мотоциклах – \"Рубіж\"",
-    "summary": "На Покровському напрямку окупанти готують штурми з використанням квадроциклів і мотоциклів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045987/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T14:29:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/e/880993/de185b8bbdad9c989678ecff7f20d694.jpeg"
-  },
-  {
-    "id": "f771e1250fc8f075",
-    "title": "Експрезидент Гондурасу Ернандес повертається на батьківщину після помилування Трампом",
-    "summary": "Він прибуде до країни приватним літаком.",
-    "url": "https://lb.ua/world/2026/07/26/754666_eksprezident_gondurasu_ernandes.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T14:16:00+00:00",
-    "fetched": "2026-07-26T15:40:46+00:00",
-    "image": "https://i.lb.ua/news/110/49/6a6616cf467db.jpg"
-  },
-  {
-    "id": "623a48c606b75bdf",
-    "title": "У Румунії розповіли деталі збиття третього за три дні дрона, що порушив її повітряний простір",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8045986/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T14:06:00+00:00",
-    "fetched": "2026-07-26T14:09:44+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/9/d/9d65551-756682916-1046684234516595-2441608968001473998-n.jpeg"
-  },
-  {
-    "id": "7f783dc80cbabc94",
-    "title": "Президент вручив державні нагороди медпрацівникам",
-    "summary": "Зеленський також передав відзнаки родинам загиблих медиків, які удостоєні нагород.",
-    "url": "https://lb.ua/society/2026/07/26/754670_prezident_vruchiv_derzhavni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T14:03:00+00:00",
-    "fetched": "2026-07-26T14:09:44+00:00",
-    "image": "https://i.lb.ua/news/092/25/6a6613c33bec1.jpg"
   }
 ]
