@@ -1,5 +1,89 @@
 [
   {
+    "id": "c72c293a90da76bd",
+    "title": "Зеленський анонсував нові контакти з посередниками щодо завершення війни",
+    "summary": "Наступного тижня Україна проведе нові контакти з посередниками та переговори задля посилення ППО.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048001/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T17:28:00+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/d/889194/3d81ea471a1ad44c5aa668eb988e76e7.jpeg"
+  },
+  {
+    "id": "0764eb49b237950c",
+    "title": "Зеленський: Україна відповідатиме на удари РФ і готує контракти для ППО",
+    "summary": "Зеленському прозвітував премʼєр Корецький, а також була розмова із головкомом.",
+    "url": "https://lb.ua/society/2026/08/09/757862_zelenskiy_ukrayina_vidpovidatime.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T17:26:00+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://i.lb.ua/news/113/18/6a78b844132fa.jpg"
+  },
+  {
+    "id": "23836467737fe253",
+    "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
+    "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's…",
+    "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T17:20:30+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2190858037.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "bc76f87d1c732207",
+    "title": "У Франції заарештували понад чотири сотні людей через лісові пожежі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048000/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T17:19:00+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/3/7310e70---------------.jpg"
+  },
+  {
+    "id": "815b50990d2ba71a",
+    "title": "Хусити взяли на себе відповідальність за атаку на порт у Червоному морі",
+    "summary": "Вони заявляють, що що їхніми цілями були військові сили та склади.",
+    "url": "https://lb.ua/world/2026/08/09/757858_husiti_vzyali_vidpovidalnist.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T17:01:00+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://i.lb.ua/news/059/09/6a78b2999de0f.jpg"
+  },
+  {
+    "id": "dd6281506d3b150e",
+    "title": "Сенат Чехії підняв історичний прапор Білорусі на річницю придушених протестів",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8047998/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T16:45:00+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/3/7350efb---------------------.jpg"
+  },
+  {
+    "id": "cd34ac80695801f4",
+    "title": "Puerto Rico rations water supplies due to intense drought",
+    "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T16:43:23+00:00",
+    "fetched": "2026-08-09T17:34:54+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg"
+  },
+  {
     "id": "ee5c9b854ccd8101",
     "title": "NYT: Тайвань створює систему оборони із дронів та морських безекіпажних катерів",
     "summary": "Це роблять для того, аби ускладнити можливе вторгнення Китаю.",
@@ -10,6 +94,30 @@
     "published": "2026-08-09T16:36:00+00:00",
     "fetched": "2026-08-09T16:40:41+00:00",
     "image": "https://i.lb.ua/news/051/55/6a78ac9dbc4dd.jpg"
+  },
+  {
+    "id": "803d70724891e0bf",
+    "title": "Banksy works cost public almost £150k",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cx2vnny7j5zo Comments URL: https://news.ycombinator.com/item?id=49232942 Points: 11 # Comments: 19",
+    "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T16:33:05+00:00",
+    "fetched": "2026-08-09T17:34:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b09/live/88e263b0-8e72-11f1-98c2-039438173617.jpg"
+  },
+  {
+    "id": "4b92f58281adee9e",
+    "title": "FCC moves to ban Lidar-equipped foreign drones from US",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows Comments URL:…",
+    "url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T16:24:59+00:00",
+    "fetched": "2026-08-09T17:34:55+00:00",
+    "image": "https://cdn.mos.cms.futurecdn.net/YPrVdiurcmCjY9jdwKzPxY-1920-80.jpg"
   },
   {
     "id": "882e54d4cb1d7b00",
@@ -132,6 +240,18 @@
     "image": "https://alexanderwanyoike.github.io/vibez/images/og.png"
   },
   {
+    "id": "0ab3045a5f8761db",
+    "title": "Criminal Deception in Silicon Valley",
+    "summary": "Article URL: https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981 Comments URL: https://news.ycombinator.com/item?id=49232318 Points: 62 # Comments: 18",
+    "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T15:26:45+00:00",
+    "fetched": "2026-08-09T17:34:55+00:00",
+    "image": null
+  },
+  {
     "id": "dbf9548a1556ce64",
     "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
     "summary": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
@@ -142,6 +262,18 @@
     "published": "2026-08-09T15:25:50+00:00",
     "fetched": "2026-08-09T15:36:16+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg"
+  },
+  {
+    "id": "8588e85d5a9245c1",
+    "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+    "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 11 # Comments: 1",
+    "url": "https://github.com/eighttrigrams/us-vs-them",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T15:25:29+00:00",
+    "fetched": "2026-08-09T17:34:55+00:00",
+    "image": "https://opengraph.githubassets.com/1dfab1344be251ebc6e918945b5e2b25a3d3c60e7e23c847408bb1fa7e0b102f/eighttrigrams/us-vs-them"
   },
   {
     "id": "7bdf5f2f7015b554",
@@ -48874,125 +49006,5 @@
     "published": "2026-07-26T17:36:00+00:00",
     "fetched": "2026-07-26T18:33:26+00:00",
     "image": "https://i.lb.ua/news/035/18/6a661011ab30b.jpg"
-  },
-  {
-    "id": "d2d3ea11043fa84f",
-    "title": "Гору Олімп внесли до всесвітньої спадщини ЮНЕСКО",
-    "summary": "Рішення ухвалили на 48-й сесії Комітету всесвітньої спадщини в південнокорейському Пусані.",
-    "url": "https://lb.ua/world/2026/07/26/754690_goru_olimp_vnesli_vsesvitnoyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:31:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/069/62/6a66444a15997.jpg"
-  },
-  {
-    "id": "ec1f27fe74a33552",
-    "title": "Reuters: Україна та США готують нові пропозиції для РФ щодо припинення повітряних ударів",
-    "summary": "Україна та США пропонують нові домовленості Росії щодо припинення повітряних ударів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046002/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:30:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/6/881121/c693f35d42f17dd57bc3b4c5b1e6db4c.jpeg"
-  },
-  {
-    "id": "e7e67019fae6d12b",
-    "title": "How to Write English Prose",
-    "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose Comments URL: https://news.ycombinator.com/item?id=49060295 Points: 8 # Comments: 2",
-    "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:29:35+00:00",
-    "fetched": "2026-07-26T18:33:29+00:00",
-    "image": "https://lamp-magazine.transforms.svdcdn.com/production/uploads/Screen-Shot-2023-01-09-at-9.36.19-AM-3.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1674770758&s=a90c20ea42dcec9d6ed38bd249158258"
-  },
-  {
-    "id": "3c20825102e6bb43",
-    "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
-    "summary": "Staff-engineer layer for AI coding agents: routes per-edit architectural constraints for AI coding agents Comments URL: https://news.ycombinator.com/item?id=49060279 Points: 8 # Comments: 2",
-    "url": "https://github.com/MicSm/boffin",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:28:03+00:00",
-    "fetched": "2026-07-26T18:33:29+00:00",
-    "image": "https://opengraph.githubassets.com/7498cedab673d2cbac8297917c4ee84ba843a4c3d7db75723703623c38eb1884/MicSm/boffin"
-  },
-  {
-    "id": "7dc27145a4e95fab",
-    "title": "Calling all open source maintainers working with Ruby",
-    "summary": "Article URL: https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553 Comments URL: https://news.ycombinator.com/item?id=49060277 Points: 5 # Comments: 3",
-    "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:28:03+00:00",
-    "fetched": "2026-07-26T18:33:29+00:00",
-    "image": "https://canada1.discourse-cdn.com/flex030/uploads/ruby_users_forum/original/1X/be064f9e0d87b871c333b1825176f5974441b14b.png"
-  },
-  {
-    "id": "5e0b2b257b352066",
-    "title": "Росіяни цілеспрямовано вдарили по супермаркету безпілотником, на ньому була відеокамера, - Нацполіція",
-    "summary": "Правоохоронці документують наслідки удару росіян.",
-    "url": "https://lb.ua/society/2026/07/26/754688_rosiyani_tsilespryamovano.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:23:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/000/24/6a6642886de46.jpg"
-  },
-  {
-    "id": "823f8819fb48a25b",
-    "title": "Lidl Introduces the European Payment Method Wero in Germany",
-    "summary": "Article URL: https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero Comments URL: https://news.ycombinator.com/item?id=49060205 Points: 8 # Comments: 2",
-    "url": "https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:20:19+00:00",
-    "fetched": "2026-07-26T18:33:29+00:00",
-    "image": "https://corporate-cms.object.storage.eu01.onstackit.cloud/corporate/images/_aliases/corporate_1200x630/8/1/8/7/4797818-1-ger-DE/6928d57fcc02-WERO-Pressebild3.jpg"
-  },
-  {
-    "id": "e15dd1ca8cf2b228",
-    "title": "Від 2022 року російські дрони 33 рази порушували повітряний простір Румунії",
-    "summary": "Поблизу українсько-румунського кордону за цей період було зафіксовано понад 100 обстрілів.",
-    "url": "https://lb.ua/world/2026/07/26/754686_vid_2022_roku_rosiyski_droni_33.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:08:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/103/51/6a663ef715323.jpg"
-  },
-  {
-    "id": "afde8e60633838ad",
-    "title": "У США заперечили дефіцит озброєнь через війну в Ірані",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046001/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:02:00+00:00",
-    "fetched": "2026-07-26T17:06:55+00:00",
-    "image": null
-  },
-  {
-    "id": "ee0309cd79103780",
-    "title": "Using ThinkPad T480 as a mobile phone",
-    "summary": "Article URL: https://grego.site/blog/thinkphone Comments URL: https://news.ycombinator.com/item?id=49059977 Points: 31 # Comments: 10",
-    "url": "https://grego.site/blog/thinkphone",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T16:56:06+00:00",
-    "fetched": "2026-07-26T20:12:36+00:00",
-    "image": "https://grego.site/img/blog/thinkphone.jpg"
   }
 ]
