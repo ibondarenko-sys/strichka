@@ -1,5 +1,89 @@
 [
   {
+    "id": "fa97b1a84a1673c4",
+    "title": "Сибіга розкритикував заяву ЮНІСЕФ про жертви серед дітей у РФ та Україні",
+    "summary": "Міністр наголосив, що, представляючи ці жертви без важливого контексту, ЮНІСЕФ створює хибне уявлення про агресора та жертву.",
+    "url": "https://lb.ua/news/2026/08/09/757868_sibiga_rozkritikuvav_zayavu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:41:00+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://i.lb.ua/news/032/23/6a78c9cfd7988.jpg"
+  },
+  {
+    "id": "c8e66c3fffe0a9e7",
+    "title": "На півдні Іспанії лісова пожежа охопила 8 тисяч гектарів: евакуювали майже 470 людей",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048003/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:24:00+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/0/901f128-------.jpg"
+  },
+  {
+    "id": "ac4ca0da6ad28d3e",
+    "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+    "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires forced…",
+    "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T18:20:25+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://i.guim.co.uk/img/media/d430cbfd2ba568e638adef3c68e9dfd626c145a3/317_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=726a139367f12898d5cf4b0779a5ab70"
+  },
+  {
+    "id": "a611c47fee9b1df2",
+    "title": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
+    "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa province Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong…",
+    "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T18:13:57+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://i.guim.co.uk/img/media/3e8c6be8fd658a84e9988f87ef3012e3ac4d67ec/401_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c932cef553625465d51c20516ef83f91"
+  },
+  {
+    "id": "2f3f198be95e6da7",
+    "title": "У 22 містах Польщі відбулися акції проти нападів на українців",
+    "summary": "У неділю в 22 містах Польщі відбулися демонстрації на знак протесту проти зростаючого насильства щодо українців.",
+    "url": "https://www.pravda.com.ua/news/2026/08/09/8048002/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:04:00+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/889195/2bae1d615ae883ecef40c189387331d7.jpeg"
+  },
+  {
+    "id": "904251bb36516d79",
+    "title": "Туреччина відновила пропуск суден до Чорного моря через протоки",
+    "summary": "Країна пропустила два танкери, що прямували до Новоросійська.",
+    "url": "https://lb.ua/world/2026/08/09/757864_turechchina_vidnovila_propusk.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T18:03:00+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://i.lb.ua/news/086/16/6a78c117468b0.jpg"
+  },
+  {
+    "id": "5186974372bc736b",
+    "title": "Німеччина вислала близько 400 росіян із лютого 2022 року",
+    "summary": "білтшість із них були співробітниками спецслужб, які працювали під дипломатичним прикриттям.",
+    "url": "https://lb.ua/world/2026/08/09/757860_nimechchina_vislala_blizko_400.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-09T17:41:00+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://i.lb.ua/news/010/28/6a78bbd58d8e7.jpg"
+  },
+  {
     "id": "c72c293a90da76bd",
     "title": "Зеленський анонсував нові контакти з посередниками щодо завершення війни",
     "summary": "Наступного тижня Україна проведе нові контакти з посередниками та переговори задля посилення ППО.",
@@ -10,6 +94,18 @@
     "published": "2026-08-09T17:28:00+00:00",
     "fetched": "2026-08-09T17:34:54+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/d/889194/3d81ea471a1ad44c5aa668eb988e76e7.jpeg"
+  },
+  {
+    "id": "268943c0a1a5cfed",
+    "title": "OpenChamber: An Agentic Development Environment",
+    "summary": "Article URL: https://openchamber.dev/ Comments URL: https://news.ycombinator.com/item?id=49233448 Points: 23 # Comments: 5",
+    "url": "https://openchamber.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T17:27:16+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://openchamber.dev/og-image.png"
   },
   {
     "id": "0764eb49b237950c",
@@ -24,6 +120,18 @@
     "image": "https://i.lb.ua/news/113/18/6a78b844132fa.jpg"
   },
   {
+    "id": "d5aec2a303c8b89c",
+    "title": "Ask HN: What are you working on? (August 2026)",
+    "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49233423 Points: 38 # Comments: 113",
+    "url": "https://news.ycombinator.com/item?id=49233423",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T17:23:22+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": null
+  },
+  {
     "id": "23836467737fe253",
     "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
     "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's…",
@@ -36,6 +144,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2190858037.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "d2041f2018d1d39a",
+    "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+    "summary": "Article URL: https://frequal.com/aptera/ProductionImminent.html Comments URL: https://news.ycombinator.com/item?id=49233394 Points: 28 # Comments: 15",
+    "url": "https://frequal.com/aptera/ProductionImminent.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T17:19:48+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": null
+  },
+  {
     "id": "bc76f87d1c732207",
     "title": "У Франції заарештували понад чотири сотні людей через лісові пожежі",
     "summary": "",
@@ -46,6 +166,18 @@
     "published": "2026-08-09T17:19:00+00:00",
     "fetched": "2026-08-09T17:34:54+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/7/3/7310e70---------------.jpg"
+  },
+  {
+    "id": "19d9fbe38e0e6b87",
+    "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+    "summary": "Article URL: https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom Comments URL: https://news.ycombinator.com/item?id=49233306 Points: 6 # Comments: 0",
+    "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T17:10:05+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://opengraph.githubassets.com/c558da315af8b1ac41f33e978c1bb89a87a04de953642f97449b125540d0c47b/nMaroulis/protolink"
   },
   {
     "id": "815b50990d2ba71a",
@@ -132,6 +264,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/889173/f9b23bb85fc8d33039d1d9eacb0d82b8.jpeg"
   },
   {
+    "id": "13175f0f3983fe36",
+    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 12 # Comments: 13",
+    "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T16:18:39+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
+    "image": "https://ai-updates.net/wp-content/uploads/2026/08/The-Balance-of-Power-AI-vs.-Government-1160x653.png"
+  },
+  {
     "id": "88d93f7c4f32f321",
     "title": "Drones spotted over German base days after Leipzig bomb incident",
     "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
@@ -177,6 +321,18 @@
     "lang": "en",
     "published": "2026-08-09T15:55:02+00:00",
     "fetched": "2026-08-09T16:40:42+00:00",
+    "image": null
+  },
+  {
+    "id": "b65470800765c801",
+    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+    "summary": "Article URL: https://unyolo.io/ Comments URL: https://news.ycombinator.com/item?id=49232548 Points: 4 # Comments: 0",
+    "url": "https://unyolo.io/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T15:53:03+00:00",
+    "fetched": "2026-08-09T18:48:07+00:00",
     "image": null
   },
   {
@@ -48814,197 +48970,5 @@
     "published": "2026-07-26T19:10:00+00:00",
     "fetched": "2026-07-26T20:12:33+00:00",
     "image": "https://i.lb.ua/news/095/61/6a665b368fecc.jpg"
-  },
-  {
-    "id": "4980d5d32352d3b7",
-    "title": "The US is charging an American citizen for wiping his phone at the border",
-    "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport,…",
-    "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T18:45:50+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK478_breaking_into_phone_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "495f7b95d6b84a54",
-    "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-    "summary": "Article URL: https://github.com/hertz-ai/HARTOS Comments URL: https://news.ycombinator.com/item?id=49061015 Points: 10 # Comments: 8",
-    "url": "https://github.com/hertz-ai/HARTOS",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T18:40:08+00:00",
-    "fetched": "2026-07-26T20:12:36+00:00",
-    "image": "https://opengraph.githubassets.com/84235779c6567d6870fc93a8312b5ce5403c5da7c0daf455ae25cb2689771e2e/hertz-ai/HARTOS"
-  },
-  {
-    "id": "9d3e811cbd6d0c3e",
-    "title": "The Strongest El Niño Ever",
-    "summary": "Article URL: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever Comments URL: https://news.ycombinator.com/item?id=49060978 Points: 109 # Comments: 54",
-    "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T18:35:36+00:00",
-    "fetched": "2026-07-26T20:12:36+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!KuFt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58159098-201a-4e2c-9756-fb2da105b0a7_6000x4000.png"
-  },
-  {
-    "id": "aeb9b1c8b134b7f0",
-    "title": "How to Block Some of the Bots",
-    "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/ Comments URL: https://news.ycombinator.com/item?id=49060945 Points: 19 # Comments: 14",
-    "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T18:32:46+00:00",
-    "fetched": "2026-07-26T20:12:36+00:00",
-    "image": null
-  },
-  {
-    "id": "f3a06903a4cab5a0",
-    "title": "Біля Одеси затонуло торговельне судно, яке 19 липня атакувала Росія",
-    "summary": "Корабель зазнав ураження на виході з порту після завантаження українською кукурудзою.",
-    "url": "https://lb.ua/world/2026/07/26/754696_bilya_odesi_zatonulo_torgovelne.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T18:30:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/066/18/6a6651ace3686.jpg"
-  },
-  {
-    "id": "e039610ec2953bef",
-    "title": "Біля Одеси затонуло іноземне судно, атаковане Росією 19 липня",
-    "summary": "Біля Одеси затонуло судно з кукурудзою після російського удару: загинуло 10 осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046006/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T18:30:00+00:00",
-    "fetched": "2026-07-26T20:12:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/881148/a2f21fa316d03bfd6467d0262e565a7f.jpeg"
-  },
-  {
-    "id": "60f7eea84202a3ac",
-    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-    "summary": "Article URL: https://beyondloom.com/decker/ Comments URL: https://news.ycombinator.com/item?id=49060856 Points: 53 # Comments: 8",
-    "url": "https://beyondloom.com/decker/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T18:23:06+00:00",
-    "fetched": "2026-07-26T20:12:36+00:00",
-    "image": null
-  },
-  {
-    "id": "345ff36a622f3a53",
-    "title": "Російський дрон атакував заклад торгівлі на Миколаївщині, є поранені",
-    "summary": "Медики надають постраждалим допомогу.",
-    "url": "https://lb.ua/society/2026/07/26/754694_rosiyskiy_dron_atakuvav_zaklad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T18:23:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/098/40/6a66504f66f26.jpg"
-  },
-  {
-    "id": "4445bd5a34218077",
-    "title": "У Німеччині вважають, що напад на ЛГБТ-прайд у Берліні був ісламістським терактом",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046005/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T18:17:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/e/e/ee1a6fc-licensed-image---2026-07-26t163422.811.jpeg"
-  },
-  {
-    "id": "c2fa0e1d6954f5c2",
-    "title": "Introduction to Data-Oriented Design [pdf]",
-    "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf Comments URL: https://news.ycombinator.com/item?id=49060724 Points: 23 # Comments: 5",
-    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T18:11:16+00:00",
-    "fetched": "2026-07-26T20:12:36+00:00",
-    "image": null
-  },
-  {
-    "id": "93c5baa8a18f772f",
-    "title": "It's not empowering to hand off the details",
-    "summary": "Article URL: https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/ Comments URL: https://news.ycombinator.com/item?id=49060592 Points: 47 # Comments: 16",
-    "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:58:02+00:00",
-    "fetched": "2026-07-26T21:27:52+00:00",
-    "image": null
-  },
-  {
-    "id": "d57ffc3fe9ea86fb",
-    "title": "У Нікополі внаслідок російського обстрілу постраждала шестирічна дитина, ще двох людей поранено в області",
-    "summary": "Ворог понад 40 разів ворог атакував три райони Дніпропетровщини.",
-    "url": "https://lb.ua/society/2026/07/26/754692_nikopoli_vnaslidok_rosiyskogo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:57:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/006/36/6a664a7e989b9.jpg"
-  },
-  {
-    "id": "f82e7f0e5d13a2d9",
-    "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-    "summary": "Article URL: https://astgrep.com/blog/tree-sitter-rust-rewrite Comments URL: https://news.ycombinator.com/item?id=49060509 Points: 11 # Comments: 0",
-    "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:51:03+00:00",
-    "fetched": "2026-07-26T21:27:52+00:00",
-    "image": null
-  },
-  {
-    "id": "41a2f99aa8b5d321",
-    "title": "French firefighters face 'pyrocumulonimbus' for first time",
-    "summary": "Article URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time Comments URL: https://news.ycombinator.com/item?id=49060495 Points: 12 # Comments: 5",
-    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T17:49:44+00:00",
-    "fetched": "2026-07-26T18:33:29+00:00",
-    "image": "https://s.france24.com/media/display/28a20512-8901-11f1-af78-005056bfb2b6/w:1280/p:16x9/dafe7dea5fec7f3a48c4717459bcd02a6f29ce60.jpg"
-  },
-  {
-    "id": "7504d330ca493031",
-    "title": "У Чернігові ліквідували наслідки атаки на АТБ: 2 загиблих, 25 постраждалих",
-    "summary": "ДСНС завершила ліквідацію наслідків атаки дрона на АТБ у Чернігові: 2 загиблих, 25 постраждалих",
-    "url": "https://www.pravda.com.ua/news/2026/07/26/8046003/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:48:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/0/881122/10f61d89fa67b08caa24448edc9c9d41.jpeg"
-  },
-  {
-    "id": "6a2b7e1614c6ed43",
-    "title": "Російський дрон атакував супермаркет у Чернігові. Є жертви і постраждалі (оновлено)",
-    "summary": "Ворог завдав ударів по трьох локаціях: супермаркету АТБ, СТО та складському приміщенню.",
-    "url": "https://lb.ua/society/2026/07/26/754668_rosiyskiy_dron_atakuvav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T17:36:00+00:00",
-    "fetched": "2026-07-26T18:33:26+00:00",
-    "image": "https://i.lb.ua/news/035/18/6a661011ab30b.jpg"
   }
 ]
