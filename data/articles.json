@@ -1,5 +1,137 @@
 [
   {
+    "id": "34bd8910be466315",
+    "title": "Дрони атакували російські регіони і Крим",
+    "summary": "Офіційно Сили оборони про результати роботи поки не повідомили.",
+    "url": "https://lb.ua/society/2026/08/10/757890_droni_atakuvali_rosiyski_regioni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:40:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://i.lb.ua/news/112/49/6a7964680c9ff.jpg"
+  },
+  {
+    "id": "77d72ddfa5a29dd3",
+    "title": "За добу на фронті відбулося 254 боєзіткнення, - Генштаб",
+    "summary": "Ворог найбільш активний на п'яти напрямках.",
+    "url": "https://lb.ua/society/2026/08/10/757888_dobu_fronti_vidbulosya_254.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:35:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://i.lb.ua/news/088/07/6a7962d3151d4.jpg"
+  },
+  {
+    "id": "4fde9ba9184c1035",
+    "title": "Життя після Зеленського. Чому \"Вечірній Квартал\" втрачає популярність",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048008/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:30:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/8/889221/68f4e6a2b01ce3cfb253500a816f5446.jpeg?w=1200&q=85&stamp=1786304023"
+  },
+  {
+    "id": "6c8841c8be701c83",
+    "title": "На фронті понад 250 боїв: ворог намагався вклинитись в оборону на Лиманському напрямку",
+    "summary": "Ворог здійснив 254 атаки на різних напрямках, ЗСУ тримають оборону. Деталі зведення Генштабу за добу.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048029/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:26:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/889338/95a40bc125909ce4ce3650037d09f491.jpeg"
+  },
+  {
+    "id": "b95beca138ce1e35",
+    "title": "Більшість поляків бачать загрозу для Польщі у протистоянні уряду й президента",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048028/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:14:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/8/9873f28---------------2026-08-10-075439.jpg"
+  },
+  {
+    "id": "eddac8251d199bb6",
+    "title": "Росія атакувала Суми КАБами серед ночі",
+    "summary": "За оновленою інформацією, поранені 14 людей.",
+    "url": "https://lb.ua/society/2026/08/10/757884_rosiya_atakuvala_sumi_kabami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:07:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://i.lb.ua/news/006/00/6a795a91cbd83.jpg"
+  },
+  {
+    "id": "f795384ad55f5466",
+    "title": "Сили оборони ліквідували ще 1470 російських окупантів",
+    "summary": "Росія вже втратила в Україні близько 1 459 210 військових.",
+    "url": "https://lb.ua/society/2026/08/10/757886_sili_oboroni_likviduvali_sche.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:04:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://i.lb.ua/news/027/21/6a795c2340377.jpg"
+  },
+  {
+    "id": "0b1c8d9da13f4c11",
+    "title": "Внаслідок нічних обстрілів постраждали три райони Дніпропетровської області",
+    "summary": "Ворог пошкодив будинки, інфраструктуру і заправку.",
+    "url": "https://lb.ua/society/2026/08/10/757882_vnaslidok_nichnih_obstriliv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T05:04:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://i.lb.ua/news/078/30/6a795bd775ba4.jpg"
+  },
+  {
+    "id": "3876e9e0dd0306bf",
+    "title": "Безпілотникик атакували Татарстан: під ударом Нижньокамський НПЗ",
+    "summary": "У Нижньокамську, де розташований найбільший нафтозавод, сталася атака дронів. Російська влада ситуацію не коментує.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048027/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T04:52:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/0/889323/00ea6fa84b26d604edcdff501bf9fc91.jpeg"
+  },
+  {
+    "id": "d98404189a553ed3",
+    "title": "Росіяни били по Запорізькій області понад 800 разів, одна людина загинула – ОВА",
+    "summary": "За добу росіяни завдали 867 ударів по Запорізькій області, зруйновано житло й інфраструктуру, є жертви та поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048026/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T04:18:00+00:00",
+    "fetched": "2026-08-10T05:55:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/a/889321/fa2d433405a695eb898a5f88fe3361d8.jpeg"
+  },
+  {
+    "id": "7908f14e30362b80",
+    "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+    "summary": "Article URL: https://www.nber.org/papers/w35560 Comments URL: https://news.ycombinator.com/item?id=49239095 Points: 43 # Comments: 12",
+    "url": "https://www.nber.org/papers/w35560",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T04:06:10+00:00",
+    "fetched": "2026-08-10T05:55:40+00:00",
+    "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
+  },
+  {
     "id": "2cf67607b436984c",
     "title": "Сили оборони України за добу відмінусували майже 1500 окупантів та понад 540 одиниць техніки",
     "summary": "За минулу добу Сили оборони України вбили та поранили 1 470 російських окупантів, загальні втрати ворога у війні склали 1 459 210 осіб.",
@@ -36,6 +168,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/1/888117/11d840c36b003913b7f9eba92f0d5cd6.jpeg?w=1200&q=85&stamp=1786103405"
   },
   {
+    "id": "15e161b5f7dd2dc2",
+    "title": "Auto mode is now the default in Claude Code",
+    "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 85 # Comments: 44",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T03:50:00+00:00",
+    "fetched": "2026-08-10T05:55:40+00:00",
+    "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69093b56f1035860a3cfe774_og_claude-code-on-the-web.jpg"
+  },
+  {
     "id": "d0bc31a1d2092855",
     "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
     "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears…",
@@ -58,6 +202,30 @@
     "published": "2026-08-10T03:27:00+00:00",
     "fetched": "2026-08-10T04:13:35+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/889291/199d3fa2632379dcd015292b62561fe8.jpeg"
+  },
+  {
+    "id": "4e6949d8a97bbb50",
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "summary": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I…",
+    "url": "https://www.whodunnitai.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T03:18:40+00:00",
+    "fetched": "2026-08-10T05:55:40+00:00",
+    "image": "https://www.whodunnitai.com/whodunnitai-metadata.jpg"
+  },
+  {
+    "id": "05efe377a9c0fa0b",
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "summary": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 24 # Comments: 0",
+    "url": "https://github.com/shinyquagsire23/Klepton",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T03:12:48+00:00",
+    "fetched": "2026-08-10T05:55:40+00:00",
+    "image": "https://opengraph.githubassets.com/b648cf983cce00cf563e9aa5f6f46b0a1c8f29b94dfa71acf93af51c409d3fd3/shinyquagsire23/Klepton"
   },
   {
     "id": "b056341dfc8e934d",
@@ -49054,77 +49222,5 @@
     "published": "2026-07-27T05:57:00+00:00",
     "fetched": "2026-07-27T08:02:44+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/b/881287/3b83f32befd4aec5bd4dce9a13a76988.jpeg"
-  },
-  {
-    "id": "9306a22b31b9da87",
-    "title": "У російських регіонах поскаржилися на атаку дронів",
-    "summary": "Над Ростовським морським торговим портом після атаки піднімається дим.",
-    "url": "https://lb.ua/world/2026/07/27/754730_rosiyskih_regionah.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T05:52:00+00:00",
-    "fetched": "2026-07-27T08:02:44+00:00",
-    "image": "https://i.lb.ua/news/025/41/6a66f23f2ae37.jpg"
-  },
-  {
-    "id": "ffe7da6461b1e8c9",
-    "title": "ЗМІ: Польща розпочала співпрацю з Францією у справі, пов’язаній з Епштейном",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046031/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T05:48:00+00:00",
-    "fetched": "2026-07-27T08:02:44+00:00",
-    "image": null
-  },
-  {
-    "id": "5cc708ecf25492ab",
-    "title": "На Майорці тисячі людей вийшли на протест проти масового туризму",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046030/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T05:35:00+00:00",
-    "fetched": "2026-07-27T08:02:44+00:00",
-    "image": null
-  },
-  {
-    "id": "c8bde11e876e33a6",
-    "title": "EU Fines Google $1.02B for Favoring Its Own Services",
-    "summary": "Article URL: https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb Comments URL: https://news.ycombinator.com/item?id=49065498 Points: 58 # Comments: 40",
-    "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T05:31:33+00:00",
-    "fetched": "2026-07-27T08:03:04+00:00",
-    "image": null
-  },
-  {
-    "id": "1ded557b25daf379",
-    "title": "ППО знешкодила 123 дрони, але є влучання на 10 локаціях",
-    "summary": "В ніч на 27 липня Росія атакувала 147 ударними БпЛА: ППО знешкодила 123 ворожі дрони, водночас є влучання на 10 локаціях та падіння уламків.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046029/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T05:29:00+00:00",
-    "fetched": "2026-07-27T08:02:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/c/881280/2c9d16e41902c54012cb564166693a3a.jpeg"
-  },
-  {
-    "id": "9ddfffe15174e0dd",
-    "title": "У російському Ростові пишуть про дим над портом після атаки дронів",
-    "summary": "В РФ після нічної атаки піднімається дим над Ростовським морським торговельним портом. Про це свідчить OSINT-аналіз пабліку ASTRA.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046027/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T05:10:00+00:00",
-    "fetched": "2026-07-27T08:02:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/881271/737fbe60349ba4577cf567234af8c740.jpeg"
   }
 ]
