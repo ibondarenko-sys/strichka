@@ -1,5 +1,53 @@
 [
   {
+    "id": "7800f94e5d01101b",
+    "title": "Унаслідок російського балістичного удару по Києву постраждала людина – КМВА",
+    "summary": "У ніч на 11 серпня російські війська завдали удару балістичними ракетами по Києву. Унаслідок атаки постраждала щонайменше одна людина.",
+    "url": "https://www.pravda.com.ua/news/2026/08/11/8048172/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T23:27:00+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/890002/9994297ca3868d17c0a3dc52761c53c7.jpeg"
+  },
+  {
+    "id": "13a16510a5f080ab",
+    "title": "Росіяни вдарили по Запоріжжю: є загиблі (оновлено)",
+    "summary": "Місто пережило комбіновану атаку паралельно зі столицею.",
+    "url": "https://lb.ua/society/2026/08/11/758114_rosiyani_vdarili_zaporizhzhyu_ie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T23:26:00+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://i.lb.ua/news/081/57/6a7a5e510c816.jpg"
+  },
+  {
+    "id": "50adf02637164c03",
+    "title": "World Train Map – 1247 train routes around the world",
+    "summary": "Article URL: https://worldtrainmap.com/ Comments URL: https://news.ycombinator.com/item?id=49250894 Points: 4 # Comments: 0",
+    "url": "https://worldtrainmap.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T22:42:14+00:00",
+    "fetched": "2026-08-10T23:39:10+00:00",
+    "image": "https://worldtrainmap.com/og.jpg?v=4"
+  },
+  {
+    "id": "62b52070c5a60428",
+    "title": "Google Search Is Dying. What Comes Next Is Worse",
+    "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 27 # Comments: 19",
+    "url": "https://thewalrus.ca/google-search-is-dying/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T22:36:30+00:00",
+    "fetched": "2026-08-10T23:39:10+00:00",
+    "image": null
+  },
+  {
     "id": "24cef45730a9a4ce",
     "title": "Падіння рівня води у Дунаї суттєво ускладнило український експорт",
     "summary": "Проблеми виникли саме тоді, коли чорноморський маршрут потребує альтернативи.",
@@ -24,6 +72,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/889999/524acf93b88f8911601fee3a53e0926a.jpeg"
   },
   {
+    "id": "5dd6b19cff3c0ffa",
+    "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+    "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+    "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T22:23:43+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg"
+  },
+  {
     "id": "76d8c34db995e007",
     "title": "Фейкові імена та вимкнені бодікамери: hromadske з'ясувало деталі затримання журналіста Шульгата",
     "summary": "Редакція hromadske дослідила обставини затримання свого колеги, журналіста-розслідувача Євгенія Шульгата, та виявила низку порушень з боку правоохоронців. Зокрема, під час затримання поліцейські назвалися несправжніми іменами, а їхні нагрудні камери були вимкнені. Редакція…",
@@ -34,6 +94,18 @@
     "published": "2026-08-10T22:14:00+00:00",
     "fetched": "2026-08-10T22:41:54+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/889997/718b3ecc2715102ac0b42e9afd3c1e7c.jpeg"
+  },
+  {
+    "id": "2d01a61a8baa64ee",
+    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T22:13:03+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg"
   },
   {
     "id": "638db6f13c0db00b",
@@ -70,6 +142,18 @@
     "published": "2026-08-10T21:53:00+00:00",
     "fetched": "2026-08-10T22:41:54+00:00",
     "image": "https://i.lb.ua/news/076/29/6a7a477a60607.jpg"
+  },
+  {
+    "id": "7d0a17b01861efa8",
+    "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+    "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
+    "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T21:42:56+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg"
   },
   {
     "id": "caba00f99900e97b",
@@ -118,6 +202,18 @@
     "published": "2026-08-10T21:27:00+00:00",
     "fetched": "2026-08-10T21:46:54+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/889996/d4a9313876200b89decc1182f046f8b9.jpeg"
+  },
+  {
+    "id": "884b17de544ac91b",
+    "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+    "summary": "A reminder of the perils of digital ownership.",
+    "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T21:26:38+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg"
   },
   {
     "id": "abf634c5f13b8fe0",
@@ -262,6 +358,18 @@
     "published": "2026-08-10T20:16:34+00:00",
     "fetched": "2026-08-10T20:48:58+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5647/live/b36560e0-94f5-11f1-9181-85140b8ce01b.jpg"
+  },
+  {
+    "id": "f104e949dc60c493",
+    "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+    "summary": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
+    "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T20:01:15+00:00",
+    "fetched": "2026-08-10T23:38:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-1152x648.jpg"
   },
   {
     "id": "108c8116e7994b49",
@@ -838,6 +946,18 @@
     "published": "2026-08-10T16:29:00+00:00",
     "fetched": "2026-08-10T17:27:05+00:00",
     "image": "https://i.lb.ua/news/019/62/6a79fc5887dec.jpg"
+  },
+  {
+    "id": "7bcacf9b76804dfe",
+    "title": "What's the best programming language for coding agents?",
+    "summary": "Related: Which programming languages are most token-efficient? - https://news.ycombinator.com/item?id=46582728 - Jan 2026 (91 comments) Comments URL: https://news.ycombinator.com/item?id=49245936 Points: 23 # Comments: 13",
+    "url": "http://danluu.com/pl-tokens/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T16:28:58+00:00",
+    "fetched": "2026-08-10T23:39:10+00:00",
+    "image": null
   },
   {
     "id": "2fc9da5a2e4fd7f0",
@@ -49150,161 +49270,5 @@
     "published": "2026-07-27T23:46:15+00:00",
     "fetched": "2026-07-28T00:57:02+00:00",
     "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "6d203aad89a0f42c",
-    "title": "Нафтові ринки зафіксували рекорд падіння ціни з квітня",
-    "summary": "Навіть тимчасове припинення бойових дій США проти Ірану обвалило вартість чорного золота.",
-    "url": "https://lb.ua/economics/2026/07/28/754966_naftovi_rinki_zafiksuvali_rekord.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T23:32:00+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://i.lb.ua/news/014/33/6a67ea40a692c.jpg"
-  },
-  {
-    "id": "5af6e2f9f9d1d4bc",
-    "title": "В окупованій Феодосії горить електропідстанція – соцмережі",
-    "summary": "У соцмережах повідомляють про пожежу в окупованій Феодосії, горить електропідстанція.",
-    "url": "https://www.pravda.com.ua/news/2026/07/28/8046173/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T23:30:00+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/e/882059/1e0f2d9cb4ee25b389109b87911a4394.jpeg"
-  },
-  {
-    "id": "31c4bff20b757c9c",
-    "title": "Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
-    "summary": "Article URL: https://trylle.com/home Comments URL: https://news.ycombinator.com/item?id=49076978 Points: 10 # Comments: 6",
-    "url": "https://trylle.com/home",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:26:15+00:00",
-    "fetched": "2026-07-28T04:16:42+00:00",
-    "image": "https://trylle.com/OG.png"
-  },
-  {
-    "id": "e70e771563ccf637",
-    "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-    "summary": "Article URL: https://www.dowe.dev Comments URL: https://news.ycombinator.com/item?id=49076975 Points: 16 # Comments: 19",
-    "url": "https://www.dowe.dev",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:26:05+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": null
-  },
-  {
-    "id": "e101693a009fb12d",
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "summary": "Article URL: https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349 Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 97 # Comments: 49",
-    "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:21:37+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": null
-  },
-  {
-    "id": "d73850e90da8405a",
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "summary": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sp... Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 207 # Comments: 159",
-    "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:21:37+00:00",
-    "fetched": "2026-07-28T04:16:42+00:00",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/netflix-exec-ketamine-firing-trust-exercise-comp.jpg?quality=75&strip=all&w=1200"
-  },
-  {
-    "id": "785290846d9b1358",
-    "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-    "summary": "Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/ Comments URL:…",
-    "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:19:19+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/06/astronauts-returning-from-six-month-miss.jpg"
-  },
-  {
-    "id": "86999a5f19dd2f12",
-    "title": "DConf 2026 in London",
-    "summary": "Article URL: https://dconf.org/2026/index.html Comments URL: https://news.ycombinator.com/item?id=49076840 Points: 38 # Comments: 9",
-    "url": "https://dconf.org/2026/index.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:14:19+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": "https://dconf.org/2026/images/logo-og.jpg"
-  },
-  {
-    "id": "0c4f8525923cee45",
-    "title": "C/C++ projects packaged for Zig",
-    "summary": "Article URL: https://github.com/allyourcodebase Comments URL: https://news.ycombinator.com/item?id=49076791 Points: 20 # Comments: 7",
-    "url": "https://github.com/allyourcodebase",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:09:50+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": "https://avatars.githubusercontent.com/u/146390816?s=280&v=4"
-  },
-  {
-    "id": "29464c01ebebb4c4",
-    "title": "Ворог вдарив по Сумщині КАБами і дронами: є потерпілі, триває рятувальна операція",
-    "summary": "У ніч на 28 липня росіяни вдарили по Сумщині КАБами і дронами.",
-    "url": "https://www.pravda.com.ua/news/2026/07/28/8046172/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T23:08:00+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/882058/f3a0291df9360953dccc1f390cba90d3.jpeg"
-  },
-  {
-    "id": "387bce16f0ee9ac8",
-    "title": "Kimi K3 Now Available via Telnyx Inference API",
-    "summary": "Moonshot AI released open weights for Kimi K3 today and it's live on Telnyx Inference. The architecture and Moonshot's own benchmarks are in their technical blog. This post is about running it on Telnyx. What we are adding: K3 is now available via the Telnyx Inference API,…",
-    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T22:46:28+00:00",
-    "fetched": "2026-07-28T07:16:44+00:00",
-    "image": "https://dotcom-payload-assets-prod.s3.us-east-1.amazonaws.com/cms-media/58db2ca1-0d1d-40c8-9ef5-a79897cb9ce9-a2f51d62.jpeg"
-  },
-  {
-    "id": "16c1579246457975",
-    "title": "Ціна на нафту знизилася, зафіксувавши найбільше падіння з квітня",
-    "summary": "Обвал ціни на нафту: зафіксували найбільше падіння з квітня.",
-    "url": "https://www.pravda.com.ua/news/2026/07/28/8046171/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T22:46:00+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/9/882055/09fcc36ee92c70d39078648f631ab5a0.jpeg"
-  },
-  {
-    "id": "ba8804ac1be41c22",
-    "title": "Два мільйони людей подивились фільм Крістофера Нолана \"Одіссея\" завдяки зливу в мережу X",
-    "summary": "У правовласників пішло близько 2,5 годин на те, щоб прибрати стрічку з вільного доступу.",
-    "url": "https://lb.ua/culture/2026/07/28/754964_dva_milyoni_lyudey_podivilis.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T22:45:00+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://i.lb.ua/news/022/42/6a67df5e44a94.jpg"
   }
 ]
