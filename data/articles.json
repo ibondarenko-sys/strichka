@@ -1,5 +1,89 @@
 [
   {
+    "id": "6d20ebd69fa6e08a",
+    "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
+    "summary": "Observatory says 36.9C posted on Sunday is city’s highest official temperature since its records began 142 years ago, with storm driving intense heat in region Hong Kong has officially recorded its highest ever temperature as Typhoon Dolphin swept warm air over the city, the…",
+    "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-10T01:24:13+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://i.guim.co.uk/img/media/7f3f1905457238e55fd967408caade46fd2ee195/458_0_4584_3669/master/4584.jpg?width=140&quality=85&auto=format&fit=max&s=748e278c68783aae8810664756726067"
+  },
+  {
+    "id": "a2c4ef267bac256c",
+    "title": "Росіяни скинули 5 КАБів на Суми: поранено п'ятеро людей",
+    "summary": "У ніч на 10 серпня російські війська завдали п'яти ударів керованими авіабомбами по цивільній інфраструктурі Сум, унаслідок чого поранення отримали щонайменше п'ятеро людей.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048017/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T01:07:00+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/9/889277/4908c72b0c61cf8e390fbe5c6ff6b94f.jpeg"
+  },
+  {
+    "id": "302ad6f0dba4ab5d",
+    "title": "How We Pushed CDC into Postgres",
+    "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49238050 Points: 16 # Comments: 0",
+    "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T01:01:34+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://www.snowflake.com/content/dam/snowflake-site/engineering-blog/featured-images/sf-eng-blog-ML-2.png"
+  },
+  {
+    "id": "ac1b178c9c378ada",
+    "title": "Japanese court overturns Red RAW video patent",
+    "summary": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/ Comments URL: https://news.ycombinator.com/item?id=49237873 Points: 19 # Comments: 3",
+    "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T00:36:24+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://www.dpreview.com/wp-content/uploads/2020/12/8323309263-V_RAPTOR_XL_Selects_Camera_w_Family_Bckgrnd.jpeg"
+  },
+  {
+    "id": "f48bfe94a92c865c",
+    "title": "Тайвань запозичує досвід України та створює флотилії дронів для захисту від Китаю – NYT",
+    "summary": "Тайвань активно вивчає український досвід ведення війни та прискорює розгортання флотилій повітряних і морських безпілотників для відбиття ймовірного військового вторгнення з Китаю.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048016/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T00:29:00+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/1/889275/d1ae755935af292b59aa15fa8bb1a8b5.jpeg"
+  },
+  {
+    "id": "4012db0a9ac6d668",
+    "title": "The Ambition Project",
+    "summary": "Article URL: https://www.betonit.ai/p/the-ambition-project Comments URL: https://news.ycombinator.com/item?id=49237407 Points: 4 # Comments: 0",
+    "url": "https://www.betonit.ai/p/the-ambition-project",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T23:36:05+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!IVW2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c08f49b-79f6-45ef-b5a7-4b0c8b82a796_1200x900.png"
+  },
+  {
+    "id": "dd0516463971cb34",
+    "title": "Evidence that South African special forces murdered top detective shared with BBC",
+    "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+    "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T23:05:29+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg"
+  },
+  {
     "id": "80c7423967f9bcf6",
     "title": "Виробники Patriot побоюються, що Україна вдосконалить і здешевить їхні ракети – ЗМІ",
     "summary": "Американські оборонні компанії Raytheon і Lockheed Martin побоюються, що Україна в разі отримання ліцензії зможе удосконалити зенітні ракети Patriot і виробляти їх швидше та значно дешевше за США.",
@@ -22,6 +106,18 @@
     "published": "2026-08-09T22:00:36+00:00",
     "fetched": "2026-08-09T23:35:41+00:00",
     "image": null
+  },
+  {
+    "id": "2ac0a996c9ad582c",
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 43 # Comments: 34",
+    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-09T21:52:23+00:00",
+    "fetched": "2026-08-10T02:08:28+00:00",
+    "image": "https://live-production.wcms.abc-cdn.net.au/0fd4a89f6e0120cc041f9019c03bda31?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=89&width=862&height=485&imformat=generic"
   },
   {
     "id": "6f33d7e9ee1f2153",
@@ -48982,113 +49078,5 @@
     "published": "2026-07-27T02:08:36+00:00",
     "fetched": "2026-07-27T11:52:47+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a66/live/d66cf590-8950-11f1-aee1-9f17574ebbb3.jpg"
-  },
-  {
-    "id": "dd9ff84622430260",
-    "title": "Далекобійні удари – це \"не справа однієї людини\" – Зеленський",
-    "summary": "Зеленський прокоментував звільнення Федорова, Сирського і удари вглиб Росії.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046022/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T01:58:00+00:00",
-    "fetched": "2026-07-27T04:22:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/881234/b2a57bf18a280d50ea01037d3d420786.jpeg"
-  },
-  {
-    "id": "144538d221d755aa",
-    "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-    "summary": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-27T01:35:51+00:00",
-    "fetched": "2026-07-27T04:22:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/93560670-8955-11f1-ab9e-df08bae98609.jpg"
-  },
-  {
-    "id": "86ff5fb7061d2a49",
-    "title": "Зеленський про кадрові рішення в оборонному секторі: Є речі, з якими не можна впоратися \"з одного боку\"",
-    "summary": "Президент України Володимир Зеленський в інтерв'ю для Sky News розповів про кадрові рішення в оборонному секторі, які, за його словами, були зумовлені необхідністю усунути проблеми у взаємодії між Міністерством оборони та командуванням армії, а також забезпечити єдність у…",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046021/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T01:18:00+00:00",
-    "fetched": "2026-07-27T04:22:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/881233/e1b80fa058674dc3781fcacc0be6b666.jpeg"
-  },
-  {
-    "id": "c4e62024fac6dfa7",
-    "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-    "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-    "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-27T00:27:58+00:00",
-    "fetched": "2026-07-27T04:22:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg"
-  },
-  {
-    "id": "5a3d4e2355defbc8",
-    "title": "Прем’єр Британії передасть Зеленському в понеділок права на технології Stone Cloak – ЗМІ",
-    "summary": "Прем'єр-міністр Британії Енді Бернем має намір прийняти в понеділок президента України Володимира Зеленського і оголосить про передачу Британією прав інтелектуальної власності на систему радіоелектронної боротьби Stone Cloak.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046020/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T00:22:00+00:00",
-    "fetched": "2026-07-27T04:22:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/5/881230/e56ee215bb458967c5a6821d24f7d4b5.jpeg"
-  },
-  {
-    "id": "f3972832c2c9f341",
-    "title": "PGSimCity - How PostgreSQL Works",
-    "summary": "Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 238 # Comments: 32",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T00:19:04+00:00",
-    "fetched": "2026-07-27T04:23:01+00:00",
-    "image": "https://nikolays.github.io/PGSimCity/og.png"
-  },
-  {
-    "id": "2574034f51776bfa",
-    "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-    "summary": "Hi HN, Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple numbers to describe which process to connect to? Why not…",
-    "url": "https://portzero.net/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T00:03:48+00:00",
-    "fetched": "2026-07-27T04:23:01+00:00",
-    "image": "https://portzero.net/og.png"
-  },
-  {
-    "id": "8aecd307d6ed395a",
-    "title": "Пентагон змінив принцип підрахунку загиблих військових США у війні з Іраном – ЗМІ",
-    "summary": "Чотири американські військовослужбовці, які загинули під час поновлення бойових дій між США та Іраном протягом останніх тижнів, більше не враховуються в офіційному підрахунку жертв Пентагону як загиблі у війні з Іраном, а були віднесені до нової, окремої категорії.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046019/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-26T23:56:00+00:00",
-    "fetched": "2026-07-27T00:04:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/3/881223/3310e7ee8c1c2cbe39c5dc63eafa4a43.jpeg"
-  },
-  {
-    "id": "89cb52005508f3c7",
-    "title": "Fonts In Use – Find out where a font is used",
-    "summary": "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 31 # Comments: 1",
-    "url": "https://fontsinuse.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-26T23:45:09+00:00",
-    "fetched": "2026-07-27T04:23:01+00:00",
-    "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=b5d089ea"
   }
 ]
