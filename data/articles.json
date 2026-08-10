@@ -1,5 +1,77 @@
 [
   {
+    "id": "24cef45730a9a4ce",
+    "title": "Падіння рівня води у Дунаї суттєво ускладнило український експорт",
+    "summary": "Проблеми виникли саме тоді, коли чорноморський маршрут потребує альтернативи.",
+    "url": "https://lb.ua/economics/2026/08/11/758112_padinnya_rivnya_vodi_dunayi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T22:32:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
+    "image": "https://i.lb.ua/news/124/49/6a7a5196982ad.jpg"
+  },
+  {
+    "id": "b8df156718215c51",
+    "title": "Росіяни масовано атакували Запоріжжя ракетами та КАБами: 9 поранених, є пожежі та знеструмлення",
+    "summary": "Уніч на 11 серпня російські окупаційні війська завдали масованого комбінованого удару по Запоріжжю, застосувавши балістичні ракети та керовані авіабомби. У результаті атаки щонайменше двоє людей дістали поранення, у місті виникли пожежі та знеструмлення.",
+    "url": "https://www.pravda.com.ua/news/2026/08/11/8048171/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T22:32:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/889999/524acf93b88f8911601fee3a53e0926a.jpeg"
+  },
+  {
+    "id": "76d8c34db995e007",
+    "title": "Фейкові імена та вимкнені бодікамери: hromadske з'ясувало деталі затримання журналіста Шульгата",
+    "summary": "Редакція hromadske дослідила обставини затримання свого колеги, журналіста-розслідувача Євгенія Шульгата, та виявила низку порушень з боку правоохоронців. Зокрема, під час затримання поліцейські назвалися несправжніми іменами, а їхні нагрудні камери були вимкнені. Редакція…",
+    "url": "https://www.pravda.com.ua/news/2026/08/11/8048170/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T22:14:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/889997/718b3ecc2715102ac0b42e9afd3c1e7c.jpeg"
+  },
+  {
+    "id": "638db6f13c0db00b",
+    "title": "Mark Zuckerberg doesn’t understand how to live",
+    "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise.…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T22:00:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mGK9aQV9PSH0sYLdbPT57YrtzOZ75R-5y41nH9iZqB0.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ffa93d2585be9fa1",
+    "title": "Податкова викрила схеми штучного дроблення бізнесу: втрати бюджету сягають 1,7 млрд гривень",
+    "summary": "Серед порушників - понад 500 брендів і торговельних марок.",
+    "url": "https://lb.ua/economics/2026/08/11/758110_podatkova_vikrila_shemi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T21:57:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
+    "image": "https://i.lb.ua/news/023/60/6a7a4843e1192.jpg"
+  },
+  {
+    "id": "c7ebbed5a047d497",
+    "title": "В Естонії розвалилась парламентська коаліція: до виборів 7 місяців",
+    "summary": "Вихід двох депутатів зі своїх фракцій залишив вже колишню більшість без потрібних голосів.",
+    "url": "https://lb.ua/world/2026/08/11/758106_estoniyi_rozvalilas_parlamentska.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T21:53:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
+    "image": "https://i.lb.ua/news/076/29/6a7a477a60607.jpg"
+  },
+  {
     "id": "caba00f99900e97b",
     "title": "Росіяни атакують Київ балістикою: пролунали вибухи",
     "summary": "Черговий обстріл розпочався близько 00:30.",
@@ -9,6 +81,18 @@
     "lang": "uk",
     "published": "2026-08-10T21:32:00+00:00",
     "fetched": "2026-08-10T21:46:54+00:00",
+    "image": "https://i.lb.ua/news/006/23/6a7a4538bfd16.jpg"
+  },
+  {
+    "id": "049793d4dda01619",
+    "title": "Росіяни атакували Київ балістикою: пролунали вибухи (доповнено)",
+    "summary": "Черговий обстріл розпочався близько 00:30.",
+    "url": "https://lb.ua/society/2026/08/11/758108_rosiyani_atakuvali_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T21:32:00+00:00",
+    "fetched": "2026-08-10T22:41:54+00:00",
     "image": "https://i.lb.ua/news/006/23/6a7a4538bfd16.jpg"
   },
   {
@@ -106,6 +190,18 @@
     "published": "2026-08-10T20:59:00+00:00",
     "fetched": "2026-08-10T21:46:54+00:00",
     "image": "https://i.lb.ua/news/109/59/6a7a3bb3528a3.jpg"
+  },
+  {
+    "id": "66693945a5fbd15b",
+    "title": "Confessions of a Long-Distance Sailor",
+    "summary": "Article URL: https://arachnoid.com/lutusp/sailbook.html Comments URL: https://news.ycombinator.com/item?id=49249555 Points: 14 # Comments: 3",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T20:52:55+00:00",
+    "fetched": "2026-08-10T22:41:56+00:00",
+    "image": null
   },
   {
     "id": "3dbffbe73ac0a2e3",
@@ -1474,6 +1570,18 @@
     "published": "2026-08-10T14:18:00+00:00",
     "fetched": "2026-08-10T14:37:18+00:00",
     "image": "https://i.lb.ua/news/062/06/6a79ddc13ae39.jpg"
+  },
+  {
+    "id": "d02017f839afb36d",
+    "title": "Show HN: Open-Source Greptile Alternative",
+    "summary": "Article URL: https://github.com/Juror-AI/juror Comments URL: https://news.ycombinator.com/item?id=49244029 Points: 6 # Comments: 1",
+    "url": "https://github.com/Juror-AI/juror",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T14:17:13+00:00",
+    "fetched": "2026-08-10T22:41:56+00:00",
+    "image": "https://opengraph.githubassets.com/dbad6fb8a8cbf4c1ab7fda7403cea71a30ac77eabf34df451105ce702b0c08c9/Juror-AI/juror"
   },
   {
     "id": "02f56bfa8b884e2d",
@@ -49198,125 +49306,5 @@
     "published": "2026-07-27T22:45:00+00:00",
     "fetched": "2026-07-27T23:07:49+00:00",
     "image": "https://i.lb.ua/news/022/42/6a67df5e44a94.jpg"
-  },
-  {
-    "id": "6e826bcb66ff2fb9",
-    "title": "Benchmarking Opus 5 on SlopCodeBench",
-    "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 73 # Comments: 16",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T22:37:52+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": "https://opengraph.githubassets.com/70fc1a3d6fbe9c80144cfc4dfc84e281cd87e679e77bbd09a199d18306849aa6/humanlayer/advanced-context-engineering-for-coding-agents"
-  },
-  {
-    "id": "77557528845950f6",
-    "title": "Hard Road – A beautiful procedural post-apocalyptic game",
-    "summary": "Article URL: https://hardroad.xyz/ Comments URL: https://news.ycombinator.com/item?id=49076382 Points: 26 # Comments: 7",
-    "url": "https://hardroad.xyz/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T22:36:55+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": null
-  },
-  {
-    "id": "28f6dc5441a18c6c",
-    "title": "Трамп планує зустрічі із Зеленським та Нетаньягу в один день",
-    "summary": "Господар Білого дому говоритими з двома різними лідерами в різний час про дві різні війни.",
-    "url": "https://lb.ua/news/2026/07/28/754962_tramp_planuie_zustrichi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T22:18:00+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://i.lb.ua/news/015/24/6a67d7e6bd512.jpg"
-  },
-  {
-    "id": "115deccb6b910b90",
-    "title": "X Money is launching in the US starting today",
-    "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X…",
-    "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T22:10:18+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "2764d896294136c0",
-    "title": "A Japanese town wrestles with identity after protests over its first mosque",
-    "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-    "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-27T22:08:21+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ab/live/e671d390-89a3-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "b256bb7155863727",
-    "title": "China's new challenge as natural disasters strike - fake AI videos",
-    "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-    "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-27T22:07:23+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"
-  },
-  {
-    "id": "80d8760fd0f40ab2",
-    "title": "Our position on open-weights models",
-    "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 176 # Comments: 157",
-    "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T22:03:49+00:00",
-    "fetched": "2026-07-27T23:07:53+00:00",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png"
-  },
-  {
-    "id": "b80c461159b45fde",
-    "title": "Карнаух: ДПС працює над тим, щоб більше громад запровадили туристичний збір",
-    "summary": "За словами очільниці, це ті кошти, які йдуть на розвиток громад.",
-    "url": "https://lb.ua/economics/2026/07/28/754960_karnauh_dps_pratsyuie_nad_tim.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T21:57:00+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://i.lb.ua/news/032/61/6a67d380278cf.jpg"
-  },
-  {
-    "id": "7b818cd68cd5f7ab",
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T21:56:14+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
-  },
-  {
-    "id": "aaa2bb6d5c0518e4",
-    "title": "Американського сенатора Макконнелла виписали з лікарні",
-    "summary": "Стан здоров'я республіканця був предметом постійних спекуляцій.",
-    "url": "https://lb.ua/world/2026/07/28/754958_amerikanskogo_senatora.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T21:47:00+00:00",
-    "fetched": "2026-07-27T23:07:49+00:00",
-    "image": "https://i.lb.ua/news/075/13/6a67d22e38085.jpg"
   }
 ]
