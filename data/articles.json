@@ -1,5 +1,173 @@
 [
   {
+    "id": "832172e6904795c9",
+    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+    "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+    "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-10T18:19:41+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3520/live/5abf3640-94dd-11f1-b2ab-0dd01740f9f6.jpg"
+  },
+  {
+    "id": "2e93e8292c15b76c",
+    "title": "Зеленський: РФ отримала нову балістику і готується розмістити додатковий контингент від КНДР",
+    "summary": "Президент України Володимир Зеленський заявив 10 серпня, що РФ отримала від КНДР додаткову балістику і планує розмістити на своїй території додатковий контингент.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048155/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T18:19:00+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/889918/a121dab8ffef7589749d38ad1fe78c73.jpeg"
+  },
+  {
+    "id": "14167d7b569190a0",
+    "title": "Росіяни убили 3 людей на Синельниківщині – прокуратура",
+    "summary": "Російські удари по Синельниківському району: троє загиблих, серед поранених – дитина, пошкоджено будинки та інфраструктуру.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048154/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T18:19:00+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/889917/31c7e023457913c93052fa5589f1b0ca.jpeg"
+  },
+  {
+    "id": "dfa19f370f1ebae8",
+    "title": "Росія отримала додаткову балістику від Північної Кореї",
+    "summary": "Також на території РФ готуються розмістити додатковий контингент корейців.",
+    "url": "https://lb.ua/society/2026/08/10/758078_rosiya_otrimala_dodatkovu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T18:18:00+00:00",
+    "fetched": "2026-08-10T18:25:43+00:00",
+    "image": "https://i.lb.ua/news/076/19/6a7a15dee81b9.jpg"
+  },
+  {
+    "id": "a1eedfae13afb3fb",
+    "title": "«ПриватПідписка», перезапуск MySpace та доступ до платформи Avengers Labs. Підсумки 10 серпня",
+    "summary": "AIN підсумовує головні технологічні та бізнесові новини 10 серпня.",
+    "url": "https://ain.ua/2026/08/10/golovne-za-den-10082026/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-10T18:00:00+00:00",
+    "fetched": "2026-08-10T18:25:43+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-10/AKZAJzSQBhsGZKzsJElVd0cWWnyefhq7uLuxVPDS.webp"
+  },
+  {
+    "id": "09e5dfe810b2a970",
+    "title": "На Одещині втрачено винищувач МіГ-29 Повітряних Сил ЗСУ: пілот катапультувався",
+    "summary": "Під час пуску авіаракети сталась нештатна ситуація, внаслідок чого літак загорівся.",
+    "url": "https://lb.ua/society/2026/08/10/758074_odeschini_vtracheno_vinischuvach.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T17:57:00+00:00",
+    "fetched": "2026-08-10T18:25:43+00:00",
+    "image": "https://i.lb.ua/news/107/02/6a7a11076df3e.jpg"
+  },
+  {
+    "id": "f7358b3b76b09c96",
+    "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+    "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+    "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-10T17:50:29+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4fc/live/e95d8e40-94da-11f1-8a7b-e7300179227e.jpg"
+  },
+  {
+    "id": "eb49724fd07b2e81",
+    "title": "У Британії – масштабні посухи, мільйони людей зіштовхнулися з обмеженнями у водовикористанні",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048151/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T17:49:00+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/8/c/8cdea75-5000--3-.jpg"
+  },
+  {
+    "id": "1f99c5bfcf5c6422",
+    "title": "У Росії єдину антивоєнну партію \"Яблуко\" зняли з виборів через суд",
+    "summary": "Партію \"Яблуко\" зняли з виборів до Держдуми РФ за рішенням суду. Це була єдина антивоєнна партія у бюлетені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048149/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T17:48:00+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/c/889894/7cd4ea9d0c4aafd5135459c15d9c2538.jpeg"
+  },
+  {
+    "id": "8fe49383ad888f60",
+    "title": "Український МіГ-29 зазнав катастрофи на Одещині: пілот катапультувався",
+    "summary": "Під час виконання бойового завдання ввечері 10 серпня на Одещині було втрачено винищувач МіГ-29 українських Повітряних сил, пілот вижив.",
+    "url": "https://www.pravda.com.ua/news/2026/08/10/8048150/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T17:43:00+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/889893/87d0b00349f00b70e08c79b9477f8cab.jpeg"
+  },
+  {
+    "id": "0b2744e224d2a974",
+    "title": "Learning more about Claude's mathematical capabilities",
+    "summary": "Article URL: https://www.anthropic.com/research/riemann-zeta Comments URL: https://news.ycombinator.com/item?id=49247070 Points: 24 # Comments: 5",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T17:41:13+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg"
+  },
+  {
+    "id": "2a9e6008c8c375a5",
+    "title": "У Відні викрили міжнародну мережу, яка постачала обладнання для російського оборонпрому",
+    "summary": "Для прикриття постачань зловмисники використовували підставні фірми у Туреччині, ОАЕ, Гонконгу, Білорусі, Киргизстані, Південній Кореї, Польщі й Литві.",
+    "url": "https://lb.ua/world/2026/08/10/758068_vidni_vikrili_mizhnarodnu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T17:40:00+00:00",
+    "fetched": "2026-08-10T18:25:43+00:00",
+    "image": "https://i.lb.ua/news/090/08/6a7a0cfec8877.jpg"
+  },
+  {
+    "id": "a87589aa099bb986",
+    "title": "Зеленський анонсував посилення спроможностей РНБО",
+    "summary": "Президент погодив відповідні організаційні та кадрові рішення.",
+    "url": "https://lb.ua/news/2026/08/10/758070_zelenskiy_anonsuvav_posilennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-10T17:31:00+00:00",
+    "fetched": "2026-08-10T18:25:43+00:00",
+    "image": "https://i.lb.ua/news/067/51/6a7a0aeb59f87.jpg"
+  },
+  {
+    "id": "f4a8da48945f1915",
+    "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+    "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches,…",
+    "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T17:30:00+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/videoframe_17597.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "adfd46840920731f",
     "title": "YouTube is making it harder to earn money on YouTube",
     "summary": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a…",
@@ -22,6 +190,18 @@
     "published": "2026-08-10T17:13:00+00:00",
     "fetched": "2026-08-10T17:27:05+00:00",
     "image": "https://i.lb.ua/news/018/01/6a7a06c2d5722.jpg"
+  },
+  {
+    "id": "0bc9cb9bb312477f",
+    "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+    "summary": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
+    "url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T17:07:47+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-1152x648.jpg"
   },
   {
     "id": "ab955e7c1e57fcf7",
@@ -94,6 +274,18 @@
     "published": "2026-08-10T16:40:00+00:00",
     "fetched": "2026-08-10T17:27:05+00:00",
     "image": "https://i.lb.ua/news/059/32/6a79fe7c89ece.jpg"
+  },
+  {
+    "id": "6b286787d74155c0",
+    "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+    "summary": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
+    "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T16:37:08+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-1152x648.jpg"
   },
   {
     "id": "81b9df15bba4bcc9",
@@ -228,6 +420,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/b/889801/8b6cf3553f50ecd3dec1fd8c047d964b.jpeg"
   },
   {
+    "id": "fa72e9ffca5a8e93",
+    "title": "Valve slowly expands SteamOS support on non-Valve hardware",
+    "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
+    "url": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T16:01:04+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-1152x648.jpg"
+  },
+  {
     "id": "4e9899f651e9b74c",
     "title": "Спікер польського Сейму закликав Україну визнати події на Волині геноцидом задля вступу в ЄС",
     "summary": "Спікер польського Сейму Влодзімеж Чажастий заявив, що Україна має визнати Волинську трагедію 1943–1944 років геноцидом поляків для вступу в Європейський Союз.",
@@ -346,6 +550,18 @@
     "published": "2026-08-10T15:49:47+00:00",
     "fetched": "2026-08-10T16:02:48+00:00",
     "image": "https://i.guim.co.uk/img/media/e69966377a5fb5d9366de0a4bc74959c781a50c1/0_241_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=d25d910349df220a7bfa2046655f3e38"
+  },
+  {
+    "id": "091d908b075684c8",
+    "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+    "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+    "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T15:44:45+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay.jpeg"
   },
   {
     "id": "645813a3d0fb08eb",
@@ -778,6 +994,18 @@
     "published": "2026-08-10T14:21:00+00:00",
     "fetched": "2026-08-10T14:37:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/889759/6934ed23872f5d97d374684a70921c62.jpeg"
+  },
+  {
+    "id": "dd7301ba918ae5a7",
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 28 # Comments: 5",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T14:20:41+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!D2DT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26fc9064-a2dd-417b-99e2-c57b5180e3c6_1932x1073.png"
   },
   {
     "id": "4152215b50c3a67e",
@@ -5496,6 +5724,18 @@
     "image": "https://marketnow.site/og-image.png"
   },
   {
+    "id": "a8b80cf19b4c7d1b",
+    "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+    "summary": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+    "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T03:00:44+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5c/live/cf1020a0-909a-11f1-b45c-fde20a4c7ffe.jpg"
+  },
+  {
     "id": "a4026213a3535c70",
     "title": "Війна і ЗМІ",
     "summary": "До війни я працював на телебаченні. І коли йшов до армії – саме ТБ було осередком усього політичного.",
@@ -5578,6 +5818,18 @@
     "published": "2026-08-09T01:23:36+00:00",
     "fetched": "2026-08-09T03:59:24+00:00",
     "image": "https://theoremdb.org/og.png?v=20260801-theoremdb-site"
+  },
+  {
+    "id": "db5694b8467d014e",
+    "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+    "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+    "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-09T01:10:50+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/08a29290-927f-11f1-9985-cdf6a137096d.jpg"
   },
   {
     "id": "ef46700b353fd67f",
@@ -6034,6 +6286,18 @@
     "published": "2026-08-08T19:16:00+00:00",
     "fetched": "2026-08-08T19:33:41+00:00",
     "image": "https://i.lb.ua/news/048/26/6a778077cc736.jpg"
+  },
+  {
+    "id": "119065f421890e4b",
+    "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+    "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+    "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-08T19:00:22+00:00",
+    "fetched": "2026-08-10T18:25:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png"
   },
   {
     "id": "2fba6ac7bddf35e6",
@@ -49126,185 +49390,5 @@
     "published": "2026-07-27T18:26:59+00:00",
     "fetched": "2026-07-27T18:56:43+00:00",
     "image": null
-  },
-  {
-    "id": "860f9a0d680b15b0",
-    "title": "Bytecode-to-Source Mapping",
-    "summary": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/ Comments URL: https://news.ycombinator.com/item?id=49073665 Points: 14 # Comments: 1",
-    "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T18:25:21+00:00",
-    "fetched": "2026-07-27T20:26:26+00:00",
-    "image": "https://tidefield.dev/images/bytecode-vm-source-lines.png"
-  },
-  {
-    "id": "be2871e8209f42e0",
-    "title": "Російський ударний безпілотник влучив у цивільну автівку в Харкові",
-    "summary": "Є постраждалі.",
-    "url": "https://lb.ua/society/2026/07/27/754934_rosiyskiy_udarniy_bezpilotnik.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T18:23:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://i.lb.ua/news/075/45/6a67a20fce7c6.jpg"
-  },
-  {
-    "id": "1a9de0ec33a81ee2",
-    "title": "На Донеччині внаслідок російських атак загинули четверо людей, ще 18 поранені",
-    "summary": "Російська армія протягом дня завдала ударів по кількох містах і селах Донеччини. Внаслідок атак загинули четверо цивільних, ще 18 людей, зокрема 11-місячна дитина, постраждали.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046154/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T18:18:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/881940/38fae076717c2591ba158f757ea76ed4.jpeg"
-  },
-  {
-    "id": "2b8c164e3bdb5cc1",
-    "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-    "summary": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/ Comments URL: https://news.ycombinator.com/item?id=49073513 Points: 89 # Comments: 15",
-    "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T18:15:35+00:00",
-    "fetched": "2026-07-27T20:26:26+00:00",
-    "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
-  },
-  {
-    "id": "9ee363e17b700ba2",
-    "title": "В соцмережі Х заблокували фейковий акаунт Головнокомандувача ЗСУ Михайла Драпатого",
-    "summary": "Раніше на цій сторінці поширювали фейки від його імені.",
-    "url": "https://lb.ua/society/2026/07/27/754932_sotsmerezhi_h_zablokuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T18:15:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://i.lb.ua/news/029/62/6a67a06447f9b.jpg"
-  },
-  {
-    "id": "b2681852fa185831",
-    "title": "В ЦПК назвали імена осіб, причетних до імовірної схеми розкрадання держсекретарем МЗС",
-    "summary": "Стало відомо, хто саме отримав підозри від НАБУ та САП у справі про незаконне заволодіння понад 37 млн грн від іноземних громадян та донорів, призначених на підтримку України на початку повномасштабного вторгнення Росії, – схемі, яку організував ексдержсекретар МЗС.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046152/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T18:02:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/c/7/c76fd2d-w77qcusp22tycogzuukm60jrpapochqjtr2thttz.jpeg"
-  },
-  {
-    "id": "4a5fc3d6747f7d19",
-    "title": "\"Я запитаю про це Путіна\": Трамп відреагував на заяву Зеленського про допомогу РФ Ірану",
-    "summary": "Президент США Дональд Трамп заявив, що з'ясує, чи передає Росія Ірану допомогу для війни зі США, і для цього планує поговорити з Володимиром Путіним.",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046150/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T18:01:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/e/881933/5e0a0ad59c78147aac399ccaa8e64605.jpeg"
-  },
-  {
-    "id": "759013de05c9c0ec",
-    "title": "ШІ-система «Марічка» в ЗСУ, розробка FREYJA та вихід S.T.A.L.K.E.R. 2 «Ціна надії». Підсумки 27 липня",
-    "summary": "AIN підсумовує головні технологічні та бізнесові новини 27 липня.",
-    "url": "https://ain.ua/2026/07/27/golovne-za-den-27072026/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-07-27T18:00:00+00:00",
-    "fetched": "2026-07-27T18:56:44+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-07-27/PfDtcwkwj18zkABSvTN19EJFNLakfgtAm49EUUhS.webp"
-  },
-  {
-    "id": "0df588652c3159e4",
-    "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
-    "summary": "Article URL: https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/ Comments URL: https://news.ycombinator.com/item?id=49073267 Points: 15 # Comments: 2",
-    "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T17:56:20+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://cdn.mos.cms.futurecdn.net/kHuY4jFFVYqZxzAx2bbAdn-1920-80.jpg"
-  },
-  {
-    "id": "7d99ab213cd404db",
-    "title": "Мінкульт та Мінфін розроблять механізм державної підтримки книговидавничої галузі",
-    "summary": "Лише за липень знищено 1,5 млн примірників українських книжок.",
-    "url": "https://lb.ua/economics/2026/07/27/754928_minkult_minfin_rozroblyat.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T17:56:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://i.lb.ua/news/030/52/6a679bee9ad2f.jpg"
-  },
-  {
-    "id": "cf8bf52bedf4d8ae",
-    "title": "Індія викликала посла України через загибель моряка після ураження судна в Чорному морі, – Bloomberg",
-    "summary": "МЗС Індії викликало посла України після загибелі індійського моряка.",
-    "url": "https://lb.ua/world/2026/07/27/754930_indiya_viklikala_posla_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T17:55:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://i.lb.ua/news/106/33/6a679b3c8bb13.jpg"
-  },
-  {
-    "id": "6aca9a17effde6b7",
-    "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-    "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-    "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-27T17:50:42+00:00",
-    "fetched": "2026-07-27T18:56:42+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846e/live/d5f99f40-89dd-11f1-b8ee-9b3c26ad07bb.jpg"
-  },
-  {
-    "id": "8bd5cb7af64f3da6",
-    "title": "Відмовлявся показати документи – у поліції пояснили, чому відвезли журналіста до ТЦК",
-    "summary": "У поліції прокоментували затримання журналіста Hromadske. Кажуть, чоловік не хотів показати документи, тому його доставили до ТЦК для уточнення військово-облікових даних",
-    "url": "https://www.pravda.com.ua/news/2026/07/27/8046147/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T17:50:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/7/881926/677d5357ce29807a6618ea9456534618.jpeg"
-  },
-  {
-    "id": "4b166ab9e016145f",
-    "title": "Трамп запитає Путіна про можливу передачу РФ Ірану супутникових даних про бази США",
-    "summary": "\"Ми скоро дізнаємося про це. Я запитаю про це у Путіна\".",
-    "url": "https://lb.ua/world/2026/07/27/754926_tramp_zapitaie_putina_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T17:42:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://i.lb.ua/news/072/46/6a679c97684f2.jpg"
-  },
-  {
-    "id": "1cce11ae4bec9dfb",
-    "title": "Зеленський під час візиту до Великої Британії зустрівся з українськими та британськими моряками (доповнено)",
-    "summary": "Вони лише завершили спільні багатонаціональні навчання Sea Breeze.",
-    "url": "https://lb.ua/news/2026/07/27/754924_zelenskiy_pid_chas_vizitu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T17:41:00+00:00",
-    "fetched": "2026-07-27T18:56:43+00:00",
-    "image": "https://i.lb.ua/news/040/36/6a6795063153c.jpg"
   }
 ]
