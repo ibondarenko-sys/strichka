@@ -1,5 +1,65 @@
 [
   {
+    "id": "d2e9b650d70bbd20",
+    "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+    "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a…",
+    "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T22:36:35+00:00",
+    "fetched": "2026-08-11T22:49:09+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "54423e9888cbed6b",
+    "title": "Прем'єр Грузії відкинув відновлення дипломатичних зв'язків з Росією",
+    "summary": "Проросійський політик бодай у цьому має принципову позицію.",
+    "url": "https://lb.ua/world/2026/08/12/758350_premier_gruziyi_vidkinuv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T22:25:00+00:00",
+    "fetched": "2026-08-11T22:49:09+00:00",
+    "image": "https://i.lb.ua/news/037/09/6a7ba199c9e00.jpg"
+  },
+  {
+    "id": "d3d376b5ab285e3b",
+    "title": "Проблеми з пальним охопили 16 регіонів Росії – ЗМІ",
+    "summary": "РосЗМІ повідомляють про проблеми з паливом у 16 регіонах РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/12/8048313/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T22:22:00+00:00",
+    "fetched": "2026-08-11T22:49:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/890482/84d58f9ad0ae0d3d09f9de9834986707.jpeg"
+  },
+  {
+    "id": "c5d1a59db255a34f",
+    "title": "Львів'янин постане перед судом за незаконне перевезення техніки Apple на 35 млн гривень",
+    "summary": "Митники виявили в сховку автомобіля 819 одиниць техніки.",
+    "url": "https://lb.ua/society/2026/08/12/758348_lvivyanin_postane_pered_sudom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T22:00:00+00:00",
+    "fetched": "2026-08-11T22:49:09+00:00",
+    "image": "https://i.lb.ua/news/071/27/6a7b9bc75f85a.jpg"
+  },
+  {
+    "id": "e9cb2f748d97ce43",
+    "title": "WorldClaw Agentic 3D open-world generation at scale",
+    "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ Comments URL: https://news.ycombinator.com/item?id=49265051 Points: 11 # Comments: 2",
+    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T21:56:18+00:00",
+    "fetched": "2026-08-11T22:49:10+00:00",
+    "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg"
+  },
+  {
     "id": "25079586312f5eac",
     "title": "Ліван першим на Близькому Сході скасував смертну кару",
     "summary": "З 2004 року найвищий ступінь покарання вже практично не застосовувався.",
@@ -22,6 +82,18 @@
     "published": "2026-08-11T21:30:00+00:00",
     "fetched": "2026-08-11T21:53:41+00:00",
     "image": "https://i.lb.ua/news/112/15/6a7b947f97938.jpg"
+  },
+  {
+    "id": "80d4856154d8fa4d",
+    "title": "Suzanne: AI tool for designing and manufacturing physical products",
+    "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 8 # Comments: 6",
+    "url": "https://www.suzanne3d.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T21:28:26+00:00",
+    "fetched": "2026-08-11T22:49:10+00:00",
+    "image": "https://suzanne3d.com/favicon.png"
   },
   {
     "id": "4a1e62c67dd30fd5",
@@ -60,6 +132,30 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25475375/DSCF7410.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "fcb250e785865291",
+    "title": "Russian drones found near vital European offshore gas site, get blown up",
+    "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+    "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T21:20:11+00:00",
+    "fetched": "2026-08-11T22:49:09+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png"
+  },
+  {
+    "id": "ea88abba61625109",
+    "title": "Emergent Introspective Awareness in Large Language Models",
+    "summary": "Article URL: https://arxiv.org/abs/2601.01828 Comments URL: https://news.ycombinator.com/item?id=49264583 Points: 9 # Comments: 2",
+    "url": "https://arxiv.org/abs/2601.01828",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T21:14:10+00:00",
+    "fetched": "2026-08-11T22:49:10+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
     "id": "47697f5aaf71f6e0",
     "title": "На Мальті через виверження Етни почалися проблеми з авіасполученням",
     "summary": "Вулканічний попіл обмежує рух літаків.",
@@ -72,6 +168,18 @@
     "image": "https://i.lb.ua/news/011/04/6a7b8ea5835af.jpg"
   },
   {
+    "id": "d717af62f3980f0f",
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T20:59:52+00:00",
+    "fetched": "2026-08-11T22:49:09+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
+  },
+  {
     "id": "a1c13fcc340ae134",
     "title": "Головне за вівторок, 11 серпня: 185 бойових зіткнень, удар по ринку Слов’янська, атака КАБами на Суми",
     "summary": "Бойові дії на Донеччині, 185 бойових зіткнень, ворожі обстріли, пришвидшення інфляції. Яким запам’ятається 1630-й день повномасштабної війни.",
@@ -82,6 +190,18 @@
     "published": "2026-08-11T20:59:00+00:00",
     "fetched": "2026-08-11T21:53:41+00:00",
     "image": "https://i.lb.ua/news/112/59/6a7b8e0cca8c2.jpg"
+  },
+  {
+    "id": "8f6d2cc21548eb93",
+    "title": "The 19th-Century Family Fortunes Funding Degrowth",
+    "summary": "Article URL: https://www.effort.news/p4ne Comments URL: https://news.ycombinator.com/item?id=49264352 Points: 12 # Comments: 5",
+    "url": "https://www.effort.news/p4ne",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T20:56:00+00:00",
+    "fetched": "2026-08-11T22:49:10+00:00",
+    "image": "https://www.effort.news/images/article-graphics/p4ne/p4ne-founders-cover.png"
   },
   {
     "id": "25809d3aff130c2f",
@@ -754,6 +874,18 @@
     "published": "2026-08-11T17:02:59+00:00",
     "fetched": "2026-08-11T18:28:48+00:00",
     "image": "https://guessingheadlights.com/wp-content/uploads/2026/08/Guessing-Headlights-Viral-89.png"
+  },
+  {
+    "id": "c13f3e133eab6460",
+    "title": "RSI Simulator",
+    "summary": "https://www.paradigm.xyz/research/rsi/game Comments URL: https://news.ycombinator.com/item?id=49261192 Points: 12 # Comments: 5",
+    "url": "https://www.paradigm.xyz/writing/rsi-simulator",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T17:01:21+00:00",
+    "fetched": "2026-08-11T22:49:10+00:00",
+    "image": "https://images.ctfassets.net/vb2n37v5ldjn/28kuQj7ccnD3rAiVn7rwbv/bd36b17eee5522274e9e256fd1e1b6bb/rsi-opengraph.jpg?w=1200&h=630&fit=fill&f=center&fm=jpg&q=85"
   },
   {
     "id": "102350acc334f616",
@@ -49066,89 +49198,5 @@
     "published": "2026-07-28T22:50:00+00:00",
     "fetched": "2026-07-28T23:03:41+00:00",
     "image": "https://i.lb.ua/news/099/50/6a69337ebf94b.jpg"
-  },
-  {
-    "id": "2321e86e2341b0e2",
-    "title": "The US is banning foreign robots",
-    "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots,…",
-    "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T22:37:53+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6e25b327980f4878",
-    "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
-    "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn Comments URL: https://news.ycombinator.com/item?id=49090867 Points: 29 # Comments: 9",
-    "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T22:31:14+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://scripps.ucsd.edu/sites/default/files/styles/800px/public/2026-07/istock-177540653-800x500.jpg?itok=7zkOfvBW"
-  },
-  {
-    "id": "654bdfcfb8f2db8c",
-    "title": "Влада Італії занепокоєна можливим використанням мафією безпілотників",
-    "summary": "У регіонах визнають, що не готові протидіяти такій загрозі.",
-    "url": "https://lb.ua/world/2026/07/29/755162_vlada_italiyi_zanepokoiena.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T22:17:00+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://i.lb.ua/news/096/52/6a692b0ccfbd2.jpg"
-  },
-  {
-    "id": "87177a57b9687f56",
-    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I figured there was probably a…",
-    "url": "https://github.com/twalichiewicz/HNewhere",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T22:09:06+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://opengraph.githubassets.com/088591afbaba9e236e88d94063d8b2d95e2298ca7983b1769f5cd8625e4dab84/twalichiewicz/HNewhere"
-  },
-  {
-    "id": "e312eac4f1c1bcce",
-    "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-    "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
-    "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T22:09:00+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst-1152x648.jpg"
-  },
-  {
-    "id": "976851d07dfb224d",
-    "title": "Bloomberg: Росія хоче озброїти зернові судна в Азовському морі кулеметами",
-    "summary": "Таким чином окупанти хочуть протидіяти атакам українських дронів.",
-    "url": "https://lb.ua/society/2026/07/29/755160_bloomberg_rosiya_hoche_ozbroyiti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T21:57:00+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://i.lb.ua/news/123/16/6a6925b288427.jpg"
-  },
-  {
-    "id": "8aaf52874ddfc9ae",
-    "title": "ВМС США протягом двох тижнів блокади Ірану перехопили вже 18 суден",
-    "summary": "CENTCOM перехопило 18 суден, вивело з ладу 2 та взяло на абордаж ще 2 для дотримання блокади Ірану.",
-    "url": "https://www.pravda.com.ua/news/2026/07/29/8046331/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T21:54:00+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/1/882944/41e74ae4c5d6e1dbeabc73d1ba5f198c.jpeg"
   }
 ]
