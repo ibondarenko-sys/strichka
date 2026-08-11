@@ -1,5 +1,53 @@
 [
   {
+    "id": "a3beeaeab575d68a",
+    "title": "Північна Корея знову запустила балістичну ракету в напрямку Східного моря",
+    "summary": "У середу Північна Корея випустила щонайменше одну балістичну ракету в напрямку Східного моря, цей крок розцінюється як протест проти майбутніх спільних військових навчань Південної Кореї та США.",
+    "url": "https://www.pravda.com.ua/news/2026/08/12/8048315/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T23:40:00+00:00",
+    "fetched": "2026-08-11T23:47:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/4/890484/949b0607545028aefc26eccf4915579d.jpeg"
+  },
+  {
+    "id": "b36d2868216296b4",
+    "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+    "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-11T23:31:18+00:00",
+    "fetched": "2026-08-11T23:47:18+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc5/live/0bd135a0-9592-11f1-870d-5d08c49babb2.jpg"
+  },
+  {
+    "id": "da64868e91157e7b",
+    "title": "Європейські міста на шляху сонячного затемнення різко підняли ціни на житло",
+    "summary": "Ісландія та Іспанія отримують вигоду від охочих поглянути на унікальне явище.",
+    "url": "https://lb.ua/world/2026/08/12/758352_ievropeyski_mista_shlyahu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T23:12:00+00:00",
+    "fetched": "2026-08-11T23:47:18+00:00",
+    "image": "https://i.lb.ua/news/071/62/6a7bada3e9e4d.jpg"
+  },
+  {
+    "id": "5f39cbfe80f61606",
+    "title": "Кількість загиблих внаслідок землетрусу в Колумбії перевищила 200 осіб",
+    "summary": "За даними CNN, кількість загиблих внаслідок землетрусу в Колумбії зросла до 224 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/08/12/8048314/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T22:58:00+00:00",
+    "fetched": "2026-08-11T23:47:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/e/890483/fe249c39f8be34d217606f938d9fdf67.jpeg"
+  },
+  {
     "id": "d2e9b650d70bbd20",
     "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
     "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a…",
@@ -58,6 +106,18 @@
     "published": "2026-08-11T21:56:18+00:00",
     "fetched": "2026-08-11T22:49:10+00:00",
     "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg"
+  },
+  {
+    "id": "64a59f60179c0c18",
+    "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+    "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026 Comments URL: https://news.ycombinator.com/item?id=49265031 Points: 22 # Comments: 0",
+    "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T21:54:25+00:00",
+    "fetched": "2026-08-11T23:47:20+00:00",
+    "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpg_clickhouse_jul2026_banner_8a6e1ca8ab.png&w=1200&h=630&q=75"
   },
   {
     "id": "25079586312f5eac",
@@ -646,6 +706,18 @@
     "published": "2026-08-11T18:09:56+00:00",
     "fetched": "2026-08-11T19:39:22+00:00",
     "image": "https://storage.ghost.io/c/99/08/9908ec0b-b3d5-476b-bc3c-632c5b087809/content/images/size/w1200/2026/08/absolutvision-bSlHKWxxXak-unsplash.jpg"
+  },
+  {
+    "id": "582a65c69ca741ed",
+    "title": "Ethical Cold Outreach",
+    "summary": "Article URL: https://blog.val.town/ethical-cold-outreach Comments URL: https://news.ycombinator.com/item?id=49262172 Points: 9 # Comments: 0",
+    "url": "https://blog.val.town/ethical-cold-outreach",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T18:06:55+00:00",
+    "fetched": "2026-08-11T23:47:20+00:00",
+    "image": "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/a4898d1c-3f72-40b3-153d-4144e23ea200/public"
   },
   {
     "id": "d9cc4f6795372c0a",
@@ -49102,101 +49174,5 @@
     "published": "2026-07-29T00:07:43+00:00",
     "fetched": "2026-07-29T00:59:45+00:00",
     "image": "https://studio.academa.ai/og-image.png"
-  },
-  {
-    "id": "b9cdc21be3b8365a",
-    "title": "УЄФА різко розкритикувала намір Інфантіно \"приватизувати\" Кубок світу",
-    "summary": "Президент ФІФА хоче продати частину комерційних прав на Мундіаль інвестиційним компаніям.",
-    "url": "https://lb.ua/sport/2026/07/29/755166_uiefa_rizko_rozkritikuvala_namir.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T23:34:00+00:00",
-    "fetched": "2026-07-29T00:59:39+00:00",
-    "image": "https://i.lb.ua/news/054/37/6a693d3d83027.jpg"
-  },
-  {
-    "id": "4c51d8b4e09769a9",
-    "title": "ReFrame – The EPaper Camera",
-    "summary": "Article URL: https://reframe.camera/ Comments URL: https://news.ycombinator.com/item?id=49091379 Points: 9 # Comments: 2",
-    "url": "https://reframe.camera/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T23:27:09+00:00",
-    "fetched": "2026-07-29T00:59:45+00:00",
-    "image": "https://reframe.camera/assets/site-images/og-reframe.jpg"
-  },
-  {
-    "id": "768d9933a9d3ef7e",
-    "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-    "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
-    "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-28T23:25:53+00:00",
-    "fetched": "2026-07-29T00:59:39+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c1e/live/5bc42500-87a9-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "cba713cd541002ff",
-    "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
-    "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national…",
-    "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-28T23:24:15+00:00",
-    "fetched": "2026-07-29T00:59:39+00:00",
-    "image": "https://i.guim.co.uk/img/media/4246978568dc52b388726a54c5799437285f8631/510_0_4378_3501/master/4378.jpg?width=140&quality=85&auto=format&fit=max&s=19ef92bf4dd2a6ce8a86dee6dbfeb46d"
-  },
-  {
-    "id": "94627e1e178935a4",
-    "title": "Росіяни атакували дві АЗС на Сумщині – ОВА",
-    "summary": "Увечері 28 липня російські дрони вдарили по АЗС Сумщини. Жертв немає, впроваджені заходи безпеки.",
-    "url": "https://www.pravda.com.ua/news/2026/07/29/8046333/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T23:16:00+00:00",
-    "fetched": "2026-07-29T00:59:39+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/882946/24ffbb65c0c244076e5f7ed8af6f465e.jpeg"
-  },
-  {
-    "id": "2495ad1c2e59f7ea",
-    "title": "Schools are adding pepper-spraying drones to help combat active shooters",
-    "summary": "Article URL: https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/ Comments URL: https://news.ycombinator.com/item?id=49091153 Points: 14 # Comments: 15",
-    "url": "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T23:00:02+00:00",
-    "fetched": "2026-07-29T00:59:45+00:00",
-    "image": null
-  },
-  {
-    "id": "4e54c3cb25dc01d9",
-    "title": "Сенат США розпочне голосування щодо санкцій проти РФ у день поховання Ліндсі Грема – ЗМІ",
-    "summary": "Сенат США почне процедурне голосування за санкції проти Росії та Ірану у день поховання автора законопроєкту Ліндсі Грема",
-    "url": "https://www.pravda.com.ua/news/2026/07/29/8046332/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T22:55:00+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/6/882945/2660867343cecf68262113fa060b3e31.jpeg"
-  },
-  {
-    "id": "95f5e56c3943caf9",
-    "title": "Американська делегація в ООН влаштувала Франції демарш",
-    "summary": "Дипломати вийшли із зали під час виступу французького представника через сварку щодо комісара з прав людини.",
-    "url": "https://lb.ua/world/2026/07/29/755164_amerikanska_delegatsiya_oon.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T22:50:00+00:00",
-    "fetched": "2026-07-28T23:03:41+00:00",
-    "image": "https://i.lb.ua/news/099/50/6a69337ebf94b.jpg"
   }
 ]
