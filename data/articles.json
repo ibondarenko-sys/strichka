@@ -1,5 +1,89 @@
 [
   {
+    "id": "70a409cfbbb8e6d5",
+    "title": "Путін не піде на переговори, доки може безкарно бити балістикою по Києву – ISW",
+    "summary": "Аналітики Інституту вивчення війни (ISW) зазначають, що правитель РФ Володимир Путін не піде на жодні переговори доти, доки Росія має змогу безкарно завдавати ударів балістикою по Києву та інших містах через гострий дефіцит ракет до систем Patriot.",
+    "url": "https://www.pravda.com.ua/news/2026/08/11/8048175/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T01:53:00+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/890005/0140abdf764adc05fd06d1f0503a5691.jpeg"
+  },
+  {
+    "id": "13af0a5c77b4a760",
+    "title": "Трамп підписав указ про зменшення рекомендованих дитячих щеплень",
+    "summary": "Повторив антинаукову тезу про зв'язок між ін'єкціями та аутизмом.",
+    "url": "https://lb.ua/health/2026/08/11/758118_tramp_pidpisav_ukaz_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T01:16:00+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://i.lb.ua/news/104/04/6a7a75b9383a4.jpg"
+  },
+  {
+    "id": "5aae26f5c212643f",
+    "title": "Південна Корея відмовила Україні у постачанні зброї та систем ППО – МЗС країни",
+    "summary": "У МЗС Південної Кореї заявили, що Сеул і надалі надаватиме Україні лише гуманітарну допомогу та не планує постачати летальну зброю чи системи ППО, попри запити президента України Володимира Зеленського на тлі відправки нових військ КНДР до Росії.",
+    "url": "https://www.pravda.com.ua/news/2026/08/11/8048174/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T00:50:00+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/890004/821d25f5290123e02bfea8527e9a10d6.jpeg"
+  },
+  {
+    "id": "0bc06db0f4edd0f3",
+    "title": "Chicken Scheme 6.0",
+    "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 33 # Comments: 3",
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-11T00:24:15+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": null
+  },
+  {
+    "id": "c7055129280ff810",
+    "title": "Окупанти вбили 15-річного юнака на Дніпропетровщині, ще двоє дітей дістали поранень",
+    "summary": "Внаслідок атаки РФ по Грушівській громаді Криворізького району загинув підліток, ще двоє дітей поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/11/8048173/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T00:07:00+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/5/890003/0599671bcc40126c8e3d308a89a99be6.jpeg"
+  },
+  {
+    "id": "4277d0b1600e1f45",
+    "title": "У Канаді зафіксовано першу смерть через лісові пожежі",
+    "summary": "На території Британської Колумбії більше 100 осередків займання.",
+    "url": "https://lb.ua/world/2026/08/11/758116_kanadi_zafiksovano_pershu_smert.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-11T00:03:00+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://i.lb.ua/news/118/05/6a7a62ed40e08.jpg"
+  },
+  {
+    "id": "a50b7e9d346ad20e",
+    "title": "The UK's War on Anonymity Has Come to America",
+    "summary": "Article URL: https://www.effort.news/uk-lobby Comments URL: https://news.ycombinator.com/item?id=49251411 Points: 178 # Comments: 99",
+    "url": "https://www.effort.news/uk-lobby",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T23:45:50+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png"
+  },
+  {
     "id": "7800f94e5d01101b",
     "title": "Унаслідок російського балістичного удару по Києву постраждала людина – КМВА",
     "summary": "У ніч на 11 серпня російські війська завдали удару балістичними ракетами по Києву. Унаслідок атаки постраждала щонайменше одна людина.",
@@ -22,6 +106,18 @@
     "published": "2026-08-10T23:26:00+00:00",
     "fetched": "2026-08-10T23:38:59+00:00",
     "image": "https://i.lb.ua/news/081/57/6a7a5e510c816.jpg"
+  },
+  {
+    "id": "7d6440dd395371c9",
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "summary": "Article URL: https://everycube.alen.is/ Comments URL: https://news.ycombinator.com/item?id=49251179 Points: 56 # Comments: 11",
+    "url": "https://everycube.alen.is/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T23:16:25+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://everycube.alen.is/opengraph-image?e65a545ab414fc11"
   },
   {
     "id": "50adf02637164c03",
@@ -802,6 +898,18 @@
     "published": "2026-08-10T17:22:07+00:00",
     "fetched": "2026-08-10T21:46:54+00:00",
     "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2"
+  },
+  {
+    "id": "e60e99f01d84beb6",
+    "title": "GPT 5.6 Cyber",
+    "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 69 # Comments: 29",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-10T17:14:00+00:00",
+    "fetched": "2026-08-11T02:03:20+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/126iXrjsNVMlUR3pgI1PbS/80445f60ec21f0b051acb893fdf5dac4/16x9_SEO.png?w=1600&h=900&fit=fill"
   },
   {
     "id": "5892712d69f3ed64",
@@ -49138,137 +49246,5 @@
     "published": "2026-07-28T02:15:00+00:00",
     "fetched": "2026-07-28T04:16:41+00:00",
     "image": "https://i.lb.ua/news/030/05/6a68059917295.jpg"
-  },
-  {
-    "id": "2b8c3dc50a9aab94",
-    "title": "У столиці РФ заявили про атаку безпілотників, на заводі під Москвою – пожежа",
-    "summary": "У Москві кажуть про атаку десятків дронів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/28/8046177/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T01:58:00+00:00",
-    "fetched": "2026-07-28T04:16:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/882100/184190ff3c814362d07d6bded91f685a.jpeg"
-  },
-  {
-    "id": "6304d13f1fea15ac",
-    "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-    "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-28T01:53:58+00:00",
-    "fetched": "2026-07-28T07:16:44+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ec/live/92eec930-8a52-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "a1386da22017b5f0",
-    "title": "Residential Proxies Are a National Security Threat",
-    "summary": "Article URL: https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/ Comments URL: https://news.ycombinator.com/item?id=49078266 Points: 21 # Comments: 15",
-    "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T01:51:18+00:00",
-    "fetched": "2026-07-28T04:16:42+00:00",
-    "image": "https://jacob.gold/images/residential-proxies-are-a-national-security-threat.png"
-  },
-  {
-    "id": "71aa470120cfee80",
-    "title": "Asia ‘scraping the bottom of the barrel’ as Red Sea oil blockade worsens energy crisis",
-    "summary": "The Houthi threat to Saudi oil exports comes as Japan, South Korea and the Philippines are still reeling from the closure of the strait of Hormuz Governments in Asia are scrambling to avoid their second major energy crisis in six months, as another maritime chokepoint in the…",
-    "url": "https://www.theguardian.com/world/2026/jul/28/asia-energy-oil-crisis-red-sea-blockade-houthis",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-28T01:37:05+00:00",
-    "fetched": "2026-07-28T04:16:41+00:00",
-    "image": "https://i.guim.co.uk/img/media/fcc9efbf60936f70258e466770fbc094e903e225/414_0_4728_3783/master/4728.jpg?width=140&quality=85&auto=format&fit=max&s=56a3699ca7090500a18134cf90eb2d9a"
-  },
-  {
-    "id": "e08ac6c2b9a67a06",
-    "title": "Конгрес США хоче допитати президента ФІФА Інфантіно щодо зв'язків з Трампом",
-    "summary": "Спортивний функціонер виконав забаганку президента скасувати червону картку для нападника збірної США.",
-    "url": "https://lb.ua/sport/2026/07/28/754972_kongres_ssha_hoche_dopitati.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T01:37:00+00:00",
-    "fetched": "2026-07-28T04:16:41+00:00",
-    "image": "https://i.lb.ua/news/025/02/6a68080f91d10.jpg"
-  },
-  {
-    "id": "d776803a45eb6c1f",
-    "title": "Vehicle Motion Cues",
-    "summary": "Article URL: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios Comments URL: https://news.ycombinator.com/item?id=49077999 Points: 23 # Comments: 10",
-    "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T01:13:26+00:00",
-    "fetched": "2026-07-28T04:16:42+00:00",
-    "image": null
-  },
-  {
-    "id": "26ffdb9f21f23bbb",
-    "title": "Усіх 100 сенаторів США запросили на зустріч із Зеленським – ЗМІ",
-    "summary": "Під час візиту Зеленського у Вашингтон всі 100 сенаторів США зустрінуться із Зеленським у Капітолії.",
-    "url": "https://www.pravda.com.ua/news/2026/07/28/8046175/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T00:32:00+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/d/882061/bde0055ec31b898b94cd1f61fc5cdb85.jpeg"
-  },
-  {
-    "id": "268510d0c495acd6",
-    "title": "Росіяни атакували Сумщину безпілотниками і КАБами, є постраждалі",
-    "summary": "У двох населених пунктах знадобилась допомога медиків.",
-    "url": "https://lb.ua/society/2026/07/28/754968_rosiyani_atakuvali_sumschinu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-28T00:21:00+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://i.lb.ua/news/009/12/6a67f4277ce26.jpg"
-  },
-  {
-    "id": "449fc3ec3469efed",
-    "title": "Don't ask an LLM for a confidence score",
-    "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 30 # Comments: 1",
-    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-28T00:06:53+00:00",
-    "fetched": "2026-07-28T10:09:39+00:00",
-    "image": "https://justinflick.com/assets/images/generated/llm-confidence-scores-header.jpeg"
-  },
-  {
-    "id": "b48524d757fb8f11",
-    "title": "США відстають від України у виробництві дронів – Reuters",
-    "summary": "У Пентагоні озвучили, скільки потрібно часу США, щоб наздогнати Україну у виробництві дронів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/28/8046174/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-27T23:58:00+00:00",
-    "fetched": "2026-07-28T00:56:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/f/882060/7f0637904f1742862498d1c53599bfac.jpeg"
-  },
-  {
-    "id": "38c038958dcdaf28",
-    "title": "The Burau representation of the braid group is faithful for n = 4",
-    "summary": "Article URL: https://arxiv.org/abs/2607.05283 Comments URL: https://news.ycombinator.com/item?id=49077209 Points: 6 # Comments: 2",
-    "url": "https://arxiv.org/abs/2607.05283",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-27T23:46:15+00:00",
-    "fetched": "2026-07-28T00:57:02+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   }
 ]
