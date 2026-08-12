@@ -1,5 +1,89 @@
 [
   {
+    "id": "ce9faf126d16c1e3",
+    "title": "\"Ми вимкнемо російську військову машину\" – Хмара, коментуючи операцію в Новоросійську",
+    "summary": "Тимчасовий виконувач обов'язків міністра оборони України Євгеній Хмара, коментуючи унікальну операцію українських військових у Новоросійську, заявив, що Сили оборони вимкнуть \"російську військову машину\".",
+    "url": "https://www.pravda.com.ua/news/2026/08/13/8048468/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T21:56:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/5/891110/c5cca6a59d9f8334298d6827f195a6b4.jpeg"
+  },
+  {
+    "id": "abe7bb9282c5708e",
+    "title": "У Києві відбувся Український молодіжний форум до Дня молоді",
+    "summary": "Серед учасників: молодіжні лідери, представники організацій, військовослужбовці, ветерани і ветеранки, спортсмени, підприємці тощо.",
+    "url": "https://lb.ua/society/2026/08/13/758608_kiievi_vidbuvsya_ukrayinskiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T21:56:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://i.lb.ua/news/014/08/6a7ceaeacbe3a.jpg"
+  },
+  {
+    "id": "590d8212a1ada601",
+    "title": "Why Can't You Find Canned Sardines?",
+    "summary": "Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/ Comments URL: https://news.ycombinator.com/item?id=49279013 Points: 5 # Comments: 0",
+    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T21:45:29+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://corneroffifth.studio/wp-content/uploads/2026/07/Fish_Graphics3.jpg"
+  },
+  {
+    "id": "80c120873d58c484",
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T21:43:21+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+  },
+  {
+    "id": "1786be958206801e",
+    "title": "NASA позначила Крим російським на мапі під час трансляції сонячного затемнення",
+    "summary": "Американська космічна агенція припустилася обурливої помилки.",
+    "url": "https://lb.ua/society/2026/08/13/758600_nasa_poznachila_krim_rosiyskim.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T21:42:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://i.lb.ua/news/060/62/6a7ce79f09bca.jpg"
+  },
+  {
+    "id": "0a8bd9039ff2062f",
+    "title": "Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones",
+    "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication,…",
+    "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T21:30:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "56816f5930da1d9e",
+    "title": "Окупанти заявили про блекаут у Севастополі",
+    "summary": "Після атаки дронів окупований Севастополь лишився без електроенергії.",
+    "url": "https://www.pravda.com.ua/news/2026/08/13/8048466/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T21:24:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/891109/89e0013a0211b29e88bccb2c679a18e6.jpeg"
+  },
+  {
     "id": "b82cdca20835b1fe",
     "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
     "summary": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough,…",
@@ -10,6 +94,30 @@
     "published": "2026-08-12T21:21:09+00:00",
     "fetched": "2026-08-12T21:21:12+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/8bitdo-mechanical-keyboard-buttons-roundup.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b59e9c2e3ec279f3",
+    "title": "Через лісові пожежі на півночі Франції евакуювали близько 1200 людей",
+    "summary": "Відомо про дві пожежі. Одне із займань поширюється дуже швидко.",
+    "url": "https://lb.ua/world/2026/08/13/758604_cherez_lisovi_pozhezhi_pivnochi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T21:18:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://i.lb.ua/news/070/43/6a7ce332616ab.jpg"
+  },
+  {
+    "id": "af0f2f319bff6eaf",
+    "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+    "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+    "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T21:13:39+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg"
   },
   {
     "id": "13827e777627ff06",
@@ -34,6 +142,30 @@
     "published": "2026-08-12T21:06:00+00:00",
     "fetched": "2026-08-12T21:21:12+00:00",
     "image": "https://i.lb.ua/news/013/41/6a7ce07e5490b.jpg"
+  },
+  {
+    "id": "24a64c1218540392",
+    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+    "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+    "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T21:00:30+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg"
+  },
+  {
+    "id": "aaeab9ad4495e31d",
+    "title": "Головне за середу, 12 серпня: 185 бойових зіткнень, підсумки наступу на Олександрівському напрямку",
+    "summary": "Бойові дії на Донеччині, 185 бойових зіткнень, ворожі обстріли, напад на військовослужбовців ТЦК на Волині. Яким запам’ятається 1631-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/12/758606_golovne_seredu_12_serpnya_185.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T20:58:00+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://i.lb.ua/news/068/02/6a7ce52c708f5.jpg"
   },
   {
     "id": "1204cfa51f731f9d",
@@ -70,6 +202,18 @@
     "published": "2026-08-12T20:32:00+00:00",
     "fetched": "2026-08-12T21:21:12+00:00",
     "image": "https://i.lb.ua/news/116/19/6a7cd876a4235.jpg"
+  },
+  {
+    "id": "b6a245e2e4e96693",
+    "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+    "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T20:20:52+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg"
   },
   {
     "id": "e7d7bde89aacd491",
@@ -142,6 +286,18 @@
     "published": "2026-08-12T19:52:00+00:00",
     "fetched": "2026-08-12T20:09:17+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/b/f/bf3424a---------------.jpg"
+  },
+  {
+    "id": "dcbf4d15b160dd73",
+    "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+    "summary": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
+    "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T19:40:46+00:00",
+    "fetched": "2026-08-12T22:11:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg"
   },
   {
     "id": "b49ec4a1e652bee5",
@@ -49198,101 +49354,5 @@
     "published": "2026-07-29T22:13:00+00:00",
     "fetched": "2026-07-29T22:29:41+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/883531/54c6f84903aef655a38475dfc70d9c4e.jpeg"
-  },
-  {
-    "id": "1401ad6c55e0264d",
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T22:07:06+00:00",
-    "fetched": "2026-07-29T23:36:17+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg"
-  },
-  {
-    "id": "386df92fed65a317",
-    "title": "Корецький: уряд оновив статут \"Енергоатому\"",
-    "summary": "Управління компанією планують перезавантажити.",
-    "url": "https://lb.ua/economics/2026/07/30/755424_koretskiy_uryad_onoviv_statut.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T21:57:00+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://i.lb.ua/news/039/42/6a6a75b83dd7c.jpg"
-  },
-  {
-    "id": "c5567c95ea904595",
-    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal…",
-    "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T21:48:07+00:00",
-    "fetched": "2026-07-29T22:29:42+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "a3510a68c968bf53",
-    "title": "У боснійському МЗС ображені, що Україна випереджає Західні Балкани в євроінтеграції",
-    "summary": "Міністр не розуміє, як це можливо з відсутністю контролю над усією конституційною територією.",
-    "url": "https://lb.ua/news/2026/07/30/755420_bosniyskomu_mzs_obrazheni_scho.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T21:42:00+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://i.lb.ua/news/121/33/6a6a7310c2f72.jpg"
-  },
-  {
-    "id": "b755b0f0e74a9cd2",
-    "title": "Qualcomm is raising phone chip prices starting September 1st",
-    "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports.…",
-    "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T21:41:56+00:00",
-    "fetched": "2026-07-29T22:29:42+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "c23011ccc3068412",
-    "title": "Трамп заявив, що хотів би, щоб Зеленський закінчив війну",
-    "summary": "Трамп заявив, що бажає завершення війни в Україні та підтримує контакт із Зеленським і Путіним.",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046470/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T21:38:00+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/f/883527/ef605d6dfda379a437eab0d59b2acbbe.jpeg"
-  },
-  {
-    "id": "7b339ca1357c9bd7",
-    "title": "AI's top startups are barely publishing their research",
-    "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 48 # Comments: 38",
-    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T21:25:40+00:00",
-    "fetched": "2026-07-29T22:29:44+00:00",
-    "image": null
-  },
-  {
-    "id": "b89aa23aee15e82c",
-    "title": "Гідрометцентр: 30 липня в Україні опадів не прогнозується",
-    "summary": "Найтепліше буде на Закарпатті, там стовпчики термометрів піднімуться до 33°.",
-    "url": "https://lb.ua/society/2026/07/30/755418_gidromettsentr_30_lipnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T21:22:00+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://i.lb.ua/news/126/48/6a6a6f1d7f9a0.jpg"
   }
 ]
