@@ -1,17 +1,5 @@
 {
-  "531730882c6df515": null,
-  "3e956dbc749f21ed": "https://www.superlogical.com/og.webp",
-  "8e67caa3b283f7d4": null,
-  "1e831d54fa27b04e": "https://images.prismic.io/cesium/aAvRc_IqRLdaBoXt_earthbanner_0600000.jpg?auto=format,compress&rect=0,108,5376,2809&w=1200&h=627",
-  "a136f79a6c7a601e": null,
   "6f13c81e840efce0": null,
-  "1cce9a76bbe29492": null,
-  "2a505898a50fdb19": "https://www.engadget.com/img/gallery/google-deepmind-shuts-down-its-nobel-prize-winning-alphafold-team-as-it-focuses-on-gemini/l-intro-1785321250.jpg",
-  "92bed63b0a3c38e3": "https://framerusercontent.com/images/zsGtVGVvu1F0gBl160qdoLs0oAM.webp?width=2400&height=1350",
-  "5119dc53d6f1a231": null,
-  "97854c7d008de2a9": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1304159264/d6c0493d-d97a-45fc-b20a-dd40d1b6e090?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T165022Z&X-Amz-Expires=300&X-Amz-Signature=8c45a63a9a5b5c216182b6c299d16bf763551ed9fff8005a2bd83235793dc04c&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0NDEyMiwibmJmIjoxNzg1MzQzODIyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.2b2JDqB9kvB4FjGCCYEvNiStfCljZIpSLQE1bTM5Gq8",
-  "6068bc8ffba484e3": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1301750814/5c7e54f4-de61-4f83-a5c9-a5dcc19d2662?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T165022Z&X-Amz-Expires=300&X-Amz-Signature=708bc5b8848188e90dabb0e7d6a091d82ded0cfe69c9b91b9398357c3c461e94&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0NDEyMiwibmJmIjoxNzg1MzQzODIyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.2b2JDqB9kvB4FjGCCYEvNiStfCljZIpSLQE1bTM5Gq8",
-  "285b9257d2df15c5": "https://aistack.imec-int.com/assets/img/gpu.jpg",
   "a1d5c0988c20de0b": "https://blog.cryptographyengineering.com/wp-content/uploads/2026/07/anthropic.jpg",
   "a7f4da59fd481a02": "https://cheapfoodmap.com/og-default.png",
   "e7130684216541a4": "https://cdn.sanity.io/images/hvk0tap5/production/fe331581ccd5dd45d959aba805866008d0ce6b7d-2340x1146.png?fit=max&auto=format",
@@ -1110,5 +1098,14 @@
   "01801c2822af1e55": "https://www.orangecrumbs.com/stories/yc-domains/og.png",
   "b45fb4a8c2740779": "https://kidscreen.app/kidscreen-logo.png",
   "0192beaaee9e582b": null,
-  "db17db76e2acea7c": null
+  "db17db76e2acea7c": null,
+  "6cd84c71ff126df9": null,
+  "d8d84c04601d2674": "https://andrewpwheeler.com/wp-content/uploads/2017/06/apwface.png?w=200",
+  "550006791bdd5557": "https://tailscale.com/api/og-image?id=45389fc1-da6e-4e0d-82f6-140651c6ba57",
+  "abadfb45f943fcd5": "https://x.ai/images/news/grok-4-6-og.png",
+  "e4adc33c68a63028": "https://usehax.dev/demo-card.png",
+  "8c372dce5136f988": "https://s9-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/060/200/original/GiveCampus_Orange-e6be41bf7439041207ec7d7fe51ace9fc15af115f3e3b129c5c9d4219a367cea.png?1750081971",
+  "f9e1ef66ab3da5c6": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-2.4T-A95B.png",
+  "3eb6a6b7b5a23580": "https://www.masswerk.at/nowgobang/images/2026-disk-images.png",
+  "6a35fe7f03ed472b": "https://knownagents.com/assets/hero.png"
 }
