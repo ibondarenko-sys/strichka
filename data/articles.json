@@ -1,5 +1,65 @@
 [
   {
+    "id": "7b2089591ece191d",
+    "title": "Після атаки Сил оборони в окупованому Севастополі - блекаут",
+    "summary": "Гауляйтер заявив про обстріл енергетичних об'єктів.",
+    "url": "https://lb.ua/society/2026/08/13/758612_pislya_ataki_sil_oboroni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T22:47:00+00:00",
+    "fetched": "2026-08-12T23:11:16+00:00",
+    "image": "https://i.lb.ua/news/035/21/6a7cf7e57b328.jpg"
+  },
+  {
+    "id": "547200c61d00f978",
+    "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+    "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-12T22:46:02+00:00",
+    "fetched": "2026-08-12T23:11:16+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30aa/live/19728ca0-969f-11f1-aabf-cfc1e2784bc6.jpg"
+  },
+  {
+    "id": "2ed502dd0f1b7728",
+    "title": "Росіяни убили дронами ще двох людей у Херсоні",
+    "summary": "Росіяни вбили дронами ще двох чоловіків у Херсоні.",
+    "url": "https://www.pravda.com.ua/news/2026/08/13/8048469/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T22:40:00+00:00",
+    "fetched": "2026-08-12T23:11:16+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/891117/ee471a862a36717bfd26e6728b8fc818.jpeg"
+  },
+  {
+    "id": "ccb8a095a0e4a72c",
+    "title": "Зеленський анонсував зміни до проведення НМТ для випускників",
+    "summary": "Новий порядок тестування для вступу у виші має бути \"з більшою повагою\".",
+    "url": "https://lb.ua/society/2026/08/13/758610_zelenskiy_anonsuvav_zmini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T22:16:00+00:00",
+    "fetched": "2026-08-12T23:11:16+00:00",
+    "image": "https://i.lb.ua/news/043/51/6a7cf0fbc3ae3.jpg"
+  },
+  {
+    "id": "7b8a1071d2992cdc",
+    "title": "Why are 'human fridges' being sold in Japan?",
+    "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+    "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-12T22:07:47+00:00",
+    "fetched": "2026-08-12T23:11:16+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/e3226840-9519-11f1-b2ab-0dd01740f9f6.jpg"
+  },
+  {
     "id": "ce9faf126d16c1e3",
     "title": "\"Ми вимкнемо російську військову машину\" – Хмара, коментуючи операцію в Новоросійську",
     "summary": "Тимчасовий виконувач обов'язків міністра оборони України Євгеній Хмара, коментуючи унікальну операцію українських військових у Новоросійську, заявив, що Сили оборони вимкнуть \"російську військову машину\".",
@@ -418,6 +478,18 @@
     "published": "2026-08-12T18:45:00+00:00",
     "fetched": "2026-08-12T19:06:27+00:00",
     "image": "https://i.lb.ua/news/014/52/6a7cbf42b4d33.jpg"
+  },
+  {
+    "id": "337bf2068b12a671",
+    "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
+    "summary": "Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat).…",
+    "url": "https://timer.jotaen.net",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T18:27:52+00:00",
+    "fetched": "2026-08-12T23:11:17+00:00",
+    "image": null
   },
   {
     "id": "7c73c681d7aaf6cf",
@@ -49234,125 +49306,5 @@
     "published": "2026-07-29T23:18:11+00:00",
     "fetched": "2026-07-30T02:44:16+00:00",
     "image": "https://frantic.im/assets/og/mirage.png"
-  },
-  {
-    "id": "4e38689df0dfece6",
-    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-    "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 5 # Comments: 1",
-    "url": "https://archive.org/details/mancomputerbyjoh0000john",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T22:53:44+00:00",
-    "fetched": "2026-07-29T23:36:29+00:00",
-    "image": "https://archive.org/services/img/mancomputerbyjoh0000john"
-  },
-  {
-    "id": "7e49a41408012c15",
-    "title": "LLM Honeypot",
-    "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 7 # Comments: 2",
-    "url": "https://llm2human.pages.dev/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T22:51:03+00:00",
-    "fetched": "2026-07-29T23:36:29+00:00",
-    "image": null
-  },
-  {
-    "id": "cc9cebce46a55788",
-    "title": "Нетаньягу повідомив Трампу про бажання Ізраїлю відмовитися від американської допомоги",
-    "summary": "Перехід до оборонної самостійності триватиме 10 років.",
-    "url": "https://lb.ua/world/2026/07/30/755426_netanyagu_povidomiv_trampu_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T22:48:00+00:00",
-    "fetched": "2026-07-29T23:36:17+00:00",
-    "image": "https://i.lb.ua/news/019/58/6a6a7c17bbb5b.jpg"
-  },
-  {
-    "id": "48fcffd19683d9b6",
-    "title": "100%: Федоров про те, чи готовий повернутись до Міністерства оборони",
-    "summary": "Федоров заявив про готовність повернутися до Міноборони",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046472/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T22:43:00+00:00",
-    "fetched": "2026-07-29T23:36:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/c/883535/3c19a131c45d8f1bf5dbbe863ff6eb68.jpeg"
-  },
-  {
-    "id": "8f7bece02b3a0485",
-    "title": "GitHub is the wrong shape for this new world",
-    "summary": "Article URL: https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world Comments URL: https://news.ycombinator.com/item?id=49103910 Points: 11 # Comments: 2",
-    "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T22:27:09+00:00",
-    "fetched": "2026-07-29T23:36:29+00:00",
-    "image": "https://depot.dev/images/banner/github-wrong-shape.png"
-  },
-  {
-    "id": "9164c872752f7ca3",
-    "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-    "summary": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
-    "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-29T22:23:08+00:00",
-    "fetched": "2026-07-30T15:32:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/5ab09630-8b9b-11f1-b8ee-9b3c26ad07bb.jpg"
-  },
-  {
-    "id": "7d5537c359f694b8",
-    "title": "Росіяни розпочали масовану атаку на українські міста: вибухи лунали у Києві і Кривому Розі",
-    "summary": "У повітрі ударні безпілотники, а ворог вже застосував балістику.",
-    "url": "https://lb.ua/society/2026/07/30/755428_rosiyani_rozpochali_masovanu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T22:20:00+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://i.lb.ua/news/007/06/6a6a7d881446a.jpg"
-  },
-  {
-    "id": "0434773f642a3026",
-    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is…",
-    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T22:17:38+00:00",
-    "fetched": "2026-07-29T22:29:42+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "84fc82ce58aa20a3",
-    "title": "Salman Rushdie attacker convicted of terror offenses",
-    "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-    "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-29T22:15:33+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg"
-  },
-  {
-    "id": "590cf563d908a161",
-    "title": "У Києві працює ППО: Росія атакує Україну ракетами",
-    "summary": "У ніч на 30 липня росіяни завдали ракетних ударів по Києву, Дніпру і Кривому Рогу.",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046471/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T22:13:00+00:00",
-    "fetched": "2026-07-29T22:29:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/883531/54c6f84903aef655a38475dfc70d9c4e.jpeg"
   }
 ]
