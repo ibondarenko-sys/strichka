@@ -1,5 +1,65 @@
 [
   {
+    "id": "0079f4b66ba425ce",
+    "title": "США планують завершити виведення військ з Іраку до кінця вересня – ЗМІ",
+    "summary": "Офіційні особи повідомили про виведення військ США з Іраку до кінця вересня.",
+    "url": "https://www.pravda.com.ua/news/2026/08/13/8048470/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T23:24:00+00:00",
+    "fetched": "2026-08-13T00:08:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/891118/99af250ae5dc4880f91946808b45c206.jpeg"
+  },
+  {
+    "id": "74b369ce0aa541f7",
+    "title": "Польща пригрозила припинити фінансування Starlink для себе та України",
+    "summary": "У польського уряду знову конфлікт з Ілоном Маском.",
+    "url": "https://lb.ua/world/2026/08/13/758614_polscha_prigrozila_pripiniti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-12T23:24:00+00:00",
+    "fetched": "2026-08-13T00:08:08+00:00",
+    "image": "https://i.lb.ua/news/096/61/6a7cff14cfe65.jpg"
+  },
+  {
+    "id": "c2c89581e3137656",
+    "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+    "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+    "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-12T23:19:28+00:00",
+    "fetched": "2026-08-13T00:08:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb5/live/5b6616a0-9577-11f1-870d-5d08c49babb2.jpg"
+  },
+  {
+    "id": "ab208b410eb37c99",
+    "title": "Show HN: A marketplace where AI agents buy services from AI agents",
+    "summary": "Article URL: https://aaas-marketplace-1089237826218.asia-northeast1.run.app Comments URL: https://news.ycombinator.com/item?id=49279804 Points: 6 # Comments: 3",
+    "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T23:07:32+00:00",
+    "fetched": "2026-08-13T00:08:09+00:00",
+    "image": null
+  },
+  {
+    "id": "036f5b189b65347d",
+    "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
+    "summary": "Article URL: https://bipluk.com/ Comments URL: https://news.ycombinator.com/item?id=49279628 Points: 5 # Comments: 2",
+    "url": "https://bipluk.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T22:47:20+00:00",
+    "fetched": "2026-08-13T00:08:09+00:00",
+    "image": "https://bipluk.com/static/dithered_knob_og.gif"
+  },
+  {
     "id": "7b2089591ece191d",
     "title": "Після атаки Сил оборони в окупованому Севастополі - блекаут",
     "summary": "Гауляйтер заявив про обстріл енергетичних об'єктів.",
@@ -36,6 +96,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/891117/ee471a862a36717bfd26e6728b8fc818.jpeg"
   },
   {
+    "id": "2b21256f8da35ff7",
+    "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+    "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+    "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T22:31:19+00:00",
+    "fetched": "2026-08-13T00:08:08+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-1152x648.jpg"
+  },
+  {
     "id": "ccb8a095a0e4a72c",
     "title": "Зеленський анонсував зміни до проведення НМТ для випускників",
     "summary": "Новий порядок тестування для вступу у виші має бути \"з більшою повагою\".",
@@ -58,6 +130,30 @@
     "published": "2026-08-12T22:07:47+00:00",
     "fetched": "2026-08-12T23:11:16+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/e3226840-9519-11f1-b2ab-0dd01740f9f6.jpg"
+  },
+  {
+    "id": "b7995d0a4e6fe0c1",
+    "title": "The web’s newest weapon against AI scrapers is a font",
+    "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T22:02:25+00:00",
+    "fetched": "2026-08-13T00:08:08+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg"
+  },
+  {
+    "id": "8ebb6d1322fd9845",
+    "title": "Process as a Proxy for Motivation",
+    "summary": "Article URL: https://bengodfrey.dev/blog/process/ Comments URL: https://news.ycombinator.com/item?id=49279197 Points: 7 # Comments: 1",
+    "url": "https://bengodfrey.dev/blog/process/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-12T22:01:43+00:00",
+    "fetched": "2026-08-13T00:08:09+00:00",
+    "image": null
   },
   {
     "id": "ce9faf126d16c1e3",
@@ -49258,53 +49354,5 @@
     "published": "2026-07-30T00:20:16+00:00",
     "fetched": "2026-07-30T02:44:16+00:00",
     "image": "https://opengraph.githubassets.com/341a196e91d9f8029a9ccdf4038583c829f86b75c77399962bebaca955f58f10/funador/claude-code-merge-queue"
-  },
-  {
-    "id": "428000a50b41f858",
-    "title": "У Києві внаслідок російської атаки загинула людина",
-    "summary": "У Києві в ніч на 30 липня внаслідок ракетної атаки РФ загинула одна людина. Пошкодження та займання через уламки.",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046474/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T00:07:00+00:00",
-    "fetched": "2026-07-30T02:44:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/883538/4e8ca49e387b221eda72bad94cbc6e9d.jpeg"
-  },
-  {
-    "id": "1aa3d697a5e3320f",
-    "title": "Безпілотник уразив американський газовий танкер у порту Єгипту – ЗМІ",
-    "summary": "Дрон атакував американський газовий танкер у порту Дам'єтта. Внаслідок пожежі постраждалих немає. Причини – ймовірний удар безпілотника.",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046473/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T23:49:00+00:00",
-    "fetched": "2026-07-30T02:44:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/883537/b62f86e48933b3347210b6df9abd6c36.jpeg"
-  },
-  {
-    "id": "b9d235b81c6b3912",
-    "title": "У Греції троє пожежників загинули під час ліквідації лісового займання",
-    "summary": "У Європі нова хвиля аномальних температур знову наробила лиха.",
-    "url": "https://lb.ua/world/2026/07/30/755430_gretsiyi_troie_pozhezhnikiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-29T23:36:00+00:00",
-    "fetched": "2026-07-30T02:44:14+00:00",
-    "image": "https://i.lb.ua/news/039/60/6a6a9082850ec.jpg"
-  },
-  {
-    "id": "9cbe60454d7e29ef",
-    "title": "The Productivity Mirage",
-    "summary": "Article URL: https://frantic.im/mirage/ Comments URL: https://news.ycombinator.com/item?id=49104335 Points: 54 # Comments: 18",
-    "url": "https://frantic.im/mirage/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-29T23:18:11+00:00",
-    "fetched": "2026-07-30T02:44:16+00:00",
-    "image": "https://frantic.im/assets/og/mirage.png"
   }
 ]
