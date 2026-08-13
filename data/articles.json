@@ -1,5 +1,101 @@
 [
   {
+    "id": "7d0139126fc947cb",
+    "title": "Попри запевнення Трампа про безпеку: Іран атакував два судна ОАЕ в Ормузькій протоці",
+    "summary": "Міністерство закордонних справ Об'єднаних Арабських Еміратів звинуватило Іран в атаці на два судна державної нафтової компанії Абу-Дабі ADNOC в Ормузькій протоці лише через кілька днів після публічних запевнень президента США Трампа про безпеку судноплавства та \"100% контроль\"…",
+    "url": "https://www.pravda.com.ua/news/2026/08/14/8048608/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T22:02:00+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/6/891568/e67c1b05a5669f0d774c013eca1032b6.jpeg"
+  },
+  {
+    "id": "60a11009cbd40f89",
+    "title": "В Білорусі навчатимуть школярів керувати дронами",
+    "summary": "Безпілотники і тактична медицина внесені до нової програми білоруських десятикласників.",
+    "url": "https://lb.ua/world/2026/08/14/758824_bilorusi_navchatimut_shkolyariv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T21:55:00+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://i.lb.ua/news/060/36/6a7e3a740f46a.jpg"
+  },
+  {
+    "id": "169bae322d709d12",
+    "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+    "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been…",
+    "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T21:53:04+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "62005f505c97349a",
+    "title": "The fight over Flock and other ALPRs",
+    "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to…",
+    "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T21:46:21+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS532_ALPRs_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a2ea0f8a0db03209",
+    "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+    "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-13T21:43:47+00:00",
+    "fetched": "2026-08-13T22:12:29+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"
+  },
+  {
+    "id": "2cd82d85e5877ec3",
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico…",
+    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T21:42:38+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b1e8caf6bbda5548",
+    "title": "У найбільшому порту Європи через вибух загинула людина",
+    "summary": "Інцидент нібито не пов'язаний з диверсіями.",
+    "url": "https://lb.ua/world/2026/08/14/758822_naybilshomu_portu_ievropi_cherez.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T21:40:00+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://i.lb.ua/news/057/03/6a7e39f29a843.jpg"
+  },
+  {
+    "id": "29c8d5910b783d69",
+    "title": "Двоє людей постраждали внаслідок ворожого удару по Запорізькому району",
+    "summary": "Серед них - 5-річна дитина.",
+    "url": "https://lb.ua/society/2026/08/14/758818_dvoie_lyudey_postrazhdali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T21:20:00+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://i.lb.ua/news/122/41/6a7e353d4ab03.jpg"
+  },
+  {
     "id": "92c0a49a81557a04",
     "title": "Окупанти вдарили по авто з цивільним в Запоріжжі: поранено жінку та 5-річну дитину",
     "summary": "Увечері 13 серпня російські війська завдали удару по Запорізькому району, внаслідок чого поранень дістали 25-річна жінка та 5-річна дитина.",
@@ -22,6 +118,18 @@
     "published": "2026-08-13T21:05:00+00:00",
     "fetched": "2026-08-13T21:22:40+00:00",
     "image": "https://i.lb.ua/news/026/00/6a7e316418a5c.jpg"
+  },
+  {
+    "id": "d975d79c34666aff",
+    "title": "Головне за четвер, 13 серпня: авіаудар по Краматорську, майже 200 бойових зіткнень, повернення праху Коновальця",
+    "summary": "Бойові дії на Донеччині, 198 бойових зіткнень, ворожі обстріли, удари по ворожих військових об’єктах в Криму. Яким запам’ятається 1632-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/13/758820_golovne_chetver_13_serpnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T20:59:00+00:00",
+    "fetched": "2026-08-13T22:12:30+00:00",
+    "image": "https://i.lb.ua/news/049/49/6a7e34f48ec68.jpg"
   },
   {
     "id": "655cda5cf56d279c",
@@ -49054,89 +49162,5 @@
     "published": "2026-07-30T22:17:00+00:00",
     "fetched": "2026-07-30T22:37:03+00:00",
     "image": "https://i.lb.ua/news/046/14/6a6bd1031d4ec.jpg"
-  },
-  {
-    "id": "66dea64ecaee13c0",
-    "title": "Під час атаки на Київ російська ракета зруйнувала американський завод з виготовлення дронів – ЗМІ",
-    "summary": "За даними ЗМІ, під час атаки на Київ російська ракета зруйнувала американський завод з виготовлення дронів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046626/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T22:12:00+00:00",
-    "fetched": "2026-07-30T22:37:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/884212/f3c3c48d89e946beaa0a9ed576e61735.jpeg"
-  },
-  {
-    "id": "3dea8a8f75885934",
-    "title": "Xbox CEO lays out priorities in memo after major ‘reset’",
-    "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return…",
-    "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T22:10:13+00:00",
-    "fetched": "2026-07-30T22:37:03+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "2796402a60203682",
-    "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-    "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
-    "url": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T22:05:35+00:00",
-    "fetched": "2026-07-31T15:02:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-1152x648.jpg"
-  },
-  {
-    "id": "3767243dd278ea46",
-    "title": "В Укрзалізниці зростуть тарифи на вантажні перевезення",
-    "summary": "Тарифи зростуть на 30% з 1 серпня 2026 року та ще на 15% з 1 січня 2027 року.",
-    "url": "https://lb.ua/economics/2026/07/31/755652_ukrzaliznitsi_zrostut_tarifi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T21:56:00+00:00",
-    "fetched": "2026-07-30T22:37:03+00:00",
-    "image": "https://i.lb.ua/news/090/09/6a6bc7c2b5068.jpg"
-  },
-  {
-    "id": "8773b52ebab0d709",
-    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-    "summary": "Article URL: https://rune.build/blog/rune-1-1-release Comments URL: https://news.ycombinator.com/item?id=49116272 Points: 7 # Comments: 1",
-    "url": "https://rune.build/blog/rune-1-1-release",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T21:47:31+00:00",
-    "fetched": "2026-07-30T22:37:05+00:00",
-    "image": "https://rune.build/images/og4.png"
-  },
-  {
-    "id": "a183b9f0dd928009",
-    "title": "Рада ЄС погодила продовження тимчасового захисту для українців",
-    "summary": "Вперше спеціальний режим діятиме з винятками для військовозобов'язаних.",
-    "url": "https://lb.ua/society/2026/07/31/755660_rada_ies_pogodila_prodovzhennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T21:37:00+00:00",
-    "fetched": "2026-07-30T22:37:03+00:00",
-    "image": "https://i.lb.ua/news/091/36/6a6bc3cb44950.jpg"
-  },
-  {
-    "id": "d190dd6c0c2d8b06",
-    "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
-    "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct Comments URL: https://news.ycombinator.com/item?id=49116074 Points: 16 # Comments: 3",
-    "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T21:31:03+00:00",
-    "fetched": "2026-07-31T00:06:29+00:00",
-    "image": null
   }
 ]
