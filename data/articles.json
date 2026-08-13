@@ -1,5 +1,125 @@
 [
   {
+    "id": "29fd064951a79cc7",
+    "title": "Двох науковців підозрюють у вимаганні майже 1 млн гривень за погодження екологічного висновку",
+    "summary": "За даними слідства, кошти вимагали за ековисновок для проєкту розміщення вітроенергетичної установки на Черкащині.",
+    "url": "https://lb.ua/society/2026/08/13/758810_dvoh_naukovtsiv_pidozryuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T20:00:00+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://i.lb.ua/news/004/57/6a7e226c04991.jpg"
+  },
+  {
+    "id": "2ea2ca11caa67984",
+    "title": "У Британії масштабна пожежа охопила житлові будинки",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/13/8048601/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T19:41:00+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/a/c/ac4e9f8--------------1.jpg"
+  },
+  {
+    "id": "9921e9e1780cabe8",
+    "title": "Гідрометцентр: в п'ятницю в Україні буде тепло, опадів не прогнозується",
+    "summary": "Найтепліше буде на півдні та Закарпатті.",
+    "url": "https://lb.ua/society/2026/08/13/758808_gidromettsentr_pyatnitsyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T19:39:00+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://i.lb.ua/news/020/16/6a7e1d86c8940.jpg"
+  },
+  {
+    "id": "285cb3fe6043e8c5",
+    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+    "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+    "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T19:38:58+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
+  },
+  {
+    "id": "7bececf76d957d3a",
+    "title": "OpenAI is losing its second executive this week",
+    "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic,…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T19:28:39+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1c14a4457a87dfb4",
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 4 # Comments: 0",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T19:25:38+00:00",
+    "fetched": "2026-08-13T20:04:47+00:00",
+    "image": null
+  },
+  {
+    "id": "c885d45d207d0a2b",
+    "title": "Від початку доби на фронті зафіксували майже дві сотні боїв – Генштаб",
+    "summary": "Від початку доби 13 серпня на фронті зафіксували 198 бойових зіткнень, з них 25 – на Костянтинівському напрямку.",
+    "url": "https://www.pravda.com.ua/news/2026/08/13/8048600/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T19:20:00+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/891536/cf6e48af0c78c422e021dae0bc4741d9.jpeg"
+  },
+  {
+    "id": "32ac0f41d623099e",
+    "title": "Генштаб: 198 боїв відбулось на фронті від початку доби",
+    "summary": "Найгарячіше на Костянтинівському та Покровському напрямках.",
+    "url": "https://lb.ua/society/2026/08/13/758806_genshtab_198_boyiv_vidbulos.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T19:13:00+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://i.lb.ua/news/101/32/6a7e17649640e.jpg"
+  },
+  {
+    "id": "b1fa5249146cd60b",
+    "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+    "summary": "Will it be the VSS... Horizon , Explorer , Ascend or Apeiron ?",
+    "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T19:12:15+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg"
+  },
+  {
+    "id": "d09148a54c23a2b2",
+    "title": "Family of Irish plane crash victim awarded $29m in damages",
+    "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+    "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-13T19:08:49+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82a7/live/6b9bb890-973e-11f1-96db-71945ca8cae7.jpg"
+  },
+  {
     "id": "abe618aebea226d4",
     "title": "СЗРУ: Росія посилює створення \"тіньового\" флоту для перевезення СПГ",
     "summary": "РФ скуповує на вторинному ринку старі газовози, які світові судноплавні компанії вже виводять з експлуатації.",
@@ -48,6 +168,42 @@
     "image": "https://i.lb.ua/news/118/06/6a7e12001bda9.jpg"
   },
   {
+    "id": "0d0766dadb5b7aaf",
+    "title": "Understanding is the new bottleneck",
+    "summary": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 19 # Comments: 5",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T18:47:19+00:00",
+    "fetched": "2026-08-13T20:04:47+00:00",
+    "image": "https://geoffreylitt.com/images/talks/understanding-bottleneck/card.jpg"
+  },
+  {
+    "id": "7a470e4fd867bc3e",
+    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "summary": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 20 # Comments: 3",
+    "url": "https://github.com/systemd/systemd/issues/40262",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T18:41:01+00:00",
+    "fetched": "2026-08-13T20:04:47+00:00",
+    "image": "https://opengraph.githubassets.com/e27ba23c438b779ffd11faa49a642375743a98e6c15ad152d3a5694f7c1e0d64/systemd/systemd/issues/40262"
+  },
+  {
+    "id": "5230e775c6cff0c3",
+    "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+    "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+    "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T18:31:56+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg"
+  },
+  {
     "id": "3082055f2de6196c",
     "title": "Всесвітня рада автоспорту зняла всі обмеження для російських та білоруських спортсменів",
     "summary": "Відтепер представники Росії та Білорусі можуть виступати без нейтрального статусу і з символікою своєї держави.",
@@ -94,6 +250,30 @@
     "published": "2026-08-13T18:18:00+00:00",
     "fetched": "2026-08-13T19:07:20+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/5/3/53c826f------1.jpg"
+  },
+  {
+    "id": "bf5538c003f05afe",
+    "title": "Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
+    "summary": "The vision plugin for OpenCode that truly understands images. Inspect, read, and reason about any screenshot or picture with deeper understanding than any other plugin — fully local, private, and free. Normally, it takes 300ms to analyse one image on my laptop, which is pretty…",
+    "url": "https://github.com/itsmeadarsh2008/opencode-senses",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T18:13:42+00:00",
+    "fetched": "2026-08-13T20:04:47+00:00",
+    "image": "https://opengraph.githubassets.com/45c7b93f3616715407b7258ed9a05f983e9b24669757be992c442039e38bcae4/itsmeadarsh2008/opencode-senses"
+  },
+  {
+    "id": "69284f51f0654054",
+    "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+    "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T18:10:14+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg"
   },
   {
     "id": "50f9ffd70672de72",
@@ -156,6 +336,30 @@
     "image": "https://i.lb.ua/news/050/60/6a7e04d6abd22.jpg"
   },
   {
+    "id": "522954cd963d2627",
+    "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+    "summary": "\"I've lost trust ...\"",
+    "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T17:53:53+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PDP-AF105-Carousel-07-1152x648.webp"
+  },
+  {
+    "id": "b3c7b117d4062c61",
+    "title": "Solid 2.0 RC: The Big",
+    "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal Comments URL: https://news.ycombinator.com/item?id=49289585 Points: 11 # Comments: 0",
+    "url": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T17:53:19+00:00",
+    "fetched": "2026-08-13T20:04:47+00:00",
+    "image": null
+  },
+  {
     "id": "306121c7e62e1ba3",
     "title": "Британія встановила новий температурний рекорд року",
     "summary": "",
@@ -214,6 +418,18 @@
     "published": "2026-08-13T17:38:00+00:00",
     "fetched": "2026-08-13T19:07:20+00:00",
     "image": "https://i.lb.ua/news/028/54/6a7e0147149de.jpg"
+  },
+  {
+    "id": "e3152e562fa7d4a4",
+    "title": "The new Instagram logo is the perfect embodiment of AI slop",
+    "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+    "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T17:32:10+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png"
   },
   {
     "id": "2aba6b7197bbec1e",
@@ -334,6 +550,18 @@
     "published": "2026-08-13T17:02:00+00:00",
     "fetched": "2026-08-13T17:30:32+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/1/e/1eb2efb-772496361-10244899912343301-3138784084925465720-n.jpg"
+  },
+  {
+    "id": "cf3951101d71f92d",
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T17:00:13+00:00",
+    "fetched": "2026-08-13T20:04:46+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
   },
   {
     "id": "d98f6931f8abce55",
@@ -48970,113 +49198,5 @@
     "published": "2026-07-30T20:06:00+00:00",
     "fetched": "2026-07-30T21:15:28+00:00",
     "image": "https://i.lb.ua/news/040/51/6a6baec2e677d.jpg"
-  },
-  {
-    "id": "9892f40e4a9d9185",
-    "title": "Ворог скинув авіабомби на спальний район Краматорська: поранено жінок",
-    "summary": "Російські окупаційні війська завдали авіаудару по спальному мікрорайону Краматорська Донецької області, попередньо відомо про двох поранених.",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046621/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T20:03:00+00:00",
-    "fetched": "2026-07-30T21:15:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/884201/7951f56a447030a2afc51144d7ecdcde.jpeg"
-  },
-  {
-    "id": "10e73d46c9a2fef2",
-    "title": "США запровадили санкції проти мереж, що допомагають авіакомпанії Ірану",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046620/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T19:43:00+00:00",
-    "fetched": "2026-07-30T21:15:28+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/c/a/ca5a01c-mahan-air-boeing-747-400-kvw.jpg"
-  },
-  {
-    "id": "d127264281219f66",
-    "title": "В п'ятницю в Україні не прогнозується відключень світла",
-    "summary": "В \"Укренерго\" закликали споживати електроенергію раціонально, особливо у вечірній час.",
-    "url": "https://lb.ua/economics/2026/07/30/755644_pyatnitsyu_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T19:40:00+00:00",
-    "fetched": "2026-07-30T21:15:28+00:00",
-    "image": "https://i.lb.ua/news/033/31/6a6ba8c79ad1e.jpg"
-  },
-  {
-    "id": "f217e629e1bd1737",
-    "title": "Росіяни вдарили реактивним дроном по Сумщині: шестеро поранених",
-    "summary": "У Кролевецькій громаді Сумської області російський дрон завдав удару по цивільній інфраструктурі: поранено шістьох людей.",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046619/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T19:35:00+00:00",
-    "fetched": "2026-07-30T19:39:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/884191/0f0213529ecb0b09362124218fb7dc05.jpeg"
-  },
-  {
-    "id": "8f1425b317dc7c4a",
-    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-    "summary": "Article URL: https://github.com/AminBlg/SimpleEnglish Comments URL: https://news.ycombinator.com/item?id=49114639 Points: 14 # Comments: 5",
-    "url": "https://github.com/AminBlg/SimpleEnglish",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T19:34:27+00:00",
-    "fetched": "2026-07-30T21:15:31+00:00",
-    "image": "https://opengraph.githubassets.com/0ce661cad10de9c7e21614282ecd5874019d2f7211825fe3927ca4b18ae54ff0/AminBlg/SimpleEnglish"
-  },
-  {
-    "id": "b53f74c9b1705937",
-    "title": "226 боїв відбулось на фронті від початку доби",
-    "summary": "Найбільше атак зафіксовано на Костянтинівському, Покровському та Слов'янському напрямках.",
-    "url": "https://lb.ua/society/2026/07/30/755642_226_boyiv_vidbulos_fronti_vid.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T19:27:00+00:00",
-    "fetched": "2026-07-30T19:39:37+00:00",
-    "image": "https://i.lb.ua/news/019/39/6a6ba5bf8c404.jpg"
-  },
-  {
-    "id": "67cca1a391059d72",
-    "title": "Chrome may get faster updates with no restart required",
-    "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
-    "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T19:26:56+00:00",
-    "fetched": "2026-07-31T15:02:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png"
-  },
-  {
-    "id": "b1f5ae344226237b",
-    "title": "Зеленський прийняв вірчі грамоти від нових послів кількох країн",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/07/30/8046617/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T19:17:00+00:00",
-    "fetched": "2026-07-30T19:39:37+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/8/d/8dccc45-images--46-.jpg"
-  },
-  {
-    "id": "695ddb0dc5bf6ed3",
-    "title": "\"Білі Янголи\" евакуювали з Куп'янщини 27 людей",
-    "summary": "Серед них маломобільні громадяни та один поранений.",
-    "url": "https://lb.ua/society/2026/07/30/755636_bili_yangoli_evakuyuvali_z.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T19:17:00+00:00",
-    "fetched": "2026-07-30T19:39:37+00:00",
-    "image": "https://i.lb.ua/news/024/61/6a6ba349a89a2.jpg"
   }
 ]
