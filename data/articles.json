@@ -1,5 +1,53 @@
 [
   {
+    "id": "a175f88c65b4357b",
+    "title": "Міністр війни США заперечив жахливі умови на авіаносці USS Abraham Lincoln",
+    "summary": "Флагман ударної групи на Близькому Сході вже 9 місяців не заходив у порт.",
+    "url": "https://lb.ua/world/2026/08/14/758828_ministr_viyni_ssha_zaperechiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T22:52:00+00:00",
+    "fetched": "2026-08-13T23:12:37+00:00",
+    "image": "https://i.lb.ua/news/111/11/6a7e488b2978d.jpg"
+  },
+  {
+    "id": "28af12da20001842",
+    "title": "Трамп запровадив 100% мита на імпорт дронів та комплектуючих до них",
+    "summary": "Президент США Дональд Трамп запровадив мита на імпорт безпілотників та їхніх комплектуючих, у тому числі з низки країн-союзниць, заявивши про загрозу національній безпеці через надмірну залежність від іноземних постачальників.",
+    "url": "https://www.pravda.com.ua/news/2026/08/14/8048609/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T22:35:00+00:00",
+    "fetched": "2026-08-13T23:12:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/2/891569/32ce90c8de98f0baf6a26e8ab55cb901.jpeg"
+  },
+  {
+    "id": "0a2738e0cc3f6e67",
+    "title": "US sells 30-year bonds at highest borrowing costs since 2001",
+    "summary": "https://archive.ph/cbzl0 Comments URL: https://news.ycombinator.com/item?id=49292567 Points: 29 # Comments: 26",
+    "url": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T22:24:47+00:00",
+    "fetched": "2026-08-13T23:12:41+00:00",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4dcdffbc-27eb-4ed3-a090-368797f6f8f7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+  },
+  {
+    "id": "52ea8e1b184589c7",
+    "title": "Аеропорт у Південній Кореї став найбільш завантаженим у світі через кризу на Близькому Сході",
+    "summary": "Головні повітряні ворота країни випередили європейський Гітроу та Сінгапур.",
+    "url": "https://lb.ua/world/2026/08/14/758826_aeroport_pivdenniy_koreyi_stav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T22:23:00+00:00",
+    "fetched": "2026-08-13T23:12:37+00:00",
+    "image": "https://i.lb.ua/news/067/57/6a7e43e88fcfc.jpg"
+  },
+  {
     "id": "7d0139126fc947cb",
     "title": "Попри запевнення Трампа про безпеку: Іран атакував два судна ОАЕ в Ормузькій протоці",
     "summary": "Міністерство закордонних справ Об'єднаних Арабських Еміратів звинуватило Іран в атаці на два судна державної нафтової компанії Абу-Дабі ADNOC в Ормузькій протоці лише через кілька днів після публічних запевнень президента США Трампа про безпеку судноплавства та \"100% контроль\"…",
@@ -49090,77 +49138,5 @@
     "published": "2026-07-30T23:20:00+00:00",
     "fetched": "2026-07-31T00:06:29+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/d/884220/ad1f0104ca1204057705cd03c86d2e70.jpeg"
-  },
-  {
-    "id": "d382e1dba0c73c1f",
-    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals Comments URL: https://news.ycombinator.com/item?id=49116922 Points: 48 # Comments: 30",
-    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T23:00:51+00:00",
-    "fetched": "2026-07-31T00:06:29+00:00",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather"
-  },
-  {
-    "id": "0b3f17321d90b208",
-    "title": "Трамп заявив про досягнення \"історичної угоди\" про повне роззброєння ХАМАС у Газі",
-    "summary": "Трамп заявив, що досягнуто угоди про повне роззброєння ХАМАС у Газі.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046627/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T22:58:00+00:00",
-    "fetched": "2026-07-31T00:06:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/884219/b9c8a813f9a2dc16b36a0fcff95c9acd.jpeg"
-  },
-  {
-    "id": "8448d2434c37f6d1",
-    "title": "Іран пригрозив Болгарії та Кіпру через розміщення американських літаків",
-    "summary": "МЗС ісламської республіки залякує союзників Сполучених Штатів у Європі.",
-    "url": "https://lb.ua/world/2026/07/31/755666_iran_prigroziv_bolgariyi_kipru.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T22:49:00+00:00",
-    "fetched": "2026-07-31T00:06:28+00:00",
-    "image": "https://i.lb.ua/news/093/31/6a6bd72673a17.jpg"
-  },
-  {
-    "id": "4ad44c609c51f1ae",
-    "title": "I flagged two research papers for fake authors and both were accepted as orals",
-    "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49116721 Points: 40 # Comments: 6",
-    "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T22:33:11+00:00",
-    "fetched": "2026-07-31T00:06:29+00:00",
-    "image": null
-  },
-  {
-    "id": "ee384203db2a6b56",
-    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-    "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities…",
-    "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T22:29:45+00:00",
-    "fetched": "2026-07-30T22:37:03+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "f033beb0d3bb95c5",
-    "title": "\"ЛНЗ\" завершив боротьбу у Лізі конференцій, програвши по пенальті \"Генту\"",
-    "summary": "Прикра невдача черкаського клубу, який був близьким до сенсації.",
-    "url": "https://lb.ua/sport/2026/07/31/755664_lnz_zavershiv_borotbu_lizi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T22:17:00+00:00",
-    "fetched": "2026-07-30T22:37:03+00:00",
-    "image": "https://i.lb.ua/news/046/14/6a6bd1031d4ec.jpg"
   }
 ]
