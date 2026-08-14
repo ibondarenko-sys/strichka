@@ -1,5 +1,41 @@
 [
   {
+    "id": "24f5c2282116c3dd",
+    "title": "Трамп запровадив 100% мита на дрони і компоненти",
+    "summary": "Рішення мотивоване загрозою для національної безпеки США.",
+    "url": "https://lb.ua/world/2026/08/14/758830_tramp_zaprovadiv_100_mita_droni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-13T23:34:00+00:00",
+    "fetched": "2026-08-14T00:08:15+00:00",
+    "image": "https://i.lb.ua/news/040/38/6a7e54abbf744.jpg"
+  },
+  {
+    "id": "32b7deaf3a6437ce",
+    "title": "How AI text watermarking works",
+    "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 4 # Comments: 0",
+    "url": "https://declaude.org/watermarking/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T23:16:55+00:00",
+    "fetched": "2026-08-14T00:08:15+00:00",
+    "image": "https://declaude.org/watermarking/og.png?v=2"
+  },
+  {
+    "id": "57a617127f302233",
+    "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+    "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's…",
+    "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-13T23:13:24+00:00",
+    "fetched": "2026-08-14T00:08:15+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "a175f88c65b4357b",
     "title": "Міністр війни США заперечив жахливі умови на авіаносці USS Abraham Lincoln",
     "summary": "Флагман ударної групи на Близькому Сході вже 9 місяців не заходив у порт.",
@@ -49066,77 +49102,5 @@
     "published": "2026-07-31T00:18:00+00:00",
     "fetched": "2026-07-31T04:01:38+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/7/2/7205aa9-1212.jpg"
-  },
-  {
-    "id": "f1694d07baa54b8f",
-    "title": "Російський удар ракетою КНДР свідчить про нові запаси зброї, якими Москва може посилити атаки – Reuters",
-    "summary": "За даними Reuters, російський удар північнокорейською ракетою по Радушному біля Кривого Рогу свідчить про наявність нових запасів зброї, якими Москва може скористатися в умовах посилення ракетних атак.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046629/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T00:06:00+00:00",
-    "fetched": "2026-07-31T04:01:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/884221/273960334046733af8a222e1fc0e1355.jpeg"
-  },
-  {
-    "id": "521daecb05777995",
-    "title": "The Religion of Speed",
-    "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/ Comments URL: https://news.ycombinator.com/item?id=49117284 Points: 35 # Comments: 10",
-    "url": "https://graybeard.ing/the-religion-of-speed/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T23:43:22+00:00",
-    "fetched": "2026-07-31T04:01:42+00:00",
-    "image": "https://graybeard.ing/static/og-image.png"
-  },
-  {
-    "id": "2c84d1a306e8b4bf",
-    "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-    "summary": "Israel and Hamas have yet to comment on the announcement.",
-    "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-30T23:30:41+00:00",
-    "fetched": "2026-07-31T00:06:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "4a7e77917b85e8fa",
-    "title": "ЗМІ: Віткофф та Кушнер вперше приїдуть до Києва на День Незалежності",
-    "summary": "Переговорники Дональда Трампа тривалий час відмовлялись відвідувати Україну.",
-    "url": "https://lb.ua/society/2026/07/31/755668_zmi_vitkoff_kushner_vpershe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T23:28:00+00:00",
-    "fetched": "2026-07-31T00:06:28+00:00",
-    "image": "https://i.lb.ua/news/021/58/6a6bde4f33436.jpg"
-  },
-  {
-    "id": "cfcccf116d3f84e6",
-    "title": "The AI Aesthetic",
-    "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 10 # Comments: 2",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-30T23:22:16+00:00",
-    "fetched": "2026-07-31T00:06:29+00:00",
-    "image": null
-  },
-  {
-    "id": "8772875fcabf3268",
-    "title": "Окупанти перекривали Кримський міст, у Севастополі заявили про роботу ППО",
-    "summary": "Вночі 31 липня в окупованому Севастополі заявили про роботу ППО.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046628/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-30T23:20:00+00:00",
-    "fetched": "2026-07-31T00:06:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/d/884220/ad1f0104ca1204057705cd03c86d2e70.jpeg"
   }
 ]
