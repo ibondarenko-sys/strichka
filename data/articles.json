@@ -12,6 +12,18 @@
     "image": "https://i.lb.ua/news/072/06/6a7f99bc705c0.jpg"
   },
   {
+    "id": "fb3e12576f30028d",
+    "title": "RISC-V: They should have known better",
+    "summary": "Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV Comments URL: https://news.ycombinator.com/item?id=49305492 Points: 26 # Comments: 3",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T22:38:34+00:00",
+    "fetched": "2026-08-14T23:26:04+00:00",
+    "image": "https://dmitry.gr/images/icons/RV.png"
+  },
+  {
     "id": "fe94efd47cb78936",
     "title": "Термінал \"Шесхаріс\" у Новоросійську призупинив роботу після атаки дронів – ЗМІ",
     "summary": "У Росії після атаки дронів на Новоросійськ термінал \"Шесхаріс\" призупинив роботу.",
@@ -360,6 +372,18 @@
     "image": null
   },
   {
+    "id": "1a815948b42ab7c0",
+    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+    "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-14T19:20:43+00:00",
+    "fetched": "2026-08-14T23:25:59+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg"
+  },
+  {
     "id": "8b934f0a1cfa4bda",
     "title": "What You Gain by Building Your Own Game Engine",
     "summary": "Article URL: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html Comments URL: https://news.ycombinator.com/item?id=49303405 Points: 6 # Comments: 1",
@@ -636,6 +660,18 @@
     "image": "https://i.lb.ua/news/071/04/6a7f5bb8cd04e.jpg"
   },
   {
+    "id": "8f4eb7a3293f34b7",
+    "title": "Racket v9.3",
+    "summary": "Article URL: https://blog.racket-lang.org/2026/08/racket-v9-3.html Comments URL: https://news.ycombinator.com/item?id=49302562 Points: 17 # Comments: 0",
+    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T18:14:48+00:00",
+    "fetched": "2026-08-14T23:26:04+00:00",
+    "image": null
+  },
+  {
     "id": "6e2dcf8bc8e9a8cd",
     "title": "Президент заслухав доповідь головкома: говорили про посилення напрямків Слов’янська та Костянтинівки",
     "summary": "Президент Володимир Зеленський 14 серпня визначив із головнокомандувачем ЗСУ Михайлом Драпатим кроки, щоб посилити напрямки Слов'янська та Костянтинівки.",
@@ -790,6 +826,18 @@
     "published": "2026-08-14T17:40:00+00:00",
     "fetched": "2026-08-14T18:25:33+00:00",
     "image": "https://i.lb.ua/news/110/48/6a7f517473a31.jpg"
+  },
+  {
+    "id": "39944a5a51fd7a8b",
+    "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+    "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-14T17:36:27+00:00",
+    "fetched": "2026-08-14T23:25:59+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg"
   },
   {
     "id": "26d7832311eb7f51",
@@ -49210,17 +49258,5 @@
     "published": "2026-07-31T23:41:10+00:00",
     "fetched": "2026-08-01T14:36:38+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f06/live/74ae3130-8a6c-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "09cd2ed8baa8423e",
-    "title": "\"Можемо взяти практично все, що захочемо\" – Трамп про угоду з Україною про надра",
-    "summary": "Президент США Дональд Трамп зробив заяву з приводу угоди про рідкісноземельні ресурси, яка, за його словами, забезпечує Сполученим Штатам доступ до українських надр і може виявитися вигіднішою за обсяг наданої американської допомоги.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046779/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T23:12:00+00:00",
-    "fetched": "2026-08-01T01:04:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/884671/37b008ab3c767cfaa11bc38acfbececb.jpeg"
   }
 ]
