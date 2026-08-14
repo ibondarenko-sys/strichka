@@ -1,5 +1,29 @@
 [
   {
+    "id": "40eb072c4c39bb58",
+    "title": "В Ірані заявили, що не прийняли рішення про відновлення переговорів із США",
+    "summary": "В Ірані кажуть, що не вирішили питання переговорів із США.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048755/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T23:32:00+00:00",
+    "fetched": "2026-08-14T23:50:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/892086/cf34ddca242d18b33c4a46b388d7eee6.jpeg"
+  },
+  {
+    "id": "96f8421f3c550640",
+    "title": "Звинуваченого у плагіаті експрофесора Кембриджа знайшли мертвим",
+    "summary": "Шок для академічної спільноти Британії.",
+    "url": "https://lb.ua/world/2026/08/15/759086_zvinuvachenogo_plagiati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T23:29:00+00:00",
+    "fetched": "2026-08-14T23:50:11+00:00",
+    "image": "https://i.lb.ua/news/079/18/6a7fa4ad45d40.jpg"
+  },
+  {
     "id": "d4d8e485deae1827",
     "title": "Трамп пообіцяв оголосити Ормузьку протоку територією США",
     "summary": "Це станеться після того, як він \"завершить завдання поразки Ірану\".",
@@ -49246,17 +49270,5 @@
     "published": "2026-07-31T23:58:12+00:00",
     "fetched": "2026-08-01T07:29:52+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87d/live/23d70e10-8bf9-11f1-b8ee-9b3c26ad07bb.png"
-  },
-  {
-    "id": "efd99c237c2df6f4",
-    "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-    "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-    "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-31T23:41:10+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f06/live/74ae3130-8a6c-11f1-a7ab-8b30adf0800a.jpg"
   }
 ]
