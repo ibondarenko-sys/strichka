@@ -1,5 +1,65 @@
 [
   {
+    "id": "0cf78a99e7581422",
+    "title": "Гідрометцентр: на вихідних в Україні буде тепло та без опадів",
+    "summary": "В більшості областей стовпчики термометрів піднімуться до +33°.",
+    "url": "https://lb.ua/society/2026/08/14/759064_gidromettsentr_vihidnih_ukrayini.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T19:55:00+00:00",
+    "fetched": "2026-08-14T20:05:33+00:00",
+    "image": "https://i.lb.ua/news/013/54/6a7f70d382ef7.jpg"
+  },
+  {
+    "id": "d5e55547fc3f18ac",
+    "title": "У Румунії вчетверте за день знайшли уламки дрона",
+    "summary": "Міністерство оборони Румунії повідомило про виявлення уламків ще одного безпілотника в селі Плауру, що у прикордонному повіті Тулча.",
+    "url": "https://www.pravda.com.ua/news/2026/08/14/8048747/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T19:43:00+00:00",
+    "fetched": "2026-08-14T20:05:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/e/892033/2e935be533c385bfcbf8d72f7d441739.jpeg"
+  },
+  {
+    "id": "24a2b2c933ab525e",
+    "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+    "summary": "Article URL: https://arxiv.org/abs/2608.11158 Comments URL: https://news.ycombinator.com/item?id=49303652 Points: 3 # Comments: 0",
+    "url": "https://arxiv.org/abs/2608.11158",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:41:42+00:00",
+    "fetched": "2026-08-14T20:05:36+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "36193beafe1ba621",
+    "title": "В Ормузькій протоці утворилась величезна нафтова пляма, розміром з понад 40 000 футбольних полів",
+    "summary": "За даними аналітиків, вона виникла внаслідок атаки на судно 3 серпня.",
+    "url": "https://lb.ua/world/2026/08/14/759060_ormuzkiy_prototsi_utvorilas.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T19:34:00+00:00",
+    "fetched": "2026-08-14T20:05:33+00:00",
+    "image": "https://i.lb.ua/news/008/55/6a7f6dd45925c.jpg"
+  },
+  {
+    "id": "9b08d74e06657777",
+    "title": "Z.ai Security Disclosure",
+    "summary": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 20 # Comments: 3",
+    "url": "https://cvd.z.ai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:22:00+00:00",
+    "fetched": "2026-08-14T20:05:36+00:00",
+    "image": null
+  },
+  {
     "id": "3f1f4cfcec1e3969",
     "title": "Samsung has new Galaxy headphones in the works",
     "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in…",
@@ -10,6 +70,18 @@
     "published": "2026-08-14T19:18:45+00:00",
     "fetched": "2026-08-14T19:29:26+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "8a4a811ddfc4a6b4",
+    "title": "How Claude's text watermarking works",
+    "summary": "Article URL: https://www.anthropic.com/news/claude-text-watermark Comments URL: https://news.ycombinator.com/item?id=49303350 Points: 15 # Comments: 8",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:15:51+00:00",
+    "fetched": "2026-08-14T20:05:36+00:00",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather"
   },
   {
     "id": "834bc2f66e8096c9",
@@ -34,6 +106,30 @@
     "published": "2026-08-14T19:13:00+00:00",
     "fetched": "2026-08-14T19:29:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/892026/19567839090098be4ac8b5250a43f461.jpeg"
+  },
+  {
+    "id": "56e0c316fbd36154",
+    "title": "High-Performance Array-Backed LRU Hash Table",
+    "summary": "Article URL: https://github.com/adanil-code/LRUHashTable Comments URL: https://news.ycombinator.com/item?id=49303292 Points: 3 # Comments: 0",
+    "url": "https://github.com/adanil-code/LRUHashTable",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:11:19+00:00",
+    "fetched": "2026-08-14T20:05:36+00:00",
+    "image": "https://opengraph.githubassets.com/a0f4ebe6c60beb011ad36f87211cb8ce6ed2be6d337eb3cc70f8b71e24b3eb63/adanil-code/LRUHashTable"
+  },
+  {
+    "id": "af3e0ee856e5faa3",
+    "title": "Open WireGuard Endpoints",
+    "summary": "Article URL: https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html Comments URL: https://news.ycombinator.com/item?id=49303237 Points: 6 # Comments: 0",
+    "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:05:46+00:00",
+    "fetched": "2026-08-14T20:05:36+00:00",
+    "image": "https://proxylity.com/images/now-available-open-wireguard-endpoints-and-async-lambda-hero.png"
   },
   {
     "id": "9f5119e530893b3f",
@@ -49102,65 +49198,5 @@
     "published": "2026-07-31T20:11:00+00:00",
     "fetched": "2026-07-31T20:22:03+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/884665/b5a01949758afeb59e730962d956c319.jpeg"
-  },
-  {
-    "id": "9a32b65d45d2a357",
-    "title": "Ігор Оболєнський прокоментував спробу замаху на себе",
-    "summary": "Він зазначив, що замах є ознакою страху ворога та заявив про відплату.",
-    "url": "https://lb.ua/society/2026/07/31/755898_igor_obolienskiy_prokomentuvav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T20:04:00+00:00",
-    "fetched": "2026-07-31T20:22:03+00:00",
-    "image": "https://i.lb.ua/news/120/41/6a6cffeba4350.jpg"
-  },
-  {
-    "id": "866706fcf4ea5563",
-    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-    "summary": "https://github.com/jwlaboratory/bite-the-bullet Comments URL: https://news.ycombinator.com/item?id=49127874 Points: 5 # Comments: 0",
-    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T19:55:41+00:00",
-    "fetched": "2026-07-31T21:39:43+00:00",
-    "image": null
-  },
-  {
-    "id": "cfecf63aba5ad433",
-    "title": "Сибіга анонсував нараду керівників закордонних дипломатичних установ у Києві",
-    "summary": "Посли та генконсули з'їдуться до України для синхронізації та підготовки до нового політичного сезону.",
-    "url": "https://lb.ua/news/2026/07/31/755896_sibiga_anonsuvav_naradu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T19:43:00+00:00",
-    "fetched": "2026-07-31T20:22:03+00:00",
-    "image": "https://i.lb.ua/news/085/34/6a6cfad28f1ef.jpg"
-  },
-  {
-    "id": "d3efc8146fcf7605",
-    "title": "Apple’s new AirTags are back down to their best price",
-    "summary": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If…",
-    "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T19:35:45+00:00",
-    "fetched": "2026-07-31T20:22:03+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0057.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "f93d47bb17d6764d",
-    "title": "Росіяни атакували три райони Харкова: пошкоджено будинок, є постраждалі",
-    "summary": "Внаслідок атаки дронів 31 липня у Харкові поранено трьох жінок, госпіталізовано, зафіксовано удари по кількох районах міста.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046772/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T19:30:00+00:00",
-    "fetched": "2026-07-31T20:22:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/884657/dc41313c694659266671c7f5c7312d29.jpeg"
   }
 ]
