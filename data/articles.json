@@ -1,5 +1,41 @@
 [
   {
+    "id": "d4d8e485deae1827",
+    "title": "Трамп пообіцяв оголосити Ормузьку протоку територією США",
+    "summary": "Це станеться після того, як він \"завершить завдання поразки Ірану\".",
+    "url": "https://lb.ua/world/2026/08/15/759084_tramp_poobitsyav_ogolositi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T22:48:00+00:00",
+    "fetched": "2026-08-14T22:52:46+00:00",
+    "image": "https://i.lb.ua/news/072/06/6a7f99bc705c0.jpg"
+  },
+  {
+    "id": "fe94efd47cb78936",
+    "title": "Термінал \"Шесхаріс\" у Новоросійську призупинив роботу після атаки дронів – ЗМІ",
+    "summary": "У Росії після атаки дронів на Новоросійськ термінал \"Шесхаріс\" призупинив роботу.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048754/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T22:34:00+00:00",
+    "fetched": "2026-08-14T22:52:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/a/892079/faacc3f1999e91971cebbd85d8804e6c.jpeg"
+  },
+  {
+    "id": "811a9738c5b13e78",
+    "title": "Конституційна рада Франції погодила закон про евтаназію",
+    "summary": "Право на асистовану смерть обіцяв виборцям президент Макрон.",
+    "url": "https://lb.ua/world/2026/08/15/759082_konstitutsiyna_rada_frantsiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T22:22:00+00:00",
+    "fetched": "2026-08-14T22:52:46+00:00",
+    "image": "https://i.lb.ua/news/086/12/6a7f95d2a342e.jpg"
+  },
+  {
     "id": "8e3085945a3d39ce",
     "title": "Троє людей постраждали на Харківщині через ворожі обстріли",
     "summary": "Росіяни атакували три населені пункти в Лозівській громаді.",
@@ -49186,53 +49222,5 @@
     "published": "2026-07-31T23:12:00+00:00",
     "fetched": "2026-08-01T01:04:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/884671/37b008ab3c767cfaa11bc38acfbececb.jpeg"
-  },
-  {
-    "id": "ac790763acf04675",
-    "title": "Росіяни атакують Київ балістикою і \"Цирконами\" (доповнюється)",
-    "summary": "Знову ракетна небезпека для столиці.",
-    "url": "https://lb.ua/society/2026/08/01/755916_rosiyani_atakuyut_kiyiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T22:40:00+00:00",
-    "fetched": "2026-07-31T23:06:15+00:00",
-    "image": "https://i.lb.ua/news/120/34/6a6d24a1d7592.jpg"
-  },
-  {
-    "id": "f3d5de36d47e99af",
-    "title": "Росіяни атакували Київ балістикою і \"Цирконами\", є загиблі (доповнено)",
-    "summary": "Знову ракетна небезпека для столиці.",
-    "url": "https://lb.ua/society/2026/08/01/755916_rosiyani_atakuvali_kiyiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T22:40:00+00:00",
-    "fetched": "2026-08-01T01:04:36+00:00",
-    "image": "https://i.lb.ua/news/120/34/6a6d24a1d7592.jpg"
-  },
-  {
-    "id": "9717e4b1d621c223",
-    "title": "Ворог атакує Київ балістикою, в місті пролунали вибухи",
-    "summary": "У ніч на 1 серпня росіяни атакували Київ балістичними ракетами.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046778/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T22:32:00+00:00",
-    "fetched": "2026-07-31T23:06:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/e/884670/6e6a5b91804935dee450faf01531a1b7.jpeg"
-  },
-  {
-    "id": "c8461c9241424739",
-    "title": "США готуються завдати нових ударів по Ірану упродовж вихідних",
-    "summary": "В Ізраїлі сподіваються, що цілями нарешті стануть енергетичні об'єкти.",
-    "url": "https://lb.ua/world/2026/08/01/755914_ssha_gotuyutsya_zavdati_novih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T22:31:00+00:00",
-    "fetched": "2026-07-31T23:06:15+00:00",
-    "image": "https://i.lb.ua/news/048/18/6a6d22dc4044e.jpg"
   }
 ]
