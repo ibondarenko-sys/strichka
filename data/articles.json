@@ -1,5 +1,41 @@
 [
   {
+    "id": "8e3085945a3d39ce",
+    "title": "Троє людей постраждали на Харківщині через ворожі обстріли",
+    "summary": "Росіяни атакували три населені пункти в Лозівській громаді.",
+    "url": "https://lb.ua/society/2026/08/15/759080_troie_lyudey_postrazhdali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T21:56:00+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": "https://i.lb.ua/news/095/33/6a7f8ceda43a6.jpg"
+  },
+  {
+    "id": "da053b4794433e2b",
+    "title": "У Німеччині пожежа охопила понад 200 гектарів: евакуювали 2 тисячі людей",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048753/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T21:54:00+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/a/7a425d7-----------.jpg"
+  },
+  {
+    "id": "0b191851a3ce4a57",
+    "title": "Ілон Маск витратить 100 мільйонів доларів на допомогу республіканцям під час проміжних виборів",
+    "summary": "Між першим в історії людства трильйонером і президентом Трампом відбулось примирення.",
+    "url": "https://lb.ua/world/2026/08/15/759078_ilon_mask_vitratit_100_milyoniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T21:45:00+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": "https://i.lb.ua/news/041/55/6a7f8db52edd4.jpg"
+  },
+  {
     "id": "2b2c7615559411f3",
     "title": "Від початку року Державна служба зайнятості працевлаштувала понад 181 тисячу українців",
     "summary": "Найбільше пропозицій роботи було на Львівщині.",
@@ -82,6 +118,18 @@
     "published": "2026-08-14T20:53:00+00:00",
     "fetched": "2026-08-14T21:32:43+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/892048/9add1a2119829b0b2f61e3c6171397c9.jpeg"
+  },
+  {
+    "id": "2aef493714926de9",
+    "title": "Everything is about to \"go dark\"",
+    "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 72 # Comments: 37",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T20:52:44+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/08/thewire.jpg?fit=1200%2C695&ssl=1"
   },
   {
     "id": "08ea28c7365562f8",
@@ -360,6 +408,18 @@
     "image": "https://proxylity.com/images/now-available-open-wireguard-endpoints-and-async-lambda-hero.png"
   },
   {
+    "id": "1895a92afc985df2",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "summary": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html Comments URL: https://news.ycombinator.com/item?id=49303202 Points: 110 # Comments: 22",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:03:20+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024"
+  },
+  {
     "id": "9f5119e530893b3f",
     "title": "Найбільші оборонні компанії США змагаються у створенні дешевших ракет",
     "summary": "Вони також об'єднуються з меншими фірмами, щоб запропонувати альтернативу складним і повільним у виробництві снарядам.",
@@ -432,6 +492,18 @@
     "image": "https://i.lb.ua/news/027/45/6a7f61ffd6b3b.jpg"
   },
   {
+    "id": "689563710cfc415e",
+    "title": "The American sports plutocracy",
+    "summary": "Article URL: https://www.derekthompson.org/p/the-american-sports-plutocracy-is Comments URL: https://news.ycombinator.com/item?id=49302943 Points: 29 # Comments: 14",
+    "url": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T18:43:49+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": "https://images.unsplash.com/photo-1719521178357-64ac2316f0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxsYWtlcnN8ZW58MHx8fHwxNzg2NjcyNDU0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
     "id": "c11d6d31d0869d06",
     "title": "Польський суд звільнив директора CEO Club Ukraine Дмитра Карчука",
     "summary": "Німецька сторона відкликала ордер на арешт.",
@@ -466,6 +538,18 @@
     "published": "2026-08-14T18:32:14+00:00",
     "fetched": "2026-08-14T19:29:26+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
+  },
+  {
+    "id": "1ec8deac7695ce00",
+    "title": "Every fucking website: 2026 edition",
+    "summary": "Article URL: https://op.tngl.io/every-fucking-website/ Comments URL: https://news.ycombinator.com/item?id=49302737 Points: 24 # Comments: 10",
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T18:27:14+00:00",
+    "fetched": "2026-08-14T22:27:41+00:00",
+    "image": null
   },
   {
     "id": "7d85fee523da7649",
@@ -49150,101 +49234,5 @@
     "published": "2026-07-31T22:31:00+00:00",
     "fetched": "2026-07-31T23:06:15+00:00",
     "image": "https://i.lb.ua/news/048/18/6a6d22dc4044e.jpg"
-  },
-  {
-    "id": "7c5842c642453cc6",
-    "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-    "summary": "Some group with no modern descendants contributed a lot to our genomes.",
-    "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T22:17:05+00:00",
-    "fetched": "2026-07-31T23:06:14+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163385148-1024x648.jpg"
-  },
-  {
-    "id": "49a7a32eae69a64b",
-    "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-    "summary": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a…",
-    "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T22:09:11+00:00",
-    "fetched": "2026-07-31T23:06:14+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-sharge-disk-pro-2-sean-hollister-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ad77f61ff0f49ba1",
-    "title": "Росіяни атакували Суми та область безпілотниками: є постраждалі",
-    "summary": "Троє поранених у важкому стані.",
-    "url": "https://lb.ua/society/2026/08/01/755908_rosiyani_atakuvali_sumi_oblast.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T22:00:00+00:00",
-    "fetched": "2026-07-31T23:06:15+00:00",
-    "image": "https://i.lb.ua/news/075/03/6a6d1b8656d1a.jpg"
-  },
-  {
-    "id": "200d8c664f277c9e",
-    "title": "Росіяни атакували дронами мирних жителів на Сумщині: троє поранених у важкому стані",
-    "summary": "Через атаку ворожих дронів на Сумщині троє людей отримали важкі поранення.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046777/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T21:56:00+00:00",
-    "fetched": "2026-07-31T23:06:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/884669/c8773582dd3d3ffb5647f38884030f06.jpeg"
-  },
-  {
-    "id": "c30717c14de3d218",
-    "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-    "summary": "The term \"Milwaukee Should Syndrome\" was coined in 1981, based on cases in four women.",
-    "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T21:51:52+00:00",
-    "fetched": "2026-07-31T23:06:14+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1423101491-1152x648.jpg"
-  },
-  {
-    "id": "cea92a2c33ba5c67",
-    "title": "Держдепартамент США осоромився мапою африканських країн, створеною ШІ",
-    "summary": "Для презентації на заході у Бразилії використали зображення з дитячими помилками.",
-    "url": "https://lb.ua/world/2026/08/01/755912_derzhdepartament_ssha.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T21:47:00+00:00",
-    "fetched": "2026-07-31T23:06:15+00:00",
-    "image": "https://i.lb.ua/news/004/03/6a6d18c498fd6.jpg"
-  },
-  {
-    "id": "6604d322a0c5a8fd",
-    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-    "summary": "Article URL: https://code.intellios.ai/cwbrowser/ Comments URL: https://news.ycombinator.com/item?id=49128826 Points: 75 # Comments: 21",
-    "url": "https://code.intellios.ai/cwbrowser/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T21:39:52+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": null
-  },
-  {
-    "id": "4e0eceb3e08c328a",
-    "title": "Google plans to exempt sanctioned nations from Android developer verification",
-    "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
-    "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T21:35:56+00:00",
-    "fetched": "2026-07-31T23:06:14+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"
   }
 ]
