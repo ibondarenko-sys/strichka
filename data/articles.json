@@ -1,5 +1,77 @@
 [
   {
+    "id": "093fd929c964b445",
+    "title": "В Румунії знайшли уламки ще одного дрона - вже четверті за день",
+    "summary": "Уламки виявили приблизно за два кілометри від українського кордону.",
+    "url": "https://lb.ua/world/2026/08/14/759068_rumuniyi_znayshli_ulamki_sche.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T20:35:00+00:00",
+    "fetched": "2026-08-14T20:56:55+00:00",
+    "image": "https://i.lb.ua/news/077/27/6a7f7bfdbc17f.jpg"
+  },
+  {
+    "id": "7f0a320ad9d84d6b",
+    "title": "Будівельники в Бельгії натрапили на схованку із золотом на 9 млн євро",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/14/8048749/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T20:28:00+00:00",
+    "fetched": "2026-08-14T20:56:55+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/e/6e69d26---------------.jpg"
+  },
+  {
+    "id": "fd0dcfb3e1cff252",
+    "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+    "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+    "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-14T20:22:56+00:00",
+    "fetched": "2026-08-14T20:56:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/7141a7f0-9806-11f1-8f19-057f099340f6.jpg"
+  },
+  {
+    "id": "28920f897361b8c6",
+    "title": "Водія \"Червоного Хреста\" забрали до ТЦК під час евакуації сімей із Херсона: триває розслідування",
+    "summary": "На Миколаївщині 14 серпня поліцейські зупинили евакуаційний екіпаж Червоного Хреста з Херсона та забрали водія до ТЦК: триває службове розслідування.",
+    "url": "https://www.pravda.com.ua/news/2026/08/14/8048748/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T20:17:00+00:00",
+    "fetched": "2026-08-14T20:56:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/892034/249e5474d1d1f4c48c96ad67667c5818.jpeg"
+  },
+  {
+    "id": "96e95c38f9f3446a",
+    "title": "Росіяни атакували дронами Суми: є пошкодження",
+    "summary": "Окупанти вдарили по приватному сектору та по території непрацюючої АЗС.",
+    "url": "https://lb.ua/society/2026/08/14/759066_rosiyani_atakuvali_dronami_sumi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-14T20:12:00+00:00",
+    "fetched": "2026-08-14T20:56:55+00:00",
+    "image": "https://i.lb.ua/news/019/60/6a7f76cd6d535.jpg"
+  },
+  {
+    "id": "88ce0e0811a5c229",
+    "title": "Every exterior shot in The Taking of Pelham 123",
+    "summary": "Article URL: https://iafisher.com/2026/07/pelham-123 Comments URL: https://news.ycombinator.com/item?id=49303957 Points: 4 # Comments: 0",
+    "url": "https://iafisher.com/2026/07/pelham-123",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T20:10:49+00:00",
+    "fetched": "2026-08-14T20:56:56+00:00",
+    "image": null
+  },
+  {
     "id": "0cf78a99e7581422",
     "title": "Гідрометцентр: на вихідних в Україні буде тепло та без опадів",
     "summary": "В більшості областей стовпчики термометрів піднімуться до +33°.",
@@ -10,6 +82,18 @@
     "published": "2026-08-14T19:55:00+00:00",
     "fetched": "2026-08-14T20:05:33+00:00",
     "image": "https://i.lb.ua/news/013/54/6a7f70d382ef7.jpg"
+  },
+  {
+    "id": "c499ecff7a9b0b08",
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c1j1ye6n30no Comments URL: https://news.ycombinator.com/item?id=49303774 Points: 43 # Comments: 28",
+    "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:51:49+00:00",
+    "fetched": "2026-08-14T20:56:56+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg"
   },
   {
     "id": "d5e55547fc3f18ac",
@@ -36,6 +120,18 @@
     "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
+    "id": "088a49765bcd6c01",
+    "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
+    "summary": "Article URL: https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo Comments URL: https://news.ycombinator.com/item?id=49303592 Points: 28 # Comments: 4",
+    "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:36:18+00:00",
+    "fetched": "2026-08-14T20:56:56+00:00",
+    "image": null
+  },
+  {
     "id": "36193beafe1ba621",
     "title": "В Ормузькій протоці утворилась величезна нафтова пляма, розміром з понад 40 000 футбольних полів",
     "summary": "За даними аналітиків, вона виникла внаслідок атаки на судно 3 серпня.",
@@ -48,6 +144,30 @@
     "image": "https://i.lb.ua/news/008/55/6a7f6dd45925c.jpg"
   },
   {
+    "id": "cfa68699f2881186",
+    "title": "Anthropic Risk August 2026 [pdf]",
+    "summary": "Article URL: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf Comments URL: https://news.ycombinator.com/item?id=49303540 Points: 22 # Comments: 3",
+    "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:32:15+00:00",
+    "fetched": "2026-08-14T20:56:56+00:00",
+    "image": null
+  },
+  {
+    "id": "cb3d4dd25bde7b13",
+    "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+    "summary": "Article URL: https://www.aletheionagi.com Comments URL: https://news.ycombinator.com/item?id=49303499 Points: 3 # Comments: 0",
+    "url": "https://www.aletheionagi.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:28:17+00:00",
+    "fetched": "2026-08-14T20:56:56+00:00",
+    "image": "https://www.aletheionagi.com/opengraph-image?cefbb72a8f4ee2cc"
+  },
+  {
     "id": "9b08d74e06657777",
     "title": "Z.ai Security Disclosure",
     "summary": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 20 # Comments: 3",
@@ -57,6 +177,18 @@
     "lang": "en",
     "published": "2026-08-14T19:22:00+00:00",
     "fetched": "2026-08-14T20:05:36+00:00",
+    "image": null
+  },
+  {
+    "id": "8b934f0a1cfa4bda",
+    "title": "What You Gain by Building Your Own Game Engine",
+    "summary": "Article URL: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html Comments URL: https://news.ycombinator.com/item?id=49303405 Points: 6 # Comments: 1",
+    "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T19:20:20+00:00",
+    "fetched": "2026-08-14T20:56:56+00:00",
     "image": null
   },
   {
@@ -49102,101 +49234,5 @@
     "published": "2026-07-31T20:59:00+00:00",
     "fetched": "2026-07-31T21:39:41+00:00",
     "image": "https://i.lb.ua/news/040/62/6a6d13f2bbba5.jpg"
-  },
-  {
-    "id": "7ba4f5b7d8f8a1f6",
-    "title": "Уряд Хорватії заборонив росіянам та білорусам виступати під їхніми прапорами на чемпіонаті Європи зі спортивної гімнастики",
-    "summary": "Вони зможуть взяти участь лише в статусі \"нейтральних\".",
-    "url": "https://lb.ua/sport/2026/07/31/755902_uryad_horvatiyi_zaboroniv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T20:56:00+00:00",
-    "fetched": "2026-07-31T21:39:41+00:00",
-    "image": "https://i.lb.ua/news/042/06/6a6d0c0432d65.jpg"
-  },
-  {
-    "id": "657ab3578743a4ae",
-    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-    "summary": "Article URL: https://arxiv.org/abs/2607.28233 Comments URL: https://news.ycombinator.com/item?id=49128323 Points: 7 # Comments: 0",
-    "url": "https://arxiv.org/abs/2607.28233",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T20:44:29+00:00",
-    "fetched": "2026-07-31T21:39:43+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "c01402863741931d",
-    "title": "Трамп лякає, що у разі перемоги демократів у США буде гірше, ніж в іспанській Сеуті",
-    "summary": "Трамп заявив, що США зіткнуться з гіршою міграційною кризою, ніж у Сеуті, у разі перемоги демократів.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046775/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T20:41:00+00:00",
-    "fetched": "2026-07-31T21:39:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/c/884667/3c2fd2e652e245ffccd69d2c5ea0a52a.jpeg"
-  },
-  {
-    "id": "2db26e244b543f4b",
-    "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
-    "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T20:39:14+00:00",
-    "fetched": "2026-07-31T21:39:40+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg"
-  },
-  {
-    "id": "bb4f8e0f1bbe86d8",
-    "title": "Show HN: How to build and self-host a code review agent",
-    "summary": "Hey HN, I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.…",
-    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T20:27:28+00:00",
-    "fetched": "2026-07-31T23:06:16+00:00",
-    "image": "https://trytilde.ai/api/media/file/how%20to%20build%20a%20code%20review%20agent%20OG-1200x630.png?prefix=payload-media"
-  },
-  {
-    "id": "55bd788d0c81c937",
-    "title": "В Полтаві внаслідок російського удару зруйновано термінал Нової пошти",
-    "summary": "Загиблих і постраждалих немає.",
-    "url": "https://lb.ua/society/2026/07/31/755900_poltavi_vnaslidok_rosiyskogo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T20:23:00+00:00",
-    "fetched": "2026-07-31T21:39:41+00:00",
-    "image": "https://i.lb.ua/news/068/25/6a6d042e9211d.jpg"
-  },
-  {
-    "id": "67f4e11813fd35eb",
-    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-    "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
-    "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-07-31T20:21:05+00:00",
-    "fetched": "2026-07-31T21:39:40+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-1152x648.png"
-  },
-  {
-    "id": "dbb81edee4890f66",
-    "title": "Росіяни зруйнували сортувальний термінал \"Нової пошти\" у Полтаві",
-    "summary": "Атака РФ зруйнувала термінал Нової пошти у Полтаві. Потерпілих немає, затримки мінімізують, компенсації клієнтам забезпечать.",
-    "url": "https://www.pravda.com.ua/news/2026/07/31/8046774/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-07-31T20:11:00+00:00",
-    "fetched": "2026-07-31T20:22:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/5/884665/b5a01949758afeb59e730962d956c319.jpeg"
   }
 ]
