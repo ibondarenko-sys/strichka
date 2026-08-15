@@ -1,5 +1,29 @@
 [
   {
+    "id": "3084e9956572153e",
+    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+    "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+    "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T19:41:57+00:00",
+    "fetched": "2026-08-15T19:46:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg"
+  },
+  {
+    "id": "57062f890a4ed5e7",
+    "title": "Сікорський запропонував створити \"Європейський легіон\" із залученням українських ветеранів",
+    "summary": "За словами глави МЗС Польщі, про заміну структури НАТО не йдеться.",
+    "url": "https://lb.ua/world/2026/08/15/759244_sikorskiy_zaproponuvav_stvoriti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T19:38:00+00:00",
+    "fetched": "2026-08-15T19:46:11+00:00",
+    "image": "https://i.lb.ua/news/009/42/6a80c02bbef69.jpg"
+  },
+  {
     "id": "4c32d4f575633989",
     "title": "\"Тіньовий куратор\" нардепів від \"Слуги народу\" втік із місця ДТП – джерело",
     "summary": "Ілля Павлюк, якого називають «тіньовим куратором» депутатів, втік з місця ДТП на трасі М-30. Поліція розшукує бізнесмена.",
@@ -34,6 +58,18 @@
     "published": "2026-08-15T19:14:00+00:00",
     "fetched": "2026-08-15T19:24:21+00:00",
     "image": "https://i.lb.ua/news/097/40/6a80ba8fbed63.jpg"
+  },
+  {
+    "id": "611835edca3be300",
+    "title": "So How Is AI Drug Discovery Doing, Really?",
+    "summary": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 11 # Comments: 5",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T19:12:53+00:00",
+    "fetched": "2026-08-15T19:46:11+00:00",
+    "image": null
   },
   {
     "id": "a96cddc98e96c69f",
@@ -82,6 +118,18 @@
     "published": "2026-08-15T18:39:00+00:00",
     "fetched": "2026-08-15T19:24:21+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/892396/55c51b44c2ab0181420f4b4ee90d54ec.jpeg"
+  },
+  {
+    "id": "1db50065dda5ea77",
+    "title": "First human trials of designer protein therapies stun US neuroscientists",
+    "summary": "Article URL: https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08 Comments URL: https://news.ycombinator.com/item?id=49313097 Points: 5 # Comments: 2",
+    "url": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T18:37:09+00:00",
+    "fetched": "2026-08-15T19:46:11+00:00",
+    "image": "https://s7d1.scene7.com/is/image/CENODS/DREADD-human-trials---576245:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
   },
   {
     "id": "0db8cdd836724d6b",
@@ -49174,53 +49222,5 @@
     "published": "2026-08-01T19:47:00+00:00",
     "fetched": "2026-08-01T20:27:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/885064/a0e6370e12042aafa0756efaf574c8a4.jpeg"
-  },
-  {
-    "id": "4d3019dcaa7138d0",
-    "title": "ОАЕ можуть допомогти Україні посилити безпеку в Чорному морі, – Зеленський",
-    "summary": "Президент України провів телефонну розмову з президентом ОАЕ Мухаммадом бін Заїдом Аль Нагаяном.",
-    "url": "https://lb.ua/news/2026/08/01/756094_oae_mozhut_dopomogti_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T19:45:00+00:00",
-    "fetched": "2026-08-01T20:27:02+00:00",
-    "image": "https://i.lb.ua/news/098/55/6a6e4cb6a4680.jpg"
-  },
-  {
-    "id": "5a58fce8fe0a94e6",
-    "title": "But can your calculator run Linux?",
-    "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 9 # Comments: 0",
-    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T19:44:48+00:00",
-    "fetched": "2026-08-01T20:27:03+00:00",
-    "image": null
-  },
-  {
-    "id": "a408ae343b81bb6b",
-    "title": "Google News is just Forrest Gump's shrimp boat now",
-    "summary": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 77 # Comments: 45",
-    "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T19:39:43+00:00",
-    "fetched": "2026-08-01T20:27:03+00:00",
-    "image": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3491244/BUNwHH9o9AR3FIEUbLdtNnOiMno/large_forrest-gump-shrimp-boat-jenny.jpg"
-  },
-  {
-    "id": "eb5a9517a88db135",
-    "title": "Зеленський поговорив із президентом ОАЕ про допомогу в Чорноморському регіоні",
-    "summary": "Зеленський обговорив з президентом ОАЕ підтримку миру, безпеку та спільні проекти.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046866/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T19:32:00+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/885060/45b9c4376a2fe18c5a24024d5209eacc.jpeg"
   }
 ]
