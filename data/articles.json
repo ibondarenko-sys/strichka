@@ -1,5 +1,65 @@
 [
   {
+    "id": "6ab49eeb9b59adce",
+    "title": "УІНП: наступним, кого можуть перепоховати в Україні, буде представник вищого керівництва армії УНР",
+    "summary": "Ведуть також перемовини щодо гетьманських та княжих могил.",
+    "url": "https://lb.ua/society/2026/08/15/759222_uinp_nastupnim_mozhut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:50:00+00:00",
+    "fetched": "2026-08-15T16:54:04+00:00",
+    "image": "https://i.lb.ua/news/079/37/6a8098c18f948.jpg"
+  },
+  {
+    "id": "ed64de48d4a4bed6",
+    "title": "У Литві прикордонника поранили та намагалися силою відвести в бік Білорусі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048830/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:40:00+00:00",
+    "fetched": "2026-08-15T16:54:04+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/1/71c4612-1104925-466094-1287x836.jpg"
+  },
+  {
+    "id": "2d8739def595cde6",
+    "title": "Туск заявив, що польська армія незабаром стане найбільшою в Європі",
+    "summary": "За словами прем’єр-міністра, масштабне переозброєння є інвестицією у стримування потенційного агресора.",
+    "url": "https://lb.ua/world/2026/08/15/759216_tusk_zayaviv_scho_polska_armiya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:33:00+00:00",
+    "fetched": "2026-08-15T16:54:04+00:00",
+    "image": "https://i.lb.ua/news/106/06/6a8094e4c1922.jpg"
+  },
+  {
+    "id": "99e07ec4d938ef21",
+    "title": "Українські рятувальники завершили місію з гасіння лісових пожеж у Франції",
+    "summary": "Наша держава відправила на допомогу 70 фахівців і 15 одиниць спецтехніки.",
+    "url": "https://lb.ua/society/2026/08/15/759220_ukrayinski_ryatuvalniki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:32:00+00:00",
+    "fetched": "2026-08-15T16:54:04+00:00",
+    "image": "https://i.lb.ua/news/084/58/6a8094ceb2e58.jpg"
+  },
+  {
+    "id": "91808fe53b665ea6",
+    "title": "На Дніпропетровщині росіяни за день поранили 17 людей",
+    "summary": "Унаслідок атак РФ на Дніпропетровщині поранено 17 людей, пошкоджені підприємства, житло й транспорт.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048829/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:26:00+00:00",
+    "fetched": "2026-08-15T16:54:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/892327/451e0b018786410ea6cc02a13df60c58.jpeg"
+  },
+  {
     "id": "7d1970bab4b7a188",
     "title": "МЗС роз'яснило ситуацію з \"Резерв+\" для українок в ЄС",
     "summary": "Мовиться про запровадження нових правил Євросоюзу щодо надання тимчасового захисту.",
@@ -22,6 +82,18 @@
     "published": "2026-08-15T16:15:00+00:00",
     "fetched": "2026-08-15T16:29:37+00:00",
     "image": "https://i.lb.ua/news/056/00/6a8090ba58498.jpg"
+  },
+  {
+    "id": "39d787cdcba4f648",
+    "title": "The price of a Costco hot dog has gone up",
+    "summary": "Article URL: https://sina.bio/posts/costco-hotdog.html Comments URL: https://news.ycombinator.com/item?id=49311685 Points: 28 # Comments: 9",
+    "url": "https://sina.bio/posts/costco-hotdog.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T16:01:57+00:00",
+    "fetched": "2026-08-15T16:54:06+00:00",
+    "image": null
   },
   {
     "id": "0b6f1da784d327f8",
@@ -190,6 +262,18 @@
     "published": "2026-08-15T14:57:00+00:00",
     "fetched": "2026-08-15T15:25:44+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/b/2/b29f4b5-d485544a-0f61-4429-b037-40ff2b5e1294.jpg"
+  },
+  {
+    "id": "b21a09c4798c2c5f",
+    "title": "A Spectre Is Haunting Unicode",
+    "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 10 # Comments: 0",
+    "url": "https://www.dampfkraft.com/ghost-characters.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:34:04+00:00",
+    "fetched": "2026-08-15T16:54:06+00:00",
+    "image": "https://dampfkraft.com/by-id/a824aa10/img/ghostcanvas.l.jpg"
   },
   {
     "id": "0f53412a6c5f896b",
@@ -49174,101 +49258,5 @@
     "published": "2026-08-01T16:56:25+00:00",
     "fetched": "2026-08-01T17:32:14+00:00",
     "image": null
-  },
-  {
-    "id": "84a38888a7b958cf",
-    "title": "I ♥ RSS – A directory of people who love RSS",
-    "summary": "Article URL: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/ Comments URL: https://news.ycombinator.com/item?id=49136063 Points: 39 # Comments: 23",
-    "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T16:52:41+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": "https://andrewshell.org/wp-content/themes/asdo-theme/img/apple-touch-icon.png"
-  },
-  {
-    "id": "71e0d3b4815d97a9",
-    "title": "Половина німців не вважають свою країну безпечною",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046856/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:51:00+00:00",
-    "fetched": "2026-08-01T17:32:12+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/c/a/ca49b81-78202220-905.jpg"
-  },
-  {
-    "id": "ec2e6a539cde4cb4",
-    "title": "Росіяни за день понад 50 разів атакували Дніпропетровщину: є загибла, 12 поранених",
-    "summary": "Серед постраждалих – дитина.",
-    "url": "https://lb.ua/society/2026/08/01/756070_rosiyani_den_ponad_50_raziv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:46:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/044/06/6a6e22d4b7268.jpg"
-  },
-  {
-    "id": "e4dc0fe85dfc6e99",
-    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-    "summary": "Article URL: https://kaisel.dev/ Comments URL: https://news.ycombinator.com/item?id=49135985 Points: 9 # Comments: 0",
-    "url": "https://kaisel.dev/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T16:45:40+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": "https://kaisel.dev/og.png"
-  },
-  {
-    "id": "5d2f6d434083de26",
-    "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
-    "summary": "Article URL: https://franken.domains/ Comments URL: https://news.ycombinator.com/item?id=49135975 Points: 13 # Comments: 12",
-    "url": "https://franken.domains/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T16:44:49+00:00",
-    "fetched": "2026-08-01T19:15:36+00:00",
-    "image": "https://franken.domains/images/og-1ac03bd952336acc538a48c597178b26.png?vsn=d"
-  },
-  {
-    "id": "4d68a5c042f1a61a",
-    "title": "I Fired My AI Assitant",
-    "summary": "Article URL: https://chreke.com/posts/i-fired-my-ai-assistant Comments URL: https://news.ycombinator.com/item?id=49135914 Points: 19 # Comments: 30",
-    "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T16:38:28+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": null
-  },
-  {
-    "id": "53bf390c5865ddef",
-    "title": "У Франції і Греції продовжують вирувати масштабні лісові пожежі",
-    "summary": "У Греції відомо про трьох загиблих пожежників.",
-    "url": "https://lb.ua/world/2026/08/01/756066_frantsiyi_gretsiyi_prodovzhuyut.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:34:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/014/56/6a6e203b80fe0.jpg"
-  },
-  {
-    "id": "2caf5a3fc91c0e1d",
-    "title": "На Закарпатті зіткнулися одразу три авто. Постраждали 13 людей, серед них – діти",
-    "summary": "Попередньо водії були тверезими.",
-    "url": "https://lb.ua/society/2026/08/01/756068_zakarpatti_zitknulisya_odrazu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:32:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/112/31/6a6e1f9f914f3.jpg"
   }
 ]
