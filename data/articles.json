@@ -1,5 +1,89 @@
 [
   {
+    "id": "0cd80462a79d4d8a",
+    "title": "У Самарі після удару загорівся російський ракетно-космічний завод \"ЦСКБ-Прогрес\"",
+    "summary": "\"ЦСКБ-Прогрес\" – одне з російських підприємств ракетно-космічної галузі.",
+    "url": "https://lb.ua/society/2026/08/15/759102_samari_pislya_udaru_zagorivsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T05:17:00+00:00",
+    "fetched": "2026-08-15T05:28:41+00:00",
+    "image": "https://i.lb.ua/news/040/39/6a7ff661a22ca.jpg"
+  },
+  {
+    "id": "f2d0ab866afcf57e",
+    "title": "За добу на фронті відбулося 233 бої: найважче на Костянтинівському напрямку",
+    "summary": "Протягом минулої доби російські війська здійснили 71 авіаційний удар.",
+    "url": "https://lb.ua/society/2026/08/15/759100_dobu_fronti_vidbulosya_233_boyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T05:06:00+00:00",
+    "fetched": "2026-08-15T05:28:41+00:00",
+    "image": "https://i.lb.ua/news/021/18/6a7ff3d38d575.jpg"
+  },
+  {
+    "id": "11d63a516d40678a",
+    "title": "На Херсонщині через російські обстріли 28 людей поранені, серед них дитина",
+    "summary": "Зі звільнених громад регіону евакуювали 3 людини.",
+    "url": "https://lb.ua/society/2026/08/15/759098_hersonschini_cherez_rosiyski.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T04:52:00+00:00",
+    "fetched": "2026-08-15T05:28:41+00:00",
+    "image": "https://i.lb.ua/news/064/59/6a7ff08530e80.jpg"
+  },
+  {
+    "id": "fb275db573425358",
+    "title": "На Херсонщині за минулу добу росіяни поранили 28 людей – ОВА",
+    "summary": "За добу 14 серпня росіяни поранили у Херсонській області 28 людей.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048763/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T04:48:00+00:00",
+    "fetched": "2026-08-15T05:28:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/e/892097/3e979ce1c740433886fbf812d14c9a3f.jpeg"
+  },
+  {
+    "id": "3ebb6b67d2a705bc",
+    "title": "Через російський терор на Запоріжжі постраждали п'ятеро цивільних",
+    "summary": "Упродовж доби окупанти завдали 971 удар по 42 населених пунктах Запорізької області.",
+    "url": "https://lb.ua/society/2026/08/15/759096_cherez_rosiyskiy_teror.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T04:46:00+00:00",
+    "fetched": "2026-08-15T05:28:41+00:00",
+    "image": "https://i.lb.ua/news/115/00/6a7fef3b96bfa.jpg"
+  },
+  {
+    "id": "28782149d4053c32",
+    "title": "За добу РФ втратила в Україні ще 1 370 військових",
+    "summary": "Загальні втрати росіян з початку повномасштабного вторгнення складають близько 1 465 810 осіб.",
+    "url": "https://lb.ua/society/2026/08/15/759094_dobu_rf_vtratila_ukrayini_sche_1.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T04:37:00+00:00",
+    "fetched": "2026-08-15T05:28:41+00:00",
+    "image": "https://i.lb.ua/news/051/43/6a7fecff3f54a.jpg"
+  },
+  {
+    "id": "37acce2f916e3c48",
+    "title": "Show HN: Rent vs. buy, backtested across 241 US metros with pinned data",
+    "summary": "Article URL: https://github.com/assumptionsshown/RunTheNumbers Comments URL: https://news.ycombinator.com/item?id=49307653 Points: 4 # Comments: 1",
+    "url": "https://github.com/assumptionsshown/RunTheNumbers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T04:31:03+00:00",
+    "fetched": "2026-08-15T05:28:43+00:00",
+    "image": "https://opengraph.githubassets.com/f4f7540a60aabb84a18294cb82d384572a018057de19d303a9601bfce729d895/assumptionsshown/RunTheNumbers"
+  },
+  {
     "id": "0465e1c38a5c6296",
     "title": "У Марганці через російську атаку загинула дитина: 11 людей поранені",
     "summary": "Ворог уночі атакував місто на Дніпропетровщині.",
@@ -10,6 +94,30 @@
     "published": "2026-08-15T04:28:00+00:00",
     "fetched": "2026-08-15T04:35:36+00:00",
     "image": "https://i.lb.ua/news/017/40/6a7feae1e7b69.jpg"
+  },
+  {
+    "id": "2bdb9faa4afb6cc1",
+    "title": "The other Sean Byrne doesn't exist",
+    "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 8 # Comments: 2",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T04:18:44+00:00",
+    "fetched": "2026-08-15T05:28:43+00:00",
+    "image": "https://conic.al/assets/posts/the-other-sean-byrne-doesnt-exist/sean-byrne-us-consolidated-screening-list.png"
+  },
+  {
+    "id": "55f5b4c9bde3b0c7",
+    "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+    "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+    "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T04:12:55+00:00",
+    "fetched": "2026-08-15T05:28:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg"
   },
   {
     "id": "cbdec07893cf5b1a",
@@ -178,6 +286,18 @@
     "published": "2026-08-15T00:15:23+00:00",
     "fetched": "2026-08-15T02:36:07+00:00",
     "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "e3b931ebe30db324",
+    "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+    "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+    "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T00:01:53+00:00",
+    "fetched": "2026-08-15T05:28:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg"
   },
   {
     "id": "c250e41ec7c11a97",
@@ -49198,89 +49318,5 @@
     "published": "2026-08-01T05:29:00+00:00",
     "fetched": "2026-08-01T07:29:52+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/884692/3681268ba3643e4bfb5937e4fee1b091.jpeg"
-  },
-  {
-    "id": "58f656175eae75b8",
-    "title": "На Херсонщині окупанти били по критичній та соціальній інфраструктурі",
-    "summary": "Через російський терор 1 людина загинула, ще 26 дістали поранення",
-    "url": "https://lb.ua/society/2026/08/01/755932_hersonschini_okupanti_bili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T05:27:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/086/12/6a6d83bf8d68b.jpg"
-  },
-  {
-    "id": "5f70217ec79769e9",
-    "title": "За минулу добу на фронті відбулося 243 боєзіткнення: найважче на Покровському напрямку",
-    "summary": "Ворог продовжує тиснути на Костянтинівському та Покровському напрямках.",
-    "url": "https://lb.ua/society/2026/08/01/755930_minulu_dobu_fronti_vidbulosya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T05:07:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/054/05/6a6d7f287d87a.jpg"
-  },
-  {
-    "id": "937d3ed96e2045c5",
-    "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T05:01:56+00:00",
-    "fetched": "2026-08-01T07:29:52+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg"
-  },
-  {
-    "id": "58507be7237523d9",
-    "title": "Окупанти атакували Дніпропетровщину безпілотниками, двоє людей поранені",
-    "summary": "Найбільше пошкоджень зафіксовано на Нікопольщині.",
-    "url": "https://lb.ua/society/2026/08/01/755928_okupanti_atakuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T05:00:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/063/28/6a6d7d35c0dd4.jpg"
-  },
-  {
-    "id": "281c8a5d8db97c04",
-    "title": "Росіяни вбили та поранили трьох цивільних на Запоріжжі",
-    "summary": "Ворог завдав 1026 ударів по 56 населених пунктах області.",
-    "url": "https://lb.ua/society/2026/08/01/755926_rosiyani_vbili_poranili_troh.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T04:53:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/067/04/6a6d7bbc02374.jpg"
-  },
-  {
-    "id": "55a9b4446f54ce01",
-    "title": "У двох областях за добу росіяни вбили одну людину, ще десятьох – поранили",
-    "summary": "За минулу добу у Дніпропетровській та Донецькій областях росіяни вбили одну людину, десятьох – поранили.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046787/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T04:46:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/f/884691/9f44a3d53a00df67cc08750bcd712497.jpeg"
-  },
-  {
-    "id": "8c679c39a06172a9",
-    "title": "РФ за добу втратила в Україні ще 1470 солдатів",
-    "summary": "Сили оборони України з початку повномасштабного вторгнення РФ ліквідували близько 1 447 620 окупантів.",
-    "url": "https://lb.ua/society/2026/08/01/755924_rf_dobu_vtratila_ukrayini_sche.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T04:38:00+00:00",
-    "fetched": "2026-08-01T04:54:39+00:00",
-    "image": "https://i.lb.ua/news/099/02/6a6d786389a52.jpg"
   }
 ]
