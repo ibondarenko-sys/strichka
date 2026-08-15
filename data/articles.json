@@ -1,5 +1,65 @@
 [
   {
+    "id": "576c6334091cce6b",
+    "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
+    "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the…",
+    "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:56:13+00:00",
+    "fetched": "2026-08-15T22:26:24+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/simpsons-hit-and-run.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3ad1c578f9745012",
+    "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+    "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+    "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T21:49:12+00:00",
+    "fetched": "2026-08-15T22:26:24+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
+  },
+  {
+    "id": "e57b54a0b37e0c99",
+    "title": "Bede Liu, a digital signal processing pioneer, has died",
+    "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 14 # Comments: 0",
+    "url": "https://spectrum.ieee.org/digital-signal-processing",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:45:54+00:00",
+    "fetched": "2026-08-15T22:26:24+00:00",
+    "image": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=1200&height=600&coordinates=0%2C125%2C0%2C125"
+  },
+  {
+    "id": "d14b7be54ea99182",
+    "title": "У Харкові внаслідок ракетного удару пошкоджено собор святого Миколая Чудотворця",
+    "summary": "У Харкові внаслідок російського ракетного удару пошкоджено катедральний собор святого Миколая Чудотворця Української греко-католицької церкви.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048847/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T21:44:00+00:00",
+    "fetched": "2026-08-15T22:26:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/892425/157cf7933e0e58012d2995e8d4148285.jpeg"
+  },
+  {
+    "id": "a07a8b034653b418",
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 13 # Comments: 1",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:42:47+00:00",
+    "fetched": "2026-08-15T22:26:24+00:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
     "id": "69f23561f9974be7",
     "title": "Australian state to launch gun buyback after Bondi Beach attack",
     "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -34,6 +94,18 @@
     "published": "2026-08-15T21:20:00+00:00",
     "fetched": "2026-08-15T21:47:06+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/892424/8924ac026960902e25f89fad3a657f2c.jpeg"
+  },
+  {
+    "id": "a01eaa04bebc656a",
+    "title": "Abdominal fat predicts heart disease risk better than BMI",
+    "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 22 # Comments: 7",
+    "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:14:34+00:00",
+    "fetched": "2026-08-15T22:26:24+00:00",
+    "image": "http://www.acc.org/-/media/9E7FA8BE7B44449AB9993CC9237EF455.png"
   },
   {
     "id": "1a9d61f4c8de2e9c",
@@ -154,6 +226,18 @@
     "published": "2026-08-15T20:24:00+00:00",
     "fetched": "2026-08-15T20:51:08+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/2/5/2535679-pyqby7xd77-v2-ax-w800h450.jpeg"
+  },
+  {
+    "id": "e60d1806df18388c",
+    "title": "Humazon",
+    "summary": "Article URL: https://hughhowey.com/humazon/ Comments URL: https://news.ycombinator.com/item?id=49313941 Points: 4 # Comments: 2",
+    "url": "https://hughhowey.com/humazon/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T20:18:37+00:00",
+    "fetched": "2026-08-15T22:26:24+00:00",
+    "image": "https://i0.wp.com/hughhowey.com/wp-content/uploads/2020/05/og-image.png?fit=1200%2C630&ssl=1"
   },
   {
     "id": "b53e6d6d1115c9e7",
@@ -49174,53 +49258,5 @@
     "published": "2026-08-01T22:47:24+00:00",
     "fetched": "2026-08-01T23:32:48+00:00",
     "image": null
-  },
-  {
-    "id": "e8cc710abd7baa85",
-    "title": "AI financial advice is surprisingly good if you ask the right questions",
-    "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 50 # Comments: 33",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T22:25:12+00:00",
-    "fetched": "2026-08-01T23:32:48+00:00",
-    "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6"
-  },
-  {
-    "id": "d515e81635bd608a",
-    "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-    "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T22:23:20+00:00",
-    "fetched": "2026-08-02T08:55:46+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg"
-  },
-  {
-    "id": "b36a2fca58aca7ff",
-    "title": "Atom is better than RSS, in ways that matter",
-    "summary": "Article URL: https://chrismorgan.info/atom%3Erss Comments URL: https://news.ycombinator.com/item?id=49138897 Points: 19 # Comments: 2",
-    "url": "https://chrismorgan.info/atom%3Erss",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T22:00:16+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": null
-  },
-  {
-    "id": "83920f94ca5c548b",
-    "title": "Литва викличе представника РФ через пошкодження свого посольства в Києві під час російської атаки",
-    "summary": "МЗС Литви викличе представника Росії після ракетної атаки, що пошкодила посольство у Києві.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046871/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T21:51:00+00:00",
-    "fetched": "2026-08-01T22:29:48+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/885088/3711c6e7fd4ee3df685e347a11ca78bd.jpeg"
   }
 ]
