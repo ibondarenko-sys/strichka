@@ -1,5 +1,101 @@
 [
   {
+    "id": "4c32d4f575633989",
+    "title": "\"Тіньовий куратор\" нардепів від \"Слуги народу\" втік із місця ДТП – джерело",
+    "summary": "Ілля Павлюк, якого називають «тіньовим куратором» депутатів, втік з місця ДТП на трасі М-30. Поліція розшукує бізнесмена.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048840/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T19:18:00+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/892401/711ca7ef6e38f719d9c6ea76c9f4dfe9.jpeg"
+  },
+  {
+    "id": "24de7e2006a1d815",
+    "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+    "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+    "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T19:16:40+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg"
+  },
+  {
+    "id": "ca818f71b6bc91d6",
+    "title": "На фронті відбулось 170 боєзіткнень: найбільше – на Покровському напрямку",
+    "summary": "Ворожі війська здійснили понад 1900 обстрілів позицій українських військ та населених пунктів.",
+    "url": "https://lb.ua/society/2026/08/15/759242_fronti_vidbulos_170_boiezitknen.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T19:14:00+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://i.lb.ua/news/097/40/6a80ba8fbed63.jpg"
+  },
+  {
+    "id": "a96cddc98e96c69f",
+    "title": "Рівень води в Рейні впав до нового історичного мінімуму, перевезення переносять на сушу",
+    "summary": "Німецькі компанії вже повідомили про перебої.",
+    "url": "https://lb.ua/world/2026/08/15/759240_riven_vodi_reyni_vpav_novogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T19:00:00+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://i.lb.ua/news/023/40/6a80b74b8db8e.jpg"
+  },
+  {
+    "id": "0bd141da8b8e8c13",
+    "title": "У неділю Україну прогріє до 32°, без опадів",
+    "summary": "16 серпня в Україні без опадів, температура вдень 27-32°, у Києві близько 30°.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048839/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T18:57:00+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/6/892398/960a3933681379f77c4b0a9bdc02b683.jpeg"
+  },
+  {
+    "id": "a744904454f86dcf",
+    "title": "У Ліхтенштейні дозволять жінкам успадковувати престол",
+    "summary": "Про нововведення оголосив спадковий принц Алоїз.",
+    "url": "https://lb.ua/world/2026/08/15/759238_lihtenshteyni_dozvolyat_zhinkam.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T18:41:00+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://i.lb.ua/news/020/24/6a80b2d173f33.jpg"
+  },
+  {
+    "id": "86edc88322e2837b",
+    "title": "Південна Корея хоче домовитися з КНДР про мир замість перемир'я",
+    "summary": "Лі Чже Мьон запропонував замінити перемир'я на Корейському півострові на режим миру.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048838/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T18:39:00+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/892396/55c51b44c2ab0181420f4b4ee90d54ec.jpeg"
+  },
+  {
+    "id": "0db8cdd836724d6b",
+    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
+    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T18:33:25+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/d0214f983941c846a524d64275a8171d8efcaf29.png?1773178052"
+  },
+  {
     "id": "c7d51c7f6f254b76",
     "title": "На Херсонщині російський дрон влучив у житловий будинок і вбив його власника",
     "summary": "Загиблому було 49 років.",
@@ -22,6 +118,18 @@
     "published": "2026-08-15T18:13:02+00:00",
     "fetched": "2026-08-15T18:35:43+00:00",
     "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg"
+  },
+  {
+    "id": "d166e3aeb4f6c38f",
+    "title": "Thunderbird's Desktop Calendar Visual Redesign",
+    "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 10 # Comments: 2",
+    "url": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T18:09:42+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://blog.thunderbird.net/files/2026/08/blog-banner-generic.jpg"
   },
   {
     "id": "08f0fd89eb64d5da",
@@ -58,6 +166,18 @@
     "published": "2026-08-15T18:08:00+00:00",
     "fetched": "2026-08-15T18:35:43+00:00",
     "image": "https://i.lb.ua/news/087/09/6a80ab24e749d.jpg"
+  },
+  {
+    "id": "8a56a2e334e0039c",
+    "title": "BriskDB",
+    "summary": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 3 # Comments: 1",
+    "url": "https://github.com/schapman1974/briskdb",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T17:56:57+00:00",
+    "fetched": "2026-08-15T19:24:21+00:00",
+    "image": "https://opengraph.githubassets.com/b83aec95517071e8728809187288be6c0c3056b2e5188cc7109e93895bf1802d/schapman1974/briskdb"
   },
   {
     "id": "9be84cc1c6e89b4c",
@@ -49102,113 +49222,5 @@
     "published": "2026-08-01T19:32:00+00:00",
     "fetched": "2026-08-01T20:27:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/885060/45b9c4376a2fe18c5a24024d5209eacc.jpeg"
-  },
-  {
-    "id": "ef24e4a1ee5ab52e",
-    "title": "Генштаб повідомив про ситуацію на фронті: відбулось понад 190 бойових зіткнень з ворогом",
-    "summary": "Найбільша активність – на Покровському напрямку.",
-    "url": "https://lb.ua/society/2026/08/01/756092_genshtab_povidomiv_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T19:23:00+00:00",
-    "fetched": "2026-08-01T20:27:02+00:00",
-    "image": "https://i.lb.ua/news/091/41/6a6e47b989d20.jpg"
-  },
-  {
-    "id": "8191e8332f88eeb7",
-    "title": "Зеленський: Ракети для Patriot у світі є, потрібне політичне рішення",
-    "summary": "Президент просить партнерів передати ракети Patriot Україні й посилити санкції проти Росії через атаки на Київ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046864/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T19:15:00+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/7/885058/778ec857f65774bc0d53d4b125b8e190.jpeg"
-  },
-  {
-    "id": "f47848689d45e52a",
-    "title": "Fermi Paradox",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Fermi_paradox Comments URL: https://news.ycombinator.com/item?id=49137419 Points: 10 # Comments: 1",
-    "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T19:10:11+00:00",
-    "fetched": "2026-08-01T20:27:03+00:00",
-    "image": null
-  },
-  {
-    "id": "6ddb7dc577e88829",
-    "title": "У центрі Москви стався вибух у елітному ресторані (оновлено)",
-    "summary": "Вже відомо про загиблих, вулиці біля закладу перекриті.",
-    "url": "https://lb.ua/world/2026/08/01/756082_tsentri_moskvi_stavsya_vibuh.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T19:06:00+00:00",
-    "fetched": "2026-08-01T19:15:34+00:00",
-    "image": "https://i.lb.ua/news/085/24/6a6e335c7dc84.jpg"
-  },
-  {
-    "id": "f24ff615dbcc8f4c",
-    "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-    "summary": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf Comments URL: https://news.ycombinator.com/item?id=49137320 Points: 5 # Comments: 0",
-    "url": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T18:59:35+00:00",
-    "fetched": "2026-08-01T20:27:03+00:00",
-    "image": null
-  },
-  {
-    "id": "d58c1d5f848b6b8b",
-    "title": "​Зеленський у зверненні закликав партнерів передати Україні додаткові системи ППО та посилити санкції проти РФ",
-    "summary": "Найефективніша реакція, каже президент, – не засудження, а допомога.",
-    "url": "https://lb.ua/news/2026/08/01/756090_zelenskiy_zvernenni_zaklikav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T18:54:00+00:00",
-    "fetched": "2026-08-01T19:15:34+00:00",
-    "image": "https://i.lb.ua/news/097/00/6a6e40cd72cda.jpg"
-  },
-  {
-    "id": "778eb0af0a2183e1",
-    "title": "CISA Alert: Water Sector PLC Targeting",
-    "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 5 # Comments: 0",
-    "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T18:50:17+00:00",
-    "fetched": "2026-08-01T20:27:03+00:00",
-    "image": "https://censys.com/wp-content/uploads/ChatGPT-Image-Jul-30-2026-05_55_24-PM.png"
-  },
-  {
-    "id": "5f44db3fac1fea92",
-    "title": "Російський удар знищив склад у Вишневому з 200 тисячами настільних ігор",
-    "summary": "Збитки оцінюють у 30 млн грн.",
-    "url": "https://lb.ua/society/2026/08/01/756088_rosiyskiy_udar_znischiv_sklad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T18:46:00+00:00",
-    "fetched": "2026-08-01T19:15:34+00:00",
-    "image": "https://i.lb.ua/news/121/01/6a6e3ee92e68d.jpg"
-  },
-  {
-    "id": "6626546df5f1cd7a",
-    "title": "Протести через відставку Федорова: реформа оборони чи персональний вотум?",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046862/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T18:36:00+00:00",
-    "fetched": "2026-08-01T19:15:34+00:00",
-    "image": null
   }
 ]
