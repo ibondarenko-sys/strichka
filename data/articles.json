@@ -1,5 +1,41 @@
 [
   {
+    "id": "0f53412a6c5f896b",
+    "title": "Швейцарські науковці створили мікродрони, які рухаються за допомогою звукових хвиль",
+    "summary": "Змінюючи частоту звуку з динаміка, дослідники змушували об’єкти маневрувати, оминати перешкоди і навіть рухатися за заданим маршрутом.",
+    "url": "https://lb.ua/tech/2026/08/15/759198_shveytsarski_naukovtsi_stvorili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T14:31:00+00:00",
+    "fetched": "2026-08-15T14:51:22+00:00",
+    "image": "https://i.lb.ua/news/053/51/6a8078681cb9c.jpg"
+  },
+  {
+    "id": "c00ad8f1ebbef683",
+    "title": "Росія пригрозила Туреччині й США погіршенням відносин через постачання зброї Україні",
+    "summary": "Росія просить США і Туреччину пояснити масштабні поставки зброї Україні та погрожує наслідками для відносин.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048819/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T14:28:00+00:00",
+    "fetched": "2026-08-15T14:51:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/5/892253/d5fcf3d91f38e5d786036e803f3cd83e.jpeg"
+  },
+  {
+    "id": "a596e2302c0c57fe",
+    "title": "Five injured, one critically, in shooting at Virginia State University",
+    "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+    "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T14:21:24+00:00",
+    "fetched": "2026-08-15T14:51:22+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0571/live/6894b170-98af-11f1-9a0b-ef36d15fc6b3.jpg"
+  },
+  {
     "id": "ca9d43691903e493",
     "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
     "summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka, plus a special look at Star…",
@@ -36,6 +72,18 @@
     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg"
   },
   {
+    "id": "82217f5240b76d19",
+    "title": "Cloudflare's AI Psychosis",
+    "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 19 # Comments: 1",
+    "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:08:40+00:00",
+    "fetched": "2026-08-15T14:51:22+00:00",
+    "image": null
+  },
+  {
     "id": "dfae9c193060f4b2",
     "title": "Прем’єр Литви: Збитий над Латвією дрон міг бути операцією «під чужим прапором»",
     "summary": "Остаточна інформація з'явиться лише після виявлення уламків літального апарата.",
@@ -60,6 +108,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_tp1_8222-1024x683-1.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "d69056f57df13253",
+    "title": "Writergate: Zig I/O Interface Overhaul",
+    "summary": "Article URL: https://alexrios.me/blog/writergate/ Comments URL: https://news.ycombinator.com/item?id=49310623 Points: 9 # Comments: 0",
+    "url": "https://alexrios.me/blog/writergate/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T13:59:47+00:00",
+    "fetched": "2026-08-15T14:51:22+00:00",
+    "image": "https://alexrios.me/og-image.png"
+  },
+  {
     "id": "286e8002d8cac616",
     "title": "У Німеччині рівень води у Рейні опустився до нової рекордно низької позначки",
     "summary": "",
@@ -69,6 +129,18 @@
     "lang": "uk",
     "published": "2026-08-15T13:52:00+00:00",
     "fetched": "2026-08-15T14:27:04+00:00",
+    "image": null
+  },
+  {
+    "id": "ebbd3bb982d2c79e",
+    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+    "summary": "Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution. Not all combinations look equally good. For example the \"Spectrum\" color palette IMO makes sense only for low values of \"Tempo\" and…",
+    "url": "https://hypnagogic-quasicrystals.github.io/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T13:48:43+00:00",
+    "fetched": "2026-08-15T14:51:22+00:00",
     "image": null
   },
   {
@@ -49234,17 +49306,5 @@
     "published": "2026-08-01T15:02:00+00:00",
     "fetched": "2026-08-01T16:04:01+00:00",
     "image": "https://i.lb.ua/news/124/27/6a6e09d74f67f.jpg"
-  },
-  {
-    "id": "8e57d342271969ca",
-    "title": "Китай провів військові і морські патрулювання біля спірної мілини у Південнокитайському морі",
-    "summary": "Пекін назвав «незаконними і недійсними» лінії територіального моря навколо мілини, які раніше встановили Філіппіни.",
-    "url": "https://lb.ua/world/2026/08/01/756048_kitay_proviv_viyskovi_morski.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T14:48:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://i.lb.ua/news/070/31/6a6e082482fed.jpg"
   }
 ]
