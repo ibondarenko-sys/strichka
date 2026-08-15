@@ -1,5 +1,53 @@
 [
   {
+    "id": "1cbbc76a44e6bb1b",
+    "title": "В Іспанії стався землетрус магнітудою 5,2",
+    "summary": "Підземні поштовхи відчувалися у Гранаді, навколишніх муніципалітетах та Малазі. Того ж вечора напередодні в регіоні зафіксували землетрус магнітудою 3,7.",
+    "url": "https://lb.ua/world/2026/08/15/759150_ispaniyi_stavsya_zemletrus.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T09:36:00+00:00",
+    "fetched": "2026-08-15T09:53:08+00:00",
+    "image": "https://i.lb.ua/news/099/30/6a8030a7614b9.jpg"
+  },
+  {
+    "id": "20472af8545b8536",
+    "title": "South Korea proposes talks to officially end war with North",
+    "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+    "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T09:35:23+00:00",
+    "fetched": "2026-08-15T09:53:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "f4e1c24e85c60e3d",
+    "title": "Генштаб: ЗСУ вдарили по ракетно-космічному центру \"Прогрес\" і аеродрому для МіГів \"Саваслейка\"",
+    "summary": "Удар по РКЦ \"Прогрес\" у Самарі та аеродрому \"Саваслейка\" — пожежі на об'єктах РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048791/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T09:34:00+00:00",
+    "fetched": "2026-08-15T09:53:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/b/892159/0bdac2fa25c538d77e96b27afb80c412.jpeg"
+  },
+  {
+    "id": "ee15b0c698cb5128",
+    "title": "На Селену Гомес та її матір подали позов до суду через стартап у сфері ментального здоров’я",
+    "summary": "Позивачі звинувачують Гомес у шахрайстві з цінними паперами та порушенні договору.",
+    "url": "https://ain.ua/2026/08/14/na-selenu-gomes-ta-yiyi-matir-podali-pozovdo-sudu/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-15T09:30:00+00:00",
+    "fetched": "2026-08-15T09:53:10+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-14/a3ZR7kHpsju0ZEmJHbYQH3udNzKe7eX7KVaHs9dr.webp"
+  },
+  {
     "id": "216ea4b896a69713",
     "title": "\"Поклали\" Wildberries: ГУР розкрило деталі кібератаки на російський маркетплейс",
     "summary": "У Wildberries стався масштабний збій після кібератаки.",
@@ -49270,65 +49318,5 @@
     "published": "2026-08-01T10:00:19+00:00",
     "fetched": "2026-08-01T11:20:35+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg"
-  },
-  {
-    "id": "ced530318b9b3265",
-    "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-    "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T09:51:05+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "cf77fcdba926a5b3",
-    "title": "Бійці ГУР уразили ворожий «Панцир-С1», катер «Сарган» та станцію управління БПЛА росіян",
-    "summary": "Уражено наземну станцію управління безпілотними літальними апаратами \"Форпост\" в Євпаторії.",
-    "url": "https://lb.ua/society/2026/08/01/755986_biytsi_gur_urazili_vorozhiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T09:49:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/080/26/6a6dc13dd1f40.jpg"
-  },
-  {
-    "id": "055ff41c8827863e",
-    "title": "Росіяни атакували АЗС та енергетику на Чернігівщині",
-    "summary": "Упродовж доби 31 липня російські війська атакували автозаправну станцію та енергетичні об'єкти у Чернігівській області.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046806/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T09:43:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/884751/3f7131e8cc2e71773adf88c589bed68d.jpeg"
-  },
-  {
-    "id": "9a04aa9274103d8f",
-    "title": "Стало відомо про атаку на другий танкер поблизу Ормузької протоки",
-    "summary": "Про постраждалих інформації немає.",
-    "url": "https://lb.ua/world/2026/08/01/755982_stalo_vidomo_pro_ataku_drugiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T09:38:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/014/32/6a6dbe807b749.jpg"
-  },
-  {
-    "id": "7125866b10295c2b",
-    "title": "У Гдині невідомий побив українку, поліція розшукує нападника",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046805/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T09:30:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/0/5065234----.jpg"
   }
 ]
