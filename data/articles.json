@@ -1,5 +1,53 @@
 [
   {
+    "id": "43e9d624824bf876",
+    "title": "Учні генерала Дуе",
+    "summary": "\"Небо визначить результат цієї війни\", – президент Володимир Зеленський зробив таку заяву в липневому інтерв'ю Financial Times.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/15/8048742/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T02:30:00+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/5/892022/e5fdb257344b72bbbc3a2b0d51b0144d.jpeg"
+  },
+  {
+    "id": "f25006a2a9814c87",
+    "title": "У російській Самарі лунали вибухи, під ударом міг бути ракетно-космічний центр",
+    "summary": "У соцмережах повідомляють про вибухи і прильоти внаслідок атаки у російській Самарі, під удар міг потрапити ракетно-космічний центр \"Прогрес\".",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048759/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T02:26:00+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/892092/dca06cb04b7df14041151e42c9215345.jpeg"
+  },
+  {
+    "id": "6d01015eaf0ca048",
+    "title": "Росіяни обстріляли Запоріжжя: є влучання у торговельний центр",
+    "summary": "Знову ціллю ворога став магазин відомої мережі.",
+    "url": "https://lb.ua/society/2026/08/15/759090_rosiyani_obstrilyali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T02:01:00+00:00",
+    "fetched": "2026-08-15T02:36:06+00:00",
+    "image": "https://i.lb.ua/news/100/59/6a7fc48238e26.jpg"
+  },
+  {
+    "id": "be73bc3cd41eaba1",
+    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+    "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 52 # Comments: 9",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T01:14:05+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": null
+  },
+  {
     "id": "00f333c014d4769e",
     "title": "У США знайшли п’ятьох убитих і мертвим підозрюваного у вбивствах – АР",
     "summary": "За даними правоохоронних органів, у п'ятницю були вбиті п'ятеро людей, а також знайдений мертвим підозрюваний у вбивствах.",
@@ -10,6 +58,30 @@
     "published": "2026-08-15T00:58:00+00:00",
     "fetched": "2026-08-15T01:28:28+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/892090/73b2715b0380132e0e67074f4b53b73b.jpeg"
+  },
+  {
+    "id": "ee04363f17a2b154",
+    "title": "The Ploopy A+ Trackball Is Here",
+    "summary": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 25 # Comments: 10",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T00:55:31+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": null
+  },
+  {
+    "id": "c12e6efd27cec9d2",
+    "title": "NSA and IETF, Part 9",
+    "summary": "Article URL: https://blog.cr.yp.to/20260814-update.html Comments URL: https://news.ycombinator.com/item?id=49306432 Points: 11 # Comments: 0",
+    "url": "https://blog.cr.yp.to/20260814-update.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T00:54:01+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": null
   },
   {
     "id": "fc50156dc686d234",
@@ -34,6 +106,30 @@
     "published": "2026-08-15T00:26:00+00:00",
     "fetched": "2026-08-15T01:28:28+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/892087/72fd1fc4da8a648687fc569527c3356f.jpeg"
+  },
+  {
+    "id": "172ecfcf22a92e4a",
+    "title": "Simplifying and Refactoring Introductory Calculus",
+    "summary": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 23 # Comments: 0",
+    "url": "https://arxiv.org/abs/1811.03459",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T00:15:23+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "c250e41ec7c11a97",
+    "title": "Corgi kills short-lived website that ranked its female employees",
+    "summary": "Article URL: https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees Comments URL: https://news.ycombinator.com/item?id=49306080 Points: 19 # Comments: 9",
+    "url": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T00:00:55+00:00",
+    "fetched": "2026-08-15T02:36:07+00:00",
+    "image": "https://lede-admin.sf.gazetteer.co/wp-content/uploads/sites/57/2026/08/IMG_6999-full.jpg"
   },
   {
     "id": "415eeab89b1cf3ed",
@@ -49208,78 +49304,6 @@
     "category": "tech",
     "lang": "en",
     "published": "2026-08-01T02:45:09+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": null
-  },
-  {
-    "id": "55a6dec57037ea70",
-    "title": "У США розбився винищувач-невидимка F-35B",
-    "summary": "Американський винищувач-невидимка (stealth fighter) F-35B розбився у Каліфорнії, пілот встиг катапультуватися.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046783/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T02:34:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/884679/7b7176f383acb8338229be314a25edf8.jpeg"
-  },
-  {
-    "id": "2bb24ba8f2272913",
-    "title": "Міф проти міфу",
-    "summary": "1-го серпня в сусідній Польщі відзначають Національний день пам'яті Варшавського повстання. Повстання, яке тривало 63 дні, зазнало поразки, завершилося майже повним руйнуванням польської столиці та загибеллю приблизно 180 000 цивільних осіб.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/01/8046702/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T02:30:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/6/884588/66b002404e5d73db2376efbc9a058b13.jpeg"
-  },
-  {
-    "id": "5179820b5316cef4",
-    "title": "На Київщині через російський обстріл постраждали двоє людей",
-    "summary": "Область, як і столиця, потерпала від балістичної атаки ворога.",
-    "url": "https://lb.ua/society/2026/08/01/755922_kiyivschini_cherez_rosiyskiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T02:27:00+00:00",
-    "fetched": "2026-08-01T04:54:39+00:00",
-    "image": "https://i.lb.ua/news/081/27/6a6d598f0a638.jpg"
-  },
-  {
-    "id": "066187e2a000e4a6",
-    "title": "Через ворожу атаку на Київщині горить підприємство, двоє потерпілих",
-    "summary": "На Київщині внаслідок ворожої атаки спалахнула пожежа на промисловому підприємстві, постраждали двоє людей.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046782/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T01:40:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/884680/2b9a5c8c9971dd42c941c0f127719b4b.jpeg"
-  },
-  {
-    "id": "9eb2c367acc0aa16",
-    "title": "Міністр фінансів США випадково розкрив план по зміцненню японської єни",
-    "summary": "Скотт Бессент робив важливі нотатки під час засідання урядового кабінету Трампа.",
-    "url": "https://lb.ua/economics/2026/08/01/755920_ministr_finansiv_ssha_vipadkovo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T01:36:00+00:00",
-    "fetched": "2026-08-01T04:54:39+00:00",
-    "image": "https://i.lb.ua/news/030/38/6a6d4fefd3dfd.jpg"
-  },
-  {
-    "id": "99eeabbd9000475d",
-    "title": "A Week in Matrix",
-    "summary": "Article URL: https://piegames.de/dumps/a-week-in-matrix/ Comments URL: https://news.ycombinator.com/item?id=49130295 Points: 19 # Comments: 2",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T01:35:53+00:00",
     "fetched": "2026-08-01T04:54:38+00:00",
     "image": null
   }
