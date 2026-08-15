@@ -1,5 +1,41 @@
 [
   {
+    "id": "0465e1c38a5c6296",
+    "title": "У Марганці через російську атаку загинула дитина: 11 людей поранені",
+    "summary": "Ворог уночі атакував місто на Дніпропетровщині.",
+    "url": "https://lb.ua/society/2026/08/15/759092_margantsi_cherez_rosiysku_ataku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T04:28:00+00:00",
+    "fetched": "2026-08-15T04:35:36+00:00",
+    "image": "https://i.lb.ua/news/017/40/6a7feae1e7b69.jpg"
+  },
+  {
+    "id": "cbdec07893cf5b1a",
+    "title": "У війні проти України Росія втратила ще 1 370 вояк",
+    "summary": "За минулу добу російська окупаційна армія у війні проти України втратила ще 1 370 військових.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048762/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T04:04:00+00:00",
+    "fetched": "2026-08-15T04:35:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/892096/7b5068f2f60ab781c71165be33f8209f.jpeg"
+  },
+  {
+    "id": "7442dcbd1769d808",
+    "title": "Ворожа атака на Дніпропетровщину: загинуло немовля, серед поранених – діти",
+    "summary": "Росія вдарила по Марганці Дніпропетровської області, убила немовля, поранила дорослих і дітей.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048761/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T03:32:00+00:00",
+    "fetched": "2026-08-15T04:35:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/892094/69577a75533029530e6ce79ad05b9d15.jpeg"
+  },
+  {
     "id": "d90e3b1f1c1992a6",
     "title": "Через масштабну пожежу в Хорватії загинула людина, десятки поранених",
     "summary": "Щонайменше одна людина загинула, а близько 40 отримали поранення внаслідок сильної лісової пожежі, яка охопила міста узбережжя Хорватії у п'ятницю.",
@@ -49246,29 +49282,5 @@
     "published": "2026-08-01T04:38:00+00:00",
     "fetched": "2026-08-01T04:54:39+00:00",
     "image": "https://i.lb.ua/news/099/02/6a6d786389a52.jpg"
-  },
-  {
-    "id": "dccd08deab414c72",
-    "title": "What Liberal Arts Education Is for (2024)",
-    "summary": "Article URL: https://innig.net/teaching/liberal-arts-manifesto Comments URL: https://news.ycombinator.com/item?id=49131034 Points: 33 # Comments: 32",
-    "url": "https://innig.net/teaching/liberal-arts-manifesto",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T04:28:13+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": null
-  },
-  {
-    "id": "7722c50f72d8eb04",
-    "title": "Сили оборони знешкодили ще 1 470 російських окупантів",
-    "summary": "За минулу добу Сили оборони відмінусували ще 1 470 російських окупантів і 82 артсистеми ворога.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046786/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T04:02:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/884690/dcefe8fa9ba0136255a67cbf9bb4db0a.jpeg"
   }
 ]
