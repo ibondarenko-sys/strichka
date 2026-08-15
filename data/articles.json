@@ -1,5 +1,29 @@
 [
   {
+    "id": "d90e3b1f1c1992a6",
+    "title": "Через масштабну пожежу в Хорватії загинула людина, десятки поранених",
+    "summary": "Щонайменше одна людина загинула, а близько 40 отримали поранення внаслідок сильної лісової пожежі, яка охопила міста узбережжя Хорватії у п'ятницю.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048760/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T03:14:00+00:00",
+    "fetched": "2026-08-15T03:43:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/e/892093/4eee60b8c9b096f6dc0c262344051d3e.jpeg"
+  },
+  {
+    "id": "c0d7e3a270206042",
+    "title": "AI Driven Testing",
+    "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 3 # Comments: 0",
+    "url": "https://app.deltix.ai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T02:42:14+00:00",
+    "fetched": "2026-08-15T03:43:09+00:00",
+    "image": null
+  },
+  {
     "id": "43e9d624824bf876",
     "title": "Учні генерала Дуе",
     "summary": "\"Небо визначить результат цієї війни\", – президент Володимир Зеленський зробив таку заяву в липневому інтерв'ю Financial Times.",
@@ -49246,65 +49270,5 @@
     "published": "2026-08-01T04:02:00+00:00",
     "fetched": "2026-08-01T04:54:38+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/884690/dcefe8fa9ba0136255a67cbf9bb4db0a.jpeg"
-  },
-  {
-    "id": "1a2a3af209a3c0ae",
-    "title": "BMW Spider-Man in-car advertising",
-    "summary": "Article URL: https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising Comments URL: https://news.ycombinator.com/item?id=49130756 Points: 90 # Comments: 33",
-    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T03:25:12+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png"
-  },
-  {
-    "id": "938e3e7d1f523ae2",
-    "title": "The development pipeline is a production system",
-    "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system Comments URL: https://news.ycombinator.com/item?id=49130726 Points: 34 # Comments: 11",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T03:16:09+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": null
-  },
-  {
-    "id": "3c496d71b5e77d3c",
-    "title": "What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
-    "summary": "Article URL: https://minimaxh3.art/blog/what-is-minimax-h3 Comments URL: https://news.ycombinator.com/item?id=49130723 Points: 3 # Comments: 0",
-    "url": "https://minimaxh3.art/blog/what-is-minimax-h3",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T03:15:09+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://minimaxh3.art/images/blog/minimax-h3/01-what-is-minimax-h3.webp"
-  },
-  {
-    "id": "5d91eec10d13b7bd",
-    "title": "Наслідки удару ворожою балістикою по Києву: 9 загиблих і понад 20 потерпілих",
-    "summary": "Росіяни вдарили балістикою по Києву в ніч на 1 серпня: 9 людей загинуло, понад 20 отримали поранення.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046784/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T03:10:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/884683/56f2a809582a2c6ca42c1bf338b1d132.jpeg"
-  },
-  {
-    "id": "24b8b6659aa1ae25",
-    "title": "Flint: A Visualization Language for the AI Era",
-    "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 36 # Comments: 5",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T02:45:09+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": null
   }
 ]
