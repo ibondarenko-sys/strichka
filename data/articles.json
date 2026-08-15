@@ -1,5 +1,29 @@
 [
   {
+    "id": "11e27a36a7f2df4f",
+    "title": "Росія вдарила балістикою по кількох містах України: під ударом опинилися Дніпропетровщина та Полтавщина",
+    "summary": "У ніч на 16 серпня Росія атакувала низку українських міст балістичними ракетами.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048849/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T22:58:00+00:00",
+    "fetched": "2026-08-15T23:24:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/892429/c439c42fc7cab8ed9506a9fd57484e5c.jpeg"
+  },
+  {
+    "id": "1daf2b427c070de3",
+    "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
+    "summary": "Article URL: https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=49314962 Points: 19 # Comments: 2",
+    "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:40:20+00:00",
+    "fetched": "2026-08-15T23:24:09+00:00",
+    "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/404-Media-5101-Santa-Monica-Blvd-Ste-8-PMB1405-Los-Angeles--CA-90029.jpg"
+  },
+  {
     "id": "d4348ee93f245c83",
     "title": "Країни Перської затоки обурені неспроможністю Трампа закінчити розв'язану ним війну з Іраном – WP",
     "summary": "Країни Перської затоки висловлюють зростаюче невдоволення Вашингтоном через відсутність чіткої стратегії щодо Ірану, непослідовність дій президента Дональда Трампа та неспроможність досягти миру після майже шести місяців військового конфлікту. Джерело: американське видання The…",
@@ -10,6 +34,18 @@
     "published": "2026-08-15T22:30:00+00:00",
     "fetched": "2026-08-15T22:50:34+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/892428/fc5d91bee64ea8a967d6575ac4f503e0.jpeg"
+  },
+  {
+    "id": "c1a23dc48e05541d",
+    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+    "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 4 # Comments: 1",
+    "url": "https://sugartrack-beta.vercel.app/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:28:14+00:00",
+    "fetched": "2026-08-15T23:24:09+00:00",
+    "image": null
   },
   {
     "id": "7eef305347303696",
@@ -49258,89 +49294,5 @@
     "published": "2026-08-01T23:44:55+00:00",
     "fetched": "2026-08-02T03:26:43+00:00",
     "image": null
-  },
-  {
-    "id": "9d8fd6f39a4ebc6c",
-    "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-    "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-    "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T23:03:35+00:00",
-    "fetched": "2026-08-01T23:32:45+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe10/live/f5b8a870-8c09-11f1-8665-e382dc49dfdb.jpg"
-  },
-  {
-    "id": "d177225f52f9a5d3",
-    "title": "Russian ship defies sanctions to send military vehicles to Mali",
-    "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-    "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T23:03:23+00:00",
-    "fetched": "2026-08-01T23:32:45+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f867/live/e4bf7ee0-8cf4-11f1-b8ee-9b3c26ad07bb.png"
-  },
-  {
-    "id": "bcb6a83b1705f502",
-    "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-    "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-    "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T23:03:15+00:00",
-    "fetched": "2026-08-01T23:32:45+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b4/live/aedc5530-8cc4-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "723ac7e10b4290fd",
-    "title": "The Sopranos star Vincent Pastore dies aged 80",
-    "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-    "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T22:57:55+00:00",
-    "fetched": "2026-08-01T23:32:45+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/c9f00e60-8df6-11f1-902e-fd8182e85c3f.jpg"
-  },
-  {
-    "id": "314f25ec54fb0bf7",
-    "title": "Unraveling the mysteries of habit formation",
-    "summary": "Article URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28 Comments URL: https://news.ycombinator.com/item?id=49139383 Points: 7 # Comments: 2",
-    "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T22:55:52+00:00",
-    "fetched": "2026-08-01T23:32:48+00:00",
-    "image": "https://www.kyoto-u.ac.jp/sites/default/files/styles/ogp_image/public/2026-07/2607-eye-Asaoka_habit-forming-mice---image-1-7011e68b62539ecfa31f2bf8de58add5.jpg?itok=WWSJVTrW"
-  },
-  {
-    "id": "76684116bf4d1772",
-    "title": "Прем'єр Франції заявив, що лісові пожежі вдалось взяти під контроль",
-    "summary": "Пожежі у Франції під контролем, ситуація у Жироні стабілізована. Вжито додаткові заходи.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046872/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T22:53:00+00:00",
-    "fetched": "2026-08-01T23:32:45+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/885089/cf7ec7321c9b75bf12c81dcf38af8e1d.jpeg"
-  },
-  {
-    "id": "56448107a7d9f839",
-    "title": "Morph (YC S23) Is Hiring Member of Technical Stuff",
-    "summary": "Article URL: https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff Comments URL: https://news.ycombinator.com/item?id=49139352 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T22:52:44+00:00",
-    "fetched": "2026-08-01T23:32:48+00:00",
-    "image": "https://bookface-images.s3.amazonaws.com/logos/b4d10434317c3ea726f5129500cdb06a17b2455c.png?1757192177"
   }
 ]
