@@ -1,5 +1,113 @@
 [
   {
+    "id": "ca9d43691903e493",
+    "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+    "summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka, plus a special look at Star…",
+    "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:20:33+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_RH7_7615.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "924843ad4785fa7d",
+    "title": "I finally found a magnetic phone grip I never want to remove",
+    "summary": "I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. But OhSnap's $50 Snap Grip Stand finally…",
+    "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:10:16+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-ohsnap-stand-sean-hollister-1-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0b73ad404776219f",
+    "title": "Secondhand book sales are booming. Is it because of AI?",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 4 # Comments: 0",
+    "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:08:55+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg"
+  },
+  {
+    "id": "dfae9c193060f4b2",
+    "title": "Прем’єр Литви: Збитий над Латвією дрон міг бути операцією «під чужим прапором»",
+    "summary": "Остаточна інформація з'явиться лише після виявлення уламків літального апарата.",
+    "url": "https://lb.ua/world/2026/08/15/759196_premier_litvi_zbitiy_nad.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T14:08:00+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://i.lb.ua/news/077/52/6a80730be0232.jpg"
+  },
+  {
+    "id": "23a3b2cec9d82a0b",
+    "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+    "summary": "With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is…",
+    "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:03:14+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_tp1_8222-1024x683-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "286e8002d8cac616",
+    "title": "У Німеччині рівень води у Рейні опустився до нової рекордно низької позначки",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048816/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T13:52:00+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": null
+  },
+  {
+    "id": "0ef314511f516448",
+    "title": "Росіяни вдарили по Кривому Рогу: двоє людей у важкому стані",
+    "summary": "Під час атаки РФ по Кривому Рогу постраждали двоє чоловіків, ситуація стабілізована, лікарі рятують життя поранених.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048815/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T13:47:00+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/a/892238/fab9f4f894330736f75a83f14187641a.jpeg"
+  },
+  {
+    "id": "3e34ba37fa70bf9e",
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 4 # Comments: 1",
+    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T13:43:46+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": null
+  },
+  {
+    "id": "ae72d0f93ee246ec",
+    "title": "11-й корпус Сухопутних військ ЗСУ очолить полковник Еміль Ішкулов",
+    "summary": "Раніше Ішкулов був комбригом 80-ої бригади ДШВ.",
+    "url": "https://lb.ua/society/2026/08/15/759194_11-y_korpus_suhoputnih_viysk_zsu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T13:42:00+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://i.lb.ua/news/015/45/6a806cd9b2e8b.jpg"
+  },
+  {
     "id": "49b99ae728685ff2",
     "title": "Швейцарія потерпає від масштабної засухи",
     "summary": "Подекуди заборонили полив газонів, миття авто і заборонили нецільове використання питної води.",
@@ -34,6 +142,18 @@
     "published": "2026-08-15T13:18:00+00:00",
     "fetched": "2026-08-15T13:33:36+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/b/2/b20d15f-86b49745502fc91c708e9664b6f179cd.jpg"
+  },
+  {
+    "id": "0bd2cadeb19d1156",
+    "title": "388 years ago, Galileo worked out why human giants can't exist",
+    "summary": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 13 # Comments: 9",
+    "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T13:15:48+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": null
   },
   {
     "id": "a67605ddac4deaf9",
@@ -120,6 +240,18 @@
     "image": null
   },
   {
+    "id": "de716c233805f669",
+    "title": "Xorshift Generators",
+    "summary": "Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item?id=49310128 Points: 3 # Comments: 0",
+    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T12:47:52+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": null
+  },
+  {
     "id": "7af13ea9dd8f6374",
     "title": "Прем’єр Британії закликав визнати, що кліматичні зміни реальні",
     "summary": "",
@@ -192,6 +324,18 @@
     "image": "https://i.lb.ua/news/106/33/6a8059dbabbd6.jpg"
   },
   {
+    "id": "939a2023f625166b",
+    "title": "The Problem",
+    "summary": "Article URL: https://intelligence.org/the-problem/ Comments URL: https://news.ycombinator.com/item?id=49309963 Points: 3 # Comments: 0",
+    "url": "https://intelligence.org/the-problem/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T12:14:17+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": "https://intelligence.org/wp-content/uploads/2026/03/miri-og-image.jpg"
+  },
+  {
     "id": "d55b3c6ae9207b50",
     "title": "Іспанія і Марокко посилили безпеку біля кордону з Сеутою через загрози штурму",
     "summary": "Днями МВС Марокко заявило про затримання групи осіб, які закликали до нових спроб незаконного перетину кордону.",
@@ -214,6 +358,18 @@
     "published": "2026-08-15T12:10:00+00:00",
     "fetched": "2026-08-15T12:45:53+00:00",
     "image": "https://i.lb.ua/news/126/04/6a804c8a50f11.jpg"
+  },
+  {
+    "id": "cc50b568e3e7725f",
+    "title": "T3X/0 a Minimal Procedural Language",
+    "summary": "Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 3 # Comments: 0",
+    "url": "https://t3x.org/t3x/0/index.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T12:06:24+00:00",
+    "fetched": "2026-08-15T14:27:04+00:00",
+    "image": null
   },
   {
     "id": "2fc3be199df9500b",
@@ -49090,149 +49246,5 @@
     "published": "2026-08-01T14:48:00+00:00",
     "fetched": "2026-08-01T16:04:01+00:00",
     "image": "https://i.lb.ua/news/070/31/6a6e082482fed.jpg"
-  },
-  {
-    "id": "cbbeebf2b4bae52c",
-    "title": "Ворожий дрон атакував маршрутку на Нікопольщині: 7 постраждалих, серед них підліток",
-    "summary": "На Дніпропетровщині російський дрон влучив у маршрутку, поранено 7 людей, серед них підліток, двоє у важкому стані.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046842/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T14:26:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/1/884848/91c2a970a0ac75633082a9393b5c6713.jpeg"
-  },
-  {
-    "id": "285bc67df401f1e2",
-    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-    "summary": "Article URL: https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/ Comments URL: https://news.ycombinator.com/item?id=49134694 Points: 105 # Comments: 34",
-    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T14:19:51+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://www.michaelgeist.ca/wp-content/uploads/2026/07/Hieu_Ngo_at_Hanoi_Convention_side_event-scaled.jpg"
-  },
-  {
-    "id": "7e4de1cc5692bc25",
-    "title": "Росіяни обстріляли рейсовий мікроавтобус на Дніпропетровщині, є потерпілі",
-    "summary": "Автобус повністю згорів.",
-    "url": "https://lb.ua/society/2026/08/01/756046_rosiyani_obstrilyali_reysoviy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T14:16:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://i.lb.ua/news/085/56/6a6e00439c723.jpg"
-  },
-  {
-    "id": "2402b417b76fbc10",
-    "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-    "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-    "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T14:11:40+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg"
-  },
-  {
-    "id": "1b719c18b7e7dc0f",
-    "title": "Туреччина й Ірак домовилися продовжити угоду про нафтопровід і збільшити обсяги прокачування нафти",
-    "summary": "Це дозволить забезпечити постачання сировини в обхід Ормузької протоки.",
-    "url": "https://lb.ua/world/2026/08/01/756044_turechchina_y_irak_domovilisya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T14:10:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://i.lb.ua/news/083/54/6a6dfe45571e9.jpg"
-  },
-  {
-    "id": "cec42d685432b2f0",
-    "title": "Іспанія встановлює плавучий бар'єр на кордоні з Марокко після прориву мігрантів в Сеуту",
-    "summary": "На території прориву залишається багато правоохоронців.",
-    "url": "https://lb.ua/world/2026/08/01/756042_ispaniya_vstanovlyuie_plavuchiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T14:10:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://i.lb.ua/news/105/28/6a6dfddc583ec.jpg"
-  },
-  {
-    "id": "eb571f6fbf22dc3d",
-    "title": "The Art of 64-bit Assembly",
-    "summary": "Article URL: https://nostarch.com/art-64-bit-assembly-v2 Comments URL: https://news.ycombinator.com/item?id=49134599 Points: 40 # Comments: 3",
-    "url": "https://nostarch.com/art-64-bit-assembly-v2",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T14:09:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://nostarch.com/sites/default/files/art-of-64-bit-assembly-v2_frontcover.jpg"
-  },
-  {
-    "id": "36533368d4d6a0a9",
-    "title": "The Verge’s 2026 back-to-school shopping guide",
-    "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school…",
-    "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T14:00:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268641_Back-to-school_gift_guide_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "a2d53f509079b8a1",
-    "title": "Дефіцит якісних площ, ризики та стагнація дрібних партій. Що відбувається на ринку логістичної нерухомості",
-    "summary": "Експерти радять диверсифікувати зберігання товарів, тоді як ринок стикається з нестачею сучасних складських площ.",
-    "url": "https://ain.ua/2026/07/31/deficit-iakisnix-ploshh-riziki-ta-stagnaciia-dribnix-partii-shho-vidbuvajetsia-na-rinku-logisticnoyi-neruxomosti/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-01T13:57:00+00:00",
-    "fetched": "2026-08-01T14:36:39+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-07-31/ER75ElfWSizDYYqCssX7pZ3JjxIAW2Lccej2WIr9.webp"
-  },
-  {
-    "id": "d5ab506766147ca1",
-    "title": "У центрі Одеси БпЛА влучив у багатоповерхівку, в області поранено дітей",
-    "summary": "Ворожий БпЛА влучив у житловий будинок в Одесі: постраждали люди, є госпіталізовані.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046838/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T13:55:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/b/884839/eb57e105650807a01b6d7a18f7006b22.jpeg"
-  },
-  {
-    "id": "e309ba62ea8e9ae7",
-    "title": "Угорщині загрожує повна зупинка атомної електростанції «Пакш»",
-    "summary": "Посуха позбавила АЕС достатньої кількості води з Дунаю для охолодження реакторів.",
-    "url": "https://lb.ua/world/2026/08/01/756040_ugorschini_zagrozhuie_povna.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T13:53:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://i.lb.ua/news/002/60/6a6dfa7bb2272.jpg"
-  },
-  {
-    "id": "f9f1148185a74114",
-    "title": "Польща після атаки РФ на Київ: Навмисний терор проти невинних людей",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046836/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T13:36:00+00:00",
-    "fetched": "2026-08-01T14:36:38+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/4/a/4a318e2-grmg554b2ibyxmepv2ptrfa27c9hmojb.jpg"
   }
 ]
