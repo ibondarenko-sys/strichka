@@ -1,5 +1,41 @@
 [
   {
+    "id": "69f23561f9974be7",
+    "title": "Australian state to launch gun buyback after Bondi Beach attack",
+    "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+    "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T21:41:43+00:00",
+    "fetched": "2026-08-15T21:47:06+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg"
+  },
+  {
+    "id": "ddc62b3c96b30b8a",
+    "title": "Ярослава Магучіх утретє поспіль стала чемпіонкою Європи зі стрибків у висоту",
+    "summary": "Ще одна українка Ірина Геращенко завершила виступ у фіналі змагань на п’ятій сходинці.",
+    "url": "https://lb.ua/sport/2026/08/16/759256_yaroslava_maguchih_utretie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T21:26:00+00:00",
+    "fetched": "2026-08-15T21:47:07+00:00",
+    "image": "https://i.lb.ua/news/012/47/6a80da7944a9c.jpg"
+  },
+  {
+    "id": "0cad4b24cd1eb35f",
+    "title": "Росіяни вдарили дроном по фермі на Запоріжжі, є поранений – ОВА",
+    "summary": "Увечері 15 серпня російські війська вдарили безпілотником по території фермерського господарства у Грізному Запорізької області, внаслідок чого отримав поранення 61-річний чоловік.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048846/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T21:20:00+00:00",
+    "fetched": "2026-08-15T21:47:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/892424/8924ac026960902e25f89fad3a657f2c.jpeg"
+  },
+  {
     "id": "1a9d61f4c8de2e9c",
     "title": "Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding",
     "summary": "Article URL: https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/ Comments URL: https://news.ycombinator.com/item?id=49314341 Points: 6 # Comments: 0",
@@ -49186,17 +49222,5 @@
     "published": "2026-08-01T21:51:00+00:00",
     "fetched": "2026-08-01T22:29:48+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/885088/3711c6e7fd4ee3df685e347a11ca78bd.jpeg"
-  },
-  {
-    "id": "bfffe3c86d90395e",
-    "title": "Pixel 11 specs and price leak with no surprises",
-    "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but…",
-    "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T21:31:24+00:00",
-    "fetched": "2026-08-01T22:29:48+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
