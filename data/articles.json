@@ -1,5 +1,53 @@
 [
   {
+    "id": "c3374fa5a429ffda",
+    "title": "Зеленський привітав Польщу з Днем Збройних сил та нагадав про спільну боротьбу",
+    "summary": "Президент наголосив на ролі українських військових у захисті Варшави від більшовицького наступу.",
+    "url": "https://lb.ua/news/2026/08/15/759228_zelenskiy_privitav_polschu_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T17:16:00+00:00",
+    "fetched": "2026-08-15T17:24:15+00:00",
+    "image": "https://i.lb.ua/news/116/39/6a809eda8284d.jpg"
+  },
+  {
+    "id": "a858dc78f9e82d4f",
+    "title": "У Польщі пройшов найбільший військовий парад в історії країни",
+    "summary": "У центрі Варшави пройшов парад з сучасною технікою K2 Black Panther та авіацією НАТО.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048832/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T17:08:00+00:00",
+    "fetched": "2026-08-15T17:24:15+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/892336/604de92af4a6a26d358d136189ea59c9.jpeg"
+  },
+  {
+    "id": "128fac24663242e9",
+    "title": "У центрі Дніпра чоловіки влаштували бійку та стрілянину біля закладу",
+    "summary": "Поліція затримала 2 учасників конфлікту.",
+    "url": "https://lb.ua/society/2026/08/15/759224_tsentri_dnipra_choloviki.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T17:03:00+00:00",
+    "fetched": "2026-08-15T17:24:15+00:00",
+    "image": "https://i.lb.ua/news/000/52/6a809beba4716.jpg"
+  },
+  {
+    "id": "3cc4cffd49713a1a",
+    "title": "Don’t overlook Elektron’s budget electronic music instruments",
+    "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even…",
+    "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T17:00:00+00:00",
+    "fetched": "2026-08-15T17:24:16+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "6ab49eeb9b59adce",
     "title": "УІНП: наступним, кого можуть перепоховати в Україні, буде представник вищого керівництва армії УНР",
     "summary": "Ведуть також перемовини щодо гетьманських та княжих могил.",
@@ -22,6 +70,18 @@
     "published": "2026-08-15T16:40:00+00:00",
     "fetched": "2026-08-15T16:54:04+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/7/1/71c4612-1104925-466094-1287x836.jpg"
+  },
+  {
+    "id": "69a98c1765b1b416",
+    "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 20 # Comments: 0",
+    "url": "https://www.nature.com/articles/d41586-026-02448-x",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T16:38:34+00:00",
+    "fetched": "2026-08-15T17:24:16+00:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02448-x/d41586-026-02448-x_53083048.jpg"
   },
   {
     "id": "2d8739def595cde6",
@@ -93,6 +153,18 @@
     "lang": "en",
     "published": "2026-08-15T16:01:57+00:00",
     "fetched": "2026-08-15T16:54:06+00:00",
+    "image": null
+  },
+  {
+    "id": "c09e460cdf9e9701",
+    "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+    "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 25 # Comments: 10",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T15:58:53+00:00",
+    "fetched": "2026-08-15T17:24:16+00:00",
     "image": null
   },
   {
@@ -1989,6 +2061,18 @@
     "lang": "en",
     "published": "2026-08-15T00:54:01+00:00",
     "fetched": "2026-08-15T02:36:07+00:00",
+    "image": null
+  },
+  {
+    "id": "16dfa567125ed139",
+    "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+    "summary": "Article URL: https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/ Comments URL: https://news.ycombinator.com/item?id=49306333 Points: 19 # Comments: 2",
+    "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T00:36:01+00:00",
+    "fetched": "2026-08-15T17:24:16+00:00",
     "image": null
   },
   {
@@ -49186,77 +49270,5 @@
     "published": "2026-08-01T17:30:00+00:00",
     "fetched": "2026-08-01T19:15:34+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/884941/f1598cb2a19899b71eb2a0b0157300f0.jpeg"
-  },
-  {
-    "id": "98d4c64ae61fb53a",
-    "title": "Assessment of open AI math results",
-    "summary": "Article URL: https://twitter.com/stalkermustang/status/2083485500250198453 Comments URL: https://news.ycombinator.com/item?id=49136236 Points: 5 # Comments: 0",
-    "url": "https://twitter.com/stalkermustang/status/2083485500250198453",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T17:08:03+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": "https://pbs.twimg.com/media/HOoEjciXsAA1Tpv.jpg:large"
-  },
-  {
-    "id": "6d98d06b54a1823d",
-    "title": "У Польщі затримали чоловіка, який побив українку в Гдині",
-    "summary": "У Гдині поліція затримала 76-річного, що напав на 40-річну українку. Триває слідство, інцидент не пов'язують із нац. ворожнечею.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046857/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T17:04:00+00:00",
-    "fetched": "2026-08-01T17:32:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/f/884923/9fc9eae62fb36b1728c057814e7abd45.jpeg"
-  },
-  {
-    "id": "fc4988e9002f8fcc",
-    "title": "В Одесі затримали двох нападників у військовій формі, які пограбували подружжя",
-    "summary": "Зловмисники представилися співробітниками однієї зі силових структур.",
-    "url": "https://lb.ua/society/2026/08/01/756072_odesi_zatrimali_dvoh_napadnikiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T17:04:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/108/45/6a6e270ce1512.jpg"
-  },
-  {
-    "id": "738a25c86f2c67a5",
-    "title": "Російський дрон влучив в АЗС у Шевченківському районі Харкова",
-    "summary": "Це вже вдруге за день росіяни тероризують цей район міста.",
-    "url": "https://lb.ua/society/2026/08/01/756074_rosiyskiy_dron_vluchiv_azs.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T17:02:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/011/61/6a6e26ab832c3.jpg"
-  },
-  {
-    "id": "c15d14900b7fe76f",
-    "title": "Spider-Man: Brand New Day leak racks up millions of views",
-    "summary": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly…",
-    "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T17:00:12+00:00",
-    "fetched": "2026-08-01T17:32:12+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-9.08.24%E2%80%AFAM.png?quality=90&strip=all&crop=0,0,79.216870117187,100"
-  },
-  {
-    "id": "196474e69ce9c6ec",
-    "title": "Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival",
-    "summary": "Article URL: https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html Comments URL: https://news.ycombinator.com/item?id=49136104 Points: 6 # Comments: 0",
-    "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T16:56:25+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": null
   }
 ]
