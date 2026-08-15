@@ -1,5 +1,149 @@
 [
   {
+    "id": "7cfbce069535ce4b",
+    "title": "На Чернігівщині через обстріли РФ постраждала дитина",
+    "summary": "У дівчинки гостра реакція на стрес.",
+    "url": "https://lb.ua/society/2026/08/15/759118_chernigivschini_cherez_obstrili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:40:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://i.lb.ua/news/064/23/6a8009d2ae3bc.jpg"
+  },
+  {
+    "id": "08fada68e51ebac1",
+    "title": "Британці отримали попередження через ризик пожеж",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048773/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:26:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/0/505075d--------------2.jpg"
+  },
+  {
+    "id": "64bc33776b59a44a",
+    "title": "МЗС: Росія планує скасувати прикордонні зони на ділянках біля окупованих територій України",
+    "summary": "Рішення РФ не змінюють міжнародно визнаного статусу українських територій.",
+    "url": "https://lb.ua/society/2026/08/15/759116_mzs_rosiya_planuie_skasuvati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:25:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://i.lb.ua/news/089/29/6a800672941f0.jpg"
+  },
+  {
+    "id": "0d530c09c98651e5",
+    "title": "РФ запустила по Україні понад 150 дронів: є влучання на 16 локаціях – ПС",
+    "summary": "15 серпня Повітряні сили збили 124 російські дрони та три “Бандеролі” під час масованої атаки.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048772/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:18:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/892123/f9c7b08ca03bcc2d2488bac7df59d7fd.jpeg"
+  },
+  {
+    "id": "d318886f836f61fd",
+    "title": "Уночі РФ атакувала Україну 152 ударними дронами",
+    "summary": "Сили ППО знешкодили 124 ворожі БпЛА. Є влучання на 16 локаціях.",
+    "url": "https://lb.ua/society/2026/08/15/759114_unochi_rf_atakuvala_ukrayinu_152.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:18:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://i.lb.ua/news/045/28/6a8004c92131a.jpg"
+  },
+  {
+    "id": "43ae57077496b726",
+    "title": "На Одещині через атаку російських дронів зруйнована будівля фабрики",
+    "summary": "Після удару загорілися їдальня, котельня та легковий автомобіль.",
+    "url": "https://lb.ua/society/2026/08/15/759112_odeschini_cherez_ataku_rosiyskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:14:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://i.lb.ua/news/033/48/6a8002c180a81.jpg"
+  },
+  {
+    "id": "7e8c403bca2c4618",
+    "title": "Reuters: США можуть виключити з технологічного альянсу країни, які співпрацюватимуть із Китаєм у сфері ШІ",
+    "summary": "Вашингтон хоче, щоб партнери визначилися щодо участі в подальшій міжнародній співпраці у сфері штучного інтелекту.",
+    "url": "https://lb.ua/tech/2026/08/15/759110_reuters_ssha_mozhut_viklyuchiti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:03:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://i.lb.ua/news/047/06/6a8000d37427b.jpg"
+  },
+  {
+    "id": "ed4ec896980f9dc5",
+    "title": "\"That's not SoC 2 compliant\"",
+    "summary": "Article URL: https://ampcode.com/notes/thats-not-soc-2-compliant Comments URL: https://news.ycombinator.com/item?id=49308073 Points: 12 # Comments: 3",
+    "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T06:01:19+00:00",
+    "fetched": "2026-08-15T06:45:31+00:00",
+    "image": "https://static.ampcode.com/news/thats-not-soc-2-compliant-bg.jpg"
+  },
+  {
+    "id": "7b24ec003d73e338",
+    "title": "Дві сили. Хто насправді вибудовував Незалежність",
+    "summary": "Колонка Дениса Блощинського: до чого нас вчить співпраця Степу і Республіки в історії України.",
+    "url": "https://www.pravda.com.ua/columns/2026/08/15/8048682/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T06:00:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/891808/og_8048682_ukr.png?w=1200&q=85&stamp=1786710944"
+  },
+  {
+    "id": "66648ee3b1cfe0b0",
+    "title": "Ask HN: How do you keep up with HN these days?",
+    "summary": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more. Comments URL:…",
+    "url": "https://news.ycombinator.com/item?id=49308059",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T05:59:12+00:00",
+    "fetched": "2026-08-15T06:45:31+00:00",
+    "image": null
+  },
+  {
+    "id": "db4846d1ca397c14",
+    "title": "Через російські обстріли на Харківщині постраждали шестеро людей, є руйнування",
+    "summary": "Під обстрілами опинився Харків і ще 19 населених пунктів області.",
+    "url": "https://lb.ua/society/2026/08/15/759108_cherez_rosiyski_obstrili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T05:53:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://i.lb.ua/news/125/20/6a7ffda83157f.jpg"
+  },
+  {
+    "id": "f9c78124fac9ab46",
+    "title": "РФ звітує про майже 600 \"збитих\" українських дронів за ніч",
+    "summary": "Міноборони РФ повідомило про знищення 598 безпілотників, але доказів цьому не надало.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048771/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T05:52:00+00:00",
+    "fetched": "2026-08-15T06:45:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/892122/f80d974d87b04218f830b5a17a462c9a.jpeg"
+  },
+  {
     "id": "4c9e19495322a592",
     "title": "Бійці ССО взяли в полон трьох російських військових і врятували оленятко",
     "summary": "Також під час бойового зіткнення знищено одного російського військового.",
@@ -132,6 +276,18 @@
     "image": "https://i.lb.ua/news/115/00/6a7fef3b96bfa.jpg"
   },
   {
+    "id": "221adc0985abfdc8",
+    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+    "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 5 # Comments: 0",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T04:42:07+00:00",
+    "fetched": "2026-08-15T06:45:31+00:00",
+    "image": "https://chenxiachan.github.io/thoughtdag/assets/thoughtdag-story-poster-en-horizontal.jpg"
+  },
+  {
     "id": "28782149d4053c32",
     "title": "За добу РФ втратила в Україні ще 1 370 військових",
     "summary": "Загальні втрати росіян з початку повномасштабного вторгнення складають близько 1 465 810 осіб.",
@@ -202,6 +358,18 @@
     "published": "2026-08-15T04:04:00+00:00",
     "fetched": "2026-08-15T04:35:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/892096/7b5068f2f60ab781c71165be33f8209f.jpeg"
+  },
+  {
+    "id": "3f909b7a1077710f",
+    "title": "The End of Mathematics",
+    "summary": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 16 # Comments: 7",
+    "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T03:37:00+00:00",
+    "fetched": "2026-08-15T06:45:31+00:00",
+    "image": "http://static1.squarespace.com/static/57bf2a6de3df281593b7f57d/57bf3c29725e25faad5d6bcf/6a7ba53bca4a780437f179e6/1786488574787/end_of_math.002.jpeg?format=1500w"
   },
   {
     "id": "7442dcbd1769d808",
@@ -49234,89 +49402,5 @@
     "published": "2026-08-01T06:49:00+00:00",
     "fetched": "2026-08-01T07:29:52+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/d/884704/4d07ab33f25da0b2d0db81d6f979f6b2.jpeg"
-  },
-  {
-    "id": "cbd31aad3049935a",
-    "title": "OpenAI's work on Git for large repositories",
-    "summary": "Article URL: https://openai-git-upstream.openai.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49131737 Points: 6 # Comments: 0",
-    "url": "https://openai-git-upstream.openai.chatgpt.site/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T06:41:12+00:00",
-    "fetched": "2026-08-01T09:34:01+00:00",
-    "image": "https://openai-git-upstream.openai.chatgpt.site/og.png"
-  },
-  {
-    "id": "ecc25e8cb3df0ad1",
-    "title": "У Києві після нічної атаки перекрили рух на двох вулицях, – КМДА",
-    "summary": "Також змінили маршрути автобусів.",
-    "url": "https://lb.ua/kyiv/2026/08/01/755944_kiievi_pislya_nichnoyi_ataki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T06:40:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/059/21/6a6d9482b6125.jpg"
-  },
-  {
-    "id": "97b205ce169fe46c",
-    "title": "РФ за добу атакувала Харків і 17 населених пунктів області: шестеро постраждалих",
-    "summary": "Пошкоджено житлові будинки, підприємства, навчальний заклад і цивільну інфраструктуру.",
-    "url": "https://lb.ua/society/2026/08/01/755942_rf_dobu_atakuvala_harkiv_17.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T06:29:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/013/33/6a6d9258353d3.jpg"
-  },
-  {
-    "id": "548217a34722dc9a",
-    "title": "Латвія закрила кордон з Білоруссю через технічний збій",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046791/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T06:14:00+00:00",
-    "fetched": "2026-08-01T07:29:52+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/3/6/363e4d9---.jpg"
-  },
-  {
-    "id": "7e760b0ade62496f",
-    "title": "В Ормузькій протоці атаковано нафтовий танкер, – британська служба моніторингу",
-    "summary": "Пошкоджено машинне відділення, інформації про постраждалих немає.",
-    "url": "https://lb.ua/world/2026/08/01/755940_ormuzkiy_prototsi_atakovano.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T06:14:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/123/22/6a6d8ecebb8f8.jpg"
-  },
-  {
-    "id": "f76d877f69fa01f9",
-    "title": "Росія атакувала Сумщину дронами: загинув 63-річний чоловік, ще двоє людей у важкому стані",
-    "summary": "У Ворожбянській громаді ворожий дрон атакував цивільне авто з людьми.",
-    "url": "https://lb.ua/society/2026/08/01/755938_rosiya_atakuvala_sumschinu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T06:02:00+00:00",
-    "fetched": "2026-08-01T07:29:53+00:00",
-    "image": "https://i.lb.ua/news/060/21/6a6d8c146bd36.jpg"
-  },
-  {
-    "id": "2c541c9314eefdaa",
-    "title": "Росіяни вбили людину та поранили ще 29 на Херсонщині",
-    "summary": "31 липня російські обстріли на Херсонщині забрали життя 1 людини, ще 29, зокрема дитина, отримали поранення.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046790/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T05:58:00+00:00",
-    "fetched": "2026-08-01T07:29:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/884694/62b8e86175d0b9d341587878649fd0e8.jpeg"
   }
 ]
