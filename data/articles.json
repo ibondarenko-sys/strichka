@@ -49282,17 +49282,5 @@
     "published": "2026-08-01T23:50:00+00:00",
     "fetched": "2026-08-02T03:26:43+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/b/885090/9b36ddca0de7a4bfb047d722531f9640.jpeg"
-  },
-  {
-    "id": "a2ad0542e1912cf8",
-    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-    "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc10015.html Comments URL: https://news.ycombinator.com/item?id=49139711 Points: 34 # Comments: 3",
-    "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T23:44:55+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": null
   }
 ]
