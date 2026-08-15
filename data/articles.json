@@ -1,5 +1,41 @@
 [
   {
+    "id": "d4348ee93f245c83",
+    "title": "Країни Перської затоки обурені неспроможністю Трампа закінчити розв'язану ним війну з Іраном – WP",
+    "summary": "Країни Перської затоки висловлюють зростаюче невдоволення Вашингтоном через відсутність чіткої стратегії щодо Ірану, непослідовність дій президента Дональда Трампа та неспроможність досягти миру після майже шести місяців військового конфлікту. Джерело: американське видання The…",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048848/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T22:30:00+00:00",
+    "fetched": "2026-08-15T22:50:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/892428/fc5d91bee64ea8a967d6575ac4f503e0.jpeg"
+  },
+  {
+    "id": "7eef305347303696",
+    "title": "Triple Product Rule of Partial Derivatives",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Triple_product_rule Comments URL: https://news.ycombinator.com/item?id=49314790 Points: 4 # Comments: 0",
+    "url": "https://en.wikipedia.org/wiki/Triple_product_rule",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:15:33+00:00",
+    "fetched": "2026-08-15T22:50:35+00:00",
+    "image": null
+  },
+  {
+    "id": "c7f47a27abd56f4f",
+    "title": "Engineers will do anything to avoid learning from history",
+    "summary": "Article URL: https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/ Comments URL: https://news.ycombinator.com/item?id=49314744 Points: 12 # Comments: 5",
+    "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:08:22+00:00",
+    "fetched": "2026-08-15T22:50:35+00:00",
+    "image": null
+  },
+  {
     "id": "576c6334091cce6b",
     "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
     "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the…",
@@ -10,6 +46,18 @@
     "published": "2026-08-15T21:56:13+00:00",
     "fetched": "2026-08-15T22:26:24+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/simpsons-hit-and-run.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ff14e736e4056643",
+    "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+    "summary": "Article URL: https://xescu.re/keeta-consensus.pdf Comments URL: https://news.ycombinator.com/item?id=49314642 Points: 3 # Comments: 1",
+    "url": "https://xescu.re/keeta-consensus.pdf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:49:45+00:00",
+    "fetched": "2026-08-15T22:50:35+00:00",
+    "image": null
   },
   {
     "id": "3ad1c578f9745012",
@@ -60,6 +108,18 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
   },
   {
+    "id": "9497efda088c9b14",
+    "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+    "summary": "Article URL: https://github.com/christensen143/claude-trofeo-hud Comments URL: https://news.ycombinator.com/item?id=49314594 Points: 4 # Comments: 0",
+    "url": "https://github.com/christensen143/claude-trofeo-hud",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:42:39+00:00",
+    "fetched": "2026-08-15T22:50:35+00:00",
+    "image": "https://opengraph.githubassets.com/5d21034f9a0e87878f2fdcf914d0f78d23d9750224fb69507d4ecfe1c91c93fc/christensen143/claude-trofeo-hud"
+  },
+  {
     "id": "69f23561f9974be7",
     "title": "Australian state to launch gun buyback after Bondi Beach attack",
     "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -72,6 +132,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg"
   },
   {
+    "id": "c0f1fafe8f348f67",
+    "title": "Tracking down a Zsh history data loss bug",
+    "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 5 # Comments: 0",
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:39:09+00:00",
+    "fetched": "2026-08-15T22:50:35+00:00",
+    "image": null
+  },
+  {
     "id": "ddc62b3c96b30b8a",
     "title": "Ярослава Магучіх утретє поспіль стала чемпіонкою Європи зі стрибків у висоту",
     "summary": "Ще одна українка Ірина Геращенко завершила виступ у фіналі змагань на п’ятій сходинці.",
@@ -82,6 +154,18 @@
     "published": "2026-08-15T21:26:00+00:00",
     "fetched": "2026-08-15T21:47:07+00:00",
     "image": "https://i.lb.ua/news/012/47/6a80da7944a9c.jpg"
+  },
+  {
+    "id": "2cc2920666806035",
+    "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+    "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+    "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:21:27+00:00",
+    "fetched": "2026-08-15T22:50:34+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-1152x648.jpg"
   },
   {
     "id": "0cad4b24cd1eb35f",
@@ -334,6 +418,18 @@
     "published": "2026-08-15T19:26:33+00:00",
     "fetched": "2026-08-15T21:25:01+00:00",
     "image": null
+  },
+  {
+    "id": "84971242f6d74af4",
+    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+    "summary": "Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 10 # Comments: 1",
+    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T19:20:51+00:00",
+    "fetched": "2026-08-15T22:50:35+00:00",
+    "image": "http://www.severe-weather.eu/wp-content/uploads/2026/08/weather-fall-winter-2026-2027-forecast-united-states-canada-jet-stream-pressure-system-anomaly-temperature-snowfall-record-super-el-nino-event-unfolding-growing-faster-august-update.png"
   },
   {
     "id": "4c32d4f575633989",
@@ -49246,17 +49342,5 @@
     "published": "2026-08-01T22:52:44+00:00",
     "fetched": "2026-08-01T23:32:48+00:00",
     "image": "https://bookface-images.s3.amazonaws.com/logos/b4d10434317c3ea726f5129500cdb06a17b2455c.png?1757192177"
-  },
-  {
-    "id": "e317fdf40bfda2ac",
-    "title": "Anime User Interfaces",
-    "summary": "Article URL: https://animeuserinterface.tumblr.com Comments URL: https://news.ycombinator.com/item?id=49139304 Points: 8 # Comments: 0",
-    "url": "https://animeuserinterface.tumblr.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T22:47:24+00:00",
-    "fetched": "2026-08-01T23:32:48+00:00",
-    "image": null
   }
 ]
