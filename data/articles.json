@@ -1,5 +1,77 @@
 [
   {
+    "id": "e0d199d0aa728afa",
+    "title": "У Фінляндії затримали іноземця, який незаконно перетнув східний кордон",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048801/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:17:00+00:00",
+    "fetched": "2026-08-15T11:24:12+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/d/6d8feb0-----------------.jpg"
+  },
+  {
+    "id": "d6fdf3b8f82f5d86",
+    "title": "На Рівненщині нетверезий підліток на смерть збив вагітну жінку",
+    "summary": "Драгер показав 1,9 проміле.",
+    "url": "https://lb.ua/society/2026/08/15/759168_rivnenschini_netvereziy_pidlitok.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:14:00+00:00",
+    "fetched": "2026-08-15T11:24:12+00:00",
+    "image": "https://i.lb.ua/news/107/08/6a80487fc328f.jpg"
+  },
+  {
+    "id": "9980cadaa8e067bd",
+    "title": "ЦПД роз’яснив, чи треба18-річним українкам показувати «Резерв+» для отримання тимчасового захисту в ЄС",
+    "summary": "У Центрі уточнили, що вимога може стосуватися як чоловіків, так і жінок із відповідним військовим статусом.",
+    "url": "https://lb.ua/society/2026/08/15/759166_tspd_rozyasniv_chi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:03:00+00:00",
+    "fetched": "2026-08-15T11:24:12+00:00",
+    "image": "https://i.lb.ua/news/046/27/6a8047c343954.jpg"
+  },
+  {
+    "id": "f093ef4df325fcdb",
+    "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
+    "summary": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food…",
+    "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T11:00:00+00:00",
+    "fetched": "2026-08-15T11:24:12+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ground-truth-device-field-02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "bf4685ab8d782800",
+    "title": "В Угорщині через обміління Дунаю будують штучний поріг для охолодження АЕС \"Пакш\"",
+    "summary": "Найближчим часом також планують затопити дві баржі.",
+    "url": "https://lb.ua/world/2026/08/15/759164_ugorschini_cherez_obmilinnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:00:00+00:00",
+    "fetched": "2026-08-15T11:24:12+00:00",
+    "image": "https://i.lb.ua/news/079/49/6a8044ea4ec96.jpg"
+  },
+  {
+    "id": "719d8a5d9f93e589",
+    "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+    "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+    "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T10:56:22+00:00",
+    "fetched": "2026-08-15T11:24:12+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg"
+  },
+  {
     "id": "2d2369c5c288d840",
     "title": "Жадан після приєднання \"Хартії\" до програми Єрмака порівняв його з Медведчуком",
     "summary": "Сергій Жадан не бачить різниці між адвокатом Єрмаком і Медведчуком щодо програми для \"Хартії\".",
@@ -49258,89 +49330,5 @@
     "published": "2026-08-01T11:30:00+00:00",
     "fetched": "2026-08-01T12:33:27+00:00",
     "image": "https://i.lb.ua/news/013/47/6a6dd94977c12.jpg"
-  },
-  {
-    "id": "2cbce82a0e309135",
-    "title": "Зеленський: українські воїни потопили російський контейнеровоз Yanina та уразили три НПЗ у Башкортостані",
-    "summary": "Підсанкційний російський контейнеровоз Yanina йшов під прапором РФ.",
-    "url": "https://lb.ua/society/2026/08/01/756006_zelenskiy_ukrayinski_voyini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:12:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/113/16/6a6dd4b7eb447.jpg"
-  },
-  {
-    "id": "56f1fa6182b6b45a",
-    "title": "Прем'єр Іспанії закликав до термінової зустрічі міністрів ЄС після “егоїстичної реакції” на кризу у Сеуті",
-    "summary": "Сьогодні високопосадовці євроблоку зберуться на засідання групи з реагування на політичні кризи, яку скликало головування Ірландії.",
-    "url": "https://lb.ua/sport/2026/08/01/756002_premier_ispaniyi_zaklikav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:12:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/056/47/6a6dd380e47fe.jpg"
-  },
-  {
-    "id": "844aa38c18f2f78d",
-    "title": "Зеленський: Україна потопила російський контейнеровоз та уразили три НПЗ",
-    "summary": "ЗСУ потопили контейнеровоз Yanina і вразили інфраструктуру трьох нафтопереробних заводів у Башкортостані.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046815/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:11:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/884780/e1bc0ee646dba5abfd1750abfa89e301.jpeg"
-  },
-  {
-    "id": "e1980fe0915a80c1",
-    "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-    "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-    "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T11:00:05+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "898e66af82a8bfe0",
-    "title": "Російські війська атакували FPV-дроном Микільське на Херсонщині",
-    "summary": "65-річний чоловік отримав вибухову травму, уламкові поранення рук та ноги.",
-    "url": "https://lb.ua/society/2026/08/01/756004_rosiyski_viyska_atakuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:00:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/004/29/6a6dd0d10a48e.jpg"
-  },
-  {
-    "id": "00b2741ed174b6f0",
-    "title": "Netflix подали до суду на $105 млн через викрадення копії нового фільму з Ніколасом Кейджем",
-    "summary": "За даними позову, у червні продюсер особисто передав Netflix незашифровану копію фільму для внутрішнього перегляду. Згодом її начебто вкрали.",
-    "url": "https://ain.ua/2026/07/31/netflix-podali-do-sudu-na-105-mln-cerez-vikradennia-kopiyi-novogo-filmu-z-nikolasom-keidzem/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-01T11:00:00+00:00",
-    "fetched": "2026-08-01T11:20:36+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-07-31/2KQMWkQdVWfbvy9l5o8PQHtyaKUuSa6Pqxv5tMMk.webp"
-  },
-  {
-    "id": "ab83ff4a5a612439",
-    "title": "Україна вперше допомагає державі Євросоюзу через Механізм цивільного захисту ЄС",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046814/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:51:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/d/d/dd3393d-----.jpg"
   }
 ]
