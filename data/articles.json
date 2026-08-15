@@ -1,5 +1,89 @@
 [
   {
+    "id": "b5a19c10369a7eec",
+    "title": "У Краматорську через російські атаки виникли пожежі",
+    "summary": "Окупанти тричі атакували місто.",
+    "url": "https://lb.ua/society/2026/08/15/759156_kramatorsku_cherez_rosiyski.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:20:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://i.lb.ua/news/088/60/6a803a0990215.jpg"
+  },
+  {
+    "id": "87d3967604123bb5",
+    "title": "Трампу потрібна угода, а не перемога України: що означає \"дух Анкориджа\"",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048726/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:15:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/892001/og_8048713_ukr.png?w=1200&q=85&stamp=1786727975"
+  },
+  {
+    "id": "c740531171b8b35d",
+    "title": "СЗРУ: Південна Корея ліквідувала військову контррозвідку",
+    "summary": "Основна мета є розмежування розвідувальних, контрольних й слідчих функцій.",
+    "url": "https://lb.ua/world/2026/08/15/759154_szru_pivdenna_koreya_likviduvala.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:11:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://i.lb.ua/news/018/34/6a803748d7453.jpg"
+  },
+  {
+    "id": "8eb563285e0148d7",
+    "title": "Екскомбриг 80-ї бригади ДШВ Ішкулов очолить 11 корпус",
+    "summary": "Полковник Ішкулов призначений керувати 11 корпусом, що обороняє Краматорськ і Слов'янськ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048794/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:08:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/3/892167/e3cb9faa2afc6de8306fa8f5ec9f801f.jpeg"
+  },
+  {
+    "id": "066de6be985757e6",
+    "title": "Річниця появи \"духу Анкориджа\": дипломатія Трампа без стратегії",
+    "summary": "Про що свідчить саміт у США, вплив Путіна і Трампа на Україну, нове партнерство та його ризики.",
+    "url": "https://www.pravda.com.ua/columns/2026/08/15/8048713/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:00:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/892001/og_8048713_ukr.png?w=1200&q=85&stamp=1786727975"
+  },
+  {
+    "id": "e4a7dc79aada7959",
+    "title": "Медіа: Франція, Німеччина та Британія готують власний формат переговорів щодо завершення війни в Україні",
+    "summary": "Європа боїться, що США можуть домовитися з Росією без її участі.",
+    "url": "https://lb.ua/world/2026/08/15/759152_media_frantsiya_nimechchina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T09:55:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://i.lb.ua/news/044/26/6a8033e941e02.jpg"
+  },
+  {
+    "id": "5a7fa9d0a16167c6",
+    "title": "Потужний землетрус у південній частині Іспанії пошкодив будинки та авто",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048793/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T09:53:00+00:00",
+    "fetched": "2026-08-15T10:26:43+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/3/9/39b53d9--------.jpg"
+  },
+  {
     "id": "1cbbc76a44e6bb1b",
     "title": "В Іспанії стався землетрус магнітудою 5,2",
     "summary": "Підземні поштовхи відчувалися у Гранаді, навколишніх муніципалітетах та Малазі. Того ж вечора напередодні в регіоні зафіксували землетрус магнітудою 3,7.",
@@ -202,6 +286,18 @@
     "published": "2026-08-15T08:00:00+00:00",
     "fetched": "2026-08-15T08:34:14+00:00",
     "image": "https://i.lb.ua/news/047/08/6a801c1c4bfeb.jpg"
+  },
+  {
+    "id": "806ba49000579f28",
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+    "summary": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 4 # Comments: 0",
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T07:59:42+00:00",
+    "fetched": "2026-08-15T10:26:48+00:00",
+    "image": null
   },
   {
     "id": "c4c28ac2a056ae1f",
@@ -49234,89 +49330,5 @@
     "published": "2026-08-01T10:32:00+00:00",
     "fetched": "2026-08-01T11:20:35+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/884771/9dab97d78bc4c8a6602b87ef692b8a27.jpeg"
-  },
-  {
-    "id": "3d53d49a1e2da1ef",
-    "title": "Пентагон планує передати союзникам по НАТО керівництво місією з координації військової допомоги Україні, – Politico",
-    "summary": "У майбутньому командування цією структурою перейде до іншої країни-члена НАТО.",
-    "url": "https://lb.ua/world/2026/08/01/755992_pentagon_planuie_peredati.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:24:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/091/05/6a6dc73c931b8.jpg"
-  },
-  {
-    "id": "01c238fcb4057811",
-    "title": "На Львівщині через ДТП за учатсі рейсового автобуса травмувалися 11 людей, серед них двоє дітей",
-    "summary": "На Дрогобиччині зіткнулися легковик та рейсовий автобус.",
-    "url": "https://lb.ua/society/2026/08/01/755988_lvivschini_cherez_dtp_uchatsi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:10:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/026/30/6a6dc4019ba54.jpg"
-  },
-  {
-    "id": "1a93f028bfe1e454",
-    "title": "У Києві презентували сайт для допомоги військовим, які повернулися з російського полону",
-    "summary": "Матеріали, розміщені на сайті, розроблені за участі ветеранів з досвідом полону, психологів та спеціалістів з реабілітації.",
-    "url": "https://lb.ua/society/2026/08/01/755990_kiievi_prezentuvali_sayt.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:08:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/114/18/6a6dc5570209d.jpg"
-  },
-  {
-    "id": "d3189799b0a5cdc2",
-    "title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
-    "summary": "Tarona Taafaki makes history in women’s 75kg category All boxers eliminated in semis receive bronze medals A boxer has made history for ⁠Tuvalu by winning the tiny Pacific island nation’s first Commonwealth ⁠Games medal without winning a single fight. Twenty-year-old Tarona…",
-    "url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T10:07:05+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.guim.co.uk/img/media/26b8bb94b8314a59cd22de2845c0545a1adc6e33/3_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a0c1560be6471b2db05b2940328b9fa5"
-  },
-  {
-    "id": "a89848ab1bf90d5f",
-    "title": "Defcon's new badge is a security key you can see inside",
-    "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
-    "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T10:05:21+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg"
-  },
-  {
-    "id": "1b5c4441e0230eb8",
-    "title": "Головне за ніч та ранок суботи, 1 серпня: ракетна атака на Київ, понад 240 боєзіткнень, удар по багатоповерхівці в центрі Одеси",
-    "summary": "Нічні повітряні атаки, 243 бойових зіткнення, бої на Покровському та Костянтинівському напрямках, ворожі обстріли.",
-    "url": "https://lb.ua/society/2026/08/01/755994_golovne_nich_ranok_suboti_1.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:04:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/073/25/6a6dc9260d191.jpg"
-  },
-  {
-    "id": "ed0043329eaafa43",
-    "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-    "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
-    "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T10:00:19+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg"
   }
 ]
