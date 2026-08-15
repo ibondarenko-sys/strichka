@@ -1,5 +1,65 @@
 [
   {
+    "id": "2d2369c5c288d840",
+    "title": "Жадан після приєднання \"Хартії\" до програми Єрмака порівняв його з Медведчуком",
+    "summary": "Сергій Жадан не бачить різниці між адвокатом Єрмаком і Медведчуком щодо програми для \"Хартії\".",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048798/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:44:00+00:00",
+    "fetched": "2026-08-15T10:50:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/892182/c87b3582198c3e91d5885a48ac6e1824.jpeg"
+  },
+  {
+    "id": "33e607a89f89d10d",
+    "title": "​МЗС Німеччини закликало своїх громадян утриматися від поїздок до України через загрозу обстрілів",
+    "summary": "Ескалація може бути до Дня Незалежності України.",
+    "url": "https://lb.ua/world/2026/08/15/759162_mzs_nimechchini_zaklikalo_svoyih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:44:00+00:00",
+    "fetched": "2026-08-15T10:50:24+00:00",
+    "image": "https://i.lb.ua/news/035/61/6a804341d71e0.jpg"
+  },
+  {
+    "id": "8c730713211577a8",
+    "title": "На Полтавщині зафіксували землетрус магнітудою 2,4",
+    "summary": "Землетрус віднесли до невідчутних.",
+    "url": "https://lb.ua/society/2026/08/15/759160_poltavschini_zafiksuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:43:00+00:00",
+    "fetched": "2026-08-15T10:50:24+00:00",
+    "image": "https://i.lb.ua/news/092/13/6a8041fd7e318.jpg"
+  },
+  {
+    "id": "2cca222560c1770f",
+    "title": "Опитування: Більшість чехів виступають за заборону телефонів у школах",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048796/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:32:00+00:00",
+    "fetched": "2026-08-15T10:50:23+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/1/5141373-----------2.jpg"
+  },
+  {
+    "id": "45157e0d044623ae",
+    "title": "На Харківщині росіяни атакували громаду дронами: троє людей поранені, є пошкодження",
+    "summary": "Пожежа виникла на території фермерського господарства.",
+    "url": "https://lb.ua/society/2026/08/15/759158_harkivschini_rosiyani_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T10:30:00+00:00",
+    "fetched": "2026-08-15T10:50:24+00:00",
+    "image": "https://i.lb.ua/news/019/36/6a803d3d3bcc0.jpg"
+  },
+  {
     "id": "b5a19c10369a7eec",
     "title": "У Краматорську через російські атаки виникли пожежі",
     "summary": "Окупанти тричі атакували місто.",
@@ -130,6 +190,18 @@
     "published": "2026-08-15T09:30:00+00:00",
     "fetched": "2026-08-15T09:53:10+00:00",
     "image": "https://cdn.ain.ua/ua/articles/2026-08-14/a3ZR7kHpsju0ZEmJHbYQH3udNzKe7eX7KVaHs9dr.webp"
+  },
+  {
+    "id": "aaca96fa0e6a2afa",
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 10 # Comments: 1",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T09:20:07+00:00",
+    "fetched": "2026-08-15T10:50:24+00:00",
+    "image": null
   },
   {
     "id": "216ea4b896a69713",
@@ -49270,65 +49342,5 @@
     "published": "2026-08-01T10:51:00+00:00",
     "fetched": "2026-08-01T11:20:35+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/d/dd3393d-----.jpg"
-  },
-  {
-    "id": "35176d06c8f0b00c",
-    "title": "Генштаб: у липні російська армія втратила рекордні 42 860 військових",
-    "summary": "За перші сім місяців року РФ втратила в Україні 238 650 солдатів.",
-    "url": "https://lb.ua/society/2026/08/01/756000_genshtab_lipni_rosiyska_armiya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:50:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/071/45/6a6dcd9b7a032.jpg"
-  },
-  {
-    "id": "f7241479c8c83829",
-    "title": "У Броварах унаслідок російської атаки загинула людина, поранено 6 осіб (оновлено)",
-    "summary": "Також пошкоджено автомобілі.",
-    "url": "https://lb.ua/society/2026/08/01/755996_brovarah_unaslidok_rosiyskoyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:35:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/094/11/6a6dc8bc7e1de.jpg"
-  },
-  {
-    "id": "1501516b0d439214",
-    "title": "Латвія тимчасово закрила кордон із Білоруссю через технічний збій",
-    "summary": "Поведення прикордонного контролю наразі є неможливим.",
-    "url": "https://lb.ua/world/2026/08/01/755998_latviya_timchasovo_zakrila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:33:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.lb.ua/news/019/29/6a6dcb6bee477.jpg"
-  },
-  {
-    "id": "11f340b340d4c555",
-    "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-    "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior ministers after what he called some member…",
-    "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T10:32:55+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://i.guim.co.uk/img/media/208d0701f36eec52f7b70e325b2b39b60397679b/758_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=d06bd317d08230595b0e508c484e9a3e"
-  },
-  {
-    "id": "eb83938bbc0b168a",
-    "title": "Російські дрони атакували склади у Броварах: одна людина загинула",
-    "summary": "Уранці 1 серпня російські безпілотники атакували складські приміщення у Броварах Київської області. Одна людина загинула, ще троє дістали поранення.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046811/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T10:32:00+00:00",
-    "fetched": "2026-08-01T11:20:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/884771/9dab97d78bc4c8a6602b87ef692b8a27.jpeg"
   }
 ]
