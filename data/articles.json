@@ -1,5 +1,41 @@
 [
   {
+    "id": "10bbeaa8150c3c39",
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response…",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T20:45:00+00:00",
+    "fetched": "2026-08-15T20:51:09+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "f2ade090b6d23ad0",
+    "title": "Російський дрон атакував фермерське господарство на Запоріжжі",
+    "summary": "За попередньою інформацією, поранено людину.",
+    "url": "https://lb.ua/society/2026/08/15/759250_rosiyskiy_dron_atakuvav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T20:31:00+00:00",
+    "fetched": "2026-08-15T20:51:09+00:00",
+    "image": "https://i.lb.ua/news/013/13/6a80cc96e0508.jpg"
+  },
+  {
+    "id": "50ef068acb6126ac",
+    "title": "Найвищу в Європі статую Діві Марії відкрили в Польщі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048843/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T20:24:00+00:00",
+    "fetched": "2026-08-15T20:51:08+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/2/5/2535679-pyqby7xd77-v2-ax-w800h450.jpeg"
+  },
+  {
     "id": "b53e6d6d1115c9e7",
     "title": "Адміністрація Трампа виступила проти закупівлі Apple китайських чипів пам’яті",
     "summary": "Попри позицію Вашингтона, компанія може ухвалити власне рішення і продовжити співпрацю з виробниками з Китаю.",
@@ -72,6 +108,18 @@
     "image": "https://i.lb.ua/news/009/42/6a80c02bbef69.jpg"
   },
   {
+    "id": "5fc4fcc0f82f0a73",
+    "title": "Why tech bosses keep sharing their manifestos about AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 6 # Comments: 5",
+    "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T19:30:32+00:00",
+    "fetched": "2026-08-15T20:51:10+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg"
+  },
+  {
     "id": "4c32d4f575633989",
     "title": "\"Тіньовий куратор\" нардепів від \"Слуги народу\" втік із місця ДТП – джерело",
     "summary": "Ілля Павлюк, якого називають «тіньовим куратором» депутатів, втік з місця ДТП на трасі М-30. Поліція розшукує бізнесмена.",
@@ -118,6 +166,18 @@
     "published": "2026-08-15T19:12:53+00:00",
     "fetched": "2026-08-15T19:46:11+00:00",
     "image": null
+  },
+  {
+    "id": "bdf266bc5d5006e5",
+    "title": "AI in drug discovery — what it is, where we stand and the path forward",
+    "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 33 # Comments: 21",
+    "url": "https://www.nature.com/articles/s41573-026-01496-2",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T19:12:53+00:00",
+    "fetched": "2026-08-15T20:51:10+00:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41573-026-01496-2/MediaObjects/41573_2026_1496_Fig1_HTML.png"
   },
   {
     "id": "a96cddc98e96c69f",
@@ -49066,77 +49126,5 @@
     "published": "2026-08-01T20:54:00+00:00",
     "fetched": "2026-08-01T21:27:21+00:00",
     "image": "https://i.lb.ua/news/089/57/6a6e5d0c55999.jpg"
-  },
-  {
-    "id": "947baee6e271c7fe",
-    "title": "Tourist plane crashes in Peru, killing 13",
-    "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-    "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T20:51:09+00:00",
-    "fetched": "2026-08-01T21:27:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e78/live/b07d6b40-8de6-11f1-92c6-e748252fe919.jpg"
-  },
-  {
-    "id": "5eccceb0d873b907",
-    "title": "Сотні тисяч людей вийшли на прайди в Гамбурзі і Амстердамі",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046870/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:46:00+00:00",
-    "fetched": "2026-08-01T21:27:20+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/2/f/2f580ee-90a98f83-882e-4efe-b496-26de5e574454-w1840-r1.5-fpx54-fpy65.png"
-  },
-  {
-    "id": "9abc53d7091c26dd",
-    "title": "Seedance 2.5",
-    "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 36 # Comments: 10",
-    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T20:45:12+00:00",
-    "fetched": "2026-08-01T22:29:48+00:00",
-    "image": null
-  },
-  {
-    "id": "916c591d7e1a2e95",
-    "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
-    "summary": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authorities At least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Nazca’s municipal government said the plane was taking…",
-    "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T20:42:06+00:00",
-    "fetched": "2026-08-01T21:27:20+00:00",
-    "image": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=140&quality=85&auto=format&fit=max&s=71bda09cf7acce35d6c19ed47fd0a76f"
-  },
-  {
-    "id": "b117854c872aff85",
-    "title": "Diátaxis",
-    "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 23 # Comments: 6",
-    "url": "https://diataxis.fr/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T20:33:27+00:00",
-    "fetched": "2026-08-01T21:27:21+00:00",
-    "image": null
-  },
-  {
-    "id": "df64a2b68b99ae19",
-    "title": "Суд відправив під домашній арешт затриманого ветерана KRAKEN, – Суспільне",
-    "summary": "Раніше про справу проти Гліба Новостройного повідомив співзасновник KRAKEN Костянтин Немічев.",
-    "url": "https://lb.ua/society/2026/08/01/756100_sud_vidpraviv_pid_domashniy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:31:00+00:00",
-    "fetched": "2026-08-01T21:27:21+00:00",
-    "image": "https://i.lb.ua/news/080/28/6a6e578e2af78.jpg"
   }
 ]
