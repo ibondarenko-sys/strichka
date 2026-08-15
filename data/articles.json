@@ -1,5 +1,89 @@
 [
   {
+    "id": "7d1970bab4b7a188",
+    "title": "МЗС роз'яснило ситуацію з \"Резерв+\" для українок в ЄС",
+    "summary": "Мовиться про запровадження нових правил Євросоюзу щодо надання тимчасового захисту.",
+    "url": "https://lb.ua/pravo/2026/08/15/759218_mzs_rozyasnilo_situatsiyu_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:21:00+00:00",
+    "fetched": "2026-08-15T16:29:37+00:00",
+    "image": "https://i.lb.ua/news/126/33/6a8091fea7b69.jpg"
+  },
+  {
+    "id": "3cbd6e2313289957",
+    "title": "На кордоні з Білоруссю мігранти напали на литовського прикордонника",
+    "summary": "Вони намагалися витягти його за межі країни.",
+    "url": "https://lb.ua/world/2026/08/15/759214_kordoni_z_bilorussyu_migranti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T16:15:00+00:00",
+    "fetched": "2026-08-15T16:29:37+00:00",
+    "image": "https://i.lb.ua/news/056/00/6a8090ba58498.jpg"
+  },
+  {
+    "id": "0b6f1da784d327f8",
+    "title": "Німеччина, Франція й Британія готують власний формат переговорів щодо України – NYT",
+    "summary": "E3 розробляють переговорний формат щодо завершення війни РФ-Україна без участі США.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048825/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T15:57:00+00:00",
+    "fetched": "2026-08-15T16:29:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/b/892325/fb516b735582ca22b8c87c8da0d8a953.jpeg"
+  },
+  {
+    "id": "ec9f1222a0de217d",
+    "title": "Сибіга зустрівся у Києві з новим очільником ЮНЕСКО",
+    "summary": "Говорили, зокрема, про масове вивезення росіянами українських культурних цінностей з окупованих територій.",
+    "url": "https://lb.ua/culture/2026/08/15/759210_sibiga_zustrivsya_kiievi_z_novim.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T15:52:00+00:00",
+    "fetched": "2026-08-15T16:29:37+00:00",
+    "image": "https://i.lb.ua/news/061/43/6a808b4ad0b9e.jpg"
+  },
+  {
+    "id": "9fd52f9c7ab2925d",
+    "title": "Росія понад 50 разів атакувала Дніпропетровщину: 17 людей поранені",
+    "summary": "Під обстріл ворога потрапили 5 районів області.",
+    "url": "https://lb.ua/society/2026/08/15/759212_rosiya_ponad_50_raziv_atakuvala.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T15:47:00+00:00",
+    "fetched": "2026-08-15T16:29:37+00:00",
+    "image": "https://i.lb.ua/news/019/45/6a808a22afbbe.jpg"
+  },
+  {
+    "id": "0ed2f09480ff2826",
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "summary": "\"Flamingo missiles were used. A good achievement.\"",
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T15:46:05+00:00",
+    "fetched": "2026-08-15T16:29:37+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
+  },
+  {
+    "id": "2eddcc502dba633d",
+    "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 15 # Comments: 4",
+    "url": "https://spectrum.ieee.org/ai-designed-virus",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T15:32:25+00:00",
+    "fetched": "2026-08-15T16:29:39+00:00",
+    "image": "https://spectrum.ieee.org/media-library/cryo-em-density-map-of-a-virion.jpg?id=67609610&width=1200&height=600&coordinates=0%2C69%2C0%2C442"
+  },
+  {
     "id": "23c832b3f7abf31b",
     "title": "В найбільшому аеропорту Великої Британії через прорив водогону затопило дороги",
     "summary": "Ввечері 15 серпня рух до терміналів у Гітроу відновили.",
@@ -166,6 +250,18 @@
     "published": "2026-08-15T14:20:33+00:00",
     "fetched": "2026-08-15T14:27:04+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_RH7_7615.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "4b291a743e6ad736",
+    "title": "The AI Situation in Software Development",
+    "summary": "Article URL: https://srikanth.ch/posts/the-ai-situation/ Comments URL: https://news.ycombinator.com/item?id=49310755 Points: 20 # Comments: 8",
+    "url": "https://srikanth.ch/posts/the-ai-situation/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:12:27+00:00",
+    "fetched": "2026-08-15T16:29:39+00:00",
+    "image": null
   },
   {
     "id": "924843ad4785fa7d",
@@ -49174,113 +49270,5 @@
     "published": "2026-08-01T16:32:00+00:00",
     "fetched": "2026-08-01T17:32:13+00:00",
     "image": "https://i.lb.ua/news/112/31/6a6e1f9f914f3.jpg"
-  },
-  {
-    "id": "5744d962981591a3",
-    "title": "На Дніпропетровщині через атаки РФ за день 2 загиблих і 12 поранених",
-    "summary": "Внаслідок атак РФ на Дніпропетровщині 1 серпня загинуло 2 людей, поранено 12. Пошкоджено будівлі, серед поранених — підлітки.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046853/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:24:00+00:00",
-    "fetched": "2026-08-01T17:32:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/8/884898/587763708949a630f96bcebde8dd0161.jpeg"
-  },
-  {
-    "id": "bddd599ff97ba9e9",
-    "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-    "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-    "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T16:16:16+00:00",
-    "fetched": "2026-08-01T17:32:12+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fcf/live/7b087a70-8dbb-11f1-b8ee-9b3c26ad07bb.jpg"
-  },
-  {
-    "id": "ea3d279b0f7d5f79",
-    "title": "У Польщі відновили пошуки на місці падіння російської Х-101",
-    "summary": "Експерти кажуть, що бракує одного фрагмента ракети.",
-    "url": "https://lb.ua/world/2026/08/01/756064_polschi_vidnovili_poshuki_mistsi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:15:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/103/02/6a6e1b9e0e9a4.jpg"
-  },
-  {
-    "id": "5650b29d2a2852fb",
-    "title": "Іран попередив Британію, Болгарію і Кіпр через співпрацю зі США",
-    "summary": "Іранська сторона вимагає від країн не давати свої бази та інші ресурси для підтримки Вашингтона.",
-    "url": "https://lb.ua/world/2026/08/01/756062_iran_poperediv_britaniyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T16:07:00+00:00",
-    "fetched": "2026-08-01T17:32:13+00:00",
-    "image": "https://i.lb.ua/news/015/35/6a6e19c95f667.jpg"
-  },
-  {
-    "id": "eebbdb6a601e8246",
-    "title": "Pgtestdb's template cloning approach to testing is fast",
-    "summary": "Article URL: https://brandur.org/fragments/pgtestdb Comments URL: https://news.ycombinator.com/item?id=49135546 Points: 21 # Comments: 4",
-    "url": "https://brandur.org/fragments/pgtestdb",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T16:01:22+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": "https://brandur.org/assets/images/favicon/favicon-256.jpg"
-  },
-  {
-    "id": "ab64c8d07a217cf1",
-    "title": "Португалія посилює контроль над південним морським кордоном у зв’язку з кризою в Сеуті",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046851/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T15:58:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/c/8/c8937c2-odk0ntm3y2jizmzkmwjinzhimde1ngq3ody3zmy1nw--.thumb.jpg"
-  },
-  {
-    "id": "12b3ad9a5911b714",
-    "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-    "summary": "Article URL: https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html Comments URL: https://news.ycombinator.com/item?id=49135507 Points: 47 # Comments: 35",
-    "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T15:57:33+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-facebookJumbo.jpg"
-  },
-  {
-    "id": "5a89db528e2bd16d",
-    "title": "У Києві завершили роботи після нічного обстрілу: 9 загиблих, 33 постраждалих",
-    "summary": "У Києві завершені роботи після обстрілу: 9 загиблих, 33 поранених, серед них 4 дитини. Залучено 206 рятувальників.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046850/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T15:54:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/4/884870/14c1e2ad9afe311cf4ae6d2a35a8aa8a.jpeg"
-  },
-  {
-    "id": "a7c55fef76c40c47",
-    "title": "В Києві завершили ліквідацію наслідків російського обстрілу",
-    "summary": "Внаслідок атаки у столиці 9 загиблих і 33 поранених.",
-    "url": "https://lb.ua/society/2026/08/01/756060_kiievi_zavershili_likvidatsiyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T15:50:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://i.lb.ua/news/040/59/6a6e15ea406d6.jpg"
   }
 ]
