@@ -1,5 +1,77 @@
 [
   {
+    "id": "1a9d61f4c8de2e9c",
+    "title": "Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding",
+    "summary": "Article URL: https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/ Comments URL: https://news.ycombinator.com/item?id=49314341 Points: 6 # Comments: 0",
+    "url": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T21:07:44+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://theintercept.com/wp-content/uploads/2026/08/GettyImages-1762566677-e1786653988738.jpg?fit=3000%2C1500&w=1200&h=800"
+  },
+  {
+    "id": "ca01092fef56edf4",
+    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+    "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+    "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T21:03:57+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "2fa04bb2d47f088c",
+    "title": "Головне за суботу, 15 серпня: атака на Кривий Ріг, наслідки ракетного удару по Харкову, 170 бойових зіткнень",
+    "summary": "Бойові дії на Донеччині, 170 бойових зіткнень, ворожі обстріли, атака російського FPV-дрона на комбайн у Запорізькому районі, день Збройних сил Польщі. Яким запам’ятається 1634-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/15/759254_golovne_subotu_15_serpnya_ataka.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T20:59:00+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://i.lb.ua/news/072/29/6a80d3c3d46fe.jpg"
+  },
+  {
+    "id": "225e602fa136544f",
+    "title": "​Порт Моха в Ємені зупинив роботу після десятків ударів хуситів: є загиблі",
+    "summary": "Внаслідок атак загинули щонайменше 7 людей, а збитки попередньо оцінюють у 16 мільйонів доларів.",
+    "url": "https://lb.ua/world/2026/08/15/759252_port_moha_iemeni_zupiniv_robotu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T20:55:00+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://i.lb.ua/news/103/48/6a80d1e609fb7.jpg"
+  },
+  {
+    "id": "152a1b19ec9d2e86",
+    "title": "Cultivating a state of mind where new ideas are born",
+    "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 9 # Comments: 0",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T20:54:11+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!9VgW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4697c31d-2502-48d2-b6c1-11e5ea97536f_2560x2174.jpeg"
+  },
+  {
+    "id": "7c971351a26dc3be",
+    "title": "Глава МЗС Польщі пропонує створити \"Європейський легіон\" за участю українських ветеранів",
+    "summary": "Міністр Сікорський закликав до створення Європейського легіону з українськими ветеранами після війни.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048844/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T20:49:00+00:00",
+    "fetched": "2026-08-15T21:25:00+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/892418/844190f69555214437ba50588e26d44c.jpeg"
+  },
+  {
     "id": "10bbeaa8150c3c39",
     "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
     "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response…",
@@ -22,6 +94,18 @@
     "published": "2026-08-15T20:31:00+00:00",
     "fetched": "2026-08-15T20:51:09+00:00",
     "image": "https://i.lb.ua/news/013/13/6a80cc96e0508.jpg"
+  },
+  {
+    "id": "803a25ffb81d1d2e",
+    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T20:28:30+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
   },
   {
     "id": "50ef068acb6126ac",
@@ -118,6 +202,18 @@
     "published": "2026-08-15T19:30:32+00:00",
     "fetched": "2026-08-15T20:51:10+00:00",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_news/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg"
+  },
+  {
+    "id": "e072d66e1734ce35",
+    "title": "Israeli PR wants to answer your ChatGPT questions",
+    "summary": "Article URL: https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138 Comments URL: https://news.ycombinator.com/item?id=49313477 Points: 31 # Comments: 2",
+    "url": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T19:26:33+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": null
   },
   {
     "id": "4c32d4f575633989",
@@ -240,6 +336,18 @@
     "image": "https://s7d1.scene7.com/is/image/CENODS/DREADD-human-trials---576245:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
   },
   {
+    "id": "dd29cc27c2d0dfab",
+    "title": "Tess's Android Wayland Compositor",
+    "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 8 # Comments: 0",
+    "url": "https://github.com/wmww/tawc",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T18:34:26+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://opengraph.githubassets.com/65e20efecc799d497af1317103fa8e06af53a1c7fd015c5913040f05e85ea0ca/wmww/tawc"
+  },
+  {
     "id": "0db8cdd836724d6b",
     "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
     "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
@@ -322,6 +430,18 @@
     "published": "2026-08-15T18:08:00+00:00",
     "fetched": "2026-08-15T18:35:43+00:00",
     "image": "https://i.lb.ua/news/087/09/6a80ab24e749d.jpg"
+  },
+  {
+    "id": "da37b3adb8c11be6",
+    "title": "Why is Australia's mushroom killer back in court this week?",
+    "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+    "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T18:02:30+00:00",
+    "fetched": "2026-08-15T21:25:01+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccf/live/24e92cb0-97b2-11f1-a7ab-8b30adf0800a.jpg"
   },
   {
     "id": "8a56a2e334e0039c",
@@ -49078,53 +49198,5 @@
     "published": "2026-08-01T21:31:24+00:00",
     "fetched": "2026-08-01T22:29:48+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6adf340901baeb34",
-    "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
-    "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-    "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T21:03:42+00:00",
-    "fetched": "2026-08-01T22:29:47+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg"
-  },
-  {
-    "id": "537dedb7460a92cd",
-    "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
-    "summary": "Article URL: https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/ Comments URL: https://news.ycombinator.com/item?id=49138443 Points: 61 # Comments: 19",
-    "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T21:02:07+00:00",
-    "fetched": "2026-08-01T22:29:48+00:00",
-    "image": "https://assets.sfstandard.com/image/994911177489/image_lgh2ukl3j1287477e0ejo4pi4n/-C100.00%25x78.75%25%2C0.00%25%2C13.40%25-S1200x630-FPNG"
-  },
-  {
-    "id": "5a2e67c062a1d7ae",
-    "title": "Головне за суботу, 1 серпня: понад 190 бойових зіткнень, влучання у склад компанії Rozetka, вибух у ресторані у центрі Москви",
-    "summary": "Бойові дії на Донеччині, 193 бойових зіткнення, ворожі обстріли, удар по автобусу на Дніпропетровщині. Яким запам’ятається 1620-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/08/01/756104_golovne_subotu_1_serpnya_ponad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:59:00+00:00",
-    "fetched": "2026-08-01T21:27:21+00:00",
-    "image": "https://i.lb.ua/news/100/27/6a6e628cbe384.jpg"
-  },
-  {
-    "id": "97afcf3f2d664e43",
-    "title": "​Washington Post: Командувач сил США в Європі попередив про можливий брак ресурсів для захисту Ізраїлю від Ірану",
-    "summary": "Без додаткового есмінця Пентагону доведеться вибирати між захистом Ізраїлю та самих США.",
-    "url": "https://lb.ua/world/2026/08/01/756102_washington_post_komanduvach_sil.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:54:00+00:00",
-    "fetched": "2026-08-01T21:27:21+00:00",
-    "image": "https://i.lb.ua/news/089/57/6a6e5d0c55999.jpg"
   }
 ]
