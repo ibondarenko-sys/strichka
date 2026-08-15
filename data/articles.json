@@ -1,5 +1,29 @@
 [
   {
+    "id": "23c832b3f7abf31b",
+    "title": "В найбільшому аеропорту Великої Британії через прорив водогону затопило дороги",
+    "summary": "Ввечері 15 серпня рух до терміналів у Гітроу відновили.",
+    "url": "https://lb.ua/world/2026/08/15/759208_naybilshomu_aeroportu_velikoyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T15:31:00+00:00",
+    "fetched": "2026-08-15T15:47:54+00:00",
+    "image": "https://i.lb.ua/news/093/55/6a8086746a717.jpg"
+  },
+  {
+    "id": "1302f4b0773743f6",
+    "title": "Зеленський: До Дня Незалежності в Україні має з’явитися закон про захист національних святинь",
+    "summary": "Наразі президент підписав відповідний указ.",
+    "url": "https://lb.ua/society/2026/08/15/759204_zelenskiy_dnya_nezalezhnosti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T15:26:00+00:00",
+    "fetched": "2026-08-15T15:47:54+00:00",
+    "image": "https://i.lb.ua/news/036/50/6a80853da8ac8.jpg"
+  },
+  {
     "id": "857db9aca863a198",
     "title": "У Львові акумулятор спричинив пожежу в багатоповерхівці: зруйнована стіна заблокувала людей",
     "summary": "З будинку евакуювали 6 людей, з них 2 – діти.",
@@ -96,6 +120,18 @@
     "image": "https://i.lb.ua/news/053/51/6a8078681cb9c.jpg"
   },
   {
+    "id": "864640fbf5ecd0a6",
+    "title": "Gen Z has rediscovered the joy of going to the movies",
+    "summary": "Article URL: https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies Comments URL: https://news.ycombinator.com/item?id=49310884 Points: 6 # Comments: 1",
+    "url": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:29:50+00:00",
+    "fetched": "2026-08-15T15:47:53+00:00",
+    "image": null
+  },
+  {
     "id": "c00ad8f1ebbef683",
     "title": "Росія пригрозила Туреччині й США погіршенням відносин через постачання зброї Україні",
     "summary": "Росія просить США і Туреччину пояснити масштабні поставки зброї Україні та погрожує наслідками для відносин.",
@@ -178,6 +214,18 @@
     "published": "2026-08-15T14:08:00+00:00",
     "fetched": "2026-08-15T14:27:04+00:00",
     "image": "https://i.lb.ua/news/077/52/6a80730be0232.jpg"
+  },
+  {
+    "id": "84691f8174add04b",
+    "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+    "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 11 # Comments: 0",
+    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T14:04:49+00:00",
+    "fetched": "2026-08-15T15:47:53+00:00",
+    "image": "https://th-thumbnailer.cdn-si-edu.com/zHvX_MeCmgyz7Mfc3JnZBzfRUgU=/fit-in/1600x0/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/ad/44ad8f8b-e8c6-4c3b-9d22-10eececf06c3/gettyimages-1602304607.jpg"
   },
   {
     "id": "23a3b2cec9d82a0b",
@@ -49234,65 +49282,5 @@
     "published": "2026-08-01T15:50:00+00:00",
     "fetched": "2026-08-01T16:04:01+00:00",
     "image": "https://i.lb.ua/news/040/59/6a6e15ea406d6.jpg"
-  },
-  {
-    "id": "13cd641ddc48ae7f",
-    "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-    "summary": "Article URL: https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe Comments URL: https://news.ycombinator.com/item?id=49135426 Points: 5 # Comments: 1",
-    "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T15:46:54+00:00",
-    "fetched": "2026-08-01T19:15:36+00:00",
-    "image": "https://www.seriouseats.com/thmb/_5QHejAJ6Y3ZjV_T_XFWG3kwBSo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__01__20140108-pressure-cooker-pho-ga-vietnamese-chicken-noodle-soup-06-16a750a314f7453084da70c4ba982ee2.jpg"
-  },
-  {
-    "id": "9f30b6cfe567cd13",
-    "title": "Литва посилить обмеження для прокремлівськи налаштованих росіян і білорусів",
-    "summary": "Хочуть заборонити громадянами цих держав купувати нерухомість поблизу об'єктів критичної інфраструктури.",
-    "url": "https://lb.ua/world/2026/08/01/756056_litva_posilit_obmezhennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T15:41:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://i.lb.ua/news/108/47/6a6e13b351d16.jpg"
-  },
-  {
-    "id": "44ee55d2feeaef3e",
-    "title": "Унаслідок удару РФ по складу Rozetka загинув працівник, ще семеро людей поранені",
-    "summary": "В момент атаки на складі перебували 270 людей.",
-    "url": "https://lb.ua/society/2026/08/01/756058_unaslidok_udaru_rf_skladu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T15:40:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://i.lb.ua/news/040/45/6a6e136f7f602.jpg"
-  },
-  {
-    "id": "3ec04f1e974931e5",
-    "title": "GitHub has alternatives, but no replacement",
-    "summary": "Article URL: https://lalitm.com/post/github-alternatives/ Comments URL: https://news.ycombinator.com/item?id=49135365 Points: 66 # Comments: 81",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T15:39:31+00:00",
-    "fetched": "2026-08-01T17:32:14+00:00",
-    "image": null
-  },
-  {
-    "id": "cd01b16c22a3cc42",
-    "title": "У Польщі відновили пошуки на місці падіння російської ракети через брак фрагмента",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046849/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T15:33:00+00:00",
-    "fetched": "2026-08-01T16:04:01+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/b/c/bc43255-rosyjska-rakieta-spadla-na-lubelszczyznie-fot-966x643-6a38914b.jpg"
   }
 ]
