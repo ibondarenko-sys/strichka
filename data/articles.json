@@ -1,5 +1,65 @@
 [
   {
+    "id": "00f333c014d4769e",
+    "title": "У США знайшли п’ятьох убитих і мертвим підозрюваного у вбивствах – АР",
+    "summary": "За даними правоохоронних органів, у п'ятницю були вбиті п'ятеро людей, а також знайдений мертвим підозрюваний у вбивствах.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048757/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T00:58:00+00:00",
+    "fetched": "2026-08-15T01:28:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/892090/73b2715b0380132e0e67074f4b53b73b.jpeg"
+  },
+  {
+    "id": "fc50156dc686d234",
+    "title": "Луїджі Манджоне визнав провину у вбивстві голови страхової компанії",
+    "summary": "28-річний чоловік зізнався в одному з найбільш резонансних злочинів в Америці за останні роки.",
+    "url": "https://lb.ua/world/2026/08/15/759088_luyidzhi_mandzhone_viznav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T00:27:00+00:00",
+    "fetched": "2026-08-15T01:28:28+00:00",
+    "image": "https://i.lb.ua/news/080/06/6a7fb3113e965.jpg"
+  },
+  {
+    "id": "f6bfeaf4b30ea6b9",
+    "title": "Росіяни атакували торговий центр і промислове підприємство в Запоріжжі",
+    "summary": "Росіяни вдарили безпілотниками по торговому центру і промисловому підприємству в Запоріжжі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048756/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T00:26:00+00:00",
+    "fetched": "2026-08-15T01:28:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/892087/72fd1fc4da8a648687fc569527c3356f.jpeg"
+  },
+  {
+    "id": "415eeab89b1cf3ed",
+    "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, triggering tsunami warning",
+    "summary": "Quake hit Indonesia’s Flores region with a depth of 10km early on Saturday morning A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, the US Geological Survey said, triggering a tsunami warning and prompting hundreds to evacuate. The shallow quake hit…",
+    "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-14T23:43:18+00:00",
+    "fetched": "2026-08-15T01:28:28+00:00",
+    "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262"
+  },
+  {
+    "id": "8fa4b769b0c2653d",
+    "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+    "summary": "Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697 Comments URL: https://news.ycombinator.com/item?id=49305927 Points: 77 # Comments: 29",
+    "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T23:40:37+00:00",
+    "fetched": "2026-08-15T01:28:31+00:00",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd391508-bc64-401e-aae1-ffd08fc4c6ad.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+  },
+  {
     "id": "40eb072c4c39bb58",
     "title": "В Ірані заявили, що не прийняли рішення про відновлення переговорів із США",
     "summary": "В Ірані кажуть, що не вирішили питання переговорів із США.",
@@ -22,6 +82,30 @@
     "published": "2026-08-14T23:29:00+00:00",
     "fetched": "2026-08-14T23:50:11+00:00",
     "image": "https://i.lb.ua/news/079/18/6a7fa4ad45d40.jpg"
+  },
+  {
+    "id": "455f52fb8a43e456",
+    "title": "The case for overhauling American science",
+    "summary": "Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science Comments URL: https://news.ycombinator.com/item?id=49305708 Points: 31 # Comments: 12",
+    "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T23:11:34+00:00",
+    "fetched": "2026-08-15T01:28:31+00:00",
+    "image": null
+  },
+  {
+    "id": "e80e52604c979351",
+    "title": "Stop sending me huge PRs; a rant",
+    "summary": "Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va Comments URL: https://news.ycombinator.com/item?id=49305558 Points: 55 # Comments: 35",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T22:48:15+00:00",
+    "fetched": "2026-08-15T01:28:31+00:00",
+    "image": null
   },
   {
     "id": "d4d8e485deae1827",
@@ -70,6 +154,18 @@
     "published": "2026-08-14T22:22:00+00:00",
     "fetched": "2026-08-14T22:52:46+00:00",
     "image": "https://i.lb.ua/news/086/12/6a7f95d2a342e.jpg"
+  },
+  {
+    "id": "b88a479110156a2e",
+    "title": "eigendrum",
+    "summary": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 23 # Comments: 2",
+    "url": "https://eigendrum.com/#p=circle",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-14T22:15:12+00:00",
+    "fetched": "2026-08-15T01:28:31+00:00",
+    "image": "https://eigendrum.com/docs/hero.png"
   },
   {
     "id": "8e3085945a3d39ce",
@@ -49186,89 +49282,5 @@
     "published": "2026-08-01T01:35:53+00:00",
     "fetched": "2026-08-01T04:54:38+00:00",
     "image": null
-  },
-  {
-    "id": "a8f28cf57dd6ca10",
-    "title": "США та Ізраїль можуть завдати ударів по енергетиці Ірану на вихідних – ЗМІ",
-    "summary": "За даними CBS News, США та Ізраїль планують одну з наймасштабніших атак на об'єкти енергетичної інфраструктури в Ірані на цих вихідних.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046781/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T00:48:00+00:00",
-    "fetched": "2026-08-01T01:04:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/884674/843d0e0f6c0b256e07dcb0d4f4349436.jpeg"
-  },
-  {
-    "id": "0dd3872bab10a791",
-    "title": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen",
-    "summary": "Treasury secretary’s notepad, photographed by Reuters on Friday morning, prompts questions over US plans During a cabinet meeting at Camp David on Friday, the US treasury secretary Scott Bessent carelessly revealed plans for the US to buy $5bn-$10bn ⁠in Japanese yen in a…",
-    "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T00:33:29+00:00",
-    "fetched": "2026-08-01T01:04:36+00:00",
-    "image": "https://i.guim.co.uk/img/media/d6c2b31e56ea4bd013b4f8e25ecd3d2d1d8c34a2/710_0_5383_4307/master/5383.jpg?width=140&quality=85&auto=format&fit=max&s=0d295ada0b8c57f0191208e78b4f8535"
-  },
-  {
-    "id": "c805386009885713",
-    "title": "ФІФА відмовилась від планів продати частку комерційних прав на чемпіонат світу",
-    "summary": "Джанні Інфантіно зрозумів, що не збере достатньо голосів асоціацій.",
-    "url": "https://lb.ua/sport/2026/08/01/755918_fifa_vidmovilas_vid_planiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T00:25:00+00:00",
-    "fetched": "2026-08-01T01:04:36+00:00",
-    "image": "https://i.lb.ua/news/009/05/6a6d3d00bbf2b.jpg"
-  },
-  {
-    "id": "36742ce60e8daaf0",
-    "title": "How to Exist",
-    "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/ Comments URL: https://news.ycombinator.com/item?id=49129990 Points: 85 # Comments: 34",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T00:25:00+00:00",
-    "fetched": "2026-08-01T04:54:38+00:00",
-    "image": "https://www.raptitude.com/wp-content/uploads/2026/07/coffeeexist.jpg"
-  },
-  {
-    "id": "1e9b02f3263efa6b",
-    "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-    "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-    "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T00:20:43+00:00",
-    "fetched": "2026-08-01T07:29:52+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "0598457661b4810f",
-    "title": "У Києві та низці областей лунала друга з початку доби повітряна тривога",
-    "summary": "О 3:17 у Києві та низці областей оголошували другу повітряну тривогу з початку доби.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046780/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T00:20:00+00:00",
-    "fetched": "2026-08-01T01:04:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/884673/e2fd1820b2788ef3bb4e054fa7556b3b.jpeg"
-  },
-  {
-    "id": "c3d9348123b3c421",
-    "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-    "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-    "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-07-31T23:58:12+00:00",
-    "fetched": "2026-08-01T07:29:52+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87d/live/23d70e10-8bf9-11f1-b8ee-9b3c26ad07bb.png"
   }
 ]
