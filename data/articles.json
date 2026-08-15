@@ -1,5 +1,53 @@
 [
   {
+    "id": "b7fe30d58d3d90c9",
+    "title": "ГУР заявило про кібератаку на Wildberries",
+    "summary": "Cyber Corps атакували російську Wildberries, спричинивши збої в сервісах і платіжній системі, заявили у ГУР.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048802/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:39:00+00:00",
+    "fetched": "2026-08-15T11:46:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/892197/ca179398627a4551bd08a7737564f822.jpeg"
+  },
+  {
+    "id": "e0316354d346867e",
+    "title": "Більшість чехів підтримують заборону телефонів у школах і соцмереж для дітей",
+    "summary": "Рівень підтримки заборони телефонів у школах зростає відповідно до віку опитуваних.",
+    "url": "https://lb.ua/world/2026/08/15/759172_bilshist_chehiv_pidtrimuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:37:00+00:00",
+    "fetched": "2026-08-15T11:46:22+00:00",
+    "image": "https://i.lb.ua/news/006/48/6a804f8b3d206.jpg"
+  },
+  {
+    "id": "de9a711eac1870c5",
+    "title": "Дві міжнародні спортивні федерації скасували обмеження для російських спортсменів",
+    "summary": "Ідеться про Міжнародну автомобільну федерацію та Міжнародну федерацію стрільби з лука.",
+    "url": "https://lb.ua/sport/2026/08/15/759170_dvi_mizhnarodni_sportivni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T11:30:00+00:00",
+    "fetched": "2026-08-15T11:46:22+00:00",
+    "image": "https://i.lb.ua/news/125/53/6a804b0c86b84.jpg"
+  },
+  {
+    "id": "8890d3817dfdc24c",
+    "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+    "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+    "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T11:24:24+00:00",
+    "fetched": "2026-08-15T11:46:22+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
     "id": "e0d199d0aa728afa",
     "title": "У Фінляндії затримали іноземця, який незаконно перетнув східний кордон",
     "summary": "",
@@ -22,6 +70,18 @@
     "published": "2026-08-15T11:14:00+00:00",
     "fetched": "2026-08-15T11:24:12+00:00",
     "image": "https://i.lb.ua/news/107/08/6a80487fc328f.jpg"
+  },
+  {
+    "id": "e20942ac6eee54d7",
+    "title": "So much solar: Digging into the list of every US power plant that went online this year",
+    "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+    "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T11:09:57+00:00",
+    "fetched": "2026-08-15T11:46:22+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg"
   },
   {
     "id": "9980cadaa8e067bd",
@@ -49270,65 +49330,5 @@
     "published": "2026-08-01T11:51:00+00:00",
     "fetched": "2026-08-01T12:33:27+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/a/884800/2abdf493f925b3a223c653fb45c71ce5.jpeg"
-  },
-  {
-    "id": "462822ae28f7c995",
-    "title": "Росія поцілила у Харкові у склад місцевого видання, є поранений (оновлено)",
-    "summary": "Виникла пожежа, площа займання сягнула близько 10 тисяч квадратних метрів.",
-    "url": "https://lb.ua/society/2026/08/01/755968_rosiya_potsilila_harkovi_sklad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:46:00+00:00",
-    "fetched": "2026-08-01T12:33:27+00:00",
-    "image": "https://i.lb.ua/news/118/31/6a6ddcac5911f.jpg"
-  },
-  {
-    "id": "84668b5ecafeed89",
-    "title": "Лідери 22 країн ЄС закликали до термінової реакції через міграційну кризу в Сеуті",
-    "summary": "Лідери занепокоєні масовими нелегальними перетинами зовнішнього кордону Євросоюзу.",
-    "url": "https://lb.ua/world/2026/08/01/756010_lideri_22_krayin_ies_zaklikali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:40:00+00:00",
-    "fetched": "2026-08-01T12:33:27+00:00",
-    "image": "https://i.lb.ua/news/100/32/6a6dda9ea9b9b.jpg"
-  },
-  {
-    "id": "9a346782963957bb",
-    "title": "Університет у Литві розслідує ймовірний плагіат у докторській дисертації прем’єра",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046819/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:38:00+00:00",
-    "fetched": "2026-08-01T12:33:27+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/a/c/ac15abf----.jpg"
-  },
-  {
-    "id": "495031ca70e5d437",
-    "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-    "summary": "Autonomous vehicle giant disturbs residents' sleep.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T11:30:54+00:00",
-    "fetched": "2026-08-01T12:33:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1061811620-scaled-1152x648-1785531743.jpg"
-  },
-  {
-    "id": "d8283eb1dbe0ee46",
-    "title": "У Бучанському районі внаслідок атак окупантів постраждали три людини",
-    "summary": "Триває ліквідація пожежі на одному з промислових об’єктів.",
-    "url": "https://lb.ua/society/2026/08/01/756008_buchanskomu_rayoni_vnaslidok.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T11:30:00+00:00",
-    "fetched": "2026-08-01T12:33:27+00:00",
-    "image": "https://i.lb.ua/news/013/47/6a6dd94977c12.jpg"
   }
 ]
