@@ -1,5 +1,41 @@
 [
   {
+    "id": "b53e6d6d1115c9e7",
+    "title": "Адміністрація Трампа виступила проти закупівлі Apple китайських чипів пам’яті",
+    "summary": "Попри позицію Вашингтона, компанія може ухвалити власне рішення і продовжити співпрацю з виробниками з Китаю.",
+    "url": "https://lb.ua/tech/2026/08/15/759248_administratsiya_trampa_vistupila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T20:16:00+00:00",
+    "fetched": "2026-08-15T20:26:58+00:00",
+    "image": "https://i.lb.ua/news/117/21/6a80c906bb9b3.jpg"
+  },
+  {
+    "id": "98ec5e624670beff",
+    "title": "Поліцейські Артем Кучер та Андрій Мельник загинули, захищаючи Україну",
+    "summary": "В Артема Кучера влучив дрон у Марганці, а Андрій Мельник загинув на бойовому завданні в Донецькій області.",
+    "url": "https://lb.ua/society/2026/08/15/759246_politseyski_artem_kucher_andriy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T19:55:00+00:00",
+    "fetched": "2026-08-15T20:26:58+00:00",
+    "image": "https://i.lb.ua/news/055/19/6a80c4510d55b.jpg"
+  },
+  {
+    "id": "03ef6523e53c36d0",
+    "title": "На фронті в суботу 170 боїв, Покровський напрямок найгарячіший – Генштаб",
+    "summary": "На фронті триває 170 боєзіткнень, найактивніші бої на Покровському, Костянтинівському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/08/15/8048842/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-15T19:51:00+00:00",
+    "fetched": "2026-08-15T20:26:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/c/892405/6c768ee135b4d095940e2c720c55828e.jpeg"
+  },
+  {
     "id": "3084e9956572153e",
     "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
     "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
@@ -10,6 +46,18 @@
     "published": "2026-08-15T19:41:57+00:00",
     "fetched": "2026-08-15T19:46:11+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg"
+  },
+  {
+    "id": "7039a21130e90692",
+    "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+    "summary": "Death toll now stands at 68, with 18 children being among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake…",
+    "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-15T19:39:07+00:00",
+    "fetched": "2026-08-15T20:26:57+00:00",
+    "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446"
   },
   {
     "id": "57062f890a4ed5e7",
@@ -49090,137 +49138,5 @@
     "published": "2026-08-01T20:31:00+00:00",
     "fetched": "2026-08-01T21:27:21+00:00",
     "image": "https://i.lb.ua/news/080/28/6a6e578e2af78.jpg"
-  },
-  {
-    "id": "fc3244c62f9a0cad",
-    "title": "У Росії заявили, що в московському ресторані підірвали вибухівку",
-    "summary": "Національний антитерористичний комітет РФ заявив, що в ресторані Balzi Rossi в центрі Москви підірвали саморобний вибуховий пристрій.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046869/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:22:00+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/885078/og_8046869_ukr.png?w=1200&q=85&stamp=1785615940"
-  },
-  {
-    "id": "d9aabc019c8a0db3",
-    "title": "The Silicon Valley Founder Meat Grinder",
-    "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 43 # Comments: 7",
-    "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T20:20:58+00:00",
-    "fetched": "2026-08-01T21:27:21+00:00",
-    "image": "https://zaksa.zip/images/share.png"
-  },
-  {
-    "id": "de5af23a6b216faf",
-    "title": "Three killed in Moscow restaurant bombing",
-    "summary": "The deadly blast took place in a venue near the centre of the city, as a woman carrying explosives tried to enter.",
-    "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T20:20:44+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3a/live/f29cb820-8dda-11f1-9d54-295807679b3c.jpg"
-  },
-  {
-    "id": "6b8e46fa1cffc112",
-    "title": "Angela Nissel faces down grief with a laugh",
-    "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of…",
-    "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T20:15:00+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "fdef47c63dc13e2a",
-    "title": "Вибух у елітному ресторані у центрі Москви: влада назвала офіційну версію (оновлено)",
-    "summary": "У заклад спробували пронести саморобний вибуховий пристрій.",
-    "url": "https://lb.ua/world/2026/08/01/756082_vibuh_elitnomu_restorani_tsentri.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:15:00+00:00",
-    "fetched": "2026-08-01T20:27:02+00:00",
-    "image": "https://i.lb.ua/news/085/24/6a6e335c7dc84.jpg"
-  },
-  {
-    "id": "8dcf962fed283c36",
-    "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-    "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-01T20:09:27+00:00",
-    "fetched": "2026-08-01T21:27:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "42fded289b20c2ff",
-    "title": "Ветерана KRAKEN відправили під цілодобовий домашній арешт – ЗМІ",
-    "summary": "Ветерану KRAKEN Глібу Новостройному призначено цілодобовий домашній арешт. Суть підозри офіційно не розголошують.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046868/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:08:00+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/885074/6483f2c43651929663091c0e9c9afb55.jpeg"
-  },
-  {
-    "id": "53f07568afcc10f8",
-    "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-    "summary": "Article URL: https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose Comments URL: https://news.ycombinator.com/item?id=49137904 Points: 29 # Comments: 17",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T20:07:39+00:00",
-    "fetched": "2026-08-01T21:27:21+00:00",
-    "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f337127b-b7da-4c04-ba43-86e2dc9d771e/Cookware_card_1200_630.png?t=1784049693"
-  },
-  {
-    "id": "e7c52d173f0b1d2c",
-    "title": "На Полтавщині ліквідували наслідки російського удару по інфраструктурі",
-    "summary": "Пошкоджені обстрілом конструкції становили загрозу для людей.",
-    "url": "https://lb.ua/society/2026/08/01/756096_poltavschini_likviduvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T20:01:00+00:00",
-    "fetched": "2026-08-01T20:27:02+00:00",
-    "image": "https://i.lb.ua/news/086/34/6a6e50a26355b.jpg"
-  },
-  {
-    "id": "925aceb6f2aef90d",
-    "title": "Top amputation surgeon had own legs removed due to fetish. Were patients safe?",
-    "summary": "Article URL: https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions Comments URL: https://news.ycombinator.com/item?id=49137808 Points: 34 # Comments: 18",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-01T19:56:07+00:00",
-    "fetched": "2026-08-01T20:27:03+00:00",
-    "image": "https://i.guim.co.uk/img/media/3d991a316f8e63a9b86c38c01498bb180948c1a8/200_0_1255_1004/master/1255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1746fa04ffd0fdbed149b91a81748ff3"
-  },
-  {
-    "id": "289d98c3b766e831",
-    "title": "Генштаб: Найбільше атак за день – на Покровському й Південно-Слобожанському напрямках",
-    "summary": "ЗСУ відбили 193 атаки ворога на різних напрямках фронту. Найбільші бої — на Покровському та Південно-Слобожанському.",
-    "url": "https://www.pravda.com.ua/news/2026/08/01/8046867/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-01T19:47:00+00:00",
-    "fetched": "2026-08-01T20:27:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/885064/a0e6370e12042aafa0756efaf574c8a4.jpeg"
   }
 ]
