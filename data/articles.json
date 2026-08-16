@@ -1,5 +1,53 @@
 [
   {
+    "id": "c05a50c809bd67b4",
+    "title": "Укренерго не прогнозує відключень світла в понеділок",
+    "summary": "Громадян закликають споживати електроенергію раціонально.",
+    "url": "https://lb.ua/society/2026/08/16/759400_ukrenergo_prognozuie_vidklyuchen.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T17:40:00+00:00",
+    "fetched": "2026-08-16T17:47:03+00:00",
+    "image": "https://i.lb.ua/news/116/53/6a81f6a5c451b.jpg"
+  },
+  {
+    "id": "a5b29d561f7b1a10",
+    "title": "Очільник Центрального командування США відвідав авіаносець з \"деморалізованим\" екіпажем",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048913/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T17:37:00+00:00",
+    "fetched": "2026-08-16T17:47:02+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/f/d/fdc7521---------------2026-08-16-193553.jpg"
+  },
+  {
+    "id": "b11f9aa0d85f8427",
+    "title": "Amazon is trying to crush class-action suits before they get started",
+    "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and…",
+    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T17:35:02+00:00",
+    "fetched": "2026-08-16T17:47:02+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a1888b36bfe32cc2",
+    "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260811052857.htm Comments URL: https://news.ycombinator.com/item?id=49321783 Points: 11 # Comments: 5",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T17:10:04+00:00",
+    "fetched": "2026-08-16T17:47:02+00:00",
+    "image": "https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp"
+  },
+  {
     "id": "83f4f2cf6e9b51d4",
     "title": "У Києві люди знову вийшли на акцію на підтримку Федорова",
     "summary": "Протести тривають уже близько місяця.",
@@ -22,6 +70,18 @@
     "published": "2026-08-16T17:04:00+00:00",
     "fetched": "2026-08-16T17:22:48+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/a/892723/da727364e9e939d657202efd33c170fc.jpeg"
+  },
+  {
+    "id": "3e9e04424fc84f20",
+    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+    "summary": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 5 # Comments: 2",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T17:01:07+00:00",
+    "fetched": "2026-08-16T17:47:02+00:00",
+    "image": null
   },
   {
     "id": "f1b61890e3f0ad5a",
@@ -49126,41 +49186,5 @@
     "published": "2026-08-02T17:48:00+00:00",
     "fetched": "2026-08-02T18:31:06+00:00",
     "image": "https://i.lb.ua/news/079/46/6a6f83b0d3d7d.jpg"
-  },
-  {
-    "id": "6d3d68c24c5fa44b",
-    "title": "Моравецький хотів би зійтись на дебатах із Туском",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046944/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T17:46:00+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/f/5f07d2b--.jpg"
-  },
-  {
-    "id": "38a36bedbf88dff2",
-    "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-    "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 3 # Comments: 0",
-    "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T17:45:51+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": null
-  },
-  {
-    "id": "a72762dc77383cea",
-    "title": "Під час вибуху в ресторані Москви могла постраждати дочка російського генерала – ЗМІ",
-    "summary": "При вибуху в ресторані Balzi Rossi в Москві постраждала Марія Чайко, донька генерала РФ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046943/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T17:30:00+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/885284/65124bd6ec0dc32a83a2b7de874de5bc.jpeg"
   }
 ]
