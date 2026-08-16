@@ -1,5 +1,17 @@
 [
   {
+    "id": "c4efe769af7cbd41",
+    "title": "Трамп наказав скоротити спільні навчання США і Південної Кореї: послався на стосунки з Кімом",
+    "summary": "Президент США Дональд Трамп доручив міністру оборони Піту Гегсету суттєво скоротити масштаб спільних військових навчань із Південною Кореєю, пояснивши це небажанням псувати свої \"дуже добрі стосунки\" з лідером КНДР Кім Чен Ином.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8048928/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T22:14:00+00:00",
+    "fetched": "2026-08-16T22:48:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/c/892808/2c925a4ba152e77947547f89070f91ac.jpeg"
+  },
+  {
     "id": "0f2dda7c9a41a2bd",
     "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
     "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 11 # Comments: 8",
@@ -46,6 +58,18 @@
     "published": "2026-08-16T21:32:56+00:00",
     "fetched": "2026-08-16T22:26:00+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "f1ac1573b008852f",
+    "title": "Stop Turning every purchase into a tip request",
+    "summary": "Article URL: https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request Comments URL: https://news.ycombinator.com/item?id=49323874 Points: 15 # Comments: 2",
+    "url": "https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T21:28:59+00:00",
+    "fetched": "2026-08-16T22:48:56+00:00",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/millers-ale-house-tip-screen-fox-news-001.jpeg"
   },
   {
     "id": "d39bc91ddc0ae4d3",
@@ -49162,17 +49186,5 @@
     "published": "2026-08-02T22:50:00+00:00",
     "fetched": "2026-08-02T23:33:19+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/885373/f3d8b1dad3d99a3d2408bb3ef38e7b9f.jpeg"
-  },
-  {
-    "id": "07a5a46857ad35b4",
-    "title": "The Computational Theory of Mind (2015)",
-    "summary": "Article URL: https://plato.stanford.edu/entries/computational-mind/ Comments URL: https://news.ycombinator.com/item?id=49149125 Points: 37 # Comments: 13",
-    "url": "https://plato.stanford.edu/entries/computational-mind/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T22:35:35+00:00",
-    "fetched": "2026-08-03T03:27:29+00:00",
-    "image": null
   }
 ]
