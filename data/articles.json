@@ -1,5 +1,29 @@
 [
   {
+    "id": "85a0366bbbe0ccd0",
+    "title": "У Донецьку після удару БпЛА згорів ТЦ \"Галактика\" – росЗМІ",
+    "summary": "У Донецьку згорів ТЦ \"Галактика\" через атаку дронами, стверджують росЗМІ. Опубліковано відео наслідків.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048906/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T15:32:00+00:00",
+    "fetched": "2026-08-16T15:48:49+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/892692/38f0b2711db1f4f0035e3aa559e641db.jpeg"
+  },
+  {
+    "id": "cb901bc49a92e47f",
+    "title": "В Ірані стратили чоловіка, якого звинуватили в наїзді на поліцію під час січневих протестів",
+    "summary": "Шахрам Садегі нібито проводив “оперативні дії” від імені Ізраїлю та Сполучених Штатів.",
+    "url": "https://lb.ua/world/2026/08/16/759390_irani_stratili_cholovika_yakogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T15:30:00+00:00",
+    "fetched": "2026-08-16T15:48:49+00:00",
+    "image": "https://i.lb.ua/news/000/38/6a81d76fdccb6.jpg"
+  },
+  {
     "id": "85d2df85f56e8178",
     "title": "На Сумщині внаслідок ракетного удару росіян зруйновано елеватор і поранено співробітника",
     "summary": "На місці влучання тривають роботи з ліквідації наслідків атаки.",
@@ -49186,53 +49210,5 @@
     "published": "2026-08-02T15:56:00+00:00",
     "fetched": "2026-08-02T17:04:56+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/885273/7bb8f868069f66b6a7929d9e3337e4ab.jpeg"
-  },
-  {
-    "id": "013842aef050fdfb",
-    "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-    "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-    "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T15:48:00+00:00",
-    "fetched": "2026-08-02T17:04:55+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png"
-  },
-  {
-    "id": "3b6b750ac389e05b",
-    "title": "У Херсоні росіяни атакували дроном цивільне авто: загинула жінка, ще двох людей поранено",
-    "summary": "Потерпілих доправили до лікарні.",
-    "url": "https://lb.ua/society/2026/08/02/756228_hersoni_rosiyani_atakuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:47:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://i.lb.ua/news/024/08/6a6f66b395237.jpg"
-  },
-  {
-    "id": "87ddc22c57fe0518",
-    "title": "How the words we teach English language learners changed",
-    "summary": "Article URL: https://pudding.cool/2026/07/essential-words/ Comments URL: https://news.ycombinator.com/item?id=49145590 Points: 57 # Comments: 17",
-    "url": "https://pudding.cool/2026/07/essential-words/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T15:41:08+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://pudding.cool/2026/07/essential-words/assets/social-facebook.jpg"
-  },
-  {
-    "id": "057b3f1988474e4d",
-    "title": "Президент вручив державні нагороди військовослужбовцям Повітряних сил",
-    "summary": "Також вручені вище військове звання, бойовий прапор і стрічки почесних найменувань.",
-    "url": "https://lb.ua/society/2026/08/02/756226_prezident_vruchiv_derzhavni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:30:00+00:00",
-    "fetched": "2026-08-02T15:39:30+00:00",
-    "image": "https://i.lb.ua/news/018/37/6a6f62b5d68f7.jpg"
   }
 ]
