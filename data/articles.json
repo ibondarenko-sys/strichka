@@ -1,5 +1,29 @@
 [
   {
+    "id": "85d2df85f56e8178",
+    "title": "На Сумщині внаслідок ракетного удару росіян зруйновано елеватор і поранено співробітника",
+    "summary": "На місці влучання тривають роботи з ліквідації наслідків атаки.",
+    "url": "https://lb.ua/society/2026/08/16/759392_sumschini_vnaslidok_raketnogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T15:09:00+00:00",
+    "fetched": "2026-08-16T15:26:08+00:00",
+    "image": "https://i.lb.ua/news/042/30/6a81d2a380e96.jpg"
+  },
+  {
+    "id": "a1c7d35e071856a8",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T14:56:40+00:00",
+    "fetched": "2026-08-16T15:26:08+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "01cfbdff3cec975f",
     "title": "В Оболонському районі Києва ліквідовують наслідки російського обстрілу",
     "summary": "Пожежі, спричинені атакою, вже ліквідували.кик",
@@ -10,6 +34,18 @@
     "published": "2026-08-16T14:46:00+00:00",
     "fetched": "2026-08-16T14:52:00+00:00",
     "image": "https://i.lb.ua/news/086/42/6a81cb5e0a06d.jpg"
+  },
+  {
+    "id": "394dfc3977b6d23a",
+    "title": "The AI Credit Resale Economy",
+    "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 12 # Comments: 1",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T14:44:55+00:00",
+    "fetched": "2026-08-16T15:26:11+00:00",
+    "image": null
   },
   {
     "id": "f9d8f86610390d34",
@@ -168,6 +204,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/a/8/a8d7dde---------------2026-08-16-160530.jpg"
   },
   {
+    "id": "886316ca512557c1",
+    "title": "Show HN: A public AI whose memory is shared across all users",
+    "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 6 # Comments: 0",
+    "url": "https://wildstatic.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T13:21:45+00:00",
+    "fetched": "2026-08-16T15:26:11+00:00",
+    "image": "https://wildstatic.com/og.jpg"
+  },
+  {
     "id": "990b7982cf07e320",
     "title": "ЗМІ: “куратор” нардепів від “Слуги народу” Павлюк потрапив у ДТП і намагався втекти",
     "summary": "Бізнесмен з Чернівців був напідпитку, його затримали на одному з блок-постів.",
@@ -202,6 +250,18 @@
     "published": "2026-08-16T13:10:00+00:00",
     "fetched": "2026-08-16T13:34:36+00:00",
     "image": "https://cdn.ain.ua/ua/articles/2026-08-14/jqnbOiUGY7C9F5OnviUgT4vl8qgUNdPE2loXYFgq.webp"
+  },
+  {
+    "id": "456420157c8e0094",
+    "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+    "summary": "Article URL: https://www.rand.org/pubs/research_reports/RRA4335-1.html Comments URL: https://news.ycombinator.com/item?id=49319727 Points: 16 # Comments: 7",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T13:09:41+00:00",
+    "fetched": "2026-08-16T15:26:11+00:00",
+    "image": null
   },
   {
     "id": "71385ce71ef96078",
@@ -49174,89 +49234,5 @@
     "published": "2026-08-02T15:30:00+00:00",
     "fetched": "2026-08-02T15:39:30+00:00",
     "image": "https://i.lb.ua/news/018/37/6a6f62b5d68f7.jpg"
-  },
-  {
-    "id": "0fa80837ef64cee2",
-    "title": "Helicopters fighting Greece wildfires collide in mid-air",
-    "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-    "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T15:21:56+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282d/live/2cbdf280-8e80-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "863510a1ea1c1242",
-    "title": "Росіяни атакували Запоріжжя: є загиблі й поранені, пошкоджено багатоповерхівки",
-    "summary": "У Запоріжжі 2 серпня російська авіабомба влучила у приватні будинки: 1 людина загинула, 2 постраждали, ще одна під завалами.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046928/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:21:00+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/885272/b9f450a3e9b1739a69c3b89153203c0e.jpeg"
-  },
-  {
-    "id": "ec161cc9025f52dc",
-    "title": "На Полтавщині після російського обстрілу стався витік небезпечних хімікатів",
-    "summary": "Рятувальники не допустили поширення речовини і провели роботи з герметизації пошкоджених ємностей.",
-    "url": "https://lb.ua/society/2026/08/02/756224_poltavschini_pislya_rosiyskogo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:15:00+00:00",
-    "fetched": "2026-08-02T15:39:30+00:00",
-    "image": "https://i.lb.ua/news/102/56/6a6f5f11a7db6.jpg"
-  },
-  {
-    "id": "8049832cbc86e877",
-    "title": "Міграційна криза в Сеуті: місцева влада каже про 88 загиблих мігрантів",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046936/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:12:00+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/b/5b8e739----.jpg"
-  },
-  {
-    "id": "8cc100f996af821d",
-    "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-    "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-    "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T15:02:56+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "64e73c776057ea2c",
-    "title": "Skylight’s smart calendars are up to $90 off during its back-to-school sale",
-    "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip through the cracks, but Skylight’s shared smart calendars can help keep…",
-    "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T15:00:00+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-Cal-2-Lifestyle-6.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "767cb504419e92ed",
-    "title": "У Греції зіткнулися два пожежні вертольоти",
-    "summary": "Члени одного екіпажу зазнали лише легких травм, а двоє членів іншого екіпажу не реагували на зовнішні подразники.",
-    "url": "https://lb.ua/world/2026/08/02/756222_gretsiyi_zitknulisya_dva.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:00:00+00:00",
-    "fetched": "2026-08-02T15:39:30+00:00",
-    "image": "https://i.lb.ua/news/104/61/6a6f5b9a2d7c3.jpg"
   }
 ]
