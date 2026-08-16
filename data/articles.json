@@ -1,5 +1,41 @@
 [
   {
+    "id": "83f4f2cf6e9b51d4",
+    "title": "У Києві люди знову вийшли на акцію на підтримку Федорова",
+    "summary": "Протести тривають уже близько місяця.",
+    "url": "https://lb.ua/society/2026/08/16/759398_kiievi_lyudi_znovu_viyshli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T17:05:00+00:00",
+    "fetched": "2026-08-16T17:22:49+00:00",
+    "image": "https://i.lb.ua/news/098/28/6a81eca7e0013.jpg"
+  },
+  {
+    "id": "bd5606e354c3570c",
+    "title": "Росіяни вдарили по Краматорську: загинув працівник підприємства, 7 поранених",
+    "summary": "16 серпня внаслідок обстрілу Краматорська загинув 19-річний, семеро людей поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048911/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T17:04:00+00:00",
+    "fetched": "2026-08-16T17:22:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/a/892723/da727364e9e939d657202efd33c170fc.jpeg"
+  },
+  {
+    "id": "f1b61890e3f0ad5a",
+    "title": "У Києві відбувається хода за діалог і на підтримку Федорова",
+    "summary": "Сотні киян вийшли на ходу за повернення Михайла Федорова та діалог між владою й суспільством.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048910/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T16:52:00+00:00",
+    "fetched": "2026-08-16T17:22:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/892719/fcb64f7860db83f54b87e198e08b22ed.jpeg"
+  },
+  {
     "id": "e54457019adbbe61",
     "title": "Росіяни атакували \"Нову пошту\" в Краматорську: один загиблий і шість постраждалих",
     "summary": "Пошкоджено будівлю відділення, остаточні наслідки обстрілу уточнюються.",
@@ -10,6 +46,18 @@
     "published": "2026-08-16T16:39:00+00:00",
     "fetched": "2026-08-16T16:54:46+00:00",
     "image": "https://i.lb.ua/news/085/57/6a81e8236471d.jpg"
+  },
+  {
+    "id": "8399414f526d63e8",
+    "title": "NIH is ending a key grant for budding clinical researchers",
+    "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 9 # Comments: 0",
+    "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T16:14:55+00:00",
+    "fetched": "2026-08-16T17:22:49+00:00",
+    "image": null
   },
   {
     "id": "5282a4741c3efe40",
@@ -49114,53 +49162,5 @@
     "published": "2026-08-02T17:30:00+00:00",
     "fetched": "2026-08-02T18:31:06+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/885284/65124bd6ec0dc32a83a2b7de874de5bc.jpeg"
-  },
-  {
-    "id": "b6309baa021e6c36",
-    "title": "​Українська сторона розраховує на якнайшвидший доступ консулів до бізнесмена Карчка, якого затримали в Польщі, - МЗС",
-    "summary": "Генконсульство в Любліні звернулося до місцевих компетентних органів із запитом на відвідання громадянина України.",
-    "url": "https://lb.ua/world/2026/08/02/756236_ukrayinska_storona_rozrahovuie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T17:18:00+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://i.lb.ua/news/038/45/6a6f7c1626b32.jpg"
-  },
-  {
-    "id": "89374eee3982ca70",
-    "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-    "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems. This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10. See…",
-    "url": "https://github.com/graham33/nixos-dgx-spark",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T17:05:54+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://opengraph.githubassets.com/81ef580fac04852f0d51af1a3254aa6b4f5b2b74d69c6bb3367ba55760da87c4/graham33/nixos-dgx-spark"
-  },
-  {
-    "id": "b02b706812dd3c2b",
-    "title": "Pushes to arch AUR are suspendended right now.",
-    "summary": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/ Comments URL: https://news.ycombinator.com/item?id=49146238 Points: 33 # Comments: 6",
-    "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T17:03:02+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": null
-  },
-  {
-    "id": "2a4f6d988654c896",
-    "title": "Зеленський: українські льотчики невдовзі пересядуть на нові бойові літаки Gripen E",
-    "summary": "Президент зазначив, що підготовка пілотів \"триває значно швидшими темпами, ніж очікували\".",
-    "url": "https://lb.ua/society/2026/08/02/756234_zelenskiy_ukrayinski_lotchiki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T16:58:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://i.lb.ua/news/029/44/6a6f77962823e.jpg"
   }
 ]
