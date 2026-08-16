@@ -1,5 +1,77 @@
 [
   {
+    "id": "bcaf37944bdf491e",
+    "title": "Росіяни вдарили по Ізюму на Харківщині: 4 постраждалих",
+    "summary": "Увечері 4 червня росіяни завдали авіаудару по Ізюму Харківщини, постраждали 4 людини, пошкоджено будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048925/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T20:13:00+00:00",
+    "fetched": "2026-08-16T20:27:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/892792/74745f4b492fc06ad2090febaa5917cc.jpeg"
+  },
+  {
+    "id": "5a21866b635d8eb5",
+    "title": "Росіяни атакували Ізюм КАБами: чотири людини постраждали",
+    "summary": "Пошкоджено вікна та покрівлі кількох приватних житлових будинків.",
+    "url": "https://lb.ua/society/2026/08/16/759414_rosiyani_atakuvali_izyum_kabami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T20:10:00+00:00",
+    "fetched": "2026-08-16T20:27:30+00:00",
+    "image": "https://i.lb.ua/news/099/40/6a8217d1b5a1d.jpg"
+  },
+  {
+    "id": "c728f08a8e4ed752",
+    "title": "У Запорізькому районі росіяни атакували АЗС і поранили чоловіка",
+    "summary": "Пошкоджено приміщення та обладнання.",
+    "url": "https://lb.ua/society/2026/08/16/759412_zaporizkomu_rayoni_rosiyani.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T19:59:00+00:00",
+    "fetched": "2026-08-16T20:27:30+00:00",
+    "image": "https://i.lb.ua/news/123/26/6a8215ed026b8.jpg"
+  },
+  {
+    "id": "2d4b21839f92bcb8",
+    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+    "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T19:58:14+00:00",
+    "fetched": "2026-08-16T20:27:30+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg"
+  },
+  {
+    "id": "b5ebd671f1e0f271",
+    "title": "У Росії головного економіста ВЕБ звільнили через критику війни на виснаження – ЗМІ",
+    "summary": "Андрія Клепача, головного економіста ВЕБ.РФ, звільнили після критики війни Росії та прогнозу соціальної кризи.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048924/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T19:55:00+00:00",
+    "fetched": "2026-08-16T20:27:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/e/892791/ce21f0799a740f96b3c7d30274a092d0.jpeg"
+  },
+  {
+    "id": "e864f07095f80ced",
+    "title": "В Оболонському районі Києва завершено ліквідацію наслідків обстрілу, - ДСНС",
+    "summary": "Пожежі, спричинені атакою Росії, ліквідували ще зранку, але довелося розбирати завали.",
+    "url": "https://lb.ua/society/2026/08/16/759410_obolonskomu_rayoni_kiieva.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T19:45:00+00:00",
+    "fetched": "2026-08-16T20:27:30+00:00",
+    "image": "https://i.lb.ua/news/015/49/6a821404e68ec.jpg"
+  },
+  {
     "id": "ab1a6ca67015bac1",
     "title": "На фронті відбулося 181 боєзіткнення, - Генштаб",
     "summary": "Ворог найбільш активний на Покровському напрямку.",
@@ -22,6 +94,18 @@
     "published": "2026-08-16T19:08:00+00:00",
     "fetched": "2026-08-16T19:23:39+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/892789/61958e16aa1cd38649d7c2532ca04b84.jpeg"
+  },
+  {
+    "id": "08e6169d681d04d1",
+    "title": "Models Are Getting Dumber on Purpose",
+    "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 93 # Comments: 45",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T19:04:26+00:00",
+    "fetched": "2026-08-16T20:27:31+00:00",
+    "image": "https://w4g1.dev/avatar.webp"
   },
   {
     "id": "e0231f1976f51ad3",
@@ -49042,113 +49126,5 @@
     "published": "2026-08-02T20:33:01+00:00",
     "fetched": "2026-08-02T21:26:30+00:00",
     "image": "https://opengraph.githubassets.com/47b817bc3ef93862048ada045df3b4c8e10f5d2ea198889a792e1d4aef907068/ArcaEge/creakwork12"
-  },
-  {
-    "id": "137993b4f9cc702c",
-    "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-    "summary": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 8 # Comments: 1",
-    "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:26:47+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": null
-  },
-  {
-    "id": "2fe74ca91e52b1ac",
-    "title": "Прем'єр Британії висловив підтримку ідеї прийняття писемної конституції",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046950/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T20:20:00+00:00",
-    "fetched": "2026-08-02T21:26:26+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/e/5e2d594---.jpg"
-  },
-  {
-    "id": "69995d37928f6a7e",
-    "title": "Росіяни атакували безпілотником АЗС у Харкові",
-    "summary": "На місці влучання сталася пожежа.",
-    "url": "https://lb.ua/society/2026/08/02/756250_rosiyani_atakuvali_bezpilotnikom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T20:20:00+00:00",
-    "fetched": "2026-08-02T21:26:27+00:00",
-    "image": "https://i.lb.ua/news/046/26/6a6fa64938de3.jpg"
-  },
-  {
-    "id": "0f63b599861f818e",
-    "title": "Let the Machines In",
-    "summary": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 9 # Comments: 0",
-    "url": "https://blog.semenzin.com/let-the-machines-in/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:17:16+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": null
-  },
-  {
-    "id": "52d64a8831c570a3",
-    "title": "Adding Go's Defer to the TypeScript Compiler",
-    "summary": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 3 # Comments: 0",
-    "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:12:39+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": null
-  },
-  {
-    "id": "42cdc0dbe85cdc59",
-    "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-    "summary": "Article URL: https://github.com/paoloanzn/microcodex Comments URL: https://news.ycombinator.com/item?id=49147842 Points: 9 # Comments: 2",
-    "url": "https://github.com/paoloanzn/microcodex",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:11:35+00:00",
-    "fetched": "2026-08-02T22:29:33+00:00",
-    "image": "https://opengraph.githubassets.com/d1b489eb6079a65014d968c4d2dbd32cd056d74f02e855c98f60f3554ee21b74/paoloanzn/microcodex"
-  },
-  {
-    "id": "7401587693a4b505",
-    "title": "​В Одесі чоловік поранив із пістолета чотирьох військовослужбовців ТЦК (оновлено)",
-    "summary": "Стрільця затримала поліція.",
-    "url": "https://lb.ua/society/2026/08/02/756240_odesi_cholovik_poraniv_pistoleta.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T20:10:00+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://i.lb.ua/news/125/26/6a6fa31f0e9ca.jpg"
-  },
-  {
-    "id": "e0fa82fb17f62c52",
-    "title": "TinyNES Review – A Super Niche NES Console",
-    "summary": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 3 # Comments: 0",
-    "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:01:37+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": null
-  },
-  {
-    "id": "e7d06cdc129f7d26",
-    "title": "Корецький провів нараду з аграріями через блокаду портів Росією",
-    "summary": "\"Росія посилює терор на морі. Атакує судна, які перевозять українську аграрну продукцію та портову інфраструктуру\".",
-    "url": "https://lb.ua/economics/2026/08/02/756246_koretskiy_proviv_naradu_z.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T19:57:00+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://i.lb.ua/news/096/49/6a6fa185a96b0.jpg"
   }
 ]
