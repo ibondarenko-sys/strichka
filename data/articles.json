@@ -1,5 +1,41 @@
 [
   {
+    "id": "614e3e0655b424e7",
+    "title": "За добу ЗСУ відмінусували ще 1510 росіян та майже 600 одиниць техніки окупантів – Генштаб",
+    "summary": "За минулу добу Сили оборони України вбили та поранили 1 510 російських окупантів, загальні втрати ворога у війні склали 1 467 320 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048856/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T03:39:00+00:00",
+    "fetched": "2026-08-16T04:08:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/c/892438/bcd8c78b424103e751e6fc17f0e95bcb.jpeg"
+  },
+  {
+    "id": "d13bc25de6b604e4",
+    "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+    "summary": "Article URL: https://nntaleb.substack.com/p/have-another-drink Comments URL: https://news.ycombinator.com/item?id=49316611 Points: 10 # Comments: 3",
+    "url": "https://nntaleb.substack.com/p/have-another-drink",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T03:23:34+00:00",
+    "fetched": "2026-08-16T04:08:37+00:00",
+    "image": null
+  },
+  {
+    "id": "ef2187f97b485479",
+    "title": "У Підмосков'ї після атаки дронів горить найбільший склад Wildberries",
+    "summary": "У місті Подольськ Московської області Росії в ніч на 16 серпня внаслідок атаки безпілотників спалахнула масштабна пожежа на найбільшому складі російського маркетплейса Wildberries.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048855/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T03:21:00+00:00",
+    "fetched": "2026-08-16T04:08:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/892437/95b00755662782012b9ee180642ffba8.jpeg"
+  },
+  {
     "id": "2952c5c39312de9c",
     "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
     "summary": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99…",
@@ -10,6 +46,18 @@
     "published": "2026-08-16T03:00:00+00:00",
     "fetched": "2026-08-16T03:04:19+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "a3f1b10540e9be82",
+    "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+    "summary": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 5 # Comments: 1",
+    "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T02:36:10+00:00",
+    "fetched": "2026-08-16T04:08:37+00:00",
+    "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67598580&width=1200&height=600&coordinates=0%2C414%2C0%2C415"
   },
   {
     "id": "17a548c43cbd2190",
@@ -34,6 +82,30 @@
     "published": "2026-08-16T02:16:00+00:00",
     "fetched": "2026-08-16T03:04:19+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/892435/73c293e448c8a4a18e9740fa6d4e329f.jpeg"
+  },
+  {
+    "id": "af863cb3b215d959",
+    "title": "Patterns and problems in emerging multi-agent systems",
+    "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 8 # Comments: 2",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T02:12:53+00:00",
+    "fetched": "2026-08-16T04:08:37+00:00",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+  },
+  {
+    "id": "824c0c93c3bee016",
+    "title": "Guiding Ships with Moire Patterns",
+    "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 12 # Comments: 0",
+    "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T01:26:44+00:00",
+    "fetched": "2026-08-16T04:08:37+00:00",
+    "image": "https://tinkerings.org/wp-content/uploads/2018/03/cut-pieces-v01.jpg"
   },
   {
     "id": "03a14d297358c2a3",
@@ -49162,89 +49234,5 @@
     "published": "2026-08-02T04:21:14+00:00",
     "fetched": "2026-08-02T06:18:12+00:00",
     "image": "https://www.wafer.ai/assets/images/og-image.png"
-  },
-  {
-    "id": "50664d3fe0ef2960",
-    "title": "Canadians are leaving the country at record levels. Can anyone solve this?",
-    "summary": "Article URL: https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/ Comments URL: https://news.ycombinator.com/item?id=49140996 Points: 14 # Comments: 13",
-    "url": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T04:05:39+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://thehub.ca/wp-content/uploads/2026/04/CP159097047-scaled.jpg"
-  },
-  {
-    "id": "1ec2371eed423ec2",
-    "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-    "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+…",
-    "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T04:00:11+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://i.guim.co.uk/img/media/725aee047802b1eb39e000a019d0566950c75641/742_425_2422_1938/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=31547ec23a7b4de1d24cbe7d80fa594a"
-  },
-  {
-    "id": "4410042f1a0641bd",
-    "title": "Сили оборони України знешкодили ще 1500 російських окупантів – Генштаб",
-    "summary": "Сили оборони України знищили 1 500 росіян за добу. Втрати РФ від початку війни перевищили 1,44 млн осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046881/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T03:51:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/e/885098/1e26e175fe6acc735c1f281f2f2b4a3a.jpeg"
-  },
-  {
-    "id": "8bfd4cfdc8701675",
-    "title": "Трамп заявив, що заради угоди відмовився від нових ударів по Ірану",
-    "summary": "США скасували атаку на Іран на прохання країн Близького Сходу для досягнення нової угоди.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046880/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T03:24:00+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/6/885097/167246ca5d89a3223ed4ea019900a7ca.jpeg"
-  },
-  {
-    "id": "1b3c3f79a62c31bc",
-    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-    "summary": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 37 # Comments: 1",
-    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T03:12:52+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": null
-  },
-  {
-    "id": "2efcab80a0977e12",
-    "title": "Linux desktop market share has hit over 10% in North America",
-    "summary": "Article URL: https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/ Comments URL: https://news.ycombinator.com/item?id=49140696 Points: 85 # Comments: 29",
-    "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T03:10:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": null
-  },
-  {
-    "id": "f189c87d748443ea",
-    "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-    "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-    "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T03:05:16+00:00",
-    "fetched": "2026-08-02T03:26:42+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg"
   }
 ]
