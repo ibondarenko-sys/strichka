@@ -49150,41 +49150,5 @@
     "published": "2026-08-02T23:35:54+00:00",
     "fetched": "2026-08-03T06:45:37+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874d/live/87621610-8b21-11f1-aaf3-8dae78dd0f1a.jpg"
-  },
-  {
-    "id": "bb5b4dd8a444f523",
-    "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-    "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-    "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T23:15:14+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "130bfbb261eab437",
-    "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-    "summary": "Article URL: https://github.com/pg83/shitty Comments URL: https://news.ycombinator.com/item?id=49149326 Points: 93 # Comments: 93",
-    "url": "https://github.com/pg83/shitty",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T23:05:41+00:00",
-    "fetched": "2026-08-03T03:27:29+00:00",
-    "image": "https://opengraph.githubassets.com/8e19401193ba253d07ef211ec8d613071f960fa4a1c49cd77d637afc792b4021/pg83/shitty"
-  },
-  {
-    "id": "c3a400f48f5a36b4",
-    "title": "Трамп заявив, що США можуть будь-коли вдарити по Ірану у разі необхідності",
-    "summary": "Дональд Трамп заявив, що США готові завдати ударів по Ірану у разі необхідності.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8046954/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T22:50:00+00:00",
-    "fetched": "2026-08-02T23:33:19+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/885373/f3d8b1dad3d99a3d2408bb3ef38e7b9f.jpeg"
   }
 ]
