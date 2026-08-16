@@ -1,5 +1,17 @@
 [
   {
+    "id": "3fb6eff03cfb0ae8",
+    "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+    "summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for…",
+    "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T20:31:37+00:00",
+    "fetched": "2026-08-16T20:51:07+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "bcaf37944bdf491e",
     "title": "Росіяни вдарили по Ізюму на Харківщині: 4 постраждалих",
     "summary": "Увечері 4 червня росіяни завдали авіаудару по Ізюму Харківщини, постраждали 4 людини, пошкоджено будинки.",
@@ -70,6 +82,18 @@
     "published": "2026-08-16T19:45:00+00:00",
     "fetched": "2026-08-16T20:27:30+00:00",
     "image": "https://i.lb.ua/news/015/49/6a821404e68ec.jpg"
+  },
+  {
+    "id": "470c2fbad5ff0f6d",
+    "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ Comments URL: https://news.ycombinator.com/item?id=49322979 Points: 10 # Comments: 5",
+    "url": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T19:41:18+00:00",
+    "fetched": "2026-08-16T20:51:09+00:00",
+    "image": "https://www.motherjones.com/wp-content/uploads/2026/08/TrumpWorldLiberty08152026.jpg?w=1200&h=630&crop=1"
   },
   {
     "id": "ab1a6ca67015bac1",
@@ -49066,65 +49090,5 @@
     "published": "2026-08-02T20:54:00+00:00",
     "fetched": "2026-08-02T21:26:26+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/7/4/748adb9--.jpg"
-  },
-  {
-    "id": "de30db574f39f7f0",
-    "title": "Bubble Memory",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Bubble_memory Comments URL: https://news.ycombinator.com/item?id=49148176 Points: 6 # Comments: 0",
-    "url": "https://en.wikipedia.org/wiki/Bubble_memory",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:50:02+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bubble_memory_module.jpg"
-  },
-  {
-    "id": "47956db567a3f5b5",
-    "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-    "summary": "Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare. I built Draco to fix this.…",
-    "url": "https://github.com/0xchasercat/draco/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:48:45+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": "https://opengraph.githubassets.com/f64b56056623ad9ebe6b94d5fabcc5689c9839a649fdac6b4bd2fa4d2883b4f3/0xchasercat/draco"
-  },
-  {
-    "id": "9ad28d2ed657906e",
-    "title": "AI Mania: From Tulips to Tokens",
-    "summary": "Article URL: https://seanhelvey.com/tools-and-their-tools/ Comments URL: https://news.ycombinator.com/item?id=49148159 Points: 21 # Comments: 9",
-    "url": "https://seanhelvey.com/tools-and-their-tools/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:48:28+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": null
-  },
-  {
-    "id": "621187d0d0c04cc4",
-    "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-    "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 14 # Comments: 2",
-    "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:44:24+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": "https://linuxiac.com/wp-content/uploads/2026/08/eu-digital-identity.jpg"
-  },
-  {
-    "id": "13353e8741497a19",
-    "title": "Show HN: Make your Framework 12 sound like a creaky door",
-    "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor ( https://github.com/samhenrigold/LidAngleSensor ) but for the Framework 12 on Linux, so you can make…",
-    "url": "https://github.com/ArcaEge/creakwork12",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T20:33:01+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": "https://opengraph.githubassets.com/47b817bc3ef93862048ada045df3b4c8e10f5d2ea198889a792e1d4aef907068/ArcaEge/creakwork12"
   }
 ]
