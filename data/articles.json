@@ -1,5 +1,29 @@
 [
   {
+    "id": "0f2dda7c9a41a2bd",
+    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+    "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 11 # Comments: 8",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T21:53:43+00:00",
+    "fetched": "2026-08-16T22:26:00+00:00",
+    "image": "https://daringfireball.net/graphics/df-wide-card.png"
+  },
+  {
+    "id": "12446d6712429ed0",
+    "title": "Claude Seems Down",
+    "summary": "Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector Comments URL: https://news.ycombinator.com/item?id=49324078 Points: 32 # Comments: 17",
+    "url": "https://news.ycombinator.com/item?id=49324078",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T21:52:59+00:00",
+    "fetched": "2026-08-16T22:26:00+00:00",
+    "image": null
+  },
+  {
     "id": "887c0be76bbc2799",
     "title": "Кім Чен Ин у посланні до Путіна підтвердив поглиблення зв'язків із Росією",
     "summary": "Лідер Північної Кореї Кім Чен Ин заявив російському правителю Володимиру Путіну, що зв'язки між двома державами поглиблюються, та висловив сподівання на успішне майбутнє двосторонніх відносин.",
@@ -10,6 +34,18 @@
     "published": "2026-08-16T21:36:00+00:00",
     "fetched": "2026-08-16T21:46:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/892797/8df93e0150daf1db67b8c6bb12a1414e.jpeg"
+  },
+  {
+    "id": "639f236e7d0f62ec",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T21:32:56+00:00",
+    "fetched": "2026-08-16T22:26:00+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "d39bc91ddc0ae4d3",
@@ -60,6 +96,18 @@
     "image": null
   },
   {
+    "id": "f9cfeb11b3d9a50b",
+    "title": "Головне за неділю, 16 серпня: ракетний удар по елеватору на Сумщині, удар по пошті на Одещині, понад 180 бойових зіткнень",
+    "summary": "Бойові дії на Донеччині, 181 бойове зіткнення, ворожі обстріли, золото та срібло Таїсії Онофрійчук. Яким запам’ятається 1635-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/16/759416_golovne_nedilyu_16_serpnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T20:56:00+00:00",
+    "fetched": "2026-08-16T22:26:00+00:00",
+    "image": "https://i.lb.ua/news/065/52/6a8230fc730de.jpg"
+  },
+  {
     "id": "ba758dd13803fdc0",
     "title": "Суми під атакою ударних БпЛА, є влучання й масштабні пожежі",
     "summary": "Пізно ввечері в неділю росіяни масовано атакували Суми ударними БпЛА, є влучання в житловому секторі та по обʼєктах цивільної інфраструктури.",
@@ -106,6 +154,18 @@
     "published": "2026-08-16T20:31:16+00:00",
     "fetched": "2026-08-16T21:23:58+00:00",
     "image": null
+  },
+  {
+    "id": "a7aa57d2a69e616e",
+    "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+    "summary": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener Comments URL: https://news.ycombinator.com/item?id=49323256 Points: 3 # Comments: 0",
+    "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T20:16:30+00:00",
+    "fetched": "2026-08-16T22:26:00+00:00",
+    "image": "https://opengraph.githubassets.com/51098eac3888b99b0a95585dc1b3e4408d8eedfbe23448554b6dcd26b883e3f8/aleks-ent/pump-dump-crypto-screener"
   },
   {
     "id": "bcaf37944bdf491e",
@@ -49114,53 +49174,5 @@
     "published": "2026-08-02T22:35:35+00:00",
     "fetched": "2026-08-03T03:27:29+00:00",
     "image": null
-  },
-  {
-    "id": "7195fb47ecb0def7",
-    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-    "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: https://news.ycombinator.com/item?id=49148987 Points: 31 # Comments: 5",
-    "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T22:16:34+00:00",
-    "fetched": "2026-08-02T23:33:23+00:00",
-    "image": null
-  },
-  {
-    "id": "f693e1b0e35b7f01",
-    "title": "Show HN: Mu – Tools for Agents",
-    "summary": "Article URL: https://github.com/micro/mu Comments URL: https://news.ycombinator.com/item?id=49148899 Points: 39 # Comments: 11",
-    "url": "https://github.com/micro/mu",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T22:06:34+00:00",
-    "fetched": "2026-08-03T03:27:29+00:00",
-    "image": "https://opengraph.githubassets.com/c6f6dc9d2182eac2dd5b98553438dcfbee8b9738f2474b31158a97e09703762f/micro/mu"
-  },
-  {
-    "id": "ed4282b3cbe408c7",
-    "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-    "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven…",
-    "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T21:53:15+00:00",
-    "fetched": "2026-08-02T22:29:27+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "1d99027be37b3cda",
-    "title": "ВМС США перехопили 35 торгових суден після відновлення блокади Ірану",
-    "summary": "CENTCOM повідомило про перехоплення 35 суден, пов’язаних з Іраном, та огляди 2 з них після відновлення морської блокади.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8046953/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T21:52:00+00:00",
-    "fetched": "2026-08-02T22:29:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/885369/256d0ce9618d41f492fd2597be7f04d9.jpeg"
   }
 ]
