@@ -1,5 +1,29 @@
 [
   {
+    "id": "01cfbdff3cec975f",
+    "title": "В Оболонському районі Києва ліквідовують наслідки російського обстрілу",
+    "summary": "Пожежі, спричинені атакою, вже ліквідували.кик",
+    "url": "https://lb.ua/society/2026/08/16/759388_obolonskomu_rayoni_kiieva.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T14:46:00+00:00",
+    "fetched": "2026-08-16T14:52:00+00:00",
+    "image": "https://i.lb.ua/news/086/42/6a81cb5e0a06d.jpg"
+  },
+  {
+    "id": "f9d8f86610390d34",
+    "title": "З музею на Сицилії викрали чотири цінні картини епохи Відродження",
+    "summary": "Попередня версія правоохоронців – картини викрали на замовлення для чорного ринку артдилерів.",
+    "url": "https://lb.ua/culture/2026/08/16/759386_z_muzeyu_sitsiliyi_vikrali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T14:35:00+00:00",
+    "fetched": "2026-08-16T14:52:00+00:00",
+    "image": "https://i.lb.ua/news/031/17/6a81c9aa34185.jpg"
+  },
+  {
     "id": "54707e40f13e006d",
     "title": "Вибух у Севастополі 13 серпня: з'явилося підтвердження смерті зрадника Шагєєва",
     "summary": "Проєкт \"Книга катів\" підтвердив інформацію про смерть 13 серпня 2026 року зрадника України, колишнього командира підводного човна \"Запоріжжя\" Роберта Шагєєва.",
@@ -34,6 +58,18 @@
     "published": "2026-08-16T14:06:00+00:00",
     "fetched": "2026-08-16T14:27:11+00:00",
     "image": "https://i.lb.ua/news/044/57/6a81c3c32fad5.jpg"
+  },
+  {
+    "id": "332bc90701f1f487",
+    "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html Comments URL: https://news.ycombinator.com/item?id=49320144 Points: 7 # Comments: 4",
+    "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T13:58:17+00:00",
+    "fetched": "2026-08-16T14:52:03+00:00",
+    "image": "https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1786641499&w=1920&h=1080"
   },
   {
     "id": "db1301c33e2818a4",
@@ -369,6 +405,18 @@
     "lang": "en",
     "published": "2026-08-16T12:22:20+00:00",
     "fetched": "2026-08-16T13:34:36+00:00",
+    "image": null
+  },
+  {
+    "id": "66ff94b733a641ca",
+    "title": "A True Telnet BBS on a Casio Calculator",
+    "summary": "Article URL: https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/ Comments URL: https://news.ycombinator.com/item?id=49319349 Points: 8 # Comments: 0",
+    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T12:16:21+00:00",
+    "fetched": "2026-08-16T14:52:03+00:00",
     "image": null
   },
   {
@@ -49210,53 +49258,5 @@
     "published": "2026-08-02T15:00:00+00:00",
     "fetched": "2026-08-02T15:39:30+00:00",
     "image": "https://i.lb.ua/news/104/61/6a6f5b9a2d7c3.jpg"
-  },
-  {
-    "id": "0405ae091a4a97c4",
-    "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
-    "summary": "Article URL: https://www.ursulakleguin.com/a-rant-about-technology Comments URL: https://news.ycombinator.com/item?id=49145201 Points: 53 # Comments: 13",
-    "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T14:51:18+00:00",
-    "fetched": "2026-08-02T15:39:29+00:00",
-    "image": "http://static1.squarespace.com/static/5cad42ef90f904e520359371/t/61c1853628a5544251cbdc88/1640072502771/image-asset.jpeg?format=1500w"
-  },
-  {
-    "id": "f93a82abe35040b5",
-    "title": "Зеленський: Балістика залишається проблемою, але ми суттєво збиваємо крилаті ракети і дрони",
-    "summary": "Зеленський заявив, що балістика — проблема через нестачу ракет Patriot, але збито 90% дронів і багато крилатих ракет.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046933/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T14:45:00+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/3/885261/63ac5bc7d6c28bb18a699050cebf318a.jpeg"
-  },
-  {
-    "id": "b29088f3d45cf9b7",
-    "title": "У ЄС набули чинності нові правила щодо контенту, згенерованого ШІ",
-    "summary": "За недотримання вимог можуть бути застосовані штрафи та санкції.",
-    "url": "https://lb.ua/world/2026/08/02/756220_ies_nabuli_chinnosti_novi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T14:40:00+00:00",
-    "fetched": "2026-08-02T15:39:30+00:00",
-    "image": "https://i.lb.ua/news/081/53/6a6f570c35274.jpg"
-  },
-  {
-    "id": "5b88f4c3e3eb52fb",
-    "title": "У Молдові заявили, що Україна готова допомогти у разі надзвичайної ситуації на Дністрі",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046930/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T14:35:00+00:00",
-    "fetched": "2026-08-02T15:39:28+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/8/3/8304251----.jpg"
   }
 ]
