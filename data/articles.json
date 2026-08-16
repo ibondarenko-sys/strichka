@@ -48,6 +48,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/892788/894098d594e4774f48805da0f3826a94.jpeg"
   },
   {
+    "id": "0202f3829626beb8",
+    "title": "Protobuf has LSP support. You're welcome",
+    "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 6 # Comments: 1",
+    "url": "https://buf.build/blog/protobuf-lsp",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T18:48:27+00:00",
+    "fetched": "2026-08-16T19:45:53+00:00",
+    "image": "https://buf.build/images/cms/blog/69c3092bd98bec6b03e4d7e5_blog-protobuf-finally-has.png"
+  },
+  {
     "id": "adc8c29dd4e45779",
     "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
     "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow…",
@@ -49138,65 +49150,5 @@
     "published": "2026-08-02T19:57:00+00:00",
     "fetched": "2026-08-02T20:12:01+00:00",
     "image": "https://i.lb.ua/news/096/49/6a6fa185a96b0.jpg"
-  },
-  {
-    "id": "a5105b2590090561",
-    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-    "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 34 # Comments: 18",
-    "url": "https://frogs.vaguespac.es/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T19:42:08+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": "https://frogs.vaguespac.es/og.png"
-  },
-  {
-    "id": "cfdd2789b4eab3ae",
-    "title": "EU rules on AI models become enforceable. What's going to change?",
-    "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 10 # Comments: 2",
-    "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T19:40:19+00:00",
-    "fetched": "2026-08-02T20:12:08+00:00",
-    "image": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg"
-  },
-  {
-    "id": "59a85518969cac8c",
-    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T19:36:08+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "d24f0e44bd013ae0",
-    "title": "На фронті 172 бої за день, Покровський напрямок найактивніший – Генштаб",
-    "summary": "ЗСУ відбивають масовані атаки: 172 боєзіткнення за добу, найгарячіше на Покровському напрямку.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046948/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T19:25:00+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/885327/9a15e93ee4a188b53cf27d200e03e052.jpeg"
-  },
-  {
-    "id": "3be0b827ac58ea0a",
-    "title": "German carmakers flood jobs market with managers after wielding axe",
-    "summary": "Article URL: https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597 Comments URL: https://news.ycombinator.com/item?id=49147478 Points: 8 # Comments: 0",
-    "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T19:24:18+00:00",
-    "fetched": "2026-08-02T20:12:08+00:00",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfb4707b-814c-4520-950c-6d437a384914.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
   }
 ]
