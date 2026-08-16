@@ -1,5 +1,17 @@
 [
   {
+    "id": "e54457019adbbe61",
+    "title": "Росіяни атакували \"Нову пошту\" в Краматорську: один загиблий і шість постраждалих",
+    "summary": "Пошкоджено будівлю відділення, остаточні наслідки обстрілу уточнюються.",
+    "url": "https://lb.ua/society/2026/08/16/759396_rosiyani_atakuvali_novu_poshtu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T16:39:00+00:00",
+    "fetched": "2026-08-16T16:54:46+00:00",
+    "image": "https://i.lb.ua/news/085/57/6a81e8236471d.jpg"
+  },
+  {
     "id": "5282a4741c3efe40",
     "title": "Two dead and evacuation under way as fires break out on Greek island",
     "summary": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
@@ -49150,53 +49162,5 @@
     "published": "2026-08-02T16:58:00+00:00",
     "fetched": "2026-08-02T17:04:56+00:00",
     "image": "https://i.lb.ua/news/029/44/6a6f77962823e.jpg"
-  },
-  {
-    "id": "f5cb9316c98941fe",
-    "title": "Linux Desktop Market Share Surpasses 10% in North America",
-    "summary": "Article URL: https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/ Comments URL: https://news.ycombinator.com/item?id=49146122 Points: 68 # Comments: 41",
-    "url": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T16:50:01+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://linuxiac.com/wp-content/uploads/2026/08/linux-10-percent-north-america.jpg"
-  },
-  {
-    "id": "2d74bd74c0f03f7c",
-    "title": "У Румунії почали підривні роботи для зміни русла Дунаю, щоб забезпечити роботу АЕС",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046942/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T16:49:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/b/5bcc692--.jpg"
-  },
-  {
-    "id": "2aa3d654b3cd7d9d",
-    "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-    "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
-    "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-02T16:37:02+00:00",
-    "fetched": "2026-08-02T17:04:55+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png"
-  },
-  {
-    "id": "47c3a0ac4ea300f8",
-    "title": "Росіяни атакували Запоріжжя КАБами, є поранені",
-    "summary": "Пошкоджені багатоповерхівки, автівки, а також складські приміщення.",
-    "url": "https://lb.ua/society/2026/08/02/756232_rosiyani_atakuvali_zaporizhzhya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T16:35:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://i.lb.ua/news/060/55/6a6f7240161d3.jpg"
   }
 ]
