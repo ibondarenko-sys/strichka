@@ -1,5 +1,77 @@
 [
   {
+    "id": "ab1a6ca67015bac1",
+    "title": "На фронті відбулося 181 боєзіткнення, - Генштаб",
+    "summary": "Ворог найбільш активний на Покровському напрямку.",
+    "url": "https://lb.ua/society/2026/08/16/759408_fronti_vidbulosya_181.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T19:10:00+00:00",
+    "fetched": "2026-08-16T19:23:39+00:00",
+    "image": "https://i.lb.ua/news/114/07/6a820a7b5356b.jpg"
+  },
+  {
+    "id": "383b385f5685b674",
+    "title": "На фронті понад 180 боїв, найбільше на Покровському напрямку – Генштаб",
+    "summary": "ЗСУ відбили атаки на Покровському, Слов’янському, Куп’янському й інших напрямках за день.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048922/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T19:08:00+00:00",
+    "fetched": "2026-08-16T19:23:39+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/892789/61958e16aa1cd38649d7c2532ca04b84.jpeg"
+  },
+  {
+    "id": "e0231f1976f51ad3",
+    "title": "​Буданов: Коновальця тимчасово перепоховають на меморіальному кладовищі, а згодом - в національному пантеоні",
+    "summary": "Сьогодні в Києві відбулась панахида.",
+    "url": "https://lb.ua/society/2026/08/16/759406_budanov_konovaltsya_timchasovo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T18:55:00+00:00",
+    "fetched": "2026-08-16T19:23:39+00:00",
+    "image": "https://i.lb.ua/news/107/34/6a820878bf2e6.jpg"
+  },
+  {
+    "id": "4c7380051db5c1d0",
+    "title": "Росіяни знову вдарили по Кривому Рогу, загинула людина",
+    "summary": "Унаслідок нового удару по Кривому Рогу загинула ще одна людина, пошкоджено інфраструктуру.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048921/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T18:52:00+00:00",
+    "fetched": "2026-08-16T19:23:39+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/892788/894098d594e4774f48805da0f3826a94.jpeg"
+  },
+  {
+    "id": "adc8c29dd4e45779",
+    "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+    "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow…",
+    "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T18:44:41+00:00",
+    "fetched": "2026-08-16T19:23:39+00:00",
+    "image": "https://i.guim.co.uk/img/media/3e2ace44178f44321232918e4c929d66067c6ce5/0_0_2585_2068/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=e8b9a4556c48e5e7b511fd2217fb0080"
+  },
+  {
+    "id": "519f2391d1c54db9",
+    "title": "MathCode, Mathematical Coding Agent",
+    "summary": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 10 # Comments: 1",
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T18:17:10+00:00",
+    "fetched": "2026-08-16T19:23:40+00:00",
+    "image": null
+  },
+  {
     "id": "2705167120867af2",
     "title": "На Сицилії викрали з музею відомі полотна доби Ренесансу",
     "summary": "",
@@ -46,6 +118,18 @@
     "published": "2026-08-16T17:50:00+00:00",
     "fetched": "2026-08-16T18:34:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/4/892747/f454fe7f8a53e214bf03b65a09fec3d0.jpeg"
+  },
+  {
+    "id": "35ab455a61346f89",
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "summary": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the…",
+    "url": "https://news.ycombinator.com/item?id=49322107",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T17:49:46+00:00",
+    "fetched": "2026-08-16T19:23:40+00:00",
+    "image": null
   },
   {
     "id": "c05a50c809bd67b4",
@@ -49114,77 +49198,5 @@
     "published": "2026-08-02T19:24:18+00:00",
     "fetched": "2026-08-02T20:12:08+00:00",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfb4707b-814c-4520-950c-6d437a384914.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
-  },
-  {
-    "id": "c0dd1e1ec9df2c88",
-    "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
-    "summary": "Article URL: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/ Comments URL: https://news.ycombinator.com/item?id=49147450 Points: 6 # Comments: 1",
-    "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T19:20:50+00:00",
-    "fetched": "2026-08-02T20:12:08+00:00",
-    "image": "https://cleantechnica.com/wp-content/uploads/2026/08/Europe-EV-Sales-Report-June.png"
-  },
-  {
-    "id": "5f94126009a8e0a2",
-    "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-    "summary": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 12 # Comments: 1",
-    "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T19:19:24+00:00",
-    "fetched": "2026-08-02T20:12:08+00:00",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fff2a5872-576c-418a-937c-aaf24d9bc51a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
-  },
-  {
-    "id": "bf9e86c3b8d4be33",
-    "title": "На фронті відбулося 172 боєзіткнення, - Генштаб",
-    "summary": "26 атак ворог здійснив на Покровському напрямку.",
-    "url": "https://lb.ua/society/2026/08/02/756244_fronti_vidbulosya_172.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T19:14:00+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://i.lb.ua/news/111/26/6a6f95ac99d58.jpg"
-  },
-  {
-    "id": "15f784293a150943",
-    "title": "За 7 місяців Росія зруйнувала 37 автозаправок групи \"Нафтогаз\"",
-    "summary": "Загалом від початку російської агресії у 2014 році державна мережа UKRNAFTA втратила 123 АЗК.",
-    "url": "https://lb.ua/society/2026/08/02/756242_7_misyatsiv_rosiya_zruynuvala_37.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T19:04:00+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://i.lb.ua/news/115/58/6a6f94b275e79.jpg"
-  },
-  {
-    "id": "95d808943fdd652d",
-    "title": "SwiftUI After 7 Years: A Story of Mediocrity",
-    "summary": "Article URL: https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/ Comments URL: https://news.ycombinator.com/item?id=49147263 Points: 79 # Comments: 42",
-    "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T18:59:05+00:00",
-    "fetched": "2026-08-02T20:12:08+00:00",
-    "image": null
-  },
-  {
-    "id": "8c2bd48684e1ebb6",
-    "title": "DeepState: У липні окупанти захопили більше території, ніж звільнили Сили оборони",
-    "summary": "У липні росія окупувала більше, ніж ЗСУ звільнили. Приріст ворога — 36 кв км, але успіхи оборони фіксують. Оновлено оцінки DeepState.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046947/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T18:58:00+00:00",
-    "fetched": "2026-08-02T20:12:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/7/885326/07e21ad2bcfd6cefb5a9a93cd70b4355.jpeg"
   }
 ]
