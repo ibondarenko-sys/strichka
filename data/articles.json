@@ -1,5 +1,77 @@
 [
   {
+    "id": "dadb58a099838fb5",
+    "title": "РФ атакували Херсона та Інгулець, є постраждалі",
+    "summary": "Дві жінки отримують медичну допомогу.",
+    "url": "https://lb.ua/society/2026/08/16/759360_rf_atakuvali_hersona_ingulets_ie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T11:36:00+00:00",
+    "fetched": "2026-08-16T11:47:20+00:00",
+    "image": "https://i.lb.ua/news/093/51/6a81a0bb54f8c.jpg"
+  },
+  {
+    "id": "2df5fb95cbeb2aea",
+    "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+    "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+    "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T11:35:25+00:00",
+    "fetched": "2026-08-16T11:47:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "id": "ea23aca9ba9286db",
+    "title": "Литва не розглядає можливість виходу з МКС на тлі застережень США",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048885/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T11:35:00+00:00",
+    "fetched": "2026-08-16T11:47:20+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/e/6e54741-2464059-780257-1287x836.jpg"
+  },
+  {
+    "id": "939a643f3edf792a",
+    "title": "ЦПД: у Росії навчальні заклади закріплюють за військовими частинами",
+    "summary": "З 1 вересня для учнів 8–11 класів планують запровадити",
+    "url": "https://lb.ua/society/2026/08/16/759356_tspd_rosiyi_navchalni_zakladi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T11:35:00+00:00",
+    "fetched": "2026-08-16T11:47:20+00:00",
+    "image": "https://i.lb.ua/news/023/53/6a819bfe63825.jpg"
+  },
+  {
+    "id": "0f42edc04fe79f73",
+    "title": "ЗМІ: у Бельгії масштабна лісова пожежа охопила понад 3000 гектарів",
+    "summary": "Цю пожежу назвали найбільшою в сучасній історії Бельгії.",
+    "url": "https://lb.ua/world/2026/08/16/759350_zmi_belgiyi_masshtabna_lisova.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T11:26:00+00:00",
+    "fetched": "2026-08-16T11:47:20+00:00",
+    "image": "https://i.lb.ua/news/024/33/6a819984218d1.jpg"
+  },
+  {
+    "id": "3f3b274985e8639d",
+    "title": "В Іспанії через повінь і зсуви загинули дві жінки",
+    "summary": "Двоє немовлят отримали поранення.ісіс",
+    "url": "https://lb.ua/world/2026/08/16/759354_ispaniyi_cherez_povin_zsuvi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T11:20:00+00:00",
+    "fetched": "2026-08-16T11:47:20+00:00",
+    "image": "https://i.lb.ua/news/066/22/6a819e25e7975.jpg"
+  },
+  {
     "id": "e883f7158cb6f03b",
     "title": "\"Сі Бриз-2026\": український штаб уперше керував кораблями НАТО під час протимінних операцій",
     "summary": "Фактично українські військові отримали можливість самостійно керувати операцією.",
@@ -310,6 +382,18 @@
     "published": "2026-08-16T08:44:00+00:00",
     "fetched": "2026-08-16T09:31:05+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/3/b/3bf2b21-f.elconfidencial.com-original-eaa-206-0a3-eaa2060a322b9808042b36294caf10fc.jpg"
+  },
+  {
+    "id": "4ea8432c890c27af",
+    "title": "Show HN: Grafana agent observability for Hermes Agent",
+    "summary": "Article URL: https://github.com/alexander-akhmetov/grafana-agento11y-hermes Comments URL: https://news.ycombinator.com/item?id=49318128 Points: 3 # Comments: 0",
+    "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T08:40:50+00:00",
+    "fetched": "2026-08-16T11:47:27+00:00",
+    "image": "https://opengraph.githubassets.com/7d32ec163b2ce99928f6297cb5406a2cc15ee5c88369829dc9bb1bd4cccb5f02/alexander-akhmetov/grafana-agento11y-hermes"
   },
   {
     "id": "7b35f9f5408cec52",
@@ -49018,101 +49102,5 @@
     "published": "2026-08-02T12:00:00+00:00",
     "fetched": "2026-08-02T12:05:47+00:00",
     "image": "https://i.lb.ua/news/078/04/6a6f2f59a0202.jpg"
-  },
-  {
-    "id": "9e4bf22b4cfbd656",
-    "title": "Латвія почне вдвічі частіше приймати на лікування поранених українських військових",
-    "summary": "До лікування пацієнтів з України залучені медики різних спеціальностей.",
-    "url": "https://lb.ua/world/2026/08/02/756192_latviya_pochne_vdvichi_chastishe.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T11:46:00+00:00",
-    "fetched": "2026-08-02T12:05:47+00:00",
-    "image": "https://i.lb.ua/news/120/27/6a6f2e0687175.jpg"
-  },
-  {
-    "id": "c7a59c6e38120bf2",
-    "title": "Росіяни атакували FPV-дроном цивільного у Херсоні",
-    "summary": "Чоловік зазнав травм.",
-    "url": "https://lb.ua/society/2026/08/02/756190_rosiyani_atakuvali_fpv-dronom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T11:42:00+00:00",
-    "fetched": "2026-08-02T12:05:47+00:00",
-    "image": "https://i.lb.ua/news/103/61/6a6f2afb05d54.jpg"
-  },
-  {
-    "id": "71eaf5099df40583",
-    "title": "У Вроцлаві українець напав на польку з ножем",
-    "summary": "У польському місті Вроцлав 18-річний українець напав на громадянку Польщі, його затримали правоохоронці.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046912/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T11:40:00+00:00",
-    "fetched": "2026-08-02T12:05:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/885196/a23041fb33d6c5914c8c033cd54ec76d.jpeg"
-  },
-  {
-    "id": "0e59db95700424bb",
-    "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-    "summary": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 80 # Comments: 10",
-    "url": "https://meshdiff.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T11:34:41+00:00",
-    "fetched": "2026-08-02T14:09:21+00:00",
-    "image": "https://meshdiff.com/og-image.png"
-  },
-  {
-    "id": "abbbad41df37c5de",
-    "title": "Бійці ДПСУ зупинили спробу прориву росіян на Харківщині",
-    "summary": "Українські бійці знищили сім штурмових груп.",
-    "url": "https://lb.ua/society/2026/08/02/756188_biytsi_dpsu_zupinili_sprobu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T11:30:00+00:00",
-    "fetched": "2026-08-02T12:05:47+00:00",
-    "image": "https://i.lb.ua/news/045/13/6a6f26c94da89.jpg"
-  },
-  {
-    "id": "086d0e813990c88d",
-    "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes Comments URL: https://news.ycombinator.com/item?id=49143414 Points: 8 # Comments: 0",
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T11:24:20+00:00",
-    "fetched": "2026-08-02T12:05:47+00:00",
-    "image": null
-  },
-  {
-    "id": "c886eb6f71cd5234",
-    "title": "Іспанія: 73,5 тисячі мігрантів вже покинули Сеуту",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046910/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T11:24:00+00:00",
-    "fetched": "2026-08-02T12:05:46+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/7/579e659-ceuta-marruecos-autobuses--1-.jpg"
-  },
-  {
-    "id": "4423410040aa5ed4",
-    "title": "Show HN: Fuse – statically typed functional programming language",
-    "summary": "Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code. Fuse supports ADTs, Generics,…",
-    "url": "https://fuselang.org",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T11:23:56+00:00",
-    "fetched": "2026-08-02T14:09:21+00:00",
-    "image": null
   }
 ]
