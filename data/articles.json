@@ -1,5 +1,41 @@
 [
   {
+    "id": "5282a4741c3efe40",
+    "title": "Two dead and evacuation under way as fires break out on Greek island",
+    "summary": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+    "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T16:14:26+00:00",
+    "fetched": "2026-08-16T16:30:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg"
+  },
+  {
+    "id": "7c4ab7bcc3241a9c",
+    "title": "ЗМІ: Спецпосланець Трампа проведе переговори з лідером ХАМАС",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048908/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T16:06:00+00:00",
+    "fetched": "2026-08-16T16:30:03+00:00",
+    "image": null
+  },
+  {
+    "id": "45f13c4c0803c0e5",
+    "title": "ВМС США можуть змінити конструкцію авіаносців на прохання Трампа, - The Washington Post",
+    "summary": "Президент США вважає за краще, щоб нові авіаносці \"більше нагадували\" кораблі часів Другої світової війни.",
+    "url": "https://lb.ua/world/2026/08/16/759394_vms_ssha_mozhut_zminiti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T15:55:00+00:00",
+    "fetched": "2026-08-16T16:30:03+00:00",
+    "image": "https://i.lb.ua/news/007/24/6a81df660b02d.jpg"
+  },
+  {
     "id": "85a0366bbbe0ccd0",
     "title": "У Донецьку після удару БпЛА згорів ТЦ \"Галактика\" – росЗМІ",
     "summary": "У Донецьку згорів ТЦ \"Галактика\" через атаку дронами, стверджують росЗМІ. Опубліковано відео наслідків.",
@@ -12,6 +48,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/892692/38f0b2711db1f4f0035e3aa559e641db.jpeg"
   },
   {
+    "id": "139ab800a3dd205a",
+    "title": "The weekend is 100 years old",
+    "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 33 # Comments: 6",
+    "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T15:30:15+00:00",
+    "fetched": "2026-08-16T16:30:10+00:00",
+    "image": "https://i.guim.co.uk/img/media/46f90b7d7ffb12ee9deb1ede591298c3fa6893e8/0_1121_4847_3877/master/4847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c84ae6108d8b897afdc4c2a8bc503568"
+  },
+  {
     "id": "cb901bc49a92e47f",
     "title": "В Ірані стратили чоловіка, якого звинуватили в наїзді на поліцію під час січневих протестів",
     "summary": "Шахрам Садегі нібито проводив “оперативні дії” від імені Ізраїлю та Сполучених Штатів.",
@@ -22,6 +70,18 @@
     "published": "2026-08-16T15:30:00+00:00",
     "fetched": "2026-08-16T15:48:49+00:00",
     "image": "https://i.lb.ua/news/000/38/6a81d76fdccb6.jpg"
+  },
+  {
+    "id": "be8a8f32c64e0e89",
+    "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+    "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 30 # Comments: 15",
+    "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T15:16:06+00:00",
+    "fetched": "2026-08-16T16:30:10+00:00",
+    "image": "https://ewscripps.brightspotcdn.com/dims4/default/36c335b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F01%2F44%2Ff13fd08c4b2fa4e87daa750b46c7%2Ffpl.jpg"
   },
   {
     "id": "85d2df85f56e8178",
@@ -46,6 +106,18 @@
     "published": "2026-08-16T14:56:40+00:00",
     "fetched": "2026-08-16T15:26:08+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7575bdfbfcdb3fbf",
+    "title": "GPS and the Lost Art of Getting Lost",
+    "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 10 # Comments: 7",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T14:53:14+00:00",
+    "fetched": "2026-08-16T16:30:10+00:00",
+    "image": "https://media.newyorker.com/photos/6a738d140ec867995d3634da/16:9/w_1280,c_limit/gps-final-new-new2.jpg"
   },
   {
     "id": "01cfbdff3cec975f",
@@ -49126,89 +49198,5 @@
     "published": "2026-08-02T16:35:00+00:00",
     "fetched": "2026-08-02T17:04:56+00:00",
     "image": "https://i.lb.ua/news/060/55/6a6f7240161d3.jpg"
-  },
-  {
-    "id": "e489345f58579928",
-    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "summary": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 46 # Comments: 20",
-    "url": "https://github.com/wie-project/kakehashi",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T16:26:40+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://opengraph.githubassets.com/3fa0b2a427a56530ca179371b5d6330bb49186adcb6e3b6d148ad8f9ce1fd331/wie-project/kakehashi"
-  },
-  {
-    "id": "85139c684646dd71",
-    "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-    "summary": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Comments URL: https://news.ycombinator.com/item?id=49145883 Points: 26 # Comments: 1",
-    "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T16:19:17+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": null
-  },
-  {
-    "id": "f9685075ff1c15e2",
-    "title": "На Дніпропетровщині росіяни вбили двох і поранили трьох людей",
-    "summary": "На Дніпропетровщині через атаки РФ у неділю загинуло двоє людей, ще троє дістали поранень.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046940/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T16:18:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/885276/9c5dc13a3150c65e8ab1517c90df778d.jpeg"
-  },
-  {
-    "id": "f16b337de557b2e4",
-    "title": "У понеділок відключень світла не прогнозується, - Укренерго",
-    "summary": "Споживачів закликають перенести користування потужними електроприладами на денний час.",
-    "url": "https://lb.ua/society/2026/08/02/756230_ponedilok_vidklyuchen_svitla.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T16:15:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://i.lb.ua/news/067/61/6a6f6d51c2ef5.jpg"
-  },
-  {
-    "id": "34612b31e5afd2cc",
-    "title": "Xbox prices are increasing by up to €200 or £170",
-    "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc…",
-    "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T16:14:20+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "5360c585bb9175c4",
-    "title": "Після атаки по Полтавщині стався витік небезпечної речовини – ДСНС",
-    "summary": "У Полтавській області ліквідували небезпечний витік хімічної речовини після ворожого обстрілу.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046939/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T16:07:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/885275/5facd7bb40bdf4061ca5413be52d1916.jpeg"
-  },
-  {
-    "id": "aad4907299e57152",
-    "title": "Прикордонники на Чернігівщині збили ворожий дрон на рекордній висоті 6 858 метрів",
-    "summary": "На північному напрямку прикордонники збили ворожий розвідувальний дрон ZALA Z-20 на рекордній для цього напрямку висоті 6 858 метрів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046937/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T15:56:00+00:00",
-    "fetched": "2026-08-02T17:04:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/885273/7bb8f868069f66b6a7929d9e3337e4ab.jpeg"
   }
 ]
