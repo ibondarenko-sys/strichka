@@ -1,5 +1,29 @@
 [
   {
+    "id": "ba758dd13803fdc0",
+    "title": "Суми під атакою ударних БпЛА, є влучання й масштабні пожежі",
+    "summary": "Пізно ввечері в неділю росіяни масовано атакували Суми ударними БпЛА, є влучання в житловому секторі та по обʼєктах цивільної інфраструктури.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048926/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T20:49:00+00:00",
+    "fetched": "2026-08-16T21:23:58+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/5/892796/7512547308e6a43c27d0e65ee5b8f492.jpeg"
+  },
+  {
+    "id": "f429ee651fe578b5",
+    "title": "The Case Against Formal Verification, 50 Years Later",
+    "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 22 # Comments: 9",
+    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T20:38:58+00:00",
+    "fetched": "2026-08-16T21:23:58+00:00",
+    "image": "https://ivan-gavran.github.io/assets/images/forall.png"
+  },
+  {
     "id": "3fb6eff03cfb0ae8",
     "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
     "summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for…",
@@ -10,6 +34,18 @@
     "published": "2026-08-16T20:31:37+00:00",
     "fetched": "2026-08-16T20:51:07+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "46d4c1f7a6184ea2",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 19 # Comments: 9",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T20:31:16+00:00",
+    "fetched": "2026-08-16T21:23:58+00:00",
+    "image": null
   },
   {
     "id": "bcaf37944bdf491e",
@@ -34,6 +70,18 @@
     "published": "2026-08-16T20:10:00+00:00",
     "fetched": "2026-08-16T20:27:30+00:00",
     "image": "https://i.lb.ua/news/099/40/6a8217d1b5a1d.jpg"
+  },
+  {
+    "id": "57d4f7fbeaceb7bb",
+    "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+    "summary": "Article URL: https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/ Comments URL: https://news.ycombinator.com/item?id=49323157 Points: 68 # Comments: 31",
+    "url": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T20:05:24+00:00",
+    "fetched": "2026-08-16T21:23:58+00:00",
+    "image": "https://theintercept.com/wp-content/uploads/2026/08/AP26147735990907-e1786728699893.jpg?fit=8192%2C4096&w=1200&h=800"
   },
   {
     "id": "c728f08a8e4ed752",
@@ -49066,29 +49114,5 @@
     "published": "2026-08-02T21:30:04+00:00",
     "fetched": "2026-08-02T23:33:23+00:00",
     "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQU9Ih4J8oDgrJqyV1G8PV4JMnNADnTAoJPZ2t2N_kLFHdQnwBwFHkXyWYfw1Lsiqumo4uh9l-KCtLHr36lM155UI3Rw-7NBYAYvrEYEuyofKH2cNJxDAI5VjPMy7yqC0fnS2TKNBuMhb3xngmaPcUURpUbN897Qcif2iGV7nkXCRGZgC5t8m4cWEn3oa1XJzD6TFqSRPIAYRMncRqqvpZE"
-  },
-  {
-    "id": "e75b9be04aac7307",
-    "title": "Головне за неділю, 2 серпня: понад 170 бойових зіткнень, стрілянина в Одесі, удар ФАБ-250 по Слов'янську",
-    "summary": "Бойові дії на Донеччині, 172 бойових зіткнення, ворожі обстріли, новий дизайн євробанкнот. Яким запам’ятається 1621-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/08/02/756252_golovne_nedilyu_2_serpnya_ponad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T20:58:00+00:00",
-    "fetched": "2026-08-02T21:26:27+00:00",
-    "image": "https://i.lb.ua/news/121/31/6a6fb1fd80f31.jpg"
-  },
-  {
-    "id": "86b5360d6db2e6ef",
-    "title": "Внаслідок зіткнення пожежних гелікоптерів у Греції загинули двоє людей",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046952/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T20:54:00+00:00",
-    "fetched": "2026-08-02T21:26:26+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/4/748adb9--.jpg"
   }
 ]
