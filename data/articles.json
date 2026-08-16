@@ -1,5 +1,53 @@
 [
   {
+    "id": "2952c5c39312de9c",
+    "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+    "summary": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99…",
+    "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T03:00:00+00:00",
+    "fetched": "2026-08-16T03:04:19+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "17a548c43cbd2190",
+    "title": "ЗСУ – котики, а от ТЦК – це зло. Як поєднується несумісне в головах тих, хто нападає на військових",
+    "summary": "Попри воєнний стан у країні, влітку 2026-го активність вулиці традиційно зросла. Іноді це відбувається в межах законодавства, як-от чергові \"картонкові протести\". Іноді натовп криміналізується – як 8 липня під час нападу на військових ТЦК та СП у Львові.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/16/8048834/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T02:30:00+00:00",
+    "fetched": "2026-08-16T03:04:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/892381/87e93a2ceb85add6f0a7982f9664861f.jpeg"
+  },
+  {
+    "id": "f6facdfcfda059fd",
+    "title": "У ключовому держбанку Кремля спрогнозували поразку Росії у \"війні на виснаження\" з Україною",
+    "summary": "Головний економіст ключового російського державного банку \"Внєшекономбанк\" (ВЕБ) Андрій Клепач заявив, що Росія не зможе виграти у \"війні на виснаження\" проти України, яку підтримує Захід, і неминуче наближається до масштабної соціальної кризи.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048854/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T02:16:00+00:00",
+    "fetched": "2026-08-16T03:04:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/892435/73c293e448c8a4a18e9740fa6d4e329f.jpeg"
+  },
+  {
+    "id": "03a14d297358c2a3",
+    "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+    "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 17 # Comments: 10",
+    "url": "https://www.micdrop.gg/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T00:46:29+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
+    "image": "https://www.micdrop.gg/static/og.png?v=2"
+  },
+  {
     "id": "2d31c34ef592ef2d",
     "title": "Окупанти вдарили балістикою по промислових об'єктах Кривого Рогу: є поранений – ОВА",
     "summary": "У ніч на 16 серпня росіяни здійснили комбіновану атаку балістичними ракетами та БпЛА на Кривий Ріг. Унаслідок атаки одна людина дістала поранення, спалахнула пожежа.",
@@ -10,6 +58,18 @@
     "published": "2026-08-16T00:45:00+00:00",
     "fetched": "2026-08-16T01:39:11+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/1/892433/8122fd4a1c815aeee1e7918f805565b2.jpeg"
+  },
+  {
+    "id": "aa1bd4c71d6cc3ed",
+    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+    "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 8 # Comments: 2",
+    "url": "https://waku.sh",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T00:38:44+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
+    "image": "https://waku.sh/og-icon.png"
   },
   {
     "id": "f7b358b491197ba9",
@@ -46,6 +106,18 @@
     "published": "2026-08-16T00:22:20+00:00",
     "fetched": "2026-08-16T01:39:12+00:00",
     "image": "https://aicharts.grok.me/og/market-share.png"
+  },
+  {
+    "id": "4ab1206cb2718d80",
+    "title": "Big Pickle on SWE Atlas – Codebase QnA",
+    "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 4 # Comments: 0",
+    "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T00:10:48+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
+    "image": "https://opengraph.githubassets.com/71480c36c3fe3730c3857f2c0ebd5b82dd9641dcc35110445e5f64c96b3e6a4d/PhillipChaffee/big-pickle-swe-atlas"
   },
   {
     "id": "9cb5ef64aa3d7065",
@@ -96,6 +168,30 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/892429/c439c42fc7cab8ed9506a9fd57484e5c.jpeg"
   },
   {
+    "id": "c0f7e00d500a39b3",
+    "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+    "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind Comments URL: https://news.ycombinator.com/item?id=49315065 Points: 7 # Comments: 0",
+    "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:55:50+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
+    "image": "https://www.colorado.edu/today/sites/default/files/2026-08/Plume_overlay.png"
+  },
+  {
+    "id": "c21a3b4fa6230a35",
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 8 # Comments: 1",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:41:51+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
     "id": "1daf2b427c070de3",
     "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
     "summary": "Article URL: https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=49314962 Points: 19 # Comments: 2",
@@ -106,6 +202,18 @@
     "published": "2026-08-15T22:40:20+00:00",
     "fetched": "2026-08-15T23:24:09+00:00",
     "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/404-Media-5101-Santa-Monica-Blvd-Ste-8-PMB1405-Los-Angeles--CA-90029.jpg"
+  },
+  {
+    "id": "c17be638bf7eae5a",
+    "title": "Software Engineering fundamentals matter more",
+    "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?id=49314902 Points: 11 # Comments: 0",
+    "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:31:09+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
+    "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
   },
   {
     "id": "d4348ee93f245c83",
@@ -141,6 +249,18 @@
     "lang": "en",
     "published": "2026-08-15T22:15:33+00:00",
     "fetched": "2026-08-15T22:50:35+00:00",
+    "image": null
+  },
+  {
+    "id": "1a733465ef3398e2",
+    "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
+    "summary": "Article URL: https://bribes.fyi/compare Comments URL: https://news.ycombinator.com/item?id=49314765 Points: 10 # Comments: 1",
+    "url": "https://bribes.fyi/compare",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-15T22:11:16+00:00",
+    "fetched": "2026-08-16T03:04:20+00:00",
     "image": null
   },
   {
@@ -49126,113 +49246,5 @@
     "published": "2026-08-02T03:05:16+00:00",
     "fetched": "2026-08-02T03:26:42+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg"
-  },
-  {
-    "id": "b7838775a0e4ce35",
-    "title": "Plug-in solar is coming. Plug-in batteries should follow",
-    "summary": "Article URL: https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow Comments URL: https://news.ycombinator.com/item?id=49140633 Points: 82 # Comments: 86",
-    "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T02:57:51+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://cdn.prod.website-files.com/6798bfee7da7f37163ec22fb/6a0432ecfdc401c3a9b32c71_Plug-in%20batteries%20(1).jpg"
-  },
-  {
-    "id": "da7036e0be69a9d4",
-    "title": "Дрони атакували НПЗ в російському Саратові та аеродром в Енгельсі",
-    "summary": "Вночі дрони пошкодили нафтозавод у Саратові та авіабазу в Енгельсі. Підтверджені вибухи та пожежі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046879/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T02:52:00+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/885096/0eb2598cc2e9d49c90ddb3a2d3335856.jpeg"
-  },
-  {
-    "id": "07fe7fa51ea8806a",
-    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-    "summary": "Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 29 # Comments: 11",
-    "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T02:51:15+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": null
-  },
-  {
-    "id": "f4e45fdee35df20d",
-    "title": "Анатомія армії",
-    "summary": "Армія – це, можливо, найкращий спосіб познайомитися з країною.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/02/8046703/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T02:30:00+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/885061/862af8316e9e1231018ae10692a55bad.jpeg"
-  },
-  {
-    "id": "d04907a01ed6785b",
-    "title": "Росія завдала ударів дронами по Харкову: постраждали двоє дітей та чоловік",
-    "summary": "Внаслідок удару дронів РФ по Харкову постраждали двоє дітей та 74-річний чоловік, медики надали допомогу.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046878/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T02:28:00+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/9/885095/49b2b1c18a15ddf0a03d1086709a4731.jpeg"
-  },
-  {
-    "id": "3176c101aeca1728",
-    "title": "Four Time Scales for Technology Development and Deployment",
-    "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/ Comments URL: https://news.ycombinator.com/item?id=49140487 Points: 8 # Comments: 0",
-    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T02:26:52+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": null
-  },
-  {
-    "id": "53d6cdb16653afeb",
-    "title": "When random.bytes() runs but doesn't work",
-    "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 3 # Comments: 0",
-    "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T02:08:26+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!BDET!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8c90d04-92b6-4b71-9826-4f752f690009_1024x1024.png"
-  },
-  {
-    "id": "407ad45120f692f4",
-    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-    "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 27 # Comments: 6",
-    "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T02:07:09+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1273630842/ba5b1ec0-8a28-46a3-8cf1-5c6983b3c336?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T032644Z&X-Amz-Expires=300&X-Amz-Signature=594d91bd32e07b32815c1c469afa18e86bad339a5d44b7793de527619ce59692&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY0MTUwNCwibmJmIjoxNzg1NjQxMjA0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.8I2t5yooTrYauNOvAwvGOamYX_crYtDYVYdCGk98nms"
-  },
-  {
-    "id": "e0972fda1f678f5e",
-    "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-    "summary": "Article URL: https://costperprompt.com/ Comments URL: https://news.ycombinator.com/item?id=49140340 Points: 3 # Comments: 0",
-    "url": "https://costperprompt.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T01:56:44+00:00",
-    "fetched": "2026-08-02T03:26:43+00:00",
-    "image": null
   }
 ]
