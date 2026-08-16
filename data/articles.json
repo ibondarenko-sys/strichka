@@ -1,5 +1,101 @@
 [
   {
+    "id": "7d3809ad0ac147e3",
+    "title": "Російські дрони атакували Київщину: постраждали троє людей, серед них дитина",
+    "summary": "У Броварському районі пошкоджено житловий будинок.",
+    "url": "https://lb.ua/society/2026/08/16/759278_rosiyski_droni_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:49:00+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://i.lb.ua/news/072/21/6a814e4ca1b46.jpg"
+  },
+  {
+    "id": "880d239b18b2f2bb",
+    "title": "У Франції розслідують кібератаку, яка спричинила витік даних майже 700 тисяч осіб",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048859/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:35:00+00:00",
+    "fetched": "2026-08-16T05:55:04+00:00",
+    "image": null
+  },
+  {
+    "id": "795c5aff9bc20086",
+    "title": "РФ уночі атакувала Україну \"Оніксами\", балістикою, керованими ракетами та ударними дронами",
+    "summary": "ППО збила три із ракети Х-59/69 та 85 ворожих БпЛА.",
+    "url": "https://lb.ua/society/2026/08/16/759272_rf_unochi_atakuvala_ukrayinu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:33:00+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://i.lb.ua/news/039/47/6a814bb0bcbaf.jpg"
+  },
+  {
+    "id": "71f32ddf1ec34712",
+    "title": "Я і ми. Куди зникає відчуття спільної долі під час війни",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048837/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:30:00+00:00",
+    "fetched": "2026-08-16T05:55:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/c/892382/6c2b1c252b6f64ed6ef879fb5229aac1.jpeg?w=1200&q=85&stamp=1786817851"
+  },
+  {
+    "id": "f76de020f992b201",
+    "title": "Росія атакувала ракетами та дронами: є влучання та падіння на 16 локаціях – ПС",
+    "summary": "Нічна атака 16 серпня: обстріли Києва, Кременчука й Кривого Рогу, понад 100 дронів, є постраждалі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048858/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:22:00+00:00",
+    "fetched": "2026-08-16T05:55:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/892453/88b192ba9605c81c45a44196d2aed59b.jpeg"
+  },
+  {
+    "id": "2e339e0efde2e960",
+    "title": "Генштаб: за добу на фронті зафіксовано 212 бойових зіткнень",
+    "summary": "На Костянтинівському напрямку зафіксовано 28 атак, на Покровському – 34.",
+    "url": "https://lb.ua/society/2026/08/16/759270_genshtab_dobu_fronti_zafiksovano.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:17:00+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://i.lb.ua/news/088/36/6a8147e927b9f.jpg"
+  },
+  {
+    "id": "977051d5f626d89b",
+    "title": "У Московській області РФ палають великі логістичні центри Wildberries і Північне Домодєдово",
+    "summary": "У Росії заявляють, що в напрямку Московської області летіло 600 дронів, а 201 безпілотник нібито було знищено.",
+    "url": "https://lb.ua/society/2026/08/16/759268_moskovskiy_oblasti_rf_palayut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:10:00+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://i.lb.ua/news/055/50/6a81464b46384.jpg"
+  },
+  {
+    "id": "03e8f2963c7d7373",
+    "title": "Окупанти атакували Запорізький район: є загиблі та поранена",
+    "summary": "Армія РФ скинула авіабомби на Вікторівку та Михайлівське.",
+    "url": "https://lb.ua/society/2026/08/16/759266_okupanti_atakuvali_zaporizkiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T05:00:00+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://i.lb.ua/news/003/45/6a81439c66164.jpg"
+  },
+  {
     "id": "3817d1a22b03ce63",
     "title": "Росіяни скинули авіабомби на Запорізький район: двоє загиблих, є поранений",
     "summary": "Вночі 16 серпня російські війська скинули авіабомби на житлові будинки в Запорізькому районі, внаслідок чого загинули двоє людей, ще один чоловік дістав поранення.",
@@ -60,6 +156,18 @@
     "image": "https://breck.lol/plMakers.jpg"
   },
   {
+    "id": "e6c6cdb5007cb302",
+    "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+    "summary": "Article URL: https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/ Comments URL: https://news.ycombinator.com/item?id=49316815 Points: 11 # Comments: 1",
+    "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T04:07:18+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://forkast.news/wp-content/uploads/2026/08/mcp-dev-summit-seoul-preview-1024x572.jpg"
+  },
+  {
     "id": "02cedfeaf3fed72d",
     "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
     "summary": "Article URL: https://koutian.is-a.dev/benchmark-radar/?view=leaderboard Comments URL: https://news.ycombinator.com/item?id=49316791 Points: 7 # Comments: 7",
@@ -84,6 +192,18 @@
     "image": "https://i.guim.co.uk/img/media/aca4dd6638a05970708b16f50e03c02d5f22cb72/178_0_1332_1066/master/1332.jpg?width=140&quality=85&auto=format&fit=max&s=f35217b01983cbbadd74da7475cdb090"
   },
   {
+    "id": "0cce96fd59f31b2c",
+    "title": "Targeted marine cloud brightening weakens subsequent El Niño",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.adx3012 Comments URL: https://news.ycombinator.com/item?id=49316685 Points: 7 # Comments: 0",
+    "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T03:40:05+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": null
+  },
+  {
     "id": "614e3e0655b424e7",
     "title": "За добу ЗСУ відмінусували ще 1510 росіян та майже 600 одиниць техніки окупантів – Генштаб",
     "summary": "За минулу добу Сили оборони України вбили та поранили 1 510 російських окупантів, загальні втрати ворога у війні склали 1 467 320 осіб.",
@@ -106,6 +226,18 @@
     "published": "2026-08-16T03:23:34+00:00",
     "fetched": "2026-08-16T04:08:37+00:00",
     "image": null
+  },
+  {
+    "id": "78464e78aa4b7e8b",
+    "title": "ProofRun – a local verification receipt for AI coding agents",
+    "summary": "Article URL: https://github.com/yebiguo/ProofRun Comments URL: https://news.ycombinator.com/item?id=49316605 Points: 5 # Comments: 0",
+    "url": "https://github.com/yebiguo/ProofRun",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T03:22:15+00:00",
+    "fetched": "2026-08-16T05:55:05+00:00",
+    "image": "https://opengraph.githubassets.com/8d46374fbf6249a2c321e4ee4fc2395c7c434c85b62b94471b3aa55c4d8f6602/yebiguo/ProofRun"
   },
   {
     "id": "ef2187f97b485479",
@@ -49162,89 +49294,5 @@
     "published": "2026-08-02T05:59:00+00:00",
     "fetched": "2026-08-02T06:18:12+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/885110/34cfa1139575ceb35b43b11caeb255de.jpeg"
-  },
-  {
-    "id": "6fa775210f4e0d39",
-    "title": "На Запоріжжі через російський терор загинула людина, ще одна поранена",
-    "summary": "За добу окупанти завдали 954 удари по 54 населених пунктах Запорізької області.",
-    "url": "https://lb.ua/society/2026/08/02/756120_zaporizhzhi_cherez_rosiyskiy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:55:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://i.lb.ua/news/020/39/6a6edbc783abf.jpg"
-  },
-  {
-    "id": "add5338e222308cc",
-    "title": "На Дніпропетровщині через атаку РФ постраждали семеро людей",
-    "summary": "Ворог 10 разів атакував два райони області.",
-    "url": "https://lb.ua/society/2026/08/02/756118_dnipropetrovschini_cherez_ataku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:43:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://i.lb.ua/news/091/38/6a6ed914d2484.jpg"
-  },
-  {
-    "id": "542810441ef3f62b",
-    "title": "Фіцо заявив про готовність допомогти Угорщині в боротьбі з енергокризою",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046885/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:37:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/f/7/f73d20e-licensed-image---2026-08-02t082143.183.jpeg"
-  },
-  {
-    "id": "1fec2a1a4214ab58",
-    "title": "РФ уночі атакувала Україну 113 ударними БпЛА, 109 ворожих дронів збила ППО",
-    "summary": "Зафіксовано влучання 24 ударних БпЛА на 19 локаціях.",
-    "url": "https://lb.ua/society/2026/08/02/756116_rf_unochi_atakuvala_ukrayinu_113.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:30:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://i.lb.ua/news/068/28/6a6ed60382c98.jpg"
-  },
-  {
-    "id": "149d38a8ae5fd510",
-    "title": "Росія атакувала Україну 133 дронами: зафіксовано 24 влучання – ПС",
-    "summary": "Вночі 2 серпня РФ атакувала Україну 133 дронами. ППО знищила або подавила 109, зафіксовано влучання на 19 локаціях.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046884/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:29:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/6/885103/96a70323a9f6f99e8ea17146296cff0d.jpeg"
-  },
-  {
-    "id": "8592520c9abe9787",
-    "title": "Генштаб: за минулу добу на фронті відбулося 234 боєзіткнення",
-    "summary": "Ворог завдав двох ракетних ударів та 91 авіаційного удару.",
-    "url": "https://lb.ua/society/2026/08/02/756114_genshtab_minulu_dobu_fronti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:22:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://i.lb.ua/news/092/04/6a6ed41f2c87b.jpg"
-  },
-  {
-    "id": "b0b018938f496f22",
-    "title": "Дрони атакували Саратовський НПЗ, авіабазу «Енгельс-2» і склад Wildberries в Росії",
-    "summary": "Відомо про атаки у Саратовській і Самарській областях РФ.",
-    "url": "https://lb.ua/society/2026/08/02/756112_droni_atakuvali_saratovskiy_npz.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T05:14:00+00:00",
-    "fetched": "2026-08-02T06:18:12+00:00",
-    "image": "https://i.lb.ua/news/012/12/6a6ed2525d3fc.jpg"
   }
 ]
