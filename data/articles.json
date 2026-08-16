@@ -1,5 +1,53 @@
 [
   {
+    "id": "2705167120867af2",
+    "title": "На Сицилії викрали з музею відомі полотна доби Ренесансу",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048915/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T18:17:00+00:00",
+    "fetched": "2026-08-16T18:34:18+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/6/6602b93---------------2026-08-16-202441.jpg"
+  },
+  {
+    "id": "a91eb389181ef1ee",
+    "title": "У соборі УГКЦ в Києві пройшла панахида за Євгеном Коновальцем",
+    "summary": "Панахиду очолив глава УГКЦ Святослав Шевчук",
+    "url": "https://lb.ua/society/2026/08/16/759404_sobori_ugkts_kiievi_proyshla.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T18:13:00+00:00",
+    "fetched": "2026-08-16T18:34:18+00:00",
+    "image": "https://i.lb.ua/news/117/53/6a81fc9a1c841.jpg"
+  },
+  {
+    "id": "e33b86aa251c69fa",
+    "title": "Уперше за 13 років: українка Таїсія Онофрійчук стала чемпіонкою світу з художньої гімнастики",
+    "summary": "Вона перемогла в індивідуальному фіналі змагань з обручем.",
+    "url": "https://lb.ua/sport/2026/08/16/759402_upershe_13_rokiv_ukrayinka.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T17:56:00+00:00",
+    "fetched": "2026-08-16T18:34:18+00:00",
+    "image": "https://i.lb.ua/news/108/31/6a81fb147df68.jpg"
+  },
+  {
+    "id": "e121a7b932392012",
+    "title": "МЗС відомо про майже 3000 африканців, завербованих до армії РФ",
+    "summary": "За даними МЗС України, щонайменше 2982 особи з 37 африканських країн завербовані до лав Збройних сил РФ, відомо про близько 486 загиблих.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048914/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T17:50:00+00:00",
+    "fetched": "2026-08-16T18:34:18+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/4/892747/f454fe7f8a53e214bf03b65a09fec3d0.jpeg"
+  },
+  {
     "id": "c05a50c809bd67b4",
     "title": "Укренерго не прогнозує відключень світла в понеділок",
     "summary": "Громадян закликають споживати електроенергію раціонально.",
@@ -49138,53 +49186,5 @@
     "published": "2026-08-02T18:58:00+00:00",
     "fetched": "2026-08-02T20:12:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/7/885326/07e21ad2bcfd6cefb5a9a93cd70b4355.jpeg"
-  },
-  {
-    "id": "55390b6e4d0ae232",
-    "title": "The Myth of Snow Leopard",
-    "summary": "Article URL: https://www.rubenerd.au/the-myth-of-snow-leopard/ Comments URL: https://news.ycombinator.com/item?id=49146960 Points: 10 # Comments: 0",
-    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T18:21:45+00:00",
-    "fetched": "2026-08-02T21:26:30+00:00",
-    "image": "https://www.rubenerd.au/files/2026/snow-leopard@2x.jpg"
-  },
-  {
-    "id": "98b157f942001f77",
-    "title": "В Одесі чоловік відкрив вогонь по військових ТЦК, є поранені – ЗМІ",
-    "summary": "За даними ЗМІ, в Одесі чоловік відкрив вогонь по військовослужбовцях ТЦК під час проведення мобілізаційних заходів, четверо людей дістали поранення.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046946/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T18:17:00+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/885325/b67b20d624e2c431fa2be9006875d3cf.jpeg"
-  },
-  {
-    "id": "64a19b5cd519507d",
-    "title": "Консули очікують доступу до директора CEO Club, затриманого в Польщі \"за крадіжку велосипедів\" – МЗС",
-    "summary": "Українські консули чекають доступу до Дмитра Карчука, затриманого у Польщі за підозрою в крадіжці електровелосипедів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046945/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T17:56:00+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/885297/5618016c3cb436fcefeb411977470349.jpeg"
-  },
-  {
-    "id": "337523945f935b88",
-    "title": "Росіяни більше 40 разів атакували Дніпропетровщину: двоє загиблих і троє поранених",
-    "summary": "Пошкоджено підприємства, магазини, багатоповерхівку та автомобілі.",
-    "url": "https://lb.ua/society/2026/08/02/756238_rosiyani_bilshe_40_raziv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T17:48:00+00:00",
-    "fetched": "2026-08-02T18:31:06+00:00",
-    "image": "https://i.lb.ua/news/079/46/6a6f83b0d3d7d.jpg"
   }
 ]
