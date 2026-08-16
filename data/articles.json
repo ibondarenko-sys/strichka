@@ -1,5 +1,65 @@
 [
   {
+    "id": "887c0be76bbc2799",
+    "title": "Кім Чен Ин у посланні до Путіна підтвердив поглиблення зв'язків із Росією",
+    "summary": "Лідер Північної Кореї Кім Чен Ин заявив російському правителю Володимиру Путіну, що зв'язки між двома державами поглиблюються, та висловив сподівання на успішне майбутнє двосторонніх відносин.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8048927/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T21:36:00+00:00",
+    "fetched": "2026-08-16T21:46:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/892797/8df93e0150daf1db67b8c6bb12a1414e.jpeg"
+  },
+  {
+    "id": "d39bc91ddc0ae4d3",
+    "title": "Trump says US will scale back military drills with South Korea",
+    "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T21:27:42+00:00",
+    "fetched": "2026-08-16T21:46:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg"
+  },
+  {
+    "id": "8ace1ac931a89123",
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 5 # Comments: 0",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T21:07:10+00:00",
+    "fetched": "2026-08-16T21:46:41+00:00",
+    "image": null
+  },
+  {
+    "id": "4559c202444f9a5d",
+    "title": "US commander says mental health a 'priority' on USS Lincoln",
+    "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+    "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T21:04:27+00:00",
+    "fetched": "2026-08-16T21:46:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg"
+  },
+  {
+    "id": "e28ac403a44f1bfa",
+    "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+    "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 8 # Comments: 2",
+    "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T21:00:25+00:00",
+    "fetched": "2026-08-16T21:46:41+00:00",
+    "image": null
+  },
+  {
     "id": "ba758dd13803fdc0",
     "title": "Суми під атакою ударних БпЛА, є влучання й масштабні пожежі",
     "summary": "Пізно ввечері в неділю росіяни масовано атакували Суми ударними БпЛА, є влучання в житловому секторі та по обʼєктах цивільної інфраструктури.",
@@ -49102,17 +49162,5 @@
     "published": "2026-08-02T21:52:00+00:00",
     "fetched": "2026-08-02T22:29:27+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/885369/256d0ce9618d41f492fd2597be7f04d9.jpeg"
-  },
-  {
-    "id": "85f80aaeb5613925",
-    "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
-    "summary": "Article URL: https://www.11971.com/ Comments URL: https://news.ycombinator.com/item?id=49148541 Points: 7 # Comments: 1",
-    "url": "https://www.11971.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T21:30:04+00:00",
-    "fetched": "2026-08-02T23:33:23+00:00",
-    "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQU9Ih4J8oDgrJqyV1G8PV4JMnNADnTAoJPZ2t2N_kLFHdQnwBwFHkXyWYfw1Lsiqumo4uh9l-KCtLHr36lM155UI3Rw-7NBYAYvrEYEuyofKH2cNJxDAI5VjPMy7yqC0fnS2TKNBuMhb3xngmaPcUURpUbN897Qcif2iGV7nkXCRGZgC5t8m4cWEn3oa1XJzD6TFqSRPIAYRMncRqqvpZE"
   }
 ]
