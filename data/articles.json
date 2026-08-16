@@ -1,5 +1,113 @@
 [
   {
+    "id": "54707e40f13e006d",
+    "title": "Вибух у Севастополі 13 серпня: з'явилося підтвердження смерті зрадника Шагєєва",
+    "summary": "Проєкт \"Книга катів\" підтвердив інформацію про смерть 13 серпня 2026 року зрадника України, колишнього командира підводного човна \"Запоріжжя\" Роберта Шагєєва.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048901/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T14:20:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/892652/og_8048901_ukr.png?w=1200&q=85&stamp=1786890165"
+  },
+  {
+    "id": "0d981531523a7384",
+    "title": "Сибіга обговорив з главою МЗС Греції ситуацію в Чорному морі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048900/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T14:09:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/4/64e1dbe---------------2026-08-16-165952.jpg"
+  },
+  {
+    "id": "72f6fcb96f52d818",
+    "title": "Ворог вдарив по житлових будинках на Одещині",
+    "summary": "Є поранені.",
+    "url": "https://lb.ua/society/2026/08/16/759384_vorog_vdariv_zhitlovih_budinkah.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T14:06:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://i.lb.ua/news/044/57/6a81c3c32fad5.jpg"
+  },
+  {
+    "id": "db1301c33e2818a4",
+    "title": "“Книга катів” підтвердила смерть зрадника Шагаєва у Севастополі",
+    "summary": "Ліквідацію зрадника підтверджують дані бази російської податкової служби",
+    "url": "https://lb.ua/society/2026/08/16/759382_kniga_kativ_pidtverdila_smert.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T13:57:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://i.lb.ua/news/079/06/6a81c1ea8751e.jpg"
+  },
+  {
+    "id": "ef4a1cfcd2576cbc",
+    "title": "Росіяни повторно атакували Одещину: зруйновано будинки, ще троє постраждалих",
+    "summary": "Росіяни знову атакували Одещину: пошкоджено два будинки, троє людей поранено. Інформація уточнюється.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048898/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T13:56:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/892640/a553cd91de03b5eecb265bbd86cd1ffe.jpeg"
+  },
+  {
+    "id": "6a0ef80c84bcdf57",
+    "title": "У понеділок в Україні тепло, в низці областей пройдуть дощі та грози",
+    "summary": "17 серпня очікуються короткочасні дощі та грози у західних і північних областях України.",
+    "url": "https://www.pravda.com.ua/news/2026/08/16/8048896/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T13:42:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/892604/353027c584d9547f7a0cf90b63623a6a.jpeg"
+  },
+  {
+    "id": "26d2a840a8990df0",
+    "title": "У ЦПД розповіли про новий фейк проти Михайла Драпатого",
+    "summary": "У мережі поширюють нібито заява дружини Головнокомандувача про “потужний внутрішній супротив” реформам Михайла Драпатого.",
+    "url": "https://lb.ua/society/2026/08/16/759380_tspd_rozpovili_pro_noviy_feyk.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-16T13:38:00+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://i.lb.ua/news/036/56/6a81bd48aa704.jpg"
+  },
+  {
+    "id": "8d0343a74756a6f9",
+    "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+    "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+    "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-16T13:34:38+00:00",
+    "fetched": "2026-08-16T14:27:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg"
+  },
+  {
+    "id": "367855f0d74c9515",
+    "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+    "summary": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
+    "url": "https://tasklet.ai/careers/head-of-design-engineering",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T13:30:27+00:00",
+    "fetched": "2026-08-16T14:27:17+00:00",
+    "image": "https://tasklet.ai/og-image.png"
+  },
+  {
     "id": "d81969683dc81576",
     "title": "Сербія між Україною і РФ: навіщо Зеленський їздив у Белград і посварився з Косово",
     "summary": "",
@@ -130,6 +238,18 @@
     "published": "2026-08-16T12:50:31+00:00",
     "fetched": "2026-08-16T13:34:36+00:00",
     "image": null
+  },
+  {
+    "id": "adf75bf30ec7a942",
+    "title": "US oil reserves are so low, the caverns holding them could be damaged",
+    "summary": "Article URL: https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html Comments URL: https://news.ycombinator.com/item?id=49319566 Points: 30 # Comments: 5",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T12:49:56+00:00",
+    "fetched": "2026-08-16T14:27:17+00:00",
+    "image": "https://static.independent.co.uk/2026/08/15/20/14/GettyImages-1434807937.jpeg?trim=171,0,241,0&width=1200&height=800&crop=1200:800"
   },
   {
     "id": "d4f1d72e6eebd8c9",
@@ -538,6 +658,18 @@
     "published": "2026-08-16T10:41:00+00:00",
     "fetched": "2026-08-16T10:51:00+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/0/892522/f08c35cc74fa96666be500b1bef081ae.jpeg"
+  },
+  {
+    "id": "7562ac74e0c9a33d",
+    "title": "AI Coding Without the Vibes",
+    "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 7 # Comments: 1",
+    "url": "https://peterbloem.nl/blog/craft-coding",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T10:31:36+00:00",
+    "fetched": "2026-08-16T14:27:17+00:00",
+    "image": "https://peterbloem.nl/images/soupcutter.jpg"
   },
   {
     "id": "b659c9c1da90bbb2",
@@ -49126,89 +49258,5 @@
     "published": "2026-08-02T14:35:00+00:00",
     "fetched": "2026-08-02T15:39:28+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/8/3/8304251----.jpg"
-  },
-  {
-    "id": "aeaf2db1d4555143",
-    "title": "ВМС Італії висадилися на танкер російського «тіньового флоту» і перевірили його",
-    "summary": "Операцію провели в межах місії з моніторингу незаконного перевезення зброї та нафти за підтримки грецького корабля і польського морського патрульного літака.",
-    "url": "https://lb.ua/world/2026/08/02/756218_vms_italiyi_visadilisya_tanker.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T14:17:00+00:00",
-    "fetched": "2026-08-02T15:39:30+00:00",
-    "image": "https://i.lb.ua/news/058/57/6a6f51801f7e2.jpg"
-  },
-  {
-    "id": "dc72035583955413",
-    "title": "\"Шахеди\" атакували порт на Миколаївщині: пошкоджено цивільні судна",
-    "summary": "Удар дронами \"Шахед\" по порту Миколаївщини: двічі атаковано, пошкоджено два цивільних судна, постраждалих немає.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046927/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T14:03:00+00:00",
-    "fetched": "2026-08-02T14:09:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/885248/6969ca7f18901729c1c7ebeadc964092.jpeg"
-  },
-  {
-    "id": "63a29ab7896c8f35",
-    "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-    "summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over the Victus. Its…",
-    "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-02T14:00:00+00:00",
-    "fetched": "2026-08-02T14:09:18+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "fe3114a1f4ed44ba",
-    "title": "Ворог вдарив по приватному сектору Запоріжжя (оновлено)",
-    "summary": "Ворог вдарив КАБом.",
-    "url": "https://lb.ua/society/2026/08/02/756214_vorog_vdariv_privatnomu_sektoru.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T13:58:00+00:00",
-    "fetched": "2026-08-02T14:09:18+00:00",
-    "image": "https://i.lb.ua/news/113/44/6a6f4ac5ebaeb.jpg"
-  },
-  {
-    "id": "bdb4f8a4792900b5",
-    "title": "Два цивільні судна пошкоджені через атаки РФ на Миколаївщині",
-    "summary": "Попередньо, минуло без постраждалих.",
-    "url": "https://lb.ua/society/2026/08/02/756216_dva_tsivilni_sudna_poshkodzheni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T13:55:00+00:00",
-    "fetched": "2026-08-02T14:09:18+00:00",
-    "image": "https://i.lb.ua/news/126/57/6a6f4c4fb6d91.jpg"
-  },
-  {
-    "id": "2112af439120163f",
-    "title": "У Румунії вдруге за день лунала тривога через ціль на кордоні з Україною",
-    "summary": "У Румунії зафіксували повітряну ціль біля кордону з Україною, оголошували тривогу у повіті Тулча.",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046926/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T13:51:00+00:00",
-    "fetched": "2026-08-02T14:09:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/885239/86af456a9205cf2756b404b679d6fbf9.jpeg"
-  },
-  {
-    "id": "1d9b1569df6b5b67",
-    "title": "Трейдерам почали продавати ранній доступ до дописів Трампа",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/02/8046925/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-02T13:43:00+00:00",
-    "fetched": "2026-08-02T14:09:18+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/3/c/3c185a0-ed.jpg"
   }
 ]
