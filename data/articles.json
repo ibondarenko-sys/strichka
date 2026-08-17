@@ -1,5 +1,77 @@
 [
   {
+    "id": "1139c7d0cd29ed29",
+    "title": "Росіяни вдарили дроном по Запоріжжі: відомо про двох загиблих",
+    "summary": "Під атакою опинилось садове товариство.",
+    "url": "https://lb.ua/society/2026/08/17/759658_rosiyani_vdarili_dronom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T19:30:00+00:00",
+    "fetched": "2026-08-17T19:31:22+00:00",
+    "image": "https://i.lb.ua/news/095/00/6a8361357b56a.jpg"
+  },
+  {
+    "id": "766b2230935e8722",
+    "title": "This compact Glorious mechanical keyboard is just $35",
+    "summary": "Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot for $34.99 (usually $139.99) by entering the coupon code…",
+    "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T19:27:49+00:00",
+    "fetched": "2026-08-17T19:31:22+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Glorious-GMMK-3-Black-Breakout-2.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "bdb87c97b0473f29",
+    "title": "Генштаб: 211 бойових зіткнень відбулося на фронті від початку доби",
+    "summary": "Найбільше атак Сили оборони відбили на Покровському та Костянтинівському напрямках.",
+    "url": "https://lb.ua/society/2026/08/17/759656_genshtab_211_boyovih_zitknen.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T19:10:00+00:00",
+    "fetched": "2026-08-17T19:31:22+00:00",
+    "image": "https://i.lb.ua/news/093/20/6a835cbc85441.jpg"
+  },
+  {
+    "id": "63c6a6a67c1ab486",
+    "title": "Понад дві сотні боїв відбулось на фронті з початку доби – Генштаб",
+    "summary": "Від початку доби 17 серпня на фронті відбулось 211 бойових зіткнень",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049071/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T19:09:00+00:00",
+    "fetched": "2026-08-17T19:31:22+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/c/893621/2ca7cc2c4fdcf40d5b1be11aa1b52aec.jpeg"
+  },
+  {
+    "id": "63c580d2324c3c3e",
+    "title": "Wordle meets Clippy in this new word game",
+    "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking…",
+    "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T19:03:41+00:00",
+    "fetched": "2026-08-17T19:31:22+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/screen03.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0704cd2fe48c0265",
+    "title": "Укрпошта випустила дві тематичні марки до Дня української пісні",
+    "summary": "\"Колискова\" та \"Мов до шлюбу вбралася калина\" стали продовженням серії \"Українська пісня\".",
+    "url": "https://lb.ua/society/2026/08/17/759652_ukrposhta_vipustila_dvi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T18:59:00+00:00",
+    "fetched": "2026-08-17T19:31:22+00:00",
+    "image": "https://i.lb.ua/news/097/01/6a835a4545021.jpg"
+  },
+  {
     "id": "7a92bb9b038a2ec5",
     "title": "Заступник Клименка в МВС став його першим заступником в РНБО",
     "summary": "Президент Зеленський призначив Сергія Науменка першим заступником секретаря РНБО.",
@@ -36,6 +108,18 @@
     "image": "https://media.newyorker.com/photos/6a7f7fc939cfd25116c026de/16:9/w_1280,c_limit/Zatarain-Coiron_17.jpg"
   },
   {
+    "id": "b7d8b3c077ffb9fb",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+    "summary": "Article URL: https://blog.roboflow.com/roboflow-playground/ Comments URL: https://news.ycombinator.com/item?id=49335517 Points: 7 # Comments: 0",
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T18:28:07+00:00",
+    "fetched": "2026-08-17T19:31:27+00:00",
+    "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2025/09/img-blog-roboflow-playground.png"
+  },
+  {
     "id": "b7053116bc835415",
     "title": "How I Over-Engineered My Book",
     "summary": "Article URL: https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/ Comments URL: https://news.ycombinator.com/item?id=49335292 Points: 5 # Comments: 2",
@@ -70,6 +154,18 @@
     "published": "2026-08-17T18:13:00+00:00",
     "fetched": "2026-08-17T18:45:35+00:00",
     "image": "https://i.lb.ua/news/108/02/6a834f6629de4.jpg"
+  },
+  {
+    "id": "4802671e550ced50",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "summary": "Article URL: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/ Comments URL: https://news.ycombinator.com/item?id=49335216 Points: 35 # Comments: 11",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T18:10:16+00:00",
+    "fetched": "2026-08-17T19:31:27+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800"
   },
   {
     "id": "591f07426f9d7405",
@@ -49702,89 +49798,5 @@
     "published": "2026-08-03T19:39:34+00:00",
     "fetched": "2026-08-03T21:41:49+00:00",
     "image": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/light-bulb-1042480_1920_1.jpeg?itok=nDOISjZp"
-  },
-  {
-    "id": "a744c55668befd0f",
-    "title": "Генштаб: 182 бойові зіткнення відбулись на фронті від початку доби",
-    "summary": "Найгарячіше на Костянтинівському напрямку. Там росіяни атакували 26 разів.",
-    "url": "https://lb.ua/society/2026/08/03/756452_genshtab_182_boyovi_zitknennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T19:25:00+00:00",
-    "fetched": "2026-08-03T20:13:27+00:00",
-    "image": "https://i.lb.ua/news/049/35/6a70eb3d4f691.jpg"
-  },
-  {
-    "id": "da9ff99a8bf8e94f",
-    "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
-    "summary": "The orbiting observatory in minifigure scale.",
-    "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T19:21:16+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-1152x648.jpg"
-  },
-  {
-    "id": "930ff7c7741f1544",
-    "title": "Експрем’єр Польщі Моравецький анонсував створення нової політсили \"Розвиток Плюс\"",
-    "summary": "Моравецький засновує партію «Розвиток Плюс», з’їзд відбудеться 15 жовтня. Партія вже має підтримку для входження у парламент.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047109/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T19:10:00+00:00",
-    "fetched": "2026-08-03T20:13:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/885884/cf8513e4dabafa39292ccdf521b84a27.jpeg"
-  },
-  {
-    "id": "62491502be83b4b6",
-    "title": "Уряд призначив нового заступника Міністра оборони України",
-    "summary": "Микола Швидкий відповідатиме за практичну взаємодію Міністерства з військом.",
-    "url": "https://lb.ua/news/2026/08/03/756448_uryad_priznachiv_novogo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T19:03:00+00:00",
-    "fetched": "2026-08-03T20:13:27+00:00",
-    "image": "https://i.lb.ua/news/102/14/6a70e5fd05be8.jpg"
-  },
-  {
-    "id": "7930501cc9800dff",
-    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-    "summary": "Top scores increased by 5x.",
-    "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T19:00:50+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg"
-  },
-  {
-    "id": "01f3a7a3e540ddd4",
-    "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
-    "summary": "Article URL: https://github.com/SwagSoftware/KisakCOD Comments URL: https://news.ycombinator.com/item?id=49159970 Points: 13 # Comments: 0",
-    "url": "https://github.com/SwagSoftware/KisakCOD",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T18:58:00+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://opengraph.githubassets.com/7883a000d69d36de6a5ed9687aca545842a07cce53e525ea3de489b751ab3532/SwagSoftware/KisakCOD"
-  },
-  {
-    "id": "97943dcc40262db6",
-    "title": "Росіяни атакували Суми безпілотниками: є пошкодження",
-    "summary": "На щастя, обійшлося без постраждалих.",
-    "url": "https://lb.ua/society/2026/08/03/756446_rosiyani_atakuvali_sumi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T18:50:00+00:00",
-    "fetched": "2026-08-03T20:13:27+00:00",
-    "image": "https://i.lb.ua/news/089/31/6a70e2f6a2b3d.jpg"
   }
 ]
