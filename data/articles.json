@@ -1,5 +1,65 @@
 [
   {
+    "id": "24e999c1f4a22610",
+    "title": "У Варшаві зібрали третину підписів для референдуму про відставку мера",
+    "summary": "Раніше міського голову таким чином відсторонили у Кракові.",
+    "url": "https://lb.ua/world/2026/08/18/759676_varshavi_zibrali_tretinu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T22:20:00+00:00",
+    "fetched": "2026-08-17T22:28:35+00:00",
+    "image": "https://i.lb.ua/news/009/59/6a83898daa26a.jpg"
+  },
+  {
+    "id": "6dcb17665432e270",
+    "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+    "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+    "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:08:47+00:00",
+    "fetched": "2026-08-17T22:28:35+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg"
+  },
+  {
+    "id": "8c07ece6556f269a",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "summary": "Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera Comments URL: https://news.ycombinator.com/item?id=49338285 Points: 5 # Comments: 0",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:01:17+00:00",
+    "fetched": "2026-08-17T22:28:35+00:00",
+    "image": "https://catcrafts.net/media/7027ecea2bdfd549.webp"
+  },
+  {
+    "id": "383460e60917fc74",
+    "title": "Міністр оборони Італії відкинув причетність Росії до вибуху на заводі з виробництва боєприпасів",
+    "summary": "Правоохоронці розглядають можливі зв'язки з аналогічними інцидентами в Болгарії.",
+    "url": "https://lb.ua/world/2026/08/18/759672_ministr_oboroni_italiyi_vidkinuv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T21:57:00+00:00",
+    "fetched": "2026-08-17T22:28:35+00:00",
+    "image": "https://i.lb.ua/news/044/62/6a8383bc1d74e.jpg"
+  },
+  {
+    "id": "fa333f8879dec6ff",
+    "title": "У Варшаві зібрали 40 тисяч підписів для проведення референдуму про відставку мера",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049079/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T21:52:00+00:00",
+    "fetched": "2026-08-17T22:28:35+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/e/1/e16cc2b-kjkjkjkj.jpg"
+  },
+  {
     "id": "5441ef9ef063002d",
     "title": "Прем'єр Латвії вимагає заборонити видачу росіянам віз Євросоюзу",
     "summary": "Очільника уряду обурює можливість для військових агресора подорожувати Європою.",
@@ -34,6 +94,18 @@
     "published": "2026-08-17T21:20:00+00:00",
     "fetched": "2026-08-17T21:29:15+00:00",
     "image": "https://i.lb.ua/news/033/02/6a837ac310a40.jpg"
+  },
+  {
+    "id": "f1914d8ebf8ad4c1",
+    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+    "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+    "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T21:18:49+00:00",
+    "fetched": "2026-08-17T22:28:35+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg"
   },
   {
     "id": "1c99721883bb0182",
@@ -49786,41 +49858,5 @@
     "published": "2026-08-03T22:44:00+00:00",
     "fetched": "2026-08-03T23:06:35+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/885915/dcd415eccc659fa7eddab8d7e10ea150.jpeg"
-  },
-  {
-    "id": "59dc12ec5b71a9bb",
-    "title": "Колишній прем'єр Польщі анонсував створення власної партії",
-    "summary": "У правої українофобської сили \"Право і справедливість\" великі проблеми.",
-    "url": "https://lb.ua/world/2026/08/04/756470_kolishniy_premier_polschi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T22:27:00+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": "https://i.lb.ua/news/004/08/6a7115baa2408.jpg"
-  },
-  {
-    "id": "2e8aa46c7aa18e9e",
-    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-    "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
-    "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T22:11:39+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-1152x648.png"
-  },
-  {
-    "id": "ceff07d4ef2a9f4a",
-    "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-    "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/ Comments URL: https://news.ycombinator.com/item?id=49162086 Points: 11 # Comments: 0",
-    "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T22:04:49+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": null
   }
 ]
