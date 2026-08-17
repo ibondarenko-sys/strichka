@@ -1,5 +1,65 @@
 [
   {
+    "id": "dc0319b100dab038",
+    "title": "Країни Перської затоки налагодили таємне вивезення нафти через Ормузьку протоку – ЗМІ",
+    "summary": "Країни Перської затоки реалізували схему прихованого транспортування нафти через Ормузьку протоку з подальшим її перевантаженням на танкери в Оманській затоці, незважаючи на регулярні напади Ірану на судна.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8048934/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T02:46:00+00:00",
+    "fetched": "2026-08-17T03:03:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/892819/5f7b87901c70e2181d19e62b80b0ea7e.jpeg"
+  },
+  {
+    "id": "a4897186577b651f",
+    "title": "Зарплати ростуть, але працювати нема кому. Як ринок праці переживає масовий виїзд молодих чоловіків за кордон",
+    "summary": "Рік тому Кабінет міністрів за ініціативи президента Володимира Зеленського дозволив виїзд за кордон чоловікам віком від 18 до 22 років.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/17/8048916/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T02:30:00+00:00",
+    "fetched": "2026-08-17T03:03:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/892755/fc3b3238a410904cd2960513f92f14b5.jpeg"
+  },
+  {
+    "id": "a20f9c474ff40c34",
+    "title": "Ferrari's first ever electric car sold for record $40m at auction",
+    "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+    "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-17T02:22:04+00:00",
+    "fetched": "2026-08-17T03:03:56+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg"
+  },
+  {
+    "id": "f7a2c2c669ba3a34",
+    "title": "США перекидають останній авіаносець з Тихого океану на Близький Схід – AP",
+    "summary": "Американський авіаносець USS George Washington залишає західну частину Тихого океану та прямує на Близький Схід, унаслідок чого в Азійсько-Тихоокеанському регіоні не залишиться жодної американської авіаносної групи на тлі зростаючої військової активності Китаю.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8048933/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T02:01:00+00:00",
+    "fetched": "2026-08-17T03:03:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/892818/1853e954d9ee63d4d6cf0b3d4739d3e6.jpeg"
+  },
+  {
+    "id": "d09bfc862e00500c",
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "summary": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64 Comments URL: https://news.ycombinator.com/item?id=49325714 Points: 12 # Comments: 1",
+    "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T01:45:36+00:00",
+    "fetched": "2026-08-17T03:03:57+00:00",
+    "image": null
+  },
+  {
     "id": "f1fcaf0a023ed6d3",
     "title": "Physicists discover a hidden gluon structure inside protons",
     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260815064805.htm Comments URL: https://news.ycombinator.com/item?id=49325508 Points: 3 # Comments: 0",
@@ -358,6 +418,18 @@
     "published": "2026-08-16T20:05:24+00:00",
     "fetched": "2026-08-16T21:23:58+00:00",
     "image": "https://theintercept.com/wp-content/uploads/2026/08/AP26147735990907-e1786728699893.jpg?fit=8192%2C4096&w=1200&h=800"
+  },
+  {
+    "id": "4ec42b566a571365",
+    "title": "Red queen hypothesis – a new way forward for self-improving AI",
+    "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 16 # Comments: 2",
+    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-16T20:01:13+00:00",
+    "fetched": "2026-08-17T03:03:57+00:00",
+    "image": null
   },
   {
     "id": "c728f08a8e4ed752",
@@ -49042,101 +49114,5 @@
     "published": "2026-08-03T03:06:12+00:00",
     "fetched": "2026-08-03T06:45:38+00:00",
     "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "f00574fc079f13ff",
-    "title": "Apple engineer says he was fired after refusing to send cust. device IDs to ATT",
-    "summary": "Article URL: https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic Comments URL: https://news.ycombinator.com/item?id=49150738 Points: 22 # Comments: 1",
-    "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T03:00:52+00:00",
-    "fetched": "2026-08-03T03:27:29+00:00",
-    "image": "https://runtimewire.com/og/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic.jpg"
-  },
-  {
-    "id": "ce628e04385f45b5",
-    "title": "US and Japan take action to prop up yen in rare joint move",
-    "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-    "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T02:43:06+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
-  },
-  {
-    "id": "c6b4da0f02aa2a00",
-    "title": "Українські рятувальники прибули до Франції для гасіння лісових пожеж – ДСНС",
-    "summary": "Зведений загін ДСНС прибув до Жиронди для ліквідації масштабної лісової пожежі у Франції.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8046958/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T02:37:00+00:00",
-    "fetched": "2026-08-03T03:27:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/885381/3693fadfcaec2c4fe31614d304072406.jpeg"
-  },
-  {
-    "id": "547918e5f8003d8f",
-    "title": "Не подобається спроба зробити картину чорно-білою, – Рахманін про відставку Федорова і призначення Драпатого та Хмари",
-    "summary": "Відставка Михайла Федорова з посади міністра оборони вивела на вулиці тисячі людей із вимогою повернути його в уряд – у п'ятницю 31 липня відбувся наймасштабніший протест часів повномасштабної війни.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/03/8046949/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T02:30:00+00:00",
-    "fetched": "2026-08-03T03:27:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/885330/25cf615b8e94bbe6a8aa47ddd2320f4d.jpeg"
-  },
-  {
-    "id": "5ee9d1ae99cb8dd2",
-    "title": "Massive Attack speak about ‘surreal experience’ of being banned from Singapore over Palestinian flag",
-    "summary": "British band say they are ‘proud to have made this impromptu expression with our fans in Singapore’, where open display of all foreign flags is banned Massive Attack have called being banned from Singapore a “surreal experience” after displaying a Palestinian flag during their…",
-    "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T02:19:26+00:00",
-    "fetched": "2026-08-03T03:27:27+00:00",
-    "image": "https://i.guim.co.uk/img/media/132cffa8f83bc6661286491e77773254ea7fe2d7/561_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=5062eab73aec2bd9ecc38f7dc6bbd428"
-  },
-  {
-    "id": "f1afe25775a0b093",
-    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8 Comments URL: https://news.ycombinator.com/item?id=49150470 Points: 58 # Comments: 14",
-    "url": "https://qwen.ai/blog?id=qwen3.8",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T02:16:09+00:00",
-    "fetched": "2026-08-03T03:27:29+00:00",
-    "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
-  },
-  {
-    "id": "d1865ac92d38f3cb",
-    "title": "Malaysian boy on trial for allegedly murdering girl in school",
-    "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-    "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T01:43:16+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg"
-  },
-  {
-    "id": "cc07b3a386b5b861",
-    "title": "Безпілотники атакували окупований Крим: вибухи пролунали у Керчі, Сімферополі та Феодосії",
-    "summary": "У ніч на 3 серпня дрони вдарили по окупованому Криму, пролунали вибухи, перекрито Кримський міст.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8046957/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T01:42:00+00:00",
-    "fetched": "2026-08-03T03:27:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/e/885379/aee00ce20d5040013babaf4dca356b17.jpeg"
   }
 ]
