@@ -1,5 +1,77 @@
 [
   {
+    "id": "ce5400584553a6b9",
+    "title": "У морські дрони Katran інтегрують БпЛА для збільшення далекобійності",
+    "summary": "Це дозволить завдавати ударів вглиб прибережних територій росіян",
+    "url": "https://lb.ua/society/2026/08/17/759542_morski_droni_katran_integruyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T11:43:00+00:00",
+    "fetched": "2026-08-17T11:53:57+00:00",
+    "image": "https://i.lb.ua/news/112/18/6a82f3a35f417.jpg"
+  },
+  {
+    "id": "b5fa027c346555f7",
+    "title": "Росіяни вдарили по Павлоградському району, є загиблий",
+    "summary": "47-річний чоловік отримав поранення, лікарі надають йому необхідну допомогу.",
+    "url": "https://lb.ua/society/2026/08/17/759540_rosiyani_vdarili_pavlogradskomu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T11:43:00+00:00",
+    "fetched": "2026-08-17T11:53:57+00:00",
+    "image": "https://i.lb.ua/news/008/42/6a82f3ba66569.jpg"
+  },
+  {
+    "id": "6bdc0ce89366df3d",
+    "title": "Міністерство оборони кодифікувало український дрон «Довбуш Т40» з дальністю понад 2000 км",
+    "summary": "Його ранішу версія, «Довбуш Т20», успішно застосовують з першого року повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/17/759538_ministerstvo_oboroni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T11:39:00+00:00",
+    "fetched": "2026-08-17T11:53:57+00:00",
+    "image": "https://i.lb.ua/news/084/09/6a82f308b7cd9.jpg"
+  },
+  {
+    "id": "5a50b125617d7a77",
+    "title": "OpenAI розпускає команду, яка контролювала ризики, повʼязані з розвитком власної моделі. Компанія готується до виходу на IPO",
+    "summary": "Це була команда, яка перевіряла, чи не може ШІ вийти з-під контролю, шукали найгірші сценарії розвитку подій і рішення, як цьому запобігти.",
+    "url": "https://ain.ua/2026/08/17/openai-komanda-iaka-kontroliuvala-riziki-poviazani-z-rozvitkom-si/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-17T11:35:00+00:00",
+    "fetched": "2026-08-17T11:53:57+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-17/EbC9WGF4Oc3CckU1VjwwpFYxU2mHO6qOhQEnATvq.webp"
+  },
+  {
+    "id": "70ba037fae3dedd3",
+    "title": "7% українців вважають Сталіна \"великим вождем\", - опитування КМІС",
+    "summary": "Після проголошення Незалежності України частка тих, хто вважав Сталіна великим вождем зросла – з 27% у 1991 році до 39% у 2002-му.",
+    "url": "https://lb.ua/society/2026/08/17/759534_7_ukrayintsiv_vvazhayut_stalina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T11:31:00+00:00",
+    "fetched": "2026-08-17T11:53:57+00:00",
+    "image": "https://i.lb.ua/news/019/14/6a82f14a25b27.jpg"
+  },
+  {
+    "id": "8a3d304329b40d09",
+    "title": "Зросла кількість жертв землетрусу в Індонезії",
+    "summary": "Понад 100 людей отримали поранення.",
+    "url": "https://lb.ua/world/2026/08/17/759532_zrosla_kilkist_zhertv_zemletrusu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T11:28:00+00:00",
+    "fetched": "2026-08-17T11:53:57+00:00",
+    "image": "https://i.lb.ua/news/052/14/6a82efee77424.jpg"
+  },
+  {
     "id": "43504727fc05c5df",
     "title": "Ердоган заявив, що членство в Євросоюзі більше не є пріоритетом для Туреччини",
     "summary": "Але країна не відкидає такої можливості і розраховує, що блок також цього не зробить.",
@@ -49270,65 +49342,5 @@
     "published": "2026-08-03T11:57:00+00:00",
     "fetched": "2026-08-03T13:43:25+00:00",
     "image": "https://i.lb.ua/news/062/42/6a70821e195cd.jpg"
-  },
-  {
-    "id": "d7d5c6210faa79d5",
-    "title": "Соратник Качинського використав напад українця на польку, щоб розкритикувати уряд Туска",
-    "summary": "Польські політики закликають до жорстких заходів після нападу українця у Вроцлаві. Затриманому загрожує депортація.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047033/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T11:53:00+00:00",
-    "fetched": "2026-08-03T13:43:25+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/885698/9d5676d39ce79b343936c9ed978b1854.jpeg"
-  },
-  {
-    "id": "7c138e4e9e9fd623",
-    "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
-    "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
-    "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T11:49:48+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1a0/live/a76d9830-8f27-11f1-b5a8-c9ccaae98ebb.jpg"
-  },
-  {
-    "id": "697b8dd774bd1bcd",
-    "title": "Росіяни атакували саперів під час розмінування на Запоріжжі: двоє поранених",
-    "summary": "Двоє саперів ДСНС отримали травми через прицільний удар РФ у Запорізькому районі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047032/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T11:47:00+00:00",
-    "fetched": "2026-08-03T13:43:25+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/885697/f31082aff45d3e71945e8f9738f76b8d.jpeg"
-  },
-  {
-    "id": "f5de2f648d1b0ae2",
-    "title": "Під час переоформлення відстрочки не мобілізуватимуть — Кабмін змінив правила",
-    "summary": "Кабмін змінив порядок оформлення відстрочок від мобілізації. Тепер військовозобов’язані, які вже мають чинну відстрочку, зможуть переоформити її на іншій законній підставі, не втрачаючи попередню на час розгляду заяви. Про це повідомляють у Міноборони. Нові правила стосуються…",
-    "url": "https://dou.ua/lenta/news/new-reservation-rules-mobilization/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-03T11:45:41+00:00",
-    "fetched": "2026-08-03T13:43:25+00:00",
-    "image": "https://s.dou.ua/img/announces/22_lhotkqK.jpg"
-  },
-  {
-    "id": "8187ca9fdfaff5f0",
-    "title": "Влада Сеути заявила, що в місті лишається до п’яти тисяч мігрантів з Марокко",
-    "summary": "Мер Сеути Хуан Хесус Вівас у понеділок заявив, що у місті досі лишаються від 3 до 5 тисяч мігрантів з Марокко.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047029/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T11:38:00+00:00",
-    "fetched": "2026-08-03T13:43:25+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/0/c/0c8e6ac-naves-tarajal-marroquies-policia-evita-lleguen-centro-ceuta-23-1140x641.jpg"
   }
 ]
