@@ -1,5 +1,29 @@
 [
   {
+    "id": "5441ef9ef063002d",
+    "title": "Прем'єр Латвії вимагає заборонити видачу росіянам віз Євросоюзу",
+    "summary": "Очільника уряду обурює можливість для військових агресора подорожувати Європою.",
+    "url": "https://lb.ua/news/2026/08/18/759670_premier_latviyi_vimagaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T21:44:00+00:00",
+    "fetched": "2026-08-17T21:53:44+00:00",
+    "image": "https://i.lb.ua/news/023/27/6a8380ad8e137.jpg"
+  },
+  {
+    "id": "386a2fe87a74e828",
+    "title": "Грецький танкер з російською нафтою зазнав атаки в Чорному морі – Bloomberg",
+    "summary": "За даними ЗМІ, у Чорному морі зазнав нападу завантажений російською нафтою грецький танкер.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049078/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T21:28:00+00:00",
+    "fetched": "2026-08-17T21:53:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/2/893661/f2494fde5f11348b0c6ba233a7a81b7b.jpeg"
+  },
+  {
     "id": "c28152f4ba73c5e3",
     "title": "Корецький обговорив з прем'єром Нідерландів посилення ППО та захист інфраструктури України",
     "summary": "Політики домовилися про зустріч найближчим часом.",
@@ -34,6 +58,18 @@
     "published": "2026-08-17T20:59:23+00:00",
     "fetched": "2026-08-17T21:29:15+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/abc-news-searched.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d2db3596bcc11c20",
+    "title": "Головне за понеділок, 17 серпня: понад 210 бойових зіткнень, звільнення Андріївки-Клевцового, вибух у Молдові",
+    "summary": "Бойові дії на Донеччині, 211 бойових зіткнень, ворожі обстріли, схвалення урядом програми діяльності. Яким запам’ятається 1636-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/17/759674_golovne_ponedilok_17_serpnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T20:59:00+00:00",
+    "fetched": "2026-08-17T21:53:44+00:00",
+    "image": "https://i.lb.ua/news/017/31/6a8381a514a1e.jpg"
   },
   {
     "id": "2d81d7fdb342b4ce",
@@ -49786,53 +49822,5 @@
     "published": "2026-08-03T22:04:49+00:00",
     "fetched": "2026-08-03T23:06:35+00:00",
     "image": null
-  },
-  {
-    "id": "977d5870d0eca22f",
-    "title": "Зеленський запровадив санкції проти підприємств російського ОПК – серед них є українське",
-    "summary": "Президент Володимир Зеленський увів у дію рішення Ради національної безпеки і оборони України про застосування санкцій проти 23 компаній та 20 фізичних осіб, залучених до виробництва озброєння та обслуговування потреб російського оборонно-промислового комплексу. Серед них…",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047113/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T21:48:00+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/885911/532acf653c0e6dd2fd801b751287ddf8.jpeg"
-  },
-  {
-    "id": "d9a8fa92d2c38ac7",
-    "title": "У США заявили, що угода про спільне виробництво ракет для Patriot не буде готова до зими",
-    "summary": "Пріоритетом вважають забезпечення України засобами ППО із запасів.",
-    "url": "https://lb.ua/society/2026/08/04/756466_ssha_zayavili_scho_ugoda_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T21:47:00+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": "https://i.lb.ua/news/097/08/6a710d29dc829.jpg"
-  },
-  {
-    "id": "d900971bbdb3fc35",
-    "title": "EU calls for stronger borders after Ceuta migrant crossings",
-    "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-    "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T21:43:10+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7271/live/db06f1c0-8f7f-11f1-b08e-77185111f813.jpg"
-  },
-  {
-    "id": "44c63fd504b3a3d9",
-    "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
-    "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/ Comments URL: https://news.ycombinator.com/item?id=49161801 Points: 7 # Comments: 0",
-    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T21:39:12+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": "https://bumbershootsoft.wordpress.com/wp-content/uploads/2026/05/zx_mechanic_title.png"
   }
 ]
