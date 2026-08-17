@@ -1,5 +1,65 @@
 [
   {
+    "id": "c28152f4ba73c5e3",
+    "title": "Корецький обговорив з прем'єром Нідерландів посилення ППО та захист інфраструктури України",
+    "summary": "Політики домовилися про зустріч найближчим часом.",
+    "url": "https://lb.ua/news/2026/08/18/759668_koretskiy_obgovoriv_z_premierom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T21:20:00+00:00",
+    "fetched": "2026-08-17T21:29:15+00:00",
+    "image": "https://i.lb.ua/news/033/02/6a837ac310a40.jpg"
+  },
+  {
+    "id": "1c99721883bb0182",
+    "title": "Зеленський анонсував засідання РНБО щодо ситуації на дорогах",
+    "summary": "Президент відреагував на резонансну ДТП у Києві.",
+    "url": "https://lb.ua/society/2026/08/18/759666_zelenskiy_anonsuvav_zasidannya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T21:10:00+00:00",
+    "fetched": "2026-08-17T21:29:15+00:00",
+    "image": "https://i.lb.ua/news/043/02/6a83775479bc1.jpg"
+  },
+  {
+    "id": "1447ea5549401524",
+    "title": "ABC’s livestreamed news show is powered by trending topics",
+    "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live…",
+    "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:59:23+00:00",
+    "fetched": "2026-08-17T21:29:15+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/abc-news-searched.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2d81d7fdb342b4ce",
+    "title": "Ізраїль не буде виводити війська з Гази до повного роззброєння ХАМАСу",
+    "summary": "Такої домовленості досягли спецпосланець США Кушнер та прем'єр-міністр Ізраїлю Нетаньягу.",
+    "url": "https://lb.ua/world/2026/08/17/759664_izrayil_bude_vivoditi_viyska_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T20:45:00+00:00",
+    "fetched": "2026-08-17T21:29:15+00:00",
+    "image": "https://i.lb.ua/news/047/44/6a8372e138f1e.jpg"
+  },
+  {
+    "id": "809e981aca0b6790",
+    "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+    "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+    "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:23:09+00:00",
+    "fetched": "2026-08-17T21:29:15+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-1152x648.jpg"
+  },
+  {
     "id": "bcbe515ded91608b",
     "title": "Санду пояснила, чому Молдові вигідно сприяти транзиту українського зерна",
     "summary": "",
@@ -22,6 +82,30 @@
     "published": "2026-08-17T20:15:00+00:00",
     "fetched": "2026-08-17T20:31:42+00:00",
     "image": "https://i.lb.ua/news/015/62/6a836bcfd7b56.jpg"
+  },
+  {
+    "id": "f065530b1f90de22",
+    "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+    "summary": "\"Network effect\" can run in reverse.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:14:23+00:00",
+    "fetched": "2026-08-17T21:29:15+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
+  },
+  {
+    "id": "02b8bf66a70d6d20",
+    "title": "The Origin of Consciousness (2008)",
+    "summary": "Article URL: https://blog.plover.com/brain/Jaynes.html Comments URL: https://news.ycombinator.com/item?id=49336909 Points: 12 # Comments: 3",
+    "url": "https://blog.plover.com/brain/Jaynes.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:12:58+00:00",
+    "fetched": "2026-08-17T21:29:17+00:00",
+    "image": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
   },
   {
     "id": "9739585c4084053c",
@@ -82,6 +166,18 @@
     "published": "2026-08-17T19:47:15+00:00",
     "fetched": "2026-08-17T20:31:42+00:00",
     "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9"
+  },
+  {
+    "id": "a2d612bb6b6d2a02",
+    "title": "Three Minutes of Sprinting Beats 90 Minutes of Moderate Exercise",
+    "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue Comments URL: https://news.ycombinator.com/item?id=49336520 Points: 7 # Comments: 0",
+    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T19:42:08+00:00",
+    "fetched": "2026-08-17T21:29:17+00:00",
+    "image": null
   },
   {
     "id": "11c605c1d233b543",
@@ -528,6 +624,18 @@
     "image": "https://i.lb.ua/news/109/46/6a8342022f373.jpg"
   },
   {
+    "id": "314381f66eecc93c",
+    "title": "An update on leaving Gmail for Fastmail",
+    "summary": "Article URL: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/ Comments URL: https://news.ycombinator.com/item?id=49334409 Points: 35 # Comments: 15",
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T17:15:20+00:00",
+    "fetched": "2026-08-17T21:29:17+00:00",
+    "image": "https://moddedbear.com/images/share.png"
+  },
+  {
     "id": "b09b03ebb7d54ec5",
     "title": "YouTube is changing how it counts views to give the numbers a boost",
     "summary": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, \"which means creators will likely see their total view counts increase faster moving…",
@@ -562,6 +670,18 @@
     "published": "2026-08-17T17:07:00+00:00",
     "fetched": "2026-08-17T17:30:55+00:00",
     "image": "https://i.lb.ua/news/031/34/6a833dbc7ca30.jpg"
+  },
+  {
+    "id": "39d537a07acbde7a",
+    "title": "Cursor launches Origin, GitHub alternative",
+    "summary": "Article URL: https://cursor.com/changelog/origin-code-hosting Comments URL: https://news.ycombinator.com/item?id=49334209 Points: 52 # Comments: 17",
+    "url": "https://cursor.com/changelog/origin-code-hosting",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T17:02:44+00:00",
+    "fetched": "2026-08-17T21:29:17+00:00",
+    "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/og-origin-code-hosting-08-17-26-iibBEcxTigpnjXaBULY8Du327sx4P1.png"
   },
   {
     "id": "2757c2ba9ff3be51",
@@ -49714,89 +49834,5 @@
     "published": "2026-08-03T21:39:12+00:00",
     "fetched": "2026-08-03T23:06:35+00:00",
     "image": "https://bumbershootsoft.wordpress.com/wp-content/uploads/2026/05/zx_mechanic_title.png"
-  },
-  {
-    "id": "f9e0e5bd92d5809d",
-    "title": "Your Fitbit data can now connect directly to Apple Health",
-    "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose…",
-    "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T21:24:23+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0036.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6a6f17085b1ec51d",
-    "title": "Залужний відкинув можливість для України вступити в НАТО",
-    "summary": "Колишній головнокомандувач \"12 років слухав казки, що ось-ось\".",
-    "url": "https://lb.ua/society/2026/08/04/756464_zaluzhniy_vidkinuv_mozhlivist.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T21:15:00+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://i.lb.ua/news/018/20/6a71056972427.jpg"
-  },
-  {
-    "id": "3e9781fff5059bb1",
-    "title": "LLMs reward expertise",
-    "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/ Comments URL: https://news.ycombinator.com/item?id=49161518 Points: 60 # Comments: 16",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T21:13:53+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://www.seangoedecke.com/og-image.jpg"
-  },
-  {
-    "id": "ab1222d2662ed15a",
-    "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
-    "summary": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon and B&H Photo both have it discounted to…",
-    "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T21:13:38+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-M80F-Lifestyle.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "c0cb91d02c5850ba",
-    "title": "Головне за понеділок, 3 серпня: понад 180 бойових зіткнень, завдання послів, нові посади Умєрова і Клименка",
-    "summary": "Бойові дії на Донеччині, 182 бойових зіткнення, ворожі обстріли, президентські укази про звільнення послів у низці країн. Яким запам’ятається 1622-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/08/03/756468_golovne_ponedilok_3_serpnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T20:59:00+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://i.lb.ua/news/088/47/6a7104322a8df.jpg"
-  },
-  {
-    "id": "fee2d7bffb712bea",
-    "title": "У липні в Україні розмінували понад 900 га звільнених територій",
-    "summary": "Фахівці виявили та знешкодили 276 вибухонебезпечних предметів.",
-    "url": "https://lb.ua/society/2026/08/03/756462_lipni_ukrayini_rozminuvali_ponad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T20:59:00+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://i.lb.ua/news/060/15/6a71011c69241.jpg"
-  },
-  {
-    "id": "20bff11e7d98226f",
-    "title": "Молдова запроваджує заходи економії електроенергії та води через обміління Дністра",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047112/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T20:47:00+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/8/7/875302e-0ccec19-2.jpg"
   }
 ]
