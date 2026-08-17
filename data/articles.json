@@ -1,5 +1,29 @@
 [
   {
+    "id": "581052af52f80bea",
+    "title": "Трамп готовий бомбити свого союзника Оман, якщо той втрутиться в угоду з Іраном",
+    "summary": "Президент США лайкою відреагував на можливі домовленості сусідів по Ормузькій протоці.",
+    "url": "https://lb.ua/world/2026/08/18/759678_tramp_gotoviy_bombiti_svogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T22:50:00+00:00",
+    "fetched": "2026-08-17T22:53:04+00:00",
+    "image": "https://i.lb.ua/news/062/14/6a838fb632138.jpg"
+  },
+  {
+    "id": "e881d65294e0db9c",
+    "title": "Bluesky draws its logo on screenshots",
+    "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 44 # Comments: 26",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:20:40+00:00",
+    "fetched": "2026-08-17T22:53:05+00:00",
+    "image": null
+  },
+  {
     "id": "24e999c1f4a22610",
     "title": "У Варшаві зібрали третину підписів для референдуму про відставку мера",
     "summary": "Раніше міського голову таким чином відсторонили у Кракові.",
@@ -12,6 +36,18 @@
     "image": "https://i.lb.ua/news/009/59/6a83898daa26a.jpg"
   },
   {
+    "id": "bb57e7996a076e96",
+    "title": "Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html Comments URL: https://news.ycombinator.com/item?id=49338404 Points: 13 # Comments: 13",
+    "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:15:38+00:00",
+    "fetched": "2026-08-17T22:53:05+00:00",
+    "image": null
+  },
+  {
     "id": "6dcb17665432e270",
     "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
     "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
@@ -22,6 +58,18 @@
     "published": "2026-08-17T22:08:47+00:00",
     "fetched": "2026-08-17T22:28:35+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg"
+  },
+  {
+    "id": "60d29d18b8a22162",
+    "title": "Quake Shareware, a CD-ROM just a little too full",
+    "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html Comments URL: https://news.ycombinator.com/item?id=49338328 Points: 14 # Comments: 1",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:06:14+00:00",
+    "fetched": "2026-08-17T22:53:05+00:00",
+    "image": null
   },
   {
     "id": "8c07ece6556f269a",
@@ -118,6 +166,18 @@
     "published": "2026-08-17T21:10:00+00:00",
     "fetched": "2026-08-17T21:29:15+00:00",
     "image": "https://i.lb.ua/news/043/02/6a83775479bc1.jpg"
+  },
+  {
+    "id": "e0f3312f0f36eb1a",
+    "title": "How do functions like alloca allocate memory from the stack?",
+    "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617 Comments URL: https://news.ycombinator.com/item?id=49337630 Points: 3 # Comments: 0",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T21:06:10+00:00",
+    "fetched": "2026-08-17T22:53:05+00:00",
+    "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
   },
   {
     "id": "1447ea5549401524",
@@ -49846,17 +49906,5 @@
     "published": "2026-08-03T23:07:00+00:00",
     "fetched": "2026-08-04T01:00:49+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/885916/b14f3125b84e7a3ecd94ad6aa90f9be5.jpeg"
-  },
-  {
-    "id": "e163e047f2c80739",
-    "title": "Зеленський звільнив низку послів та змінив представника України при ЮНЕСКО",
-    "summary": "Президент Володимир Зеленський підписав серію указів про кадрові зміни в дипломатичному корпусі України, звільнивши послів у кількох державах та призначивши нову постійну представницю при ЮНЕСКО.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047116/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T22:44:00+00:00",
-    "fetched": "2026-08-03T23:06:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/885915/dcd415eccc659fa7eddab8d7e10ea150.jpeg"
   }
 ]
