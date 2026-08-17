@@ -1,5 +1,89 @@
 [
   {
+    "id": "b2dcb835162a2904",
+    "title": "На фракції \"Слуга народу\" не обговорювали кадрові питання, - джерела",
+    "summary": "Якщо внесення кандидатур не відбудеться сьогодні ввечері, то \"шансів на розгляд цього тижня мало\".",
+    "url": "https://lb.ua/news/2026/08/17/759616_fraktsiyi_sluga_narodu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:49:00+00:00",
+    "fetched": "2026-08-17T15:52:59+00:00",
+    "image": "https://i.lb.ua/news/108/05/6a832cacda92d.jpg"
+  },
+  {
+    "id": "faacc4571e4d2f0a",
+    "title": "Трамп закликав Іран \"підняти білий прапор\" через провал переговорів",
+    "summary": "Головною метою США залишається недопущення отримання Іраном ядерної зброї.",
+    "url": "https://lb.ua/world/2026/08/17/759612_tramp_zaklikav_iran_pidnyati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:40:00+00:00",
+    "fetched": "2026-08-17T15:52:59+00:00",
+    "image": "https://i.lb.ua/news/010/46/6a832acd349a1.jpg"
+  },
+  {
+    "id": "cc4c9a150c8193cc",
+    "title": "China’s economy showing signs that slowdown may be extending",
+    "summary": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with…",
+    "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-17T15:36:25+00:00",
+    "fetched": "2026-08-17T15:52:59+00:00",
+    "image": "https://i.guim.co.uk/img/media/990f70c7faa98b9a8da40ae06ea211f6b29a631d/1113_0_5439_4352/master/5439.jpg?width=140&quality=85&auto=format&fit=max&s=05dd0e0592cfefd892bae6b041c7d6d4"
+  },
+  {
+    "id": "91872056af2a89e3",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://youtu.be/no2LY2gRh-c Typical production voice…",
+    "url": "https://news.ycombinator.com/item?id=49332751",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T15:36:18+00:00",
+    "fetched": "2026-08-17T15:53:02+00:00",
+    "image": null
+  },
+  {
+    "id": "402f56ab13b128ca",
+    "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+    "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+    "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-17T15:33:42+00:00",
+    "fetched": "2026-08-17T15:52:59+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg"
+  },
+  {
+    "id": "e1e96da9de7285ea",
+    "title": "На Одещині скасували обмеження комендантської години для транзитного руху до пунктів пропуску",
+    "summary": "Обмеження скасували для транзитного руху всіх видів транспорту.",
+    "url": "https://lb.ua/society/2026/08/17/759610_odeschini_skasuvali_obmezhennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:32:00+00:00",
+    "fetched": "2026-08-17T15:52:59+00:00",
+    "image": "https://i.lb.ua/news/023/52/6a8327e021367.jpg"
+  },
+  {
+    "id": "b784fff695307517",
+    "title": "Литва продовжить до кінця року посилений захист критичної інфраструктури",
+    "summary": "Міноборони Литви продовжить до кінця року термін дії посилених заходів захисту об'єктів критичної інфраструктури.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049036/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:29:00+00:00",
+    "fetched": "2026-08-17T15:53:00+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/8/683cfeb-2419587-229274-1287x836.jpg"
+  },
+  {
     "id": "018619e6edea7927",
     "title": "Меланія Трамп допомогла возз’єднати ще одну українську родину, яку розлучила російська війна",
     "summary": "Перша леді США Меланія Трамп сприяла возз'єднанню ще однієї української дитини з її родиною – сім'ю розлучила російська агресія проти України.",
@@ -49438,77 +49522,5 @@
     "published": "2026-08-03T15:57:27+00:00",
     "fetched": "2026-08-03T16:29:14+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
-  },
-  {
-    "id": "5497b7e8136d74bd",
-    "title": "На Дніпропетровщині через російський терор четверо цивільних загинули, черед них дитина. Ще 15 поранені",
-    "summary": "Окупанти били безпілотниками, авіабомбами та з артилерії.",
-    "url": "https://lb.ua/society/2026/08/03/756426_dnipropetrovschini_cherez.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T15:53:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://i.lb.ua/news/116/09/6a70b965377ea.jpg"
-  },
-  {
-    "id": "8ede1a729070f23d",
-    "title": "Вітакер вважає, що угоду про спільне виробництво перехоплювачів для Patriot не укладуть до зими",
-    "summary": "Посол США при НАТО Метью Вітакер заявив, що переговори про спільне виробництво перехоплювачів для систем Patriot з Україною та європейськими партнерами тривають, однак укласти відповідну угоду до цієї зими не встигнуть.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047075/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T15:44:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/885779/9e0bfc09285fa03c40c37574ae8bc839.jpeg"
-  },
-  {
-    "id": "0419387b26e2e3b9",
-    "title": "Russian anti-war politician says he has fled the country",
-    "summary": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
-    "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T15:41:08+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1724/live/16c1cbe0-8f49-11f1-9c3d-5b64c79e1429.jpg"
-  },
-  {
-    "id": "a5c21580961b0145",
-    "title": "Фаєр-шоу з пусками: \"Лазарі\" НГУ показали знищення російського \"Урагану\"",
-    "summary": "Підрозділ Lasar's Group Національної гвардії України оприлюднив відео знищення російської реактивної системи залпового вогню БМ-27 \"Ураган\" на Новопавлівському напрямку.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047069/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T15:34:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/5/885775/05bc27963e291be45212ea988898e9d3.jpeg"
-  },
-  {
-    "id": "51064e52fc217e07",
-    "title": "Зеленський анонсував нові рішення щодо ППО та виробництва зброї",
-    "summary": "Президент заслухав доповідь Павла Паліси про виконання оборонних домовленостей.",
-    "url": "https://lb.ua/society/2026/08/03/756424_zelenskiy_anonsuvav_novi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T15:34:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://i.lb.ua/news/088/05/6a70b4d20c5b9.jpg"
-  },
-  {
-    "id": "d2e006c4ebfe9a53",
-    "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-    "summary": "Article URL: https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/ Comments URL:…",
-    "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T15:31:32+00:00",
-    "fetched": "2026-08-03T16:29:16+00:00",
-    "image": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/155/553/685/KPbegp4noQkMwrnkzlVkN03vE/126c7504d0db2e66bcc581f09cf56c3c81fc79ea.png"
   }
 ]
