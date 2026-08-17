@@ -1,5 +1,197 @@
 [
   {
+    "id": "1386b9b79a3a891c",
+    "title": "Trump’s dumb border wall",
+    "summary": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"grandmother\" tree, as some locals call it, is imperiled and…",
+    "url": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T16:30:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2290533079.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "15805bde6aa4166b",
+    "title": "Санду: Деякі дрони летять в Молдову, бо їх туди запустили",
+    "summary": "Президентка Молдови Мая Санду вважає, що деякі дрони потрапляють у повітряний простір її країни випадково, а інші – тому що їх саме туди запустили.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049048/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:23:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/7/893544/97a4b79ee1eea06008229e1d31c71000.jpeg"
+  },
+  {
+    "id": "76deabe245cd437c",
+    "title": "ЦПД: росіяни поширюють фейкове відео про нібито мобілізацію 500 священників ПЦУ",
+    "summary": "На офіційному сайті Human Rights Watch немає повідомлень про таку мобілізацію.",
+    "url": "https://lb.ua/society/2026/08/17/759622_tspd_rosiyani_poshiryuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:21:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://i.lb.ua/news/114/56/6a8333a41fe99.jpg"
+  },
+  {
+    "id": "228abd020f258ab3",
+    "title": "Зеленський відреагував на ДТП в Києві: Треба посилювати відповідальність для порушників",
+    "summary": "Президент України Володимир Зеленський відреагував на гучні ДТП в Києві: анонсує посилення відповідальності для тих, хто систематично порушує правила на дорозі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049047/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:11:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/e/893537/7e056081309040ad4c72e8bcba9387ca.jpeg"
+  },
+  {
+    "id": "aea4eaace5ec6703",
+    "title": "Reuters: у Росії почалася нова хвиля дефіциту бензину",
+    "summary": "Попередня хвиля паливної кризи в Росії виникла у липні.",
+    "url": "https://lb.ua/economics/2026/08/17/759620_reuters_rosiyi_pochalasya_nova.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:11:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://i.lb.ua/news/113/00/6a8331a7eb6ec.jpg"
+  },
+  {
+    "id": "f62c42e8f531828f",
+    "title": "Перший електрокар Ferrari Luce продали за $40 млн",
+    "summary": "Це майже у 63 рази більше за стартову ціну моделі — приблизно $640 000.",
+    "url": "https://ain.ua/2026/08/17/persii-seriinii-ferrari-luce-prodali-za-40-mln/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-17T16:10:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-17/7I0GoFgyYsfLy0CQCP4hyRYXySN5lmgih2txDsTd.webp"
+  },
+  {
+    "id": "87e4cc44c6ec535e",
+    "title": "На Дніпропетровщині за день дві людини загинули внаслідок обстрілів",
+    "summary": "Внаслідок російських обстрілів 17 серпня двоє людей загинули та один поранений внаслідок чергових обстрілів на Дніпропетровщині.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049046/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:04:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/893515/d42c367eb6f66acda91a130dd357b569.jpeg"
+  },
+  {
+    "id": "5fcee2c1f02ccfa1",
+    "title": "Чим відрізняються удари по НПЗ та нафтохімічних заводах Росії та якого ефекту чекати",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049045/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:02:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/893450/5441ab4dca27b9ff97a9c8cbf7d27533.jpeg?w=1200&q=85&stamp=1786982051"
+  },
+  {
+    "id": "ffd7f34486b2b4f9",
+    "title": "Болісніше за удар по НПЗ: як атаки на нафтохімію у Росії б’ють по їхньому озброєнню",
+    "summary": "У Росії 10 серпня палав найбільший нафтохімічний завод \"ЗапСибНафтохім\", що належить холдингу \"Сібур\". Він розташований у Тобольську Тюменської області, за понад 2000 кілометрів від України. Атаку влаштували підрозділи Deep Strike Сил спеціальних операцій разом із повстанським…",
+    "url": "https://www.pravda.com.ua/articles/2026/08/17/8049041/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:01:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/a/893449/4a99e7a4228b82085ad58c2024fb5a06.jpeg"
+  },
+  {
+    "id": "e552eb7a2dab23f7",
+    "title": "Радикали проти поміркованих: якою буде політика України після війни — дослідження",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049043/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:00:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/893494/og_8048636_ukr.png?w=1200&q=85&stamp=1786982520"
+  },
+  {
+    "id": "f50998e0f40d8ca2",
+    "title": "Через російський терор на Дніпропетровщині загинули двоє людей, ще одна поранена",
+    "summary": "Окупанти завдали 80 ударів по чотирьох районах області.",
+    "url": "https://lb.ua/society/2026/08/17/759618_cherez_rosiyskiy_teror.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T16:00:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://i.lb.ua/news/113/59/6a832fab8674d.jpg"
+  },
+  {
+    "id": "859dd857c68953d8",
+    "title": "Якою може бути політична система України після війни",
+    "summary": "Яким буде політичний устрій України після війни? Аналіз викликів, корупції та протистояння еліт.",
+    "url": "https://www.pravda.com.ua/columns/2026/08/17/8048636/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:53:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/893494/og_8048636_ukr.png?w=1200&q=85&stamp=1786982520"
+  },
+  {
+    "id": "36eee045081ecae2",
+    "title": "У Хорватії за підозрою у серії підпалів затримали громадянку Польщі",
+    "summary": "Хорватська поліція затримала чотирьох людей, яких підозрюють у навмисному підпалі в десяти місцях, серед затриманих – 33-річна громадянка Польщі та троє громадян Хорватії.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049042/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:52:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/0/b/0b7e1eb--.jpg"
+  },
+  {
+    "id": "50fa87b3b7c6e546",
+    "title": "На Сумщині чоловік підірвався на російській міні",
+    "summary": "Внаслідок отриманих травм 46-річний місцевий житель загинув на місці.",
+    "url": "https://lb.ua/society/2026/08/17/759614_sumschini_cholovik_pidirvavsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:51:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://i.lb.ua/news/024/31/6a832bd924ed0.jpg"
+  },
+  {
+    "id": "4d25a933145cec50",
+    "title": "На Сумщині загинув чоловік: підірвався на небезпечному предметі",
+    "summary": "У Краснопільській громаді Сумщини 46-річний чоловік підірвався на вибухівці та загинув.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049040/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:50:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/893451/6412c6d7234263e86460ae857ce9ab3a.jpeg"
+  },
+  {
+    "id": "7e4e3095f73f3eb3",
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/ Comments URL: https://news.ycombinator.com/item?id=49332981 Points: 172 # Comments: 172",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T15:49:57+00:00",
+    "fetched": "2026-08-17T16:32:43+00:00",
+    "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e"
+  },
+  {
     "id": "b2dcb835162a2904",
     "title": "На фракції \"Слуга народу\" не обговорювали кадрові питання, - джерела",
     "summary": "Якщо внесення кандидатур не відбудеться сьогодні ввечері, то \"шансів на розгляд цього тижня мало\".",
@@ -9,6 +201,18 @@
     "lang": "uk",
     "published": "2026-08-17T15:49:00+00:00",
     "fetched": "2026-08-17T15:52:59+00:00",
+    "image": "https://i.lb.ua/news/108/05/6a832cacda92d.jpg"
+  },
+  {
+    "id": "0c95dbd1a050a5f2",
+    "title": "На \"малій\" фракції \"Слуга народу\" не обговорювали кадрові питання, - джерела",
+    "summary": "Якщо внесення кандидатур не відбудеться сьогодні ввечері, то \"шансів на розгляд цього тижня мало\".",
+    "url": "https://lb.ua/news/2026/08/17/759616_maliy_fraktsiyi_sluga_narodu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T15:49:00+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
     "image": "https://i.lb.ua/news/108/05/6a832cacda92d.jpg"
   },
   {
@@ -46,6 +250,18 @@
     "published": "2026-08-17T15:36:18+00:00",
     "fetched": "2026-08-17T15:53:02+00:00",
     "image": null
+  },
+  {
+    "id": "e9bd6d4edbf3eb0b",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://youtu.be/no2LY2gRh-c Link:…",
+    "url": "https://speko.ai/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T15:36:18+00:00",
+    "fetched": "2026-08-17T16:32:43+00:00",
+    "image": "https://speko.ai/opengraph-image?b1c5b7b39189286b"
   },
   {
     "id": "402f56ab13b128ca",
@@ -168,6 +384,18 @@
     "image": "https://i.lb.ua/news/081/13/6a832226acc6e.jpg"
   },
   {
+    "id": "afc76dc69800e179",
+    "title": "This sub-$7,000 sportscar might be just what the future needs",
+    "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+    "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T15:01:25+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/0.png-1152x648.jpeg"
+  },
+  {
     "id": "fddaa90f876f2028",
     "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
     "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
@@ -288,6 +516,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/3/893414/833bec99990719dcfd7d2888579ede4f.jpeg"
   },
   {
+    "id": "4293114fb3a67bf5",
+    "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+    "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 21 # Comments: 24",
+    "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T14:30:09+00:00",
+    "fetched": "2026-08-17T16:32:43+00:00",
+    "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp"
+  },
+  {
     "id": "0d144b694cf2ed85",
     "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
     "summary": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu Comments URL: https://news.ycombinator.com/item?id=49331607 Points: 9 # Comments: 2",
@@ -312,6 +552,18 @@
     "image": "https://repository-images.githubusercontent.com/1332009127/027a01cb-35de-477d-ac15-e121724259c7"
   },
   {
+    "id": "7d1468675970f0a4",
+    "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "summary": "Hi HN, like many of you talented folk, I’ve been building more, faster than ever. I built Saggar after my terminal stopped feeling like a tool and started feeling like a tab-management problem. Let me know you think! Comments URL: https://news.ycombinator.com/item?id=49331551…",
+    "url": "https://saggar.marginalutility.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T14:25:54+00:00",
+    "fetched": "2026-08-17T16:32:43+00:00",
+    "image": "https://saggar.marginalutility.dev/opengraph-image?a4837e7da74a8caf"
+  },
+  {
     "id": "ced336c317890e08",
     "title": "«Київстар» та «Укртелеком» почали спільно використовувати оптичні мережі. Що це означає?",
     "summary": "«Київстар» використовуватиме GPON-мережу «Укртелекому» для підключення домашнього інтернету. «Укртелеком» зможе надавати послуги оптичного інтернету через мережу Київстар.",
@@ -334,6 +586,18 @@
     "published": "2026-08-17T14:24:35+00:00",
     "fetched": "2026-08-17T14:31:59+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ulta-image-final-updated.avif?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e505159eb4058314",
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T14:22:54+00:00",
+    "fetched": "2026-08-17T16:32:42+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
   },
   {
     "id": "32e1c7a982785411",
@@ -49366,161 +49630,5 @@
     "published": "2026-08-03T16:34:00+00:00",
     "fetched": "2026-08-03T18:20:46+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/c/885787/ecba723069a57edd8a1c936cafca5f8c.jpeg"
-  },
-  {
-    "id": "0b4220142a3001a5",
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-    "summary": "Hi HN, we’re Bence and Ryan, founders of Hoplite ( https://hoplite.sh ). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers,…",
-    "url": "https://hoplite.sh",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T16:32:06+00:00",
-    "fetched": "2026-08-03T18:20:46+00:00",
-    "image": "https://hoplite.sh/opengraph.png"
-  },
-  {
-    "id": "1730ba44b99cc0da",
-    "title": "Microsoft is bringing Xbox 360 games to PC",
-    "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be…",
-    "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T16:31:35+00:00",
-    "fetched": "2026-08-03T18:20:46+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ffb3778559a41569",
-    "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-    "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-    "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T16:27:43+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg"
-  },
-  {
-    "id": "82b743b5b98f6b5a",
-    "title": "Упродовж липня через російські обстріли на Херсонщині загинули 32 людини",
-    "summary": "Ще 464 людини зазнали поранень, серед них - діти.",
-    "url": "https://lb.ua/society/2026/08/03/756432_uprodovzh_lipnya_cherez_rosiyski.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T16:25:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://i.lb.ua/news/037/20/6a70c106e3ef7.jpg"
-  },
-  {
-    "id": "20a41e1d6555a44a",
-    "title": "Непомітно підійшли на метр до противника: ССО показали наліт на позиції ворога",
-    "summary": "ССО України провели наліт на позиції ворога: знищено 4, взято в полон 2 окупантів, отримано цінну інформацію.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047078/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T16:20:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/0/885784/90a206170a103fed67f74ba2a638b775.jpeg"
-  },
-  {
-    "id": "505dbe612d5546af",
-    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-    "summary": "Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including what the user asked their agent to do and what the agent thought. You wrap your MCP in 3 lines of code (our SDK is available in…",
-    "url": "https://armature.tech/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T16:17:59+00:00",
-    "fetched": "2026-08-03T18:20:46+00:00",
-    "image": "https://armature.tech/assets/brand/og-home.png"
-  },
-  {
-    "id": "03ab1788bb3a5045",
-    "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-    "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
-    "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T16:10:22+00:00",
-    "fetched": "2026-08-03T20:13:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1-1152x648.jpg"
-  },
-  {
-    "id": "b221075a181f9df7",
-    "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
-    "summary": "Article URL: https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en Comments URL: https://news.ycombinator.com/item?id=49157645 Points: 10 # Comments: 4",
-    "url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T16:07:09+00:00",
-    "fetched": "2026-08-03T18:20:46+00:00",
-    "image": "https://assets.st-note.com/production/uploads/images/291809558/rectangle_large_type_2_a5df5f5d3cda1717c41284edb25c5b5c.png?fit=bounds&quality=85&width=1280"
-  },
-  {
-    "id": "27ff595f5a3cc228",
-    "title": "Росіяни вдарили по Запорізькому району: зруйновані житлові будинки",
-    "summary": "На місці атаки виникли пожежі.",
-    "url": "https://lb.ua/society/2026/08/03/756430_rosiyani_vdarili_zaporizkomu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T16:07:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://i.lb.ua/news/122/15/6a70bce4f3694.jpg"
-  },
-  {
-    "id": "6322ed80ff8c3d37",
-    "title": "Корецький наголосив на необхідності синхронної роботи уряду і Ради для вступу до ЄС",
-    "summary": "Прем’єр-міністр Сергій Корецький наголосив, що для просування України до членства в ЄС уряд і Верховна Рада мають узгоджено працювати над ухваленням необхідних законів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047077/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T16:06:00+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/d/885781/2d033bb11bc94bcf0070b83554eb56f2.jpeg"
-  },
-  {
-    "id": "5d24f14cc3a7f533",
-    "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-    "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries. Lucy Hough speaks to the Guardian’s European community affairs…",
-    "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T16:05:20+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://i.guim.co.uk/img/media/64b7d9cf3b917d2f8753485f587edab1fc229604/210_0_3444_2756/master/3444.jpg?width=140&quality=85&auto=format&fit=max&s=1b1dda6f0e8c14099a57437c074af302"
-  },
-  {
-    "id": "725874ec81028ee4",
-    "title": "В українській EdTech-компанії Promova відбулися скорочення. Що відомо",
-    "summary": "Українська EdTech-компанія Promova скорочує 63 фахівців у межах організаційних змін. Про це DOU повідомили в компанії. У Promova пояснили, що переглядають структуру відповідно до поточних бізнес-пріоритетів. Компанія планує зосередити ресурси на новому етапі розвитку продукту та…",
-    "url": "https://dou.ua/lenta/news/layoffs-in-promova/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-03T16:02:07+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://s.dou.ua/img/announces/747771156_18120643307510729_6390421623101034786_.jpg"
-  },
-  {
-    "id": "d8a8a14363b8d455",
-    "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-    "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-    "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T15:57:27+00:00",
-    "fetched": "2026-08-03T16:29:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
   }
 ]
