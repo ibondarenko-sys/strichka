@@ -1,5 +1,29 @@
 [
   {
+    "id": "adffddf139beef85",
+    "title": "Reddit’s AI is turning posts into podcasts and short videos",
+    "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video…",
+    "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T23:46:01+00:00",
+    "fetched": "2026-08-17T23:49:55+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "4628565fa5ccbfbe",
+    "title": "Король Норвегії був госпіталізований і проведе два тижні на лікарняному",
+    "summary": "89-річний монарх має проблеми зі здоров'ям, але не бажає зрікатися престолу.",
+    "url": "https://lb.ua/world/2026/08/18/759680_korol_norvegiyi_buv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T23:32:00+00:00",
+    "fetched": "2026-08-17T23:49:54+00:00",
+    "image": "https://i.lb.ua/news/125/04/6a8399e109285.jpg"
+  },
+  {
     "id": "3fe85aaee8d85871",
     "title": "Зять Трампа: Або ХАМАС роззброїться за 60-90 днів, або Ізраїль отримає набагато більшу підтримку",
     "summary": "Кушнер після зустрічі з ХАМАС і Нетаньягу заявив, що терористи мають 60-90 днів, аби здати зброю.",
@@ -49858,29 +49882,5 @@
     "published": "2026-08-04T00:00:00+00:00",
     "fetched": "2026-08-04T01:00:49+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "5b549f3cc1515861",
-    "title": "Нова Зеландія зробила англійську офіційною мовою - нею і так говорять 95% населення",
-    "summary": "У парламенті запропонували також ухвалити закон \"про зміну літа та зими\".",
-    "url": "https://lb.ua/world/2026/08/04/756474_nova_zelandiya_zrobila_angliysku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T23:48:00+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://i.lb.ua/news/070/48/6a7128d619a29.jpg"
-  },
-  {
-    "id": "50929661a16f8dcf",
-    "title": "Why did we wait so long for the bicycle? (2019)",
-    "summary": "Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle Comments URL: https://news.ycombinator.com/item?id=49162787 Points: 14 # Comments: 3",
-    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T23:44:19+00:00",
-    "fetched": "2026-08-04T04:45:14+00:00",
-    "image": "https://blog.rootsofprogress.org/img/the-american-velocipede.jpg"
   }
 ]
