@@ -1,5 +1,101 @@
 [
   {
+    "id": "bcbe515ded91608b",
+    "title": "Санду пояснила, чому Молдові вигідно сприяти транзиту українського зерна",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049074/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T20:18:00+00:00",
+    "fetched": "2026-08-17T20:31:41+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/e/1/e199d27-kjki.jpg"
+  },
+  {
+    "id": "961c63222f807791",
+    "title": "Окупанти атакували дронами підприємство в Кривому Розі",
+    "summary": "Інформації про постраждалих немає.",
+    "url": "https://lb.ua/society/2026/08/17/759662_okupanti_atakuvali_dronami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T20:15:00+00:00",
+    "fetched": "2026-08-17T20:31:42+00:00",
+    "image": "https://i.lb.ua/news/015/62/6a836bcfd7b56.jpg"
+  },
+  {
+    "id": "9739585c4084053c",
+    "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+    "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:00:20+00:00",
+    "fetched": "2026-08-17T20:31:41+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg"
+  },
+  {
+    "id": "9588f46b1410d366",
+    "title": "У Запоріжжі через атаку РФ по садовому товаристві загинули дві людини",
+    "summary": "Російські війська 17 серпня атакували безпілотником садове товариство в Запоріжжі: двоє людей загинули.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049073/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T20:00:00+00:00",
+    "fetched": "2026-08-17T20:31:41+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/893636/69bb7b7292308eae90417387e31adb04.jpeg"
+  },
+  {
+    "id": "2f081e91d232feca",
+    "title": "Will you have spent more of your life with computers than your family?",
+    "summary": "Article URL: https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/ Comments URL: https://news.ycombinator.com/item?id=49336672 Points: 14 # Comments: 2",
+    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T19:56:30+00:00",
+    "fetched": "2026-08-17T20:31:42+00:00",
+    "image": "https://beachfront.bearblog.dev/static/og-image.png"
+  },
+  {
+    "id": "e54ce960f9362200",
+    "title": "У вівторок в більшості областей України очікуються дощі та грози",
+    "summary": "В західних областях та на Житомирщині температурний максимум +25°, на решті територій +33°.",
+    "url": "https://lb.ua/society/2026/08/17/759660_vivtorok_bilshosti_oblastey.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T19:54:00+00:00",
+    "fetched": "2026-08-17T20:31:42+00:00",
+    "image": "https://i.lb.ua/news/046/55/6a8366f8d6f3e.jpg"
+  },
+  {
+    "id": "c76018e68d72fbf6",
+    "title": "AI;DR (AI; Didn't Read)",
+    "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 112 # Comments: 34",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T19:47:15+00:00",
+    "fetched": "2026-08-17T20:31:42+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9"
+  },
+  {
+    "id": "11c605c1d233b543",
+    "title": "Трамп заявив, що Кім Чен Ин завжди ставився до нього з великою повагою",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8049072/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T19:34:00+00:00",
+    "fetched": "2026-08-17T20:31:41+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/2/4236742--107644942-054989517-1.jpg"
+  },
+  {
     "id": "1139c7d0cd29ed29",
     "title": "Росіяни вдарили дроном по Запоріжжі: відомо про двох загиблих",
     "summary": "Під атакою опинилось садове товариство.",
@@ -22,6 +118,18 @@
     "published": "2026-08-17T19:27:49+00:00",
     "fetched": "2026-08-17T19:31:22+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Glorious-GMMK-3-Black-Breakout-2.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ae9b970e0cde3461",
+    "title": "India built the biggest digital payments miracle: Now comes the bill",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o Comments URL: https://news.ycombinator.com/item?id=49336304 Points: 11 # Comments: 1",
+    "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T19:25:11+00:00",
+    "fetched": "2026-08-17T20:31:42+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/250b/live/07d59750-96ed-11f1-bdf3-57bf9a99cb46.jpg"
   },
   {
     "id": "bdb87c97b0473f29",
@@ -70,6 +178,18 @@
     "published": "2026-08-17T18:59:00+00:00",
     "fetched": "2026-08-17T19:31:22+00:00",
     "image": "https://i.lb.ua/news/097/01/6a835a4545021.jpg"
+  },
+  {
+    "id": "6abbbc4ce126c4ed",
+    "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+    "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
+    "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T18:43:51+00:00",
+    "fetched": "2026-08-17T20:31:41+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Granary_2-PC-LP-04-3-880x648.webp"
   },
   {
     "id": "7a92bb9b038a2ec5",
@@ -49678,125 +49798,5 @@
     "published": "2026-08-03T20:47:00+00:00",
     "fetched": "2026-08-03T21:41:48+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/8/7/875302e-0ccec19-2.jpg"
-  },
-  {
-    "id": "3280a1ce1dbd1652",
-    "title": "Гідрометцентр: у вівторок в Україні сильна спека 35-38°",
-    "summary": "Через погодні умови, з 4 по 6 серпня в більшості областей України оголосили надзвичайний рівень пожежної небезпеки.",
-    "url": "https://lb.ua/society/2026/08/03/756460_gidromettsentr_vivtorok_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T20:26:00+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://i.lb.ua/news/041/31/6a70f9988aea7.jpg"
-  },
-  {
-    "id": "bda800337d38b0e5",
-    "title": "Через удар російських дронів палають склади з продуктами біля Дніпра",
-    "summary": "Масштабна пожежа на складах із продуктами під Дніпром через атаку російських дронів. Інформація про постраждалих уточнюється.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047111/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T20:19:00+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/885886/d41ba6ea99e4aeef5d309a7a88a1e8e1.jpeg"
-  },
-  {
-    "id": "8a9c56134c9a0237",
-    "title": "Research roundup: 6 cool science stories we almost missed",
-    "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
-    "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T20:13:37+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/incaboy-1152x648-1785365793.jpg"
-  },
-  {
-    "id": "a9916288e6a55e48",
-    "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-    "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
-    "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T20:05:46+00:00",
-    "fetched": "2026-08-03T21:41:48+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2925/live/e6ad2ad0-8f75-11f1-94d6-1138f63f65fc.jpg"
-  },
-  {
-    "id": "0cde03794f63d68d",
-    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-    "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 71 # Comments: 37",
-    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T20:02:21+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2249021916-e1785504459772.jpg?resize=1200,600"
-  },
-  {
-    "id": "8d0f3bcf95b65c91",
-    "title": "В передмісті Дніпра виникла масштабна пожежа через атаку російського дрона",
-    "summary": "Інформація про постраждалих уточнюється.",
-    "url": "https://lb.ua/society/2026/08/03/756458_peredmisti_dnipra_vinikla.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T20:01:00+00:00",
-    "fetched": "2026-08-03T20:13:27+00:00",
-    "image": "https://i.lb.ua/news/058/32/6a70f3b55f910.jpg"
-  },
-  {
-    "id": "fd4f67b426b71590",
-    "title": "DDoS against Norwegian government IT infrastructure – status",
-    "summary": "Article URL: https://status.digdir.no/incidents/d7hvqmf2yr3l Comments URL: https://news.ycombinator.com/item?id=49160631 Points: 67 # Comments: 39",
-    "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T19:56:27+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
-  },
-  {
-    "id": "85f825f94555466f",
-    "title": "В Ірані заявили, що готувалися вдарити по трьох об’єктах в Україні",
-    "summary": "Старший радник лідера Ірану Мохсен Резаї заявив, що іранська армія готувалася завдати удару по трьох цілях в Україні після атаки на торгове судно в Каспійському морі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8047110/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T19:54:00+00:00",
-    "fetched": "2026-08-03T20:13:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/a/885885/7a0c7d8fb533e583c632b7818904a85b.jpeg"
-  },
-  {
-    "id": "59cb2b6c6df3792f",
-    "title": "Швеція викликала представника Росії через останні обстріли України та порушення повітряного простору НАТО",
-    "summary": "В МЗС Швеції також згадали про постраждалу внаслідок атаки по Києві будівлю посольства Литви.",
-    "url": "https://lb.ua/world/2026/08/03/756454_shvetsiya_viklikala_predstavnika.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T19:43:00+00:00",
-    "fetched": "2026-08-03T20:13:27+00:00",
-    "image": "https://i.lb.ua/news/115/24/6a70ef7793878.jpg"
-  },
-  {
-    "id": "1f986e4e87a9d0c1",
-    "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-    "summary": "Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real Comments URL: https://news.ycombinator.com/item?id=49160437 Points: 72 # Comments: 77",
-    "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T19:39:34+00:00",
-    "fetched": "2026-08-03T21:41:49+00:00",
-    "image": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/light-bulb-1042480_1920_1.jpeg?itok=nDOISjZp"
   }
 ]
