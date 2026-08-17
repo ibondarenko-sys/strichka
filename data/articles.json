@@ -1,5 +1,17 @@
 [
   {
+    "id": "3fe85aaee8d85871",
+    "title": "Зять Трампа: Або ХАМАС роззброїться за 60-90 днів, або Ізраїль отримає набагато більшу підтримку",
+    "summary": "Кушнер після зустрічі з ХАМАС і Нетаньягу заявив, що терористи мають 60-90 днів, аби здати зброю.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049080/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T22:52:00+00:00",
+    "fetched": "2026-08-17T23:26:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/f/893670/bfae0d75bfa65afd9d3fcda859eb3a40.jpeg"
+  },
+  {
     "id": "581052af52f80bea",
     "title": "Трамп готовий бомбити свого союзника Оман, якщо той втрутиться в угоду з Іраном",
     "summary": "Президент США лайкою відреагував на можливі домовленості сусідів по Ормузькій протоці.",
@@ -34,6 +46,18 @@
     "published": "2026-08-17T22:20:00+00:00",
     "fetched": "2026-08-17T22:28:35+00:00",
     "image": "https://i.lb.ua/news/009/59/6a83898daa26a.jpg"
+  },
+  {
+    "id": "f2e025d540114a5f",
+    "title": "scScript for Linux",
+    "summary": "Article URL: https://scapplications.com/ Comments URL: https://news.ycombinator.com/item?id=49338428 Points: 4 # Comments: 1",
+    "url": "https://scapplications.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:18:05+00:00",
+    "fetched": "2026-08-17T23:26:49+00:00",
+    "image": null
   },
   {
     "id": "bb57e7996a076e96",
@@ -108,6 +132,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/e/1/e16cc2b-kjkjkjkj.jpg"
   },
   {
+    "id": "ec1f1d4fe6efb3a6",
+    "title": "My friends all hate AI; I just joined an AI startup",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 9 # Comments: 4",
+    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T21:47:30+00:00",
+    "fetched": "2026-08-17T23:26:49+00:00",
+    "image": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/alexnet-3.jpg"
+  },
+  {
     "id": "5441ef9ef063002d",
     "title": "Прем'єр Латвії вимагає заборонити видачу росіянам віз Євросоюзу",
     "summary": "Очільника уряду обурює можливість для військових агресора подорожувати Європою.",
@@ -178,6 +214,18 @@
     "published": "2026-08-17T21:06:10+00:00",
     "fetched": "2026-08-17T22:53:05+00:00",
     "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
+  },
+  {
+    "id": "e37dcbb0bfb6f07b",
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 5 # Comments: 0",
+    "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T21:03:18+00:00",
+    "fetched": "2026-08-17T23:26:49+00:00",
+    "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f"
   },
   {
     "id": "1447ea5549401524",
@@ -49834,77 +49882,5 @@
     "published": "2026-08-03T23:44:19+00:00",
     "fetched": "2026-08-04T04:45:14+00:00",
     "image": "https://blog.rootsofprogress.org/img/the-american-velocipede.jpg"
-  },
-  {
-    "id": "0238657df9caee61",
-    "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-    "summary": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
-    "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T23:25:14+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca1/live/6fbef520-8f2a-11f1-97e3-3fd20de37928.jpg"
-  },
-  {
-    "id": "234fe9ac3c58e254",
-    "title": "There Will Come Soft Rains [pdf]",
-    "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf Comments URL: https://news.ycombinator.com/item?id=49162653 Points: 7 # Comments: 1",
-    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T23:24:53+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": null
-  },
-  {
-    "id": "c59f89531478e9d6",
-    "title": "Половина штатів подали позов проти Трампа щодо нових митних тарифів",
-    "summary": "Білий дім нібито знову перевищив повноваження.",
-    "url": "https://lb.ua/world/2026/08/04/756472_polovina_shtativ_podali_pozov.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T23:15:00+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://i.lb.ua/news/074/59/6a712169d6d5c.jpg"
-  },
-  {
-    "id": "4eb4681ea08bca17",
-    "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-    "summary": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
-    "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T23:14:12+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74a/live/7ef55710-8c31-11f1-a7ab-8b30adf0800a.png"
-  },
-  {
-    "id": "f2f34636f3008ed7",
-    "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-    "summary": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
-    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T23:13:03+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711d/live/8600d9a0-8f59-11f1-9c32-a3e1fce5018b.jpg"
-  },
-  {
-    "id": "5a1ec006426dc497",
-    "title": "Умєров розповів, чим займатиметься на посаді голови Служби зовнішньої розвідки",
-    "summary": "Новопризначений голова Служби зовнішньої розвідки України Рустем Умєров заявив, що на новій посаді зосередиться на розвитку міжнародного співробітництва, реалізації стратегічних оборонних проєктів та посиленні спроможностей відомства.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047117/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T23:07:00+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/885916/b14f3125b84e7a3ecd94ad6aa90f9be5.jpeg"
   }
 ]
