@@ -1,5 +1,53 @@
 [
   {
+    "id": "9f3eca5c4f2de080",
+    "title": "Actress Hayden Panettiere dies aged 36, US media report",
+    "summary": "A representative for the actress confirmed the news to US outlet ABC News, but did not provide further details of her death.",
+    "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-17T04:03:52+00:00",
+    "fetched": "2026-08-17T04:13:14+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png"
+  },
+  {
+    "id": "448a6c09ef09afcf",
+    "title": "Сили оборони України вбили або поранили ще 1440 російських окупантів – Генштаб",
+    "summary": "За минулу добу Сили оборони України вбили та поранили 1 440 російських окупантів, загальні втрати ворога у війні склали 1 468 760 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8048936/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T04:00:00+00:00",
+    "fetched": "2026-08-17T04:13:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/a/892822/6a99faa02d3cda36b8b2bb60f0aa2b2f.jpeg"
+  },
+  {
+    "id": "5b50034b84244e41",
+    "title": "Росія розгорнула біля кордонів 10 нових баз для запуску реактивних дронів по Україні – ЗМІ",
+    "summary": "Росія збудувала та розширила щонайменше 10 військових баз уздовж кордонів з Україною та Білоруссю, розрахованих на масований запуск новітніх реактивних безпілотників для системного виснаження та прориву української протиповітряної оборони.",
+    "url": "https://www.pravda.com.ua/news/2026/08/17/8048935/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T03:45:00+00:00",
+    "fetched": "2026-08-17T04:13:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/7/892820/e719934eb2825022c4846a118da3f5c0.jpeg"
+  },
+  {
+    "id": "b85feffc20aecb4d",
+    "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
+    "summary": "Article URL: https://boston.conman.org/2026/08/11.1 Comments URL: https://news.ycombinator.com/item?id=49326229 Points: 8 # Comments: 5",
+    "url": "https://boston.conman.org/2026/08/11.1",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T03:21:37+00:00",
+    "fetched": "2026-08-17T04:13:18+00:00",
+    "image": null
+  },
+  {
     "id": "dc0319b100dab038",
     "title": "Країни Перської затоки налагодили таємне вивезення нафти через Ормузьку протоку – ЗМІ",
     "summary": "Країни Перської затоки реалізували схему прихованого транспортування нафти через Ормузьку протоку з подальшим її перевантаженням на танкери в Оманській затоці, незважаючи на регулярні напади Ірану на судна.",
@@ -22,6 +70,18 @@
     "published": "2026-08-17T02:30:00+00:00",
     "fetched": "2026-08-17T03:03:56+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/892755/fc3b3238a410904cd2960513f92f14b5.jpeg"
+  },
+  {
+    "id": "102dcf98980f6fba",
+    "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+    "summary": "Article URL: https://www.bbc.com/news/articles/clyqpx6xk69o Comments URL: https://news.ycombinator.com/item?id=49325937 Points: 11 # Comments: 0",
+    "url": "https://www.bbc.com/news/articles/clyqpx6xk69o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T02:28:16+00:00",
+    "fetched": "2026-08-17T04:13:18+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg"
   },
   {
     "id": "a20f9c474ff40c34",
@@ -72,6 +132,18 @@
     "image": "https://www.sciencedaily.com/images/1920/gluons-role-in-baryon-number-conservation.webp"
   },
   {
+    "id": "22b21299981c8dc1",
+    "title": "Prolly: A content-addressed ordered map built on prolly trees",
+    "summary": "Article URL: https://github.com/crabbuild/prolly Comments URL: https://news.ycombinator.com/item?id=49325458 Points: 11 # Comments: 0",
+    "url": "https://github.com/crabbuild/prolly",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T01:00:45+00:00",
+    "fetched": "2026-08-17T04:13:18+00:00",
+    "image": "https://opengraph.githubassets.com/0031b06dfa644042a66dc3cd167fbcbe961105a302fd61094eaa72bca8b659d3/crabbuild/prolly"
+  },
+  {
     "id": "0a37f55e067439f9",
     "title": "Rhombus 1.1 is now available",
     "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 6 # Comments: 2",
@@ -81,6 +153,18 @@
     "lang": "en",
     "published": "2026-08-17T00:48:21+00:00",
     "fetched": "2026-08-17T01:37:06+00:00",
+    "image": null
+  },
+  {
+    "id": "59e7914876a5ccb8",
+    "title": "Applying a photosynthetic process to treat \"dry eye\"",
+    "summary": "Article URL: https://www.science.org/content/blog-post/taking-tip-plants-eyes Comments URL: https://news.ycombinator.com/item?id=49325304 Points: 5 # Comments: 0",
+    "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T00:35:29+00:00",
+    "fetched": "2026-08-17T04:13:18+00:00",
     "image": null
   },
   {
@@ -49054,65 +49138,5 @@
     "published": "2026-08-03T04:24:00+00:00",
     "fetched": "2026-08-03T06:45:37+00:00",
     "image": "https://i.lb.ua/news/121/47/6a70182fb8eaf.jpg"
-  },
-  {
-    "id": "a2c40cdbb62efa5a",
-    "title": "New Zealand legislation making English an official language ridiculed as ‘pathetic’",
-    "summary": "Passing of bill gives English same status as Māori and sign language but, with it already spoken by 95% of country, critics call it ‘a pointless exercise’ Legislation recognising English as an official language of New Zealand has been passed by parliament, prompting derision…",
-    "url": "https://www.theguardian.com/world/2026/aug/03/new-zealand-english-an-official-language-bill",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T04:06:41+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://i.guim.co.uk/img/media/25e0f42bef1b243987da186a6fe242e1c60be42b/581_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=eb15529800046a5bd96024ce36d03531"
-  },
-  {
-    "id": "22a771f5afe79649",
-    "title": "Сили оборони України знешкодили ще 1390 російських окупантів – Генштаб",
-    "summary": "Загальні втрати росіян у війні перевищили 1 450 510 осіб — дані Генштабу ЗСУ на 3 серпня 2026 року.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8046960/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T03:44:00+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/0/885384/005d4e80b15d0067a9fc92fef23f8729.jpeg"
-  },
-  {
-    "id": "2e80605faa5a5660",
-    "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-    "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-    "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-03T03:32:21+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b1f/live/54e97760-8efe-11f1-b8ee-9b3c26ad07bb.jpg"
-  },
-  {
-    "id": "2e2ef160068081bd",
-    "title": "У Бєлгороді після атаки спалахнув університет: там збирали дрони",
-    "summary": "В університеті Бєлгорода, де розробляли безпілотники, сталася пожежа після атаки дронів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/03/8046959/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-03T03:31:00+00:00",
-    "fetched": "2026-08-03T06:45:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/885383/b76b502de3b5c1c6730b2bd2f6c9b4a4.jpeg"
-  },
-  {
-    "id": "a702bd3736084af5",
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
-    "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 28 # Comments: 22",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-03T03:06:12+00:00",
-    "fetched": "2026-08-03T06:45:38+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   }
 ]
