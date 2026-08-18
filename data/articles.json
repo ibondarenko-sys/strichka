@@ -1,5 +1,65 @@
 [
   {
+    "id": "dc10063bbc62de3c",
+    "title": "МОН спростило оцінювання для учнів 5-9 класів: що зміниться",
+    "summary": "Відтепер учителям не потрібно обов’язково зазначати в журналі групи результатів.",
+    "url": "https://lb.ua/society/2026/08/18/759810_mon_sprostilo_otsinyuvannya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T11:46:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://i.lb.ua/news/001/11/6a844609bd39a.jpg"
+  },
+  {
+    "id": "216a79a2a02527bd",
+    "title": "Двоюрідного брата Башара Асада засудили до смертної кари в Сирії",
+    "summary": "Його засуджено за злочини проти людяності та воєнні злочини.",
+    "url": "https://lb.ua/world/2026/08/18/759808_dvoyuridnogo_brata_bashara_asada.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T11:45:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://i.lb.ua/news/005/58/6a84460d83e95.jpg"
+  },
+  {
+    "id": "c60527b76388f6b1",
+    "title": "\"Резерв+\" для жінок і не лише. ЄС змінив правила для українців: як діяти та що буде далі",
+    "summary": "Тепер українцям, незалежно від статі та віку, будуть надавати захист у ЄС лише якщо вони доведуть, що не порушили правила військового обліку в Україні...",
+    "url": "https://www.pravda.com.ua/articles/2026/08/18/8049156/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T11:42:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/5/893995/4504cfc18d014dde773f772961d50786.jpeg"
+  },
+  {
+    "id": "a67829f8e28a45d1",
+    "title": "Oops! My cat is an iPad kid",
+    "summary": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity…",
+    "url": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T11:30:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_GAME_4f2b2f.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "04ef758a6b34dec5",
+    "title": "СБУ викрила бізнесменів із Київщини, підозрюваних у постачанні РФ матеріалів для антидронових сіток",
+    "summary": "До бізнес-групи входило 39 українських підприємств.",
+    "url": "https://lb.ua/society/2026/08/18/759802_sbu_vikrila_biznesmeniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T11:28:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://i.lb.ua/news/073/02/6a8441dacb6d8.jpg"
+  },
+  {
     "id": "71b35792a016b928",
     "title": "Вирок у Німеччині отримав українець, що планував підпали на користь РФ",
     "summary": "У Німеччині до тюремного ув'язнення засудили українця: він нібито планував підпали на користь Росії.",
@@ -48,6 +108,18 @@
     "image": "https://cdn.ain.ua/ua/articles/2026-08-18/88k0aVWk4ea35FaBqkOxHbIaFAkpVOVyqccZYY4c.webp"
   },
   {
+    "id": "1b1d89fe5c95026b",
+    "title": "How I turned my fish tank high tech",
+    "summary": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past couple of years while keeping nano fish - a group of five…",
+    "url": "https://www.theverge.com/tech/978229/fish-tank-tech",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T11:15:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_AQUARIUM.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "974c9205bc1b3eae",
     "title": "Прокуратура Франції взялась за розслідування втручання РФ у вибори",
     "summary": "Паризька прокуратура розслідує підозри у втручанні РФ у кампанію кандидатів у президенти Франції.",
@@ -82,6 +154,42 @@
     "published": "2026-08-18T11:02:00+00:00",
     "fetched": "2026-08-18T11:29:07+00:00",
     "image": "https://i.lb.ua/news/079/29/6a843b6d5edd7.jpg"
+  },
+  {
+    "id": "ef35fc7d2a4d6523",
+    "title": "Fairphone’s latest repairable phone is going on sale in the US",
+    "summary": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and is sold unlocked with support for both…",
+    "url": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-3.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "9b37fd2d441f7e45",
+    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald…",
+    "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "78030b55c4faad1f",
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched": "2026-08-18T11:54:56+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "00af380d6a0c833d",
@@ -49966,77 +50074,5 @@
     "published": "2026-08-04T12:00:51+00:00",
     "fetched": "2026-08-04T13:04:50+00:00",
     "image": "https://bookface-images.s3.amazonaws.com/logos/a16a93b3a2821d2403e09535a2d3d3df3024fc8f.png?1693987047"
-  },
-  {
-    "id": "6e3e321c0bf6e44f",
-    "title": "У які ІТ-виші подали найбільше заяв на вступ у 2026 році",
-    "summary": "1 серпня закінчився прийом заяв на вступ в університети. Найбільше випускники шкіл подаються до Київських та Львівських вишів. DOU в аналітиці вступної кампанії уже розповів про те, які ІТ-спеціальності найпопулярніші серед абітурієнтів та чому загалом зросла кількість заяв на…",
-    "url": "https://dou.ua/lenta/news/it-universities-rate/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-04T11:53:29+00:00",
-    "fetched": "2026-08-04T13:04:49+00:00",
-    "image": "https://s.dou.ua/img/announces/22_1_hIP3APn.jpg"
-  },
-  {
-    "id": "57f8d220d93db200",
-    "title": "ГогольFest кличе на толоку 7–8 серпня щоб відновити закинутий “Кінопалац”",
-    "summary": "Під час фестивалю в колишньому кінотеатрі розташують мистецький сквот.",
-    "url": "https://lb.ua/culture/2026/08/04/756582_gogolfest_kliche_toloku_78.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T11:46:00+00:00",
-    "fetched": "2026-08-04T13:04:50+00:00",
-    "image": "https://i.lb.ua/news/101/58/6a71d1a1529c1.jpg"
-  },
-  {
-    "id": "cefbc8142528b9c9",
-    "title": "Біля Новоросійська дрон атакував вантажне судно Росії",
-    "summary": "За попередньою інформацією, троє членів екіпажу постраждали.",
-    "url": "https://lb.ua/world/2026/08/04/756580_bilya_novorosiyska_dron_atakuvav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T11:46:00+00:00",
-    "fetched": "2026-08-04T13:04:50+00:00",
-    "image": "https://i.lb.ua/news/110/10/6a71d12b809a5.jpg"
-  },
-  {
-    "id": "8a1c704b15aeea8e",
-    "title": "Росіяни вкотре дистанційно замінували вулиці Херсона",
-    "summary": "Містян закликали бути пильними.",
-    "url": "https://lb.ua/society/2026/08/04/756578_rosiyani_vkotre_distantsiyno.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T11:46:00+00:00",
-    "fetched": "2026-08-04T13:04:50+00:00",
-    "image": "https://i.lb.ua/news/065/52/6a71d0fe36312.jpg"
-  },
-  {
-    "id": "c8bed11e21787dab",
-    "title": "Buckminster Fuller: everything I know",
-    "summary": "Article URL: https://www.bfi.org/about-fuller/everything-i-know/ Comments URL: https://news.ycombinator.com/item?id=49167147 Points: 22 # Comments: 10",
-    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T11:33:32+00:00",
-    "fetched": "2026-08-04T13:04:50+00:00",
-    "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC93d3cuYmZpLm9yZ1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMTFcL2Nyb3BwZWQtYmZpLWZhdmljb24ucG5nP2ZpdD01MTIlMkM1MTImc3NsPTEiLCJ0eHQiOiJCdWNrbWluc3RlciBGdWxsZXIgSW5zdGl0dXRlIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjE5NjQ0MzkwOX0.u9sUnXXrlptaZ4LQQzLqSBSSTka1hLcaGA7nxeX5uhUMQ"
-  },
-  {
-    "id": "9a59082d2f72ce1a",
-    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-    "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 190 # Comments: 101",
-    "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T11:30:17+00:00",
-    "fetched": "2026-08-04T13:04:50+00:00",
-    "image": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png"
   }
 ]
