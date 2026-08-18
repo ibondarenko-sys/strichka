@@ -1,5 +1,77 @@
 [
   {
+    "id": "5eb09d0db0bb2bda",
+    "title": "Мене шантажує ФСБ. Як російські спецслужби вербували волонтера через сина, а він вирішив поїхати до Москви, щоб його врятувати",
+    "summary": "Волонтер Михайло Пуришев, відомий своїми поїздками до окупованого Маріуполя, 17 серпня 2026 року добровільно полетів до Москви. Як він пояснює, через шантаж: ФСБ РФ погрожувала мобілізувати його сина до російської армії та відправити воювати проти України, якщо чоловік не…",
+    "url": "https://www.pravda.com.ua/articles/2026/08/18/8049075/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T02:30:00+00:00",
+    "fetched": "2026-08-18T02:39:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/893651/ca8dd95c1a6c48e81cf58d27324b3312.jpeg"
+  },
+  {
+    "id": "6042dc8f02d286b3",
+    "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+    "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+    "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-18T02:06:04+00:00",
+    "fetched": "2026-08-18T02:39:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg"
+  },
+  {
+    "id": "5095c6805f61d56c",
+    "title": "Москва під масованою атакою безпілотників (оновлено)",
+    "summary": "Десятки дронів рухаються в бік ворожої столиці.",
+    "url": "https://lb.ua/society/2026/08/18/759684_moskva_pid_masovanoyu_atakoyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T02:06:00+00:00",
+    "fetched": "2026-08-18T02:39:12+00:00",
+    "image": "https://i.lb.ua/news/056/31/6a83b4e51eeac.jpg"
+  },
+  {
+    "id": "84582ff6ef72f797",
+    "title": "Гаваями пронісся ураган: загинула людина, знеструмлені 100 000 домогосподарств і підприємств",
+    "summary": "На Гаваях загинула щонайменше одна людина і 100 000 домогосподарств та підприємств лишилися без електропостачання після того, як у вихідні ураган Lala пронісся на півдні штату, принісши проливні дощі, що спричинили руйнівні повені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049084/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T01:52:00+00:00",
+    "fetched": "2026-08-18T02:39:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/1/893682/515b640ff17c7e70588a6d914aeba5aa.jpeg"
+  },
+  {
+    "id": "47b4607fa412c768",
+    "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
+    "summary": "New software releases? Who cares. Learning new CS concepts? Whatever. Studying for the next interview? Job probably won't even exist in a year. Working on that side project? No one will care because it's just another addition to the mountain of slop, and the guy bagging your…",
+    "url": "https://news.ycombinator.com/item?id=49340013",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T01:28:48+00:00",
+    "fetched": "2026-08-18T02:39:12+00:00",
+    "image": null
+  },
+  {
+    "id": "73549710cf660be0",
+    "title": "Russia warns UK over supplying drones to Ukraine",
+    "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-18T01:16:41+00:00",
+    "fetched": "2026-08-18T02:39:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg"
+  },
+  {
     "id": "c66a9b70f3685a98",
     "title": "Torrential rains kill one in South Korea while Philippine capital battles major flooding",
     "summary": "More than 800mm of rain was recorded in the South Korean city of Geoje, which triggered a landslide that killed one person Torrential downpours that have pounded southern parts of South Korea have killed one person and injured four others, officials have confirmed. Heavy rains…",
@@ -22,6 +94,18 @@
     "published": "2026-08-18T00:37:00+00:00",
     "fetched": "2026-08-18T01:26:47+00:00",
     "image": "https://i.lb.ua/news/074/23/6a83a90f7678d.jpg"
+  },
+  {
+    "id": "9e62463480db708a",
+    "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+    "summary": "Article URL: https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy Comments URL: https://news.ycombinator.com/item?id=49339599 Points: 27 # Comments: 7",
+    "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T00:29:15+00:00",
+    "fetched": "2026-08-18T02:39:12+00:00",
+    "image": null
   },
   {
     "id": "7bb7d7c4a5f9edd4",
@@ -70,6 +154,18 @@
     "published": "2026-08-17T23:46:01+00:00",
     "fetched": "2026-08-17T23:49:55+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "24d62d122ca66c42",
+    "title": "BBC breaks down Trump's latest shift on North and South Korea",
+    "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+    "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-17T23:42:38+00:00",
+    "fetched": "2026-08-18T02:39:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg"
   },
   {
     "id": "4628565fa5ccbfbe",
@@ -276,6 +372,18 @@
     "image": "https://i.lb.ua/news/023/27/6a8380ad8e137.jpg"
   },
   {
+    "id": "fb1b2269d70dfab0",
+    "title": "Norway's king admitted to hospital and put on sick leave",
+    "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+    "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-17T21:34:26+00:00",
+    "fetched": "2026-08-18T02:39:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/e5a7dd60-9a79-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
     "id": "386a2fe87a74e828",
     "title": "Грецький танкер з російською нафтою зазнав атаки в Чорному морі – Bloomberg",
     "summary": "За даними ЗМІ, у Чорному морі зазнав нападу завантажений російською нафтою грецький танкер.",
@@ -370,6 +478,18 @@
     "published": "2026-08-17T20:59:00+00:00",
     "fetched": "2026-08-17T21:53:44+00:00",
     "image": "https://i.lb.ua/news/017/31/6a8381a514a1e.jpg"
+  },
+  {
+    "id": "1d7b5105e7e233a1",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 102 # Comments: 24",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:46:10+00:00",
+    "fetched": "2026-08-18T02:39:12+00:00",
+    "image": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65"
   },
   {
     "id": "2d81d7fdb342b4ce",
@@ -49846,77 +49966,5 @@
     "published": "2026-08-04T02:47:26+00:00",
     "fetched": "2026-08-04T04:45:13+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e733/live/9b67e420-8fac-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "0a3acce627d3b24a",
-    "title": "Полонених судять як терористів. Що відбувається з українськими військовими, яких захопили на Курщині",
-    "summary": "На початку серпня минає два роки відтоді, як українці довели, що територія Росії не є недоторканою. 6 серпня 2024-го Сили оборони розпочали наступ у Курській області Російської Федерації та до кінця місяця взяли під контроль понад 100 населених пунктів – це приблизно 1300…",
-    "url": "https://www.pravda.com.ua/articles/2026/08/04/8047088/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T02:30:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/2/885797/92f79e1c7ee9fe8eeadbfb505f5c551a.jpeg"
-  },
-  {
-    "id": "9314efa109a54f4d",
-    "title": "Прем'єр-міністр Литви хоче включити у навчальні програми Шевченка замість Ломоносова",
-    "summary": "Затверджений у 2022 році список рекомендованих авторів викликає чимало критики.",
-    "url": "https://lb.ua/society/2026/08/04/756480_premier-ministr_litvi_hoche.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T02:28:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://i.lb.ua/news/021/47/6a71466920e00.jpg"
-  },
-  {
-    "id": "250322b4bf9536ac",
-    "title": "Застосунок Telegram зникав із магазину App Store в Україні та світі",
-    "summary": "Популярний месенджер Telegram став недоступним для завантаження в магазині додатків Apple App Store для пристроїв iPhone та iPad в Україні та багатьох інших країнах.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047122/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T02:08:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/885921/55f6f977782e10415fd5fa7b12838acc.jpeg"
-  },
-  {
-    "id": "c07c3c11c802749e",
-    "title": "Верховна Рада відкриє представництво у Європарламенті – Стефанчук",
-    "summary": "Голова Верховної Ради Руслан Стефанчук заявив, що український парламент найближчим часом відкриє власне представництво у Європейському парламенті за аналогією з офісом Європарламенту у Києві.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047120/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T02:05:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/885919/808e4344d6b780100bf3f25a335057a0.jpeg"
-  },
-  {
-    "id": "8b58ea4b3878b05f",
-    "title": "У Києві та низці областей оголошували тривогу через загрозу російських БпЛА",
-    "summary": "У ніч проти 4 серпня в столиці та кількох регіонах України оголосили повітряну тривогу через загрозу російських ударних безпілотників.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047121/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T01:51:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/e/885920/7e6822b7cbb82ef2eba46a688f20b0e6.jpeg"
-  },
-  {
-    "id": "873330d99d9252d1",
-    "title": "Трамп анонсував відновлення судноплавства в Ормузькій протоці вже 4 серпня",
-    "summary": "Переговори з Іраном нібито розвиваються стрімко.",
-    "url": "https://lb.ua/world/2026/08/04/756478_tramp_anonsuvav_vidnovlennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T01:27:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://i.lb.ua/news/059/16/6a71401c786df.jpg"
   }
 ]
