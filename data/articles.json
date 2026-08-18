@@ -1,5 +1,41 @@
 [
   {
+    "id": "fdf4de76700d6583",
+    "title": "Ворожі дрони атакували Запоріжжя: загинула людина, шестеро поранених",
+    "summary": "Внаслідок удару росіян по Запоріжжю загинула людина, є поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049242/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T22:02:00+00:00",
+    "fetched": "2026-08-18T22:28:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/e/894491/3ef5dfbe3cefebf77a5d5bc06797d96d.jpeg"
+  },
+  {
+    "id": "8f7486e6b967ed03",
+    "title": "Окупанти знову атакували безпілотниками Запоріжжя: є загиблий та поранені",
+    "summary": "За попередніми даними, постраждали 6 людей.",
+    "url": "https://lb.ua/society/2026/08/19/759910_okupanti_znovu_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T21:59:00+00:00",
+    "fetched": "2026-08-18T22:28:06+00:00",
+    "image": "https://i.lb.ua/news/082/33/6a84d5b981749.jpg"
+  },
+  {
+    "id": "be621d64d51941bd",
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "summary": "Article URL: https://github.com/DenisSergeevitch/desktop-fly Comments URL: https://news.ycombinator.com/item?id=49353221 Points: 4 # Comments: 0",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T21:50:33+00:00",
+    "fetched": "2026-08-18T22:28:08+00:00",
+    "image": "https://opengraph.githubassets.com/02bf35a394171f2f7fa41c1263f86c3b4e48ccc5bbb98b4dc65f9924b046f74b/DenisSergeevitch/desktop-fly"
+  },
+  {
     "id": "78612126aee6aedd",
     "title": "Міноборони спрощує закупівлю палива, речей та харчування для військових",
     "summary": "Раніше перед кожною закупівлею перелік тилових товарів і цін затверджувався в Міноборони. За час погодження ціна на ринку могла змінитися.",
@@ -10,6 +46,30 @@
     "published": "2026-08-18T21:50:00+00:00",
     "fetched": "2026-08-18T21:51:06+00:00",
     "image": "https://i.lb.ua/news/000/01/6a84d1ee98ebf.jpg"
+  },
+  {
+    "id": "3bf6639441230e0f",
+    "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+    "summary": "Article URL: https://xcancel.com/bennjordan/status/2089430236945342508 Comments URL: https://news.ycombinator.com/item?id=49353181 Points: 24 # Comments: 9",
+    "url": "https://xcancel.com/bennjordan/status/2089430236945342508",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T21:48:12+00:00",
+    "fetched": "2026-08-18T22:28:08+00:00",
+    "image": "https://pbs.twimg.com/media/HP8jv3XWYAAoDQH.jpg"
+  },
+  {
+    "id": "34e505f8d24e2b0f",
+    "title": "Марта Костюк вийшла до 1/8 фіналу турніру в Цинциннаті",
+    "summary": "Далі росіянка, яка не пустила українку у фінал Ролан Гаррос.",
+    "url": "https://lb.ua/sport/2026/08/19/759908_marta_kostyuk_viyshla_18_finalu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T21:48:00+00:00",
+    "fetched": "2026-08-18T22:28:06+00:00",
+    "image": "https://i.lb.ua/news/099/62/6a84d3ce3cf1c.jpg"
   },
   {
     "id": "8eb3ad0bd86b5682",
@@ -70,6 +130,18 @@
     "published": "2026-08-18T21:13:30+00:00",
     "fetched": "2026-08-18T21:51:10+00:00",
     "image": "https://lawsofsoftwareengineering.com/og/dilbert-principle.png"
+  },
+  {
+    "id": "0b3b9ff19a1e7515",
+    "title": "Find Chicago Parking Cops",
+    "summary": "Article URL: https://www.secondcitycitation.com Comments URL: https://news.ycombinator.com/item?id=49352737 Points: 8 # Comments: 5",
+    "url": "https://www.secondcitycitation.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T21:08:40+00:00",
+    "fetched": "2026-08-18T22:28:08+00:00",
+    "image": null
   },
   {
     "id": "f2af02fa23ae6502",
@@ -49966,113 +50038,5 @@
     "published": "2026-08-04T22:29:00+00:00",
     "fetched": "2026-08-04T22:36:30+00:00",
     "image": "https://i.lb.ua/news/081/15/6a72685d58f2c.jpg"
-  },
-  {
-    "id": "231c322d5a8078a2",
-    "title": "We finally learned to center a div, then browsers added sidebars",
-    "summary": "Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 26 # Comments: 13",
-    "url": "https://seg6.space/posts/center-div/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T22:24:00+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": null
-  },
-  {
-    "id": "b9a4c8c6dc1cfaf6",
-    "title": "Pi's Minimalism Is Its Advantage",
-    "summary": "Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 16 # Comments: 2",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T22:22:12+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": "https://earendil.com/static/og/posts/pi-autoresearch-and-databricks.png"
-  },
-  {
-    "id": "126b04959cfffbbd",
-    "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-    "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-    "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T22:09:50+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8945/live/5bb99010-8fe0-11f1-bb3b-43bf44dc94d9.jpg"
-  },
-  {
-    "id": "99675fa433c6ef00",
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 23 # Comments: 0",
-    "url": "https://techascent.com/blog/just-ducking-around.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T22:09:43+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": null
-  },
-  {
-    "id": "4dc7e9ce969e37d2",
-    "title": "Now you can securely link multiple phones to one Signal account",
-    "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked…",
-    "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T22:02:46+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK459_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "fa745c8fb5e379ca",
-    "title": "AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL",
-    "summary": "Article URL: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/ Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 11 # Comments: 3",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T22:01:41+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg"
-  },
-  {
-    "id": "0336cc6baee8d152",
-    "title": "Київ перебуває під атакою балістики і реактивних БПЛА: є влучання (оновлено)",
-    "summary": "В місті лунають потужні вибухи.",
-    "url": "https://lb.ua/society/2026/08/05/756708_kiyiv_perebuvaie_pid_atakoyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T22:00:00+00:00",
-    "fetched": "2026-08-04T22:36:30+00:00",
-    "image": "https://i.lb.ua/news/011/03/6a725fa804777.jpg"
-  },
-  {
-    "id": "a7ad591c5fb3abc0",
-    "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-    "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 20 # Comments: 3",
-    "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T21:52:58+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": null
-  },
-  {
-    "id": "b45e8d4dc9e1522e",
-    "title": "Senators demand crackdown on wildfire \"prediction markets\"",
-    "summary": "Fire experts warn such markets could incentivize arson.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T21:52:31+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-1152x648.jpg"
   }
 ]
