@@ -1,5 +1,17 @@
 [
   {
+    "id": "3e9cab214023c88a",
+    "title": "Трамп хоче зустрітися з лідером Північної Кореї восени – WSJ",
+    "summary": "Президент США Дональд Трамп наполягає на тому, щоб його помічники організували зустріч із лідером Північної Кореї Кім Чен Ином вже цієї осені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049244/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T23:42:00+00:00",
+    "fetched": "2026-08-18T23:48:54+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/d/894498/4df1461f167b8c909da24441126e75a2.jpeg"
+  },
+  {
     "id": "19d4d875c49c04a3",
     "title": "На півдні Іспанії стався землетрус, є постраждалі",
     "summary": "Пам'ятка ЮНЕСКО була зачиненою для туристів.",
@@ -60,6 +72,30 @@
     "image": "https://i.lb.ua/news/086/58/6a84dcaf33cb4.jpg"
   },
   {
+    "id": "9b655fd728148f8a",
+    "title": "ZZ Top drummer Frank Beard dies aged 77",
+    "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+    "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-18T22:25:46+00:00",
+    "fetched": "2026-08-18T23:48:54+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg"
+  },
+  {
+    "id": "33d7f2bc6574f07e",
+    "title": "Programmable Property-Based Testing",
+    "summary": "Article URL: https://dl.acm.org/doi/10.1145/3828685 Comments URL: https://news.ycombinator.com/item?id=49353618 Points: 5 # Comments: 0",
+    "url": "https://dl.acm.org/doi/10.1145/3828685",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T22:22:41+00:00",
+    "fetched": "2026-08-18T23:48:54+00:00",
+    "image": null
+  },
+  {
     "id": "b5088a794ae5c965",
     "title": "Who owns the code?",
     "summary": "Article URL: https://whoownsthecode.com/ Comments URL: https://news.ycombinator.com/item?id=49353603 Points: 19 # Comments: 21",
@@ -94,6 +130,18 @@
     "published": "2026-08-18T22:11:07+00:00",
     "fetched": "2026-08-18T23:25:59+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg"
+  },
+  {
+    "id": "d3c89fb31dea3c6d",
+    "title": "AI usage patterns in software teams",
+    "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 8 # Comments: 0",
+    "url": "https://linear.app/data",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T22:08:07+00:00",
+    "fetched": "2026-08-18T23:48:54+00:00",
+    "image": "https://linear.app/static/og/data-v1.jpg"
   },
   {
     "id": "2156e302859a8392",
@@ -50038,29 +50086,5 @@
     "published": "2026-08-04T23:50:52+00:00",
     "fetched": "2026-08-05T03:45:12+00:00",
     "image": null
-  },
-  {
-    "id": "45932124ee00b6ce",
-    "title": "Київ перебував під атакою балістики і реактивних БПЛА: є влучання (оновлено)",
-    "summary": "В місті лунають потужні вибухи.",
-    "url": "https://lb.ua/society/2026/08/05/756708_kiyiv_perebuvav_pid_atakoyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T23:32:00+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": "https://i.lb.ua/news/011/03/6a725fa804777.jpg"
-  },
-  {
-    "id": "57631661fc263aa3",
-    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 4 # Comments: 0",
-    "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T23:31:46+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": "https://mysk.blog/og-image.png"
   }
 ]
