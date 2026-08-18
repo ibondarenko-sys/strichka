@@ -1,5 +1,125 @@
 [
   {
+    "id": "af8f85dbb891a286",
+    "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+    "summary": "\"It was just weird, like some twisted game.\"",
+    "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-18T20:27:44+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d5/live/8979c270-9b3b-11f1-adfc-97cecc6f1ad1.jpg"
+  },
+  {
+    "id": "c543ca38f7330a7b",
+    "title": "Генштаб: Від початку доби на фронті відбулося 192 бойових зіткнення",
+    "summary": "Від початку доби 18 серпня на фронті зафіксували 192 бойових зіткнення.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049237/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T20:12:00+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/894466/53d1c1f4b280595dc9ddfccb844a0618.jpeg"
+  },
+  {
+    "id": "f4e577aaa3894365",
+    "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+    "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a…",
+    "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T20:01:01+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Steelseries-Arctis-Nova-3P-breakout.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1d582fe7232d2ec5",
+    "title": "ЦПД: Гана офіційно закликала Росію припинити вербування своїх громадян для участі у війні проти України",
+    "summary": "Таку вимогу озвучили під час зустрічі міністрів закордонних справ Гани та Росії.",
+    "url": "https://lb.ua/world/2026/08/18/759892_tspd_gana_ofitsiyno_zaklikala.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T19:58:00+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://i.lb.ua/news/064/38/6a84b9604cd5a.jpg"
+  },
+  {
+    "id": "5c0ac9fb35f98879",
+    "title": "Judge swapped in Trump's defamation case against BBC",
+    "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+    "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-18T19:52:32+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg"
+  },
+  {
+    "id": "9dffd5e77e26ac96",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile…",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T19:48:26+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&strip=all&crop=0,0,100,78.26399746371"
+  },
+  {
+    "id": "ab948ce3a0285ed9",
+    "title": "Михайло Федоров виступив із програмною заявою, в якій закликав до проведення виборів",
+    "summary": "Розповідаємо деталі.",
+    "url": "https://ain.ua/2026/08/18/fedorov-zayava-vybory/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-18T19:47:23+00:00",
+    "fetched": "2026-08-18T20:28:43+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-18/YiXvQJ4HKUsJwztNhtsk8rs3bM4dgkwPplmyYmr5.webp"
+  },
+  {
+    "id": "43a13c636e4e3497",
+    "title": "На Сумщині викрили три шахрайські call-центри",
+    "summary": "Вони продавали контент для користувачів \"OnlyFans\".",
+    "url": "https://lb.ua/society/2026/08/18/759890_sumschini_vikrili_tri_shahrayski.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T19:34:00+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://i.lb.ua/news/096/30/6a84b40b730c7.jpg"
+  },
+  {
+    "id": "2cd0ffaa42a15d8f",
+    "title": "Norway Should Buy OpenAI",
+    "summary": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai Comments URL: https://news.ycombinator.com/item?id=49351330 Points: 96 # Comments: 88",
+    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T19:30:29+00:00",
+    "fetched": "2026-08-18T20:28:43+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg"
+  },
+  {
+    "id": "e563c0683529a889",
+    "title": "Beware Management Consultants",
+    "summary": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/ Comments URL: https://news.ycombinator.com/item?id=49351324 Points: 37 # Comments: 10",
+    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T19:29:51+00:00",
+    "fetched": "2026-08-18T20:28:43+00:00",
+    "image": null
+  },
+  {
     "id": "34d85fbbba0bfe1b",
     "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
     "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes…",
@@ -10,6 +130,30 @@
     "published": "2026-08-18T19:28:30+00:00",
     "fetched": "2026-08-18T19:30:50+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7b8af07fc2c9a8bc",
+    "title": "Федоров заявив про \"системну кризу управління\" та приватні інтереси у парламенті",
+    "summary": "Колишній міністр оборони Михайло Федоров заявив про \"системну кризу управління\" в Україні та розкритикував вплив приватних інтересів на роботу парламенту, зокрема в оборонці, фармі, гральному бізнесі та податковій.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049232/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T19:28:00+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/894455/9ebe32d0e502b2e2c467a028fe11f770.jpeg"
+  },
+  {
+    "id": "b2fb3ed87350eac0",
+    "title": "США ввели санкції проти голови Міжнародного кримінального суду",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049235/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T19:26:00+00:00",
+    "fetched": "2026-08-18T20:28:42+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/c/5c08d46-2.jpg"
   },
   {
     "id": "7115b5277a5b9b4f",
@@ -34,6 +178,18 @@
     "published": "2026-08-18T19:12:00+00:00",
     "fetched": "2026-08-18T19:30:50+00:00",
     "image": "https://i.lb.ua/news/098/61/6a84ae9815667.jpg"
+  },
+  {
+    "id": "4aeae4193ba4a556",
+    "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
+    "summary": "Article URL: https://github.com/argus-testing/argus Comments URL: https://news.ycombinator.com/item?id=49351020 Points: 7 # Comments: 3",
+    "url": "https://github.com/argus-testing/argus",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T19:10:16+00:00",
+    "fetched": "2026-08-18T20:28:43+00:00",
+    "image": "https://opengraph.githubassets.com/cbd4a0aee96d141ad6ee04d3aa2c83f605cc447fbb731acdac750ab26129df99/argus-testing/argus"
   },
   {
     "id": "ed7c8a068f4948d9",
@@ -202,6 +358,18 @@
     "published": "2026-08-18T18:29:00+00:00",
     "fetched": "2026-08-18T18:43:21+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/4/894337/14773c7245e526fd45e35243676c7bd3.jpeg"
+  },
+  {
+    "id": "97ba4cd8330946cd",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "summary": "Article URL: https://openai.com/index/pacing-model-development-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49350031 Points: 23 # Comments: 4",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T18:14:59+00:00",
+    "fetched": "2026-08-18T20:28:43+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&h=900&fit=fill"
   },
   {
     "id": "5ddb5344b10d2f82",
@@ -49918,101 +50086,5 @@
     "published": "2026-08-04T20:34:28+00:00",
     "fetched": "2026-08-04T21:15:44+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg"
-  },
-  {
-    "id": "fee13d92b2a93745",
-    "title": "Чехія припиняє надавати тимчасовий захист чоловікам призовного віку з України",
-    "summary": "Українці призовного віку, які прибули до Чехії і не виконали військовий обов'язок в Україні, більше не матимуть права на отримання тимчасового захисту.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047292/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T20:28:00+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/886508/5c49c3814ca36cfc0a5982c0c8d11807.jpeg"
-  },
-  {
-    "id": "1081e6727d3ff94b",
-    "title": "У Франції під час гасіння лісових пожеж виявили сотні снарядів часів Другої світової війни",
-    "summary": "Це німецькі та французькі міномети та протитанкові снаряди.",
-    "url": "https://lb.ua/world/2026/08/04/756698_frantsiyi_pid_chas_gasinnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T20:28:00+00:00",
-    "fetched": "2026-08-04T21:15:45+00:00",
-    "image": "https://i.lb.ua/news/056/43/6a724b7e32ed5.jpg"
-  },
-  {
-    "id": "464434a799be9caf",
-    "title": "EA is now a private company",
-    "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said…",
-    "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:18:14+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ss_34588453e785e37518c3e448c91563c25ea0de95.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "dd4f5ff927e584af",
-    "title": "Oxide Computer raises $445M (SEC Form D)",
-    "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml Comments URL: https://news.ycombinator.com/item?id=49174407 Points: 30 # Comments: 8",
-    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:13:40+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": null
-  },
-  {
-    "id": "913f1ccf07234335",
-    "title": "Кишинів закликав Придністров'я не зменшувати скиди води з водосховища на Дністрі",
-    "summary": "Від цього залежить стабільність водопостачання Кишинева.",
-    "url": "https://lb.ua/world/2026/08/04/756696_kishiniv_zaklikav_pridnistrovya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T20:12:00+00:00",
-    "fetched": "2026-08-04T21:15:45+00:00",
-    "image": "https://i.lb.ua/news/113/10/6a7247bf8e765.jpg"
-  },
-  {
-    "id": "4cd76481baa894e0",
-    "title": "Waymo CEO explains why Tesla's camera-only self-driving falls short",
-    "summary": "Article URL: https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/ Comments URL: https://news.ycombinator.com/item?id=49174369 Points: 16 # Comments: 16",
-    "url": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:11:15+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-vs-Waymo.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
-  },
-  {
-    "id": "abb528d35be16c72",
-    "title": "5 серпня в Україні знову прогнозують сильну спеку",
-    "summary": "Вдень температура повітря буде на позначці 35-38°.",
-    "url": "https://lb.ua/society/2026/08/04/756694_5_serpnya_ukrayini_znovu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T19:51:00+00:00",
-    "fetched": "2026-08-04T21:15:45+00:00",
-    "image": "https://i.lb.ua/news/010/62/6a7242e113943.jpg"
-  },
-  {
-    "id": "ca3d8e3fd5e5d9e6",
-    "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
-    "summary": "Article URL: https://deepgrove.ai/maple-preview Comments URL: https://news.ycombinator.com/item?id=49173984 Points: 31 # Comments: 9",
-    "url": "https://deepgrove.ai/maple-preview",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T19:44:55+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": null
   }
 ]
