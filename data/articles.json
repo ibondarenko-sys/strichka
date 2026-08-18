@@ -1,5 +1,17 @@
 [
   {
+    "id": "aae80bff2d001fc4",
+    "title": "Трамп оприлюднив мапу з позначенням Ормузької протоки як території США",
+    "summary": "Жодних пояснень, як у Вашингтоні збираються це реалізовувати.",
+    "url": "https://lb.ua/world/2026/08/19/759912_tramp_oprilyudniv_mapu_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T22:28:00+00:00",
+    "fetched": "2026-08-18T22:54:02+00:00",
+    "image": "https://i.lb.ua/news/086/58/6a84dcaf33cb4.jpg"
+  },
+  {
     "id": "fdf4de76700d6583",
     "title": "Ворожі дрони атакували Запоріжжя: загинула людина, шестеро поранених",
     "summary": "Внаслідок удару росіян по Запоріжжю загинула людина, є поранені.",
@@ -10,6 +22,18 @@
     "published": "2026-08-18T22:02:00+00:00",
     "fetched": "2026-08-18T22:28:06+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/e/894491/3ef5dfbe3cefebf77a5d5bc06797d96d.jpeg"
+  },
+  {
+    "id": "ab3f8e5d4c952056",
+    "title": "fx :Tiny, open, native coding agent.",
+    "summary": "Article URL: https://fx.sh Comments URL: https://news.ycombinator.com/item?id=49353339 Points: 12 # Comments: 2",
+    "url": "https://fx.sh",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T22:00:21+00:00",
+    "fetched": "2026-08-18T22:54:05+00:00",
+    "image": "https://fx.sh/og.png"
   },
   {
     "id": "8f7486e6b967ed03",
@@ -852,6 +876,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg"
   },
   {
+    "id": "c6427970f8014da1",
+    "title": "And then the men with guns tell you to do it anyway",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49348912 Points: 95 # Comments: 45",
+    "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T17:11:28+00:00",
+    "fetched": "2026-08-18T22:54:05+00:00",
+    "image": null
+  },
+  {
     "id": "6d1cf65b6bf5a0b7",
     "title": "19 серпня в Україні не прогнозуються відключення світла",
     "summary": "В \"Укренерго\" наголошують на ощадливому споживанні електроенергії.",
@@ -1126,6 +1162,18 @@
     "published": "2026-08-18T16:22:54+00:00",
     "fetched": "2026-08-18T17:30:41+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg"
+  },
+  {
+    "id": "7d13f91c54eb0e8b",
+    "title": "Apple announces changes for apps in the European Union",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/ Comments URL: https://news.ycombinator.com/item?id=49348055 Points: 81 # Comments: 142",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T16:21:34+00:00",
+    "fetched": "2026-08-18T22:54:05+00:00",
+    "image": "https://www.apple.com/newsroom/images/2026/08/apple-announces-changes-for-apps-in-the-european-union/tile/Apple-App-Store-compliance-hero-lp.jpg.og.jpg?202608181600"
   },
   {
     "id": "b2076873910d8c02",
@@ -50002,41 +50050,5 @@
     "published": "2026-08-04T23:11:00+00:00",
     "fetched": "2026-08-05T00:08:32+00:00",
     "image": "https://i.lb.ua/news/070/36/6a726c4a668b2.jpg"
-  },
-  {
-    "id": "505d1f75d9750d8a",
-    "title": "США критично вичерпали арсенали ППО: використано 80% ракет THAAD та половину запасів Patriot – CNN",
-    "summary": "Сполучені Штати зіткнулися з безпрецедентним виснаженням своїх стратегічних арсеналів: американські військові використали майже 80% ракет-перехоплювачів для ключових систем протиракетної оборони THAAD та близько половини всіх ракет Patriot і Tomahawk під час п'ятимісячної війни…",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047295/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T22:40:00+00:00",
-    "fetched": "2026-08-05T00:08:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/1/886534/81fd9a531f1cb01637bbd20fd9b9ff0d.jpeg"
-  },
-  {
-    "id": "4ce6eeeb71125f46",
-    "title": "Show HN: SIMD Viterbi Decoder in Rust",
-    "summary": "I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the…",
-    "url": "https://github.com/brian-armstrong/fec",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T22:37:05+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": "https://opengraph.githubassets.com/f7047a1dda901632799dbde587bb5667ed96af4e40c7227985c4559259320551/brian-armstrong/fec"
-  },
-  {
-    "id": "ff94cbeffa989a66",
-    "title": "Росіяни почали запускати \"Калібри\", не виходячи в море",
-    "summary": "Ефективність цих ракет продовжує залишатися низькою.",
-    "url": "https://lb.ua/society/2026/08/05/756714_rosiyani_pochali_zapuskati.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T22:29:00+00:00",
-    "fetched": "2026-08-04T22:36:30+00:00",
-    "image": "https://i.lb.ua/news/081/15/6a72685d58f2c.jpg"
   }
 ]
