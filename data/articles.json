@@ -1,5 +1,53 @@
 [
   {
+    "id": "664010c731b4afcb",
+    "title": "\"Давайте дружити\". Як ФСБ шантажувала волонтера 18-річним сином, а він полетів до Москви, щоб його врятувати",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049077/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T03:35:00+00:00",
+    "fetched": "2026-08-18T03:48:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/7/893652/07d6065f5efbb323b32a45294f63eae5.jpeg?w=1200&q=85&stamp=1786998980"
+  },
+  {
+    "id": "9df2d2ec3055269c",
+    "title": "На Київщині ППО працює по ворожих безпілотниках",
+    "summary": "У Київській області вранці 18 серпня сили ППО працювали по ворожих донах.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049088/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T03:28:00+00:00",
+    "fetched": "2026-08-18T03:48:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/893703/0a7e91bc13c665291c475a627a952887.jpeg"
+  },
+  {
+    "id": "98a7af612d7b00df",
+    "title": "California's new tire efficiency rules could save drivers $1B a year",
+    "summary": "Article URL: https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/ Comments URL: https://news.ycombinator.com/item?id=49340710 Points: 7 # Comments: 9",
+    "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T02:58:42+00:00",
+    "fetched": "2026-08-18T03:48:34+00:00",
+    "image": "https://grist.org/wp-content/uploads/2026/08/california-tires.jpg"
+  },
+  {
+    "id": "b0f2dc32baae3c90",
+    "title": "На Київщині під колесами вантажного потяга загинув підліток",
+    "summary": "Поліція розслідує факт загибелі підлітка під колесами потяга в Ірпені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049085/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T02:42:00+00:00",
+    "fetched": "2026-08-18T03:48:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/b/893683/0b3f8b736ccf6c8eeaaeb296e5f92ea0.jpeg"
+  },
+  {
     "id": "5eb09d0db0bb2bda",
     "title": "Мене шантажує ФСБ. Як російські спецслужби вербували волонтера через сина, а він вирішив поїхати до Москви, щоб його врятувати",
     "summary": "Волонтер Михайло Пуришев, відомий своїми поїздками до окупованого Маріуполя, 17 серпня 2026 року добровільно полетів до Москви. Як він пояснює, через шантаж: ФСБ РФ погрожувала мобілізувати його сина до російської армії та відправити воювати проти України, якщо чоловік не…",
@@ -10,6 +58,18 @@
     "published": "2026-08-18T02:30:00+00:00",
     "fetched": "2026-08-18T02:39:11+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/893651/ca8dd95c1a6c48e81cf58d27324b3312.jpeg"
+  },
+  {
+    "id": "3822c7401f025f88",
+    "title": "The Benchmarkpocalypse",
+    "summary": "Article URL: https://danluu.com/benchpocalypse/ Comments URL: https://news.ycombinator.com/item?id=49340299 Points: 5 # Comments: 0",
+    "url": "https://danluu.com/benchpocalypse/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T02:11:02+00:00",
+    "fetched": "2026-08-18T03:48:34+00:00",
+    "image": null
   },
   {
     "id": "6042dc8f02d286b3",
@@ -49930,41 +49990,5 @@
     "published": "2026-08-04T03:57:00+00:00",
     "fetched": "2026-08-04T04:45:13+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/885923/7b7bbb265782c226d1c3f3edaf9d7213.jpeg"
-  },
-  {
-    "id": "6cd1a2b5e1a96bb0",
-    "title": "Трамп розкритикував нафтових гігантів за надприбутки від війни в Ірані: \"Вони заробляють занадто багато\"",
-    "summary": "Президент США Дональд Трамп заявив, що американські нафтові компанії ExxonMobil та Chevron отримують надприбутки на тлі воєнної кризи в Ормузькій протоці, та закликав їх знизити роздрібні ціни на бензин і поділитися коштами з населенням.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047123/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T03:39:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/885922/088ccb85e31336611bc3924a2abe3c7c.jpeg"
-  },
-  {
-    "id": "93ac6fc66b7730bd",
-    "title": "US states sue to block Trump tariffs impacting dozens of countries",
-    "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-    "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T02:53:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "2e8cf0f347997915",
-    "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
-    "summary": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane.",
-    "url": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T02:47:26+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e733/live/9b67e420-8fac-11f1-a7ab-8b30adf0800a.jpg"
   }
 ]
