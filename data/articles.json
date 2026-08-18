@@ -1,5 +1,41 @@
 [
   {
+    "id": "21bcb03eb3a8a593",
+    "title": "19 серпня в частині областей прогнозують короткочасні дощі та грози",
+    "summary": "Середня температура повітря вдень буде на позначці +26°.",
+    "url": "https://lb.ua/society/2026/08/18/759898_19_serpnya_chastini_oblastey.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T20:49:00+00:00",
+    "fetched": "2026-08-18T20:53:26+00:00",
+    "image": "https://i.lb.ua/news/116/54/6a84c57c2e5db.jpg"
+  },
+  {
+    "id": "fccd2db1b56b560e",
+    "title": "У Німеччині прогнозують зниження врожаю зерна через спеку",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049239/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T20:45:00+00:00",
+    "fetched": "2026-08-18T20:53:27+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/6/6675c75---.jpg"
+  },
+  {
+    "id": "75d09906e3054954",
+    "title": "Бельгія надає Україні 4 млн євро на цифровізацію ветеранських послуг",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049238/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T20:32:00+00:00",
+    "fetched": "2026-08-18T20:53:27+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/0/40333e7----.jpg"
+  },
+  {
     "id": "af8f85dbb891a286",
     "title": "Man in Chucky-style mask terrorises Philadelphia residents",
     "summary": "\"It was just weird, like some twisted game.\"",
@@ -10,6 +46,18 @@
     "published": "2026-08-18T20:27:44+00:00",
     "fetched": "2026-08-18T20:28:42+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d5/live/8979c270-9b3b-11f1-adfc-97cecc6f1ad1.jpg"
+  },
+  {
+    "id": "835b5f3e0b6a8bbb",
+    "title": "На зупинці для працівників Запорізької АЕС вибухнув дрон: є загиблий та поранені",
+    "summary": "Про це директор окупованої ЗАЕС повідомив МАГАТЕ.",
+    "url": "https://lb.ua/society/2026/08/18/759894_zupintsi_pratsivnikiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T20:25:00+00:00",
+    "fetched": "2026-08-18T20:53:26+00:00",
+    "image": "https://i.lb.ua/news/045/35/6a84bfc02af83.jpg"
   },
   {
     "id": "c543ca38f7330a7b",
@@ -154,6 +202,18 @@
     "published": "2026-08-18T19:26:00+00:00",
     "fetched": "2026-08-18T20:28:42+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/5/c/5c08d46-2.jpg"
+  },
+  {
+    "id": "c8366c30e86711c9",
+    "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
+    "summary": "Article URL: https://geojacker.com/llms-txt Comments URL: https://news.ycombinator.com/item?id=49351232 Points: 3 # Comments: 0",
+    "url": "https://geojacker.com/llms-txt",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T19:24:35+00:00",
+    "fetched": "2026-08-18T20:53:30+00:00",
+    "image": "https://geojacker.com/og-image.png"
   },
   {
     "id": "7115b5277a5b9b4f",
@@ -50038,53 +50098,5 @@
     "published": "2026-08-04T20:55:00+00:00",
     "fetched": "2026-08-04T21:15:45+00:00",
     "image": "https://i.lb.ua/news/010/27/6a7251c385289.jpg"
-  },
-  {
-    "id": "b12766aa0547c415",
-    "title": "Центр протидії корупції стверджує, що Кабмін, Рада та МВС не надали біографію та декларації Вигівського",
-    "summary": "Центр протидії корупції стверджує, що не отримав відповідей на запити щодо біографії та декларацій нового міністра внутрішніх справ Івана Вигівського.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047293/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T20:53:00+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/886512/a3499d61fbc38b5085091c8644283e13.jpeg"
-  },
-  {
-    "id": "fdb737d714e58bab",
-    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-    "summary": "https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 81 # Comments: 32",
-    "url": "https://twitter.com/gwern/status/2084739205071343837",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:48:17+00:00",
-    "fetched": "2026-08-05T00:08:32+00:00",
-    "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
-  },
-  {
-    "id": "ed45a6ea532204b9",
-    "title": "SpaceX has more neocloud revenue",
-    "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go…",
-    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:47:55+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "82d406643c696eaa",
-    "title": "Texas halts data center connections to power grid amid overwhelming demand",
-    "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:34:28+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg"
   }
 ]
