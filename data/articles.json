@@ -1,5 +1,29 @@
 [
   {
+    "id": "78612126aee6aedd",
+    "title": "Міноборони спрощує закупівлю палива, речей та харчування для військових",
+    "summary": "Раніше перед кожною закупівлею перелік тилових товарів і цін затверджувався в Міноборони. За час погодження ціна на ринку могла змінитися.",
+    "url": "https://lb.ua/economics/2026/08/19/759906_minoboroni_sproschuie_zakupivlyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T21:50:00+00:00",
+    "fetched": "2026-08-18T21:51:06+00:00",
+    "image": "https://i.lb.ua/news/000/01/6a84d1ee98ebf.jpg"
+  },
+  {
+    "id": "8eb3ad0bd86b5682",
+    "title": "МАГАТЕ отримало інформацію про вибух дрона на зупинці для працівників окупованої ЗАЕС",
+    "summary": "У МАГАТЕ заявили, що отримали інформацію від директора окупованої ЗАЕС про вибух дрона на автобусній зупинці, якою користуються працівники станції, внаслідок чого є загиблий і 16 потерпілих.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049240/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T21:28:00+00:00",
+    "fetched": "2026-08-18T21:51:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/a/894489/2adc7d4e5e1d49dca1c1f5ae2ac1e5f5.jpeg"
+  },
+  {
     "id": "3ba1eca794b406d8",
     "title": "Франція висилає двох іранських дипломатів",
     "summary": "Це відповідь країни на нещодавнє залякування французьких дипломатів у Тегерані.",
@@ -22,6 +46,30 @@
     "published": "2026-08-18T21:18:00+00:00",
     "fetched": "2026-08-18T21:28:23+00:00",
     "image": "https://i.lb.ua/news/086/23/6a84cccfa862e.jpg"
+  },
+  {
+    "id": "f37f0d787656da56",
+    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "summary": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver Comments URL: https://news.ycombinator.com/item?id=49352806 Points: 34 # Comments: 12",
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T21:14:21+00:00",
+    "fetched": "2026-08-18T21:51:10+00:00",
+    "image": "https://cdn.kuber.studio/chat/og-hp-laser-1008a.png"
+  },
+  {
+    "id": "a2c8b29346ab0ea4",
+    "title": "Companies promote incompetent employees to management tolimit damage they can do",
+    "summary": "Article URL: https://lawsofsoftwareengineering.com/laws/dilbert-principle/ Comments URL: https://news.ycombinator.com/item?id=49352794 Points: 4 # Comments: 1",
+    "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T21:13:30+00:00",
+    "fetched": "2026-08-18T21:51:10+00:00",
+    "image": "https://lawsofsoftwareengineering.com/og/dilbert-principle.png"
   },
   {
     "id": "f2af02fa23ae6502",
@@ -50026,29 +50074,5 @@
     "published": "2026-08-04T21:52:31+00:00",
     "fetched": "2026-08-04T22:36:29+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-1152x648.jpg"
-  },
-  {
-    "id": "5f8034c2bb9dad2f",
-    "title": "Мер Тбілісі Каладзе заявив про обман України і Грузії з боку НАТО",
-    "summary": "Колишній футболіст, який має високу посаду у проросійській партії, поскаржився на Альянс.",
-    "url": "https://lb.ua/society/2026/08/05/756710_mer_tbilisi_kaladze_zayaviv_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T21:48:00+00:00",
-    "fetched": "2026-08-04T22:36:30+00:00",
-    "image": "https://i.lb.ua/news/093/24/6a725e7dddcb7.jpg"
-  },
-  {
-    "id": "12934eb892da8425",
-    "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
-    "summary": "Article URL: https://blog.cloudflare.com/wallets/ Comments URL: https://news.ycombinator.com/item?id=49175461 Points: 29 # Comments: 10",
-    "url": "https://blog.cloudflare.com/wallets/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T21:31:02+00:00",
-    "fetched": "2026-08-05T03:45:12+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ517FXTQNNJ8YGVAX2EV3YW.png"
   }
 ]
