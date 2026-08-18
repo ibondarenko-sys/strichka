@@ -1,5 +1,41 @@
 [
   {
+    "id": "3ba1eca794b406d8",
+    "title": "Франція висилає двох іранських дипломатів",
+    "summary": "Це відповідь країни на нещодавнє залякування французьких дипломатів у Тегерані.",
+    "url": "https://lb.ua/world/2026/08/19/759904_frantsiya_visilaie_dvoh_iranskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T21:19:00+00:00",
+    "fetched": "2026-08-18T21:28:23+00:00",
+    "image": "https://i.lb.ua/news/108/53/6a84cc661cf5e.jpg"
+  },
+  {
+    "id": "b5bf8439ef4f0dad",
+    "title": "Литва планує обмежити транзит росіян своєю територією шістьма годинами",
+    "summary": "Пропозиція зареєстрована у Сеймі і знайшла підтримку президента.",
+    "url": "https://lb.ua/world/2026/08/19/759900_litva_planuie_obmezhiti_tranzit.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T21:18:00+00:00",
+    "fetched": "2026-08-18T21:28:23+00:00",
+    "image": "https://i.lb.ua/news/086/23/6a84cccfa862e.jpg"
+  },
+  {
+    "id": "f2af02fa23ae6502",
+    "title": "Головне за вівторок, 18 серпня: понад 190 бойових зіткнень, авіаудари по Краматорську, подання на нових міністрів",
+    "summary": "Бойові дії на Донеччині, 192 бойових зіткнення, ворожі обстріли. Яким запам’ятається 1637-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/18/759902_golovne_vivtorok_18_serpnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T20:58:00+00:00",
+    "fetched": "2026-08-18T21:28:23+00:00",
+    "image": "https://i.lb.ua/news/012/19/6a84c98b1423f.jpg"
+  },
+  {
     "id": "21bcb03eb3a8a593",
     "title": "19 серпня в частині областей прогнозують короткочасні дощі та грози",
     "summary": "Середня температура повітря вдень буде на позначці +26°.",
@@ -300,6 +336,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/c/894364/0cbbec189a4c3cde999d900e3b9b76c4.jpeg"
   },
   {
+    "id": "a5b27fe2af8c4e0a",
+    "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+    "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+    "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T19:01:09+00:00",
+    "fetched": "2026-08-18T21:28:23+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-1152x648-1787078981.jpg"
+  },
+  {
     "id": "38f620223849d0a8",
     "title": "Could Four Billion People Die at 3°C?",
     "summary": "Article URL: https://safeclimate.org.au/article/could-four-billion-people-die-at-3c/ Comments URL: https://news.ycombinator.com/item?id=49350833 Points: 5 # Comments: 0",
@@ -442,6 +490,18 @@
     "published": "2026-08-18T18:11:53+00:00",
     "fetched": "2026-08-18T18:43:32+00:00",
     "image": null
+  },
+  {
+    "id": "34c590c62c08d943",
+    "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+    "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T18:11:26+00:00",
+    "fetched": "2026-08-18T21:28:23+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
   },
   {
     "id": "77f3ba63c0026021",
@@ -49990,113 +50050,5 @@
     "published": "2026-08-04T21:31:02+00:00",
     "fetched": "2026-08-05T03:45:12+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ517FXTQNNJ8YGVAX2EV3YW.png"
-  },
-  {
-    "id": "277b959805d41025",
-    "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
-    "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T21:27:05+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg"
-  },
-  {
-    "id": "0d03df74e8a33c35",
-    "title": "Projectile sinks Indian-flagged ship off Yemen coast",
-    "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
-    "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T21:24:50+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1923/live/c9a0bc10-904a-11f1-bac4-9bcd48c14c6e.jpg"
-  },
-  {
-    "id": "b05993eb0dc5e180",
-    "title": "Росія атакувала Київ балістикою: в місті масштабні пожежі",
-    "summary": "Російські окупаційні війська завдали ракетного удару по Києву із застосуванням балістичного озброєння, у місті спалахнули мастабні пожежі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047294/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T21:21:00+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/886530/a32e3244b21e03e410547628fbaeb872.jpeg"
-  },
-  {
-    "id": "eb72e3b6a01dbbd6",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "summary": "Article URL: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/ Comments URL: https://news.ycombinator.com/item?id=49175248 Points: 13 # Comments: 0",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T21:14:19+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6RSPaWdKwEvT9xWx4IjQy2/a334438e4daf9f62c24541c00c212749/third-party-cyber-evaluations_16x9.png?w=1600&h=900&fit=fill"
-  },
-  {
-    "id": "d2ae8608f6188f26",
-    "title": "На деяких річках в Україні зафіксовано рекордно низькі рівні води",
-    "summary": "На більшості річок країни спостерігається низька літня межень.",
-    "url": "https://lb.ua/society/2026/08/05/756702_deyakih_richkah_ukrayini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T21:10:00+00:00",
-    "fetched": "2026-08-04T21:15:45+00:00",
-    "image": "https://i.lb.ua/news/007/17/6a7255397ff31.jpg"
-  },
-  {
-    "id": "b61f0a98128f8510",
-    "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-    "summary": "Article URL: https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/ Comments URL: https://news.ycombinator.com/item?id=49175192 Points: 133 # Comments: 21",
-    "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T21:09:39+00:00",
-    "fetched": "2026-08-04T22:36:29+00:00",
-    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/size/w1200/2024/02/Screenshot-2024-02-22-at-12.26.43-unnumbered-1.png"
-  },
-  {
-    "id": "b26c93cb559851d2",
-    "title": "Поліція отримала заяву щодо незаконності проведення у Почаївській лаврі хресної ходи",
-    "summary": "Масовий захід не погоджували з керівництвом заповідника, куди входить святиня.",
-    "url": "https://lb.ua/society/2026/08/05/756704_politsiya_otrimala_zayavu_schodo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T21:09:00+00:00",
-    "fetched": "2026-08-04T21:15:45+00:00",
-    "image": "https://i.lb.ua/news/107/00/6a725420f3c15.jpg"
-  },
-  {
-    "id": "4707f42c55fa5de9",
-    "title": "AMD’s datacenter business is booming while gaming takes a backseat",
-    "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the…",
-    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T20:57:49+00:00",
-    "fetched": "2026-08-04T21:15:44+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "66a1b340cf6eef7e",
-    "title": "Головне за вівторок, 4 серпня: майже 220 бойових зіткнень, авіаудар по Краматорську, підсумки 40-денної кампанії впливу на РФ",
-    "summary": "Бойові дії на Донеччині, 216 бойових зіткнень, ворожі обстріли, знищення складів компанії «Ласунка». Яким запам’ятається 1623-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/08/04/756700_golovne_vivtorok_4_serpnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T20:55:00+00:00",
-    "fetched": "2026-08-04T21:15:45+00:00",
-    "image": "https://i.lb.ua/news/010/27/6a7251c385289.jpg"
   }
 ]
