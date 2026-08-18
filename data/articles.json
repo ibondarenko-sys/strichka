@@ -1,5 +1,65 @@
 [
   {
+    "id": "c66a9b70f3685a98",
+    "title": "Torrential rains kill one in South Korea while Philippine capital battles major flooding",
+    "summary": "More than 800mm of rain was recorded in the South Korean city of Geoje, which triggered a landslide that killed one person Torrential downpours that have pounded southern parts of South Korea have killed one person and injured four others, officials have confirmed. Heavy rains…",
+    "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-18T00:37:42+00:00",
+    "fetched": "2026-08-18T01:26:47+00:00",
+    "image": "https://i.guim.co.uk/img/media/e08ba5aded94da9bd89a537e9a855562f93d3738/558_0_3920_3136/master/3920.jpg?width=140&quality=85&auto=format&fit=max&s=d00e56155ade9450782aea09279359d5"
+  },
+  {
+    "id": "0ec65db7ef279b4e",
+    "title": "Білий дім досі не підтвердив візит Віткоффа і Кушнера в Україну",
+    "summary": "У Києві на переговорників Трампа чекають зовсім скоро.",
+    "url": "https://lb.ua/society/2026/08/18/759682_biliy_dim_dosi_pidtverdiv_vizit.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T00:37:00+00:00",
+    "fetched": "2026-08-18T01:26:47+00:00",
+    "image": "https://i.lb.ua/news/074/23/6a83a90f7678d.jpg"
+  },
+  {
+    "id": "7bb7d7c4a5f9edd4",
+    "title": "PM Carney announces largest clean energy investment in North American history",
+    "summary": "Article URL: https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north Comments URL: https://news.ycombinator.com/item?id=49339577 Points: 31 # Comments: 4",
+    "url": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T00:25:26+00:00",
+    "fetched": "2026-08-18T01:26:48+00:00",
+    "image": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_NewsRelease_EN.png"
+  },
+  {
+    "id": "121f63ed01a76e21",
+    "title": "У Москві скаржаться на атаку безпілотників",
+    "summary": "У Росії заявили про чергову атаку безпілотників на Москву.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049082/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T00:10:00+00:00",
+    "fetched": "2026-08-18T01:26:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/6/893678/96e70cae5c6dce4439c5e0bbeb411557.jpeg"
+  },
+  {
+    "id": "49396719a1f84c4a",
+    "title": "Сі Цзіньпін не планує виступу на Генасамблеї ООН під час візиту до Трампа – Politico",
+    "summary": "За даними ЗМІ, китайський лідер не планує виступу на Генасамблеї ООН під час візиту до США.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049081/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-17T23:50:00+00:00",
+    "fetched": "2026-08-18T01:26:47+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/5/893676/055f1776df41ab3f212ce49cd0dcce14.jpeg"
+  },
+  {
     "id": "adffddf139beef85",
     "title": "Reddit’s AI is turning posts into podcasts and short videos",
     "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video…",
@@ -24,6 +84,30 @@
     "image": "https://i.lb.ua/news/125/04/6a8399e109285.jpg"
   },
   {
+    "id": "b5f54d5d83c492d7",
+    "title": "Repair Cafe – Fix Your Broken Items",
+    "summary": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 7 # Comments: 2",
+    "url": "https://www.repaircafe.org/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T23:28:28+00:00",
+    "fetched": "2026-08-18T01:26:48+00:00",
+    "image": null
+  },
+  {
+    "id": "447a1716229ba563",
+    "title": "Puppy PPE",
+    "summary": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde Comments URL: https://news.ycombinator.com/item?id=49338953 Points: 15 # Comments: 3",
+    "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T23:10:06+00:00",
+    "fetched": "2026-08-18T01:26:48+00:00",
+    "image": null
+  },
+  {
     "id": "3fe85aaee8d85871",
     "title": "Зять Трампа: Або ХАМАС роззброїться за 60-90 днів, або Ізраїль отримає набагато більшу підтримку",
     "summary": "Кушнер після зустрічі з ХАМАС і Нетаньягу заявив, що терористи мають 60-90 днів, аби здати зброю.",
@@ -46,6 +130,18 @@
     "published": "2026-08-17T22:50:00+00:00",
     "fetched": "2026-08-17T22:53:04+00:00",
     "image": "https://i.lb.ua/news/062/14/6a838fb632138.jpg"
+  },
+  {
+    "id": "765313670974b2d0",
+    "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
+    "summary": "Article URL: https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/ Comments URL: https://news.ycombinator.com/item?id=49338732 Points: 39 # Comments: 20",
+    "url": "https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T22:48:25+00:00",
+    "fetched": "2026-08-18T01:26:48+00:00",
+    "image": "https://dr8z3b6rj3m0z.cloudfront.net/wp-content/uploads/2026/07/25090944/DSF3997a-scaled.jpg"
   },
   {
     "id": "e881d65294e0db9c",
@@ -334,6 +430,18 @@
     "published": "2026-08-17T20:14:23+00:00",
     "fetched": "2026-08-17T21:29:15+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
+  },
+  {
+    "id": "649ceb58c2722d9c",
+    "title": "GitHub degradation affects Cursor Origin, its new Git platform",
+    "summary": "Article URL: https://status.cursor.com/incidents/l9h9vrd726jv Comments URL: https://news.ycombinator.com/item?id=49336919 Points: 28 # Comments: 4",
+    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-17T20:13:27+00:00",
+    "fetched": "2026-08-18T01:26:48+00:00",
+    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
   },
   {
     "id": "02b8bf66a70d6d20",
@@ -49810,77 +49918,5 @@
     "published": "2026-08-04T01:27:00+00:00",
     "fetched": "2026-08-04T04:45:13+00:00",
     "image": "https://i.lb.ua/news/059/16/6a71401c786df.jpg"
-  },
-  {
-    "id": "e6341e93497b30a9",
-    "title": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures",
-    "summary": "Prime minister Sanae Takaichi visited Kumamoto prefecture almost a week after a magnitude 7.1 quake hit, killing 38 people Japan’s prime minister, Sanae Takaichi, has visited the south-western prefecture of Kumamoto, where recovery efforts are being hampered by heat and a lack…",
-    "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T00:59:38+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://i.guim.co.uk/img/media/2b08687a5a1e923bc4d6a20141fc0de4481351cd/1125_178_4298_3438/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=72ed2ab4e03ec647611b2da55213930f"
-  },
-  {
-    "id": "fe228d1ac6efe4d1",
-    "title": "Native Apps Should Be Avoided Whenever Possible",
-    "summary": "Article URL: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/ Comments URL: https://news.ycombinator.com/item?id=49163158 Points: 6 # Comments: 0",
-    "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T00:46:22+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": null
-  },
-  {
-    "id": "bd75601812a3d220",
-    "title": "У Сумах через російську атаку КАБами загинула людина",
-    "summary": "Ворог обстріляв приватний сектор та інфраструктуру.",
-    "url": "https://lb.ua/society/2026/08/04/756476_sumah_cherez_rosiysku_ataku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T00:33:00+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://i.lb.ua/news/069/48/6a7133408f92c.jpg"
-  },
-  {
-    "id": "c3fddc25b721ae9d",
-    "title": "Росіяни скинули авіабомби на Суми: загинула людина, є поранені",
-    "summary": "У ніч на 4 серпня російські окупаційні війська атакували керованими авіабомбами цивільну інфраструктуру Сум, унаслідок чого одна людина загинула, також є поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047118/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T00:22:00+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/885917/0198780079999591485874758dbe7f80.jpeg"
-  },
-  {
-    "id": "636be061eb6553fc",
-    "title": "Analysis: Trump fumes as top allies back down on his personal battles",
-    "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-    "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T00:02:40+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f6/live/c20531b0-8f97-11f1-b7b0-c7a52256a94e.jpg"
-  },
-  {
-    "id": "3810279d9d824b94",
-    "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
-    "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning…",
-    "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-04T00:00:00+00:00",
-    "fetched": "2026-08-04T01:00:49+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
