@@ -1,5 +1,53 @@
 [
   {
+    "id": "dcdaeeda3f770063",
+    "title": "У Хорватії чотирьом підозрюваним у підпалі пожеж призначили місяць попереднього арешту",
+    "summary": "У Хорватії затримали чотирьох людей, яких підозрюють у навмисному підпалі десяти пожеж у районі міста Задар; суддя обрав їм запобіжний захід у вигляді попереднього ув'язнення строком на один місяць.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049095/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T04:29:00+00:00",
+    "fetched": "2026-08-18T04:39:30+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/f/8/f87ddd6----------------.jpg"
+  },
+  {
+    "id": "84fd66c333239c38",
+    "title": "Росіяни вдарили по Ізюму: постраждали 4 дорослих і дитина",
+    "summary": "Унаслідок атаки на Ізюм постраждали п’ятеро осіб, включно з 9-річним хлопчиком, пошкоджено п’ять будинків.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049094/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T04:11:00+00:00",
+    "fetched": "2026-08-18T04:39:30+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/893719/7116b19e06556cebdbbfaf960592aa03.jpeg"
+  },
+  {
+    "id": "7b192dcee7ed9f02",
+    "title": "Українські захисники знешкодили ще 1 210 російських окупантів",
+    "summary": "У Генштабі повідомили про втрати ворога за 17 серпня.",
+    "url": "https://www.pravda.com.ua/news/2026/08/18/8049093/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T03:54:00+00:00",
+    "fetched": "2026-08-18T04:39:30+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/893718/e2bb6a2a145d767b1fae43f9f83a7f08.jpeg"
+  },
+  {
+    "id": "95bb81747694a380",
+    "title": "У Київській області ППО відбиває атаку реактивних дронів",
+    "summary": "Росіяни запустили групу БпЛА.",
+    "url": "https://lb.ua/society/2026/08/18/759686_kiyivskiy_oblasti_ppo_vidbivaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-18T03:51:00+00:00",
+    "fetched": "2026-08-18T04:39:30+00:00",
+    "image": "https://i.lb.ua/news/074/39/6a83d6b3590eb.jpg"
+  },
+  {
     "id": "664010c731b4afcb",
     "title": "\"Давайте дружити\". Як ФСБ шантажувала волонтера 18-річним сином, а він полетів до Москви, щоб його врятувати",
     "summary": "",
@@ -58,6 +106,18 @@
     "published": "2026-08-18T02:30:00+00:00",
     "fetched": "2026-08-18T02:39:11+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/893651/ca8dd95c1a6c48e81cf58d27324b3312.jpeg"
+  },
+  {
+    "id": "3c4ab9bbf9e8aebb",
+    "title": "What's Better Than Binary? – Advent of Computing Episode 187",
+    "summary": "Article URL: https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary Comments URL: https://news.ycombinator.com/item?id=49340315 Points: 4 # Comments: 0",
+    "url": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-18T02:14:04+00:00",
+    "fetched": "2026-08-18T04:39:30+00:00",
+    "image": null
   },
   {
     "id": "3822c7401f025f88",
@@ -49954,41 +50014,5 @@
     "published": "2026-08-04T05:11:00+00:00",
     "fetched": "2026-08-04T07:42:28+00:00",
     "image": "https://i.lb.ua/news/046/58/6a7174a539ded.jpg"
-  },
-  {
-    "id": "9a614e01cfbf41ae",
-    "title": "France wildfires reveal hundreds of WW2 shells in village",
-    "summary": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
-    "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-04T04:22:12+00:00",
-    "fetched": "2026-08-04T07:42:27+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/72c59ca0-8fb2-11f1-a9e7-cb00cf477e15.jpg"
-  },
-  {
-    "id": "1b734206c3a2e1c2",
-    "title": "РФ вночі вдарила по Миколаєву: загинула 89-річна жінка, серед 7 постраждалих – двоє дітей",
-    "summary": "Внаслідок нічного обстрілу Миколаєва загинула 89-річна жінка, поранено ще 7 осіб, серед них двоє дітей.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047125/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T04:19:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/1/885926/41cd78ee07e282fbbf905ef3b60ac412.jpeg"
-  },
-  {
-    "id": "310085af925fa746",
-    "title": "Сили оборони України вбили або поранили ще 1240 російських окупантів – Генштаб",
-    "summary": "За минулу добу Сили оборони України вбили та поранили 1 240 російських окупантів, загальні втрати ворога у війні склали 1 451 750 осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/08/04/8047124/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-04T03:57:00+00:00",
-    "fetched": "2026-08-04T04:45:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/885923/7b7bbb265782c226d1c3f3edaf9d7213.jpeg"
   }
 ]
