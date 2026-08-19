@@ -1,5 +1,17 @@
 [
   {
+    "id": "19025ac716e934cb",
+    "title": "ЗМІ: Федоров збирається поїхати у США в пошуках підтримки його \"виборчих\" заяв",
+    "summary": "Ексміністр вважає свій меседж суголосним тому, який лунав від президента Трампа.",
+    "url": "https://lb.ua/news/2026/08/20/760206_zmi_fedorov_zbiraietsya_poyihati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T23:24:00+00:00",
+    "fetched": "2026-08-19T23:49:43+00:00",
+    "image": "https://i.lb.ua/news/099/31/6a86318dbe9f1.jpg"
+  },
+  {
     "id": "894bcb137154bced",
     "title": "Два райони Києва опинились без світла – Кличко",
     "summary": "Після нічної атаки РФ 20 серпня дві жінки загинули, частина Києва залишилась без світла.",
@@ -50530,41 +50542,5 @@
     "published": "2026-08-06T00:07:08+00:00",
     "fetched": "2026-08-06T00:52:01+00:00",
     "image": "https://media.wired.com/photos/6a739a0f26343102b87aa86c/191:100/w_1280,c_limit/GettyImages-2285454063.jpg"
-  },
-  {
-    "id": "c7bc0a2af07f63d4",
-    "title": "У зоні бойових дій на Донеччині залишаються 12 тисяч цивільних – ОВА",
-    "summary": "В ОВА повідомили, скільки цивільних залишаються в зоні бойових дій на Донеччині.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047479/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T23:44:00+00:00",
-    "fetched": "2026-08-06T00:51:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/887210/5c01dae34299088d40a492d1b319b615.jpeg"
-  },
-  {
-    "id": "21a03118883733dd",
-    "title": "Гелікоптер Трампа небезпечно наблизився до пасажирського літака у Вашингтоні",
-    "summary": "Проблеми зі зв'язком ледь не створили аварійну ситуацію для глави держави.",
-    "url": "https://lb.ua/world/2026/08/06/756980_gelikopter_trampa_nebezpechno.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T23:35:00+00:00",
-    "fetched": "2026-08-06T00:51:59+00:00",
-    "image": "https://i.lb.ua/news/118/26/6a73c8bc02b3a.jpg"
-  },
-  {
-    "id": "1e6516f5dd61b754",
-    "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-    "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
-    "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T23:28:06+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe4/live/164aada0-8f29-11f1-b8ee-9b3c26ad07bb.jpg"
   }
 ]
