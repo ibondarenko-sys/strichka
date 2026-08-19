@@ -1,5 +1,113 @@
 [
   {
+    "id": "8d0ce4914f5103cd",
+    "title": "МВС показало відео нової ДТП у Києві: водій Volkswagen на швидкості їхав смугою громадського транспорту",
+    "summary": "Міністр внутрішніх справ Іван Вигівський оприлюднив відео нової резонансної ДТП в Києві і закликав посилити відповідальність за перевищення швидкості на дорогах.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049270/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T07:33:00+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/894615/b2f696411e1d9d60b6ff60076d401e1a.jpeg"
+  },
+  {
+    "id": "4e0497dabc760677",
+    "title": "Росіяни пошкодили на Чернігівщині житлові будинки та приміщення підприємств",
+    "summary": "Армія окупантів била по області дронами.",
+    "url": "https://lb.ua/society/2026/08/19/759954_rosiyani_poshkodili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T07:20:00+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://i.lb.ua/news/084/36/6a8558b3b6cd8.jpg"
+  },
+  {
+    "id": "6fb1f5397e0ad877",
+    "title": "Ферчук назвала чотири барʼєри для розвитку та масштабування українського Defense Tech",
+    "summary": "Серед ключових завдань вона назвала — регуляторне розмежування технологій, власне виробництво компонентів, подолання кадрового дефіциту та вихід на міжнародні ринки.",
+    "url": "https://ain.ua/2026/08/19/barjeri-dlia-rozvitku-ta-masstabuvannia-ukrayinskogo-deftech/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-19T07:20:00+00:00",
+    "fetched": "2026-08-19T07:46:22+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-19/lFoXK8Iet2jYHYLbt3h0qyq562jCmPZtO7ntJBqj.webp"
+  },
+  {
+    "id": "c8f806b0ca98c778",
+    "title": "Комітет ВРУ з питань оборони підтримав кандидатуру Хмари на посаду міністра оборони",
+    "summary": "Очікується, що парламент розгляне призначення Хмари сьогодні.",
+    "url": "https://lb.ua/news/2026/08/19/759964_komitet_vru_z_pitan_oboroni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T07:12:00+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://i.lb.ua/news/117/40/6a8557d6d6ddf.jpg"
+  },
+  {
+    "id": "68a9d4d51c867365",
+    "title": "СБУ затримала агента ФСБ, який коригував атаки Росії по Рівненщині і готувався вбивати військових",
+    "summary": "Чоловік об’їжджав місцевість на мотоциклі та знімав навколишню територію на відеореєстратор, вмонтований у шолом.",
+    "url": "https://lb.ua/society/2026/08/19/759960_sbu_zatrimala_agenta_fsb_yakiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T07:10:00+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://i.lb.ua/news/061/55/6a8556a0f3c6d.jpg"
+  },
+  {
+    "id": "e573da335b28c2d2",
+    "title": "Депутатські фракції провели зустрічі з Хмарою і Сибігою. «Слуга народу» підтримала кандидатів (оновлено)",
+    "summary": "Учора діалоги тривали понад п’ять годин.",
+    "url": "https://lb.ua/news/2026/08/19/759930_deputatski_fraktsiyi_proveli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T07:03:00+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://i.lb.ua/news/082/05/6a854558d01f5.jpg"
+  },
+  {
+    "id": "4b687eb084ee3279",
+    "title": "​Через ворожий удар у Запоріжжі значна кількість людей без світла",
+    "summary": "Об’єкти інфраструктури заживлюють від альтернативних джерел.",
+    "url": "https://lb.ua/society/2026/08/19/759958_cherez_vorozhiy_udar_zaporizhzhi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T07:01:00+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://i.lb.ua/news/002/11/6a8554e881829.jpg"
+  },
+  {
+    "id": "00a5a70518287f35",
+    "title": "«Займаюсь радіофізикою майже 50 років і досі не вигорів». Інтерв’ю зі співзасновником Elvatech про deeptech в Україні",
+    "summary": "У 1999 році український радіофізик Олександр Філіпов разом із колегою зробив те, що вважалося складним технічним викликом: створив перший у світі настільний рентгенофлуоресцентний аналізатор, якому більше не потрібні були громіздкі бочки з рідким азотом. Сьогодні його компанія…",
+    "url": "https://dou.ua/lenta/interviews/elvatech-radio-physicist/",
+    "source": "DOU",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-19T07:00:06+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://s.dou.ua/storage-files/567.jpeg"
+  },
+  {
+    "id": "07243b8609667b84",
+    "title": "Show HN: Privacy focused client side password generator",
+    "summary": "Article URL: https://password-generator.aaqa.dev/ Comments URL: https://news.ycombinator.com/item?id=49357881 Points: 3 # Comments: 1",
+    "url": "https://password-generator.aaqa.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T06:55:36+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": null
+  },
+  {
     "id": "1517570a87856094",
     "title": "Комітет ВР з питань регламенту підтримав заяви нардепів “Слуг народу” про складення мандатів",
     "summary": "Остап Шипайло та Андрій Жупанін пояснили тим, що отримали кращі пропозиції, ніж депутатські повноваження.",
@@ -300,6 +408,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/b/3/b37d894----.jpg"
   },
   {
+    "id": "8f7f5fa7ee4e6c35",
+    "title": "Thai teen found in suitcase died from suffocation, police reveal",
+    "summary": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
+    "url": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-19T05:04:27+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/113a11d0-9b85-11f1-bdab-bd265066e1df.jpg"
+  },
+  {
     "id": "0ab383d37d206ac8",
     "title": "Families' agonising search for answers as thousands still missing in Gaza",
     "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
@@ -442,6 +562,18 @@
     "published": "2026-08-19T03:04:07+00:00",
     "fetched": "2026-08-19T04:08:20+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
+    "id": "e6f9e598296614b4",
+    "title": "Japan's Gen X workers are struggling",
+    "summary": "Article URL: https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling Comments URL: https://news.ycombinator.com/item?id=49356115 Points: 15 # Comments: 5",
+    "url": "https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T03:02:43+00:00",
+    "fetched": "2026-08-19T07:46:21+00:00",
+    "image": null
   },
   {
     "id": "e200c7e9cf20454a",
@@ -50218,101 +50350,5 @@
     "published": "2026-08-05T07:55:00+00:00",
     "fetched": "2026-08-05T09:39:07+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/5/8/581aad8-flughafen-leipzig-halle-anreise-nach-leipzig.jpg"
-  },
-  {
-    "id": "ce5b623763d0ae12",
-    "title": "Росіяни 27 разів вдарили по Чернігівщині, зруйновано будинок в обласному центрі",
-    "summary": "Окупанти пошкодили два підприємства.",
-    "url": "https://lb.ua/society/2026/08/05/756766_rosiyani_27_raziv_vdarili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T07:45:00+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://i.lb.ua/news/074/00/6a72e9d178df6.jpg"
-  },
-  {
-    "id": "f10751d85a11672b",
-    "title": "Політична реклама без виборів: хто і за що платить у Facebook та Instagram",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047330/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T07:40:00+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/886558/og_8047203_ukr.png?w=1200&q=85&stamp=1785905343"
-  },
-  {
-    "id": "dd98e861bda7a9b8",
-    "title": "Гегсет накинувся на ЗМІ, які повідомили, що у США вичерпуються запаси ракет",
-    "summary": "Піт Гегсет заявив, що в США не закінчуються запаси ключових ракет, спростувавши ЗМІ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047329/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T07:32:00+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/886687/84e194c50946b91e2a54b09d33f39d50.jpeg"
-  },
-  {
-    "id": "6e3dc64bfda72210",
-    "title": "Як війна трансформувала Військову службу правопорядку",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047328/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T07:30:00+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/3/886616/e358559261a106f91c6a1752bb91175d.jpeg?w=1200&q=85&stamp=1785911248"
-  },
-  {
-    "id": "95c9b24345b5ac26",
-    "title": "У посольстві показали, як французи дякують українським пожежникам",
-    "summary": "У посольстві України у Франції опублікували підбірку кадрів, як французи у департаменті Жиронда, що два тижні потерпає від лісових пожеж, зустрічають українських вогнеборців.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047326/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T07:16:00+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/5/c/5cb1764-capture2.png"
-  },
-  {
-    "id": "3fc3e851b957e645",
-    "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-    "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
-    "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T07:04:45+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a943/live/bf3016d0-9096-11f1-b45c-fde20a4c7ffe.jpg"
-  },
-  {
-    "id": "03dc92d7263dbc61",
-    "title": "«Ну який я захисник? Повоював два місяці, а тепер за компом сиджу». Java-розробник про «комплекс тилового самозванця» і службу прикордонників",
-    "summary": "Айтівець Олег Чорний у 25 років мобілізувався у «Фенікс». Це безпілотний підрозділ Держприкордослужби, який водночас є частиною президентського проєкту «Лінія дронів» та угруповання Сил безпілотних систем. І посідає друге місце в рейтингу ефективності. Олег розпочав службу як…",
-    "url": "https://dou.ua/lenta/interviews/fenix-border-guard/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-05T07:00:06+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://s.dou.ua/storage-files/image_36952751061785701362034.jpg"
-  },
-  {
-    "id": "b3004681662b54e1",
-    "title": "Ted Lasso returns at an important time for Apple TV",
-    "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But…",
-    "url": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T07:00:00+00:00",
-    "fetched": "2026-08-05T09:39:07+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ted_Lasso_Photo_040203.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
