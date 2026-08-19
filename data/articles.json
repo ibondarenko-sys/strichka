@@ -1,5 +1,29 @@
 [
   {
+    "id": "894bcb137154bced",
+    "title": "Два райони Києва опинились без світла – Кличко",
+    "summary": "Після нічної атаки РФ 20 серпня дві жінки загинули, частина Києва залишилась без світла.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049425/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T23:20:00+00:00",
+    "fetched": "2026-08-19T23:26:28+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/e/895431/1eb5258e3a8fa15860dea59033f17a7c.jpeg"
+  },
+  {
+    "id": "c3d80def6c6640a5",
+    "title": "У Києві та Броварській громаді внаслідок російської атаки аварія в електромережі",
+    "summary": "У столиці повідомляють про зникнення електропостачання в деяких районах.",
+    "url": "https://lb.ua/society/2026/08/20/760208_kiievi_brovarskiy_gromadi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T22:53:00+00:00",
+    "fetched": "2026-08-19T23:26:28+00:00",
+    "image": "https://i.lb.ua/news/060/33/6a8633e1ccc10.jpg"
+  },
+  {
     "id": "c59624557de0f100",
     "title": "Does giving a camera wings dodge the FCC’s drone ban?",
     "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December…",
@@ -70,6 +94,18 @@
     "published": "2026-08-19T22:04:21+00:00",
     "fetched": "2026-08-19T22:28:32+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
+    "id": "038ae9e9704b7b94",
+    "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+    "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+    "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T22:02:38+00:00",
+    "fetched": "2026-08-19T23:26:28+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg"
   },
   {
     "id": "6c515160904e9859",
@@ -50530,17 +50566,5 @@
     "published": "2026-08-05T23:28:06+00:00",
     "fetched": "2026-08-06T04:16:10+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe4/live/164aada0-8f29-11f1-b8ee-9b3c26ad07bb.jpg"
-  },
-  {
-    "id": "90b8f1c64bf91f0f",
-    "title": "Вартість кораблів на честь Трампа може сягнути $275 млрд – ЗМІ",
-    "summary": "У США порахували, що вартість кораблів на честь Трампа обійдеться щонайменше на 50 відсотків дорожче, ніж передбачалося раніше.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047478/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T22:58:00+00:00",
-    "fetched": "2026-08-05T23:04:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/887203/cffa77c41b8775dd287204cde7f3d4f5.jpeg"
   }
 ]
