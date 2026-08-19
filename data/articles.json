@@ -1,5 +1,29 @@
 [
   {
+    "id": "e2f0bdd4ac0b8fce",
+    "title": "Nielsen is leaning more on wearables to hear what people are watching",
+    "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to…",
+    "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T19:53:09+00:00",
+    "fetched": "2026-08-19T19:53:21+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKB393_NIELSEN_MEDIA_RESEARCH.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "363fd4b55b0bf3e7",
+    "title": "Генштаб: 189 бойових зіткнень відбулося на фронті від початку доби",
+    "summary": "Найгарячіше на Покровському та Костянтинівському напрямках.",
+    "url": "https://lb.ua/society/2026/08/19/760186_genshtab_189_boyovih_zitknen.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T19:35:00+00:00",
+    "fetched": "2026-08-19T19:53:21+00:00",
+    "image": "https://i.lb.ua/news/089/04/6a8603df321bb.jpg"
+  },
+  {
     "id": "0710c12984b308c9",
     "title": "Уряд відсторонив голову наглядової ради державного \"Сенс Банку\"",
     "summary": "Кабінет міністрів ухвалив рішення відсторонити голову наглядової ради державного \"Сенс Банку\" Миколи Гладищенка.",
@@ -34,6 +58,18 @@
     "published": "2026-08-19T19:00:00+00:00",
     "fetched": "2026-08-19T19:29:25+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6f525cc1c1f575cf",
+    "title": "Police officer used Flock cameras to track estranged wife 717 times",
+    "summary": "Article URL: https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/ Comments URL: https://news.ycombinator.com/item?id=49365733 Points: 36 # Comments: 1",
+    "url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T18:58:29+00:00",
+    "fetched": "2026-08-19T19:53:21+00:00",
+    "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGDE2LELAWVGWFFJWDJ3QKBHSTM.jpg?auth=38e1fd0d1e1502b840425050f42520dfed789715ea6e9c72bd025b56571ac6f0&width=1200&height=630&smart=true"
   },
   {
     "id": "3686172a77fbd6d7",
@@ -346,6 +382,18 @@
     "published": "2026-08-19T17:47:52+00:00",
     "fetched": "2026-08-19T18:40:40+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg"
+  },
+  {
+    "id": "8d7c873a76f8fa18",
+    "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id=49364745 Points: 13 # Comments: 1",
+    "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T17:47:29+00:00",
+    "fetched": "2026-08-19T19:53:21+00:00",
+    "image": null
   },
   {
     "id": "1571c91b2c85e8ba",
@@ -50446,77 +50494,5 @@
     "published": "2026-08-05T20:01:32+00:00",
     "fetched": "2026-08-05T21:48:15+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg"
-  },
-  {
-    "id": "2864501bdcbf2428",
-    "title": "У Рівному в басейні втопилась півторарічна дитина",
-    "summary": "Хлопчик драбинкою виліз до каркасного басейну та впав у воду.",
-    "url": "https://lb.ua/society/2026/08/05/756958_rivnomu_baseyni_vtopilas.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T19:53:00+00:00",
-    "fetched": "2026-08-05T20:09:08+00:00",
-    "image": "https://i.lb.ua/news/096/58/6a73948f7bcab.jpg"
-  },
-  {
-    "id": "06feee9e3f24d613",
-    "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-    "summary": "\"Slop\" isn't the only problem.",
-    "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T19:51:40+00:00",
-    "fetched": "2026-08-05T20:09:09+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg"
-  },
-  {
-    "id": "7005bf5fef5abf7c",
-    "title": "I'm switching my phone from Android to Linux",
-    "summary": "Article URL: https://runarcn.no/android-to-linux/ Comments URL: https://news.ycombinator.com/item?id=49188022 Points: 58 # Comments: 27",
-    "url": "https://runarcn.no/android-to-linux/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T19:50:13+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://runarcn.no/static/og-image.png"
-  },
-  {
-    "id": "9cda311ec55f42c9",
-    "title": "Винищувачі НАТО у липні на 250% частіше підіймалися на перехоплення російських літаків",
-    "summary": "Винищувачі НАТО у липні 2026 року у порівнянні з аналогічним періодом минулого року на 250% частіше підіймались на перехоплення російських літаків біля кордонів Альянсу.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047470/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T19:50:00+00:00",
-    "fetched": "2026-08-05T20:09:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/c/887180/9c4411602b9e2f9651fc73cfb698ec10.jpeg"
-  },
-  {
-    "id": "c9f31671de26d24b",
-    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "summary": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 16 # Comments: 0",
-    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T19:47:26+00:00",
-    "fetched": "2026-08-05T20:09:08+00:00",
-    "image": "https://media.wired.com/photos/6a6d058753afe1590265744d/191:100/w_1280,c_limit/073126-meta-nudify-ads-children.jpg"
-  },
-  {
-    "id": "dcbdcb4f209912a6",
-    "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-    "summary": "SpaceX won't build large cell towers but plans small base stations across US.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T19:38:56+00:00",
-    "fetched": "2026-08-05T20:09:09+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg"
   }
 ]
