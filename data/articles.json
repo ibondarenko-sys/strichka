@@ -1,5 +1,41 @@
 [
   {
+    "id": "6c515160904e9859",
+    "title": "У зоні примусової евакуації на Донеччині залишаються понад 500 дітей",
+    "summary": "Найбільше на території Краматорської громади - 460.",
+    "url": "https://lb.ua/society/2026/08/20/760202_zoni_primusovoyi_evakuatsiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T21:44:00+00:00",
+    "fetched": "2026-08-19T21:54:17+00:00",
+    "image": "https://i.lb.ua/news/114/15/6a86233990b95.jpg"
+  },
+  {
+    "id": "dbfd83e9f4918637",
+    "title": "Росіяни атакують Київ балістикою та крилатими ракетами (доповнюється)",
+    "summary": "Ворог запустив ракети ще до настання нової доби.",
+    "url": "https://lb.ua/society/2026/08/20/760198_rosiyani_atakuyut_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T21:42:00+00:00",
+    "fetched": "2026-08-19T21:54:17+00:00",
+    "image": "https://i.lb.ua/news/076/54/6a8618a87286a.jpg"
+  },
+  {
+    "id": "6df81042183fc378",
+    "title": "Марта Костюк помстилась росіянці Андрєєвій за поразку у півфіналі Ролан Гаррос",
+    "summary": "Українська тенісистка вийшла до чвертьфіналу турніру WTA 1000 у Цинциннаті.",
+    "url": "https://lb.ua/sport/2026/08/20/760196_marta_kostyuk_pomstilas.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T21:37:00+00:00",
+    "fetched": "2026-08-19T21:54:17+00:00",
+    "image": "https://i.lb.ua/news/005/59/6a86234b42a57.jpg"
+  },
+  {
     "id": "3e04bb318ee5b4d4",
     "title": "Росія атакує Київ балістикою: пошкоджений будинок",
     "summary": "Уночі 20 серпня Київ зазнав балістичної атаки РФ: пошкоджений будинок, спалахнули пожежі.",
@@ -50494,53 +50530,5 @@
     "published": "2026-08-05T21:56:00+00:00",
     "fetched": "2026-08-05T23:04:41+00:00",
     "image": "https://i.lb.ua/news/033/55/6a73b0978358e.jpg"
-  },
-  {
-    "id": "a4452fdb6551b1ce",
-    "title": "ЗМІ: США тягнуть з затвердженням кандидатури посла Франції на тлі суперечок щодо прав людини",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047476/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T21:48:00+00:00",
-    "fetched": "2026-08-05T23:04:40+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/4/7/477efd0-4325042.jpg"
-  },
-  {
-    "id": "59af98febdd50b4d",
-    "title": "Обсяг повернення США \"мит Трампа\" перетнув позначку у 100 мільярдів доларів",
-    "summary": "І це лише 60% того, що було сплачено компаніями-імпортерами.",
-    "url": "https://lb.ua/economics/2026/08/06/756974_obsyag_povernennya_ssha_mit.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T21:48:00+00:00",
-    "fetched": "2026-08-05T23:04:41+00:00",
-    "image": "https://i.lb.ua/news/003/55/6a73affa9badf.jpg"
-  },
-  {
-    "id": "70e1938410a75c7f",
-    "title": "Infantino remains Fifa president after executive meeting",
-    "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives in a meeting in Morocco.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T21:37:08+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg"
-  },
-  {
-    "id": "bb1427aeae2f5ded",
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing",
-    "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 49 # Comments: 12",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T21:29:23+00:00",
-    "fetched": "2026-08-05T23:04:43+00:00",
-    "image": "https://randsinrepose.com/wp-content/uploads/2026/08/bladerunner.png"
   }
 ]
