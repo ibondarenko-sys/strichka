@@ -1,5 +1,77 @@
 [
   {
+    "id": "08c2d1d62808d9d0",
+    "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+    "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have…",
+    "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-19T03:47:12+00:00",
+    "fetched": "2026-08-19T04:08:20+00:00",
+    "image": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882"
+  },
+  {
+    "id": "d3b43a4f36850a4e",
+    "title": "Генштаб про втрати ворога: мінус ще 1 190 російських окупантів",
+    "summary": "За минулу добу у війні проти України Росія втратила ще 1 190 вояк",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049249/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T03:40:00+00:00",
+    "fetched": "2026-08-19T04:08:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/d/894515/1dbaee2a2355d28d5d59e0fb5d4e8cb8.jpeg"
+  },
+  {
+    "id": "fe307da7bf3ffd4e",
+    "title": "South Korea shortens war games with US citing Washington request",
+    "summary": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+    "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-19T03:39:41+00:00",
+    "fetched": "2026-08-19T04:08:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg"
+  },
+  {
+    "id": "3be946d4d280d21e",
+    "title": "Five Australian rules footy players suspended amid police investigation",
+    "summary": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
+    "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-19T03:36:59+00:00",
+    "fetched": "2026-08-19T04:08:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dd/live/5e641f40-9b68-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
+    "id": "c47111c525d65509",
+    "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+    "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
+    "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-19T03:12:06+00:00",
+    "fetched": "2026-08-19T04:08:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cfa/live/3fef0100-9b46-11f1-bd52-f9704e8e5c82.jpg"
+  },
+  {
+    "id": "1312c5000a70cea0",
+    "title": "Husband and mother-in-law charged over Indian bride's death",
+    "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+    "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-19T03:04:07+00:00",
+    "fetched": "2026-08-19T04:08:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
     "id": "e200c7e9cf20454a",
     "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
     "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
@@ -10,6 +82,18 @@
     "published": "2026-08-19T03:00:35+00:00",
     "fetched": "2026-08-19T03:01:31+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e351/live/b5761980-9b79-11f1-afeb-4d7c67d79c36.jpg"
+  },
+  {
+    "id": "a79df62a77c95422",
+    "title": "Palomar: A registry of Lean verified mathematics",
+    "summary": "Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49355968 Points: 13 # Comments: 0",
+    "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T02:41:50+00:00",
+    "fetched": "2026-08-19T04:08:21+00:00",
+    "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1787112292"
   },
   {
     "id": "6854b3ddf9a5ed06",
@@ -50110,77 +50194,5 @@
     "published": "2026-08-05T04:10:00+00:00",
     "fetched": "2026-08-05T06:32:22+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/886550/6402cd723ad6124183a746b562737d8c.jpeg"
-  },
-  {
-    "id": "6d742f99acb545d8",
-    "title": "An SLM trained on $8 ESP32-S3",
-    "summary": "Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 13 # Comments: 4",
-    "url": "https://github.com/Carloscodix/qapla",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T04:07:27+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://opengraph.githubassets.com/478328f959fb9d45068495fcf57f959ab22ef810655fb86d1b278868f971b067/Carloscodix/qapla"
-  },
-  {
-    "id": "1aae34b0c6e45563",
-    "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
-    "summary": "People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100 Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby…",
-    "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T04:00:08+00:00",
-    "fetched": "2026-08-05T06:32:21+00:00",
-    "image": "https://i.guim.co.uk/img/media/b9834d5e78f263199e25c43a2124980bef411155/391_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=018b63802adaa00cfa4fcfe5e7c4b178"
-  },
-  {
-    "id": "51807cdcaef49ec7",
-    "title": "За добу ЗСУ відмінусували ще 1130 окупантів і знищили понад 530 одиниць російської техніки",
-    "summary": "За минулу добу Сили оборони України вбили та поранили 1 130 російських окупантів, загальні втрати ворога у війні склали 1 452 880 осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047303/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T03:51:00+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/886549/9a44f421334b0a038a6c332f6d9587a0.jpeg"
-  },
-  {
-    "id": "d7cb0db074a728be",
-    "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-    "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-    "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T03:37:50+00:00",
-    "fetched": "2026-08-05T03:45:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg"
-  },
-  {
-    "id": "105b88ce5bf1cb4d",
-    "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street",
-    "summary": "Snow falls in Wellington for the first time in 15 years while snow blanketed Dunedin and Christchurch on the country’s south island Temperatures have plummeted across New Zealand as an Antarctic cold snap hovers over the country, delighting the capital, Wellington, which…",
-    "url": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T03:27:37+00:00",
-    "fetched": "2026-08-05T03:45:07+00:00",
-    "image": "https://i.guim.co.uk/img/media/6956befa7782607fef2eac3b435eff652f9d556c/404_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=47c8b4e6069e9e2526d529cf44b2da6c"
-  },
-  {
-    "id": "a04f6e8d6fd6e08b",
-    "title": "Адміністрація Трампа повернула імпортерам $100 млрд незаконно зібраних мит",
-    "summary": "Адміністрація Дональда Трампа повернула близько 100 мільярдів доларів у вигляді відшкодування мит після того, як Верховний суд США визнав незаконним використання президентом надзвичайних повноважень для запровадження торговельних зборів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047302/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T03:23:00+00:00",
-    "fetched": "2026-08-05T03:45:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/3/886547/439acf318677137af8e49b33068ed71d.jpeg"
   }
 ]
