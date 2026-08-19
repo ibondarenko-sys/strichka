@@ -1,5 +1,53 @@
 [
   {
+    "id": "dd517b11e5e5075b",
+    "title": "У російському Дзержинську лунали вибухи, під атакою міг бути завод вибухових речовин",
+    "summary": "У Дзержинську РФ прогриміли вибухи. Повідомляють про атаку дронів і задимлення на заводі вибухових речовин.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049252/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T04:53:00+00:00",
+    "fetched": "2026-08-19T05:03:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/1/894524/817d061ee930be9ac4629ce50521f705.jpeg"
+  },
+  {
+    "id": "923e8c8d0ff518bb",
+    "title": "Протягом вечора і ночі росіяни понад 10 разів обстрілювали Дніпропетровську область",
+    "summary": "Під ударами перебували Криворізький і Нікопольський райони.",
+    "url": "https://lb.ua/society/2026/08/19/759922_protyagom_vechora_nochi_rosiyani.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T04:50:00+00:00",
+    "fetched": "2026-08-19T05:03:02+00:00",
+    "image": "https://i.lb.ua/news/012/50/6a8536309272e.jpg"
+  },
+  {
+    "id": "b2660ec3281545c5",
+    "title": "Трамп на три дні відклав запровадження 50% мит на товари з Канади",
+    "summary": "Трамп відклав нові 50% мита на канадські товари на три дні через домовленість США і Канади.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049251/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T04:31:00+00:00",
+    "fetched": "2026-08-19T05:03:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/894523/7361361f2d03efd50c33b94ee9878614.jpeg"
+  },
+  {
+    "id": "cb5a3634e0515bc4",
+    "title": "Росіяни за добу понад тисячу разів атакували Запорізьку область: 2 загиблих, 10 поранених",
+    "summary": "В результаті атак РФ на Запоріжжя 18 серпня: 2 загиблих, 10 поранених, значні руйнування.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049250/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T04:11:00+00:00",
+    "fetched": "2026-08-19T05:03:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/894520/608bebfb88a18c0233b053f4b57eaf73.jpeg"
+  },
+  {
     "id": "08c2d1d62808d9d0",
     "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
     "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have…",
@@ -144,6 +192,18 @@
     "image": "https://i.lb.ua/news/085/59/6a850bcf1761f.jpg"
   },
   {
+    "id": "ee7b199421a76637",
+    "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+    "summary": "Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner. So I'm building the…",
+    "url": "https://github.com/katiahayati/lucasartsifier/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T01:58:33+00:00",
+    "fetched": "2026-08-19T05:03:02+00:00",
+    "image": "https://opengraph.githubassets.com/c17ceb31a5a449c03b9700558812977c48f2e328d24f78eab62721d65e1a6efa/katiahayati/lucasartsifier"
+  },
+  {
     "id": "dcdbdd3ed1b297d6",
     "title": "OpenLogi",
     "summary": "Article URL: https://openlogi.org/en Comments URL: https://news.ycombinator.com/item?id=49355606 Points: 5 # Comments: 1",
@@ -166,6 +226,18 @@
     "published": "2026-08-19T01:50:00+00:00",
     "fetched": "2026-08-19T03:01:31+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/894513/8457b766d2fab0cdebe2e489fe81d6a9.jpeg"
+  },
+  {
+    "id": "51dae9079c2e096a",
+    "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+    "summary": "Video and explanation on the ship discovery: Why This Wood Costs US$360/kg : https://www.youtube.com/watch?v=u5b5bKlvdhQ Comments URL: https://news.ycombinator.com/item?id=49355451 Points: 5 # Comments: 0",
+    "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T01:36:40+00:00",
+    "fetched": "2026-08-19T05:03:02+00:00",
+    "image": null
   },
   {
     "id": "f53d7089c6514c4c",
@@ -50110,89 +50182,5 @@
     "published": "2026-08-05T05:14:00+00:00",
     "fetched": "2026-08-05T06:32:22+00:00",
     "image": "https://i.lb.ua/news/066/02/6a72c70f1dce2.jpg"
-  },
-  {
-    "id": "59b49851922a64d7",
-    "title": "\"Укрзалізниця\": На платформі біля атакованих логістичних центрів на Київщині виявили загиблих",
-    "summary": "Після російської атаки на Київщині на залізничній платформі виявили загиблих, а рух поїздів у Броварському районі тимчасово зупинили.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047309/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T05:02:00+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/886591/8f609a78d35a19ef049527f62a03ed02.jpeg"
-  },
-  {
-    "id": "a15fe526973c5b09",
-    "title": "У Київській області за ніч Росія вбила 14 людей. Зокрема – на залізниці",
-    "summary": "Найбільша кількість загиблих – у Броварському районі.",
-    "url": "https://lb.ua/society/2026/08/05/756722_kiyivskiy_oblasti_nich_rosiya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T04:54:00+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://i.lb.ua/news/063/37/6a72c216732d0.jpg"
-  },
-  {
-    "id": "57e67ff7c2351623",
-    "title": "The sale of Electronic Arts has been finalized",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cjejyl34345o Comments URL: https://news.ycombinator.com/item?id=49178702 Points: 49 # Comments: 18",
-    "url": "https://www.bbc.com/news/articles/cjejyl34345o",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T04:51:43+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg"
-  },
-  {
-    "id": "d88745754c20397e",
-    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 6 # Comments: 1",
-    "url": "https://arxiv.org/abs/2607.29377",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T04:36:44+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "16084ddfc321bb0b",
-    "title": "14 людей загинули, ще 22 поранені внаслідок масованого російського удару по Київщині",
-    "summary": "Кількість загиблих унаслідок масованої російської атаки на Київську область зросла до 14, ще 27 людей постраждали.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047306/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T04:36:00+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/2/886552/025e725d31c68cd522e3a0d44b4b17fc.jpeg"
-  },
-  {
-    "id": "e8356d002da2b880",
-    "title": "У Тульській області після атаки дронів спалахнув логістичний центр Wildberries",
-    "summary": "У російському Олексині після атаки безпілотників спалахнула масштабна пожежа в логістичному центрі Wildberries.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047305/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T04:22:00+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/3/886551/f32946fd16e95542bed77e123d108bf7.jpeg"
-  },
-  {
-    "id": "707389097931d44e",
-    "title": "Ізраїль не виведе війська з Гази до повного роззброєння ХАМАС – Нетаньягу",
-    "summary": "Прем'єр-міністр Беньямін Нетаньягу заявив, що Ізраїль не відводитиме війська зі своїх нинішніх позицій у Секторі Гази до повного роззброєння угруповання ХАМАС, відхиливши новий проєкт угоди, про який оголосив президент США Дональд Трамп.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047304/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T04:10:00+00:00",
-    "fetched": "2026-08-05T06:32:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/886550/6402cd723ad6124183a746b562737d8c.jpeg"
   }
 ]
