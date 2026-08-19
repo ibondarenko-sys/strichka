@@ -1,5 +1,29 @@
 [
   {
+    "id": "c59624557de0f100",
+    "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+    "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December…",
+    "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T22:35:20+00:00",
+    "fetched": "2026-08-19T22:53:42+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "1dea2e27ce268eb5",
+    "title": "FT: Ціни на пшеницю зросли через удари по чорноморських портах",
+    "summary": "Удари по інфраструктурі Чорного моря спричинили зростання цін на пшеницю до трирічного максимуму.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049424/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T22:28:00+00:00",
+    "fetched": "2026-08-19T22:53:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/895430/eebe2ddbb6871ec641653a5e294e6bb5.jpeg"
+  },
+  {
     "id": "ab1aab3956eb725c",
     "title": "Російський удар по Києву: загинуло двоє жінок, є поранені",
     "summary": "Вночі 20 серпня у Києві через атаку РФ загинули дві жінки, поранено шістьох людей, пошкоджено будинок і лікарню.",
@@ -22,6 +46,18 @@
     "published": "2026-08-19T22:19:00+00:00",
     "fetched": "2026-08-19T22:28:32+00:00",
     "image": "https://i.lb.ua/news/013/01/6a862c416227c.jpg"
+  },
+  {
+    "id": "702a0fd2c3515f9f",
+    "title": "Collaborative Human Agent Protocol (CHAP)",
+    "summary": "Article URL: https://github.com/BrightbeamAI/chap Comments URL: https://news.ycombinator.com/item?id=49367836 Points: 4 # Comments: 0",
+    "url": "https://github.com/BrightbeamAI/chap",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T22:09:16+00:00",
+    "fetched": "2026-08-19T22:53:42+00:00",
+    "image": "https://opengraph.githubassets.com/46cecbd6d71debe5f5e28f59ecc1ef9a0d89184a9f18b56545ff9b1c15247170/BrightbeamAI/chap"
   },
   {
     "id": "088e31d8fd42bbe8",
@@ -82,6 +118,18 @@
     "published": "2026-08-19T21:21:00+00:00",
     "fetched": "2026-08-19T21:29:10+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/895388/d011a829acba2049d4443561062d1713.jpeg"
+  },
+  {
+    "id": "d829edc693d41220",
+    "title": "Anthropic Refuses to Support Agents.md",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 12 # Comments: 2",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T21:19:50+00:00",
+    "fetched": "2026-08-19T22:53:42+00:00",
+    "image": "https://opengraph.githubassets.com/994f2a54d8b2aa816e9ef903c60ffaa35f78562cf5c678451729779182f04a1f/anthropics/claude-code/issues/6235"
   },
   {
     "id": "ebc042d1fb8a4ea0",
@@ -50494,41 +50542,5 @@
     "published": "2026-08-05T22:58:00+00:00",
     "fetched": "2026-08-05T23:04:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/887203/cffa77c41b8775dd287204cde7f3d4f5.jpeg"
-  },
-  {
-    "id": "21eeb275ac502f9e",
-    "title": "Суд у Туреччині заблокував доступ до передвиборчого акаунту головного суперника Ердогана",
-    "summary": "Мережа X, яку Ілон Маск позиціонував як останній рубіж свободи слова, була змушена коритися.",
-    "url": "https://lb.ua/world/2026/08/06/756978_sud_turechchini_zablokuvav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T22:49:00+00:00",
-    "fetched": "2026-08-05T23:04:41+00:00",
-    "image": "https://i.lb.ua/news/009/54/6a73bde415edf.jpg"
-  },
-  {
-    "id": "a09b8a0550b0e7d6",
-    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-    "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-    "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T22:35:20+00:00",
-    "fetched": "2026-08-06T00:52:00+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
-  },
-  {
-    "id": "3fc936b103bdafc2",
-    "title": "У Києві та низці областей лунала повітряна тривога через загрозу балістики",
-    "summary": "У ніч на 6 серпня у столиці України та низці областей оголосили повітряну тривогу через загрозу ворожої балістики.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047477/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T22:32:00+00:00",
-    "fetched": "2026-08-05T23:04:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/887202/78ff3b1de76ef7b34d5a9a96ab0c9c0a.jpeg"
   }
 ]
