@@ -1,5 +1,89 @@
 [
   {
+    "id": "3e04bb318ee5b4d4",
+    "title": "Росія атакує Київ балістикою: пошкоджений будинок",
+    "summary": "Уночі 20 серпня Київ зазнав балістичної атаки РФ: пошкоджений будинок, спалахнули пожежі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049422/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T21:21:00+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/0/895388/d011a829acba2049d4443561062d1713.jpeg"
+  },
+  {
+    "id": "e85ca4d6e85f940c",
+    "title": "Уряд спрямує 4,9 млрд гривень на відновлення громад, які постраждали від війни або прийняли велику кількість ВПО",
+    "summary": "Це кошти від Європейського інвестиційного банку.",
+    "url": "https://lb.ua/economics/2026/08/20/760200_uryad_spryamuie_49_mlrd_griven.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T21:07:00+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://i.lb.ua/news/048/58/6a861b07d6e22.jpg"
+  },
+  {
+    "id": "e71900a125f3def2",
+    "title": "Росіяни атакують Київ балістикою та крилатими ракетами (доповнюється)",
+    "summary": "Ворог запустив ракети ще до настання нової доби.",
+    "url": "https://lb.ua/society/2026/08/19/760198_rosiyani_atakuyut_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T20:56:00+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://i.lb.ua/news/076/54/6a8618a87286a.jpg"
+  },
+  {
+    "id": "832324d4ac442ab6",
+    "title": "Ізраїль вдарив по поліцейській дільниці в Газі: відомо про 9 загиблих",
+    "summary": "Ще 15 людей отримали поранення.",
+    "url": "https://lb.ua/world/2026/08/19/760194_izrayil_vdariv_politseyskiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T20:49:00+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://i.lb.ua/news/101/41/6a8616c5e99a8.jpg"
+  },
+  {
+    "id": "2aef77ee1ab8d089",
+    "title": "\"Він з’їхав з глузду\": Туск розкритикував Моравецького за ідею референдуму щодо Шенгену",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049420/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T20:46:00+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/a/f/af07e4f---.jpg"
+  },
+  {
+    "id": "824150be78ef0a8f",
+    "title": "Удар по управлінню поліції в Житомирі: загинули капітан та підполковник, кількість постраждалих зросла до 40",
+    "summary": "Міністр внутрішніх справ України Іван Вигівський повідомив, що від російського подвійного удару по управлінню поліції в Житомирі загинули капітан Артем Зубчук та підполковник Юлія Євдокимова.",
+    "url": "https://www.pravda.com.ua/news/2026/08/19/8049386/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-19T20:32:00+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/8/895313/b8c75afbccbfdfc89c3563aea448159f.jpeg"
+  },
+  {
+    "id": "31860cbc791409c3",
+    "title": "DFlash 2: Keep Drafting Parallel",
+    "summary": "Article URL: https://inco.ai/blog/dflash2/ Comments URL: https://news.ycombinator.com/item?id=49366792 Points: 13 # Comments: 1",
+    "url": "https://inco.ai/blog/dflash2/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T20:28:43+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://inco.ai/og/dflash2.png"
+  },
+  {
     "id": "9b5086dcae4150ef",
     "title": "20 серпня в Україні переважно без опадів, повітря прогріється до +30°",
     "summary": "На півночі та в Карпатах вдень місцями короткочасний дощ та гроза.",
@@ -48,6 +132,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/b/895304/3b1120c6fcfb4b098c459994c576c223.jpeg"
   },
   {
+    "id": "51fcd7b35fb71694",
+    "title": "Pressed Penny Machine Map",
+    "summary": "Article URL: https://pennypresses.net/home/map.php Comments URL: https://news.ycombinator.com/item?id=49366597 Points: 18 # Comments: 5",
+    "url": "https://pennypresses.net/home/map.php",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T20:13:47+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": "https://pennypresses.net/assets/map.jpg"
+  },
+  {
     "id": "c68077f21300db58",
     "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
     "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
@@ -58,6 +154,18 @@
     "published": "2026-08-19T20:04:41+00:00",
     "fetched": "2026-08-19T20:32:59+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg"
+  },
+  {
+    "id": "bebd6cd83fb51500",
+    "title": "XWayland 26.1-rc1 Released Two Years After the Last Release",
+    "summary": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html Comments URL: https://news.ycombinator.com/item?id=49366474 Points: 13 # Comments: 0",
+    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T20:03:03+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": null
   },
   {
     "id": "32a1899336109353",
@@ -106,6 +214,18 @@
     "published": "2026-08-19T19:45:19+00:00",
     "fetched": "2026-08-19T20:32:59+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/turtle-crossing-1152x648-1787167323.jpg"
+  },
+  {
+    "id": "3297d210a9834dca",
+    "title": "Digital Immortality",
+    "summary": "Article URL: https://dogdogfish.com/blog/2026/08/19/digital-immortality/ Comments URL: https://news.ycombinator.com/item?id=49366270 Points: 11 # Comments: 1",
+    "url": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-19T19:44:45+00:00",
+    "fetched": "2026-08-19T21:29:10+00:00",
+    "image": null
   },
   {
     "id": "363fd4b55b0bf3e7",
@@ -50422,137 +50542,5 @@
     "published": "2026-08-05T21:29:23+00:00",
     "fetched": "2026-08-05T23:04:43+00:00",
     "image": "https://randsinrepose.com/wp-content/uploads/2026/08/bladerunner.png"
-  },
-  {
-    "id": "a5f4fbdbb48de413",
-    "title": "Тегеран оприлюднив нові подробиці переговорів між Іраном та Оманом про Ормузьку протоку",
-    "summary": "В Ірані кажуть, що близькі до пропонованих рамок у переговорах з Оманом про Ормузьку протоку.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047475/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T21:26:00+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/887195/f71b6291bf138b471943d72d8c997db7.jpeg"
-  },
-  {
-    "id": "a05ad8184f47b0fe",
-    "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
-    "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread Comments URL: https://news.ycombinator.com/item?id=49189234 Points: 4 # Comments: 0",
-    "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T21:24:45+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!o1nY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bf7fee6-a173-429e-87e9-7c1fba499e5a_1895x1493.png"
-  },
-  {
-    "id": "906ccad4e683173d",
-    "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-    "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-    "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-05T21:21:51+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "428b9199f32c5d8c",
-    "title": "Nikita Bier Steps Down as Head of Product at X",
-    "summary": "Article URL: https://twitter.com/nikitabier/status/2085105586966827343/ Comments URL: https://news.ycombinator.com/item?id=49189113 Points: 31 # Comments: 36",
-    "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T21:15:40+00:00",
-    "fetched": "2026-08-05T23:04:43+00:00",
-    "image": "https://jf.x.com/images/media-preview/2085105586966827343"
-  },
-  {
-    "id": "641d86cda68d0129",
-    "title": "У Москві провели таємне поховання генерала, вбитого під час вибуху у ресторані",
-    "summary": "Не був головною ціллю замаху, але теж поплатився за свої злочини.",
-    "url": "https://lb.ua/society/2026/08/06/756970_moskvi_proveli_taiemne.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T21:12:00+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://i.lb.ua/news/064/02/6a73a74914c38.jpg"
-  },
-  {
-    "id": "8546e0173e9570bb",
-    "title": "Prime Agent: A self-improving RLM agent",
-    "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent Comments URL: https://news.ycombinator.com/item?id=49189075 Points: 8 # Comments: 0",
-    "url": "https://www.primeintellect.ai/blog/prime-agent",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T21:11:57+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://primeintellect.ai/blog/prime-agent/cover.png?v=prime-agent"
-  },
-  {
-    "id": "976e5d225fb6f085",
-    "title": "Залужний заявив, що є прихильником НАТО, але Альянс має трансформуватись",
-    "summary": "Він також зазначив, що у 2019 році був головним реформатором переходу ЗСУ на стандарти НАТО.",
-    "url": "https://lb.ua/news/2026/08/06/756968_zaluzhniy_zayaviv_scho_ie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T21:09:00+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://i.lb.ua/news/015/53/6a73a6998dbb3.jpg"
-  },
-  {
-    "id": "5685c603100a52b4",
-    "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-    "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-    "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T21:03:18+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg"
-  },
-  {
-    "id": "48c4db72cb1f6a73",
-    "title": "Пентагон приховав звіти про десятиліття випробувань зброї",
-    "summary": "Це зробили через побоювання, що вороги можуть використати дані за допомогою ШІ.",
-    "url": "https://lb.ua/world/2026/08/05/756964_pentagon_prihovav_zviti_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T20:49:00+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://i.lb.ua/news/080/10/6a73a1e43cd4d.jpg"
-  },
-  {
-    "id": "53811c587a8570ff",
-    "title": "У Москві поховали генерала Єрусалімова, який міг загинути під час вибуху в ресторані",
-    "summary": "Генерал-лейтенанта Ігоря Єрусалімова поховали в Москві. Ймовірно, він міг загинути під час вибуху в ресторані 1 серпня, де проходило святкування 55-річчя головнокомандувача Повітряно-космічних сил РФ Олександра Чайко.",
-    "url": "https://www.pravda.com.ua/news/2026/08/05/8047474/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-05T20:48:00+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/d/887193/bd975b5e0ed5bc8d20864d0105357b79.jpeg"
-  },
-  {
-    "id": "1baa27119cabf4cf",
-    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-    "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-05T20:47:11+00:00",
-    "fetched": "2026-08-05T21:48:15+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
   }
 ]
