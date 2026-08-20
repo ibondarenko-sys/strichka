@@ -1,5 +1,65 @@
 [
   {
+    "id": "18123eaa0887a812",
+    "title": "Сили оборони України знешкодили ще 1480 російських окупантів – Генштаб",
+    "summary": "За добу ЗСУ знищили 1 480 окупантів, загальні втрати Росії сягнули 1 472 640 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049466/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T03:43:00+00:00",
+    "fetched": "2026-08-20T03:50:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/895487/64c652936e28b1b50713dcb07f71a32f.jpeg"
+  },
+  {
+    "id": "28ba2c5fde4685bb",
+    "title": "\"Укрзалізниця\" змінила маршрути деяких поїздів через російський удар по Києву та області",
+    "summary": "Укрзалізниця тимчасово змінила маршрути поїздів через пошкодження інфраструктури під час російської атаки на Київ і область.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049465/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T03:33:00+00:00",
+    "fetched": "2026-08-20T03:50:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/4/895485/b4bb6c15507fcfc3991e30085c4d3b75.jpeg"
+  },
+  {
+    "id": "56d9ee707e544414",
+    "title": "Польща підняла авіацію через російську атаку по Україні",
+    "summary": "Польща залучила авіацію та ППО через удари російської авіації по Україні 20 серпня — ЗС Польщі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049463/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T03:17:00+00:00",
+    "fetched": "2026-08-20T03:50:04+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/895483/acb09b1adffd39143b9bed4ceaa7a9d1.jpeg"
+  },
+  {
+    "id": "35560161c0675c39",
+    "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+    "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
+    "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-20T03:16:22+00:00",
+    "fetched": "2026-08-20T03:50:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg"
+  },
+  {
+    "id": "2c99652c82b76838",
+    "title": "Former Liberian vice president charged in drug-trafficking probe",
+    "summary": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
+    "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-20T03:09:24+00:00",
+    "fetched": "2026-08-20T03:50:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg"
+  },
+  {
     "id": "e17c03f250da435b",
     "title": "Я так нервував – карандаш згризав, поки мої йшли по відкритці. Як і навіщо Сили оборони пів року наступають на Олександрівському напрямку",
     "summary": "Розвідникам, які зачищали посадки на Олександрівському напрямку",
@@ -46,6 +106,18 @@
     "published": "2026-08-20T01:55:00+00:00",
     "fetched": "2026-08-20T02:40:45+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/895481/0a48a05d43b11911030aca7b3e509ec8.jpeg"
+  },
+  {
+    "id": "14d04233de5d89bd",
+    "title": "Turns are Better than Radians",
+    "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians Comments URL: https://news.ycombinator.com/item?id=49369408 Points: 26 # Comments: 15",
+    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T01:29:12+00:00",
+    "fetched": "2026-08-20T03:50:04+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!mvXW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20e598bd-cac0-4b10-8222-b432167c9159_5616x3744.jpeg"
   },
   {
     "id": "7b453512ec63b965",
@@ -50542,41 +50614,5 @@
     "published": "2026-08-06T03:52:56+00:00",
     "fetched": "2026-08-06T07:17:11+00:00",
     "image": "https://opengraph.githubassets.com/be0a724587ccec90f8d2ffeb971c85da70191ab3b5cc7b27507ec2ed2a068fd9/pradipta/wallfacer"
-  },
-  {
-    "id": "e0561409b204b113",
-    "title": "Governments are making a dangerous bet on the AI boom",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 16 # Comments: 3",
-    "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T03:40:51+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": null
-  },
-  {
-    "id": "c9799f6556475bda",
-    "title": "Сили оборони відмінусували ще 1 330 російських окупантів – Генштаб",
-    "summary": "Генштаб опублікував інформацію про втрати ворога за 5 серпня.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047489/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T03:34:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/3/887224/431ca9437faf9b18d530b6da2f4d612f.jpeg"
-  },
-  {
-    "id": "f892ea9bb59135a8",
-    "title": "Російський Ярославль атакували дрони, під ударом міг бути НПЗ",
-    "summary": "Російське місто Ярославль опинилося під ударами дронів у ніч на 6 серпня, атаки міг зазнати нафтопереробний завод.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047482/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T02:46:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/9/887222/098f58de02fe5163bb41f192b5c5856f.jpeg"
   }
 ]
