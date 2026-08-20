@@ -1,5 +1,53 @@
 [
   {
+    "id": "e17c03f250da435b",
+    "title": "Я так нервував – карандаш згризав, поки мої йшли по відкритці. Як і навіщо Сили оборони пів року наступають на Олександрівському напрямку",
+    "summary": "Розвідникам, які зачищали посадки на Олександрівському напрямку",
+    "url": "https://www.pravda.com.ua/articles/2026/08/20/8049381/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T02:30:00+00:00",
+    "fetched": "2026-08-20T02:40:45+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/895373/9d5262eaf81bb7cf387bfed576c03622.jpeg"
+  },
+  {
+    "id": "67acad32ab303da9",
+    "title": "Принц Гаррі вирішив повернутися до Британії зі Сполучених Штатів",
+    "summary": "Несподіваний крок від бунтівного сина короля.",
+    "url": "https://lb.ua/world/2026/08/20/760214_prints_garri_virishiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T02:17:00+00:00",
+    "fetched": "2026-08-20T02:40:45+00:00",
+    "image": "https://i.lb.ua/news/019/20/6a865b68489c4.jpg"
+  },
+  {
+    "id": "c956a27fca88467a",
+    "title": "Giant whales move into Greenland waters as ice disappears",
+    "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+    "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-20T02:05:20+00:00",
+    "fetched": "2026-08-20T02:40:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg"
+  },
+  {
+    "id": "d77a41e67e5b3782",
+    "title": "Російська армія вдарила по АЗС у Харкові",
+    "summary": "У Харкові дрон РФ влучив в АЗС. Наслідки атаки уточнюють.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049461/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T01:55:00+00:00",
+    "fetched": "2026-08-20T02:40:45+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/895481/0a48a05d43b11911030aca7b3e509ec8.jpeg"
+  },
+  {
     "id": "7b453512ec63b965",
     "title": "Прем'єр Польщі назвав попередника божевільним через намір вийти з Шенгенської зони",
     "summary": "Нова партія правих сил представила засади своєї міграційної політики.",
@@ -58,6 +106,18 @@
     "published": "2026-08-20T00:38:00+00:00",
     "fetched": "2026-08-20T01:27:53+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/895471/7190b207c27e80b8a67ef784f81df3a3.jpeg"
+  },
+  {
+    "id": "f188682b71c7817c",
+    "title": "Росіяни атакували Київ балістикою та крилатими ракетами",
+    "summary": "Ворог запустив ракети ще до настання нової доби.",
+    "url": "https://lb.ua/society/2026/08/20/760198_rosiyani_atakuvali_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T00:30:00+00:00",
+    "fetched": "2026-08-20T02:40:45+00:00",
+    "image": "https://i.lb.ua/news/099/33/6a865447448af.jpg"
   },
   {
     "id": "2bb7ef03548e007c",
@@ -50518,101 +50578,5 @@
     "published": "2026-08-06T02:46:00+00:00",
     "fetched": "2026-08-06T04:16:10+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/9/887222/098f58de02fe5163bb41f192b5c5856f.jpeg"
-  },
-  {
-    "id": "b68721daa139fdd9",
-    "title": "ЗМІ: Рівень обміну розвідданими між США та Україною повернувся до найвищого",
-    "summary": "Необхідна умова використання \"вікна можливостей\" для України щодо ударів по Росії.",
-    "url": "https://lb.ua/society/2026/08/06/756986_zmi_riven_obminu_rozviddanimi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T02:40:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://i.lb.ua/news/064/16/6a73f42e8c82b.jpg"
-  },
-  {
-    "id": "69dabe7912760f8b",
-    "title": "Meta says AI model accessed the internet and hacked another firm",
-    "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-06T02:33:33+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg"
-  },
-  {
-    "id": "a1fdb04482776ee6",
-    "title": "Замкнені укриття та підвали без вентиляції. Реалії безпеки в спальних районах столиці",
-    "summary": "Велика війна в Україні триває понад 4 роки. Дрони, крилаті ракети, балістика та КАБи летять на українські міста.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/06/8047465/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T02:30:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/887178/ca1d52d85d5d523a308a07f677e9ce91.jpeg"
-  },
-  {
-    "id": "40212545e93fb777",
-    "title": "Nashville uses eminent domain to block data center near zoo",
-    "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news.ycombinator.com/item?id=49191624 Points: 101 # Comments: 86",
-    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T02:15:14+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": null
-  },
-  {
-    "id": "2046657d28d0522c",
-    "title": "Politico: Обмін розвідданими між США та Україною повернувся до попереднього рівня",
-    "summary": "США та Україна налагодили знову співпрацю у сфері обміну розвідданими.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047488/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T01:58:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/887221/8058b75e5c5f3249c14a6174515e2c62.jpeg"
-  },
-  {
-    "id": "f234b6d36ab547e7",
-    "title": "Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure",
-    "summary": "Article URL: https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/ Comments URL: https://news.ycombinator.com/item?id=49191455 Points: 15 # Comments: 4",
-    "url": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T01:50:18+00:00",
-    "fetched": "2026-08-06T07:17:11+00:00",
-    "image": "https://na.rdcpix.com/a844b8714a3352d67123869a73a2f83aw-c1180468454srd_w1200_q80.jpg"
-  },
-  {
-    "id": "cc743031491edb54",
-    "title": "LLMs won't break symmetric crypto",
-    "summary": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto Comments URL: https://news.ycombinator.com/item?id=49191365 Points: 55 # Comments: 50",
-    "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T01:39:06+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!UXVg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a4fb4a-8a41-4520-8f34-8634442a2612_2300x1272.png"
-  },
-  {
-    "id": "bc0bc27cb6d63a2d",
-    "title": "Скандальний президент ФІФА отримав підтримку виконавчого комітету і залишиться на посаді",
-    "summary": "Зустріч у Рабаті не призвела до зміни керівництва у світовому футболі.",
-    "url": "https://lb.ua/sport/2026/08/06/756984_skandalniy_prezident_fifa.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T01:38:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://i.lb.ua/news/093/60/6a73e4ea52b3c.jpg"
   }
 ]
