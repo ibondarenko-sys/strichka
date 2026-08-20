@@ -1,5 +1,41 @@
 [
   {
+    "id": "213580b8fab47c43",
+    "title": "У Києві частково обмежать рух мостом Метро",
+    "summary": "Міст Метро у Києві частково закриють з 21 по 24 серпня для ремонту. Водіям радять планувати маршрути заздалегідь.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049610/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T22:55:00+00:00",
+    "fetched": "2026-08-20T23:29:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/896032/2be9008cc1fd627d926f3a0c1c8c0c70.jpeg"
+  },
+  {
+    "id": "9e78f1c41169b37c",
+    "title": "Detecting scraper bots through scroll behaviour",
+    "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour Comments URL: https://news.ycombinator.com/item?id=49381311 Points: 6 # Comments: 3",
+    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T22:47:52+00:00",
+    "fetched": "2026-08-20T23:29:21+00:00",
+    "image": "https://niki.cat/bl-themes/bludit-blowfish-main/img/spleenftw.jpeg"
+  },
+  {
+    "id": "6285e8da12ad64a5",
+    "title": "СБУ оголосила про підозру клірику УПЦ МП, який у Криму благословляє російську армію",
+    "summary": "Прихильника РПЦ і Путіна викинули з Мукачевської єпархії ще у 2015 році.",
+    "url": "https://lb.ua/society/2026/08/21/760460_sbu_ogolosila_pro_pidozru.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T22:41:00+00:00",
+    "fetched": "2026-08-20T23:29:21+00:00",
+    "image": "https://i.lb.ua/news/115/15/6a8782762bd81.jpg"
+  },
+  {
     "id": "71a2d7695f2d001c",
     "title": "ЗМІ: 80 українців стали дезертирами з 2022 року під час навчань у німецькій Саксонії",
     "summary": "Екстрадицію до України вони блокують, подаючись на отримання притулку.",
@@ -51322,53 +51358,5 @@
     "published": "2026-08-06T23:30:03+00:00",
     "fetched": "2026-08-07T05:43:38+00:00",
     "image": "https://media.wired.com/photos/6a749b5af36b5a790db748af/191:100/w_1280,c_limit/Security_Dozens%20of%20GPS%20Devices%20for%20Kids%20and%20Cars%20Are%20Vulnerable%20to%20Spying%20and%20Sabotage_v1.jpg"
-  },
-  {
-    "id": "e413646311dbe779",
-    "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-    "summary": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat…",
-    "url": "https://zenodo.org/records/21359923",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T22:50:09+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": null
-  },
-  {
-    "id": "f7dcff2c2b90f712",
-    "title": "Трамп підписав нові укази щодо обмеження права на американське громадянство за народженням",
-    "summary": "Як і попередні, їх будуть оскаржувати у суді через антиконституційність.",
-    "url": "https://lb.ua/world/2026/08/07/757242_tramp_pidpisav_novi_ukazi_schodo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T22:47:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/050/23/6a750fe4e8340.jpg"
-  },
-  {
-    "id": "66f8812d541798ba",
-    "title": "Двоє чоловіків на Херсонщині отримали травми через удари російських дронів",
-    "summary": "У Херсонській області зазнали поранень і травм двоє чоловіків через полювання російських дронів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047657/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T22:46:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/887777/850cb86fcf50d4fc96db7f723d002d99.jpeg"
-  },
-  {
-    "id": "3ab3d5e995b6bd79",
-    "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-    "summary": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-    "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-06T22:41:09+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bf/live/fd004bd0-91b1-11f1-a7ab-8b30adf0800a.jpg"
   }
 ]
