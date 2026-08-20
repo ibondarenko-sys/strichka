@@ -1,5 +1,125 @@
 [
   {
+    "id": "32b1cabd6fe221b1",
+    "title": "Ще трьох людей вдалося евакуювати з прифронтового Нікополя",
+    "summary": "За декілька місяців до цього, сім'я постраждала від ворожої атаки.",
+    "url": "https://lb.ua/society/2026/08/20/760442_sche_troh_lyudey_vdalosya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T19:30:00+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://i.lb.ua/news/018/03/6a8755eed3c14.jpg"
+  },
+  {
+    "id": "a6d2c60e7b38413e",
+    "title": "У Хорватії взяли під варту українця, затриманого у справі про підрив \"Північних потоків\"",
+    "summary": "Громадянину України Володимиру Журавльову, якого 19 серпня заарештували в Пулі на підставі європейського ордера на арешт у справі \"Північних потоків\", слідча суддя обрала запобіжний захід у вигляді тримання під вартою.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049603/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T19:14:00+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/895995/360e92b25ae1dc47e3f691b3526d1592.jpeg"
+  },
+  {
+    "id": "1bfe3533ecba866f",
+    "title": "ЦПД: Росія відкрила пропагандистську виставку в США",
+    "summary": "Окупанти представили \"скіфське золото\" російським, попри те, що ці історичні цінності офіційно визнали частиною Музейного фонду України.",
+    "url": "https://lb.ua/society/2026/08/20/760436_tspd_rosiya_vidkrila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T19:06:00+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://i.lb.ua/news/098/28/6a87504ac6cd8.jpg"
+  },
+  {
+    "id": "19e393a5e185aef9",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and…",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T19:05:36+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://www.danielvaughn.dev/opengraph-image.jpg"
+  },
+  {
+    "id": "3c6d47b26a9c5647",
+    "title": "Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)",
+    "summary": "Article URL: http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html Comments URL: https://news.ycombinator.com/item?id=49378724 Points: 4 # Comments: 0",
+    "url": "http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T19:01:17+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": null
+  },
+  {
+    "id": "1d7dad7a8298b3bf",
+    "title": "Наступного тижня НБУ оцінить профпридатність голови правління «Сенс Банку»",
+    "summary": "Тим часом Кабмін має терміново доукомплектувати склад наглядової ради, бо вона наразі втратила кворум.",
+    "url": "https://lb.ua/economics/2026/08/20/760440_nastupnogo_tizhnya_nbu_otsinit.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T19:01:00+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://i.lb.ua/news/034/55/6a874f0c8e6ba.jpg"
+  },
+  {
+    "id": "e28573af70a11c85",
+    "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+    "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+    "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-20T18:55:14+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg"
+  },
+  {
+    "id": "4125e512fc459399",
+    "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+    "summary": "Article URL: https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/ Comments URL: https://news.ycombinator.com/item?id=49378630 Points: 26 # Comments: 5",
+    "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T18:54:32+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": null
+  },
+  {
+    "id": "31656b751f79f9f7",
+    "title": "Mark Zuckerberg bought an Irish castle",
+    "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact price of the purchase is unclear, the family could have paid…",
+    "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T18:50:14+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546251/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6d961b20876c71ea",
+    "title": "Мінфіну доручили продати Sense Bank, вилучені кошти підуть на потреби Сил оборони – Корецький",
+    "summary": "Прем'єр-міністр України Сергій Корецький повідомив, що Міністерство фінансів отримало завдання продати Sense Bank.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049601/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T18:42:00+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/d/895994/fd8f47e62ccae3942d262c2141679ffe.jpeg"
+  },
+  {
     "id": "720dc86cbb48ae4c",
     "title": "Мінфін отримав завдання від уряду активізувати процес продажу Sense Bank",
     "summary": "Корецький зазначив, що отримані від продажу кошти підуть на потреби Сил оборони.",
@@ -10,6 +130,18 @@
     "published": "2026-08-20T18:41:00+00:00",
     "fetched": "2026-08-20T18:45:44+00:00",
     "image": "https://i.lb.ua/news/108/30/6a874a60c6471.jpg"
+  },
+  {
+    "id": "f9da10db96b15563",
+    "title": "Через російський обстріл Краматорська 1 людина загинула та 11 постраждали",
+    "summary": "Унаслідок авіаудару по Краматорську загинула жінка, 11 поранених, масштабні пожежі й руйнування.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049600/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T18:41:00+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/6/895981/06aa192b9b3d469c77d5d765c0815b58.jpeg"
   },
   {
     "id": "910d737212cb1974",
@@ -48,6 +180,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/895964/2080975a522ff0de1eb9a6529ddcf64e.jpeg"
   },
   {
+    "id": "5232b63651bb1ff7",
+    "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+    "summary": "Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js. Kandelo is still experimental, but it already runs a substantial range of existing software. Do you have use cases for this? We are trying Kandelo as a new foundation for…",
+    "url": "https://kandelo.dev/20260819-demo/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T18:25:30+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": null
+  },
+  {
     "id": "6f40ecc3ed2c50ed",
     "title": "Мінагро: У серпні Україна експортувала 900 тисяч тонн продукції",
     "summary": "Найбільше скоротився експорт зернових – зараз він становить всього 20% потенційного обсягу.",
@@ -82,6 +226,18 @@
     "published": "2026-08-20T18:20:00+00:00",
     "fetched": "2026-08-20T18:45:44+00:00",
     "image": "https://i.lb.ua/news/003/21/6a87458036de4.jpg"
+  },
+  {
+    "id": "b9407ca92b8d47d0",
+    "title": "Consumer Rights Wiki",
+    "summary": "Article URL: https://consumerrights.wiki/w/Main_Page Comments URL: https://news.ycombinator.com/item?id=49378243 Points: 10 # Comments: 0",
+    "url": "https://consumerrights.wiki/w/Main_Page",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T18:19:51+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://consumerrights.wiki/thumb.php?f=Wemo-banner.jpg&width=1200"
   },
   {
     "id": "ece008f3426adfc8",
@@ -120,6 +276,18 @@
     "image": "https://cdn.ain.ua/ua/articles/2026-08-20/4wcp4Nlwidt8hnXHjxFHUePVIqEYs8UNVI8ziFY0.webp"
   },
   {
+    "id": "4c260f7470ff19a5",
+    "title": "Optimizing things in the USSR (2016)",
+    "summary": "Article URL: https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/ Comments URL: https://news.ycombinator.com/item?id=49377923 Points: 18 # Comments: 8",
+    "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T17:55:16+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": null
+  },
+  {
     "id": "3c54d831b1cb7070",
     "title": "Асамблея держав-учасниць Міжнародного кримінального суду відреагувала на санкції США",
     "summary": "Нові обмеження можуть вплинути на поточні розслідування МКС, заявляє Асамблея.",
@@ -130,6 +298,18 @@
     "published": "2026-08-20T17:55:00+00:00",
     "fetched": "2026-08-20T18:45:44+00:00",
     "image": "https://i.lb.ua/news/020/05/6a873f9d1af26.jpg"
+  },
+  {
+    "id": "19925e0b660e26ad",
+    "title": "I should have loved biology",
+    "summary": "Article URL: https://jsomers.net/i-should-have-loved-biology/ Comments URL: https://news.ycombinator.com/item?id=49377853 Points: 71 # Comments: 28",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T17:50:02+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://user-images.githubusercontent.com/21294/94627410-73b6c680-028b-11eb-9501-d7453af56106.png"
   },
   {
     "id": "c05136131fe8916a",
@@ -156,6 +336,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "52ca12f946d52673",
+    "title": "Project Cybersyn",
+    "summary": "Article URL: https://bactra.org/notebooks/cybersyn.html Comments URL: https://news.ycombinator.com/item?id=49377739 Points: 20 # Comments: 9",
+    "url": "https://bactra.org/notebooks/cybersyn.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T17:40:49+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": null
+  },
+  {
     "id": "c65727560079794d",
     "title": "Румунія поінформувала НАТО про інциденти з дронами",
     "summary": "",
@@ -178,6 +370,18 @@
     "published": "2026-08-20T17:38:30+00:00",
     "fetched": "2026-08-20T18:45:44+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "7117b3e6f2a3d9b3",
+    "title": "Show HN: We chased a weather balloon across Montana and never found it",
+    "summary": "Since April, I have been working with Sam Flynn ( https://drook.dev ) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch. UpLink was a 491 gram payload testing the insulation properties of 3D printing…",
+    "url": "https://radi8.dev/blog/uplink/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T17:33:32+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": null
   },
   {
     "id": "d6180fb1f1e106aa",
@@ -216,6 +420,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/895914/80ecb8d6d70c2e5add5a8b2d9c071e0b.jpeg"
   },
   {
+    "id": "e3c6e7622accb76d",
+    "title": "URL shortener links stored in your ATProto PDS",
+    "summary": "Article URL: https://atpr.to/ Comments URL: https://news.ycombinator.com/item?id=49377535 Points: 15 # Comments: 2",
+    "url": "https://atpr.to/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T17:23:22+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://atpr.to/static/logo.svg"
+  },
+  {
     "id": "5079361dbdc1f8a5",
     "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
     "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on…",
@@ -238,6 +454,18 @@
     "published": "2026-08-20T17:16:00+00:00",
     "fetched": "2026-08-20T17:33:27+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/e/895911/ae214735080e8c85ebb08b56657c2517.jpeg"
+  },
+  {
+    "id": "9d8f56e4dc45b3cd",
+    "title": "Roblox must make changes after failing to block adults creeping on kids",
+    "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T17:14:08+00:00",
+    "fetched": "2026-08-20T19:34:55+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg"
   },
   {
     "id": "1f675267cbf28985",
@@ -51142,149 +51370,5 @@
     "published": "2026-08-06T19:38:10+00:00",
     "fetched": "2026-08-07T00:25:27+00:00",
     "image": "https://s.dou.ua/img/announces/22_zi25y2M.jpg"
-  },
-  {
-    "id": "d9bab1f4673e3bb1",
-    "title": "170 бойових зіткнень відбулось на фронті від початку доби",
-    "summary": "Найбільше атак відбулось на Покровському напрямку. Там росіяни штурмували 23 рази.",
-    "url": "https://lb.ua/society/2026/08/06/757220_170_boyovih_zitknen_vidbulos.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:31:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/105/04/6a74e0fac8503.jpg"
-  },
-  {
-    "id": "6f1f2db993038188",
-    "title": "Федоров каже, що веде переговори з Маском щодо Starlink для ураження цілей в РФ",
-    "summary": "Федоров підтвердив переговори з Маском щодо застосування Starlink проти російських цілей.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047648/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:30:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/6/887745/e6935734fa03fef2d99dc9cb0c40ad29.jpeg"
-  },
-  {
-    "id": "3cfaf7a7506780bf",
-    "title": "Трамп заперечив чутки про конфлікт із Гегсетом через запаси зброї США",
-    "summary": "Американський президент Дональд Трамп виступив на захист міністра оборони США Піта Гегсета після низки повідомлень про розбіжності щодо скорочення запасів зброї США.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047647/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:25:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/b/887729/ebcb2a84f9c32a29ac6037e66b9095f0.jpeg"
-  },
-  {
-    "id": "6df105c8e4573be4",
-    "title": "Уряд збільшив розмір кредитних можливостей для аграріїв в рамках екстреного пакету підтримки",
-    "summary": "Загальний розмір кредиту за програмою становить до 80 млрд гривень.",
-    "url": "https://lb.ua/economics/2026/08/06/757222_uryad_zbilshiv_rozmir_kreditnih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:19:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/067/03/6a74de59ebbc1.jpg"
-  },
-  {
-    "id": "efcd05e26453259a",
-    "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-    "summary": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
-    "url": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-06T19:17:39+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4b/live/00c60560-91bd-11f1-af4d-5164294a85c7.jpg"
-  },
-  {
-    "id": "a05a7082979fbf5b",
-    "title": "Федоров розповів про свій план змін до мобілізації",
-    "summary": "Федоров: Новий поетапний підхід до мобілізації та можливість працювати на економіку.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047646/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:15:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/d/887728/2de3375da32bfb78cc080e717029174f.jpeg"
-  },
-  {
-    "id": "65821ac5c007bd16",
-    "title": "Herdr is joining Y Combinator. The runtime stays open",
-    "summary": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/ Comments URL: https://news.ycombinator.com/item?id=49201003 Points: 127 # Comments: 84",
-    "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T19:14:21+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": "https://herdr.dev/assets/og-blog-yc-v1.png"
-  },
-  {
-    "id": "fc74b1de7cc687d3",
-    "title": "РФ знищила у Павлограді сортувальне депо \"Укрпошти\": загинули працівниці",
-    "summary": "Російська армія 6 серпня знищила сортувальне депо та точку базування пересувних відділень \"Укрпошти\" в Павлограді на Дніпропетровщині: загинули дві працівниці.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047645/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:14:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/8/887727/58071a4d079284fccd4d9fe1ed9135f9.jpeg"
-  },
-  {
-    "id": "ad864d245474b5ce",
-    "title": "Іран прагне заборонити рух американських та ізраїльських суден через Ормузьку протоку",
-    "summary": "Тегеран одноосібно контролюватиме вхід суден у протоку, а вихід із неї перевірятиме спільно з Оманом.",
-    "url": "https://lb.ua/world/2026/08/06/757216_iran_pragne_zaboroniti_ruh.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:10:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/003/50/6a74dc1db73b0.jpg"
-  },
-  {
-    "id": "867f35f4c3c0bf8e",
-    "title": "Can you reverse engineer an ASIC?",
-    "summary": "Article URL: https://blog.janestreet.com/can-you-reverse-engineer-an-asic/ Comments URL: https://news.ycombinator.com/item?id=49200933 Points: 53 # Comments: 30",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T19:07:33+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/puzzle.gif"
-  },
-  {
-    "id": "4d710a4e9d107524",
-    "title": "Large genome models used to design new viruses",
-    "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T19:04:57+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg"
-  },
-  {
-    "id": "945ecf95aa2f8f3f",
-    "title": "Ізраїль вдарив по Лівану, попри початок переговорів між країнами",
-    "summary": "Перед цим Ізраїль заявив про вбивство двох своїх солдатів на півдні Лівану.",
-    "url": "https://lb.ua/world/2026/08/06/757218_izrayil_vdariv_livanu_popri.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T19:00:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/026/51/6a74da387db14.jpg"
   }
 ]
