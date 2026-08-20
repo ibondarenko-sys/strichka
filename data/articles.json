@@ -1,5 +1,65 @@
 [
   {
+    "id": "34a41aee9cd642b8",
+    "title": "Уряд вирішив додатково стимулювати розвиток розподіленої генерації та збільшення імпорту електроенергії",
+    "summary": "Рішення також врегульовує порядок взаємодії між Укренерго, операторами розподілу, електропостачальниками, виробниками розподіленої генерації та споживачами.",
+    "url": "https://lb.ua/economics/2026/08/21/760456_uryad_virishiv_dodatkovo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T21:26:00+00:00",
+    "fetched": "2026-08-20T21:32:07+00:00",
+    "image": "https://i.lb.ua/news/084/13/6a8770fab0dcc.jpg"
+  },
+  {
+    "id": "a31625dadf8e49c0",
+    "title": "У п'ятницю курс гривні до євро оновить історичний антирекорд",
+    "summary": "А відносно долара українська валюта навпаки укріплюється.",
+    "url": "https://lb.ua/economics/2026/08/21/760452_pyatnitsyu_kurs_grivni_ievro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T21:10:00+00:00",
+    "fetched": "2026-08-20T21:32:07+00:00",
+    "image": "https://i.lb.ua/news/060/47/6a876bec90aee.jpg"
+  },
+  {
+    "id": "5df663b719564128",
+    "title": "21 серпня в Україні буде сильна спека, місцями до +37°",
+    "summary": "Також в більшості областей прогнозують надзвичайний рівень пожежної небезпеки.",
+    "url": "https://lb.ua/society/2026/08/20/760450_21_serpnya_ukrayini_bude_silna.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T20:54:00+00:00",
+    "fetched": "2026-08-20T21:32:07+00:00",
+    "image": "https://i.lb.ua/news/112/21/6a8769a5736b5.jpg"
+  },
+  {
+    "id": "b6d657f9a4d7875e",
+    "title": "Майже дві сотні боїв відбулось на фронті з початку доби – Генштаб",
+    "summary": "Від початку доби 20 серпня на фронті відбулось 195 бойових зіткнень, з них 18 на Костянтинівському і 18 на Покровському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049608/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T20:47:00+00:00",
+    "fetched": "2026-08-20T21:32:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/896029/eec9c1283f143512062831c5260eb302.jpeg"
+  },
+  {
+    "id": "8fa036f59528c4ab",
+    "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+    "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+    "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-20T20:40:17+00:00",
+    "fetched": "2026-08-20T21:32:06+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg"
+  },
+  {
     "id": "d5783661e828a86a",
     "title": "СЗРУ: в Росії фіксують чергову логістичну кризу",
     "summary": "Пальне подорожчало на 16-18%, через це зросла собівартість автоперевезень.",
@@ -58,6 +118,18 @@
     "published": "2026-08-20T20:12:00+00:00",
     "fetched": "2026-08-20T20:33:13+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/d/896014/fd80f9d31dbc6cc771ce65937e56ba6c.jpeg"
+  },
+  {
+    "id": "c992986a594fa67e",
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "summary": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 181 # Comments: 21",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T20:07:26+00:00",
+    "fetched": "2026-08-20T21:32:07+00:00",
+    "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/curiousquail/img_2026_web.jpg"
   },
   {
     "id": "74381779e8d9967f",
@@ -166,6 +238,18 @@
     "published": "2026-08-20T19:28:18+00:00",
     "fetched": "2026-08-20T20:33:15+00:00",
     "image": "https://surfingcomplexity.blog/wp-content/uploads/2020/05/surfer_1f3c4.png?w=120"
+  },
+  {
+    "id": "ba7ef830fa2ae19c",
+    "title": "The August 17 outage, and the work ahead",
+    "summary": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 91 # Comments: 105",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T19:22:24+00:00",
+    "fetched": "2026-08-20T21:32:07+00:00",
+    "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png"
   },
   {
     "id": "ab05a8d294e9940d",
@@ -51286,137 +51370,5 @@
     "published": "2026-08-06T21:40:00+00:00",
     "fetched": "2026-08-07T00:25:27+00:00",
     "image": "https://i.lb.ua/news/069/17/6a74fc9e17d90.jpg"
-  },
-  {
-    "id": "d8863932dcdd60ec",
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 42 # Comments: 3",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T21:30:21+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": "https://www.aleksagordic.com/blog/vllm/engine_constructor.png"
-  },
-  {
-    "id": "ab128c7cfb604750",
-    "title": "Трамп про ракети Patriot для України: \"Нам і самим потрібні\"",
-    "summary": "Відповідаючи на питання про ракети Patriot для України, Трамп вчергове згадав допомогу, яку надав Байден.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047654/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T21:30:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/1/887774/9123f016fce52d143fa9bdc462a670e8.jpeg"
-  },
-  {
-    "id": "1be0424086f6bef3",
-    "title": "\"Флеш\" попередив представників бізнесу про анонімні листи від \"власників шахедів\"",
-    "summary": "Зловмисники пропонують заплатити, щоб об'єкти бізнесу не потрапили під атаку.",
-    "url": "https://lb.ua/society/2026/08/07/757236_flesh_poperediv_predstavnikiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T21:24:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/025/48/6a74fb74e30a9.jpg"
-  },
-  {
-    "id": "c5f32ba656d15466",
-    "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm Comments URL: https://news.ycombinator.com/item?id=49202716 Points: 37 # Comments: 2",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T21:18:32+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp"
-  },
-  {
-    "id": "557efb07aae791c8",
-    "title": "What Is a Product?",
-    "summary": "Article URL: https://roge.onwrite.app/what-is-a-product Comments URL: https://news.ycombinator.com/item?id=49202690 Points: 11 # Comments: 1",
-    "url": "https://roge.onwrite.app/what-is-a-product",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T21:16:52+00:00",
-    "fetched": "2026-08-07T07:23:17+00:00",
-    "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjE5NDZ8MHwxfHNlYXJjaHwyN3x8cHJvZHVjdHxlbnwxfHx8fDE3ODYwNTA1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "id": "0452e3ff5a99297b",
-    "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-    "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including…",
-    "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T21:15:47+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2259495141.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "b04ef93d02f54ceb",
-    "title": "\"Динамо\" з перемоги розпочало третій кваліфікаційний раунд Ліги конференцій проти \"Карабаха\"",
-    "summary": "Мінімальна перевага перед матчем-відповіддю в Азербайджані.",
-    "url": "https://lb.ua/sport/2026/08/07/757232_dinamo_z_peremogi_rozpochalo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T21:07:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/022/31/6a74f6fa5fb72.jpg"
-  },
-  {
-    "id": "1e9eea07d8e7ef63",
-    "title": "Калашник: в громадах Дніпропетровщини тривають роботи з відновлення водопостачання",
-    "summary": "Більша частина робіт виконана. Людей забезпечують запасами питної та технічної води.",
-    "url": "https://lb.ua/society/2026/08/06/757230_kalashnik_gromadah.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T20:59:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/111/38/6a74f5d6cb600.jpg"
-  },
-  {
-    "id": "ca643a5787996b47",
-    "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T20:55:39+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6,18.717179294824,78.4,81.282820705176"
-  },
-  {
-    "id": "44a4b607e7c961b6",
-    "title": "В Одеській області внаслідок російської атаки постраждав 16-річний хлопець",
-    "summary": "Російська армія 6 серпня атакувала Ізмаїльський район на Одещині, постраждав 16-річний хлопець.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047653/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T20:51:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/887767/0e6abdca8217a4ddd7e9abed050a7189.jpeg"
-  },
-  {
-    "id": "f2da256c153eac0a",
-    "title": "В адміністрації Вучича анонсували перший візит Зеленського до Сербії",
-    "summary": "В адміністрації президента Сербії Александара Вучича на суботу анонсували перший візит Володимира Зеленського в країну за час повномасштабної війни та свою каденцію.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047651/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T20:36:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/2/887765/127244464c34d692ba449e9dc2a41f63.jpeg"
   }
 ]
