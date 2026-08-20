@@ -1,5 +1,29 @@
 [
   {
+    "id": "57ce006a4399dc79",
+    "title": "Кількість загиблих внаслідок російської атаки на Київ зросла до 6, постраждалих – 33",
+    "summary": "Внаслідок російської атаки на Київ 6 людей загинули, 33 постраждали, триває ліквідація наслідків.",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049474/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T04:35:00+00:00",
+    "fetched": "2026-08-20T04:41:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/895509/7b8f4d0ed4d5165366bc9c54a98ba78d.jpeg"
+  },
+  {
+    "id": "b0b86a4da4a58055",
+    "title": "Операція \"Форест Гамп\": НБУ вимагає припинити повноваження голови наглядової ради \"Сенс Банку\" Гладишенка",
+    "summary": "Після матеріалів НАБУ НБУ вимагає припинення повноважень Гладишенка та перевірить наглядову раду \"Сенс Банку\".",
+    "url": "https://www.pravda.com.ua/news/2026/08/20/8049473/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T04:19:00+00:00",
+    "fetched": "2026-08-20T04:41:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/0/895508/e0126ee38267c8782954bbfd16843f07.jpeg"
+  },
+  {
     "id": "18123eaa0887a812",
     "title": "Сили оборони України знешкодили ще 1480 російських окупантів – Генштаб",
     "summary": "За добу ЗСУ знищили 1 480 окупантів, загальні втрати Росії сягнули 1 472 640 осіб.",
@@ -50554,65 +50578,5 @@
     "published": "2026-08-06T04:43:00+00:00",
     "fetched": "2026-08-06T07:17:11+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/887237/34aa024dab03b57fe84cabb6567e5134.jpeg"
-  },
-  {
-    "id": "905a8493898bcdeb",
-    "title": "Nigerian security forces rescue more than 300 abductees",
-    "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
-    "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-06T04:35:33+00:00",
-    "fetched": "2026-08-06T07:17:11+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5011/live/58c21620-914d-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "9fe1145b3a012901",
-    "title": "Росіяни вранці двічі атакували Балаклію: є влучання у приватні будинки, 3 загиблих",
-    "summary": "Атака росіян по Балаклії 6 серпня: внаслідок ударів загинули 3 людини, працюють рятувальники.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047491/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T04:32:00+00:00",
-    "fetched": "2026-08-06T07:17:11+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/887235/032f4ab3b5a451a61355b9227a3d9a73.jpeg"
-  },
-  {
-    "id": "205ca12fe998cd25",
-    "title": "Ship Safe, an open source security scanner for coding agents",
-    "summary": "Article URL: https://github.com/asamassekou10/ship-safe Comments URL: https://news.ycombinator.com/item?id=49192277 Points: 5 # Comments: 5",
-    "url": "https://github.com/asamassekou10/ship-safe",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T04:02:28+00:00",
-    "fetched": "2026-08-06T07:17:11+00:00",
-    "image": "https://opengraph.githubassets.com/7dafa2f37f87da1004c662b37521ebc4bb9a77b8d4a4fcd85ca4e0bddfd91c05/asamassekou10/ship-safe"
-  },
-  {
-    "id": "15a333c3b5ffd355",
-    "title": "Через гострий дефіцит ракет у США між Трампом і Гегсетом виник конфлікт – ЗМІ",
-    "summary": "ЗМІ пишуть, що через брак ракет між Трампом і Гегсетом стався конфлікт.",
-    "url": "https://www.pravda.com.ua/news/2026/08/06/8047490/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T03:58:00+00:00",
-    "fetched": "2026-08-06T04:16:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/a/887231/8ab3b56fba9c5ef3cef7fd206a0ce963.jpeg"
-  },
-  {
-    "id": "2d4883ed608a8998",
-    "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-    "summary": "Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 15 # Comments: 8",
-    "url": "https://github.com/pradipta/wallfacer",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T03:52:56+00:00",
-    "fetched": "2026-08-06T07:17:11+00:00",
-    "image": "https://opengraph.githubassets.com/be0a724587ccec90f8d2ffeb971c85da70191ab3b5cc7b27507ec2ed2a068fd9/pradipta/wallfacer"
   }
 ]
