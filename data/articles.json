@@ -1,5 +1,77 @@
 [
   {
+    "id": "71a2d7695f2d001c",
+    "title": "ЗМІ: 80 українців стали дезертирами з 2022 року під час навчань у німецькій Саксонії",
+    "summary": "Екстрадицію до України вони блокують, подаючись на отримання притулку.",
+    "url": "https://lb.ua/society/2026/08/21/760458_zmi_80_ukrayintsiv_stali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T22:17:00+00:00",
+    "fetched": "2026-08-20T22:31:37+00:00",
+    "image": "https://i.lb.ua/news/003/20/6a877d1092751.jpg"
+  },
+  {
+    "id": "abea01bdfec26a5b",
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the…",
+    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T21:50:22+00:00",
+    "fetched": "2026-08-20T22:31:37+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e5a835ba19e03dd5",
+    "title": "Зеленський підписав укази про нові санкції проти росіян (доповнено)",
+    "summary": "Вони спрямовані проти воєнного комплексу окупантів, колаборантів та колишніх діячів з України.",
+    "url": "https://lb.ua/news/2026/08/21/760424_zelenskiy_pidpisav_ukazi_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T21:45:00+00:00",
+    "fetched": "2026-08-20T22:31:37+00:00",
+    "image": "https://i.lb.ua/news/014/07/6a8739a30c672.jpg"
+  },
+  {
+    "id": "6f40f60f5878bb36",
+    "title": "Російська армія вдарила по Запоріжжю: поранений 19-річний хлопець",
+    "summary": "Внаслідок атаки РФ на Запоріжжя поранено 19-річного хлопця, його госпіталізовано. Деталі — у новині.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049609/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T21:43:00+00:00",
+    "fetched": "2026-08-20T22:31:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/896030/2b34678b4a0bc74ecb26815185f65f49.jpeg"
+  },
+  {
+    "id": "b7f75c9859c7d042",
+    "title": "Scientists Release Biggest 2D Map of the Universe",
+    "summary": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/ Comments URL: https://news.ycombinator.com/item?id=49380671 Points: 6 # Comments: 0",
+    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T21:42:51+00:00",
+    "fetched": "2026-08-20T22:31:39+00:00",
+    "image": "https://newscenter.lbl.gov/wp-content/uploads/2026/08/Newscenter_Feature_1400px-DR11-M96_DECam_TAR-CC9.jpg"
+  },
+  {
+    "id": "84ef3763055730be",
+    "title": "Зеленський у привітанні на честь національного свята Угорщини запросив Мадяра до Києва",
+    "summary": "20 серпня у сусідній державі відзначали День святого Іштвана.",
+    "url": "https://lb.ua/news/2026/08/21/760454_zelenskiy_privitanni_chest.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-20T21:42:00+00:00",
+    "fetched": "2026-08-20T22:31:37+00:00",
+    "image": "https://i.lb.ua/news/092/35/6a87737d5b756.jpg"
+  },
+  {
     "id": "34a41aee9cd642b8",
     "title": "Уряд вирішив додатково стимулювати розвиток розподіленої генерації та збільшення імпорту електроенергії",
     "summary": "Рішення також врегульовує порядок взаємодії між Укренерго, операторами розподілу, електропостачальниками, виробниками розподіленої генерації та споживачами.",
@@ -10,6 +82,30 @@
     "published": "2026-08-20T21:26:00+00:00",
     "fetched": "2026-08-20T21:32:07+00:00",
     "image": "https://i.lb.ua/news/084/13/6a8770fab0dcc.jpg"
+  },
+  {
+    "id": "9d814d6d7afc0cfc",
+    "title": "Citizen Devs: Everyone is an engineer now",
+    "summary": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer Comments URL: https://news.ycombinator.com/item?id=49380491 Points: 17 # Comments: 13",
+    "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T21:25:48+00:00",
+    "fetched": "2026-08-20T22:31:39+00:00",
+    "image": "https://www.massdriver.cloud/assets/citizen-developer-cover.jpg"
+  },
+  {
+    "id": "70e3fc373020a2ae",
+    "title": "Code as an Artifact",
+    "summary": "Article URL: https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/ Comments URL: https://news.ycombinator.com/item?id=49380482 Points: 9 # Comments: 3",
+    "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T21:24:57+00:00",
+    "fetched": "2026-08-20T22:31:39+00:00",
+    "image": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/smith_matrix.png"
   },
   {
     "id": "a31625dadf8e49c0",
@@ -24,6 +120,18 @@
     "image": "https://i.lb.ua/news/060/47/6a876bec90aee.jpg"
   },
   {
+    "id": "3a3ac13310221f2d",
+    "title": "The Wonders of the Male Human Pelvis",
+    "summary": "Article URL: https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947 Comments URL: https://news.ycombinator.com/item?id=49380226 Points: 10 # Comments: 0",
+    "url": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T21:01:24+00:00",
+    "fetched": "2026-08-20T22:31:39+00:00",
+    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_15da91.png"
+  },
+  {
     "id": "5df663b719564128",
     "title": "21 серпня в Україні буде сильна спека, місцями до +37°",
     "summary": "Також в більшості областей прогнозують надзвичайний рівень пожежної небезпеки.",
@@ -34,6 +142,18 @@
     "published": "2026-08-20T20:54:00+00:00",
     "fetched": "2026-08-20T21:32:07+00:00",
     "image": "https://i.lb.ua/news/112/21/6a8769a5736b5.jpg"
+  },
+  {
+    "id": "8ad734591da433a1",
+    "title": "Ameliorate",
+    "summary": "Article URL: https://ameliorate.app/ Comments URL: https://news.ycombinator.com/item?id=49380128 Points: 6 # Comments: 0",
+    "url": "https://ameliorate.app/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-20T20:52:31+00:00",
+    "fetched": "2026-08-20T22:31:39+00:00",
+    "image": null
   },
   {
     "id": "b6d657f9a4d7875e",
@@ -51250,125 +51370,5 @@
     "published": "2026-08-06T22:41:09+00:00",
     "fetched": "2026-08-07T00:25:27+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bf/live/fd004bd0-91b1-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "58b2069f17989883",
-    "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-    "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
-    "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T22:20:50+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg"
-  },
-  {
-    "id": "41281ee05b9df24b",
-    "title": "Польща знову не змогла обрати наступника Навроцького на чолі Інституту національної пам'яті",
-    "summary": "Вже двоє кандидатів не отримали достатньої підтримки у парламенті.",
-    "url": "https://lb.ua/world/2026/08/07/757240_polscha_znovu_zmogla_obrati.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T22:12:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/052/49/6a7506f8c33e9.jpg"
-  },
-  {
-    "id": "fefc0f3f832eb05b",
-    "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
-    "summary": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
-    "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-06T22:07:11+00:00",
-    "fetched": "2026-08-07T12:10:07+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a72/live/bd625240-9173-11f1-b59e-3d7a9337129d.jpg"
-  },
-  {
-    "id": "e0d7f75f0a390655",
-    "title": "У Києві та низці областей оголошували повітряну тривогу через загрозу балістики",
-    "summary": "У ніч на 7 серпня у столиці України та низці областей оголосили повітряну тривогу через загрозу ворожої балістики.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047656/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T22:06:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/a/887776/2a69946393a3adef75aa8030edff9130.jpeg"
-  },
-  {
-    "id": "5f8206bad53c12f7",
-    "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
-    "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
-    "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T22:01:55+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg"
-  },
-  {
-    "id": "f1ad796475577fca",
-    "title": "Близько 80 людей вдалось евакуювати з Нікопольщини упродовж липня",
-    "summary": "Серед них - діти та маломобільні громадяни.",
-    "url": "https://lb.ua/society/2026/08/07/757238_blizko_80_lyudey_vdalos.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T22:00:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/012/48/6a7504550e73e.jpg"
-  },
-  {
-    "id": "39ff233dd76cfa42",
-    "title": "Трамп заявив про \"обмеженіші\" та \"величезні запаси боєприпасів\" США",
-    "summary": "Трамп описав \"обмеженіші\" та \"величезні\" запаси зброї США.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047655/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T21:58:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/b/887775/fba0a274b874fc63feda7d3e0973d3d5.jpeg"
-  },
-  {
-    "id": "4bc6e888c4ea0b4c",
-    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-    "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 55 # Comments: 13",
-    "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T21:52:16+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Nepal-Flag.png"
-  },
-  {
-    "id": "6b0df7e8c438a84a",
-    "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-    "summary": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core. Comments URL: https://news.ycombinator.com/item?id=49203059…",
-    "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-06T21:49:07+00:00",
-    "fetched": "2026-08-07T00:25:28+00:00",
-    "image": "https://opengraph.githubassets.com/4e089b754a8947591a3367d5ed475ce37539b8afc05fbac538cdd833e6f90d3b/mattdeeds/pokeemerald-rp2350"
-  },
-  {
-    "id": "b37c36cf597bb192",
-    "title": "Трамп звинуватив ЗМІ у поширенні брехні про його конфлікт з міністром війни Геґсетом",
-    "summary": "Президент нібито повністю задоволений очільником Пентагону.",
-    "url": "https://lb.ua/world/2026/08/07/757234_tramp_zvinuvativ_zmi_poshirenni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-06T21:40:00+00:00",
-    "fetched": "2026-08-07T00:25:27+00:00",
-    "image": "https://i.lb.ua/news/069/17/6a74fc9e17d90.jpg"
   }
 ]
