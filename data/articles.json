@@ -1,5 +1,89 @@
 [
   {
+    "id": "3b0f507a1660fba7",
+    "title": "Майже 1400 окупантів знищили вчора Сили оборони",
+    "summary": "Від початку повномасштабного вторгнення втрати російських військ склали близько 1 474 030 солдатів.",
+    "url": "https://lb.ua/society/2026/08/21/760480_mayzhe_1400_okupantiv_znischili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T04:59:00+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://i.lb.ua/news/004/46/6a87db530eb04.jpg"
+  },
+  {
+    "id": "ce0bb87ee7e759ae",
+    "title": "Russia’s simulated enemy attack around disputed islands angers Japan",
+    "summary": "Russian fleet launched missile drill near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia’s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions…",
+    "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-21T04:54:01+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://i.guim.co.uk/img/media/bba5ad816991650cc42b46206bd989c8c07236a1/317_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e743664ed80b1e24a1e71555cd0a1ece"
+  },
+  {
+    "id": "b268e7833c73cb10",
+    "title": "У Фінляндії кажуть, що літак Росії міг порушити її повітряний простір",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049629/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T04:43:00+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/a/e/aec382a-----.jpg"
+  },
+  {
+    "id": "53a4e2eca21813bf",
+    "title": "Росіяни вночі атакували шістьма дронами Леб'яже в Харківській області. Загинули двоє жінок",
+    "summary": "Ще двоє отримали поранення.",
+    "url": "https://lb.ua/society/2026/08/21/760474_rosiyani_vnochi_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T04:25:00+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://i.lb.ua/news/100/34/6a87d34407f23.jpg"
+  },
+  {
+    "id": "c83867df7bcbd759",
+    "title": "У США пообіцяли подвійний удар проти Ірану: запровадять \"найжорсткіші санкції в історії\"",
+    "summary": "США введуть найжорсткіші санкції проти Ірану для уникнення нових військових операцій. Деталі – наступного тижня.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049628/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T04:22:00+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/896073/862ad5a439a1cddc1f2d67713dc6878e.jpeg"
+  },
+  {
+    "id": "493f07f2483abd41",
+    "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+    "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+    "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-21T04:17:05+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663b/live/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg"
+  },
+  {
+    "id": "f2409dc9622ade11",
+    "title": "Уночі дрони РФ атакували Леб'яже на Харківщині: палали будинки, загинули 4 людини",
+    "summary": "Унаслідок нічної атаки БПЛА на Леб’яже загинули 4 людини, пошкоджено понад 20 будинків, є поранені.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049627/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T04:09:00+00:00",
+    "fetched": "2026-08-21T05:05:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/d/896070/dd0c435b4704e2d3a57abfa14b1aafa7.jpeg"
+  },
+  {
     "id": "54e04b08b2c5e2c5",
     "title": "Скільки ракет у РФ, що таке \"Бандеролі\", російський Starlink та вкиклики для Хмари – про війну за тиждень",
     "summary": "",
@@ -51454,53 +51538,5 @@
     "published": "2026-08-07T05:07:00+00:00",
     "fetched": "2026-08-07T05:43:36+00:00",
     "image": "https://i.lb.ua/news/037/25/6a7568253d1cc.jpg"
-  },
-  {
-    "id": "075d032e7011e061",
-    "title": "Дрони атакували Єкатеринбург: на території складу Wildberries вирує пожежа",
-    "summary": "Влада Єкатеринбурга попередила про загрозу дронів. Склад Wildberries постраждав від удару, виникла пожежа, людей евакуйовано.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047675/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T04:58:00+00:00",
-    "fetched": "2026-08-07T05:43:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/887796/76073a41578633d85d175b94dc37d2bc.jpeg"
-  },
-  {
-    "id": "d1c8e06e4447cd1f",
-    "title": "​Російські війська вчора втратили 1210 солдатів",
-    "summary": "Від початку повномасштабного вторгнення втрати армії РФ склали близько 1 455 420 осіб.",
-    "url": "https://lb.ua/society/2026/08/07/757250_rosiyski_viyska_vchora_vtratili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T04:55:00+00:00",
-    "fetched": "2026-08-07T05:43:36+00:00",
-    "image": "https://i.lb.ua/news/000/08/6a756585db3b2.jpg"
-  },
-  {
-    "id": "bbb53404fb662d3d",
-    "title": "Росіяни майже тисячу разів атакували Запорізьку область: 10 поранених",
-    "summary": "За минулу добу внаслідок російських ударів по Запоріжжю та Запорізькому району поранення дістали 10 людей.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047674/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T04:40:00+00:00",
-    "fetched": "2026-08-07T05:43:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/887795/ee3875e196bf05a6044c400adcc56d90.jpeg"
-  },
-  {
-    "id": "ed76e03898a475fa",
-    "title": "У Криму повідомляють про удари по аеродрому \"Гвардійське\", звідки росіяни запускають \"Шахеди\"",
-    "summary": "У тимчасово окупованому Криму вночі повідомили про вибухи та пожежу на військовому аеродромі \"Гвардійське\".",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047673/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T04:14:00+00:00",
-    "fetched": "2026-08-07T05:43:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/2/887794/020d80b618fd9727ae6238a0b5e6b6da.jpeg"
   }
 ]
