@@ -1,5 +1,65 @@
 [
   {
+    "id": "4d32b6d9a42b95e5",
+    "title": "Генштаб: 172 бойових зіткнення відбулося на фронті від початку доби",
+    "summary": "Найгарячіше на Покровському та Костянтинівському напрямках.",
+    "url": "https://lb.ua/society/2026/08/21/760702_genshtab_172_boyovih_zitknennya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T19:24:00+00:00",
+    "fetched": "2026-08-21T19:28:26+00:00",
+    "image": "https://i.lb.ua/news/078/31/6a88a6052e144.jpg"
+  },
+  {
+    "id": "c36387c234286650",
+    "title": "Зеленський призначив 16 антикорсуддів для розблокування коштів від ЄС",
+    "summary": "Президент Володимир Зеленський призначив 11 суддів Вищого антикорупційного суду та 5 суддів Апеляційної палати цього суду, що є кроком, необхідним для отримання від 250 до 300 млн євро від ЄС за програмою Ukraine Facility.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049760/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T19:12:00+00:00",
+    "fetched": "2026-08-21T19:28:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/896611/a23d8f59244cf7972a9184cc8dec3bab.jpeg"
+  },
+  {
+    "id": "f893c7a8a540ade2",
+    "title": "Зеленський призначив суддів до ВАКС, Апеляційної палати ВАКС та до місцевих судів",
+    "summary": "Це була необхідна умова, щоб не допустити втрати понад 250 млн євро допомоги від Європейського Союзу.",
+    "url": "https://lb.ua/society/2026/08/21/760700_zelenskiy_priznachiv_suddiv_vaks.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T19:05:00+00:00",
+    "fetched": "2026-08-21T19:28:26+00:00",
+    "image": "https://i.lb.ua/news/092/22/6a88a19c3f0db.jpg"
+  },
+  {
+    "id": "88fe960eb4713206",
+    "title": "Сибіга анонсував нові пакети допомоги від партнерів 24 серпня",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049759/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T18:59:00+00:00",
+    "fetched": "2026-08-21T19:28:26+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/d/9/d999c13-------.jpg"
+  },
+  {
+    "id": "59fa6ca85de5cd17",
+    "title": "Третій армійський корпус відкрив у Києві на честь Коновальця виставку унікальної техніки часів УНР",
+    "summary": "Експозиція діятиме місяць, на ній представили рідкісні зразки військової техніки часів Визвольних змагань 1917–1921 років.",
+    "url": "https://lb.ua/society/2026/08/21/760698_tretiy_armiyskiy_korpus_vidkriv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T18:43:00+00:00",
+    "fetched": "2026-08-21T19:28:26+00:00",
+    "image": "https://i.lb.ua/news/019/51/6a889c5d6ba91.jpg"
+  },
+  {
     "id": "bd1aa5536a332217",
     "title": "Окупанти атакували дронами Запоріжжя та область: є постраждалі",
     "summary": "В Запоріжжі відомо про трьох важкопоранених, ще четверо людей постраждали внаслідок атак по області.",
@@ -34,6 +94,18 @@
     "published": "2026-08-21T18:29:31+00:00",
     "fetched": "2026-08-21T18:42:07+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg"
+  },
+  {
+    "id": "dff87b19f497b668",
+    "title": "Two injured in stabbing attack at Canada Sikh temple",
+    "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
+    "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-21T18:27:15+00:00",
+    "fetched": "2026-08-21T19:28:26+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg"
   },
   {
     "id": "9012c59e102ff3f6",
@@ -51406,125 +51478,5 @@
     "published": "2026-08-07T19:32:00+00:00",
     "fetched": "2026-08-07T20:46:39+00:00",
     "image": "https://i.lb.ua/news/103/58/6a7632cf177aa.jpg"
-  },
-  {
-    "id": "23acc9c32ba0bdc8",
-    "title": "Генштаб: 192 бойові зіткнення відбулося на фронті від початку доби",
-    "summary": "Найгарячіше на Покровському напрямку, де відбулось 25 ворожих атак.",
-    "url": "https://lb.ua/society/2026/08/07/757516_genshtab_192_boyovi_zitknennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:17:00+00:00",
-    "fetched": "2026-08-07T19:30:57+00:00",
-    "image": "https://i.lb.ua/news/097/13/6a762f50745df.jpg"
-  },
-  {
-    "id": "4be4ab30a0699d24",
-    "title": "Вулиці Жешува підтопило після рясної зливи",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047825/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:08:00+00:00",
-    "fetched": "2026-08-07T19:30:57+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/8/7844021---------------2026-08-07-212458.jpg"
-  },
-  {
-    "id": "cdb0e22454f5fea2",
-    "title": "На Покровському та Костянтинівському напрямках зафіксували найбільше бойових дій за добу — Генштаб",
-    "summary": "Від початку доби 7 серпня на фронті відбулось 192 бойових зіткнення, з них 25 на Покровському напрямку і 19 — Костянтинівському.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047824/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:05:00+00:00",
-    "fetched": "2026-08-07T19:30:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/888481/375435a01a25ce3196ca03d742812fef.jpeg"
-  },
-  {
-    "id": "c5ac76539e7e16b9",
-    "title": "​США запровадили санкції проти криптобіржі в Дубаї за допомогу Ірану",
-    "summary": "За даними журналістів, біржа перераховувала кошти для Центрального банку Ірану, мережі нелегальних азартних ігор тощо.",
-    "url": "https://lb.ua/world/2026/08/07/757514_ssha_zaprovadili_sanktsiyi_proti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:01:00+00:00",
-    "fetched": "2026-08-07T19:30:57+00:00",
-    "image": "https://i.lb.ua/news/085/20/6a762bcbb2690.jpg"
-  },
-  {
-    "id": "b4d35d8d7185b8e8",
-    "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-    "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
-    "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T19:00:17+00:00",
-    "fetched": "2026-08-07T21:43:09+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg"
-  },
-  {
-    "id": "c92dc76e40a5211a",
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely…",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T18:59:46+00:00",
-    "fetched": "2026-08-07T19:30:57+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "0b7c8d8de4196325",
-    "title": "App Store Rejection of the Week: Dark Hours",
-    "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours Comments URL: https://news.ycombinator.com/item?id=49214863 Points: 10 # Comments: 0",
-    "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T18:59:08+00:00",
-    "fetched": "2026-08-07T19:31:00+00:00",
-    "image": "https://daringfireball.net/graphics/df-wide-card.png"
-  },
-  {
-    "id": "2d98a155f03e09f3",
-    "title": "Psychological Warfare in Reverse Engineering",
-    "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 10 # Comments: 1",
-    "url": "https://github.com/xoreaxeaxeax/repsych",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T18:51:45+00:00",
-    "fetched": "2026-08-07T20:46:40+00:00",
-    "image": "https://opengraph.githubassets.com/26c6442f5d9ca216f30249bfdd78977179f28e9a0b49a1b0b9121704a2ae18c5/xoreaxeaxeax/REpsych"
-  },
-  {
-    "id": "5dec09279d1b52b6",
-    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-    "summary": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 13 # Comments: 1",
-    "url": "https://ancientlibrary.net/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T18:51:14+00:00",
-    "fetched": "2026-08-07T19:31:00+00:00",
-    "image": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png"
-  },
-  {
-    "id": "4042735320e0a643",
-    "title": "У \"Скелі\" підтвердили переведення частини штурмовиків до інших підрозділів",
-    "summary": "Там заявили, що і надалі готуватимуть військовослужбовців та виконуватимуть бойові завдання Головнокомандувача.",
-    "url": "https://lb.ua/society/2026/08/07/757512_skeli_pidtverdili_perevedennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T18:49:00+00:00",
-    "fetched": "2026-08-07T19:30:57+00:00",
-    "image": "https://i.lb.ua/news/041/32/6a7628a5e7df5.jpg"
   }
 ]
