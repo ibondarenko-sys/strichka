@@ -1,5 +1,65 @@
 [
   {
+    "id": "52253ba28452ebc5",
+    "title": "Сибіга закликав посилити санкції проти російського ВПК після атаки на Кривий Ріг",
+    "summary": "Міністр закордонних справ Андрій Сибіга закликав світ відреагувати на смертоносний подвійний удар Росії по торговельному центру в Кривому Розі негайним посиленням санкцій проти російського військово-промислового комплексу та передачею Україні додаткових засобів протиповітряної…",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049772/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T23:20:00+00:00",
+    "fetched": "2026-08-21T23:27:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/6/896654/26fc60d3a70dd2313a85a725fed30ee3.jpeg"
+  },
+  {
+    "id": "d077de233e7dbada",
+    "title": "Фінляндія викликала посла РФ через порушення свого повітряного простору",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049771/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T23:01:00+00:00",
+    "fetched": "2026-08-21T23:27:42+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/3/7388f2b-rf-93610-il18-20m--russian-air-force-uumb--33375039736---2-.jpg"
+  },
+  {
+    "id": "dc287eb757173118",
+    "title": "Президентку Словенії звинуватили у зв'язках з Росією",
+    "summary": "Подруга глави держави мешкала зі шпигуном-втікачем.",
+    "url": "https://lb.ua/world/2026/08/22/760724_prezidentku_sloveniyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T22:54:00+00:00",
+    "fetched": "2026-08-21T23:27:42+00:00",
+    "image": "https://i.lb.ua/news/054/01/6a88d70a597f5.jpg"
+  },
+  {
+    "id": "c60e9177a631bf4b",
+    "title": "Three important steps in my maturation process",
+    "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 3 # Comments: 1",
+    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T22:29:00+00:00",
+    "fetched": "2026-08-21T23:27:42+00:00",
+    "image": null
+  },
+  {
+    "id": "d0bd4eeaab0a16a4",
+    "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+    "summary": "Article URL: https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e Comments URL: https://news.ycombinator.com/item?id=49394373 Points: 22 # Comments: 4",
+    "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T22:15:46+00:00",
+    "fetched": "2026-08-21T23:27:42+00:00",
+    "image": null
+  },
+  {
     "id": "ef9ba69741147eb5",
     "title": "HoverAir’s transforming modular drone has already been halted in the US",
     "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be…",
@@ -1018,6 +1078,18 @@
     "published": "2026-08-21T16:16:42+00:00",
     "fetched": "2026-08-21T17:32:56+00:00",
     "image": "https://cdn.sanity.io/images/g1zo7y59/production/a827f6827959568db9e4482860cdf6091dcf338e-800x536.jpg?rect=0,58,800,420&w=1200&h=630"
+  },
+  {
+    "id": "3cd3b55f6a00b3c1",
+    "title": "Three ways to smuggle SQLite into Nix",
+    "summary": "Article URL: https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix Comments URL: https://news.ycombinator.com/item?id=49390286 Points: 10 # Comments: 3",
+    "url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T16:15:26+00:00",
+    "fetched": "2026-08-21T23:27:42+00:00",
+    "image": null
   },
   {
     "id": "c308ebc1af47282b",
@@ -51466,29 +51538,5 @@
     "published": "2026-08-07T23:38:00+00:00",
     "fetched": "2026-08-08T01:56:15+00:00",
     "image": "https://i.lb.ua/news/083/40/6a766c47d1a05.jpg"
-  },
-  {
-    "id": "546276825f3e45d1",
-    "title": "Гілларі Клінтон порівняла Трампа із Саддамом Хуссейном через декор у Білому домі",
-    "summary": "Колишня кандидатка у президенти нагадала, що резиденція належить американцям, а не політику.",
-    "url": "https://lb.ua/world/2026/08/08/757538_gillari_klinton_porivnyala.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T23:24:00+00:00",
-    "fetched": "2026-08-07T23:37:15+00:00",
-    "image": "https://i.lb.ua/news/104/04/6a7667e550a1c.jpg"
-  },
-  {
-    "id": "b22f5e23a0bbd2c0",
-    "title": "The phone book that led us to Assad's spy chief in hiding",
-    "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-    "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-07T23:23:12+00:00",
-    "fetched": "2026-08-08T09:10:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png"
   }
 ]
