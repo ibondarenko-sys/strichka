@@ -1,5 +1,53 @@
 [
   {
+    "id": "beb7ab0f7ba9351f",
+    "title": "Росіяни вдарили по найбільшому торговому комплексу Кривого Рогу, є загиблі й поранені (оновлення)",
+    "summary": "У місті почали аварійно-рятувальну операцію.",
+    "url": "https://lb.ua/society/2026/08/22/760648_rosiyani_vdarili_naybilshomu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T21:48:00+00:00",
+    "fetched": "2026-08-21T21:53:42+00:00",
+    "image": "https://i.lb.ua/news/047/40/6a8869dfad70b.jpg"
+  },
+  {
+    "id": "dc5e4de438bbd2c9",
+    "title": "У Львові смертельно поранили військовослужбовця ТЦК, нападника затримали – ОВА",
+    "summary": "У Львові під час виконання службових обов'язків смертельно поранили військовослужбовця територіального центру комплектування та соціальної підтримки, правоохоронці вже затримали нападника.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049767/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T21:43:00+00:00",
+    "fetched": "2026-08-21T21:53:42+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/d/896635/0df2182827e074c5930999e68a920dd9.jpeg"
+  },
+  {
+    "id": "aeac255e06e638dd",
+    "title": "У Львові чоловік смертельно поранив військовослужбовця ТЦК",
+    "summary": "Після цього, поліцейський здійснив два постріли в бік нападника. Внаслідок цього, нападник отримав поранення ноги, його госпіталізували.",
+    "url": "https://lb.ua/society/2026/08/22/760718_lvovi_cholovik_smertelno_poraniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T21:41:00+00:00",
+    "fetched": "2026-08-21T21:53:42+00:00",
+    "image": "https://i.lb.ua/news/010/15/6a88c6000d172.jpg"
+  },
+  {
+    "id": "f543ec1ce0979760",
+    "title": "Проти польського депутата, який зривав прапори України і ЄС, висунуто чотири звинувачення",
+    "summary": "За кожним він може отримати від суду щонайменше пів року за ґратами.",
+    "url": "https://lb.ua/society/2026/08/22/760716_proti_polskogo_deputata_yakiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T21:40:00+00:00",
+    "fetched": "2026-08-21T21:53:42+00:00",
+    "image": "https://i.lb.ua/news/110/20/6a88c5e51b604.jpg"
+  },
+  {
     "id": "016ca72fa4b58873",
     "title": "Over one million people have clicked LinkedIn’s AI slop button",
     "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is…",
@@ -51418,53 +51466,5 @@
     "published": "2026-08-07T21:57:00+00:00",
     "fetched": "2026-08-07T22:41:03+00:00",
     "image": "https://i.lb.ua/news/043/07/6a7654ce56b62.jpg"
-  },
-  {
-    "id": "5cd4a4ede33f4df6",
-    "title": "Europe's free satellite service just made it easier to track wildfires",
-    "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-    "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T21:48:21+00:00",
-    "fetched": "2026-08-07T23:37:15+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-1152x648.jpg"
-  },
-  {
-    "id": "667538d9c4eb7c39",
-    "title": "Гантер Байден визнав шкоду, яку його помилування завдало репутації батька",
-    "summary": "46-ий президент США наразі бореться з раком.",
-    "url": "https://lb.ua/world/2026/08/08/757532_ganter_bayden_viznav_shkodu_yaku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T21:47:00+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://i.lb.ua/news/099/35/6a76528bbfb05.jpg"
-  },
-  {
-    "id": "df66205a66f8a664",
-    "title": "Spain to introduce temporary border checks on visitors from Italy",
-    "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The…",
-    "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-07T21:44:38+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb"
-  },
-  {
-    "id": "f66a47c275c9ca70",
-    "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-    "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
-    "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-07T21:32:30+00:00",
-    "fetched": "2026-08-07T21:43:08+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg"
   }
 ]
