@@ -1,5 +1,41 @@
 [
   {
+    "id": "e3102bb1e69c58b8",
+    "title": "Сибіга запевнив, що партнери почули прохання про перехоплювачі на зиму",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049763/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T20:17:00+00:00",
+    "fetched": "2026-08-21T20:30:12+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/1/913358d-----.jpg"
+  },
+  {
+    "id": "9ffd43c68f54a095",
+    "title": "Росіяни вбили двох літніх людей на Херсонщині",
+    "summary": "Окупанти обстріляли селище Комишани.",
+    "url": "https://lb.ua/society/2026/08/21/760704_rosiyani_vbili_dvoh_litnih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T19:55:00+00:00",
+    "fetched": "2026-08-21T20:30:13+00:00",
+    "image": "https://i.lb.ua/news/027/15/6a88ad4310ccc.jpg"
+  },
+  {
+    "id": "cdc520f2d8766f50",
+    "title": "Quick impressions: A week of using Codex more than Claude",
+    "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 5 # Comments: 0",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T19:51:48+00:00",
+    "fetched": "2026-08-21T20:30:13+00:00",
+    "image": "https://allaboutcoding.ghinda.com/assets/images/posts/a-week-of-using-codex-more-than-claude/og.png"
+  },
+  {
     "id": "bb5c457e83a5b781",
     "title": "Apple is laying off staffers working on the Vision Pro and Siri",
     "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were…",
@@ -22,6 +58,18 @@
     "published": "2026-08-21T19:43:00+00:00",
     "fetched": "2026-08-21T19:50:43+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/896614/eeddbc270b7eef4ef7040769042fdc3f.jpeg"
+  },
+  {
+    "id": "392c32ec611e1210",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "summary": "The private Android-based OS will expand beyond Pixels next year.",
+    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T19:32:29+00:00",
+    "fetched": "2026-08-21T20:30:13+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS-1152x648.jpg"
   },
   {
     "id": "4d32b6d9a42b95e5",
@@ -58,6 +106,18 @@
     "published": "2026-08-21T19:05:00+00:00",
     "fetched": "2026-08-21T19:28:26+00:00",
     "image": "https://i.lb.ua/news/092/22/6a88a19c3f0db.jpg"
+  },
+  {
+    "id": "2a6422304d907afb",
+    "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+    "summary": "Logitech increased prices by up to 25 percent last year.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T19:04:41+00:00",
+    "fetched": "2026-08-21T20:30:13+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-1088x648.jpg"
   },
   {
     "id": "f717a74c16c719fe",
@@ -51418,65 +51478,5 @@
     "published": "2026-08-07T20:40:56+00:00",
     "fetched": "2026-08-07T20:46:38+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg"
-  },
-  {
-    "id": "55f8bee78eb5e2a7",
-    "title": "8 серпня в більшості областей України очікуються дощі та грози",
-    "summary": "В окремих районах прогнозують град та шквали.",
-    "url": "https://lb.ua/society/2026/08/07/757522_8_serpnya_bilshosti_oblastey.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T20:27:00+00:00",
-    "fetched": "2026-08-07T20:46:39+00:00",
-    "image": "https://i.lb.ua/news/113/60/6a763fbfdb31c.jpg"
-  },
-  {
-    "id": "cc50a699d0876772",
-    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-    "summary": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805 Comments URL: https://news.ycombinator.com/item?id=49215786 Points: 21 # Comments: 11",
-    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T20:25:04+00:00",
-    "fetched": "2026-08-07T23:37:15+00:00",
-    "image": "https://jf.x.com/images/media-preview/2084686552299634805"
-  },
-  {
-    "id": "3aa2d6966c74de3f",
-    "title": "РФ атакувала лікарню в Херсоні: четверо медпрацівниць постраждали",
-    "summary": "Російські війська 7 серпня атакували територію лікарні в Херсоні: постраждали четверо працівниць.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047829/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T20:24:00+00:00",
-    "fetched": "2026-08-07T20:46:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888506/a35725e73663e24e73f9fae2016f954c.jpeg"
-  },
-  {
-    "id": "d24024f22be6a99b",
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T20:01:51+00:00",
-    "fetched": "2026-08-07T20:46:39+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "1ff7e65f4663faf6",
-    "title": "Окупанти завдали авіаудару по Шосткинській громаді на Сумщині",
-    "summary": "Двоє людей поранені.",
-    "url": "https://lb.ua/society/2026/08/07/757520_okupanti_zavdali_aviaudaru.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:59:00+00:00",
-    "fetched": "2026-08-07T20:46:39+00:00",
-    "image": "https://i.lb.ua/news/049/29/6a76390c9d695.jpg"
   }
 ]
