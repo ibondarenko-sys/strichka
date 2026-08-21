@@ -1,5 +1,29 @@
 [
   {
+    "id": "bb5c457e83a5b781",
+    "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+    "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were…",
+    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T19:44:55+00:00",
+    "fetched": "2026-08-21T19:50:43+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0256.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c3d6eacb2480e67b",
+    "title": "Від початку доби на фронті відбулось 172 бойових зіткнення – Генштаб",
+    "summary": "Від початку доби 21 серпня на фронті відбулось 172 бойових зіткнення, з них 23 – на Покровському напрямку.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049761/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T19:43:00+00:00",
+    "fetched": "2026-08-21T19:50:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/e/896614/eeddbc270b7eef4ef7040769042fdc3f.jpeg"
+  },
+  {
     "id": "4d32b6d9a42b95e5",
     "title": "Генштаб: 172 бойових зіткнення відбулося на фронті від початку доби",
     "summary": "Найгарячіше на Покровському та Костянтинівському напрямках.",
@@ -36,6 +60,18 @@
     "image": "https://i.lb.ua/news/092/22/6a88a19c3f0db.jpg"
   },
   {
+    "id": "f717a74c16c719fe",
+    "title": "Tumble Forth – from assembly to OS with C compiler",
+    "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 4 # Comments: 0",
+    "url": "https://tumbleforth.hardcoded.net/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T18:59:52+00:00",
+    "fetched": "2026-08-21T19:50:44+00:00",
+    "image": null
+  },
+  {
     "id": "88fe960eb4713206",
     "title": "Сибіга анонсував нові пакети допомоги від партнерів 24 серпня",
     "summary": "",
@@ -46,6 +82,18 @@
     "published": "2026-08-21T18:59:00+00:00",
     "fetched": "2026-08-21T19:28:26+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/9/d999c13-------.jpg"
+  },
+  {
+    "id": "62928a8393195768",
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 6 # Comments: 0",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T18:48:28+00:00",
+    "fetched": "2026-08-21T19:50:44+00:00",
+    "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69f398245c0b3933c7940d49_og_claude-security-public-beta%20(1).jpg"
   },
   {
     "id": "59fa6ca85de5cd17",
@@ -51430,53 +51478,5 @@
     "published": "2026-08-07T19:59:00+00:00",
     "fetched": "2026-08-07T20:46:39+00:00",
     "image": "https://i.lb.ua/news/049/29/6a76390c9d695.jpg"
-  },
-  {
-    "id": "1906ab27f47f7d5e",
-    "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-    "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T19:49:27+00:00",
-    "fetched": "2026-08-07T21:43:09+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg"
-  },
-  {
-    "id": "7864829cae920d1a",
-    "title": "Cибіга привітав ухвалення Сенатом США \"проєкту Грема\" про санкції проти РФ",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047827/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:47:00+00:00",
-    "fetched": "2026-08-07T20:46:38+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/2/0/20622c3---------------2026-08-07-220351.jpg"
-  },
-  {
-    "id": "e3fcb8b4a4b1cc24",
-    "title": "За експосадовця МЗС Банькова, якого підозрюють у розкраданні, внесли заставу",
-    "summary": "За колишнього держсекретаря Міністерства закордонних справ Олександра Банькова 3 серпня внесли заставу у розмірі 10 млн грн і він вийшов із СІЗО.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047826/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:45:00+00:00",
-    "fetched": "2026-08-07T20:46:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/b/888488/ab226cf65f29ae14d52f4b9e45d0f66e.jpeg"
-  },
-  {
-    "id": "53a43a4d91e7b29c",
-    "title": "Росіяни атакували дронами лікарню в Херсоні: є постраждалі",
-    "summary": "Четверо медпрацівниць дістали травми та контузії.",
-    "url": "https://lb.ua/society/2026/08/07/757518_rosiyani_atakuvali_dronami.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T19:32:00+00:00",
-    "fetched": "2026-08-07T20:46:39+00:00",
-    "image": "https://i.lb.ua/news/103/58/6a7632cf177aa.jpg"
   }
 ]
