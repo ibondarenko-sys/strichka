@@ -1,5 +1,53 @@
 [
   {
+    "id": "54e04b08b2c5e2c5",
+    "title": "Скільки ракет у РФ, що таке \"Бандеролі\", російський Starlink та вкиклики для Хмари – про війну за тиждень",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049618/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T03:44:00+00:00",
+    "fetched": "2026-08-21T04:10:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/895823/8e4659437c1f92a3bdd038864fa30cc9.jpeg?w=1200&q=85&stamp=1787240522"
+  },
+  {
+    "id": "57613f9f2d2a81d7",
+    "title": "Сили оборони України знешкодили ще 1390 російських окупантів – Генштаб",
+    "summary": "Українські сили знищили 1 390 росіян за добу. Втрати РФ у війні перевищили 1,47 млн осіб. Дані Генштабу ЗСУ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049621/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T03:43:00+00:00",
+    "fetched": "2026-08-21T04:10:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/896061/d400fe04ba68a23842ad918a5fe218f9.jpeg"
+  },
+  {
+    "id": "de804be0496bba71",
+    "title": "В Криму пролунали вибухи: в деяких районах півострова зникло світло",
+    "summary": "У Криму пролунали вибухи, зникла електрика в Сімферополі, Севастополі, Джанкої та Керчі. Офіційної інформації про наслідки немає.",
+    "url": "https://www.pravda.com.ua/news/2026/08/21/8049617/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T03:35:00+00:00",
+    "fetched": "2026-08-21T04:10:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/8/896049/487f52ef93786589fb1d5e72af3b8eda.jpeg"
+  },
+  {
+    "id": "f8d5e817777c09d7",
+    "title": "Codex on AWS bedrock bug causing 10x charges",
+    "summary": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 5 # Comments: 1",
+    "url": "https://github.com/openai/codex/issues/37674",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T03:17:43+00:00",
+    "fetched": "2026-08-21T04:10:20+00:00",
+    "image": "https://opengraph.githubassets.com/b27b65eaa4902295d0953058722f3cfc268ba685c94c29e91e445c8495544eb9/openai/codex/issues/37674"
+  },
+  {
     "id": "84ce4047c1c5b81c",
     "title": "Hong Kong's Tiananmen activists guilty in national security trial",
     "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
@@ -24,6 +72,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/896038/531649f257761ddd9473bbb51c3f902c.jpeg"
   },
   {
+    "id": "66bf3019a4e4288b",
+    "title": "Japan executes man who killed five in Pachinko parlour fire",
+    "summary": "This is the first time since June 2025 that the country has enacted capital punishment.",
+    "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-21T02:49:27+00:00",
+    "fetched": "2026-08-21T04:10:19+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg"
+  },
+  {
     "id": "125009e32bab3d92",
     "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
     "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty of “incitement to subversion”, in a…",
@@ -34,6 +94,18 @@
     "published": "2026-08-21T02:45:42+00:00",
     "fetched": "2026-08-21T03:07:05+00:00",
     "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=45a28444f6c0aea7f4a2e38affff1e79"
+  },
+  {
+    "id": "92d0acf4aa3ac450",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 109 # Comments: 64",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T02:37:47+00:00",
+    "fetched": "2026-08-21T04:10:20+00:00",
+    "image": null
   },
   {
     "id": "9c3702b3b7cbdc38",
@@ -177,6 +249,18 @@
     "lang": "uk",
     "published": "2026-08-21T00:25:00+00:00",
     "fetched": "2026-08-21T01:38:21+00:00",
+    "image": "https://i.lb.ua/news/079/27/6a879b9f3396c.jpg"
+  },
+  {
+    "id": "4a2e75173a54e103",
+    "title": "У Нью-Йорку запобігли теракту \"Ісламської держави\" у будівлі місцевої влади",
+    "summary": "35-річна жінка мала підірвати Капітолій штату.",
+    "url": "https://lb.ua/world/2026/08/21/760464_nyu-yorku_zapobigli_teraktu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T00:25:00+00:00",
+    "fetched": "2026-08-21T04:10:20+00:00",
     "image": "https://i.lb.ua/news/079/27/6a879b9f3396c.jpg"
   },
   {
@@ -51418,29 +51502,5 @@
     "published": "2026-08-07T04:14:00+00:00",
     "fetched": "2026-08-07T05:43:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/2/887794/020d80b618fd9727ae6238a0b5e6b6da.jpeg"
-  },
-  {
-    "id": "998d259dc93f577e",
-    "title": "У війні проти України Росія втратила ще 1 210 вояк – Генштаб",
-    "summary": "Генштаб оновив дані про втрати ворога станом на ранок 7 серпня.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047672/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T03:46:00+00:00",
-    "fetched": "2026-08-07T05:43:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/0/887793/f0b612c9876f7119e140e857045a824f.jpeg"
-  },
-  {
-    "id": "9729ee5887c44899",
-    "title": "Перед військовими навчаннями США і Південної Кореї КНДР запустила балістичну ракету",
-    "summary": "У четвер Північна Корея випустила одну балістичну ракету малої дальності в напрямку Східного моря напередодні щорічних літніх спільних військових навчань Південної Кореї та США.",
-    "url": "https://www.pravda.com.ua/news/2026/08/07/8047668/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T03:30:00+00:00",
-    "fetched": "2026-08-07T05:43:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/e/887788/de1fd952f6145601513ee9bab06c67ac.jpeg"
   }
 ]
