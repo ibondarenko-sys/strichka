@@ -36,6 +36,18 @@
     "image": "https://i.lb.ua/news/081/29/6a88cbbca8126.jpg"
   },
   {
+    "id": "23924bc0972383b3",
+    "title": "Росіяни атакували Київ балістикою і \"Бандеролями\", загинула одна людина (оновлено)",
+    "summary": "Черговий обстріл столиці з Курська і Брянська.",
+    "url": "https://lb.ua/society/2026/08/22/760720_rosiyani_atakuvali_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T22:05:00+00:00",
+    "fetched": "2026-08-21T22:54:33+00:00",
+    "image": "https://i.lb.ua/news/081/29/6a88cbbca8126.jpg"
+  },
+  {
     "id": "efcbfc231bdc192a",
     "title": "Росія атакує Київ балістикою: у місті лунають вибухи",
     "summary": "Російські війська атакують Київ балістичними ракетами, у столиці пролунала серія з щонайменше п'яти вибухів.",
@@ -51478,41 +51490,5 @@
     "published": "2026-08-07T23:23:12+00:00",
     "fetched": "2026-08-08T09:10:59+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png"
-  },
-  {
-    "id": "5cd351b64ac4a348",
-    "title": "Фон дер Ляєн привітала рішення Сенату США щодо санкції проти РФ",
-    "summary": "Урсула фон дер Ляєн привітала ухвалення Сенатом США законопроєкту щодо нових санкцій проти РФ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047837/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T22:53:00+00:00",
-    "fetched": "2026-08-07T23:37:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/888522/181709263a9e317ea58ec5727753f4d0.jpeg"
-  },
-  {
-    "id": "55db4a80f3cf9aaa",
-    "title": "Іспанія дзеркально відповіла Італії на призупинення дії Шенгенського договору",
-    "summary": "Мандрівникам з Італії доведеться проходити прикордонний контроль.",
-    "url": "https://lb.ua/world/2026/08/08/757536_ispaniya_dzerkalno_vidpovila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T22:30:00+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://i.lb.ua/news/100/27/6a765d76c9277.jpg"
-  },
-  {
-    "id": "46c2a8e5035e5119",
-    "title": "Working on Economics with Fable 5",
-    "summary": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49217001 Points: 6 # Comments: 0",
-    "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T22:29:57+00:00",
-    "fetched": "2026-08-08T05:01:42+00:00",
-    "image": null
   }
 ]
