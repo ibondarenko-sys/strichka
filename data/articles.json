@@ -1,5 +1,77 @@
 [
   {
+    "id": "ef9ba69741147eb5",
+    "title": "HoverAir’s transforming modular drone has already been halted in the US",
+    "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be…",
+    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T22:14:11+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "044085695f822fe9",
+    "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+    "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without…",
+    "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T22:13:34+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ec1daeea38ee6f4d",
+    "title": "Росіяни атакують Київ балістикою і \"Бандеролями\"",
+    "summary": "Черговий обстріл столиці з Курська і Брянська.",
+    "url": "https://lb.ua/society/2026/08/22/760720_rosiyani_atakuyut_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T22:05:00+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://i.lb.ua/news/081/29/6a88cbbca8126.jpg"
+  },
+  {
+    "id": "efcbfc231bdc192a",
+    "title": "Росія атакує Київ балістикою: у місті лунають вибухи",
+    "summary": "Російські війська атакують Київ балістичними ракетами, у столиці пролунала серія з щонайменше п'яти вибухів.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049768/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T22:00:00+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/896645/b6ec9a6088873656a4138b4f4105a8f5.jpeg"
+  },
+  {
+    "id": "0909878727892bda",
+    "title": "Ще двох дітей та молоду людину вдалось повернути з тимчасово окупованих територій та Росії",
+    "summary": "Їм системно нав'язували російську пропаганду.",
+    "url": "https://lb.ua/society/2026/08/22/760714_sche_dvoh_ditey_molodu_lyudinu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T21:58:00+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://i.lb.ua/news/001/05/6a88c9efe5c75.jpg"
+  },
+  {
+    "id": "3fb09708232d1ade",
+    "title": "Росіяни двічі атакували найбільший ТРЦ Кривого Рогу: 16 загиблих, 130 постраждалих, серед них 23 дитини",
+    "summary": "Унаслідок удару РФ по торговельному центру в Кривому Розі загинули 15 людей, поранено 130, серед них 23 дитини.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049713/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T21:53:00+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/d/896537/bd903f06d2c65a4723be40ea063f38f8.jpeg"
+  },
+  {
     "id": "beb7ab0f7ba9351f",
     "title": "Росіяни вдарили по найбільшому торговому комплексу Кривого Рогу, є загиблі й поранені (оновлення)",
     "summary": "У місті почали аварійно-рятувальну операцію.",
@@ -46,6 +118,18 @@
     "published": "2026-08-21T21:40:00+00:00",
     "fetched": "2026-08-21T21:53:42+00:00",
     "image": "https://i.lb.ua/news/110/20/6a88c5e51b604.jpg"
+  },
+  {
+    "id": "b0d6a556f321d95f",
+    "title": "Remotely Unlocking Electric Scooters",
+    "summary": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 5 # Comments: 0",
+    "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T21:32:07+00:00",
+    "fetched": "2026-08-21T22:29:17+00:00",
+    "image": "https://i.imgur.com/8ndh5dQ.png"
   },
   {
     "id": "016ca72fa4b58873",
@@ -156,6 +240,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/2/896624/f281c8887c7781b8ecd8811636e26722.jpeg"
   },
   {
+    "id": "f7d709790eca6605",
+    "title": "Thunder + fiber-optic cabling used for seismic imaging",
+    "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+    "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T20:26:46+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg"
+  },
+  {
     "id": "e3102bb1e69c58b8",
     "title": "Сибіга запевнив, що партнери почули прохання про перехоплювачі на зиму",
     "summary": "",
@@ -166,6 +262,18 @@
     "published": "2026-08-21T20:17:00+00:00",
     "fetched": "2026-08-21T20:30:12+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/9/1/913358d-----.jpg"
+  },
+  {
+    "id": "05f949a592c9b066",
+    "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+    "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T20:10:50+00:00",
+    "fetched": "2026-08-21T22:29:14+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg"
   },
   {
     "id": "9ffd43c68f54a095",
@@ -51406,65 +51514,5 @@
     "published": "2026-08-07T22:29:57+00:00",
     "fetched": "2026-08-08T05:01:42+00:00",
     "image": null
-  },
-  {
-    "id": "294109fce8a0054a",
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-    "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 81 # Comments: 38",
-    "url": "https://genesisopenmodels.anl.gov/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T22:24:27+00:00",
-    "fetched": "2026-08-08T01:56:17+00:00",
-    "image": null
-  },
-  {
-    "id": "4ee14d5d7908da59",
-    "title": "DeepState: РФ просунулась поблизу Костянтинівки",
-    "summary": "DeepState повідомляє про просування російських військ біля Костянтинівки Донецької області.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047836/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T22:23:00+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/9/888521/890853468ba07a3ee8822a5aa08381e5.jpeg"
-  },
-  {
-    "id": "10be5f0435ae13ef",
-    "title": "У Києві та низці областей оголосили відбій тривоги через загрозу ворожих дронів",
-    "summary": "У столиці та регіонах України оголошували повітряну тривогу через загрозу ударних дронів",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047835/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T22:11:00+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/888520/54e28de22476e65e8a294c2ef7b37490.jpeg"
-  },
-  {
-    "id": "685d4d64d519e1c2",
-    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-    "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is…",
-    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-07T22:05:08+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "7101cb9cdd0af69e",
-    "title": "За перше півріччя 2026 року українці 16 млн разів перетнули кордон",
-    "summary": "Кількість виїздів на 244 тисячі перевищила кількість повернень.",
-    "url": "https://lb.ua/economics/2026/08/08/757534_pershe_pivrichchya_2026_roku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T21:57:00+00:00",
-    "fetched": "2026-08-07T22:41:03+00:00",
-    "image": "https://i.lb.ua/news/043/07/6a7654ce56b62.jpg"
   }
 ]
