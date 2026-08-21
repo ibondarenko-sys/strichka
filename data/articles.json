@@ -1,5 +1,17 @@
 [
   {
+    "id": "5b81aeb797548358",
+    "title": "Верховний суд США тимчасово дозволив Трампу продовжити будівництво бальної зали",
+    "summary": "Крапку у цій справі ще не поставлено, але маленька перемога за республіканцем.",
+    "url": "https://lb.ua/world/2026/08/22/760726_verhovniy_sud_ssha_timchasovo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-21T23:37:00+00:00",
+    "fetched": "2026-08-21T23:51:36+00:00",
+    "image": "https://i.lb.ua/news/121/62/6a88e1b881f68.jpg"
+  },
+  {
     "id": "52253ba28452ebc5",
     "title": "Сибіга закликав посилити санкції проти російського ВПК після атаки на Кривий Ріг",
     "summary": "Міністр закордонних справ Андрій Сибіга закликав світ відреагувати на смертоносний подвійний удар Росії по торговельному центру в Кривому Розі негайним посиленням санкцій проти російського військово-промислового комплексу та передачею Україні додаткових засобів протиповітряної…",
@@ -10,6 +22,18 @@
     "published": "2026-08-21T23:20:00+00:00",
     "fetched": "2026-08-21T23:27:42+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/6/896654/26fc60d3a70dd2313a85a725fed30ee3.jpeg"
+  },
+  {
+    "id": "ec74d4d3ec74d751",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the…",
+    "url": "https://ozbrain.com",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T23:09:06+00:00",
+    "fetched": "2026-08-21T23:51:36+00:00",
+    "image": "https://ozbrain.com/og.png?v=4"
   },
   {
     "id": "d077de233e7dbada",
@@ -51514,29 +51538,5 @@
     "published": "2026-08-08T00:02:49+00:00",
     "fetched": "2026-08-08T05:01:37+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db46/live/2ce17130-927f-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "3a544945a5308af3",
-    "title": "Росіяни атакували Київщину: загинули троє людей, серед них дитина",
-    "summary": "Росіяни атакували Броварський район Київщини: 3 загиблих, у тому числі дитина, ще 3 поранено.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047838/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T23:46:00+00:00",
-    "fetched": "2026-08-08T01:56:15+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/b/888523/cb89c01a711d75795a14b1048cbeddae.jpeg"
-  },
-  {
-    "id": "bd2d2d1f1d34fa64",
-    "title": "На Київщині через російську атаку - троє загиблих, включно з дитиною",
-    "summary": "Броварський район був під обстрілом ударними безпілотниками.",
-    "url": "https://lb.ua/society/2026/08/08/757540_kiyivschini_cherez_rosiysku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-07T23:38:00+00:00",
-    "fetched": "2026-08-08T01:56:15+00:00",
-    "image": "https://i.lb.ua/news/083/40/6a766c47d1a05.jpg"
   }
 ]
