@@ -12,6 +12,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/897049/15dd8101fb5bb3ceb6ec4dcb205114d8.jpeg"
   },
   {
+    "id": "3377c27b081e0284",
+    "title": "NanoGPT Speedrun Frontier",
+    "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 4 # Comments: 0",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T22:14:27+00:00",
+    "fetched": "2026-08-22T23:24:53+00:00",
+    "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png"
+  },
+  {
     "id": "215cb7fba8d0801c",
     "title": "Влада готує \"радикальні\" зміни в мобілізації, які торкнуться призовного віку – Костенко",
     "summary": "Секретар Комітету Верховної Ради з питань національної безпеки, оборони та розвідки Роман Костенко заявив, що українська влада готує \"радикальні\" зміни у процесі мобілізації, які, зокрема, стосуватимуться призовного віку.",
@@ -51346,17 +51358,5 @@
     "published": "2026-08-08T23:37:27+00:00",
     "fetched": "2026-08-09T02:04:05+00:00",
     "image": "https://os8088.com/img/og.png"
-  },
-  {
-    "id": "8871612795f65ba2",
-    "title": "Dithered QR Codes",
-    "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 20 # Comments: 3",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T23:05:24+00:00",
-    "fetched": "2026-08-09T02:04:05+00:00",
-    "image": "https://www.andrewt.net/dithered-qr-codes/card.png"
   }
 ]
