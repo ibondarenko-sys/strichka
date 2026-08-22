@@ -1,5 +1,29 @@
 [
   {
+    "id": "64cda07705c270dc",
+    "title": "Іран дозволив низці іракських танкерів пройти через Ормузьку протоку",
+    "summary": "Президент Іраку підтвердив, що останніми днями Іран сприяв проходу суден із іракською нафтою через протоку.",
+    "url": "https://lb.ua/world/2026/08/22/760798_iran_dozvoliv_niztsi_irakskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T11:36:00+00:00",
+    "fetched": "2026-08-22T11:47:36+00:00",
+    "image": "https://i.lb.ua/news/094/02/6a8989ca79e26.jpg"
+  },
+  {
+    "id": "e2e8afe21516459a",
+    "title": "ЗМІ: Німеччина витратить 12 млрд євро на створення арсеналу далекобійної зброї",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049823/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T11:22:00+00:00",
+    "fetched": "2026-08-22T11:47:36+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/e/7/e7c3325-us-army-and-us-navy-successfully-test-lrhw-hypersonic-missile-scaled.jpg"
+  },
+  {
     "id": "715c4c2a3f90e999",
     "title": "Генштаб: Сили оборони уразили резервуари з паливно-мастильними матеріалами Єйського нафтоналивного комплексу",
     "summary": "Пропускна спроможність вантажних терміналів порту становить близько 6,8 млн тонн вантажів на рік.",
@@ -51478,77 +51502,5 @@
     "published": "2026-08-08T11:59:00+00:00",
     "fetched": "2026-08-08T12:57:57+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/2/888648/32dfe65e7a5cf39db257efdee9abf470.jpeg"
-  },
-  {
-    "id": "483ed25ebb44b9df",
-    "title": "Медіа: Сенат США схвалив тимчасове фінансування уряду до 11 грудня",
-    "summary": "Чинне фінансування федерального уряду США діє до 30 вересня.",
-    "url": "https://lb.ua/world/2026/08/08/757634_media_senat_ssha_shvaliv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:46:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/104/43/6a77170433043.jpg"
-  },
-  {
-    "id": "4aa1b47d8bf5d5da",
-    "title": "Експрем'єр Франції заявив про втручання Росії у президентську гонку",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047880/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:40:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/e/8/e887bff-95129413.jpeg"
-  },
-  {
-    "id": "5cfa78b383cafce1",
-    "title": "Суд повернув державі будівлю Жовтневого палацу в Києві, – Офіс генпрокурора",
-    "summary": "Жовтневий палац входить до переліку об’єктів культурної спадщини, які не підлягають приватизації.",
-    "url": "https://lb.ua/kyiv/2026/08/08/757630_sud_povernuv_derzhavi_budivlyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:33:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/045/19/6a7712d130b69.jpg"
-  },
-  {
-    "id": "da9c1e9c3282b961",
-    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-    "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
-    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T11:30:48+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01-1152x648.jpg"
-  },
-  {
-    "id": "7df650cdb8d6d421",
-    "title": "​У Нікополі через обстріл згорів рейсовий автобус. Одна людина загинула",
-    "summary": "Ще одна людина поранена.",
-    "url": "https://lb.ua/society/2026/08/08/757632_nikopoli_cherez_obstril_zgoriv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:30:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/038/51/6a7714476121a.jpg"
-  },
-  {
-    "id": "e2f973878c3b619d",
-    "title": "Зеленський: США щомісяця надаватимуть Україні ракети до Patriot, але цього недостатньо",
-    "summary": "Україна має домовленість із США про щомісячне постачання ракет Patriot, однак цих ракет недостатньо для потреб ППО.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047878/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:29:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888633/a3c4d3bc07ae89a2ef7c8f23fad9d91b.jpeg"
   }
 ]
