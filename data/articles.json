@@ -1,5 +1,77 @@
 [
   {
+    "id": "05d38366be95d578",
+    "title": "Федоров розповів, чим займатиметься далі: венчурний фонд, Think tank, викладання",
+    "summary": "Колишній міністр оборони Михайло Федоров після звільнення з уряду планує займатися венчурним фондом для залучення інвестицій в українські стартапи у сфері оборони, аналітичним центром, який він називає Think tank, громадською діяльністю щодо \"повернення до демократії\", а також…",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049872/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T19:18:00+00:00",
+    "fetched": "2026-08-22T19:25:38+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/897018/d4c1962fe1d83c5d78e95518b422f21d.jpeg"
+  },
+  {
+    "id": "89d4c38c8992ebcb",
+    "title": "Генштаб: найбільше штурмів РФ здійснила на Костянтинівському та Покровському напрямках",
+    "summary": "22 серпня на фронті відбулося 197 бойових зіткнень.",
+    "url": "https://lb.ua/society/2026/08/22/760866_genshtab_naybilshe_shturmiv_rf.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T19:18:00+00:00",
+    "fetched": "2026-08-22T19:25:38+00:00",
+    "image": "https://i.lb.ua/news/101/26/6a89f5f72f22b.jpg"
+  },
+  {
+    "id": "2a6060ec93e95c83",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 5 # Comments: 0",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T19:04:41+00:00",
+    "fetched": "2026-08-22T19:25:41+00:00",
+    "image": null
+  },
+  {
+    "id": "ad833c8ebb4412b7",
+    "title": "Данія планує посилити правила для українців, які отримують дозвіл на проживання",
+    "summary": "Стосуватиметься це громадян України, які приїхали з областей, що найменш постраждали через війну.",
+    "url": "https://lb.ua/world/2026/08/22/760860_daniya_planuie_posiliti_pravila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T19:01:00+00:00",
+    "fetched": "2026-08-22T19:25:38+00:00",
+    "image": "https://i.lb.ua/news/107/05/6a89f205a17e6.jpg"
+  },
+  {
+    "id": "777348a62fefe789",
+    "title": "У Кривому Розі директору супермаркету оголосили про підозру після атаки РФ на торговий центр",
+    "summary": "Супермаркет продовжував працювати під час оголошеної тривоги.",
+    "url": "https://lb.ua/society/2026/08/22/760862_krivomu_rozi_direktoru.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T18:43:00+00:00",
+    "fetched": "2026-08-22T19:25:38+00:00",
+    "image": "https://i.lb.ua/news/110/27/6a89f00c08158.jpg"
+  },
+  {
+    "id": "0d8d5b272d40c634",
+    "title": "Прем'єр Швеції скасував передвиборчу промову через атаку з мечем у школі",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049871/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T18:36:00+00:00",
+    "fetched": "2026-08-22T19:25:38+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/2/4/2416456-----.jpg"
+  },
+  {
     "id": "928f261a694ef0ac",
     "title": "Радбез ООН проведе засідання щодо війни Росії проти України у День Незалежності",
     "summary": "Ініціаторами стали 5 європейських країн.",
@@ -22,6 +94,18 @@
     "published": "2026-08-22T18:17:00+00:00",
     "fetched": "2026-08-22T18:36:21+00:00",
     "image": "https://i.lb.ua/news/115/50/6a89e8a0ba09a.jpg"
+  },
+  {
+    "id": "0cbbcd53f19cb6ca",
+    "title": "Scrap",
+    "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 25 # Comments: 1",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T18:08:56+00:00",
+    "fetched": "2026-08-22T19:25:41+00:00",
+    "image": "https://pbs.twimg.com/profile_images/1904271714370158592/N1nB2x1O_200x200.jpg"
   },
   {
     "id": "39ead69bb6e0f805",
@@ -658,6 +742,18 @@
     "published": "2026-08-22T13:41:01+00:00",
     "fetched": "2026-08-22T14:25:48+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b8c0ed27bcb3f46a",
+    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+    "summary": "Article URL: https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record Comments URL: https://news.ycombinator.com/item?id=49399642 Points: 33 # Comments: 26",
+    "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T13:39:07+00:00",
+    "fetched": "2026-08-22T19:25:41+00:00",
+    "image": "https://i.guim.co.uk/img/media/bb4d6f1140a40f0b781db0cc686820f5cab64b8b/438_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=028c359072bd5dab4e11a499d8b1b8f1"
   },
   {
     "id": "2dad877b6cc6205e",
@@ -2350,6 +2446,18 @@
     "published": "2026-08-21T20:50:00+00:00",
     "fetched": "2026-08-21T21:28:49+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/a/7/a7bbfdb-5.jpg"
+  },
+  {
+    "id": "2612bf9b27357901",
+    "title": "The Creation of Abulafia",
+    "summary": "Article URL: https://blog.veitheller.de/abulafia.html Comments URL: https://news.ycombinator.com/item?id=49393537 Points: 13 # Comments: 1",
+    "url": "https://blog.veitheller.de/abulafia.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T20:42:11+00:00",
+    "fetched": "2026-08-22T19:25:41+00:00",
+    "image": null
   },
   {
     "id": "9d3c33721ea12139",
@@ -51346,101 +51454,5 @@
     "published": "2026-08-08T19:26:00+00:00",
     "fetched": "2026-08-08T19:33:41+00:00",
     "image": "https://i.lb.ua/news/068/43/6a778306da454.jpg"
-  },
-  {
-    "id": "985469a5f127e20d",
-    "title": "Зеленський про українську балістику восени: Буде позитивне застосування і результат",
-    "summary": "Зеленський: бойове застосування української балістичної ракети можливе восени, але не масово.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047923/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:22:00+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/888913/59b0b020229e5176f060a3bb8e139fbe.jpeg"
-  },
-  {
-    "id": "639e1a78a5718d36",
-    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-    "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-    "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-08T19:18:57+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg"
-  },
-  {
-    "id": "01afedcf1d3efeb9",
-    "title": "Генштаб: Росія за добу здійснила понад 2 тисячі обстрілів і запустила 6 700 дронів",
-    "summary": "На фронті за 8 серпня відбулось 142 бойові зіткнення.",
-    "url": "https://lb.ua/society/2026/08/08/757706_genshtab_rosiya_dobu_zdiysnila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:16:00+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://i.lb.ua/news/048/26/6a778077cc736.jpg"
-  },
-  {
-    "id": "119065f421890e4b",
-    "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-    "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-    "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-08T19:00:22+00:00",
-    "fetched": "2026-08-10T18:25:42+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png"
-  },
-  {
-    "id": "2fba6ac7bddf35e6",
-    "title": "Росіяни атакували центр Павлограда, зросла кількість поранених (оновлено)",
-    "summary": "Внаслідок ворожого удару спалахнула пожежа.",
-    "url": "https://lb.ua/society/2026/08/08/757696_rosiyani_atakuvali_tsentr.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:58:00+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://i.lb.ua/news/106/61/6a776fd3cac0b.jpg"
-  },
-  {
-    "id": "db848ee9b232c705",
-    "title": "Прийнято рішення, щоб 30-50 тисяч північнокорейців були на території РФ – Зеленський",
-    "summary": "Росія збирається залучити 30-50 тисяч північнокорейців для роботи на своїй території — Зеленський.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047921/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:50:00+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/b/888895/db222362bdfffca7f32c588f182d9535.jpeg"
-  },
-  {
-    "id": "1f77a2c5f16bdb26",
-    "title": "Російська армія скинула на Ізюм КАБ: поранені 7 людей",
-    "summary": "Внаслідок атаки пошкоджені багатоквартирні будинки та автомобілі.",
-    "url": "https://lb.ua/society/2026/08/08/757702_rosiyska_armiya_skinula_izyum.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:48:00+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://i.lb.ua/news/035/20/6a777defbfbdd.jpg"
-  },
-  {
-    "id": "c6720608fa815cce",
-    "title": "У Кракові чоловік, який напав на українців, сам прийшов до поліції",
-    "summary": "39-річного поляка затримали, йому висунуть обвинувачення.",
-    "url": "https://lb.ua/world/2026/08/08/757700_krakovi_cholovik_yakiy_napav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:38:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://i.lb.ua/news/077/47/6a7777a695b71.jpg"
   }
 ]
