@@ -1,5 +1,41 @@
 [
   {
+    "id": "a9779297498a657a",
+    "title": "Країна мертвих. Країна живих",
+    "summary": "Протягом першого півріччя 2026 року в Україні народилися 73 292 дитини. За цей самий період в Україні померли 259 853 особи. Таким чином смертність перевищила народжуваність майже в чотири рази.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/22/8049721/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T02:30:00+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/896612/3798f209810e905f2ab1d97d2f831655.jpeg"
+  },
+  {
+    "id": "293bd133a902cc6e",
+    "title": "\"Шахтар\" проводитиме домашні матчі Ліги чемпіонів у Лондоні",
+    "summary": "\"Гірники\" домовились з \"Челсі\", який пропускає євросезон.",
+    "url": "https://lb.ua/sport/2026/08/22/760730_shahtar_provoditime_domashni.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T02:08:00+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": "https://i.lb.ua/news/088/45/6a8904d0ede3a.jpg"
+  },
+  {
+    "id": "0829b2f75b5977e6",
+    "title": "Трамп проголосив Ормузьку протоку \"американською територією\"",
+    "summary": "Президент США Дональд Трамп заявив, що вважає Ормузьку протоку американською територією, а завдяки діям США проти Ірану та контролю над регіоном Вашингтон заробляє мільярди доларів.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049774/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T01:52:00+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/b/896659/0b76ecea157b1c49eb131ff1a5af185e.jpeg"
+  },
+  {
     "id": "2734f963b7d650a7",
     "title": "Війська РФ вдарили дроном по Кушугуму на Запоріжжі: загинув чоловік, четверо поранених",
     "summary": "У ніч на 22 серпня російські окупаційні війська атакували безпілотником селище Кушугум Запорізького району. Внаслідок ворожого удару одна людина загинула, ще четверо дістали поранення.",
@@ -10,6 +46,42 @@
     "published": "2026-08-22T01:08:00+00:00",
     "fetched": "2026-08-22T01:26:51+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/4/896658/44777bdf40a3d0c51ce63d2875ccb3c5.jpeg"
+  },
+  {
+    "id": "2715b13cc178df67",
+    "title": "There's no reason for software to be slow anymore",
+    "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 56 # Comments: 42",
+    "url": "https://danluu.com/perf-opt/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T01:06:17+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": null
+  },
+  {
+    "id": "5d9a1ebcc7191a14",
+    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 15 # Comments: 5",
+    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T01:02:09+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": null
+  },
+  {
+    "id": "d02a76f12d1e528e",
+    "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+    "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+    "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-22T00:40:47+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg"
   },
   {
     "id": "952b7dc27352bb88",
@@ -106,6 +178,18 @@
     "published": "2026-08-21T22:54:00+00:00",
     "fetched": "2026-08-21T23:27:42+00:00",
     "image": "https://i.lb.ua/news/054/01/6a88d70a597f5.jpg"
+  },
+  {
+    "id": "f3ee26afe8b1d331",
+    "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+    "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+    "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-21T22:36:12+00:00",
+    "fetched": "2026-08-22T02:37:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg"
   },
   {
     "id": "c60e9177a631bf4b",
@@ -51490,53 +51574,5 @@
     "published": "2026-08-08T02:55:00+00:00",
     "fetched": "2026-08-08T03:39:22+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888532/a30877b9874080c994a67eae8ae2e80f.jpeg"
-  },
-  {
-    "id": "8cdd6a4f774c2ebb",
-    "title": "Прокляття бліцкригу",
-    "summary": "Восьме серпня. Для наших сучасників ця дата нерозривно пов'язана з російським вторгненням до Грузії 2008 року.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/08/8047717/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T02:30:00+00:00",
-    "fetched": "2026-08-08T03:39:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/888508/5460fd31425667f5427c4af7cfac2a21.jpeg"
-  },
-  {
-    "id": "f928405592d22776",
-    "title": "ЗМІ: Російські регіони влаштовують виставу для Путіна, знижуючи ціну на бензин",
-    "summary": "Від диктатора приховують масштаби паливної кризи.",
-    "url": "https://lb.ua/society/2026/08/08/757546_zmi_rosiyski_regioni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T02:28:00+00:00",
-    "fetched": "2026-08-08T03:39:23+00:00",
-    "image": "https://i.lb.ua/news/089/02/6a768d8a47fc2.jpg"
-  },
-  {
-    "id": "3ac31eadf05b1c41",
-    "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
-    "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 59 # Comments: 8",
-    "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T01:49:11+00:00",
-    "fetched": "2026-08-08T03:39:22+00:00",
-    "image": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-2000-80.jpg"
-  },
-  {
-    "id": "72b31459a03ccdbe",
-    "title": "Трамп вимагає від Конгресу роботи під час депутатських канікул",
-    "summary": "На жаль, причина не у бажанні президента США пришвидшити допомогу Україні.",
-    "url": "https://lb.ua/world/2026/08/08/757544_tramp_vimagaie_vid_kongresu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T01:44:00+00:00",
-    "fetched": "2026-08-08T01:56:15+00:00",
-    "image": "https://i.lb.ua/news/075/25/6a768a034cc3d.jpg"
   }
 ]
