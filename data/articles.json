@@ -1,5 +1,41 @@
 [
   {
+    "id": "01db9f196eb3dc42",
+    "title": "Нова посолка Канади починає роботу в Україні",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049869/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:35:00+00:00",
+    "fetched": "2026-08-22T17:48:14+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/8/4846fbe-2.jpg"
+  },
+  {
+    "id": "2def93096328a369",
+    "title": "Прем’єр Швеції скасував передвиборчий виступ після нападу з мечем у школі",
+    "summary": "Внаслідок атаки загинула 17-річна дівчина.",
+    "url": "https://lb.ua/world/2026/08/22/760846_premier_shvetsiyi_skasuvav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:30:00+00:00",
+    "fetched": "2026-08-22T17:48:14+00:00",
+    "image": "https://i.lb.ua/news/125/08/6a89de3f9310f.jpg"
+  },
+  {
+    "id": "c7e2d0709cb83d34",
+    "title": "Федоров: Корупція заважає закінчити війну з сильної позиції",
+    "summary": "Михайло Федоров заявив, що корупція гальмує перемогу України та стосується сотень людей, а не лише окремих осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049868/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:25:00+00:00",
+    "fetched": "2026-08-22T17:48:14+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/896987/822a26209da88a6933e7f9a7e4541c1a.jpeg"
+  },
+  {
     "id": "7daebadb07b9a738",
     "title": "​Росія атакувала газовидобувний об’єкт ДТЕК на Полтавщині",
     "summary": "Робота об'єкта після удару зупинена.",
@@ -24,6 +60,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/1/896983/1129785b3731199d6a34b73080a44873.jpeg"
   },
   {
+    "id": "51e3ff297f463fd0",
+    "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+    "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 17 # Comments: 5",
+    "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T17:09:27+00:00",
+    "fetched": "2026-08-22T17:48:14+00:00",
+    "image": null
+  },
+  {
     "id": "2e9ead934f454260",
     "title": "У Києві 23-25 серпня обмежать рух через заходи за участю іноземних делегацій",
     "summary": "Обмеження стосуватимуться центральної частини міста та деяких вулиць у кількох районах.",
@@ -46,6 +94,18 @@
     "published": "2026-08-22T17:00:00+00:00",
     "fetched": "2026-08-22T17:24:46+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "304760d427667b9e",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 19 # Comments: 6",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T16:58:49+00:00",
+    "fetched": "2026-08-22T17:48:14+00:00",
+    "image": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_200x200.jpg"
   },
   {
     "id": "524958d33aa6b428",
@@ -51418,53 +51478,5 @@
     "published": "2026-08-08T17:52:00+00:00",
     "fetched": "2026-08-08T18:43:47+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/d/888864/5df19cb652f894b81afd01f82bf19ed2.jpeg"
-  },
-  {
-    "id": "42e9e07b920c8f47",
-    "title": "TinySol, a tiny solitaire game for DOS",
-    "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 3 # Comments: 0",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T17:42:40+00:00",
-    "fetched": "2026-08-08T18:43:49+00:00",
-    "image": null
-  },
-  {
-    "id": "8037a6d2164ac371",
-    "title": "Путіну потрібен Донбас. Ми відходити самі по собі не збираємося, – Зеленський про наміри РФ провести мобілізацію",
-    "summary": "Вихід Сил оборони з Донбасу неможливий, оскільки нема гарантій, що Путін не піде далі.",
-    "url": "https://lb.ua/society/2026/08/08/757692_putinu_potriben_donbas_mi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:37:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://i.lb.ua/news/085/33/6a77694b27aab.jpg"
-  },
-  {
-    "id": "8d94f52fc6323bb9",
-    "title": "У МЗС прокоментували інцидент із вибухом дрона в Болгарії",
-    "summary": "МЗС України прокоментувало інцидент із дроном у Болгарії",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047916/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:32:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/888831/345262d8d352fe79dfb61562df24b3ad.jpeg"
-  },
-  {
-    "id": "d8c98d0c745287e6",
-    "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
-    "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 23 # Comments: 4",
-    "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T17:27:52+00:00",
-    "fetched": "2026-08-08T18:43:49+00:00",
-    "image": "https://images.newrepublic.com/8f7acb5e8746b79f60cadd801a4b9b90be7df0e6.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
   }
 ]
