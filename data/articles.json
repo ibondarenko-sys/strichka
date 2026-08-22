@@ -1,5 +1,29 @@
 [
   {
+    "id": "97e65693f1ad2c0a",
+    "title": "У Харкові реактивний \"Шахед\" влучив в будинок, спалахнула пожежа – Терехов",
+    "summary": "У ніч на 23 серпня російські війська вдарили реактивним безпілотником по приватному будинку у Харкові, спалахнула пожежа.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049879/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T22:17:00+00:00",
+    "fetched": "2026-08-22T22:26:17+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/897049/15dd8101fb5bb3ceb6ec4dcb205114d8.jpeg"
+  },
+  {
+    "id": "215cb7fba8d0801c",
+    "title": "Влада готує \"радикальні\" зміни в мобілізації, які торкнуться призовного віку – Костенко",
+    "summary": "Секретар Комітету Верховної Ради з питань національної безпеки, оборони та розвідки Роман Костенко заявив, що українська влада готує \"радикальні\" зміни у процесі мобілізації, які, зокрема, стосуватимуться призовного віку.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049877/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T21:50:00+00:00",
+    "fetched": "2026-08-22T22:26:17+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/897047/a015e82e98765bb486df96afc9e77bb7.jpeg"
+  },
+  {
     "id": "543c93d7427d125d",
     "title": "Головне за суботу, 22 серпня: балістика на Київщину, пожежа у Львові, майже 200 бойових зіткнень",
     "summary": "Бойові дії на Донеччині, 197 бойових зіткнень, ворожі обстріли, наслідки удару по Кривому Рогу. Яким запам’ятається 1641-й день повномасштабної війни.",
@@ -51382,17 +51406,5 @@
     "published": "2026-08-08T22:32:50+00:00",
     "fetched": "2026-08-09T02:04:05+00:00",
     "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/d5a289aad251536cebddff8378b429f0.png"
-  },
-  {
-    "id": "2400185859dac56f",
-    "title": "Fifa criticises campaign to oust president Infantino",
-    "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-08T22:06:44+00:00",
-    "fetched": "2026-08-09T10:38:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de50/live/00229450-937c-11f1-9df5-0122184ff6d7.jpg"
   }
 ]
