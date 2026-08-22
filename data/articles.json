@@ -1,5 +1,77 @@
 [
   {
+    "id": "544181463f82c527",
+    "title": "На Херсонщині вже вісім людей постраждали через обстріли РФ",
+    "summary": "Окупанти били по регіону з артилерійської зброї і дронів різного типу.",
+    "url": "https://lb.ua/society/2026/08/22/760818_hersonschini_vzhe_visim_lyudey.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:45:00+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://i.lb.ua/news/036/03/6a89b636f1824.jpg"
+  },
+  {
+    "id": "0bebe9b429bca661",
+    "title": "Глава МЗС Естонії про удар по Кривому Рогу: Росія хоче зламати дух нації",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049857/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:45:00+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/9/791b569--.jpg"
+  },
+  {
+    "id": "4a2f1daa38f2a424",
+    "title": "Росіяни обстріляли Запорізький район, є потерпілий",
+    "summary": "Російський fpv-дрон ударив неподалік автівки.",
+    "url": "https://lb.ua/society/2026/08/22/760816_rosiyani_obstrilyali_zaporizkiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:33:00+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://i.lb.ua/news/072/47/6a89b360c5a22.jpg"
+  },
+  {
+    "id": "668f6f700311ecc3",
+    "title": "Зеленський обговорив з главою МЗС Німеччини підтримку перед зимою",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049851/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:23:00+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/5/2/52aeeea----.jpg"
+  },
+  {
+    "id": "72dd76df9606591e",
+    "title": "Росія здійснила тривалий комбінований удар по Одещині, є поранені",
+    "summary": "Серед потерпілих – неповнолітня.",
+    "url": "https://lb.ua/society/2026/08/22/760814_rosiya_zdiysnila_trivaliy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:22:00+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://i.lb.ua/news/011/25/6a89b0a8cc75b.jpg"
+  },
+  {
+    "id": "f5886f0c0a0500f9",
+    "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 4 # Comments: 1",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T14:13:05+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://i.guim.co.uk/img/media/eca8a76b2a7a0d23d19512d598b73041712f2ec1/1344_539_3254_2604/master/3254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d81c4f6a466373a506ed50b7860abae"
+  },
+  {
     "id": "b0db7243c1f5edf5",
     "title": "На тимчасово окупованій Луганщині росіяни впроваджують радянський проєкт для дітей",
     "summary": "Його використають для того, щоб мілітаризувати молодь і поширювати пропаганду.",
@@ -10,6 +82,18 @@
     "published": "2026-08-22T14:09:00+00:00",
     "fetched": "2026-08-22T14:25:48+00:00",
     "image": "https://i.lb.ua/news/033/00/6a89adc48ada4.jpg"
+  },
+  {
+    "id": "0ff3f677cedd2e6b",
+    "title": "A Friendly Introduction to Racket",
+    "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 3 # Comments: 0",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T14:08:19+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://geometridae.bearblog.dev/static/og-image.png"
   },
   {
     "id": "33def8ade7cd8742",
@@ -622,6 +706,18 @@
     "published": "2026-08-22T09:10:00+00:00",
     "fetched": "2026-08-22T09:30:45+00:00",
     "image": "https://i.lb.ua/news/101/11/6a896796af5a0.jpg"
+  },
+  {
+    "id": "0d24b5343da1d22c",
+    "title": "Embedded AI",
+    "summary": "Article URL: https://nostarch.com/embedded-ai Comments URL: https://news.ycombinator.com/item?id=49397947 Points: 10 # Comments: 1",
+    "url": "https://nostarch.com/embedded-ai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T09:07:26+00:00",
+    "fetched": "2026-08-22T14:49:58+00:00",
+    "image": "https://nostarch.com/sites/default/files/field/image_cache/embedded-ai.jpg"
   },
   {
     "id": "a2289015533a4da4",
@@ -51478,29 +51574,5 @@
     "published": "2026-08-08T14:50:00+00:00",
     "fetched": "2026-08-08T15:34:20+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/2/888738/12c937242a307a03389ba0e94698578f.jpeg"
-  },
-  {
-    "id": "277d173d756ab95c",
-    "title": "Радбез ООН проведе засідання наступного понеділка щодо українських полонених у Росії",
-    "summary": "Засідання організовують Латвія і Великобританія.",
-    "url": "https://lb.ua/world/2026/08/08/757658_radbez_oon_provede_zasidannya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T14:44:00+00:00",
-    "fetched": "2026-08-08T15:34:20+00:00",
-    "image": "https://i.lb.ua/news/013/03/6a7740d4564b5.jpg"
-  },
-  {
-    "id": "1a399acec709b8fe",
-    "title": "\"Code was never the hard part\" is an insult to all programmers",
-    "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 96 # Comments: 71",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T14:32:33+00:00",
-    "fetched": "2026-08-08T18:43:49+00:00",
-    "image": "https://cdn.writeas.net/img/w-sq-light.png"
   }
 ]
