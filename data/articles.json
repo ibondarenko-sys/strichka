@@ -1,5 +1,65 @@
 [
   {
+    "id": "928f261a694ef0ac",
+    "title": "Радбез ООН проведе засідання щодо війни Росії проти України у День Незалежності",
+    "summary": "Ініціаторами стали 5 європейських країн.",
+    "url": "https://lb.ua/news/2026/08/22/760858_radbez_oon_provede_zasidannya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T18:30:00+00:00",
+    "fetched": "2026-08-22T18:36:21+00:00",
+    "image": "https://i.lb.ua/news/064/55/6a89eae83d3ef.jpg"
+  },
+  {
+    "id": "46362ecd52fd2ff5",
+    "title": "​Укрзалізниця випустила на міжнародний маршрут нові вагони: додаткові зручності є для дітей",
+    "summary": "Нові вагони вже почали курсувати на маршруті Холм-Київ.",
+    "url": "https://lb.ua/society/2026/08/22/760856_ukrzaliznitsya_vipustila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T18:17:00+00:00",
+    "fetched": "2026-08-22T18:36:21+00:00",
+    "image": "https://i.lb.ua/news/115/50/6a89e8a0ba09a.jpg"
+  },
+  {
+    "id": "39ead69bb6e0f805",
+    "title": "Федоров прокоментував майбутню поїздку до США й можливу зустріч із Маском",
+    "summary": "Федоров заперечив зустріч із Трампом, але не виключає переговори з Ілоном Маском під час візиту до США.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049870/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T18:07:00+00:00",
+    "fetched": "2026-08-22T18:36:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/897005/7134b9a39ee198ceb1e781fd2ab03de1.jpeg"
+  },
+  {
+    "id": "bde05647162d3caf",
+    "title": "Пасажирку в аеропорту Дюссельдорфа вкусив скорпіон",
+    "summary": "Отруйна тварина сховалась у куртці жінки, яка поверталась з Греції.",
+    "url": "https://lb.ua/world/2026/08/22/760854_pasazhirku_aeroportu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T18:06:00+00:00",
+    "fetched": "2026-08-22T18:36:21+00:00",
+    "image": "https://i.lb.ua/news/022/42/6a89e5490db99.jpg"
+  },
+  {
+    "id": "ef5ae1882c698773",
+    "title": "“Рубильник off”: СБС уразили 27 енерговузлів у Криму та на окупованому Півдні",
+    "summary": "Також протягом серпня Сили безпілотних систем вдарили по 36 плавзасобам \"тіньового флоту\".",
+    "url": "https://lb.ua/society/2026/08/22/760852_rubilnik_off_sbs_urazili_27.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:47:00+00:00",
+    "fetched": "2026-08-22T18:36:21+00:00",
+    "image": "https://i.lb.ua/news/018/37/6a89e0cedf2a0.jpg"
+  },
+  {
     "id": "01db9f196eb3dc42",
     "title": "Нова посолка Канади починає роботу в Україні",
     "summary": "",
@@ -2854,6 +2914,18 @@
     "published": "2026-08-21T17:30:38+00:00",
     "fetched": "2026-08-21T18:42:10+00:00",
     "image": "https://interconnected.org/home/2026/08/21/galactic.png?v=1"
+  },
+  {
+    "id": "a0a832e94110012e",
+    "title": "Show HN: Rotation via Double Reflection",
+    "summary": "While studying Geometric Algebra I have built some interactive visualization to demonstrate how geometric transformations (rotation, scaling, translation) can be constructed by just composing reflections. Accepting reflection as the most elementary geometric operation was an eye…",
+    "url": "https://static.laszlokorte.de/rotor-reflect/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T17:18:06+00:00",
+    "fetched": "2026-08-22T18:36:32+00:00",
+    "image": null
   },
   {
     "id": "4ee229055b74eda1",
@@ -51370,113 +51442,5 @@
     "published": "2026-08-08T18:38:00+00:00",
     "fetched": "2026-08-08T18:43:47+00:00",
     "image": "https://i.lb.ua/news/077/47/6a7777a695b71.jpg"
-  },
-  {
-    "id": "b8540a9c6f541caf",
-    "title": "Литва розглядає можливість придбання у Південної Кореї систем ППО",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047920/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:34:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/9/0/90a5fbb-f4f33998-ed86-40bf-8b37-1f4de2e33599.jpg"
-  },
-  {
-    "id": "7d4176a3a26e72b9",
-    "title": "Зеленський розповів про результати 40-денної операції проти РФ: Я задоволений",
-    "summary": "Зеленський задоволений результатами операції проти РФ і попередив про нові удари у разі атак на логістику України.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047919/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:29:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/3/888875/c3aa998cc38bbefd9c065bd8efbb9995.jpeg"
-  },
-  {
-    "id": "2b67fb925cec5651",
-    "title": "Україна придбала у Туреччини 70 ракет ATACMS та 12 установок M270, – медіа",
-    "summary": "Передачу озброєння планують розпочати після завершення передбаченого законодавством 15-денного терміну розгляду Конгресом.",
-    "url": "https://lb.ua/world/2026/08/08/757698_ukrayina_pridbala_turechchini_70.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:25:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://i.lb.ua/news/054/20/6a77749514de1.jpg"
-  },
-  {
-    "id": "830076b7f9733775",
-    "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-    "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-    "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-08T18:13:49+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "31d05ae690e61712",
-    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-    "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 38 # Comments: 12",
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T18:09:31+00:00",
-    "fetched": "2026-08-08T18:43:49+00:00",
-    "image": null
-  },
-  {
-    "id": "13c5770be7db37d6",
-    "title": "Росіяни атакували центра Павлограда, є поранені",
-    "summary": "Внаслідок ворожого удару спалахнула пожежа.",
-    "url": "https://lb.ua/society/2026/08/08/757696_rosiyani_atakuvali_tsentra.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T18:05:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://i.lb.ua/news/106/61/6a776fd3cac0b.jpg"
-  },
-  {
-    "id": "8677d50cd10933a7",
-    "title": "Зеленський: Прийнято рішення, щоб від 30 до 50 тисяч північнокорейців були на території Росії",
-    "summary": "Військові з КНДР вивчають війну, цей досвід потім може використати Пхеньян для ескалації в Тихоокеанському регіоні.",
-    "url": "https://lb.ua/society/2026/08/08/757694_zelenskiy_priynyato_rishennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:55:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://i.lb.ua/news/021/18/6a776d82dff6f.jpg"
-  },
-  {
-    "id": "3835de70aa7ad62f",
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T17:53:34+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "a3be88ea710bccb6",
-    "title": "Україна купила в Туреччини 70 ракет ATACMS – ЗМІ",
-    "summary": "Україна отримає 70 ракет ATACMS, 12 MLRS M270 та касетні боєприпаси з Туреччини для посилення оборони.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047917/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:52:00+00:00",
-    "fetched": "2026-08-08T18:43:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/d/888864/5df19cb652f894b81afd01f82bf19ed2.jpeg"
   }
 ]
