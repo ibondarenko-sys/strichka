@@ -1,5 +1,53 @@
 [
   {
+    "id": "c6454ac416e7a35f",
+    "title": "На війні загинув Software Development Engineer зі SQUAD Юрій Мацьків",
+    "summary": "На війні загинув Software Development Engineer in Test зі SQUAD Юрій Мацьків. Він служив у Силах спеціальних операцій України. Про це повідомили в SQUAD. Юрій загинув 6 червня 2026 року на Харківщині під час бою з російськими військовими. Того дня йому виповнилося 30 років. До…",
+    "url": "https://dou.ua/lenta/news/yurii-matskiv-died-in-the-war/",
+    "source": "DOU",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-22T16:45:01+00:00",
+    "fetched": "2026-08-22T16:53:57+00:00",
+    "image": "https://s.dou.ua/storage-files/IMG_2272.jpeg"
+  },
+  {
+    "id": "c5813bff97473514",
+    "title": "Макрон пообіцяв Зеленському ракети-перехоплювачі",
+    "summary": "Макрон пообіцяв Зеленському відправку ракет-перехоплювачів та посилення підтримки Україні.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049864/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T16:44:00+00:00",
+    "fetched": "2026-08-22T16:53:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/896976/ca045e6d22105f978e82f8765a37f789.jpeg"
+  },
+  {
+    "id": "aee643513fad5b50",
+    "title": "Карні анонсував відповідь Канади на нові мита США з 8 вересня",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049863/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T16:37:00+00:00",
+    "fetched": "2026-08-22T16:53:57+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/7/67968ea-l.jpg"
+  },
+  {
+    "id": "c4ed6f8659994467",
+    "title": "Росіяни двічі атакували розподільчий центр мережі \"Аврора\"",
+    "summary": "Ворог вдарив друге, коли на місці вже працювали екстрені служби.",
+    "url": "https://lb.ua/society/2026/08/22/760842_rosiyani_dvichi_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T16:29:00+00:00",
+    "fetched": "2026-08-22T16:53:57+00:00",
+    "image": "https://i.lb.ua/news/020/06/6a89ce75b7ed1.jpg"
+  },
+  {
     "id": "348a18b3982b8b2b",
     "title": "Мінветеранів перевірить Національне військове меморіальне кладовище",
     "summary": "Фахівцям знадобиться до місяця, аби розібратися в ситуації.",
@@ -51370,65 +51418,5 @@
     "published": "2026-08-08T16:59:00+00:00",
     "fetched": "2026-08-08T17:34:40+00:00",
     "image": "https://i.lb.ua/news/117/12/6a77607d6178b.jpg"
-  },
-  {
-    "id": "ddcef63acf2ca72c",
-    "title": "LinkedIn Feed Blocker",
-    "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 4 # Comments: 0",
-    "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T16:49:07+00:00",
-    "fetched": "2026-08-08T17:34:44+00:00",
-    "image": "https://opengraph.githubassets.com/b3e3ec263f037a9d8f50008eea173d0a2b25e15e27e8f75e442666f69fe3acba/andrewpollack/linkedin-feed-blocker"
-  },
-  {
-    "id": "df3bfa5c3756c70c",
-    "title": "У Броварах 13-річну дівчинку вдарило струмом на залізничному вокзалі",
-    "summary": "Також постраждала і її подруга, обох госпіталізували.",
-    "url": "https://lb.ua/society/2026/08/08/757684_brovarah_13-richnu_divchinku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T16:46:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://i.lb.ua/news/084/37/6a775d6211b1c.jpg"
-  },
-  {
-    "id": "fc300ea8e0d0dc1f",
-    "title": "ЗМІ: Туреччина обмежила рух комерційних суден до Чорного моря через атаки дронів",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047912/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T16:38:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/f/1/f1a0c79-images.jpg"
-  },
-  {
-    "id": "39e46969fb656d9a",
-    "title": "Закарпатський обласний ТЦК перевіряє порушення у Берегівському РТЦК після візиту представника омбудсмана",
-    "summary": "Махінації з відстрочками і погані умови для мобілізованих виявили під час моніторингового візиту.",
-    "url": "https://lb.ua/society/2026/08/08/757682_zakarpatskiy_oblasniy_ttsk.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T16:34:00+00:00",
-    "fetched": "2026-08-08T16:38:29+00:00",
-    "image": "https://i.lb.ua/news/047/10/6a775ac247dd6.jpg"
-  },
-  {
-    "id": "7507091289f324dd",
-    "title": "У Броварах дівчинка намагалася залізти на потяг: її стан вкрай важкий",
-    "summary": "У Броварах Київської області 13-річна дівчинка постраждала від ураження струмом після спроби залізти на нерухомий потяг, її стан вкрай важкий.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047911/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T16:33:00+00:00",
-    "fetched": "2026-08-08T16:38:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/f/888807/ff1f5044283d04a46a005c6d71b7452d.jpeg?w=1200&q=85&stamp=1786207047"
   }
 ]
