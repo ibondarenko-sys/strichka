@@ -1,5 +1,29 @@
 [
   {
+    "id": "4fbe83bc18e2e729",
+    "title": "Удар по ТРЦ Кривого Рогу: директор супермаркету отримав підозру через роботу під час тривоги",
+    "summary": "Директор супермаркету у Кривому Розі підозрюється у недбалості після трагедії 21 серпня: 16 загиблих, 130 постраждалих.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049873/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T19:36:00+00:00",
+    "fetched": "2026-08-22T19:47:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/0/897028/e01cfb00aa95981569940fa58831f30f.jpeg"
+  },
+  {
+    "id": "642dc4e541a3719f",
+    "title": "На Сумщині двоє людей загинули через вибухонебезпечні предмети",
+    "summary": "Мешканців прикордоння закликали до евакуації через загрозу.",
+    "url": "https://lb.ua/society/2026/08/22/760864_sumschini_dvoie_lyudey_zaginuli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T19:30:00+00:00",
+    "fetched": "2026-08-22T19:47:41+00:00",
+    "image": "https://i.lb.ua/news/010/34/6a89f89694743.jpg"
+  },
+  {
     "id": "05d38366be95d578",
     "title": "Федоров розповів, чим займатиметься далі: венчурний фонд, Think tank, викладання",
     "summary": "Колишній міністр оборони Михайло Федоров після звільнення з уряду планує займатися венчурним фондом для залучення інвестицій в українські стартапи у сфері оборони, аналітичним центром, який він називає Think tank, громадською діяльністю щодо \"повернення до демократії\", а також…",
@@ -22,6 +46,18 @@
     "published": "2026-08-22T19:18:00+00:00",
     "fetched": "2026-08-22T19:25:38+00:00",
     "image": "https://i.lb.ua/news/101/26/6a89f5f72f22b.jpg"
+  },
+  {
+    "id": "16ad473b7deba76e",
+    "title": "NetBSD and My Life (2005)",
+    "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 9 # Comments: 0",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T19:07:46+00:00",
+    "fetched": "2026-08-22T19:47:41+00:00",
+    "image": null
   },
   {
     "id": "2a6060ec93e95c83",
@@ -2626,6 +2662,18 @@
     "published": "2026-08-21T19:12:00+00:00",
     "fetched": "2026-08-21T19:28:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/896611/a23d8f59244cf7972a9184cc8dec3bab.jpeg"
+  },
+  {
+    "id": "9a37e0ec9488c643",
+    "title": "One night in Uzbekistan: Why was this one data point so influential?",
+    "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=49392536 Points: 16 # Comments: 2",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-21T19:05:50+00:00",
+    "fetched": "2026-08-22T19:47:41+00:00",
+    "image": null
   },
   {
     "id": "f893c7a8a540ade2",
@@ -51406,53 +51454,5 @@
     "published": "2026-08-08T19:51:00+00:00",
     "fetched": "2026-08-08T20:35:01+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/888924/0f07c1d14fd153423b66b58b0ac32ccb.jpeg"
-  },
-  {
-    "id": "6a67684dff0e9e0d",
-    "title": "​Внаслідок ворожого обстрілу на Миколаївщині пошкоджена АЗС",
-    "summary": "Під час атаки поранено 48-річного чоловіка.",
-    "url": "https://lb.ua/society/2026/08/08/757708_vnaslidok_vorozhogo_obstrilu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:40:00+00:00",
-    "fetched": "2026-08-08T20:35:02+00:00",
-    "image": "https://i.lb.ua/news/094/24/6a77861aaaf90.jpg"
-  },
-  {
-    "id": "5357c5f9e25d3c38",
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points:…",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T19:38:08+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://eclipsefan.org/img/og/og-en.jpg"
-  },
-  {
-    "id": "4d8ff60e697cf722",
-    "title": "Росіяни вдарили по Павлограду: 9 постраждалих, з них 4 дітей",
-    "summary": "Росіяни атакували Павлоград, постраждали 9 людей, з них 4 дітей. Двоє дорослих госпіталізовані, одна жінка у важкому стані.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047924/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:30:00+00:00",
-    "fetched": "2026-08-08T20:35:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/888921/728b8ebf8dac021be0df3f616af9d80c.jpeg"
-  },
-  {
-    "id": "cc49d80da5e1eeaf",
-    "title": "Венс заявив про прогрес у переговорах з Іраном",
-    "summary": "Віцепрезидент США зазначив, що Вашингтон використовує цілий «комплекс інструментів».",
-    "url": "https://lb.ua/world/2026/08/08/757704_vens_zayaviv_pro_progres.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:26:00+00:00",
-    "fetched": "2026-08-08T19:33:41+00:00",
-    "image": "https://i.lb.ua/news/068/43/6a778306da454.jpg"
   }
 ]
