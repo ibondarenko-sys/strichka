@@ -1,5 +1,41 @@
 [
   {
+    "id": "715c4c2a3f90e999",
+    "title": "Генштаб: Сили оборони уразили резервуари з паливно-мастильними матеріалами Єйського нафтоналивного комплексу",
+    "summary": "Пропускна спроможність вантажних терміналів порту становить близько 6,8 млн тонн вантажів на рік.",
+    "url": "https://lb.ua/society/2026/08/22/760796_genshtab_sili_oboroni_urazili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T11:12:00+00:00",
+    "fetched": "2026-08-22T11:24:25+00:00",
+    "image": "https://i.lb.ua/news/063/20/6a898436eca6e.jpg"
+  },
+  {
+    "id": "fbc9c8eaf963fb3f",
+    "title": "​Польща зміцнює оборону і зможе замінувати східний і північний кордон за 48 годин",
+    "summary": "Загальний бюджет проєкту «Східний щит» становить 10 мільярдів злотих, фінансують програму частково ЄС і НАТО.",
+    "url": "https://lb.ua/world/2026/08/22/760794_polscha_zmitsnyuie_oboronu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T11:04:00+00:00",
+    "fetched": "2026-08-22T11:24:25+00:00",
+    "image": "https://i.lb.ua/news/066/49/6a89823d16937.jpg"
+  },
+  {
+    "id": "03686da9e00474a4",
+    "title": "Вбивство військового ТЦК у Львові: нападник двічі вдарив ножем у шию, йому оголосили підозру",
+    "summary": "25-річного львів'янина підозрюють у вбивстві військовослужбовця ТЦК під час перевірки документів.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049820/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T10:58:00+00:00",
+    "fetched": "2026-08-22T11:24:25+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/c/896815/dcbe4503f6d3f91ebd6733155033936b.jpeg"
+  },
+  {
     "id": "442189afe7f12939",
     "title": "Під час візиту до Києва Вадефуль анонсував 50 млн євро на гуманітарну допомогу та 10 млн до фонду КАП НАТО",
     "summary": "Міністр України та Німеччини обговорили санкції щодо РФ, безпекову ситуацію в Чорному морі тощо.",
@@ -94,6 +130,18 @@
     "published": "2026-08-22T09:49:57+00:00",
     "fetched": "2026-08-22T10:52:44+00:00",
     "image": null
+  },
+  {
+    "id": "93b991f0f95efab1",
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "summary": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 6 # Comments: 0",
+    "url": "https://munderdiffl.in/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T09:49:14+00:00",
+    "fetched": "2026-08-22T11:24:29+00:00",
+    "image": "https://munderdiffl.in/media/og.png"
   },
   {
     "id": "25aac36d0074978e",
@@ -51502,125 +51550,5 @@
     "published": "2026-08-08T11:29:00+00:00",
     "fetched": "2026-08-08T11:55:21+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888633/a3c4d3bc07ae89a2ef7c8f23fad9d91b.jpeg"
-  },
-  {
-    "id": "c847d9bdf7944837",
-    "title": "ЄС додатково спрямував €30 млн до Фонду підтримки енергетики України",
-    "summary": "Загальний внесок ЄС до Фонду сягнув 279 млн євро.",
-    "url": "https://lb.ua/economics/2026/08/08/757626_ies_dodatkovo_spryamuvav_30_mln.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:20:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/100/54/6a77110c2373f.jpg"
-  },
-  {
-    "id": "2fde58d9ac2eb4f4",
-    "title": "У Запорізькому районі енергетики відновили електропостачання, втрачене після обстрілів",
-    "summary": "Були знеструмлені два населені пункти.",
-    "url": "https://lb.ua/society/2026/08/08/757622_zaporizkomu_rayoni_energetiki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:16:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/028/39/6a7710450542d.jpg"
-  },
-  {
-    "id": "f927c11dd56418e6",
-    "title": "Зеленський: зі США є угода про щомісячні постачання антибалістики, але їх недостатньо. Цього року обсяги знизилися",
-    "summary": "Пошук додаткових ракет триває.",
-    "url": "https://lb.ua/society/2026/08/08/757624_zelenskiy_zi_ssha_ie_ugoda_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:10:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/025/61/6a770ec5711c1.jpg"
-  },
-  {
-    "id": "3ce57b9e709cdf0a",
-    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T11:05:50+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg"
-  },
-  {
-    "id": "6c21cff12665d130",
-    "title": "Bloomberg: Пентагон витратить щонайменше $400 млн на лазерні системи для боротьби з дронами",
-    "summary": "Пентагон планує придбати для армії США лазерні системи протидії БпЛА.",
-    "url": "https://lb.ua/world/2026/08/08/757620_bloomberg_pentagon_vitratit.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:05:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://i.lb.ua/news/058/02/6a770d69e8a83.jpg"
-  },
-  {
-    "id": "45bdf324b269206a",
-    "title": "Вучич пообіцяв підтримку Україні на шляху до ЄС",
-    "summary": "Президент Сербії Вучич запевнив у підтримці України на шляху до ЄС та побажав швидкого відкриття всіх переговорних кластерів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047877/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:05:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/d/888632/cd51ef8f04cb58de7217c2a916960251.jpeg"
-  },
-  {
-    "id": "2f1ec7180cfd82f2",
-    "title": "У Латвії посилили охорону на об’єктах критичної інфраструктури",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047876/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T11:00:00+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/3/b/3b01b89-73710ebb-e8ee-4dbb-b060-0846daa09972.jpg"
-  },
-  {
-    "id": "3f6535797a1a4791",
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49220609 Points: 4 # Comments: 0",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T10:57:44+00:00",
-    "fetched": "2026-08-08T11:55:21+00:00",
-    "image": "https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg"
-  },
-  {
-    "id": "f21def6e6aad459c",
-    "title": "Зеленський: за 24 години Росія вбила в Україні 13 цивільних людей",
-    "summary": "Знову постраждала цивільна інфраструктура.",
-    "url": "https://lb.ua/society/2026/08/08/757618_zelenskiy_24_godini_rosiya_vbila.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T10:56:00+00:00",
-    "fetched": "2026-08-08T11:01:53+00:00",
-    "image": "https://i.lb.ua/news/021/00/6a770b48a7ae6.jpg"
-  },
-  {
-    "id": "f40e8a19a4c92f39",
-    "title": "​Експрем’єр Франції Атталь подав скаргу на російське втручання у вибори президента",
-    "summary": "Адвокати політика повідомили, що скарга стосується маніпуляцій інформацією і створення фейкового контенту.",
-    "url": "https://lb.ua/world/2026/08/08/757612_ekspremier_frantsiyi_attal_podav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T10:55:00+00:00",
-    "fetched": "2026-08-08T11:01:53+00:00",
-    "image": "https://i.lb.ua/news/124/33/6a770b309167e.jpg"
   }
 ]
