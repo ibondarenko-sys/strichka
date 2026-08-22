@@ -1,5 +1,17 @@
 [
   {
+    "id": "b79730d3866618f8",
+    "title": "Масштабні лісові пожежі в Сербії: ЄС направив гелікоптери та пожежників",
+    "summary": "Вогонь вже знищив тисячі гектарів лісу.",
+    "url": "https://lb.ua/world/2026/08/22/760874_masshtabni_lisovi_pozhezhi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T20:45:00+00:00",
+    "fetched": "2026-08-22T20:51:49+00:00",
+    "image": "https://i.lb.ua/news/056/20/6a8a0a2133874.jpg"
+  },
+  {
     "id": "580941d4d506e6cd",
     "title": "Росія протягом дня неодноразово атакувала Сумщину: виникли пожежі",
     "summary": "Через обстріли горіли склади, приватні будинки, а також об’єкти інфраструктури.",
@@ -10,6 +22,18 @@
     "published": "2026-08-22T20:22:00+00:00",
     "fetched": "2026-08-22T20:27:23+00:00",
     "image": "https://i.lb.ua/news/105/53/6a8a03df490fb.jpg"
+  },
+  {
+    "id": "d480978d65d94265",
+    "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+    "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 4 # Comments: 0",
+    "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T20:21:14+00:00",
+    "fetched": "2026-08-22T20:51:49+00:00",
+    "image": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/08/Knowing-when-to-stop_-the-art-of-making-a-loop-converge-LI-Yoast.png"
   },
   {
     "id": "ead5d9673ec5ffca",
@@ -48,6 +72,18 @@
     "image": "https://i.lb.ua/news/015/61/6a8a000c738e0.jpg"
   },
   {
+    "id": "376a3bbfb6c1c326",
+    "title": "Fast and Hard Code",
+    "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 3 # Comments: 0",
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T19:56:38+00:00",
+    "fetched": "2026-08-22T20:51:49+00:00",
+    "image": "https://lucumr.pocoo.org/social/2026-08-22-fast-hard-code-social.png"
+  },
+  {
     "id": "3b98b46b0528021c",
     "title": "Росія атакувала Миколаїв дроном \"Шахед\": поранений чоловік",
     "summary": "Постраждалого доправили до лікарні, він отримує необхідну медичну допомогу.",
@@ -82,6 +118,18 @@
     "published": "2026-08-22T19:30:00+00:00",
     "fetched": "2026-08-22T19:47:41+00:00",
     "image": "https://i.lb.ua/news/010/34/6a89f89694743.jpg"
+  },
+  {
+    "id": "76700ba48ffb99c4",
+    "title": "English ↔ Claudish Translator",
+    "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 7 # Comments: 7",
+    "url": "https://programasweights.com/claudish",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T19:19:15+00:00",
+    "fetched": "2026-08-22T20:51:49+00:00",
+    "image": "https://programasweights.com/claudish/og.png"
   },
   {
     "id": "05d38366be95d578",
@@ -51418,41 +51466,5 @@
     "published": "2026-08-08T20:54:00+00:00",
     "fetched": "2026-08-08T21:34:22+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/888954/54f51d9b625d8db1e2d3beb0d97a1002.jpeg"
-  },
-  {
-    "id": "eead81b19b1db2dd",
-    "title": "В МВС Іспанії уточнили, що вибірково перевіряють пасажирів, які прибувають з Італії",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047929/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:44:00+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/e/e/ee2d435-8abarkzz.jpg"
-  },
-  {
-    "id": "5e038d254b594ae9",
-    "title": "Туреччина запропонувала Росії та Україні мораторій на атаки в Чорному морі",
-    "summary": "Офіційна Анкара вже передала свою пропозицію Москві.",
-    "url": "https://lb.ua/world/2026/08/08/757716_turechchina_zaproponuvala_rosiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:43:00+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://i.lb.ua/news/112/56/6a77950e4bef7.jpg"
-  },
-  {
-    "id": "b48c036bf1617f17",
-    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
-    "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 10 # Comments: 1",
-    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T20:37:24+00:00",
-    "fetched": "2026-08-08T22:33:55+00:00",
-    "image": null
   }
 ]
