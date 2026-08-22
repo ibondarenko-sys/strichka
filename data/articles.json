@@ -1,5 +1,77 @@
 [
   {
+    "id": "7daebadb07b9a738",
+    "title": "​Росія атакувала газовидобувний об’єкт ДТЕК на Полтавщині",
+    "summary": "Робота об'єкта після удару зупинена.",
+    "url": "https://lb.ua/society/2026/08/22/760850_rosiya_atakuvala_gazovidobuvniy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:14:00+00:00",
+    "fetched": "2026-08-22T17:24:47+00:00",
+    "image": "https://i.lb.ua/news/108/05/6a89d8b991bdb.jpg"
+  },
+  {
+    "id": "a74fd846d1940780",
+    "title": "Федоров розповів, коли визначиться щодо участі у виборах",
+    "summary": "Федоров заявив, що не опонує політикам і визначиться з виборами після створення умов.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049866/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:12:00+00:00",
+    "fetched": "2026-08-22T17:24:46+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/1/896983/1129785b3731199d6a34b73080a44873.jpeg"
+  },
+  {
+    "id": "2e9ead934f454260",
+    "title": "У Києві 23-25 серпня обмежать рух через заходи за участю іноземних делегацій",
+    "summary": "Обмеження стосуватимуться центральної частини міста та деяких вулиць у кількох районах.",
+    "url": "https://lb.ua/kyiv/2026/08/22/760848_kiievi_23-25_serpnya_obmezhat.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T17:06:00+00:00",
+    "fetched": "2026-08-22T17:24:47+00:00",
+    "image": "https://i.lb.ua/news/062/20/6a89d70ea7572.jpg"
+  },
+  {
+    "id": "fd9af68cbf2ad6e6",
+    "title": "Doodle generative compositions in your browser with Musical Spirograph",
+    "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept.…",
+    "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T17:00:00+00:00",
+    "fetched": "2026-08-22T17:24:46+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "524958d33aa6b428",
+    "title": "US military newspaper editor voices censorship fears after being fired",
+    "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+    "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-22T16:57:19+00:00",
+    "fetched": "2026-08-22T17:24:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8464/live/2b4c9540-9e44-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
+    "id": "767712d07a894171",
+    "title": "Associated Press: пожежі в Європі почали підривати міни та бомби часів світових воєн",
+    "summary": "У деяких випадках старі боєприпаси вже детонували через високу температуру.",
+    "url": "https://lb.ua/world/2026/08/22/760844_associated_press_pozhezhi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T16:54:00+00:00",
+    "fetched": "2026-08-22T17:24:47+00:00",
+    "image": "https://i.lb.ua/news/123/06/6a89d4519b1f0.jpg"
+  },
+  {
     "id": "c6454ac416e7a35f",
     "title": "На війні загинув Software Development Engineer зі SQUAD Юрій Мацьків",
     "summary": "На війні загинув Software Development Engineer in Test зі SQUAD Юрій Мацьків. Він служив у Силах спеціальних операцій України. Про це повідомили в SQUAD. Юрій загинув 6 червня 2026 року на Харківщині під час бою з російськими військовими. Того дня йому виповнилося 30 років. До…",
@@ -60,6 +132,18 @@
     "image": "https://i.lb.ua/news/117/20/6a89cd59aaf93.jpg"
   },
   {
+    "id": "45f68b1865d16093",
+    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html Comments URL: https://news.ycombinator.com/item?id=49401229 Points: 12 # Comments: 6",
+    "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T16:23:09+00:00",
+    "fetched": "2026-08-22T17:24:46+00:00",
+    "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080"
+  },
+  {
     "id": "56fba158883216ba",
     "title": "Міноборони підтвердило знищення хабу Ozon у Самарської області РФ",
     "summary": "Сили оборони України уразили логістичний хаб Ozon у Самарській області РФ, компанія підтвердила атаку.",
@@ -82,6 +166,18 @@
     "published": "2026-08-22T16:13:00+00:00",
     "fetched": "2026-08-22T16:29:18+00:00",
     "image": "https://i.lb.ua/news/082/18/6a89cabb1a53c.jpg"
+  },
+  {
+    "id": "9ee6a2b973a08a30",
+    "title": "Learning about \"The Unix Time-Sharing System\"",
+    "summary": "Article URL: https://playtechnique.io/long/the-unix-time-sharing-system.html Comments URL: https://news.ycombinator.com/item?id=49401122 Points: 3 # Comments: 1",
+    "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T16:11:16+00:00",
+    "fetched": "2026-08-22T17:24:46+00:00",
+    "image": null
   },
   {
     "id": "2dece5907e5ce783",
@@ -118,6 +214,18 @@
     "published": "2026-08-22T15:47:00+00:00",
     "fetched": "2026-08-22T16:29:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/7/896959/17d70e7b9bd6849d062e3eac001ce2eb.jpeg"
+  },
+  {
+    "id": "31036c4caa6850da",
+    "title": "Wildfires across Europe detonate forgotten World War bombs",
+    "summary": "Article URL: https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html Comments URL: https://news.ycombinator.com/item?id=49400900 Points: 6 # Comments: 0",
+    "url": "https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T15:46:32+00:00",
+    "fetched": "2026-08-22T17:24:46+00:00",
+    "image": "https://static.independent.co.uk/2026/08/22/07/Europe_Wildfire_Ordnance_78_18.jpg?width=1200&height=800&crop=1200:800"
   },
   {
     "id": "f4c36d47d3ddcc6e",
@@ -51358,65 +51466,5 @@
     "published": "2026-08-08T17:27:52+00:00",
     "fetched": "2026-08-08T18:43:49+00:00",
     "image": "https://images.newrepublic.com/8f7acb5e8746b79f60cadd801a4b9b90be7df0e6.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
-  },
-  {
-    "id": "619b8e598d98b472",
-    "title": "Зеленський: Росіяни стягнули під Москву три кола ППО",
-    "summary": "Для створення такого потужного захисту Росії довелося стягнути системи з усієї великої території країни.",
-    "url": "https://lb.ua/society/2026/08/08/757690_zelenskiy_rosiyani_styagnuli_pid.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:24:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://i.lb.ua/news/092/16/6a776658a9952.jpg"
-  },
-  {
-    "id": "26ed47ac65db64a9",
-    "title": "Чоловік, що напав на українську пару в Кракові, здався поліції",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047915/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:16:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/e/b/ebb965a-1aqrp8s6n3hnirrkgegh84oe1s8b8b3q.jpg"
-  },
-  {
-    "id": "07f42fdf2b542e1b",
-    "title": "The Atlantic: Маск не погоджується розширити використання Starlink для ударів України по Росії",
-    "summary": "Мільярдер начебто наполягає, що «час укладати угоду».",
-    "url": "https://lb.ua/world/2026/08/08/757688_atlantic_mask_pogodzhuietsya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:14:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://i.lb.ua/news/061/27/6a7763bedaf04.jpg"
-  },
-  {
-    "id": "7b7e5039d0392556",
-    "title": "У Берегівському ТЦК чоловіків масово позбавляли законних відстрочок – Лубінець",
-    "summary": "Лубінець повідомив про незаконне утримання, ануляцію відстрочок і погані умови у Берегівському ТЦК.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047914/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T17:07:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/888816/25b447227c3c34c086f076af31a40739.jpeg"
-  },
-  {
-    "id": "f474166a5e3f1334",
-    "title": "ЄС додатково спрямував 30 млн євро на українську енергетику",
-    "summary": "Кошти надійдуть до Фонду підтримки енергетики України.",
-    "url": "https://lb.ua/economics/2026/08/08/757686_ies_dodatkovo_spryamuvav_30_mln.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T16:59:00+00:00",
-    "fetched": "2026-08-08T17:34:40+00:00",
-    "image": "https://i.lb.ua/news/117/12/6a77607d6178b.jpg"
   }
 ]
