@@ -1,5 +1,17 @@
 [
   {
+    "id": "543c93d7427d125d",
+    "title": "Головне за суботу, 22 серпня: балістика на Київщину, пожежа у Львові, майже 200 бойових зіткнень",
+    "summary": "Бойові дії на Донеччині, 197 бойових зіткнень, ворожі обстріли, наслідки удару по Кривому Рогу. Яким запам’ятається 1641-й день повномасштабної війни.",
+    "url": "https://lb.ua/society/2026/08/22/760876_golovne_subotu_22_serpnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T20:59:00+00:00",
+    "fetched": "2026-08-22T21:25:49+00:00",
+    "image": "https://i.lb.ua/news/006/46/6a8a12dde0794.jpg"
+  },
+  {
     "id": "b79730d3866618f8",
     "title": "Масштабні лісові пожежі в Сербії: ЄС направив гелікоптери та пожежників",
     "summary": "Вогонь вже знищив тисячі гектарів лісу.",
@@ -51406,65 +51418,5 @@
     "published": "2026-08-08T21:34:58+00:00",
     "fetched": "2026-08-08T22:33:55+00:00",
     "image": "https://nordictimes.com/wp-content/uploads/2025/10/Larry-Sanger55.jpg"
-  },
-  {
-    "id": "cf74cdee3f082e0c",
-    "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-    "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified…",
-    "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T21:15:12+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "08abf423441b3e14",
-    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-    "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 6 # Comments: 2",
-    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T21:07:10+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": null
-  },
-  {
-    "id": "841e9abdaf3331ac",
-    "title": "Росія блокує GPS у Балтійському морі через побоювання атак українських БпЛА, – Бескрестнов",
-    "summary": "Через це російські судна втрачають можливість орієнтуватись в морі, а морякам доводиться вигадувати, як протидіяти РЕБ.",
-    "url": "https://lb.ua/world/2026/08/09/757718_rosiya_blokuie_gps_baltiyskomu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T21:01:00+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://i.lb.ua/news/023/13/6a77992c827d0.jpg"
-  },
-  {
-    "id": "02f4a4b75243eb80",
-    "title": "Головне за суботу, 8 серпня: понад 140 бойових зіткнень, атаки на Дніпропетровщину, антибалістика для України",
-    "summary": "Бойові дії на Донеччині, 142 бойових зіткнення, ворожі обстріли, атака на рейсовий автобус у Нікополі. Яким запам’ятається 1627-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/08/08/757720_golovne_subotu_8_serpnya_ponad.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:58:00+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://i.lb.ua/news/064/47/6a779fc8a549a.jpg"
-  },
-  {
-    "id": "9794733ba564975e",
-    "title": "ЗАЕС двічі за день втрачала зовнішнє живлення – Енергоатом",
-    "summary": "Запорізька АЕС 8 серпня двічі залишалася без зовнішнього живлення та переходила на дизель-генератори.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047930/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:54:00+00:00",
-    "fetched": "2026-08-08T21:34:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/4/888954/54f51d9b625d8db1e2d3beb0d97a1002.jpeg"
   }
 ]
