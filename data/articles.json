@@ -1,5 +1,65 @@
 [
   {
+    "id": "580941d4d506e6cd",
+    "title": "Росія протягом дня неодноразово атакувала Сумщину: виникли пожежі",
+    "summary": "Через обстріли горіли склади, приватні будинки, а також об’єкти інфраструктури.",
+    "url": "https://lb.ua/society/2026/08/22/760872_rosiya_protyagom_dnya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T20:22:00+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://i.lb.ua/news/105/53/6a8a03df490fb.jpg"
+  },
+  {
+    "id": "ead5d9673ec5ffca",
+    "title": "Вілкул: Є дані розвідки про можливі удари по торгових центрах у прифронтових містах",
+    "summary": "Вілкул закликав жителів Кривого Рогу уникати великих ТЦ через загрозу нових ударів РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049876/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T20:17:00+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/2/897046/127040ce497d84b6f47701e0a7241e4a.jpeg"
+  },
+  {
+    "id": "015ea288bc292c1d",
+    "title": "На фронті майже 200 боїв, Костянтинівський напрямок став найгарячішим – Генштаб",
+    "summary": "Сили оборони відбили понад 190 атак росіян за день, найгарячіше – на Костянтинівському напрямку.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049875/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T20:08:00+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/897030/8d2f8093b35c5b5698823b83fb9f4818.jpeg"
+  },
+  {
+    "id": "a8df58a5929daaa4",
+    "title": "Ватикан планує збудувати сонячну електростанцію за 100 млн євро і стати енергетично самодостатнім",
+    "summary": "Проєкт можуть реалізувати за півтора – два роки.",
+    "url": "https://lb.ua/world/2026/08/22/760870_vatikan_planuie_zbuduvati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T20:02:00+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://i.lb.ua/news/015/61/6a8a000c738e0.jpg"
+  },
+  {
+    "id": "3b98b46b0528021c",
+    "title": "Росія атакувала Миколаїв дроном \"Шахед\": поранений чоловік",
+    "summary": "Постраждалого доправили до лікарні, він отримує необхідну медичну допомогу.",
+    "url": "https://lb.ua/society/2026/08/22/760868_rosiya_atakuvala_mikolayiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T19:46:00+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://i.lb.ua/news/043/08/6a89fcaf0732e.jpg"
+  },
+  {
     "id": "4fbe83bc18e2e729",
     "title": "Удар по ТРЦ Кривого Рогу: директор супермаркету отримав підозру через роботу під час тривоги",
     "summary": "Директор супермаркету у Кривому Розі підозрюється у недбалості після трагедії 21 серпня: 16 загиблих, 130 постраждалих.",
@@ -84,6 +144,18 @@
     "image": "https://i.lb.ua/news/107/05/6a89f205a17e6.jpg"
   },
   {
+    "id": "62532fadf510156e",
+    "title": "Show HN: Make your logo extra bright on HDR screens",
+    "summary": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them. I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social…",
+    "url": "https://www.soverybright.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T18:43:03+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://soverybright.com/og.png"
+  },
+  {
     "id": "777348a62fefe789",
     "title": "У Кривому Розі директору супермаркету оголосили про підозру після атаки РФ на торговий центр",
     "summary": "Супермаркет продовжував працювати під час оголошеної тривоги.",
@@ -130,6 +202,18 @@
     "published": "2026-08-22T18:17:00+00:00",
     "fetched": "2026-08-22T18:36:21+00:00",
     "image": "https://i.lb.ua/news/115/50/6a89e8a0ba09a.jpg"
+  },
+  {
+    "id": "c0f9d10986f58071",
+    "title": "Why your local LLM feels dumber than it is",
+    "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 9 # Comments: 0",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T18:14:16+00:00",
+    "fetched": "2026-08-22T20:27:23+00:00",
+    "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png"
   },
   {
     "id": "0cbbcd53f19cb6ca",
@@ -51370,89 +51454,5 @@
     "published": "2026-08-08T20:37:24+00:00",
     "fetched": "2026-08-08T22:33:55+00:00",
     "image": null
-  },
-  {
-    "id": "65fd6cb59c191f98",
-    "title": "У Дніпрі пролунали вибухи: працювали сили ППО",
-    "summary": "Повітряні сили ЗСУ повідомляли про ударні дрони в напрямку міста.",
-    "url": "https://lb.ua/society/2026/08/08/757714_dnipri_prolunali_vibuhi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:24:00+00:00",
-    "fetched": "2026-08-08T20:35:02+00:00",
-    "image": "https://i.lb.ua/news/074/15/6a7790712f82d.jpg"
-  },
-  {
-    "id": "aa95c4f563a060b6",
-    "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-    "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-    "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-08T20:18:28+00:00",
-    "fetched": "2026-08-08T20:35:01+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg"
-  },
-  {
-    "id": "58f63fc09c7fbb59",
-    "title": "Генштаб: На фронті 142 бої, найбільше на Покровському й Костянтинівському напрямках",
-    "summary": "Станом на 22:00 зафіксовано 142 бойових зіткнення на різних напрямках фронту — Генштаб ЗСУ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047928/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:15:00+00:00",
-    "fetched": "2026-08-08T20:35:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/7/888938/e7741e1e4bb7986216bfbb0efa50fa60.jpeg"
-  },
-  {
-    "id": "dc6f222fff206d96",
-    "title": "На Буковині зареєстрували землетрус",
-    "summary": "За класифікацією, цей землетрус належить до невідчутних.",
-    "url": "https://lb.ua/society/2026/08/08/757712_bukovini_zareiestruvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:09:00+00:00",
-    "fetched": "2026-08-08T20:35:02+00:00",
-    "image": "https://i.lb.ua/news/063/60/6a778cedc49e3.jpg"
-  },
-  {
-    "id": "8bc6e31d1939e636",
-    "title": "Росіяни скинули КАБ на Ізюм: 5 поранених",
-    "summary": "Внаслідок ворожої атаки КАБ поранено 5 жителів Ізюма, пошкоджено 4 будинки та 10 авто.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047927/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T20:05:00+00:00",
-    "fetched": "2026-08-08T20:35:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/888926/acc877d89eac94207b7285faa79879f2.jpeg"
-  },
-  {
-    "id": "49d5d06d42431479",
-    "title": "Запорізька АЕС двічі за день втрачала зовнішнє електроживлення",
-    "summary": "Потреби станції забезпечували дизель-генератори.",
-    "url": "https://lb.ua/society/2026/08/08/757710_zaporizka_aes_dvichi_den.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:52:00+00:00",
-    "fetched": "2026-08-08T20:35:02+00:00",
-    "image": "https://i.lb.ua/news/097/49/6a778917aca15.jpg"
-  },
-  {
-    "id": "149cae874dcc655a",
-    "title": "Зеленський: Путін планує неоголошену мобілізацію для тиску на Україну та Європу",
-    "summary": "Путін планує приховану мобілізацію і тиск на Україну та Європу — Зеленський в інтерв'ю телемарафону.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047925/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T19:51:00+00:00",
-    "fetched": "2026-08-08T20:35:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/888924/0f07c1d14fd153423b66b58b0ac32ccb.jpeg"
   }
 ]
