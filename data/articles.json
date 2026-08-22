@@ -1,5 +1,53 @@
 [
   {
+    "id": "bb04371055a11e5a",
+    "title": "Безпілотники атакували Новокуйбишевський НПЗ у Самарській області РФ",
+    "summary": "У Самарській області Росії після атаки безпілотників у ніч на 22 серпня спалахнула пожежа на території Новокуйбишевського нафтопереробного заводу.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049777/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T03:33:00+00:00",
+    "fetched": "2026-08-22T03:45:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/896662/5c27cb0a70ee1328a5ee7409bf11b454.jpeg"
+  },
+  {
+    "id": "cf642d3cf4be9b2b",
+    "title": "Сили оборони вперше уразили логістичний хаб Ozon у Росії: вирує масштабна пожежа",
+    "summary": "Сили оборони України у ніч на 22 серпня вперше завдали успішного удару по логістичному хабу маркетплейсу Ozon у місті Чапаєвськ Самарської області РФ, спричинивши масштабну пожежу на обʼєкті.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049776/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T03:14:00+00:00",
+    "fetched": "2026-08-22T03:45:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/896661/e2273cdaffcf39a66cd936606ea93c00.jpeg"
+  },
+  {
+    "id": "ba57632c420406eb",
+    "title": "США мають намір виплатити ООН $725 млн боргу – Reuters",
+    "summary": "Адміністрація президента США повідомила Конгрес про намір виплатити Організації Об'єднаних Націй 725 мільйонів доларів для часткового погашення багатомільярдного боргу країни.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049775/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T02:50:00+00:00",
+    "fetched": "2026-08-22T03:45:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/896660/747f4a10acb6672d86ff0460b4f18824.jpeg"
+  },
+  {
+    "id": "81ababf2be7401a2",
+    "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+    "summary": "Article URL: https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs Comments URL: https://news.ycombinator.com/item?id=49396086 Points: 6 # Comments: 0",
+    "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T02:37:30+00:00",
+    "fetched": "2026-08-22T03:45:34+00:00",
+    "image": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_1200,h_630,g_auto/dpr_auto/f_auto/q_auto:eco/v1/prehistoric-man_bixtxv?_a=BAVMn6E80"
+  },
+  {
     "id": "a9779297498a657a",
     "title": "Країна мертвих. Країна живих",
     "summary": "Протягом першого півріччя 2026 року в Україні народилися 73 292 дитини. За цей самий період в Україні померли 259 853 особи. Таким чином смертність перевищила народжуваність майже в чотири рази.",
@@ -51538,41 +51586,5 @@
     "published": "2026-08-08T03:55:00+00:00",
     "fetched": "2026-08-08T05:01:36+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/888536/73d4988b61ee1865e0c5a808902e3afb.jpeg"
-  },
-  {
-    "id": "a0b754e782a4c331",
-    "title": "Mythos social engineering AISI INC-2026-07-28-01",
-    "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 27 # Comments: 11",
-    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T03:41:56+00:00",
-    "fetched": "2026-08-08T05:01:42+00:00",
-    "image": "https://web.archive.org/web/20260731053721im_/https://opengraph.githubassets.com/c4cfaaf58841bcfc90a77f07078889128ca99f4f54e0597c9207f09fe0e27534/ancaferro/myNetwork/pull/3"
-  },
-  {
-    "id": "c4f0ca8e64d01e0b",
-    "title": "У Києві через російську атаку постраждали четверо осіб",
-    "summary": "Унаслідок нічного обстрілу Києва 8 серпня постраждали 4 людини. Триває ліквідація наслідків атаки.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047842/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T03:24:00+00:00",
-    "fetched": "2026-08-08T03:39:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/a/888533/8a301e9a77a65b5c9f54af92900fa604.jpeg"
-  },
-  {
-    "id": "e3ab2bbc74628524",
-    "title": "ВМС США перехопили 51 торгове судно після відновлення блокади Ірану",
-    "summary": "Американські ВМС з моменту відновлення блокади Ірану перехопили 51 торгове судно, повідомляє CENTCOM.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047841/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T02:55:00+00:00",
-    "fetched": "2026-08-08T03:39:22+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/888532/a30877b9874080c994a67eae8ae2e80f.jpeg"
   }
 ]
