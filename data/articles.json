@@ -1,5 +1,41 @@
 [
   {
+    "id": "442189afe7f12939",
+    "title": "Під час візиту до Києва Вадефуль анонсував 50 млн євро на гуманітарну допомогу та 10 млн до фонду КАП НАТО",
+    "summary": "Міністр України та Німеччини обговорили санкції щодо РФ, безпекову ситуацію в Чорному морі тощо.",
+    "url": "https://lb.ua/news/2026/08/22/760792_pid_chas_vizitu_kiieva_vadeful.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T10:37:00+00:00",
+    "fetched": "2026-08-22T10:52:43+00:00",
+    "image": "https://i.lb.ua/news/100/11/6a897beced522.jpg"
+  },
+  {
+    "id": "23a8f44670973ec7",
+    "title": "Після балістичної атаки удень в Бориспільському районі загинула людина",
+    "summary": "Російська атака у Бориспільському районі: загинув один, поранено п'ятьох, пошкоджено інфраструктуру.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049819/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T10:28:00+00:00",
+    "fetched": "2026-08-22T10:52:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/8/896805/b87e41ea4c7f757389a21b1eb8ea7da7.jpeg"
+  },
+  {
+    "id": "c4b6f54aa6e73b2f",
+    "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+    "summary": "Article URL: https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations Comments URL: https://news.ycombinator.com/item?id=49398304 Points: 5 # Comments: 0",
+    "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T10:26:09+00:00",
+    "fetched": "2026-08-22T10:52:44+00:00",
+    "image": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_Statement_EN.png"
+  },
+  {
     "id": "9d0660c699550282",
     "title": "У Запорізькому районі загинули двоє людей через удари РФ",
     "summary": "Поранені 15 осіб, зокрема двоє дітей.",
@@ -46,6 +82,18 @@
     "published": "2026-08-22T09:58:00+00:00",
     "fetched": "2026-08-22T10:28:02+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/f/c/fc17a40-186172-1-large.jpg"
+  },
+  {
+    "id": "9de8e8e603c4aa40",
+    "title": "Z80–The 1970s Microprocessor Still Alive",
+    "summary": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 4 # Comments: 1",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T09:49:57+00:00",
+    "fetched": "2026-08-22T10:52:44+00:00",
+    "image": null
   },
   {
     "id": "25aac36d0074978e",
@@ -51574,41 +51622,5 @@
     "published": "2026-08-08T10:55:00+00:00",
     "fetched": "2026-08-08T11:01:53+00:00",
     "image": "https://i.lb.ua/news/124/33/6a770b309167e.jpg"
-  },
-  {
-    "id": "8b41c680f75579ab",
-    "title": "У Росії суди можуть перейти до \"конвеєра\" готових вироків, – розвідка",
-    "summary": "Судова система РФ демонструє ознаки переходу до механічного відтворення готових судових рішень.",
-    "url": "https://lb.ua/world/2026/08/08/757616_rosiyi_sudi_mozhut_pereyti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T10:52:00+00:00",
-    "fetched": "2026-08-08T11:01:53+00:00",
-    "image": "https://i.lb.ua/news/051/10/6a770a6873252.jpg"
-  },
-  {
-    "id": "a9818ea5b122adf0",
-    "title": "Президент Сербії Вучич висловив підтримку територіальної цілісності України",
-    "summary": "Сербія зацікавлена в соняшниковому насінні, дитячому харчуванні і залізній руді з України.",
-    "url": "https://lb.ua/world/2026/08/08/757614_prezident_serbiyi_vuchich.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T10:49:00+00:00",
-    "fetched": "2026-08-08T11:01:53+00:00",
-    "image": "https://i.lb.ua/news/117/30/6a7709ac5ee13.jpg"
-  },
-  {
-    "id": "687b0393e17506d3",
-    "title": "Bloomberg: Україна погодилася не атакувати неросійські танкери та інфраструктуру для експорту казахстанської нафти",
-    "summary": "Домовленість була досягнута після зустрічі високопосадовців США з українським керівництвом.",
-    "url": "https://lb.ua/society/2026/08/08/757610_bloomberg_ukrayina_pogodilasya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T10:40:00+00:00",
-    "fetched": "2026-08-08T11:01:53+00:00",
-    "image": "https://i.lb.ua/news/028/43/6a7707d67f43e.jpg"
   }
 ]
