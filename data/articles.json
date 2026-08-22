@@ -1,5 +1,113 @@
 [
   {
+    "id": "b0db7243c1f5edf5",
+    "title": "На тимчасово окупованій Луганщині росіяни впроваджують радянський проєкт для дітей",
+    "summary": "Його використають для того, щоб мілітаризувати молодь і поширювати пропаганду.",
+    "url": "https://lb.ua/society/2026/08/22/760812_timchasovo_okupovaniy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:09:00+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://i.lb.ua/news/033/00/6a89adc48ada4.jpg"
+  },
+  {
+    "id": "33def8ade7cd8742",
+    "title": "Зеленський дві години говорив із Макроном: прискорення постачань і дипломатія",
+    "summary": "Зеленський провів майже 2-годинну розмову з Макроном щодо ППО та новітнього озброєння для України.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049850/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T14:04:00+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/d/896923/3dbd5b11f52cb3e2d210098a84a7dd2e.jpeg"
+  },
+  {
+    "id": "25064360685dc0a8",
+    "title": "Німеччина надасть додаткові 3 млн євро на підтримку українських ветеранів",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049849/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T13:53:00+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/1/9/19b81d2-edw.jpg"
+  },
+  {
+    "id": "9412087c37e455b2",
+    "title": "Президент домовився з Макроном про прискорення поставок новітнього французького обладнання і ракет",
+    "summary": "Французька сторона підтвердила готовність дати ліцензії на виробництво ракет.",
+    "url": "https://lb.ua/news/2026/08/22/760810_prezident_domovivsya_z_makronom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T13:50:00+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://i.lb.ua/news/016/20/6a89a93cbdab9.jpg"
+  },
+  {
+    "id": "347841731a2a6fa0",
+    "title": "Fourteen killed in strike on Myanmar monastery",
+    "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-22T13:48:06+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg"
+  },
+  {
+    "id": "a97a36243c17a8a6",
+    "title": "Українська Swarmer створила компанію разом з Еріком Прінсом, засновником ПВК Blackwater",
+    "summary": "Українська оборонна компанія Swarmer стала партнером-засновником Vectus Air Defense Systems — нової компанії під керівництвом Еріка Прінса . Це американський підприємець, засновник однієї з найбільших приватних військових компаній Blackwater, а також голова ради директорів…",
+    "url": "https://dou.ua/lenta/news/swarmer-and-vectus-air-defense-systems/",
+    "source": "DOU",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-22T13:45:59+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://s.dou.ua/storage-files/image_87389441821757593739661_opt.jpg"
+  },
+  {
+    "id": "fba86a0bcbd8c222",
+    "title": "Росіяни окупували місто біля Покровська й просунулися на Харківщині – DeepState",
+    "summary": "DeepState: Родинське під окупацією РФ, просування біля Артільного на Харківщині, ситуація станом на 22 серпня.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049848/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T13:45:00+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/896907/798a4b3140430c048052fff0d244b232.jpeg"
+  },
+  {
+    "id": "06a472da4e8d2d36",
+    "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+    "summary": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker…",
+    "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T13:41:01+00:00",
+    "fetched": "2026-08-22T14:25:48+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "2dad877b6cc6205e",
+    "title": "The New MCP Roadmap",
+    "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 9 # Comments: 5",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T13:31:34+00:00",
+    "fetched": "2026-08-22T14:25:49+00:00",
+    "image": "https://blog.modelcontextprotocol.io/og-image.png"
+  },
+  {
     "id": "f1c5b21c3d98563f",
     "title": "Зеленський і глава МЗС Німеччини обговорили роботу над угодою у форматі Drone Deal",
     "summary": "Також ішлося про посилення української ППО.",
@@ -10,6 +118,18 @@
     "published": "2026-08-22T13:29:00+00:00",
     "fetched": "2026-08-22T13:34:53+00:00",
     "image": "https://i.lb.ua/news/036/11/6a89a45a629d1.jpg"
+  },
+  {
+    "id": "b138d19e03e709ac",
+    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+    "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 43 # Comments: 5",
+    "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T13:24:06+00:00",
+    "fetched": "2026-08-22T14:25:49+00:00",
+    "image": null
   },
   {
     "id": "daefe9ab47da9718",
@@ -202,6 +322,18 @@
     "published": "2026-08-22T11:48:00+00:00",
     "fetched": "2026-08-22T12:47:43+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/3/896827/433234707847664285e32e53ecf96d08.jpeg"
+  },
+  {
+    "id": "7ab8729215cae95d",
+    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+    "summary": "Article URL: https://zaksa.zip/blog/formal-education-is-the-answer/ Comments URL: https://news.ycombinator.com/item?id=49398710 Points: 12 # Comments: 5",
+    "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T11:39:12+00:00",
+    "fetched": "2026-08-22T14:25:49+00:00",
+    "image": "https://zaksa.zip/images/share.png"
   },
   {
     "id": "64cda07705c270dc",
@@ -51370,113 +51502,5 @@
     "published": "2026-08-08T14:32:33+00:00",
     "fetched": "2026-08-08T18:43:49+00:00",
     "image": "https://cdn.writeas.net/img/w-sq-light.png"
-  },
-  {
-    "id": "a1865fd619ae9508",
-    "title": "В аеропорту Лейпцига встановили додатковий радар після інциденту з дроном",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047899/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T14:24:00+00:00",
-    "fetched": "2026-08-08T14:35:51+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/1/b/1b1fa68-lnajrxwvfn-v9-ax-w800h450.jpeg"
-  },
-  {
-    "id": "09a9a32db783f754",
-    "title": "Поблизу військової бази в Німеччині, де ремонтують Patriot, помітили невідомі дрони",
-    "summary": "Підземний склад зброї високого рівня безпеки в Мехерніху є ключовим елементом німецької військової логістики.",
-    "url": "https://lb.ua/world/2026/08/08/757656_poblizu_viyskovoyi_bazi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T14:17:00+00:00",
-    "fetched": "2026-08-08T14:35:52+00:00",
-    "image": "https://i.lb.ua/news/053/19/6a773b08ea7b0.jpg"
-  },
-  {
-    "id": "dd6ef5736f123dea",
-    "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
-    "summary": "Article URL: https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/ Comments URL: https://news.ycombinator.com/item?id=49221947 Points: 13 # Comments: 2",
-    "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T14:07:06+00:00",
-    "fetched": "2026-08-08T15:34:20+00:00",
-    "image": "https://media.wired.com/photos/6a761055f890ad2594b07002/191:100/w_1280,c_limit/Security_Companies%20Are%20Leaking%20Sensitive%20Data%20Due%20to%20Dumb%20Email%20Flaws_v1.jpg"
-  },
-  {
-    "id": "29705e033f6f1700",
-    "title": "Don't use your phone while you poop",
-    "summary": "Article URL: https://nate.spot/no-phone-while-poop/ Comments URL: https://news.ycombinator.com/item?id=49221939 Points: 84 # Comments: 90",
-    "url": "https://nate.spot/no-phone-while-poop/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T14:05:56+00:00",
-    "fetched": "2026-08-08T15:34:20+00:00",
-    "image": "https://nate.spot/static/og-image.png"
-  },
-  {
-    "id": "b0cc69c2019c23c9",
-    "title": "Gentoo bugzilla closed due AI bot scraper overload",
-    "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 9 # Comments: 0",
-    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T13:55:42+00:00",
-    "fetched": "2026-08-08T14:35:52+00:00",
-    "image": null
-  },
-  {
-    "id": "63e6a27e3eb979a0",
-    "title": "У Болгарії БпЛА вибухнув неподалік від великого газопроводу",
-    "summary": "Безпілотник вибухнув у Болгарії біля кордону з Румунією. Жертв і руйнувань немає, походження дрона встановлюється.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047895/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T13:53:00+00:00",
-    "fetched": "2026-08-08T14:35:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/888698/6da41cf8a177f83e360c128260a25c65.jpeg"
-  },
-  {
-    "id": "31e1a12c01d9c96c",
-    "title": "«Розумна» колонка від OpenAI може коштувати від $300 до $400 — Engadget",
-    "summary": "Наразі компанія розробляє портативний ШІ-пристрій без екрана з камерою, сенсорами та круглим корпусом.",
-    "url": "https://ain.ua/2026/08/07/rozumna-kolonka-z-chatgptmoze-kostuvati-vid-300-do-400/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-08T13:45:00+00:00",
-    "fetched": "2026-08-08T13:50:42+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-08-07/TxMpDP0a9kqfiKxoTHfYUvVyL2XdNx7DT9rsh6GQ.webp"
-  },
-  {
-    "id": "f9b969a6eb4a40a2",
-    "title": "Жителі ТОТ у Запорізькій області у відповідь на скарги отримали адмінпротоколи від поліції",
-    "summary": "Учасників відео звинувачують у тому, що вони нібито провели «несанкціонований мітинг».",
-    "url": "https://lb.ua/society/2026/08/08/757654_zhiteli_zaporizkiy_oblasti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T13:42:00+00:00",
-    "fetched": "2026-08-08T13:50:41+00:00",
-    "image": "https://i.lb.ua/news/012/00/6a773270ce3c6.jpg"
-  },
-  {
-    "id": "fab4b4a5f4570223",
-    "title": "Вучич: Не всі в Європі хочуть бачити в ЄС Україну і країни Західних Балкан",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047894/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T13:40:00+00:00",
-    "fetched": "2026-08-08T13:50:41+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/7/778aca6-----------.png"
   }
 ]
