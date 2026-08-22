@@ -300,6 +300,18 @@
     "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png"
   },
   {
+    "id": "5f827225d9c71e5d",
+    "title": "Thinking in Python by Bruce Eckel",
+    "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 16 # Comments: 1",
+    "url": "https://thinkinginpython.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T18:10:49+00:00",
+    "fetched": "2026-08-22T22:50:41+00:00",
+    "image": null
+  },
+  {
     "id": "0cbbcd53f19cb6ca",
     "title": "Scrap",
     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 25 # Comments: 1",
@@ -51346,65 +51358,5 @@
     "published": "2026-08-08T23:05:24+00:00",
     "fetched": "2026-08-09T02:04:05+00:00",
     "image": "https://www.andrewt.net/dithered-qr-codes/card.png"
-  },
-  {
-    "id": "4084d487325fc21d",
-    "title": "My server is a phone now",
-    "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 3 # Comments: 0",
-    "url": "https://seg6.space/posts/phone-server/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T22:49:23+00:00",
-    "fetched": "2026-08-08T23:33:02+00:00",
-    "image": "https://seg6.space/img/phone-server/system-dashboard.png"
-  },
-  {
-    "id": "db7cb1e96f327c9a",
-    "title": "У Херсоні через ворожий дрон постраждала 12-річна дитина",
-    "summary": "Внаслідок атаки російського безпілотника у Херсоні постраждала 12-річна дівчинка. Її госпіталізовано з травмами.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047933/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T22:48:00+00:00",
-    "fetched": "2026-08-08T23:32:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/888969/fc77268e2a14a6ce9855480f15292758.jpeg"
-  },
-  {
-    "id": "a25e28b10bed8df1",
-    "title": "Туреччина закликала оголосити мораторій на удари по суднах у Чорному морі",
-    "summary": "Туреччина пропонує Україні та Росії запровадити мораторій на атаки торговельних суден у Чорному морі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047932/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T22:38:00+00:00",
-    "fetched": "2026-08-08T23:32:58+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/888968/b6c404798f857cd4d661d408faffc5d5.jpeg"
-  },
-  {
-    "id": "ecc17e56f3718d78",
-    "title": "Should you stop cracking your knuckles?",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles Comments URL: https://news.ycombinator.com/item?id=49226563 Points: 9 # Comments: 2",
-    "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T22:36:25+00:00",
-    "fetched": "2026-08-09T02:04:05+00:00",
-    "image": "https://ychef.files.bbci.co.uk/624x351/p0p37czn.jpg"
-  },
-  {
-    "id": "7ef61f2efe25ab7b",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-    "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 41 # Comments: 7",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T22:32:50+00:00",
-    "fetched": "2026-08-09T02:04:05+00:00",
-    "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/d5a289aad251536cebddff8378b429f0.png"
   }
 ]
