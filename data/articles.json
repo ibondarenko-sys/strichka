@@ -1,5 +1,77 @@
 [
   {
+    "id": "2d0c693821aaf767",
+    "title": "У Херсоні після атаки російських дронів згорів торговий центр",
+    "summary": "У Херсоні російські безпілотники атакували торговий центр уночі 22 серпня — масштабна пожежа, об'єкт майже знищено.",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049797/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T07:26:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/e/896749/de98c6fde99515555dabf87a86323c3b.jpeg"
+  },
+  {
+    "id": "03c66ed1f3a504fa",
+    "title": "Скільки ракет у РФ, що таке \"Бандеролі\", російський Starlink та вкиклики для Хмари – про війну за тиждень",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049618/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T07:20:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/895823/8e4659437c1f92a3bdd038864fa30cc9.jpeg?w=1200&q=85&stamp=1787240522"
+  },
+  {
+    "id": "491ce2619995642a",
+    "title": "У Донецькій області росіяни вбили одну людину, і поранили сімох",
+    "summary": "Рятувальники ліквідували пожежі, спричинені обстрілами.",
+    "url": "https://lb.ua/society/2026/08/22/760760_donetskiy_oblasti_rosiyani_vbili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T07:18:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://i.lb.ua/news/083/10/6a894d39a6cf9.jpg"
+  },
+  {
+    "id": "43604572197ac178",
+    "title": "Українців попередили про шахрайську схему із фейковими листами від імені Кіберполіції",
+    "summary": "Аферисти залякують отримувачів і вимагають сплатити «штраф» криптою.",
+    "url": "https://lb.ua/society/2026/08/22/760758_ukrayintsiv_poperedili_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T07:04:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://i.lb.ua/news/042/53/6a894a16e568f.jpg"
+  },
+  {
+    "id": "d96a308c651e0a18",
+    "title": "В ЄС відреагували на удар РФ по Кривому Рогу",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/22/8049793/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T06:57:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/8/896717/282aebaa8d0ffe2bf605777723894b42.jpeg"
+  },
+  {
+    "id": "9f765926bb700d85",
+    "title": "Після атаки на Кривий Ріг у лікарнях залишається 61 людина. Троє дітей – у вкрай важкому стані",
+    "summary": "23 постраждалих перебувають у важкому стані.",
+    "url": "https://lb.ua/society/2026/08/22/760756_pislya_ataki_kriviy_rig.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T06:51:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://i.lb.ua/news/118/55/6a8946e9465a0.jpg"
+  },
+  {
     "id": "dbf2e148542612d0",
     "title": "Мелоні: Думала, з Трампом все буде простіше",
     "summary": "Джорджа Мелоні прокоментувала конфліктні стосунки з Дональдом Трампом та вказала на важливість єдності Заходу.",
@@ -21,6 +93,18 @@
     "lang": "uk",
     "published": "2026-08-22T06:39:00+00:00",
     "fetched": "2026-08-22T06:47:23+00:00",
+    "image": "https://i.lb.ua/news/056/07/6a89443036fbb.jpg"
+  },
+  {
+    "id": "0f657241ba413654",
+    "title": "На Одещині під ударами РФ була транспортна, промислова, енергетична інфраструктура (допонено)",
+    "summary": "Найбільше постраждав вокзал у Роздільній.",
+    "url": "https://lb.ua/society/2026/08/22/760754_odeschini_pid_udarami_rf_bula.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-22T06:39:00+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
     "image": "https://i.lb.ua/news/056/07/6a89443036fbb.jpg"
   },
   {
@@ -70,6 +154,18 @@
     "published": "2026-08-22T06:19:00+00:00",
     "fetched": "2026-08-22T06:47:23+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/2/896680/a2dca60bb558660f9dc292abc01c7679.jpeg"
+  },
+  {
+    "id": "cea9ec42ca125221",
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 24 # Comments: 3",
+    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T06:16:57+00:00",
+    "fetched": "2026-08-22T07:35:12+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg"
   },
   {
     "id": "ef2447c884a17c45",
@@ -334,6 +430,18 @@
     "published": "2026-08-22T03:55:00+00:00",
     "fetched": "2026-08-22T04:37:33+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/896663/15965dd27f89108c1756438064184751.jpeg"
+  },
+  {
+    "id": "424fbe8bb8d5f93b",
+    "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+    "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+    "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-22T03:43:26+00:00",
+    "fetched": "2026-08-22T07:35:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec0/live/e9fd5290-9d9f-11f1-b160-9b29341ab62f.jpg"
   },
   {
     "id": "bb04371055a11e5a",
@@ -51538,113 +51646,5 @@
     "published": "2026-08-08T07:44:00+00:00",
     "fetched": "2026-08-08T08:09:40+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/0/9/095c28f-17861236848620.png"
-  },
-  {
-    "id": "73607c8cf094f1e5",
-    "title": "Російський дрон влучив у локомотив поїзда Суми – Київ",
-    "summary": "Пасажирів евакуювали.",
-    "url": "https://lb.ua/society/2026/08/08/757578_rosiyskiy_dron_vluchiv_lokomotiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T07:33:00+00:00",
-    "fetched": "2026-08-08T08:09:40+00:00",
-    "image": "https://i.lb.ua/news/001/29/6a76d9195c68e.jpg"
-  },
-  {
-    "id": "ef3450eab8aa6117",
-    "title": "Україна пройшла рекордну серпневу спеку без відключень електроенергії, – Шмигаль",
-    "summary": "Українська енергосистема змогла уникнути дефіциту потужності.",
-    "url": "https://lb.ua/economics/2026/08/08/757576_ukrayina_proyshla_rekordnu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T07:24:00+00:00",
-    "fetched": "2026-08-08T07:30:05+00:00",
-    "image": "https://i.lb.ua/news/064/09/6a76d7db9c7aa.jpg"
-  },
-  {
-    "id": "90b0235ab7cf9a92",
-    "title": "Є лише 6 хвилин на знищення пускових установок: Як протидіяти російській балістиці",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047763/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T07:21:00+00:00",
-    "fetched": "2026-08-08T07:30:04+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/1/888117/11d840c36b003913b7f9eba92f0d5cd6.jpeg?w=1200&q=85&stamp=1786103405"
-  },
-  {
-    "id": "29901de5addece5b",
-    "title": "У Києві після російської атаки виявили тіло людини – КМВА",
-    "summary": "Під час ліквідації наслідків атаки на Київ 8 серпня рятувальники виявили тіло загиблого.",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047857/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T07:16:00+00:00",
-    "fetched": "2026-08-08T07:30:04+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/888563/cae720f8457a5b6f300004d7eb30707f.jpeg"
-  },
-  {
-    "id": "13c414162050729e",
-    "title": "США перехопили 51 торговельне судно в межах морської блокади Ірану",
-    "summary": "Американські військові здійснюють перевірку торговельного судноплавства біля іранського узбережжя.",
-    "url": "https://lb.ua/world/2026/08/08/757574_ssha_perehopili_51_torgovelne.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T07:11:00+00:00",
-    "fetched": "2026-08-08T07:30:05+00:00",
-    "image": "https://i.lb.ua/news/038/46/6a76d44881e06.jpg"
-  },
-  {
-    "id": "38cdf7f64fe6a5ac",
-    "title": "ЗМІ: У Німеччині фіксували дрони над базою, де ремонтують Patriot",
-    "summary": "У місті Мехерніх біля секретної бази Бундесверу виявили шість підозрілих польотів дронів – ведеться розслідування",
-    "url": "https://www.pravda.com.ua/news/2026/08/08/8047856/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T07:06:00+00:00",
-    "fetched": "2026-08-08T07:30:04+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/d/888556/4db32f3295ddd15c404c59df237bd628.jpeg"
-  },
-  {
-    "id": "176c3e66e0bf3d12",
-    "title": "Hardware backdoors in some x86 CPUs",
-    "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 16 # Comments: 1",
-    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T07:04:51+00:00",
-    "fetched": "2026-08-08T08:09:42+00:00",
-    "image": "https://opengraph.githubassets.com/abe1f76e6f23833af79e8f79a65ce65a18b92cd992d4d97c9d2aa4c9c63123e9/xoreaxeaxeax/rosenbridge"
-  },
-  {
-    "id": "bd777d85aa6de7af",
-    "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-    "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new…",
-    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-08T07:00:00+00:00",
-    "fetched": "2026-08-08T07:30:04+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "12a7a5f1d6f07955",
-    "title": "Армія РФ за минулу добу майже 70 разів обстріляла Сумщину: постраждали 19 людей, серед них дитина",
-    "summary": "У Сумській громаді через влучання ворожого дрона поранений 8-річний хлопчик.",
-    "url": "https://lb.ua/society/2026/08/08/757572_armiya_rf_minulu_dobu_mayzhe_70.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T06:50:00+00:00",
-    "fetched": "2026-08-08T07:30:05+00:00",
-    "image": "https://i.lb.ua/news/019/14/6a76d1ba5578e.jpg"
   }
 ]
