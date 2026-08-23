@@ -1,5 +1,65 @@
 [
   {
+    "id": "c8bd26d155ae8ce9",
+    "title": "До Києва прибув президент Литви",
+    "summary": "Президент Литви Науседа відвідав Київ для святкування Дня прапора та Дня незалежності України.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049905/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T07:29:00+00:00",
+    "fetched": "2026-08-23T07:36:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/8/897164/d885c53a69483aacd6e2a62bb96b5ede.jpeg"
+  },
+  {
+    "id": "a2289ddff2ced35f",
+    "title": "Запуск бренду без юридичних ризиків: що варто передбачити заздалегідь — колонка юристки",
+    "summary": "Юлія Єгорова, юристка у сфері інтелектуальної власності та патентна повірена України, у колонці для AIN розповідає, як мінімізувати юридичні ризики під час запуску бренду та що варто перевірити завчасно.",
+    "url": "https://ain.ua/2026/08/21/zapusk-brendu-bez-iuridicnix-rizikiv-kolonka/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-23T07:25:38+00:00",
+    "fetched": "2026-08-23T07:36:41+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-21/MacljCqQkbiIlVP4q26SulsUsaApG0upFDiLyuBk.webp"
+  },
+  {
+    "id": "b318396232cb97c2",
+    "title": "Прем'єри Естонії та Норвегії у Києві наголосили на підтримці України",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049904/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T07:11:00+00:00",
+    "fetched": "2026-08-23T07:36:40+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/c/4/c4778cc------.jpg"
+  },
+  {
+    "id": "c80f889ce8e411c9",
+    "title": "«Стоїмо з Україною в дні її національних свят і завжди». До Києва прибули лідери дружніх країн",
+    "summary": "Почесних гостей зустрів міністр закордонних справ Андрій Сибіга.",
+    "url": "https://lb.ua/world/2026/08/23/760894_stoyimo_z_ukrayinoyu_dni_yiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T07:07:00+00:00",
+    "fetched": "2026-08-23T07:36:40+00:00",
+    "image": "https://i.lb.ua/news/093/46/6a8a98a7b0b11.jpg"
+  },
+  {
+    "id": "f6036b1803e32acb",
+    "title": "Реактивний \"Шахед\" влучив у пасажирський поїзд на Одещині – УЗ",
+    "summary": "На Одещині дрон РФ влучив у локомотив поїзда Житомир–Одеса. Постраждалих немає, пасажирів вчасно евакуювали.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049902/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T06:52:00+00:00",
+    "fetched": "2026-08-23T07:36:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/897155/9a6325b893e8b132619d7a63b2c33294.jpeg"
+  },
+  {
     "id": "8fe550f10629f6ea",
     "title": "У Норвегії через страйк авіадиспетчерів скасували майже 150 рейсів",
     "summary": "",
@@ -10,6 +70,18 @@
     "published": "2026-08-23T06:44:00+00:00",
     "fetched": "2026-08-23T06:52:17+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/3/d/3d2e28c----------------.jpg"
+  },
+  {
+    "id": "7e8bbd7e442f899e",
+    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 35 # Comments: 10",
+    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T06:41:51+00:00",
+    "fetched": "2026-08-23T07:36:46+00:00",
+    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/router.jpg?w=1600&h=900&fit=crop"
   },
   {
     "id": "3d414cffb00d2fa9",
@@ -58,6 +130,18 @@
     "published": "2026-08-23T06:17:00+00:00",
     "fetched": "2026-08-23T06:52:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/897147/258e4b9b5afe6c949262b147ba26c443.jpeg"
+  },
+  {
+    "id": "525e0c69bb2a7ca8",
+    "title": "JIT Compiling Code in 5μs",
+    "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 18 # Comments: 0",
+    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T06:04:51+00:00",
+    "fetched": "2026-08-23T07:36:46+00:00",
+    "image": "https://malisper.me/wp-content/uploads/2026/08/pgrust-jit-featured-simple-1200x630-1.png"
   },
   {
     "id": "107b41e6a5dd4509",
@@ -51166,101 +51250,5 @@
     "published": "2026-08-09T07:39:00+00:00",
     "fetched": "2026-08-09T08:49:29+00:00",
     "image": "https://i.lb.ua/news/088/08/6a782ec0b3702.jpg"
-  },
-  {
-    "id": "14253bcfc1c0f1d5",
-    "title": "\"Мадяр\": СБС уразили С-400 у Геленджику, який напередодні бив ракетами по Україні",
-    "summary": "Сили безпілотних систем атакували ЗРК С-400 у Геленджику та ще чотири цілі ППО РФ у ніч на 9 серпня.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047954/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T07:35:00+00:00",
-    "fetched": "2026-08-09T08:49:29+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/a/889025/fad61d5ec301714a5972a1441a12ac10.jpeg"
-  },
-  {
-    "id": "9852789281fa0016",
-    "title": "На Одещині обмежили рух до окремих пунктів пропуску на кордоні з Молдовою через обстріли РФ",
-    "summary": "Рух до окремих пунктів пропуску на кордоні з Молдовою та від них у напрямку Одеси.",
-    "url": "https://lb.ua/society/2026/08/09/757752_odeschini_obmezhili_ruh_okremih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T07:26:00+00:00",
-    "fetched": "2026-08-09T07:34:03+00:00",
-    "image": "https://i.lb.ua/news/111/29/6a782962dd3c4.jpg"
-  },
-  {
-    "id": "c51f67cd2d12c258",
-    "title": "У Косові депутатка закидала прем’єра яйцями у залі парламенту",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047951/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T07:23:00+00:00",
-    "fetched": "2026-08-09T07:34:03+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/d/1/d182c6d---------------2026-08-09-093947.jpg"
-  },
-  {
-    "id": "373c3947f5b5b978",
-    "title": "There Are Magic Hexagons of Every Order",
-    "summary": "Article URL: https://gukov.dev/math/2026/08/02/new-magic-hexagons.html Comments URL: https://news.ycombinator.com/item?id=49229174 Points: 13 # Comments: 0",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T07:19:58+00:00",
-    "fetched": "2026-08-09T09:44:26+00:00",
-    "image": null
-  },
-  {
-    "id": "1489a5871cbdab8d",
-    "title": "На трасі \"Одеса – Рені\" обмежили рух через російські удари: немає проїзду до пунктів пропуску з Молдовою",
-    "summary": "Через російські атаки на Одещині частково обмежено рух на трасі Одеса – Рені, недоступні деякі пункти пропуску.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047952/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T07:16:00+00:00",
-    "fetched": "2026-08-09T07:34:03+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/889017/e1a13b255f7fb22740f0011c7c164517.jpeg"
-  },
-  {
-    "id": "2db5b1236a5f6131",
-    "title": "Медіа: Пентагон вимагає від оборонних компаній збільшити виробництво зброї",
-    "summary": "У листі до керівників оборонних підприємств зазначається, що компанії мають 21 день.",
-    "url": "https://lb.ua/world/2026/08/09/757750_media_pentagon_vimagaie_vid.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T07:11:00+00:00",
-    "fetched": "2026-08-09T07:34:03+00:00",
-    "image": "https://i.lb.ua/news/028/37/6a7826156b482.jpg"
-  },
-  {
-    "id": "5fc8e8059fd87976",
-    "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-    "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise frontrunner to lead the United Nations as its…",
-    "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T07:00:08+00:00",
-    "fetched": "2026-08-09T07:34:03+00:00",
-    "image": "https://i.guim.co.uk/img/media/cf6e5500a73b1c6d7beda2064a865f481d67eb3b/1333_0_6667_5334/master/6667.jpg?width=140&quality=85&auto=format&fit=max&s=ee3bb0b09606c2675caa9815550f3c78"
-  },
-  {
-    "id": "9a74394ac4b9d31b",
-    "title": "Спротив: Росіяни посилюють вербування мешканців ТОТ до лав ЗС РФ",
-    "summary": "Українцям на ТОТ обіцяють \"безпечну\" службу в підрозділах БпЛА.",
-    "url": "https://lb.ua/society/2026/08/09/757748_sprotiv_rosiyani_posilyuyut.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T07:00:00+00:00",
-    "fetched": "2026-08-09T07:34:03+00:00",
-    "image": "https://i.lb.ua/news/063/17/6a7823bd360b9.jpg"
   }
 ]
