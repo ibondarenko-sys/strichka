@@ -1,5 +1,17 @@
 [
   {
+    "id": "5ed3f9cdd736bca9",
+    "title": "Іранські хакери зупинили роботу електростанції у Великій Британії",
+    "summary": "Пов'язані з іранським режимом хакери внаслідок безпрецедентної кібератаки на чотири дні зупинили роботу електростанції у Великій Британії",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049884/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T03:18:00+00:00",
+    "fetched": "2026-08-23T04:09:51+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/897087/8d1bd4126b48151c99682e544a4b8089.jpeg"
+  },
+  {
     "id": "7877d01f969a8ebf",
     "title": "\"Хороші росіяни\", Чехія та українці за кордоном: що змінилося після 2022 року: \"Кляті питання\" з Іриною Ромалійською",
     "summary": "",
@@ -34,6 +46,18 @@
     "published": "2026-08-23T01:34:15+00:00",
     "fetched": "2026-08-23T01:41:23+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg"
+  },
+  {
+    "id": "6bd6b4d652fa1bec",
+    "title": "The Art and Beauty of Blade Runner",
+    "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 11 # Comments: 3",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T00:56:03+00:00",
+    "fetched": "2026-08-23T04:09:51+00:00",
+    "image": "https://nappertime.com/wp-content/uploads/2014/07/blade-runner-cityscape.jpg"
   },
   {
     "id": "81c3223dd2a2f258",
@@ -51238,65 +51262,5 @@
     "published": "2026-08-09T04:11:00+00:00",
     "fetched": "2026-08-09T05:13:37+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/a/888997/ba3dcb50ce2462b6e332c5060a6a96e0.jpeg"
-  },
-  {
-    "id": "7060f47147368729",
-    "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
-    "summary": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 13 # Comments: 1",
-    "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T04:03:59+00:00",
-    "fetched": "2026-08-09T05:13:45+00:00",
-    "image": "https://itsfoss.com/content/images/2026/08/illinois-age-verification-banner.png"
-  },
-  {
-    "id": "0ed1895424b8a0b4",
-    "title": "РФ вдарила ракетами по Одесі: пошкоджені будинки, інфраструктура, шестеро постраждалих",
-    "summary": "Росія завдала ракетного удару по Одесі вночі 9 серпня: 6 людей постраждали, пошкоджено будинки та автівки.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047938/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T03:50:00+00:00",
-    "fetched": "2026-08-09T03:59:24+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/b/888985/fb94eb7edec2a4dcd4dffcf2260c2579.jpeg"
-  },
-  {
-    "id": "575a5ef22c55f619",
-    "title": "Пентагон закликав оборонні компанії наростити виробництво озброєння на тлі дефіциту через війну з Іраном – WP",
-    "summary": "Пентагон закликав збільшити виробництво озброєнь через критичний дефіцит на тлі війни з Іраном.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047941/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T03:37:00+00:00",
-    "fetched": "2026-08-09T03:59:24+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/888984/86cb2a7f60f8d4dabdc8adbb306ee51a.jpeg"
-  },
-  {
-    "id": "bb938de13eaf0eec",
-    "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-    "summary": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 57 # Comments: 4",
-    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T03:26:00+00:00",
-    "fetched": "2026-08-09T05:13:45+00:00",
-    "image": "https://daringfireball.net/graphics/df-wide-card.png"
-  },
-  {
-    "id": "bf4b7fba6699652a",
-    "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-    "summary": "Article URL: https://marketnow.site/ Comments URL: https://news.ycombinator.com/item?id=49228086 Points: 4 # Comments: 0",
-    "url": "https://marketnow.site/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T03:13:01+00:00",
-    "fetched": "2026-08-09T06:09:21+00:00",
-    "image": "https://marketnow.site/og-image.png"
   }
 ]
