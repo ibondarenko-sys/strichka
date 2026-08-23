@@ -50974,41 +50974,5 @@
     "published": "2026-08-09T19:57:00+00:00",
     "fetched": "2026-08-09T20:37:32+00:00",
     "image": "https://i.lb.ua/news/057/06/6a78dbc4bced1.jpg"
-  },
-  {
-    "id": "733a83db1c9d6b7a",
-    "title": "The tragedy of the commons, AI edition",
-    "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 21 # Comments: 2",
-    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T19:43:52+00:00",
-    "fetched": "2026-08-09T21:37:01+00:00",
-    "image": null
-  },
-  {
-    "id": "53a79654f36f811e",
-    "title": "Two wheels, a few tradeoffs, and gas prices",
-    "summary": "Article URL: https://blog.raed.dev/posts/motocycle/ Comments URL: https://news.ycombinator.com/item?id=49234980 Points: 10 # Comments: 6",
-    "url": "https://blog.raed.dev/posts/motocycle/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T19:41:23+00:00",
-    "fetched": "2026-08-09T22:35:30+00:00",
-    "image": "https://blog.raed.dev/Two%20wheels,%20a%20few%20tradeoffs,%20and%20gas%20prices.png"
-  },
-  {
-    "id": "bca74f3b733c5fe6",
-    "title": "Сирія та Росія домовилися про долю російських військових баз",
-    "summary": "Сирія й Росія перетворять військові бази на навчальні центри, а цивільні об'єкти інтегрують до сирійської адміністрації.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8048007/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T19:37:00+00:00",
-    "fetched": "2026-08-09T20:37:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/889240/ac1ce8cae8edf9db4496efff67ba5cbe.jpeg"
   }
 ]
