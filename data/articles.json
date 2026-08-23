@@ -1,5 +1,53 @@
 [
   {
+    "id": "99777d5f295aff3d",
+    "title": "Сили безпілотних систем знищили 2 винищувачі та 8 радіолокаційних станцій у РФ та Криму",
+    "summary": "Підрозділи 1-го окремого центру СБС уразили винищувачі Су-33 і МіГ-29.",
+    "url": "https://lb.ua/society/2026/08/23/760938_sili_bezpilotnih_sistem.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:47:00+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://i.lb.ua/news/081/53/6a8add1195bac.jpg"
+  },
+  {
+    "id": "f44a364b3614c3bf",
+    "title": "Зеленський має кандидатуру на посаду посла в США",
+    "summary": "Президент України Володимир Зеленський повідомив про наявність кандидатури на посаду посла в США, але не розкрив її особу.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049930/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:38:00+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/b/897263/ab3e4e51bc6f33139ec22ead7487500b.jpeg"
+  },
+  {
+    "id": "4e19d7a8ea2e7a42",
+    "title": "Росіяни вбили 2 мешканців Донецької області і поранили 5",
+    "summary": "Армія окупанти атакувала область 35 разів за добу.",
+    "url": "https://lb.ua/society/2026/08/23/760936_rosiyani_vbili_2_meshkantsiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:26:00+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://i.lb.ua/news/123/46/6a8ad7c6ceb0a.jpg"
+  },
+  {
+    "id": "a47325d7e5fd8978",
+    "title": "На околицях Вільнюса розгорнули систему ППО NASAMS",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049929/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:24:00+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/4/7/47a5116-------.jpg"
+  },
+  {
     "id": "4741fb3fb1d27502",
     "title": "Унаслідок обстрілів РФ у Запорізькій області 3 людини загинули і 21 отримала поранення",
     "summary": "За добу надійшло 230 повідомлень про пошкодження житла, автомобілів та обʼєктів інфраструктури.",
@@ -22,6 +70,30 @@
     "published": "2026-08-23T11:08:00+00:00",
     "fetched": "2026-08-23T11:24:07+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/897233/36dbf2bae8a26d957aef1f0084c58ee1.jpeg"
+  },
+  {
+    "id": "3fb3f23fc839ca2c",
+    "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+    "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations…",
+    "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T11:00:16+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56"
+  },
+  {
+    "id": "b662a5612676d398",
+    "title": "'AI refuser' quit her dream job, and hopes others follow",
+    "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 10 # Comments: 3",
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T10:54:35+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1735%2C$y_682/t_crop_custom/q_86%2Cf_auto/8fc11ce2d27e6a21d211604709ab3b2ad15f7e9e"
   },
   {
     "id": "599bfe05431186ed",
@@ -237,6 +309,18 @@
     "lang": "en",
     "published": "2026-08-23T09:32:54+00:00",
     "fetched": "2026-08-23T10:28:25+00:00",
+    "image": null
+  },
+  {
+    "id": "59a17a6a341b70dc",
+    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+    "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 5 # Comments: 0",
+    "url": "https://skylens.yantraai.app/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T09:27:40+00:00",
+    "fetched": "2026-08-23T11:48:08+00:00",
     "image": null
   },
   {
@@ -51214,65 +51298,5 @@
     "published": "2026-08-09T11:50:00+00:00",
     "fetched": "2026-08-09T12:59:57+00:00",
     "image": "https://i.lb.ua/news/004/15/6a7868f67a774.jpg"
-  },
-  {
-    "id": "bd5f6c57f204d3f8",
-    "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-    "summary": "Article URL: https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model Comments URL: https://news.ycombinator.com/item?id=49230550 Points: 6 # Comments: 3",
-    "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T11:46:28+00:00",
-    "fetched": "2026-08-09T12:59:59+00:00",
-    "image": "https://blog.n.ichol.ai/api/og/post?og=eyJhdXRob3IiOiJOaWNob2xhaSUyME1pdGNoa28iLCJpc0RlZmF1bHRNb2RlRGFyayI6ZmFsc2UsInJlYWRUaW1lIjoxNiwiY29tbWVudHMiOjAsInJlYWN0aW9ucyI6MCwiZG9tYWluIjoiYmxvZy5uLmljaG9sLmFpIiwidGl0bGUiOiJQYWNrYWdpbmclMjBMYXRlbnQlMjBSZWFzb25pbmclMjBhcyUyMGElMjBSZWFsJTIwTW9kZWwiLCJwaG90byI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0swYlAxMm1qVWZOWGM5MDNhdlM1V1RhLVUwY3IycXN2eWJzRGUtTzNSd3l5QTZzZz1zOTYtYyIsImxvZ28iOm51bGwsImZhdmljb24iOm51bGwsInB1Ymxpc2hlZEF0IjoiMjAyNi0wOC0wNlQxMzozMDoxNS43OTJaIiwidXBkYXRlZEF0IjoiMjAyNi0wOC0wOVQxMTo1NjozMy45ODBaIn0="
-  },
-  {
-    "id": "c284b32e6ab3efc5",
-    "title": "CNN: Голова Об’єднаного комітету начальників штабів США закликав радників Трампа шукати вихід із війни з Іраном",
-    "summary": "Кейн раніше попереджав, що подальша ескалація бойових дій може мати для США нові негативні наслідки.",
-    "url": "https://lb.ua/world/2026/08/09/757806_cnn_golova_obiednanogo_komitetu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:41:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/025/24/6a786494cfb7e.jpg"
-  },
-  {
-    "id": "5497fec4f9249717",
-    "title": "Reviving a four year old reMarkable 2",
-    "summary": "Article URL: https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html Comments URL: https://news.ycombinator.com/item?id=49230514 Points: 17 # Comments: 7",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T11:39:25+00:00",
-    "fetched": "2026-08-09T12:59:59+00:00",
-    "image": null
-  },
-  {
-    "id": "cdc1c234721b2e50",
-    "title": "Everything You Do Is Being Recorded",
-    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/ Comments URL: https://news.ycombinator.com/item?id=49230477 Points: 44 # Comments: 22",
-    "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T11:30:48+00:00",
-    "fetched": "2026-08-09T12:59:59+00:00",
-    "image": "https://cdn.theatlantic.com/thumbor/a_6tjTSlGfhmNqMHD5cosV_-kVQ=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_15_Recording_arms_race_1/original.jpg"
-  },
-  {
-    "id": "37bbb66f00257549",
-    "title": "Пентагон закликав американський оборонпром прискорити темпи виробництва",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047969/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:29:00+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": null
   }
 ]
