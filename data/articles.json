@@ -1,5 +1,41 @@
 [
   {
+    "id": "599bfe05431186ed",
+    "title": "Український імпорт у 2025 році зріс до $84,8 млрд і перевищив довоєнний рівень",
+    "summary": "Зростання імпорту обумовлене обороною, енергетикою та відбудовою, водночас дефіцит зовнішньої торгівлі зріс до $51 млрд на тлі стриманих настроїв бізнесу.",
+    "url": "https://ain.ua/2026/08/21/ukrayinskii-import-u-2025-roci/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-23T10:50:00+00:00",
+    "fetched": "2026-08-23T10:53:06+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-21/K4D5NfftP4WxysRdi89Qkz9RnNTHN9EqobwzKD2e.webp"
+  },
+  {
+    "id": "b3609d4fee2619b3",
+    "title": "Росія атакувала реактивними дронами на Одещині потяг з майже 600 пасажирами",
+    "summary": "Окупанти завдали повторного удару по локації саме тоді, коли на місці вже працювали рятувальники.",
+    "url": "https://lb.ua/society/2026/08/23/760932_rosiya_atakuvala_reaktivnimi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T10:46:00+00:00",
+    "fetched": "2026-08-23T10:53:05+00:00",
+    "image": "https://i.lb.ua/news/059/50/6a8acf1768d8f.jpg"
+  },
+  {
+    "id": "3d670ff6398972e3",
+    "title": "Зеленський підписав закон про Український національний пантеон",
+    "summary": "Для попереднього розгляду пропозицій щодо перепоховання, встановлення кенотафів чи іншого вшанування пам'яті в Пантеоні створять постійну дорадчу раду.",
+    "url": "https://lb.ua/society/2026/08/23/760928_zelenskiy_pidpisav_zakon_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T10:28:00+00:00",
+    "fetched": "2026-08-23T10:53:05+00:00",
+    "image": "https://i.lb.ua/news/108/44/6a8acb5043b39.jpg"
+  },
+  {
     "id": "fd6be26cfa678be8",
     "title": "Сили оборони уразили РЛС, місце запуску та зберігання МБеК, склади і ремонтні підрозділи ворога",
     "summary": "Результативні middle-strike удари по ворожих об'єктах.",
@@ -51262,41 +51298,5 @@
     "published": "2026-08-09T11:00:14+00:00",
     "fetched": "2026-08-09T12:59:57+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1.jpeg"
-  },
-  {
-    "id": "d94efc0bc1f80445",
-    "title": "У Косові депутатка жбурнула яйця в прем’єр-міністра під час засідання парламенту, – ЗМІ",
-    "summary": "Засідання парламенту було зірвано.",
-    "url": "https://lb.ua/world/2026/08/09/757796_kosovi_deputatka_zhburnula.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T10:53:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://i.lb.ua/news/038/62/6a785bb3d9abe.jpg"
-  },
-  {
-    "id": "1e155de3145a0e62",
-    "title": "Reuters: Тайвань збільшить оборонний бюджет на 16% у 2027 році",
-    "summary": "Вперше оборонний бюджет острова перевищить 1 трлн тайванських доларів.",
-    "url": "https://lb.ua/world/2026/08/09/757790_reuters_tayvan_zbilshit.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T10:41:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://i.lb.ua/news/017/38/6a785629adad8.jpg"
-  },
-  {
-    "id": "7e4c3c861f989358",
-    "title": "Влада Франції повідомила про затримання понад 400 осіб через лісові пожежі",
-    "summary": "Уряд у Парижі опинився під критикою через непідготовленість до стихії, яка цього літа знищила понад 120 тисяч гектарів лісу.",
-    "url": "https://lb.ua/world/2026/08/09/757788_vlada_frantsiyi_povidomila_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T10:29:00+00:00",
-    "fetched": "2026-08-09T10:38:53+00:00",
-    "image": "https://i.lb.ua/news/034/56/6a7855bb04028.jpg"
   }
 ]
