@@ -1,5 +1,53 @@
 [
   {
+    "id": "91f9a2d4a4bb6e31",
+    "title": "Swedish sword attack victim was 17-year-old girl, police say",
+    "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+    "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T01:34:15+00:00",
+    "fetched": "2026-08-23T01:41:23+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg"
+  },
+  {
+    "id": "81c3223dd2a2f258",
+    "title": "Радбез ООН збереться у День Незалежності України для обговорення російської агресії",
+    "summary": "Рада Безпеки ООН проведе в понеділок, 24 серпня, засідання, присвячене продовженню повномасштабної війни Росії проти України.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049882/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T00:48:00+00:00",
+    "fetched": "2026-08-23T01:41:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/7/897079/67349dd0cc15139cf9ab412e88839b21.jpeg"
+  },
+  {
+    "id": "e65ee3debbce27ac",
+    "title": "US Military newspaper editor voices censorship fears after being fired",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o Comments URL: https://news.ycombinator.com/item?id=49405110 Points: 18 # Comments: 3",
+    "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T00:19:17+00:00",
+    "fetched": "2026-08-23T01:41:27+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg"
+  },
+  {
+    "id": "3453b801c0829eba",
+    "title": "Циклон \"Приска\" забрав життя двох людей у країнах Балтії та знеструмив понад мільйон осель",
+    "summary": "Циклон \"Приска\" зі шквальним вітром накрив Литву, Латвію, Польщу та Білорусь – унаслідок негоди загинули двоє людей, ще двоє зазнали травм, а понад мільйон споживачів залишилися без електропостачання.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049881/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T00:12:00+00:00",
+    "fetched": "2026-08-23T01:41:23+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/897069/8ed768fcb29412d97c64a25f502cf2fa.jpeg"
+  },
+  {
     "id": "7198c33906a76146",
     "title": "У Білорусі через циклон \"Приска\" стався масштабний блекаут",
     "summary": "У Білорусі циклон \"Приска\" із поривами вітру до 27 м/с спричинив масштабні пошкодження електромереж у понад 650 населених пунктах.",
@@ -46,6 +94,18 @@
     "published": "2026-08-22T21:50:00+00:00",
     "fetched": "2026-08-22T22:26:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/0/897047/a015e82e98765bb486df96afc9e77bb7.jpeg"
+  },
+  {
+    "id": "e31109fac92933ac",
+    "title": "Syria says Israeli strike near Damascus violation of international law",
+    "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+    "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-22T21:42:42+00:00",
+    "fetched": "2026-08-23T01:41:23+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg"
   },
   {
     "id": "543c93d7427d125d",
@@ -324,6 +384,18 @@
     "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png"
   },
   {
+    "id": "a0f751d893141d66",
+    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+    "summary": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 12 # Comments: 0",
+    "url": "https://marcua.net/minitools/figmimic/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T18:11:40+00:00",
+    "fetched": "2026-08-23T01:41:27+00:00",
+    "image": null
+  },
+  {
     "id": "5f827225d9c71e5d",
     "title": "Thinking in Python by Bruce Eckel",
     "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 16 # Comments: 1",
@@ -348,6 +420,18 @@
     "image": "https://pbs.twimg.com/profile_images/1904271714370158592/N1nB2x1O_200x200.jpg"
   },
   {
+    "id": "b0c261b5c2bf4109",
+    "title": "I set a trap for a book-marketing scammer (2025)",
+    "summary": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 4 # Comments: 3",
+    "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T18:08:25+00:00",
+    "fetched": "2026-08-23T01:41:27+00:00",
+    "image": null
+  },
+  {
     "id": "39ead69bb6e0f805",
     "title": "Федоров прокоментував майбутню поїздку до США й можливу зустріч із Маском",
     "summary": "Федоров заперечив зустріч із Трампом, але не виключає переговори з Ілоном Маском під час візиту до США.",
@@ -370,6 +454,18 @@
     "published": "2026-08-22T18:06:00+00:00",
     "fetched": "2026-08-22T18:36:21+00:00",
     "image": "https://i.lb.ua/news/022/42/6a89e5490db99.jpg"
+  },
+  {
+    "id": "54ac8f7e0f946b34",
+    "title": "Reading Maps – Journeys from fiction drawn on the real world",
+    "summary": "Article URL: https://readingmaps.com/ Comments URL: https://news.ycombinator.com/item?id=49402107 Points: 6 # Comments: 0",
+    "url": "https://readingmaps.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-22T17:59:09+00:00",
+    "fetched": "2026-08-23T01:41:27+00:00",
+    "image": "https://readingmaps.com/preview.jpeg"
   },
   {
     "id": "ef5ae1882c698773",
@@ -51250,101 +51346,5 @@
     "published": "2026-08-09T01:49:48+00:00",
     "fetched": "2026-08-09T05:13:45+00:00",
     "image": "https://substackcdn.com/image/fetch/$s_!5i4W!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp"
-  },
-  {
-    "id": "1da32b34006da17f",
-    "title": "The AI Apocalypse Is Here",
-    "summary": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 6 # Comments: 0",
-    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T01:28:36+00:00",
-    "fetched": "2026-08-09T02:04:05+00:00",
-    "image": "https://storage.ghost.io/c/65/af/65afbdb5-30bf-4286-acc4-9535069adb42/content/images/size/w1200/2026/07/IMG_3716--2-.jpg"
-  },
-  {
-    "id": "60482d15a975015b",
-    "title": "TheoremDB · A public workspace for machine mathematics",
-    "summary": "Article URL: https://theoremdb.org/ Comments URL: https://news.ycombinator.com/item?id=49227505 Points: 7 # Comments: 0",
-    "url": "https://theoremdb.org/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T01:23:36+00:00",
-    "fetched": "2026-08-09T03:59:24+00:00",
-    "image": "https://theoremdb.org/og.png?v=20260801-theoremdb-site"
-  },
-  {
-    "id": "db5694b8467d014e",
-    "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-    "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
-    "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T01:10:50+00:00",
-    "fetched": "2026-08-10T18:25:42+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/08a29290-927f-11f1-9985-cdf6a137096d.jpg"
-  },
-  {
-    "id": "ef46700b353fd67f",
-    "title": "Melatonin impairs morning cognition in healthy young adults",
-    "summary": "Article URL: https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621 Comments URL: https://news.ycombinator.com/item?id=49227365 Points: 22 # Comments: 3",
-    "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T00:59:58+00:00",
-    "fetched": "2026-08-09T05:13:45+00:00",
-    "image": null
-  },
-  {
-    "id": "cad7d7c0c42f3934",
-    "title": "Біля берегів Туреччини перехопили підводний безпілотник – ЗМІ",
-    "summary": "Підводний безпілотник знайшли біля Артвіна в Туреччині, екстрені служби на місці, подробиці з'ясовують.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047936/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T00:57:00+00:00",
-    "fetched": "2026-08-09T02:04:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/888972/86696dfa9d6db41fc5894c6f0c4caade.jpeg"
-  },
-  {
-    "id": "7358ec4fb804974c",
-    "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-    "summary": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
-    "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T00:15:28+00:00",
-    "fetched": "2026-08-09T05:13:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/4c1667b0-911a-11f1-9d85-c54b3ca88a18.jpg"
-  },
-  {
-    "id": "8e1ac2fcf6951de0",
-    "title": "Hundreds arrested over French wildfires, but who is to blame?",
-    "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-08T23:59:23+00:00",
-    "fetched": "2026-08-09T05:13:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "b488ab327095fe59",
-    "title": "Російський Бєлгород опинився під атакою дронів: лунали вибухи, спалахнули пожежі",
-    "summary": "У Бєлгороді внаслідок атаки безпілотників пошкоджено житлові будинки та університет, лунають вибухи.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047934/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-08T23:52:00+00:00",
-    "fetched": "2026-08-09T02:04:05+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/888970/04747a9b3a1b8e93cfc31a5c42fba436.jpeg"
   }
 ]
