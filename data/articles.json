@@ -1,5 +1,53 @@
 [
   {
+    "id": "d88ed0ae780162cd",
+    "title": "Україна й Норвегія підписали Drone Deal та декларацію про стратегічне партнерство",
+    "summary": "Зеленський і прем'єр Норвегії уклали стратегічне партнерство у сфері оборони та енергетики.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049969/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T18:19:00+00:00",
+    "fetched": "2026-08-23T18:35:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/897488/85ffa9bd7ea780d2d6481099d6a634c4.jpeg"
+  },
+  {
+    "id": "c3bfba41d6117e82",
+    "title": "Guinea rubbish landfill collapse kills 30",
+    "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+    "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T18:17:37+00:00",
+    "fetched": "2026-08-23T18:35:27+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg"
+  },
+  {
+    "id": "e4f7dfd60e0cec0b",
+    "title": "Хто такі \"хороші росіяни\" і чи варто з ними говорити?",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049903/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T17:55:00+00:00",
+    "fetched": "2026-08-23T18:35:27+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/c/896947/3c03d6e95e65a58b9bfa316cb32fa3b0.jpeg?w=1200&q=85&stamp=1787409000"
+  },
+  {
+    "id": "412f5034c0caecfb",
+    "title": "Росіяни сім разів атакували на Гуляйпільському та Оріхівському напрямках",
+    "summary": "Від початку доби окупанти завдали 10 авіаційних ударів.",
+    "url": "https://lb.ua/society/2026/08/23/760990_rosiyani_sim_raziv_atakuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T17:52:00+00:00",
+    "fetched": "2026-08-23T18:35:28+00:00",
+    "image": "https://i.lb.ua/news/073/40/6a8b34596c10a.jpg"
+  },
+  {
     "id": "f50672dbf59ee653",
     "title": "Прем'єр Естонії наразі не бачить прямої загрози розширення агресії РФ",
     "summary": "",
@@ -51046,77 +51094,5 @@
     "published": "2026-08-09T18:41:00+00:00",
     "fetched": "2026-08-09T18:48:07+00:00",
     "image": "https://i.lb.ua/news/032/23/6a78c9cfd7988.jpg"
-  },
-  {
-    "id": "c8e66c3fffe0a9e7",
-    "title": "На півдні Іспанії лісова пожежа охопила 8 тисяч гектарів: евакуювали майже 470 людей",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8048003/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T18:24:00+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/9/0/901f128-------.jpg"
-  },
-  {
-    "id": "ac4ca0da6ad28d3e",
-    "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-    "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires forced…",
-    "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T18:20:25+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://i.guim.co.uk/img/media/d430cbfd2ba568e638adef3c68e9dfd626c145a3/317_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=726a139367f12898d5cf4b0779a5ab70"
-  },
-  {
-    "id": "c5c2b27eacc367e0",
-    "title": "У Польщі пройшли акції «Не будь байдужим» проти нападів на українців",
-    "summary": "Акції пройшли зокрема у Варшаві, Кракові, Гданську, Познані, Вроцлаві, Катовіце, Жешуві, Любліні, Лодзі, Щецині, Білостоку та Кельцях.",
-    "url": "https://lb.ua/world/2026/08/09/757866_polschi_proyshli_aktsiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T18:19:00+00:00",
-    "fetched": "2026-08-09T19:37:02+00:00",
-    "image": "https://i.lb.ua/news/051/08/6a78d1d2b6a0f.jpg"
-  },
-  {
-    "id": "a611c47fee9b1df2",
-    "title": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
-    "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa province Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong…",
-    "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T18:13:57+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://i.guim.co.uk/img/media/3e8c6be8fd658a84e9988f87ef3012e3ac4d67ec/401_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c932cef553625465d51c20516ef83f91"
-  },
-  {
-    "id": "2f3f198be95e6da7",
-    "title": "У 22 містах Польщі відбулися акції проти нападів на українців",
-    "summary": "У неділю в 22 містах Польщі відбулися демонстрації на знак протесту проти зростаючого насильства щодо українців.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8048002/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T18:04:00+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/889195/2bae1d615ae883ecef40c189387331d7.jpeg"
-  },
-  {
-    "id": "904251bb36516d79",
-    "title": "Туреччина відновила пропуск суден до Чорного моря через протоки",
-    "summary": "Країна пропустила два танкери, що прямували до Новоросійська.",
-    "url": "https://lb.ua/world/2026/08/09/757864_turechchina_vidnovila_propusk.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T18:03:00+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://i.lb.ua/news/086/16/6a78c117468b0.jpg"
   }
 ]
