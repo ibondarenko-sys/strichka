@@ -1,5 +1,53 @@
 [
   {
+    "id": "a7148c7b1738dd40",
+    "title": "УІНП надав рекомендації щодо використання Державного прапора",
+    "summary": "Зокрема, при вивішуванні полотнище не має торкатися землі, підлоги та інших поверхонь.",
+    "url": "https://lb.ua/society/2026/08/23/760972_uinp_nadav_rekomendatsiyi_schodo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T15:18:00+00:00",
+    "fetched": "2026-08-23T15:26:39+00:00",
+    "image": "https://i.lb.ua/news/016/15/6a8b0dededd6a.jpg"
+  },
+  {
+    "id": "bbb315490b0f6aee",
+    "title": "Сибіга у День пам’яті жертв сталінізму та нацизму: політика умиротворення лише провокує більшу війну",
+    "summary": "Наслідки пакту Молотова-Ріббентропа для нашого регіону, Європи та світу були катастрофічними:",
+    "url": "https://lb.ua/society/2026/08/23/760970_sibiga_den_pamyati_zhertv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T15:06:00+00:00",
+    "fetched": "2026-08-23T15:26:39+00:00",
+    "image": "https://i.lb.ua/news/029/15/6a8b0bfe38310.jpg"
+  },
+  {
+    "id": "95e7989acecfc886",
+    "title": "France links rise in drownings to heatwaves",
+    "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T15:00:17+00:00",
+    "fetched": "2026-08-23T15:26:39+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg"
+  },
+  {
+    "id": "2eeae85dd49ff353",
+    "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+    "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in…",
+    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T15:00:00+00:00",
+    "fetched": "2026-08-23T15:26:39+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "9631520896349744",
     "title": "Зеленський і Стубб обговорили оборонну співпрацю",
     "summary": "Президенти взяли участь у засіданні круглого столу з питань українсько-фінського співробітництва у сфері оборонних індустрій.",
@@ -24,6 +72,30 @@
     "image": "https://i.lb.ua/news/016/06/6a8afe8c46c9c.jpg"
   },
   {
+    "id": "ce7bbfc736ab3cfe",
+    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+    "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T14:38:25+00:00",
+    "fetched": "2026-08-23T15:26:41+00:00",
+    "image": "https://risky.biz/static/img/RB-OG-Social.jpg"
+  },
+  {
+    "id": "15fbdafa718a1f37",
+    "title": "Authoritarianism of Code",
+    "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
+    "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T14:36:38+00:00",
+    "fetched": "2026-08-23T15:26:41+00:00",
+    "image": null
+  },
+  {
     "id": "52cae082b4feca4b",
     "title": "Казахстан обирає новий однопалатний парламент країни, перемогу прогнозують пропрезидентській партії",
     "summary": "Загалом висунути кандидатів до 145-місного парламенту дозволили семи державним партіям, тоді як справжні опозиційні політичні сили заборонили.",
@@ -34,6 +106,18 @@
     "published": "2026-08-23T14:34:00+00:00",
     "fetched": "2026-08-23T14:52:53+00:00",
     "image": "https://i.lb.ua/news/027/46/6a8b050a92522.jpg"
+  },
+  {
+    "id": "d41bba2863541495",
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T14:30:16+00:00",
+    "fetched": "2026-08-23T15:26:39+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg"
   },
   {
     "id": "38742ed6e1327460",
@@ -58,6 +142,18 @@
     "published": "2026-08-23T14:28:00+00:00",
     "fetched": "2026-08-23T14:52:53+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/897349/c1f281d064a3a8d7369d19153179cdbe.jpeg"
+  },
+  {
+    "id": "94efea681729da1d",
+    "title": "What Is a Harness?",
+    "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 21 # Comments: 7",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T14:24:21+00:00",
+    "fetched": "2026-08-23T15:26:41+00:00",
+    "image": "https://earendil.com/static/og/posts/what-is-a-harness.png"
   },
   {
     "id": "2b1a9b27c2e3a384",
@@ -51106,137 +51202,5 @@
     "published": "2026-08-09T15:26:45+00:00",
     "fetched": "2026-08-09T17:34:55+00:00",
     "image": null
-  },
-  {
-    "id": "dbf9548a1556ce64",
-    "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-    "summary": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
-    "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T15:25:50+00:00",
-    "fetched": "2026-08-09T15:36:16+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg"
-  },
-  {
-    "id": "8588e85d5a9245c1",
-    "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-    "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 11 # Comments: 1",
-    "url": "https://github.com/eighttrigrams/us-vs-them",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T15:25:29+00:00",
-    "fetched": "2026-08-09T17:34:55+00:00",
-    "image": "https://opengraph.githubassets.com/1dfab1344be251ebc6e918945b5e2b25a3d3c60e7e23c847408bb1fa7e0b102f/eighttrigrams/us-vs-them"
-  },
-  {
-    "id": "7bdf5f2f7015b554",
-    "title": "Сирія і РФ перетворять спільні військові бази на навчальні центри",
-    "summary": "Сирія перебере під свій контроль авіабазу Хмеймім та комерційний причал у порту Тартус.",
-    "url": "https://lb.ua/world/2026/08/09/757848_siriya_rf_peretvoryat_spilni.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T15:25:00+00:00",
-    "fetched": "2026-08-09T15:36:17+00:00",
-    "image": "https://i.lb.ua/news/090/46/6a789be686ab7.jpg"
-  },
-  {
-    "id": "4b626b6a2a892f82",
-    "title": "Taxi drivers rarely die of Alzheimer's",
-    "summary": "Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 19 # Comments: 9",
-    "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T15:21:46+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://images.theconversation.com/files/752403/original/file-20260805-60-8x6hvk.jpg?ixlib=rb-4.1.1&rect=0%2C161%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop"
-  },
-  {
-    "id": "6137c9d82a455fcb",
-    "title": "Через посуху в Німеччині з-під води показалися \"камені голоду\"",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047994/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T15:20:00+00:00",
-    "fetched": "2026-08-09T15:36:17+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/4/1/41443a9---------------2.jpg"
-  },
-  {
-    "id": "9d1b3cc68de3e9d9",
-    "title": "Silicon Valley misreads science fiction and undermines democracy",
-    "summary": "Article URL: https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/ Comments URL: https://news.ycombinator.com/item?id=49232221 Points: 67 # Comments: 30",
-    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T15:18:25+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024"
-  },
-  {
-    "id": "cf80e5cd24888bb8",
-    "title": "Вже сформовано бачення фінансування Сил оборони на 2027 рік, – Корецький",
-    "summary": "Уряд працюватиме над пошуком додаткового ресурсу для сектору безпеки й оборони, зокрема із залученням допомоги наших міжнародних партнерів.",
-    "url": "https://lb.ua/society/2026/08/09/757846_vzhe_sformovano_bachennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T15:16:00+00:00",
-    "fetched": "2026-08-09T15:36:17+00:00",
-    "image": "https://i.lb.ua/news/102/32/6a78997783132.jpg"
-  },
-  {
-    "id": "1755937672c8d847",
-    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "summary": "Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 22 # Comments: 8",
-    "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T15:11:20+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows_11_01.jpg"
-  },
-  {
-    "id": "b21b8984974b1624",
-    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
-    "summary": "Article URL: https://www.techeblog.com/tom-stanton-supersonic-trebuchet/ Comments URL: https://news.ycombinator.com/item?id=49232110 Points: 39 # Comments: 7",
-    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T15:08:51+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://images.techeblog.com/wp-content/uploads/2026/08/09001255/tom-stanton-supersonic-trebuchet.jpg"
-  },
-  {
-    "id": "4faa6b9e315b3c27",
-    "title": "На більшості території України тиждень почнеться з теплої сухої погоди",
-    "summary": "10 серпня в Україні переважно без опадів, до +33°, лише на південному сході короткочасний дощ і гроза.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047993/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T15:01:00+00:00",
-    "fetched": "2026-08-09T15:36:17+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/7/889150/d7b674d4f758fdb553cce00633eba2aa.jpeg"
-  },
-  {
-    "id": "37e4af8c5cf26b5b",
-    "title": "На Одещині у ДТП загинули три людини",
-    "summary": "Ще семеро людей постраждали.",
-    "url": "https://lb.ua/society/2026/08/09/757842_odeschini_dtp_zaginuli_tri.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T14:56:00+00:00",
-    "fetched": "2026-08-09T15:36:17+00:00",
-    "image": "https://i.lb.ua/news/002/45/6a78949c9767f.jpg"
   }
 ]
