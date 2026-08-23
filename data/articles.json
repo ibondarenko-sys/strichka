@@ -1,5 +1,29 @@
 [
   {
+    "id": "4741fb3fb1d27502",
+    "title": "Унаслідок обстрілів РФ у Запорізькій області 3 людини загинули і 21 отримала поранення",
+    "summary": "За добу надійшло 230 повідомлень про пошкодження житла, автомобілів та обʼєктів інфраструктури.",
+    "url": "https://lb.ua/society/2026/08/23/760934_unaslidok_obstriliv_rf.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:12:00+00:00",
+    "fetched": "2026-08-23T11:24:06+00:00",
+    "image": "https://i.lb.ua/news/004/46/6a8ad4d477f58.jpg"
+  },
+  {
+    "id": "9cdf5d6b195bfbac",
+    "title": "Зеленський про підозри в ОП: Антикорупційні органи розуміють, що я таким не займаюсь",
+    "summary": "Президент Зеленський заявив, що антикорупційні органи не мають до нього питань і продовжують незалежно розслідувати корупційні справи.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049926/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:08:00+00:00",
+    "fetched": "2026-08-23T11:24:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/897233/36dbf2bae8a26d957aef1f0084c58ee1.jpeg"
+  },
+  {
     "id": "599bfe05431186ed",
     "title": "Український імпорт у 2025 році зріс до $84,8 млрд і перевищив довоєнний рівень",
     "summary": "Зростання імпорту обумовлене обороною, енергетикою та відбудовою, водночас дефіцит зовнішньої торгівлі зріс до $51 млрд на тлі стриманих настроїв бізнесу.",
@@ -22,6 +46,18 @@
     "published": "2026-08-23T10:46:00+00:00",
     "fetched": "2026-08-23T10:53:05+00:00",
     "image": "https://i.lb.ua/news/059/50/6a8acf1768d8f.jpg"
+  },
+  {
+    "id": "3650a0dd2e1fb7ff",
+    "title": "Президент розповів про потреби України в ракетах Patriot та домовленості з Німеччиною",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049924/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T10:38:00+00:00",
+    "fetched": "2026-08-23T11:24:07+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/6/897246/967a96aa5c2732054d52327571c80835.jpeg"
   },
   {
     "id": "3d670ff6398972e3",
@@ -106,6 +142,18 @@
     "published": "2026-08-23T10:03:00+00:00",
     "fetched": "2026-08-23T10:28:18+00:00",
     "image": "https://i.lb.ua/news/104/56/6a8ac5589ccd9.jpg"
+  },
+  {
+    "id": "0b47a8a1a768136c",
+    "title": "Canada now 'at war' with United States over trade, Prime Minister says",
+    "summary": "Article URL: https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/ Comments URL: https://news.ycombinator.com/item?id=49407477 Points: 11 # Comments: 5",
+    "url": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T09:58:22+00:00",
+    "fetched": "2026-08-23T11:24:14+00:00",
+    "image": "https://www.theglobeandmail.com/resizer/v2/KSTBVA3YH5BHJIO5M4TTC5FVM4.JPG?auth=535ef8c33b18d15665ab49550d8e7ec1ca81aa84894e5430c73742350b64e16e&width=1200&height=800&quality=80&smart=true"
   },
   {
     "id": "82ac1962735048b5",
@@ -51226,77 +51274,5 @@
     "published": "2026-08-09T11:29:00+00:00",
     "fetched": "2026-08-09T12:59:56+00:00",
     "image": null
-  },
-  {
-    "id": "180028ecccf05d99",
-    "title": "На Лиманському напрямку прикордонники знищили 124 російські дрони",
-    "summary": "Ворожі дрони знищили розрахунки РЛС підрозділу \"Срібна трійка\".",
-    "url": "https://lb.ua/society/2026/08/09/757804_limanskomu_napryamku.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:22:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://i.lb.ua/news/095/47/6a786161a4bca.jpg"
-  },
-  {
-    "id": "8c8c03c50924f0c2",
-    "title": "Ворог удень вдарив по Одеському районі",
-    "summary": "Пошкоджено приватний будинок.",
-    "url": "https://lb.ua/society/2026/08/09/757802_vorog_uden_vdariv_odeskomu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:19:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://i.lb.ua/news/037/07/6a786225cad42.jpg"
-  },
-  {
-    "id": "816b2ab3e5d48617",
-    "title": "ЗМІ: Топкомандувач США закликає шукати вихід з війни з Іраном",
-    "summary": "Голова комітету штабів США Кейн радить Трампу шукати вихід з війни з Іраном, попереджаючи про ризики ескалації.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047968/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:14:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/e/889067/3e4417dff671d008b8ef05df0fb5d34b.jpeg"
-  },
-  {
-    "id": "5a5ed184866b7549",
-    "title": "Лубінець заявив про інформаційні атаки після перевірки ТЦК на Закарпатті",
-    "summary": "Омбудсман вимагає провести масштабні перевірки діяльності ТЦК та СП на Закарпатті.",
-    "url": "https://lb.ua/society/2026/08/09/757800_lubinets_zayaviv_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:10:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://i.lb.ua/news/002/32/6a785f87c8215.jpg"
-  },
-  {
-    "id": "93eb91df61d03203",
-    "title": "Німеччина “щодня” зазнає гібридних атак з боку іноземних держав, – МВС країни",
-    "summary": "Очільник міністерства Александер Добріндт не уточнив про які країни йдеться.",
-    "url": "https://lb.ua/world/2026/08/09/757798_nimechchina_schodnya_zaznaie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:04:00+00:00",
-    "fetched": "2026-08-09T11:33:27+00:00",
-    "image": "https://i.lb.ua/news/051/37/6a785e3b1b180.jpg"
-  },
-  {
-    "id": "a09b887db3912c8a",
-    "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-    "summary": "The massive Toba eruption seems to have had little climate impact.",
-    "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T11:00:14+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1.jpeg"
   }
 ]
