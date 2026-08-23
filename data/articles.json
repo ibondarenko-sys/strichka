@@ -1,5 +1,101 @@
 [
   {
+    "id": "878a8cddf682504a",
+    "title": "БпЛА атакував поїзд на Харківщині: попри евакуацію, загинула пасажирка, 4 поранених",
+    "summary": "БпЛА Росії влучив у поїзд Лозова-Харків: одна пасажирка загинула, ще четверо поранені. Відбулася евакуація пасажирів.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049942/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:20:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/8/897314/a80162b3081b37dab464adca98d33828.jpeg"
+  },
+  {
+    "id": "e1ec03e9c1128c81",
+    "title": "У Харківській області російський дрон поцілив в електричку, є загибла",
+    "summary": "Сьогодні Росія загалом п'ять разів вдарила по залізничній інфраструктурі.",
+    "url": "https://lb.ua/society/2026/08/23/760954_harkivskiy_oblasti_rosiyskiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:17:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://i.lb.ua/news/069/32/6a8af25aeef99.jpg"
+  },
+  {
+    "id": "88cbe84dbcaf3e41",
+    "title": "Осло у 2027 році збереже підтримку Києва на рівні майже $9 млрд, – норвезький прем’єр",
+    "summary": "Підтримка буде широкою й охоплюватиме військову, гуманітарну та фінансову сфери.",
+    "url": "https://lb.ua/society/2026/08/23/760952_oslo_2027_rotsi_zberezhe.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:07:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://i.lb.ua/news/120/47/6a8aef14d800e.jpg"
+  },
+  {
+    "id": "91e45ba5d38f226c",
+    "title": "Malware infects Android-based automotive head unit firmware",
+    "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 27 # Comments: 1",
+    "url": "https://securelist.com/android-head-unit-malware/121106/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T13:05:38+00:00",
+    "fetched": "2026-08-23T13:35:32+00:00",
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/21071446/android-head-unit-malware-scaled.jpg"
+  },
+  {
+    "id": "d38fbe816b4d5bff",
+    "title": "Норвегія планує виділити 85 млрд крон на підтримку України в наступному році",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049941/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:00:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/d/6d03aa6-1743013008-4170-large.jpg"
+  },
+  {
+    "id": "02fe1f5a459e0413",
+    "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+    "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+    "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T12:52:08+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg"
+  },
+  {
+    "id": "7a2b99b6c2cd3c3c",
+    "title": "У Гатному на Київщині розгорнули український прапор завдовжки 500 метрів",
+    "summary": "Стяг площею 3 тисячі квадратних метрів протягом двох тижнів виготовляли місцеві майстри.",
+    "url": "https://lb.ua/society/2026/08/23/760950_gatnomu_kiyivschini_rozgornuli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:52:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://i.lb.ua/news/056/17/6a8aecd832ce5.jpg"
+  },
+  {
+    "id": "5874389ee2575ee1",
+    "title": "Федоров закликав Зеленського відповісти, чи знав він про корупцію у своєму оточенні",
+    "summary": "Колишній міністр оборони Михайло Федоров заявив, що президент Володимир Зеленський має відповісти суспільству, чи знав він про можливу корупцію серед людей зі свого оточення.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049939/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:48:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/4/897297/442bfb44fad40cebbc79f1db1990cfee.jpeg"
+  },
+  {
     "id": "14168f930b22b80e",
     "title": "У Патрульній поліції спростували, що “Фантоми” вже повернулися на дороги країни",
     "summary": "Спеціальні патрульні автомобілі повернуться найближчим часом.",
@@ -12,6 +108,18 @@
     "image": "https://i.lb.ua/news/054/27/6a8ae5e4aab8d.jpg"
   },
   {
+    "id": "042d59a9ae009e51",
+    "title": "'New season, new trim' - Haaland reveals buzzcut",
+    "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T12:36:54+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png"
+  },
+  {
     "id": "69836ba8b919ea8c",
     "title": "Угорщина очікує, що АЕС \"Пакш\" запрацює на повну потужність раніше",
     "summary": "",
@@ -22,6 +130,18 @@
     "published": "2026-08-23T12:33:00+00:00",
     "fetched": "2026-08-23T12:48:53+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/a/a/aa42d05------.jpg"
+  },
+  {
+    "id": "f69b5c55bc03a44b",
+    "title": "Golf brand apologises for advert that shows woman being pushed over",
+    "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+    "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T12:25:40+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d7/live/fa537640-9ee1-11f1-9797-eb684645fdf7.jpg"
   },
   {
     "id": "b6ffc39cbfc283bb",
@@ -93,6 +213,18 @@
     "lang": "uk",
     "published": "2026-08-23T11:47:00+00:00",
     "fetched": "2026-08-23T11:48:08+00:00",
+    "image": "https://i.lb.ua/news/081/53/6a8add1195bac.jpg"
+  },
+  {
+    "id": "3df7f4e7c5444f33",
+    "title": "Сили безпілотних систем уразили 2 винищувачі та 8 радіолокаційних станцій у РФ та Криму",
+    "summary": "Підрозділи 1-го окремого центру СБС поцілили у винищувачі Су-33 і МіГ-29.",
+    "url": "https://lb.ua/society/2026/08/23/760938_sili_bezpilotnih_sistem_urazili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T11:47:00+00:00",
+    "fetched": "2026-08-23T13:35:30+00:00",
     "image": "https://i.lb.ua/news/081/53/6a8add1195bac.jpg"
   },
   {
@@ -322,6 +454,18 @@
     "published": "2026-08-23T10:07:00+00:00",
     "fetched": "2026-08-23T10:28:18+00:00",
     "image": "https://i.lb.ua/news/015/35/6a8ac5fd1d973.jpg"
+  },
+  {
+    "id": "96b98d390289a532",
+    "title": "Iranian hackers shut down UK power plant for 4 days",
+    "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 24 # Comments: 8",
+    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T10:03:01+00:00",
+    "fetched": "2026-08-23T13:35:32+00:00",
+    "image": "https://www.telegraph.co.uk/content/dam/news/2026/08/22/TELEMMGLPICT000487205910_17874304061390_trans_NvBQzQNjv4Bq4cHFBfxHqfroyKoKkNhhsJgojZYlP8f0i9h2tPqCNsM.jpeg?impolicy=OG-Standard"
   },
   {
     "id": "ba814fba9ac3f82c",
@@ -51046,185 +51190,5 @@
     "published": "2026-08-09T13:41:00+00:00",
     "fetched": "2026-08-09T13:54:51+00:00",
     "image": "https://i.lb.ua/news/051/18/6a78827200a7b.jpg"
-  },
-  {
-    "id": "cf1ab43f47790024",
-    "title": "An Israeli professor lost a prestigious US job offer after speaking out on Gaza",
-    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota Comments URL: https://news.ycombinator.com/item?id=49231260 Points: 12 # Comments: 0",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T13:31:56+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.guim.co.uk/img/media/7e6312d21abaaa4b56b42af34ce927df5fb76f41/0_444_1996_1596/master/1996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d56b3e0a30705d69e1ef5c971d84a078"
-  },
-  {
-    "id": "0d7da14bbd637eae",
-    "title": "Опитування: майже 60% поляків критично оцінюють уряд Туска",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047983/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:25:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/0/b/0b5407f------3.jpg"
-  },
-  {
-    "id": "d0f405a0671d6c49",
-    "title": "Ворог атакував Одеський район, ударна хвиля зачепила автобус з дітьми (оновлено)",
-    "summary": "Пошкоджено приватний будинок.",
-    "url": "https://lb.ua/society/2026/08/09/757802_vorog_atakuvav_odeskiy_rayon.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:25:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.lb.ua/news/037/07/6a786225cad42.jpg"
-  },
-  {
-    "id": "3f796f2dbd92b985",
-    "title": "Mea Culpa – Dark Hours",
-    "summary": "Article URL: https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html Comments URL: https://news.ycombinator.com/item?id=49231154 Points: 5 # Comments: 0",
-    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T13:20:43+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": null
-  },
-  {
-    "id": "623f1bc055ca4b9d",
-    "title": "У Запоріжжі внаслідок ворожого удару загинув рятувальник",
-    "summary": "Двоє його колег отримали поранення.",
-    "url": "https://lb.ua/society/2026/08/09/757832_zaporizhzhi_vnaslidok_vorozhogo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:19:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.lb.ua/news/105/23/6a787db275fcf.jpg"
-  },
-  {
-    "id": "24cae8a273b36746",
-    "title": "У РФ завдяки квотам до вишів вступають все більше учасників війни проти України, – ЦПД",
-    "summary": "Вони отримують спеціальні квоти, пільговий вступ та інші освітні преференції.",
-    "url": "https://lb.ua/society/2026/08/09/757830_rf_zavdyaki_kvotam_vishiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:13:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.lb.ua/news/042/49/6a787c75af382.jpg"
-  },
-  {
-    "id": "d2b8b15d67777944",
-    "title": "У Запорізькій області через повторний удар РФ загинув рятувальник, ще двох поранено",
-    "summary": "У Запорізькій області після повторного російського удару загинув рятувальник, ще двоє поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047982/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:08:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/889127/8859017a460cc264d7ceb2bf983fd081.jpeg"
-  },
-  {
-    "id": "0e28f3cfd74f3cb4",
-    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-    "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 29 # Comments: 12",
-    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T13:03:49+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080"
-  },
-  {
-    "id": "87cbc69fb8e40f01",
-    "title": "\"Білорусь буде вільною\": Мецола заявила про подальшу підтримку білорусів",
-    "summary": "9 серпня шість років від початку масштабних протестів у Білорусі.",
-    "url": "https://lb.ua/world/2026/08/09/757828_bilorus_bude_vilnoyu_metsola.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:00:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.lb.ua/news/100/28/6a787838ded59.jpg"
-  },
-  {
-    "id": "f77059dafd6a2d91",
-    "title": "Dropbox is a PC builder’s best friend",
-    "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a…",
-    "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T13:00:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "664d1654cdd3df9b",
-    "title": "Британська Колумбія у Канаді оголосила надзвичайний стан через стрімкі лісові пожежі",
-    "summary": "За останній тиждень у провінції сталося 70 нових лісових пожеж, 105 займань наразі активні.",
-    "url": "https://lb.ua/world/2026/08/09/757826_britanska_kolumbiya_kanadi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:59:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.lb.ua/news/077/23/6a78799ec7d3c.jpg"
-  },
-  {
-    "id": "08fbf50b5a32e826",
-    "title": "На Одещині під час повторного обстрілу пошкодило повний автобус дітей – МВС",
-    "summary": "Внаслідок обстрілу Одещини постраждав автобус з 12 дітьми, загинув рятувальник у Запорізькій області.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047979/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:57:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/e/889102/6e21f8d871e3fd1d29917ccc5d747f0b.jpeg"
-  },
-  {
-    "id": "04b701cf6c36ef25",
-    "title": "Amazon circumvents Gilroy community vote for AI data center",
-    "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window Comments URL: https://news.ycombinator.com/item?id=49230954 Points: 32…",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T12:52:10+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://cdn.mos.cms.futurecdn.net/RSehTW2oDYtFQurj9iJ5cS-2000-80.jpg"
-  },
-  {
-    "id": "62dd9a8c6e17a628",
-    "title": "На Херсонщині оголосили обов’язкову евакуацію з двох сіл",
-    "summary": "У Красносільському та Чарівному також заборонять в’їзд родинам із дітьми.",
-    "url": "https://lb.ua/society/2026/08/09/757824_hersonschini_ogolosili.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:50:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/113/19/6a7876492fdd1.jpg"
-  },
-  {
-    "id": "da86e2bbf6afbd4a",
-    "title": "На Херсонщині розширили зону обов’язкової евакуації",
-    "summary": "Краснопільське та Чарівне додано до списку населених пунктів для евакуації через загрозу обстрілів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047977/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:49:00+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/a/889100/1a15d18776575070fdf58fb683ac0086.jpeg"
   }
 ]
