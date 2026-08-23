@@ -1,5 +1,17 @@
 [
   {
+    "id": "1026ee25d6ee0e8a",
+    "title": "Ціни на нафту дещо знизилися на тлі погроз Ірану перекрити Ормузьку протоку",
+    "summary": "Світові ціни на нафту дещо знизилися.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049984/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T23:30:00+00:00",
+    "fetched": "2026-08-23T23:47:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/897551/7b6990fbb513dc23e3508106abe64ab6.jpeg"
+  },
+  {
     "id": "793908a440b57eae",
     "title": "Російський Краснодар атакували дрони – пабліки",
     "summary": "У ніч на 24 серпня безпілотники вчергове атакували російський Краснодар.",
@@ -50770,17 +50782,5 @@
     "published": "2026-08-10T00:29:00+00:00",
     "fetched": "2026-08-10T02:08:28+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/1/889275/d1ae755935af292b59aa15fa8bb1a8b5.jpeg"
-  },
-  {
-    "id": "4012db0a9ac6d668",
-    "title": "The Ambition Project",
-    "summary": "Article URL: https://www.betonit.ai/p/the-ambition-project Comments URL: https://news.ycombinator.com/item?id=49237407 Points: 4 # Comments: 0",
-    "url": "https://www.betonit.ai/p/the-ambition-project",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T23:36:05+00:00",
-    "fetched": "2026-08-10T02:08:28+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!IVW2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c08f49b-79f6-45ef-b5a7-4b0c8b82a796_1200x900.png"
   }
 ]
