@@ -1,5 +1,29 @@
 [
   {
+    "id": "6c1dc69faf8fe3e6",
+    "title": "Співголова ультраправої \"АдН\" прагне виходу Німеччини з єврозони та Шенгену",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049977/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T20:33:00+00:00",
+    "fetched": "2026-08-23T20:52:29+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/f/c/fc422e0-dpa-com-260823-936-69503-jpg.jpg"
+  },
+  {
+    "id": "209ef6fe7c052ec2",
+    "title": "Росіяни ударили по передмістю Харкова, є загиблі",
+    "summary": "Також повідомляється про вісьмох поранених.",
+    "url": "https://lb.ua/society/2026/08/23/761002_rosiyani_udarili_peredmistyu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T20:28:00+00:00",
+    "fetched": "2026-08-23T20:52:29+00:00",
+    "image": "https://i.lb.ua/news/069/45/6a8b588c261b7.jpg"
+  },
+  {
     "id": "bbb8da9c517d0bc7",
     "title": "Генштаб: від початку доби відбулося 196 боїв, найбільше - на Покровському напрямку",
     "summary": "Росія також здійснила 62 авіаційних ударів із застосуванням 194 керованих авіаційних бомб.",
@@ -50830,89 +50854,5 @@
     "published": "2026-08-09T20:59:00+00:00",
     "fetched": "2026-08-09T21:37:01+00:00",
     "image": "https://i.lb.ua/news/078/31/6a78f1ad3db60.jpg"
-  },
-  {
-    "id": "6e3d5f2034008de6",
-    "title": "Tuxedo No. 2 – Cocktail recipes",
-    "summary": "Article URL: https://tuxedono2.com Comments URL: https://news.ycombinator.com/item?id=49235697 Points: 12 # Comments: 2",
-    "url": "https://tuxedono2.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T20:48:46+00:00",
-    "fetched": "2026-08-09T22:35:30+00:00",
-    "image": null
-  },
-  {
-    "id": "6755bccb47faf482",
-    "title": "Сибіга дорікнув ЮНІСЕФ за повідомлення про жертви серед дітей в Україні та РФ",
-    "summary": "Сибіга закликав ЮНІСЕФ не замовчувати агресію РФ та правдиво висвітлювати жертви війни",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8048012/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T20:47:00+00:00",
-    "fetched": "2026-08-09T21:37:01+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/889267/df0ddef24e09df02b6ac7a91ed3f92f6.jpeg"
-  },
-  {
-    "id": "e75ec7ce32753270",
-    "title": "New Zealand lost its music media, and what we're building to replace it",
-    "summary": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media Comments URL: https://news.ycombinator.com/item?id=49235641 Points: 5 # Comments: 0",
-    "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T20:42:29+00:00",
-    "fetched": "2026-08-09T21:37:01+00:00",
-    "image": "https://media.propelmusic.co.nz/articles/nz-music-media/karangahape-road-auckland.webp"
-  },
-  {
-    "id": "127a8f07aebd5fb0",
-    "title": "The climate benefits of retiring an operational combustion engine vehicle",
-    "summary": "Article URL: https://www.science.org/doi/10.1126/science.adv5441 Comments URL: https://news.ycombinator.com/item?id=49235572 Points: 6 # Comments: 4",
-    "url": "https://www.science.org/doi/10.1126/science.adv5441",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T20:35:48+00:00",
-    "fetched": "2026-08-09T22:35:30+00:00",
-    "image": null
-  },
-  {
-    "id": "7ccfaeacc6a9ae84",
-    "title": "​Пакистан, Саудівська Аравія і Туреччина підписали оборонну угоду",
-    "summary": "Відповідно до угоди, «будь-який збройний напад на будь-яку з трьох держав розглядатиметься як напад на них усіх».",
-    "url": "https://lb.ua/news/2026/08/09/757878_pakistan_saudivska_araviya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T20:30:00+00:00",
-    "fetched": "2026-08-09T20:37:32+00:00",
-    "image": "https://i.lb.ua/news/099/50/6a78e35f8b62d.jpg"
-  },
-  {
-    "id": "8e17d2671a9f16b6",
-    "title": "Archival Resource Key (Ark) Alliance",
-    "summary": "Article URL: https://arks.org/ Comments URL: https://news.ycombinator.com/item?id=49235486 Points: 3 # Comments: 0",
-    "url": "https://arks.org/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T20:28:54+00:00",
-    "fetched": "2026-08-09T21:37:01+00:00",
-    "image": null
-  },
-  {
-    "id": "959976df020b50c2",
-    "title": "No Dogs in Space is a music history podcast for true obsessives",
-    "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing…",
-    "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T20:28:31+00:00",
-    "fetched": "2026-08-09T20:37:32+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
