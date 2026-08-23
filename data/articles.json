@@ -1,5 +1,101 @@
 [
   {
+    "id": "2b1a9b27c2e3a384",
+    "title": "Перед Європейським парламентом розгорнули 30-метровий український стяг",
+    "summary": "Віцепрезидент Європарламенту Ніколае Штефануце заявив, що ЄС має підтримувати та прискорювати імпульс у просуванні процесу вступу України до блоку.",
+    "url": "https://lb.ua/society/2026/08/23/760962_pered_ievropeyskim_parlamentom.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:16:00+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://i.lb.ua/news/044/52/6a8afdaa0e75a.jpg"
+  },
+  {
+    "id": "5294f0c44c82a943",
+    "title": "Зеленський зустрівся з сенаторами США: говорили про санкції та протидію балістиці",
+    "summary": "Зеленський провів зустріч із сенаторами США в Києві: двопартійна підтримка, санкції проти Росії, співпраця та системи Patriot.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049947/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:07:00+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/897347/b7bd8114ab669061c6cfc20dbc163fe7.jpeg"
+  },
+  {
+    "id": "1ac9ac58281b061b",
+    "title": "Прем’єр Норвегії оглянув з очільником ДСНС місце одного з російських ударів по Києву",
+    "summary": "Андрій Даник розповів Йонасу Гару Стьоре про ключові виклики, з якими щоденно стикаються українські рятувальники.",
+    "url": "https://lb.ua/society/2026/08/23/760948_premier_norvegiyi_oglyanuv_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:05:00+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://i.lb.ua/news/125/32/6a8ae827acd04.jpg"
+  },
+  {
+    "id": "8149cce4638406c6",
+    "title": "My favorite nonfiction books about cults, scams, and schemes",
+    "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 3 # Comments: 0",
+    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T13:51:10+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": null
+  },
+  {
+    "id": "562d8921c2f528eb",
+    "title": "У Софіївці на Донеччині внаслідок авіаудару РФ загинули два чоловіки",
+    "summary": "Пошкоджень зазнали 141 приватний будинок та магазин.",
+    "url": "https://lb.ua/society/2026/08/23/760958_sofiyivtsi_donechchini_vnaslidok.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:47:00+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://i.lb.ua/news/122/49/6a8af981884d3.jpg"
+  },
+  {
+    "id": "134d27bbbf27f138",
+    "title": "Зеленський зустрівся у Києві з американськими сенаторами Блюменталем та Ленкфордом",
+    "summary": "\"Україна цінує, що в обох палатах Конгресу США триває робота над посиленням тиску на Росію\".",
+    "url": "https://lb.ua/society/2026/08/23/760956_zelenskiy_zustrivsya_kiievi_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:36:00+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://i.lb.ua/news/072/14/6a8af5d65ba45.jpg"
+  },
+  {
+    "id": "7e7a0d4f47e3d002",
+    "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+    "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+    "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T13:35:06+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg"
+  },
+  {
+    "id": "46db8ee454a051bc",
+    "title": "Стубб повідомив про підписання угод між фінськими та українськими виробниками зброї",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049943/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T13:33:00+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/f/897334/cf284b6f87ace65579c141f376e085e0.jpeg"
+  },
+  {
     "id": "878a8cddf682504a",
     "title": "БпЛА атакував поїзд на Харківщині: попри евакуацію, загинула пасажирка, 4 поранених",
     "summary": "БпЛА Росії влучив у поїзд Лозова-Харків: одна пасажирка загинула, ще четверо поранені. Відбулася евакуація пасажирів.",
@@ -238,6 +334,18 @@
     "published": "2026-08-23T11:38:00+00:00",
     "fetched": "2026-08-23T11:48:08+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/b/897263/ab3e4e51bc6f33139ec22ead7487500b.jpeg"
+  },
+  {
+    "id": "163b2771faf4e2ed",
+    "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+    "summary": "Article URL: https://twitter.com/AndrewYNg/status/2090840747738374568 Comments URL: https://news.ycombinator.com/item?id=49407944 Points: 8 # Comments: 0",
+    "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T11:28:08+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": "https://pbs.twimg.com/media/HQQk9jqboAEpbvE.jpg:large"
   },
   {
     "id": "4e19d7a8ea2e7a42",
@@ -946,6 +1054,18 @@
     "published": "2026-08-23T06:17:00+00:00",
     "fetched": "2026-08-23T06:52:17+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/897147/258e4b9b5afe6c949262b147ba26c443.jpeg"
+  },
+  {
+    "id": "fa6039eabf7e3254",
+    "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+    "summary": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 13 # Comments: 0",
+    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T06:07:06+00:00",
+    "fetched": "2026-08-23T14:27:33+00:00",
+    "image": null
   },
   {
     "id": "525e0c69bb2a7ca8",
@@ -51094,101 +51214,5 @@
     "published": "2026-08-09T14:30:05+00:00",
     "fetched": "2026-08-09T16:40:42+00:00",
     "image": "https://douwe.com/static/projects/tectonic_globe/tectonic_globe.jpg"
-  },
-  {
-    "id": "a660732b7abdb16e",
-    "title": "ЗМІ: Трамп хотів оголосити про перемогу у війні з Іраном, але той висунув жорсткіші умови",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047991/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T14:25:00+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": null
-  },
-  {
-    "id": "fa50ea975e819cb5",
-    "title": "Кримінального авторитета Деніела Кінахана повертають до Ірландії",
-    "summary": "Його картель нібито відповідальний за імпорт тонн наркотиків та вогнепальної зброї у всьому світі, а також пов'язаний з більше ніж десятком замовних вбивств.",
-    "url": "https://lb.ua/world/2026/08/09/757838_kriminalnogo_avtoriteta_deniela.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T14:23:00+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": "https://i.lb.ua/news/050/29/6a788d5b88d5d.jpg"
-  },
-  {
-    "id": "7935010f3a9b2dc2",
-    "title": "A partial digestion of the HRT counterexample",
-    "summary": "Article URL: https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/ Comments URL: https://news.ycombinator.com/item?id=49231586 Points: 4 # Comments: 0",
-    "url": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T14:09:42+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1786293173"
-  },
-  {
-    "id": "c80cf90cdeec9685",
-    "title": "Росіяни зруйнували гуманітарний склад ВООЗ у Дніпрі",
-    "summary": "У Дніпрі 7 серпня зруйновано склад ВООЗ для медичних закладів. Жертв немає, частину вантажу евакуйовано.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047986/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T14:01:00+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/8/889136/38dd196ddadbd18fbbd8276019178371.jpeg"
-  },
-  {
-    "id": "810212f8311f37ae",
-    "title": "Російська атака знищила у Дніпрі гуманітарний склад ВООЗ",
-    "summary": "Вдалося врятувати менше половину палет з медичними товарами.",
-    "url": "https://lb.ua/society/2026/08/09/757836_rosiyska_ataka_znischila_dnipri.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:56:00+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": "https://i.lb.ua/news/059/19/6a78867238da3.jpg"
-  },
-  {
-    "id": "98ed9ccfb2120e33",
-    "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-    "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 18 # Comments: 3",
-    "url": "https://kibotronics.net/unlisted/lilly-machines/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T13:47:36+00:00",
-    "fetched": "2026-08-09T15:36:17+00:00",
-    "image": "https://kibotronics.net/og-image.png"
-  },
-  {
-    "id": "a9e4150e0ea5cc7a",
-    "title": "У центрі Приштини зняли український прапор: \"Косово треба поважати\"",
-    "summary": "З будівлі у центрі Приштини прибрали український прапор, мер пояснив позицію через державність Косово.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047985/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:44:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/e/889135/5e824ceddccc58b76d5fca44f35beb3e.jpeg"
-  },
-  {
-    "id": "f8e39b62c8f1916c",
-    "title": "РФ третій день атакує об’єкти “Нафтогазу” у всій країні",
-    "summary": "У ніч на 9 серпня масованого обстрілу зазнали видобувні активи Укрнафти, а також буровий майданчик компанії.",
-    "url": "https://lb.ua/society/2026/08/09/757834_rf_tretiy_den_atakuie_obiekti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T13:41:00+00:00",
-    "fetched": "2026-08-09T13:54:51+00:00",
-    "image": "https://i.lb.ua/news/051/18/6a78827200a7b.jpg"
   }
 ]
