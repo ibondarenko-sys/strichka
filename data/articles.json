@@ -1,5 +1,65 @@
 [
   {
+    "id": "9631520896349744",
+    "title": "Зеленський і Стубб обговорили оборонну співпрацю",
+    "summary": "Президенти взяли участь у засіданні круглого столу з питань українсько-фінського співробітництва у сфері оборонних індустрій.",
+    "url": "https://lb.ua/society/2026/08/23/760966_zelenskiy_stubb_obgovorili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:50:00+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://i.lb.ua/news/112/15/6a8b01674bf48.jpg"
+  },
+  {
+    "id": "aa65a78d322e4cf5",
+    "title": "Росіяни поранили у Запорізькому районі 61-річну жінку",
+    "summary": "Пошкоджено житловий будинок.",
+    "url": "https://lb.ua/society/2026/08/23/760964_rosiyani_poranili_zaporizkomu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:41:00+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://i.lb.ua/news/016/06/6a8afe8c46c9c.jpg"
+  },
+  {
+    "id": "52cae082b4feca4b",
+    "title": "Казахстан обирає новий однопалатний парламент країни, перемогу прогнозують пропрезидентській партії",
+    "summary": "Загалом висунути кандидатів до 145-місного парламенту дозволили семи державним партіям, тоді як справжні опозиційні політичні сили заборонили.",
+    "url": "https://lb.ua/world/2026/08/23/760968_kazahstan_obiraie_noviy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:34:00+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://i.lb.ua/news/027/46/6a8b050a92522.jpg"
+  },
+  {
+    "id": "38742ed6e1327460",
+    "title": "Через російські удари частина Вознесенського району Миколаївщини залишилася без світла",
+    "summary": "Тривають роботи над відновленням електропостачання.",
+    "url": "https://lb.ua/society/2026/08/23/760960_cherez_rosiyski_udari_chastina.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:30:00+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://i.lb.ua/news/021/59/6a8afb1863301.jpg"
+  },
+  {
+    "id": "8a2f3ecbcf2de8cb",
+    "title": "Прем'єрка Данії закликала європейців надати Україні ракети до Patriot",
+    "summary": "Прем’єрка Данії закликала союзників передати Києву ракети до Patriot для захисту від атак РФ взимку.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049949/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T14:28:00+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/897349/c1f281d064a3a8d7369d19153179cdbe.jpeg"
+  },
+  {
     "id": "2b1a9b27c2e3a384",
     "title": "Перед Європейським парламентом розгорнули 30-метровий український стяг",
     "summary": "Віцепрезидент Європарламенту Ніколае Штефануце заявив, що ЄС має підтримувати та прискорювати імпульс у просуванні процесу вступу України до блоку.",
@@ -34,6 +94,18 @@
     "published": "2026-08-23T14:05:00+00:00",
     "fetched": "2026-08-23T14:27:33+00:00",
     "image": "https://i.lb.ua/news/125/32/6a8ae827acd04.jpg"
+  },
+  {
+    "id": "dc92ded1c655ef3b",
+    "title": "Death to px, long live ch",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 17 # Comments: 7",
+    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T13:56:27+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/03/CSS-Logo.webp"
   },
   {
     "id": "8149cce4638406c6",
@@ -1090,6 +1162,18 @@
     "published": "2026-08-23T06:03:00+00:00",
     "fetched": "2026-08-23T06:52:17+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/0/6/06a650b-------2.jpg"
+  },
+  {
+    "id": "77d1dae941f3a1ce",
+    "title": "Man completes 2,800 mile scoot across Australia",
+    "summary": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+    "url": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T06:01:16+00:00",
+    "fetched": "2026-08-23T14:52:53+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5080/live/9458f1d0-9bbc-11f1-9cab-ed9e722cbe4c.jpg"
   },
   {
     "id": "245547b84b07680f",
@@ -51154,65 +51238,5 @@
     "published": "2026-08-09T14:56:00+00:00",
     "fetched": "2026-08-09T15:36:17+00:00",
     "image": "https://i.lb.ua/news/002/45/6a78949c9767f.jpg"
-  },
-  {
-    "id": "fb0b2b16582e2ff8",
-    "title": "I Wanted to Own the Harness. Then Codex Desktop Won",
-    "summary": "Article URL: https://jorypestorious.com/blog/portable-agent-factory/ Comments URL: https://news.ycombinator.com/item?id=49231838 Points: 7 # Comments: 4",
-    "url": "https://jorypestorious.com/blog/portable-agent-factory/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T14:36:46+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://jorypestorious.com/blog/portable-agent-factory/codex-desktop-won.png"
-  },
-  {
-    "id": "d4da6a2388678790",
-    "title": "Ворог знову вдарив по Харкову, поцілив по об’єкту інфраструктури",
-    "summary": "Армія окупантів вдарила по Салтівському та Немишлянському району.",
-    "url": "https://lb.ua/society/2026/08/09/757840_vorog_znovu_vdariv_harkovu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T14:35:00+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": "https://i.lb.ua/news/101/36/6a788e8ccda12.jpg"
-  },
-  {
-    "id": "9165a004484a6392",
-    "title": "Cool URIs Don't Change (1998)",
-    "summary": "Article URL: https://www.w3.org/Provider/Style/URI Comments URL: https://news.ycombinator.com/item?id=49231809 Points: 10 # Comments: 1",
-    "url": "https://www.w3.org/Provider/Style/URI",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T14:32:53+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": null
-  },
-  {
-    "id": "4851e70c338eb3a2",
-    "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
-    "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy. Against a backdrop of…",
-    "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T14:30:58+00:00",
-    "fetched": "2026-08-09T15:36:16+00:00",
-    "image": "https://i.guim.co.uk/img/media/e5fe24d1799da0408c9ca663658b3d23e982aae5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=86c6d405ea029535366ef8d23fcac925"
-  },
-  {
-    "id": "7c77618ed6ba0b9f",
-    "title": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
-    "summary": "Article URL: https://douwe.com/projects/tectonic_globe Comments URL: https://news.ycombinator.com/item?id=49231777 Points: 4 # Comments: 0",
-    "url": "https://douwe.com/projects/tectonic_globe",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T14:30:05+00:00",
-    "fetched": "2026-08-09T16:40:42+00:00",
-    "image": "https://douwe.com/static/projects/tectonic_globe/tectonic_globe.jpg"
   }
 ]
