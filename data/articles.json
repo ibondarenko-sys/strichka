@@ -1,5 +1,89 @@
 [
   {
+    "id": "14168f930b22b80e",
+    "title": "У Патрульній поліції спростували, що “Фантоми” вже повернулися на дороги країни",
+    "summary": "Спеціальні патрульні автомобілі повернуться найближчим часом.",
+    "url": "https://lb.ua/society/2026/08/23/760946_patrulniy_politsiyi_sprostuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:38:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://i.lb.ua/news/054/27/6a8ae5e4aab8d.jpg"
+  },
+  {
+    "id": "69836ba8b919ea8c",
+    "title": "Угорщина очікує, що АЕС \"Пакш\" запрацює на повну потужність раніше",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049937/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:33:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/a/a/aa42d05------.jpg"
+  },
+  {
+    "id": "b6ffc39cbfc283bb",
+    "title": "Трамп заявив, що Канада “хоче переваг американського штату” після провалу торговельних перемовин",
+    "summary": "Канадський прем'єр Карні підтвердив, що з 8 вересня Оттава дзеркально відповість на мита Трампа “долар за долар”.",
+    "url": "https://lb.ua/world/2026/08/23/760944_tramp_zayaviv_scho_kanada_hoche.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:23:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://i.lb.ua/news/125/44/6a8ae3b04b3cb.jpg"
+  },
+  {
+    "id": "3ad68a3b6d6ce0d2",
+    "title": "\"Мадяр\": СБС уразили два винищувачі та 8 РЛС росіян",
+    "summary": "Українські дрони уразили літаки Су-33, МіГ-29 і вісім російських радарів у РФ і Криму.",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049934/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:14:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/9/897272/3992fdd50462662de4a129ca8f016c3b.jpeg"
+  },
+  {
+    "id": "a752faccac253281",
+    "title": "Президент Литви виступив українською на урочистостях до Дня прапора в Києві",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049933/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:02:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/f/e/fe6d8c2--------.jpg"
+  },
+  {
+    "id": "68fcd673c90baaf0",
+    "title": "Ворог вдарив реактивними дронами по підприємству на околицях Сум",
+    "summary": "Унаслідок атаки зайнялася пожежа.",
+    "url": "https://lb.ua/society/2026/08/23/760942_vorog_vdariv_reaktivnimi_dronami.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T12:02:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://i.lb.ua/news/049/19/6a8adeed42c4e.jpg"
+  },
+  {
+    "id": "6b863d7f5ba6191a",
+    "title": "Grand Theft Auto VI exists in its own universe",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it…",
+    "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T12:00:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "99777d5f295aff3d",
     "title": "Сили безпілотних систем знищили 2 винищувачі та 8 радіолокаційних станцій у РФ та Криму",
     "summary": "Підрозділи 1-го окремого центру СБС уразили винищувачі Су-33 і МіГ-29.",
@@ -70,6 +154,18 @@
     "published": "2026-08-23T11:08:00+00:00",
     "fetched": "2026-08-23T11:24:07+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/6/897233/36dbf2bae8a26d957aef1f0084c58ee1.jpeg"
+  },
+  {
+    "id": "0d50cbd1b3b1a71b",
+    "title": "Volcanoes that made history",
+    "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+    "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T11:02:54+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg"
   },
   {
     "id": "3fb3f23fc839ca2c",
@@ -168,6 +264,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e3/live/f2f33b60-9ed7-11f1-9253-c70a43a5293b.jpg"
   },
   {
+    "id": "69a8e1bc7b72be7c",
+    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 26 # Comments: 9",
+    "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T10:14:48+00:00",
+    "fetched": "2026-08-23T12:48:56+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg"
+  },
+  {
     "id": "8df43af4e0134806",
     "title": "Генштаб: У Криму уражено РЛС, місце запуску морських дронів і ретранслятор",
     "summary": "У Чорноморському та Євпаторії уражено російські об'єкти, зокрема радіолокаційну станцію.",
@@ -178,6 +286,18 @@
     "published": "2026-08-23T10:13:00+00:00",
     "fetched": "2026-08-23T10:28:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/897224/8eeaa3d0aecc427cf489ba812a57f22e.jpeg"
+  },
+  {
+    "id": "fd06f9d1abef3857",
+    "title": "Головне за ніч та ранок неділі, 23 серпня: понад 250 боєзіткнень, високі гості в Києві, зустріч Зеленського з журналістами",
+    "summary": "Нічні повітряні атаки, 254 бойових зіткнення, бої на Костянтинівському, Покровському і Південно-Слобожанському напрямках, ворожі обстріли, наслідки удару по Кривому Рогу.",
+    "url": "https://lb.ua/society/2026/08/23/760940_golovne_nich_ranok_nedili_23.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T10:13:00+00:00",
+    "fetched": "2026-08-23T12:48:53+00:00",
+    "image": "https://i.lb.ua/news/040/21/6a8adee4c0a8e.jpg"
   },
   {
     "id": "cfdc73273d6deb3c",
@@ -214,6 +334,18 @@
     "published": "2026-08-23T10:03:00+00:00",
     "fetched": "2026-08-23T10:28:18+00:00",
     "image": "https://i.lb.ua/news/104/56/6a8ac5589ccd9.jpg"
+  },
+  {
+    "id": "d191ca370d5a5935",
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 61 # Comments: 21",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-23T10:02:51+00:00",
+    "fetched": "2026-08-23T12:48:56+00:00",
+    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/lenovo-thinkstation-pgx-2.jpg?w=1600&h=900&fit=crop"
   },
   {
     "id": "0b47a8a1a768136c",
@@ -51094,209 +51226,5 @@
     "published": "2026-08-09T12:49:00+00:00",
     "fetched": "2026-08-09T12:59:56+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/a/889100/1a15d18776575070fdf58fb683ac0086.jpeg"
-  },
-  {
-    "id": "521fe158cece5b70",
-    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-    "summary": "Article URL: https://github.com/rochus-keller/OberonSystem/tree/op2-rv32 Comments URL: https://news.ycombinator.com/item?id=49230891 Points: 20 # Comments: 2",
-    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T12:43:16+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": "https://opengraph.githubassets.com/f53eb1d21f312d491ef88d6916de63b28260b7bc16735518d5f606e53523ea0a/rochus-keller/OberonSystem"
-  },
-  {
-    "id": "dfdea78b821d383f",
-    "title": "На Київщині сталася пожежа у притулку для тварин",
-    "summary": "Внаслідок займання загинули тварини.",
-    "url": "https://lb.ua/society/2026/08/09/757820_kiyivschini_stalasya_pozhezha.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:36:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/125/16/6a78715f8a8ce.jpg"
-  },
-  {
-    "id": "fdebed3b6c4469b4",
-    "title": "Україна нагадала Білорусі, що \"розрізняє білоруський народ і режим Лукашенка\"",
-    "summary": "Сибіга наголосив на підтримці прагнень білорусів до свободи і демократії та засудив репресії режиму Лукашенка.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047976/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:35:00+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/4/889099/14f601d2cf0fef55e6f0ae12572f7d52.jpeg"
-  },
-  {
-    "id": "0f2b30dca8950bc1",
-    "title": "Нетаньягу відхилив 15-пунктний план Трампа щодо Смуги Гази",
-    "summary": "\"Виведення військ не відбудеться, доки ХАМАС не буде “справді” роззброєно\", заявив ізраїльський прем'єр.",
-    "url": "https://lb.ua/world/2026/08/09/757822_netanyagu_vidhiliv_15-punktniy.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:34:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/082/48/6a78742e679ee.jpg"
-  },
-  {
-    "id": "71b2c5d7966f8d5b",
-    "title": "Ancient Roman shipwreck discovered off Sicily coast",
-    "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T12:27:26+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af04/live/d5346d20-93e6-11f1-b2ab-0dd01740f9f6.jpg"
-  },
-  {
-    "id": "395809a0bb6cde53",
-    "title": "У Польщі під час велоперегонів постраждали щонайменше 17 людей",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047973/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:21:00+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": null
-  },
-  {
-    "id": "ba917298fd9d344a",
-    "title": "У США під час гасіння лісової пожежі розбився гелікоптер: загинули двоє пілотів",
-    "summary": "Аварія сталася в п’ятницю вранці в районі Національного лісу Фішлейк.",
-    "url": "https://lb.ua/world/2026/08/09/757818_ssha_pid_chas_gasinnya_lisovoyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:20:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/014/21/6a786ef4a02dd.jpg"
-  },
-  {
-    "id": "2ff11bca6129208b",
-    "title": "У Молдові на місці вибуху знайшли уламки ударного дрона, – ЗМІ",
-    "summary": "Що саме сталося – з’ясовують експерти.",
-    "url": "https://lb.ua/world/2026/08/09/757816_moldovi_mistsi_vibuhu_znayshli.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:14:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/083/36/6a786f3915475.jpg"
-  },
-  {
-    "id": "6e0f12b732f6a05f",
-    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-09T12:12:10+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg"
-  },
-  {
-    "id": "ebb7b074f644da4f",
-    "title": "У Молдові після вибуху знайшли уламки БПЛА",
-    "summary": "У районі Штефан-Воде в Молдові впав і вибухнув бойовий дрон. Постраждалих немає, триває розслідування.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8047972/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:09:00+00:00",
-    "fetched": "2026-08-09T12:59:56+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/e/889076/0eaf80b8475114c3cd5dac7e44e25755.jpeg"
-  },
-  {
-    "id": "bb53fdd0eaaf4860",
-    "title": "Why Wall Street Is Ignoring Big Tech's Debt",
-    "summary": "Article URL: https://www.youtube.com/watch?v=NufJ7g63KSY Comments URL: https://news.ycombinator.com/item?id=49230630 Points: 34 # Comments: 12",
-    "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T12:01:39+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": null
-  },
-  {
-    "id": "0c2e671de92dbe5d",
-    "title": "Албанія підтримала візит Зеленського до Сербії та заявила про незмінну підтримку України й Косова",
-    "summary": "Албанія підтвердила підтримку незалежності, суверенітету та територіальної цілісності України.",
-    "url": "https://lb.ua/world/2026/08/09/757812_albaniya_pidtrimala_vizit.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T12:01:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/073/51/6a786c353c44f.jpg"
-  },
-  {
-    "id": "7c16bfed4c64a077",
-    "title": "AI detectors are creating a new era of distrust",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started…",
-    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T12:00:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "9d8fc0323cf8c856",
-    "title": "Росіяни вдарили дроном біля супермаркету у Херсоні, є постраждалі",
-    "summary": "Госпіталізували чоловік та жінка.",
-    "url": "https://lb.ua/society/2026/08/09/757814_rosiyani_vdarili_dronom_bilya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:59:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/074/59/6a786b38d78d0.jpg"
-  },
-  {
-    "id": "3d640600898c1628",
-    "title": "70% of AI revenue comes from OpenAI and Anthropic",
-    "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 17 # Comments: 1",
-    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T11:56:16+00:00",
-    "fetched": "2026-08-09T14:39:08+00:00",
-    "image": null
-  },
-  {
-    "id": "c0bb151f497495e3",
-    "title": "Bloomberg: Румунія продовжить роботу другого реактора АЕС \"Чернавода\" ще щонайменше на дев’ять днів",
-    "summary": "Румунія також запровадила надзвичайний стан в енергетичному секторі на серпень.",
-    "url": "https://lb.ua/world/2026/08/09/757808_bloomberg_rumuniya_prodovzhit.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:55:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/122/52/6a7866725a2d1.jpg"
-  },
-  {
-    "id": "84508407acc4924c",
-    "title": "Фінляндія змінює процедуру подання заяви на отримання громадянства",
-    "summary": "У 2027 році запровадять новий іспит.",
-    "url": "https://lb.ua/world/2026/08/09/757810_finlyandiya_zminyuie_protseduru.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T11:50:00+00:00",
-    "fetched": "2026-08-09T12:59:57+00:00",
-    "image": "https://i.lb.ua/news/004/15/6a7868f67a774.jpg"
   }
 ]
