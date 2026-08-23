@@ -1,5 +1,41 @@
 [
   {
+    "id": "f50672dbf59ee653",
+    "title": "Прем'єр Естонії наразі не бачить прямої загрози розширення агресії РФ",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049968/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T17:42:00+00:00",
+    "fetched": "2026-08-23T17:47:34+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/6/a/6ae4680------.jpg"
+  },
+  {
+    "id": "1a8b25322f1a566e",
+    "title": "Рена Марутян: У чому феномен української стійкості та до чого тут софійність",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/23/8049967/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T17:32:00+00:00",
+    "fetched": "2026-08-23T17:47:34+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/895973/og_8049596_ukr.png?w=1200&q=85&stamp=1787250962"
+  },
+  {
+    "id": "05a262ac14cab337",
+    "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+    "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between Canada and the United States is a warning…",
+    "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T17:24:46+00:00",
+    "fetched": "2026-08-23T17:47:34+00:00",
+    "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a"
+  },
+  {
     "id": "12c47064d2852539",
     "title": "Новий тимчасовий повірений у справах США почав роботу в Україні",
     "summary": "Американський дипломат Пол Г'юстон став тимчасовим повіреним у справах США в Україні 23 серпня.",
@@ -51082,53 +51118,5 @@
     "published": "2026-08-09T18:03:00+00:00",
     "fetched": "2026-08-09T18:48:07+00:00",
     "image": "https://i.lb.ua/news/086/16/6a78c117468b0.jpg"
-  },
-  {
-    "id": "5186974372bc736b",
-    "title": "Німеччина вислала близько 400 росіян із лютого 2022 року",
-    "summary": "білтшість із них були співробітниками спецслужб, які працювали під дипломатичним прикриттям.",
-    "url": "https://lb.ua/world/2026/08/09/757860_nimechchina_vislala_blizko_400.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T17:41:00+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://i.lb.ua/news/010/28/6a78bbd58d8e7.jpg"
-  },
-  {
-    "id": "c72c293a90da76bd",
-    "title": "Зеленський анонсував нові контакти з посередниками щодо завершення війни",
-    "summary": "Наступного тижня Україна проведе нові контакти з посередниками та переговори задля посилення ППО.",
-    "url": "https://www.pravda.com.ua/news/2026/08/09/8048001/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T17:28:00+00:00",
-    "fetched": "2026-08-09T17:34:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/d/889194/3d81ea471a1ad44c5aa668eb988e76e7.jpeg"
-  },
-  {
-    "id": "268943c0a1a5cfed",
-    "title": "OpenChamber: An Agentic Development Environment",
-    "summary": "Article URL: https://openchamber.dev/ Comments URL: https://news.ycombinator.com/item?id=49233448 Points: 23 # Comments: 5",
-    "url": "https://openchamber.dev/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-09T17:27:16+00:00",
-    "fetched": "2026-08-09T18:48:07+00:00",
-    "image": "https://openchamber.dev/og-image.png"
-  },
-  {
-    "id": "0764eb49b237950c",
-    "title": "Зеленський: Україна відповідатиме на удари РФ і готує контракти для ППО",
-    "summary": "Зеленському прозвітував премʼєр Корецький, а також була розмова із головкомом.",
-    "url": "https://lb.ua/society/2026/08/09/757862_zelenskiy_ukrayina_vidpovidatime.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T17:26:00+00:00",
-    "fetched": "2026-08-09T17:34:54+00:00",
-    "image": "https://i.lb.ua/news/113/18/6a78b844132fa.jpg"
   }
 ]
