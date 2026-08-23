@@ -1,5 +1,29 @@
 [
   {
+    "id": "793908a440b57eae",
+    "title": "Російський Краснодар атакували дрони – пабліки",
+    "summary": "У ніч на 24 серпня безпілотники вчергове атакували російський Краснодар.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049983/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-23T22:24:00+00:00",
+    "fetched": "2026-08-23T22:50:43+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/897542/c1960402b10163d4712ed0f456c02ec8.jpeg"
+  },
+  {
+    "id": "1a74238f95c83a6e",
+    "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+    "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse,…",
+    "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T22:16:53+00:00",
+    "fetched": "2026-08-23T22:50:43+00:00",
+    "image": "https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=9be55d6e6768a346d1aa2a8257a6b4f9"
+  },
+  {
     "id": "95d8e39702a13c6c",
     "title": "У День Незалежності Радбез ООН обговорить наслідки війни РФ проти України – Сибіга",
     "summary": "Міністр закордонних справ України Андрій Сибіга повідомив, що у День Незалежності України Рада Безпеки ООН збереться, щоб обговорити наслідки війни Росії в Україні.",
@@ -50770,17 +50794,5 @@
     "published": "2026-08-09T23:05:29+00:00",
     "fetched": "2026-08-10T02:08:28+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg"
-  },
-  {
-    "id": "80c7423967f9bcf6",
-    "title": "Виробники Patriot побоюються, що Україна вдосконалить і здешевить їхні ракети – ЗМІ",
-    "summary": "Американські оборонні компанії Raytheon і Lockheed Martin побоюються, що Україна в разі отримання ліцензії зможе удосконалити зенітні ракети Patriot і виробляти їх швидше та значно дешевше за США.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048014/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-09T22:50:00+00:00",
-    "fetched": "2026-08-09T23:35:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/0/889273/3056a344355894e89572731a96184bfa.jpeg"
   }
 ]
