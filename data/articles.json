@@ -1,5 +1,53 @@
 [
   {
+    "id": "8bcb9c0fd42695b9",
+    "title": "Shein aims for almost $27bn valuation in stock market debut",
+    "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+    "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-24T04:06:54+00:00",
+    "fetched": "2026-08-24T04:21:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg"
+  },
+  {
+    "id": "2c91a82a84c22dcf",
+    "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+    "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a…",
+    "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-24T04:02:59+00:00",
+    "fetched": "2026-08-24T04:21:57+00:00",
+    "image": "https://i.guim.co.uk/img/media/a5f2728ff52788c315c073da43cf496d9cf46c65/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=75297e9c85a7d2c725f4b243af50bedb"
+  },
+  {
+    "id": "eaa571853d8fe2e0",
+    "title": "Сили оборони знешкодили ще 1 490 російських окупантів",
+    "summary": "У війні проти України Росія втратила ще 1 490 військових, 68 артсистем і 554 одиниці автомобільної техніки та автоцистерн.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049990/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T03:40:00+00:00",
+    "fetched": "2026-08-24T04:21:57+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/897563/594957372037066d71d35618117757c7.jpeg"
+  },
+  {
+    "id": "398564c7de840bd4",
+    "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+    "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+    "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-24T03:27:11+00:00",
+    "fetched": "2026-08-24T04:21:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg"
+  },
+  {
     "id": "d1ddb7cb86e6f7d5",
     "title": "Бессент заявив про початок \"наймасштабнішої фінансової операції\" проти Ірану",
     "summary": "Війна США та Ірану: Штати розпочинають \"наймасштабнішу фінансову операцію\" проти Ірану.",
@@ -82,6 +130,18 @@
     "published": "2026-08-23T23:30:00+00:00",
     "fetched": "2026-08-23T23:47:31+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/897551/7b6990fbb513dc23e3508106abe64ab6.jpeg"
+  },
+  {
+    "id": "6c51db20726b2563",
+    "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+    "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+    "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-23T23:07:10+00:00",
+    "fetched": "2026-08-24T04:21:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg"
   },
   {
     "id": "793908a440b57eae",
@@ -50626,125 +50686,5 @@
     "published": "2026-08-10T04:35:24+00:00",
     "fetched": "2026-08-10T07:52:00+00:00",
     "image": null
-  },
-  {
-    "id": "d98404189a553ed3",
-    "title": "Росіяни били по Запорізькій області понад 800 разів, одна людина загинула – ОВА",
-    "summary": "За добу росіяни завдали 867 ударів по Запорізькій області, зруйновано житло й інфраструктуру, є жертви та поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048026/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T04:18:00+00:00",
-    "fetched": "2026-08-10T05:55:38+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/a/889321/fa2d433405a695eb898a5f88fe3361d8.jpeg"
-  },
-  {
-    "id": "7908f14e30362b80",
-    "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-    "summary": "Article URL: https://www.nber.org/papers/w35560 Comments URL: https://news.ycombinator.com/item?id=49239095 Points: 43 # Comments: 12",
-    "url": "https://www.nber.org/papers/w35560",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T04:06:10+00:00",
-    "fetched": "2026-08-10T05:55:40+00:00",
-    "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
-  },
-  {
-    "id": "2cf67607b436984c",
-    "title": "Сили оборони України за добу відмінусували майже 1500 окупантів та понад 540 одиниць техніки",
-    "summary": "За минулу добу Сили оборони України вбили та поранили 1 470 російських окупантів, загальні втрати ворога у війні склали 1 459 210 осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048021/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T04:03:00+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/3/889306/b3386f928e492db3e3cbaefee03f25de.jpeg"
-  },
-  {
-    "id": "c5c0807a0af440b0",
-    "title": "Північнокорейські хакери розробили інструменти ШІ для автоматизації кібератак",
-    "summary": "Південнокорейська компанія з кібербезпеки Genians повідомила, що пов'язане з КНДР хакерське угруповання створило інструменти на основі великих мовних моделей (LLM) і зібрало програмне забезпечення для автоматизації кібератак, аналізу викрадених даних та створення фішингових…",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048020/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T03:53:00+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/889304/2578c0a26395b7ead89604aac2615ecc.jpeg"
-  },
-  {
-    "id": "ef00a2497835aab2",
-    "title": "Є лише 6 хвилин на знищення пускових установок: Як протидіяти російській балістиці",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8047763/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T03:50:00+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/1/888117/11d840c36b003913b7f9eba92f0d5cd6.jpeg?w=1200&q=85&stamp=1786103405"
-  },
-  {
-    "id": "15e161b5f7dd2dc2",
-    "title": "Auto mode is now the default in Claude Code",
-    "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 85 # Comments: 44",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T03:50:00+00:00",
-    "fetched": "2026-08-10T05:55:40+00:00",
-    "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69093b56f1035860a3cfe774_og_claude-code-on-the-web.jpg"
-  },
-  {
-    "id": "d0bc31a1d2092855",
-    "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-    "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears…",
-    "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-10T03:46:36+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=140&quality=85&auto=format&fit=max&s=53b956814ed93fcd1cec473cc614d243"
-  },
-  {
-    "id": "92c105cfea145d5b",
-    "title": "Нетаньягу назвав новий мирний план Трампа щодо Гази неприйнятним",
-    "summary": "Прем'єр-міністр Ізраїлю Беньямін Нетаньягу заявив, що відкидає новий мирний план президента США Дональда Трампа з 15 пунктів щодо Сектора Гази та не виводитиме війська до повного роззброєння угруповання ХАМАС.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048019/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T03:27:00+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/889291/199d3fa2632379dcd015292b62561fe8.jpeg"
-  },
-  {
-    "id": "4e6949d8a97bbb50",
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "summary": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I…",
-    "url": "https://www.whodunnitai.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T03:18:40+00:00",
-    "fetched": "2026-08-10T05:55:40+00:00",
-    "image": "https://www.whodunnitai.com/whodunnitai-metadata.jpg"
-  },
-  {
-    "id": "05efe377a9c0fa0b",
-    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-    "summary": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 24 # Comments: 0",
-    "url": "https://github.com/shinyquagsire23/Klepton",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T03:12:48+00:00",
-    "fetched": "2026-08-10T05:55:40+00:00",
-    "image": "https://opengraph.githubassets.com/b648cf983cce00cf563e9aa5f6f46b0a1c8f29b94dfa71acf93af51c409d3fd3/shinyquagsire23/Klepton"
   }
 ]
