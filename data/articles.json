@@ -1,5 +1,17 @@
 [
   {
+    "id": "d7c120f82b4bd69e",
+    "title": "Прем’єр Британії оголосить про нову підтримку України у виготовленні далекобійних ракет",
+    "summary": "Британія має намір оголосити про нову підтримку України у виготовленні далекобійних ракет.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049987/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T01:14:00+00:00",
+    "fetched": "2026-08-24T01:39:06+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/897553/ca459a9bdb04263ac838a5186b557e37.jpeg"
+  },
+  {
     "id": "1026ee25d6ee0e8a",
     "title": "Ціни на нафту дещо знизилися на тлі погроз Ірану перекрити Ормузьку протоку",
     "summary": "Світові ціни на нафту дещо знизилися.",
@@ -50722,65 +50734,5 @@
     "published": "2026-08-10T02:23:17+00:00",
     "fetched": "2026-08-10T04:13:36+00:00",
     "image": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/featured.jpg"
-  },
-  {
-    "id": "6d20ebd69fa6e08a",
-    "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
-    "summary": "Observatory says 36.9C posted on Sunday is city’s highest official temperature since its records began 142 years ago, with storm driving intense heat in region Hong Kong has officially recorded its highest ever temperature as Typhoon Dolphin swept warm air over the city, the…",
-    "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-10T01:24:13+00:00",
-    "fetched": "2026-08-10T02:08:28+00:00",
-    "image": "https://i.guim.co.uk/img/media/7f3f1905457238e55fd967408caade46fd2ee195/458_0_4584_3669/master/4584.jpg?width=140&quality=85&auto=format&fit=max&s=748e278c68783aae8810664756726067"
-  },
-  {
-    "id": "a2c4ef267bac256c",
-    "title": "Росіяни скинули 5 КАБів на Суми: поранено п'ятеро людей",
-    "summary": "У ніч на 10 серпня російські війська завдали п'яти ударів керованими авіабомбами по цивільній інфраструктурі Сум, унаслідок чого поранення отримали щонайменше п'ятеро людей.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048017/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T01:07:00+00:00",
-    "fetched": "2026-08-10T02:08:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/9/889277/4908c72b0c61cf8e390fbe5c6ff6b94f.jpeg"
-  },
-  {
-    "id": "302ad6f0dba4ab5d",
-    "title": "How We Pushed CDC into Postgres",
-    "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49238050 Points: 16 # Comments: 0",
-    "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T01:01:34+00:00",
-    "fetched": "2026-08-10T02:08:28+00:00",
-    "image": "https://www.snowflake.com/content/dam/snowflake-site/engineering-blog/featured-images/sf-eng-blog-ML-2.png"
-  },
-  {
-    "id": "ac1b178c9c378ada",
-    "title": "Japanese court overturns Red RAW video patent",
-    "summary": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/ Comments URL: https://news.ycombinator.com/item?id=49237873 Points: 19 # Comments: 3",
-    "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T00:36:24+00:00",
-    "fetched": "2026-08-10T02:08:28+00:00",
-    "image": "https://www.dpreview.com/wp-content/uploads/2020/12/8323309263-V_RAPTOR_XL_Selects_Camera_w_Family_Bckgrnd.jpeg"
-  },
-  {
-    "id": "f48bfe94a92c865c",
-    "title": "Тайвань запозичує досвід України та створює флотилії дронів для захисту від Китаю – NYT",
-    "summary": "Тайвань активно вивчає український досвід ведення війни та прискорює розгортання флотилій повітряних і морських безпілотників для відбиття ймовірного військового вторгнення з Китаю.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048016/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T00:29:00+00:00",
-    "fetched": "2026-08-10T02:08:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/1/889275/d1ae755935af292b59aa15fa8bb1a8b5.jpeg"
   }
 ]
