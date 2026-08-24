@@ -1,5 +1,29 @@
 [
   {
+    "id": "9e58bb929939a9e4",
+    "title": "Росіяни атакували склад Червоного Хреста в Херсоні: збитки оцінюють майже у 28 млн гривень",
+    "summary": "Збитків майже на 28 млн грн: у Херсоні росіяни спалили склад Червоного Хреста.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050153/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T23:00:00+00:00",
+    "fetched": "2026-08-24T23:25:37+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/898373/46c79e6b86df931ac84eb9badf829127.jpeg"
+  },
+  {
+    "id": "966218192e094ad2",
+    "title": "У Харкові через ракетну атаку росіян загинула людина",
+    "summary": "У промисловій зоні зафіксовано влучання ворожих засобів ураження.",
+    "url": "https://lb.ua/society/2026/08/25/761216_harkovi_cherez_raketnu_ataku.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T22:30:00+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://i.lb.ua/news/040/00/6a8cc68d0812e.jpg"
+  },
+  {
     "id": "2670679308418c5a",
     "title": "Росіяни ракетами атакували Харків, загинула людина",
     "summary": "Росіяни завдали ракетного удару по Харкову в ніч на вівторок, 25 серпня, внаслідок якого загинула людина.",
@@ -22,6 +46,18 @@
     "published": "2026-08-24T22:13:40+00:00",
     "fetched": "2026-08-24T22:30:46+00:00",
     "image": "https://developer.apple.com/news/images/og/icloud-og.jpg"
+  },
+  {
+    "id": "f40a211fa8cf2d9f",
+    "title": "Moon",
+    "summary": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 45 # Comments: 5",
+    "url": "https://ciechanow.ski/moon/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T22:06:02+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://ciechanow.ski/images/og/moon.png"
   },
   {
     "id": "13b2dd04b58bbf56",
@@ -48,6 +84,18 @@
     "image": "https://i.lb.ua/news/029/20/6a8cbd15cf913.jpg"
   },
   {
+    "id": "f2e956db9deea37e",
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T21:45:53+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg"
+  },
+  {
     "id": "aa83739126c37330",
     "title": "Росіяни атакують Київ реактивними БПЛА, пошкоджена багатоповерхівка",
     "summary": "Наслідки фіксуються у Голосіївському районі столиці.",
@@ -58,6 +106,30 @@
     "published": "2026-08-24T21:35:00+00:00",
     "fetched": "2026-08-24T22:30:46+00:00",
     "image": "https://i.lb.ua/news/049/59/6a8cb9b07f761.jpg"
+  },
+  {
+    "id": "4dd582d8efd3f872",
+    "title": "Росіяни атакували Київ реактивними БПЛА, пошкоджена багатоповерхівка",
+    "summary": "Наслідки фіксуються у Голосіївському районі столиці.",
+    "url": "https://lb.ua/society/2026/08/25/761214_rosiyani_atakuvali_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T21:35:00+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://i.lb.ua/news/049/59/6a8cb9b07f761.jpg"
+  },
+  {
+    "id": "743a13d8b15630a3",
+    "title": "Data centers become \"killer application\" for new power transformer tech",
+    "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+    "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T21:32:16+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg"
   },
   {
     "id": "870299a01d1fa0e2",
@@ -106,6 +178,18 @@
     "published": "2026-08-24T21:10:00+00:00",
     "fetched": "2026-08-24T21:33:45+00:00",
     "image": "https://i.lb.ua/news/111/25/6a8cb2fc6f193.jpg"
+  },
+  {
+    "id": "f2431745b2626c14",
+    "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+    "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+    "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T21:04:48+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg"
   },
   {
     "id": "876b079beb5ef093",
@@ -202,6 +286,18 @@
     "published": "2026-08-24T20:23:00+00:00",
     "fetched": "2026-08-24T20:35:01+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/e/a/ea06acb---------------2026-08-24-205232.jpg"
+  },
+  {
+    "id": "6f59bd93057a5152",
+    "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+    "summary": "Monitor vendors are playing with fire.",
+    "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T20:17:41+00:00",
+    "fetched": "2026-08-24T23:25:38+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg"
   },
   {
     "id": "798495b62b1b44e3",
@@ -50158,89 +50254,5 @@
     "published": "2026-08-10T23:26:00+00:00",
     "fetched": "2026-08-10T23:38:59+00:00",
     "image": "https://i.lb.ua/news/081/57/6a7a5e510c816.jpg"
-  },
-  {
-    "id": "7d6440dd395371c9",
-    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-    "summary": "Article URL: https://everycube.alen.is/ Comments URL: https://news.ycombinator.com/item?id=49251179 Points: 56 # Comments: 11",
-    "url": "https://everycube.alen.is/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T23:16:25+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://everycube.alen.is/opengraph-image?e65a545ab414fc11"
-  },
-  {
-    "id": "50adf02637164c03",
-    "title": "World Train Map – 1247 train routes around the world",
-    "summary": "Article URL: https://worldtrainmap.com/ Comments URL: https://news.ycombinator.com/item?id=49250894 Points: 4 # Comments: 0",
-    "url": "https://worldtrainmap.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T22:42:14+00:00",
-    "fetched": "2026-08-10T23:39:10+00:00",
-    "image": "https://worldtrainmap.com/og.jpg?v=4"
-  },
-  {
-    "id": "fc634f1e5eddf346",
-    "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
-    "summary": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
-    "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-10T22:40:23+00:00",
-    "fetched": "2026-08-11T04:01:36+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5da9/live/2720af50-9503-11f1-b0ca-d1df00b15408.jpg"
-  },
-  {
-    "id": "62b52070c5a60428",
-    "title": "Google Search Is Dying. What Comes Next Is Worse",
-    "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 27 # Comments: 19",
-    "url": "https://thewalrus.ca/google-search-is-dying/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T22:36:30+00:00",
-    "fetched": "2026-08-10T23:39:10+00:00",
-    "image": null
-  },
-  {
-    "id": "24cef45730a9a4ce",
-    "title": "Падіння рівня води у Дунаї суттєво ускладнило український експорт",
-    "summary": "Проблеми виникли саме тоді, коли чорноморський маршрут потребує альтернативи.",
-    "url": "https://lb.ua/economics/2026/08/11/758112_padinnya_rivnya_vodi_dunayi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T22:32:00+00:00",
-    "fetched": "2026-08-10T22:41:54+00:00",
-    "image": "https://i.lb.ua/news/124/49/6a7a5196982ad.jpg"
-  },
-  {
-    "id": "b8df156718215c51",
-    "title": "Росіяни масовано атакували Запоріжжя ракетами та КАБами: 9 поранених, є пожежі та знеструмлення",
-    "summary": "Уніч на 11 серпня російські окупаційні війська завдали масованого комбінованого удару по Запоріжжю, застосувавши балістичні ракети та керовані авіабомби. У результаті атаки щонайменше двоє людей дістали поранення, у місті виникли пожежі та знеструмлення.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048171/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T22:32:00+00:00",
-    "fetched": "2026-08-10T22:41:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/889999/524acf93b88f8911601fee3a53e0926a.jpeg"
-  },
-  {
-    "id": "b8b7373b56d1beb3",
-    "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-    "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-    "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-10T22:31:42+00:00",
-    "fetched": "2026-08-11T04:01:36+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg"
   }
 ]
