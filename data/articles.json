@@ -1,5 +1,77 @@
 [
   {
+    "id": "2670679308418c5a",
+    "title": "Росіяни ракетами атакували Харків, загинула людина",
+    "summary": "Росіяни завдали ракетного удару по Харкову в ніч на вівторок, 25 серпня, внаслідок якого загинула людина.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050152/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T22:18:00+00:00",
+    "fetched": "2026-08-24T22:30:45+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/898372/84cbe44925b5e958393dd4cd09056270.jpeg"
+  },
+  {
+    "id": "6a63078b3dd99db0",
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 16 # Comments: 3",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T22:13:40+00:00",
+    "fetched": "2026-08-24T22:30:46+00:00",
+    "image": "https://developer.apple.com/news/images/og/icloud-og.jpg"
+  },
+  {
+    "id": "13b2dd04b58bbf56",
+    "title": "Верховний суд США дозволив Трампу боротьбу з голосуванням поштою",
+    "summary": "Але часу на радикальні зміни процедури голосування перед проміжними виборами вже майже немає.",
+    "url": "https://lb.ua/world/2026/08/25/761210_verhovniy_sud_ssha_dozvoliv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T22:05:00+00:00",
+    "fetched": "2026-08-24T22:30:46+00:00",
+    "image": "https://i.lb.ua/news/005/08/6a8cba03534f4.jpg"
+  },
+  {
+    "id": "49ebe53bf7ad890c",
+    "title": "США в Радбезі ООН закликали Росію та Україну повернутися за стіл переговорів",
+    "summary": "Представник Сполучених Штатів також закликав сторони припинити удари по цивільних суднах.",
+    "url": "https://lb.ua/news/2026/08/25/761212_ssha_radbezi_oon_zaklikali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T21:52:00+00:00",
+    "fetched": "2026-08-24T22:30:46+00:00",
+    "image": "https://i.lb.ua/news/029/20/6a8cbd15cf913.jpg"
+  },
+  {
+    "id": "aa83739126c37330",
+    "title": "Росіяни атакують Київ реактивними БПЛА, пошкоджена багатоповерхівка",
+    "summary": "Наслідки фіксуються у Голосіївському районі столиці.",
+    "url": "https://lb.ua/society/2026/08/25/761214_rosiyani_atakuyut_kiyiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T21:35:00+00:00",
+    "fetched": "2026-08-24T22:30:46+00:00",
+    "image": "https://i.lb.ua/news/049/59/6a8cb9b07f761.jpg"
+  },
+  {
+    "id": "870299a01d1fa0e2",
+    "title": "Через атаку ворожих дронів у Києві пошкоджена 16-поверхівка",
+    "summary": "Київська 16-поверхівка зазнала ушкоджень через атаку російських дронів",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050151/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T21:30:00+00:00",
+    "fetched": "2026-08-24T22:30:45+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/898365/8472b6e80198008e9c664c13599f7353.jpeg"
+  },
+  {
     "id": "1596d361fde18388",
     "title": "США в ООН закликали Росію та Україну повернутися за стіл переговорів",
     "summary": "Під час засідання Ради Безпеки ООН заступник постійного представника США при організації Ден Негреа закликав Росію та Україну припинити удари по цивільних об'єктах і повернутися за стіл переговорів.",
@@ -490,6 +562,18 @@
     "published": "2026-08-24T17:29:00+00:00",
     "fetched": "2026-08-24T17:34:20+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/7/d7a0bde-279b0072152548c44b3be7ebbbe239b4.jpg"
+  },
+  {
+    "id": "825bdc919963580e",
+    "title": "Fences, Not Sandboxes",
+    "summary": "Article URL: https://yegge.ai/essays/fences-not-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49423146 Points: 30 # Comments: 18",
+    "url": "https://yegge.ai/essays/fences-not-sandboxes/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T17:28:43+00:00",
+    "fetched": "2026-08-24T22:30:46+00:00",
+    "image": "https://yegge.ai/images/essays/fences-not-sandboxes/hero.jpg"
   },
   {
     "id": "ba3ce8b56ee178e1",
@@ -50158,113 +50242,5 @@
     "published": "2026-08-10T22:31:42+00:00",
     "fetched": "2026-08-11T04:01:36+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg"
-  },
-  {
-    "id": "5dd6b19cff3c0ffa",
-    "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-    "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
-    "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T22:23:43+00:00",
-    "fetched": "2026-08-10T23:38:59+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg"
-  },
-  {
-    "id": "76d8c34db995e007",
-    "title": "Фейкові імена та вимкнені бодікамери: hromadske з'ясувало деталі затримання журналіста Шульгата",
-    "summary": "Редакція hromadske дослідила обставини затримання свого колеги, журналіста-розслідувача Євгенія Шульгата, та виявила низку порушень з боку правоохоронців. Зокрема, під час затримання поліцейські назвалися несправжніми іменами, а їхні нагрудні камери були вимкнені. Редакція…",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048170/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T22:14:00+00:00",
-    "fetched": "2026-08-10T22:41:54+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/889997/718b3ecc2715102ac0b42e9afd3c1e7c.jpeg"
-  },
-  {
-    "id": "2d01a61a8baa64ee",
-    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-    "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T22:13:03+00:00",
-    "fetched": "2026-08-10T23:38:59+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg"
-  },
-  {
-    "id": "199631baf6530c65",
-    "title": "The lonely Chinese men being conned by fake brides",
-    "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
-    "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-10T22:02:21+00:00",
-    "fetched": "2026-08-11T04:01:36+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b2/live/079b5000-94d5-11f1-a7ab-8b30adf0800a.jpg"
-  },
-  {
-    "id": "638db6f13c0db00b",
-    "title": "Mark Zuckerberg doesn’t understand how to live",
-    "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise.…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T22:00:00+00:00",
-    "fetched": "2026-08-10T22:41:54+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mGK9aQV9PSH0sYLdbPT57YrtzOZ75R-5y41nH9iZqB0.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ffa93d2585be9fa1",
-    "title": "Податкова викрила схеми штучного дроблення бізнесу: втрати бюджету сягають 1,7 млрд гривень",
-    "summary": "Серед порушників - понад 500 брендів і торговельних марок.",
-    "url": "https://lb.ua/economics/2026/08/11/758110_podatkova_vikrila_shemi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T21:57:00+00:00",
-    "fetched": "2026-08-10T22:41:54+00:00",
-    "image": "https://i.lb.ua/news/023/60/6a7a4843e1192.jpg"
-  },
-  {
-    "id": "c7ebbed5a047d497",
-    "title": "В Естонії розвалилась парламентська коаліція: до виборів 7 місяців",
-    "summary": "Вихід двох депутатів зі своїх фракцій залишив вже колишню більшість без потрібних голосів.",
-    "url": "https://lb.ua/world/2026/08/11/758106_estoniyi_rozvalilas_parlamentska.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T21:53:00+00:00",
-    "fetched": "2026-08-10T22:41:54+00:00",
-    "image": "https://i.lb.ua/news/076/29/6a7a477a60607.jpg"
-  },
-  {
-    "id": "7d0a17b01861efa8",
-    "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-    "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
-    "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T21:42:56+00:00",
-    "fetched": "2026-08-10T23:38:59+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg"
-  },
-  {
-    "id": "4f49de3486923264",
-    "title": "How Claude marks AI-generated content",
-    "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 109 # Comments: 86",
-    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T21:36:56+00:00",
-    "fetched": "2026-08-11T07:14:46+00:00",
-    "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
   }
 ]
