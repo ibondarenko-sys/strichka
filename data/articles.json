@@ -1,5 +1,53 @@
 [
   {
+    "id": "d1ddb7cb86e6f7d5",
+    "title": "Бессент заявив про початок \"наймасштабнішої фінансової операції\" проти Ірану",
+    "summary": "Війна США та Ірану: Штати розпочинають \"наймасштабнішу фінансову операцію\" проти Ірану.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049989/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T03:04:00+00:00",
+    "fetched": "2026-08-24T03:07:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/0/897556/90e31a9a77a9a60c4625a77ed405e47d.jpeg"
+  },
+  {
+    "id": "647b8be85266b495",
+    "title": "Іран пригрозив суднам, які порушують його правила в Ормузі",
+    "summary": "У неділю Іран заявив, що судна, які він звинувачує у порушенні його правил транзиту в Ормузькій протоці, \"зіткнуться з обмеженнями\", такими як \"штрафи, затримання або конфіскація\".",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049986/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T02:30:00+00:00",
+    "fetched": "2026-08-24T03:07:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/897554/50dcd77e14d42eaa82eda4e606303cec.jpeg"
+  },
+  {
+    "id": "e5e5bb4b13e3f3dd",
+    "title": "Владлен Мараєв: З часом всі діячі перших 35 років незалежності сприйматимуться зовсім не так, як зараз",
+    "summary": "Українська незалежність почалася не 24 серпня 1991 року. До неї країна йшла через кілька спроб побудувати власну державу, поразки визвольних рухів, радянські репресії та десятиліття русифікації.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/24/8049972/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T02:30:00+00:00",
+    "fetched": "2026-08-24T03:07:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/8/897509/284bbd93c871b0d205472482ec6846e3.jpeg"
+  },
+  {
+    "id": "237a3a4f8829a60a",
+    "title": "Росіяни атакували Конотоп дронами: більша частина міста без газу, знищений автопарк",
+    "summary": "росіяни вдарили по Конотопу, майже все місто без газу, згорів автопарк.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8049988/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T01:46:00+00:00",
+    "fetched": "2026-08-24T03:07:50+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/897555/b93eff8eee492c1476377bb75ed05a80.jpeg"
+  },
+  {
     "id": "d7c120f82b4bd69e",
     "title": "Прем’єр Британії оголосить про нову підтримку України у виготовленні далекобійних ракет",
     "summary": "Британія має намір оголосити про нову підтримку України у виготовленні далекобійних ракет.",
@@ -10,6 +58,18 @@
     "published": "2026-08-24T01:14:00+00:00",
     "fetched": "2026-08-24T01:39:06+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/897553/ca459a9bdb04263ac838a5186b557e37.jpeg"
+  },
+  {
+    "id": "c31e3c4947e8c127",
+    "title": "Australian shark attack victim grateful for 'second chance at life'",
+    "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+    "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-24T00:34:59+00:00",
+    "fetched": "2026-08-24T03:07:50+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg"
   },
   {
     "id": "1026ee25d6ee0e8a",
@@ -50686,53 +50746,5 @@
     "published": "2026-08-10T03:12:48+00:00",
     "fetched": "2026-08-10T05:55:40+00:00",
     "image": "https://opengraph.githubassets.com/b648cf983cce00cf563e9aa5f6f46b0a1c8f29b94dfa71acf93af51c409d3fd3/shinyquagsire23/Klepton"
-  },
-  {
-    "id": "b056341dfc8e934d",
-    "title": "Turn satellite imagery into a paper globe you fold yourself",
-    "summary": "Article URL: https://foldingglobes.com/ Comments URL: https://news.ycombinator.com/item?id=49238735 Points: 13 # Comments: 2",
-    "url": "https://foldingglobes.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T02:57:38+00:00",
-    "fetched": "2026-08-10T04:13:36+00:00",
-    "image": null
-  },
-  {
-    "id": "72458c14acc5370a",
-    "title": "Іран вимагає від США репарацій та скасування санкцій в обмін на відкриття Ормузької протоки",
-    "summary": "Міністр закордонних справ Ірану Аббас Арагчі заявив, що Тегеран не відкриє Ормузьку протоку для судноплавства, доки США не виконають низку вимог, зокрема не виплатять репарації та не скасують санкції.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048018/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T02:34:00+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/7/889290/17c98280c242dbdedb6eb8c8f35a9337.jpeg"
-  },
-  {
-    "id": "53c18bc4d21dd233",
-    "title": "Квартал після Зеленського. Чому колишнє шоу президента втрачає популярність",
-    "summary": "95 квартал у Кривому Розі – це одночасно перетин великих проспектів та місце для зустрічі місцевої молоді.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/10/8048006/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T02:30:00+00:00",
-    "fetched": "2026-08-10T04:13:35+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/1/889220/e120299c00d766fb2fc923646edace79.jpeg"
-  },
-  {
-    "id": "e7ebeed4c78252c6",
-    "title": "What Happened to HackerOne?",
-    "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 74 # Comments: 22",
-    "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T02:23:17+00:00",
-    "fetched": "2026-08-10T04:13:36+00:00",
-    "image": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/featured.jpg"
   }
 ]
