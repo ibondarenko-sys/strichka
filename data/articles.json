@@ -1,5 +1,101 @@
 [
   {
+    "id": "84d84a27411fa4db",
+    "title": "Прем’єр Британії під час візиту до Києва відвідав поранених українських військових",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8050146/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T19:27:00+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/9/2/925cb47---------------2026-08-24-215916.jpg"
+  },
+  {
+    "id": "18954c151cfcf023",
+    "title": "Понад 180 бойових зіткнень відбулося на фронті від початку доби",
+    "summary": "Найгарячіше на Покровському напрямку.",
+    "url": "https://lb.ua/society/2026/08/24/761192_ponad_180_boyovih_zitknen.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T19:10:00+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://i.lb.ua/news/010/47/6a8c965061740.jpg"
+  },
+  {
+    "id": "d008f703fc7670e0",
+    "title": "Генштаб: 181 бій відбувся на фронті з початку доби",
+    "summary": "Від початку доби 24 серпня на фронті відбулось 181 бойове зіткнення.",
+    "url": "https://www.pravda.com.ua/news/2026/08/24/8050145/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T19:06:00+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/b/898326/dbce7aee16bc636ccf3cae1296e5f05c.jpeg"
+  },
+  {
+    "id": "f1b6aac358f7999c",
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 5 # Comments: 0",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T19:03:06+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://boydkane.com/static/og-image.png"
+  },
+  {
+    "id": "d2d161f43a56f812",
+    "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+    "summary": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in trade relations between the two neighbors with…",
+    "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-24T18:55:43+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2"
+  },
+  {
+    "id": "00ec656e3f2bcfe6",
+    "title": "Reuters: Пермський НПЗ припинив роботу після атаки дрона",
+    "summary": "Це сьомий за обсягом завод з переробки нафти в Росії.",
+    "url": "https://lb.ua/world/2026/08/24/761190_reuters_permskiy_npz_pripiniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T18:53:00+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://i.lb.ua/news/082/42/6a8c931fed5f1.jpg"
+  },
+  {
+    "id": "4c66a2e601433761",
+    "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+    "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 6 # Comments: 4",
+    "url": "https://textlog.cc/post/2059",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T18:45:43+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://textlog.cc/post/2059/og.png?v=8"
+  },
+  {
+    "id": "42b5c011c8e3a591",
+    "title": "Anger, Anxiety and Agency",
+    "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 26 # Comments: 13",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T18:37:24+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://lucumr.pocoo.org/social/2026-08-24-anger-anxiety-agency-social.png"
+  },
+  {
     "id": "57f06d4e33864ac8",
     "title": "Болгарія планує збудувати дамбу для охолодження АЕС через обміління Дунаю",
     "summary": "Будівництво триватиме орієнтовно два тижні.",
@@ -10,6 +106,18 @@
     "published": "2026-08-24T18:29:00+00:00",
     "fetched": "2026-08-24T18:47:08+00:00",
     "image": "https://i.lb.ua/news/043/53/6a8c8d8391dc8.jpg"
+  },
+  {
+    "id": "3e5fd2dd75b80006",
+    "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+    "summary": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 9 # Comments: 0",
+    "url": "https://github.com/getkern/kern",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T18:24:59+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://opengraph.githubassets.com/cfaf5048bc21d96cab8b0576caaffa0ac5e1e6666f1e8d574a5542669864e38d/getkern/kern"
   },
   {
     "id": "a1f3dc30f7bf7191",
@@ -36,6 +144,30 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/a/898305/2a5a4c171997a7afc4e421d40bdbced4.jpeg"
   },
   {
+    "id": "69e90afc7b2b63af",
+    "title": "Your \"File\" Menu Isn't About Files",
+    "summary": "Article URL: https://adam.farkas.pro/your-file-menu-isnt-about-files/ Comments URL: https://news.ycombinator.com/item?id=49423886 Points: 16 # Comments: 17",
+    "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T18:21:48+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": null
+  },
+  {
+    "id": "91c6e1471d58f427",
+    "title": "What Is a Syslog Server?",
+    "summary": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 14 # Comments: 6",
+    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T18:15:50+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://blog.greencloudvps.com/wp-content/uploads/2026/07/syslog-server-1.jpg"
+  },
+  {
     "id": "177abf51fb902d37",
     "title": "Росіяни атакували склад Українського Червоного Хреста в Херсоні",
     "summary": "Пошкоджено та знищено гуманітарні запаси на суму майже 28 млн гривень.",
@@ -58,6 +190,18 @@
     "published": "2026-08-24T17:59:00+00:00",
     "fetched": "2026-08-24T18:47:08+00:00",
     "image": "https://i.lb.ua/news/090/30/6a8c864188085.jpg"
+  },
+  {
+    "id": "d320408bddadff97",
+    "title": "Octopus intelligence may be related to never-before-seen mutation",
+    "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 5 # Comments: 0",
+    "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T17:57:13+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://th-thumbnailer.cdn-si-edu.com/Lib0uvEfwwMnxc8leJilDRWzdzA=/fit-in/1600x0/filters:focal(980x541:981x542)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/6e/416e4112-c164-43fb-bfb2-aee28f44da1f/octopus_2.jpg"
   },
   {
     "id": "c2383afddeaa1327",
@@ -144,6 +288,18 @@
     "image": "https://i.lb.ua/news/041/01/6a8c7b26c9557.jpg"
   },
   {
+    "id": "c20a4456d4f9c6aa",
+    "title": "The entire city of San Francisco as a video game",
+    "summary": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 110 # Comments: 43",
+    "url": "https://sf.thijs.gg/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T17:05:38+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": null
+  },
+  {
     "id": "c8e25b3db8f278f9",
     "title": "YouTube заблокував в Україні три канали мультсеріалу \"Маша і Ведмідь\"",
     "summary": "YouTube обмежив доступ до мультсеріалу \"Маша та Ведмідь\" для українських дітей, заблокувавши три канали.",
@@ -168,6 +324,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "3226dc8d79ceaa83",
+    "title": "Buyer beware: Those mummified remains might carry toxic spores",
+    "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
+    "url": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:59:07+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/curse7-1152x648.jpg"
+  },
+  {
     "id": "4e0f1a290f376e1b",
     "title": "Перші військові навчання Коаліції охочих відбудуться в жовтні-листопаді, - Макрон",
     "summary": "Президент Франції також запропонував скликати ще одну зустріч коаліції через два тижні.",
@@ -178,6 +346,18 @@
     "published": "2026-08-24T16:55:00+00:00",
     "fetched": "2026-08-24T17:34:20+00:00",
     "image": "https://i.lb.ua/news/098/32/6a8c76e8d7a6c.jpg"
+  },
+  {
+    "id": "cd91132ba13e3c69",
+    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+    "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 42 # Comments: 3",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:52:01+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!BKke!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64737827-904c-4a0a-884f-6a3b0adf14ab_1548x867.png"
   },
   {
     "id": "946d7395fc3fa9cb",
@@ -192,6 +372,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/898284/6d7b68d0b6aae8474021fb6346120da2.jpeg"
   },
   {
+    "id": "9d4b3461b82d9dab",
+    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 11 # Comments: 8",
+    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:46:56+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://www.hpcwire.com/wp-content/uploads/2026/08/6-QT-Calls-August-2026-1.png"
+  },
+  {
     "id": "ee4f63f58188d61b",
     "title": "Robotaxis are real now — so is the pushback",
     "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it.…",
@@ -202,6 +394,18 @@
     "published": "2026-08-24T16:42:37+00:00",
     "fetched": "2026-08-24T17:34:20+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3de1560a7afaa842",
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:41:45+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
   },
   {
     "id": "71af33c3c729553a",
@@ -240,6 +444,18 @@
     "image": "https://i.lb.ua/news/115/29/6a8c7184a85d5.jpg"
   },
   {
+    "id": "f3b925823e131d1e",
+    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "summary": "Article URL: https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure Comments URL: https://news.ycombinator.com/item?id=49422204 Points: 78 # Comments: 22",
+    "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:29:00+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://alexschapiro.com/assets/images/beam-living/beam-login-cover.png"
+  },
+  {
     "id": "037001f3d71e3b06",
     "title": "Експрезидент Молдови Додон назвав військовий парад до Дня незалежності Молдови \"провокацією\"",
     "summary": "Додон розкритикував військовий парад до Дня незалежності Молдови як провокацію і зайві витрати.",
@@ -252,6 +468,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/4/898267/14cf977e2aa6c7a24b32b2839596d920.jpeg"
   },
   {
+    "id": "1f713feb7c46e621",
+    "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+    "summary": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 55 # Comments: 29",
+    "url": "https://glassbox.codecanary.org",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:15:10+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://glassbox.codecanary.org/og.png"
+  },
+  {
     "id": "1490d0765aed382b",
     "title": "На Донеччині внаслідок російських авіаударів поранено 12 цивільних",
     "summary": "Пошкоджено 24 приватних та 7 багатоквартирних будинків.",
@@ -262,6 +490,18 @@
     "published": "2026-08-24T16:15:00+00:00",
     "fetched": "2026-08-24T16:42:40+00:00",
     "image": "https://i.lb.ua/news/004/09/6a8c6e1b3cb66.jpg"
+  },
+  {
+    "id": "54126e1e338e59a7",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "summary": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a…",
+    "url": "https://picomq.com/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:08:17+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": null
   },
   {
     "id": "0d5cf275371f8b2a",
@@ -288,6 +528,18 @@
     "image": "https://s.dou.ua/img/announces/208371803_3.jpg"
   },
   {
+    "id": "923a97904c63e917",
+    "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
+    "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
+    "url": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T16:02:54+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291183505-1152x648.jpg"
+  },
+  {
     "id": "fa8259174a99036b",
     "title": "Кошта оцінив прогрес України на шляху до ЄС",
     "summary": "",
@@ -298,6 +550,30 @@
     "published": "2026-08-24T15:58:00+00:00",
     "fetched": "2026-08-24T16:42:39+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/2/4/24c00e6-------3.jpg"
+  },
+  {
+    "id": "42f46d423de7607a",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 272 # Comments: 311",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T15:52:33+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": "https://larsfaye.com/opengraph-expertise.jpg"
+  },
+  {
+    "id": "b4708e8dda2489d2",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "summary": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 66 # Comments: 29",
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T15:51:31+00:00",
+    "fetched": "2026-08-24T19:33:03+00:00",
+    "image": null
   },
   {
     "id": "0e3b2c0202b5f76e",
@@ -478,6 +754,18 @@
     "published": "2026-08-24T14:49:44+00:00",
     "fetched": "2026-08-24T14:50:52+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6c0ab7f23bc7bc9e",
+    "title": "Trump tried to curb clean energy. It’s booming anyway.",
+    "summary": "Capacity will rise by a record 45GW this year, according to S&P Global Energy.",
+    "url": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T14:43:56+00:00",
+    "fetched": "2026-08-24T19:32:59+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867.jpg"
   },
   {
     "id": "51fd6cc5babf305c",
@@ -49966,101 +50254,5 @@
     "published": "2026-08-10T19:46:00+00:00",
     "fetched": "2026-08-10T20:48:58+00:00",
     "image": "https://i.lb.ua/news/072/25/6a7a2ab0d8f27.jpg"
-  },
-  {
-    "id": "f50d179a654fd5b8",
-    "title": "Bluesky now lets you hide reposts from that annoying person you follow",
-    "summary": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that…",
-    "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T19:26:50+00:00",
-    "fetched": "2026-08-10T19:32:46+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bafkreig2hq7svgwj4bppizprcv5t3dlg4zbu3a6pvbebftlavbocibuud4.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "b748da0754663cb5",
-    "title": "У Росії зняли з виборів до Держдуми партію «Яблуко»",
-    "summary": "Позови подавали партії-конкуренти.",
-    "url": "https://lb.ua/world/2026/08/10/758086_rosiyi_znyali_z_viboriv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T19:23:00+00:00",
-    "fetched": "2026-08-10T19:32:47+00:00",
-    "image": "https://i.lb.ua/news/047/50/6a7a25222cbf3.jpg"
-  },
-  {
-    "id": "db4d0e0d9508b039",
-    "title": "Лубінець заявив, що його представника переслідують після викриття порушень у ТЦК",
-    "summary": "Лубінець: представника омбудсмана переслідують через викриття порушень у ТЦК та СП Закарпаття.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048162/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T19:21:00+00:00",
-    "fetched": "2026-08-10T19:32:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/7/889952/97385460b63e15edc52339fffc029b60.jpeg"
-  },
-  {
-    "id": "088007f1db018691",
-    "title": "Генштаб: Найбільше боєзіткнень за добу відбулось на Покровському та Костянтинівському напрямках",
-    "summary": "Від початку доби 10 серпня на фронті відбулось 170 бойових зіткнень, зокрема 22 на Костянтинівському напрямку і 20 – на Покровському.",
-    "url": "https://www.pravda.com.ua/news/2026/08/10/8048163/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T19:17:00+00:00",
-    "fetched": "2026-08-10T19:32:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/889953/0f91d8e52b4debe0c935557b6fd5a182.jpeg"
-  },
-  {
-    "id": "501a6ab7a9a11535",
-    "title": "Costco’s great Switch 2 console bundle includes over $100 in free stuff",
-    "summary": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Nintendo Switch 2, a 256GB microSD Express…",
-    "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T19:14:27+00:00",
-    "fetched": "2026-08-10T19:32:46+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Nintendo-Switch-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "fc5e037e5520226c",
-    "title": "Генштаб: 170 боїв відбулось на фронті від початку доби",
-    "summary": "Найгарячіше на Костянтинівському та Покровському напрямках.",
-    "url": "https://lb.ua/society/2026/08/10/758088_genshtab_170_boyiv_vidbulos.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T19:13:00+00:00",
-    "fetched": "2026-08-10T19:32:47+00:00",
-    "image": "https://i.lb.ua/news/121/10/6a7a22f16f6ee.jpg"
-  },
-  {
-    "id": "0557684c26e6fb7a",
-    "title": "Окупанти атакували дроном цивільне авто з дітьми на Дніпропетровщині (доповнено)",
-    "summary": "Є загиблий та двоє постраждалих.",
-    "url": "https://lb.ua/society/2026/08/10/758072_okupanti_atakuvali_dronom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T19:04:00+00:00",
-    "fetched": "2026-08-10T19:32:47+00:00",
-    "image": "https://i.lb.ua/news/042/31/6a7a1e2bc839d.jpg"
-  },
-  {
-    "id": "b4ed13d9f370f9fc",
-    "title": "Канада запровадила санкції проти виробника бронетехніки Streit Group",
-    "summary": "Продукцію отримує російський ОПК.",
-    "url": "https://lb.ua/society/2026/08/10/758084_kanada_zaprovadila_sanktsiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T19:01:00+00:00",
-    "fetched": "2026-08-10T19:32:47+00:00",
-    "image": "https://i.lb.ua/news/040/39/6a7a2025e7745.jpg"
   }
 ]
