@@ -1,5 +1,53 @@
 [
   {
+    "id": "5ffe4c3da10f4f6e",
+    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+    "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300…",
+    "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T23:38:10+00:00",
+    "fetched": "2026-08-24T23:48:30+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "568190a1877ef3af",
+    "title": "Постпред України при ООН вказав фактори, через які Росія \"програє війну\" проти України",
+    "summary": "Постпред України при ООН Андрій Мельник назвав програшні фактори Росії у війні.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050154/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T23:36:00+00:00",
+    "fetched": "2026-08-24T23:48:30+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/898376/acf9e16fc28d10ea106743376e72f2a0.jpeg"
+  },
+  {
+    "id": "810a0c4a4901150d",
+    "title": "Адміністрація Трампа готує наймасштабніше відкликання віз в історії США",
+    "summary": "Втратити перепустки до Америки можуть близько 200 тисяч осіб.",
+    "url": "https://lb.ua/world/2026/08/25/761218_administratsiya_trampa_gotuie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-24T23:26:00+00:00",
+    "fetched": "2026-08-24T23:48:30+00:00",
+    "image": "https://i.lb.ua/news/081/47/6a8cd29ec1685.jpg"
+  },
+  {
+    "id": "45187fa653274045",
+    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+    "summary": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 4 # Comments: 0",
+    "url": "https://github.com/murerkinn/bookshelf",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T23:00:37+00:00",
+    "fetched": "2026-08-24T23:48:31+00:00",
+    "image": "https://opengraph.githubassets.com/75d38a9fa7c39f8717e33904fadc6091b3b271184a0af6be42baabb09f08574c/murerkinn/bookshelf"
+  },
+  {
     "id": "9e58bb929939a9e4",
     "title": "Росіяни атакували склад Червоного Хреста в Херсоні: збитки оцінюють майже у 28 млн гривень",
     "summary": "Збитків майже на 28 млн грн: у Херсоні росіяни спалили склад Червоного Хреста.",
@@ -50218,41 +50266,5 @@
     "published": "2026-08-11T00:03:00+00:00",
     "fetched": "2026-08-11T02:03:20+00:00",
     "image": "https://i.lb.ua/news/118/05/6a7a62ed40e08.jpg"
-  },
-  {
-    "id": "a50b7e9d346ad20e",
-    "title": "The UK's War on Anonymity Has Come to America",
-    "summary": "Article URL: https://www.effort.news/uk-lobby Comments URL: https://news.ycombinator.com/item?id=49251411 Points: 178 # Comments: 99",
-    "url": "https://www.effort.news/uk-lobby",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-10T23:45:50+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png"
-  },
-  {
-    "id": "7800f94e5d01101b",
-    "title": "Унаслідок російського балістичного удару по Києву постраждала людина – КМВА",
-    "summary": "У ніч на 11 серпня російські війська завдали удару балістичними ракетами по Києву. Унаслідок атаки постраждала щонайменше одна людина.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048172/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T23:27:00+00:00",
-    "fetched": "2026-08-10T23:38:59+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/890002/9994297ca3868d17c0a3dc52761c53c7.jpeg"
-  },
-  {
-    "id": "13a16510a5f080ab",
-    "title": "Росіяни вдарили по Запоріжжю: є загиблі (оновлено)",
-    "summary": "Місто пережило комбіновану атаку паралельно зі столицею.",
-    "url": "https://lb.ua/society/2026/08/11/758114_rosiyani_vdarili_zaporizhzhyu_ie.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-10T23:26:00+00:00",
-    "fetched": "2026-08-10T23:38:59+00:00",
-    "image": "https://i.lb.ua/news/081/57/6a7a5e510c816.jpg"
   }
 ]
