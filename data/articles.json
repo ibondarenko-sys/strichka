@@ -1,5 +1,89 @@
 [
   {
+    "id": "3e7edb917861298b",
+    "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+    "summary": "After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as hikiya to move the structure more than two metres To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a…",
+    "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T01:10:44+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://i.guim.co.uk/img/media/1402f53e1dbf0a1c2705eb53dcbb04b16ee4f1ee/414_0_3304_2645/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=d60e468baa609fa6adf7c3aeb35108a4"
+  },
+  {
+    "id": "a87e4f4cc09ffa34",
+    "title": "Україна і Британія підписали декларацію про партнерство у сфері ШІ",
+    "summary": "У Києві Зеленський і Бернем уклали декларацію про співпрацю у сфері штучного інтелекту.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050156/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T00:54:00+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/2/898379/42b601be6f1f834b7ee38e36237a2910.jpeg"
+  },
+  {
+    "id": "ebd73f32a6655dd5",
+    "title": "What languages are agent skills written in?",
+    "summary": "Article URL: https://plicara.ai/research/agent-skill-languages/ Comments URL: https://news.ycombinator.com/item?id=49427825 Points: 3 # Comments: 0",
+    "url": "https://plicara.ai/research/agent-skill-languages/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T00:52:27+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": null
+  },
+  {
+    "id": "87a8f14284051b69",
+    "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+    "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain…",
+    "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T00:34:47+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94"
+  },
+  {
+    "id": "d5eae6f67e890245",
+    "title": "\"Найогидніший театр абсурду\": представник України в ООН дав оцінку бездіяльності Радбезу",
+    "summary": "Орган, створений для запобігання конфліктам, не здатен зупинити геноцид.",
+    "url": "https://lb.ua/society/2026/08/25/761220_nayogidnishiy_teatr_absurdu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T00:32:00+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://i.lb.ua/news/041/24/6a8ce256b0c63.jpg"
+  },
+  {
+    "id": "4ff6fd0394b8a139",
+    "title": "US removes Syria from list of state sponsors of terrorism",
+    "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+    "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T00:17:25+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg"
+  },
+  {
+    "id": "e1edf19d96549135",
+    "title": "Moment tornado tears through southern France",
+    "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+    "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T00:16:35+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc6/live/c223d1f0-a019-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
     "id": "5ffe4c3da10f4f6e",
     "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
     "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300…",
@@ -58,6 +142,18 @@
     "published": "2026-08-24T23:00:00+00:00",
     "fetched": "2026-08-24T23:25:37+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/898373/46c79e6b86df931ac84eb9badf829127.jpeg"
+  },
+  {
+    "id": "1bb8f74af46c1d1f",
+    "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
+    "summary": "Article URL: https://flostep.dev/ Comments URL: https://news.ycombinator.com/item?id=49426877 Points: 7 # Comments: 2",
+    "url": "https://flostep.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-24T22:45:24+00:00",
+    "fetched": "2026-08-25T01:34:29+00:00",
+    "image": "https://flostep.dev/og.png"
   },
   {
     "id": "966218192e094ad2",
@@ -50194,77 +50290,5 @@
     "published": "2026-08-11T01:53:00+00:00",
     "fetched": "2026-08-11T02:03:20+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/890005/0140abdf764adc05fd06d1f0503a5691.jpeg"
-  },
-  {
-    "id": "8797c3b659bb1ecb",
-    "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
-    "summary": "Article URL: https://github.com/antirez/h3.c Comments URL: https://news.ycombinator.com/item?id=49252179 Points: 81 # Comments: 7",
-    "url": "https://github.com/antirez/h3.c",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T01:22:09+00:00",
-    "fetched": "2026-08-11T04:01:38+00:00",
-    "image": "https://opengraph.githubassets.com/784886de72e81d931baa0c3de143270d42014aed711ee1344ac2dfd369c94520/antirez/h3.c"
-  },
-  {
-    "id": "13af0a5c77b4a760",
-    "title": "Трамп підписав указ про зменшення рекомендованих дитячих щеплень",
-    "summary": "Повторив антинаукову тезу про зв'язок між ін'єкціями та аутизмом.",
-    "url": "https://lb.ua/health/2026/08/11/758118_tramp_pidpisav_ukaz_pro.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T01:16:00+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://i.lb.ua/news/104/04/6a7a75b9383a4.jpg"
-  },
-  {
-    "id": "5aae26f5c212643f",
-    "title": "Південна Корея відмовила Україні у постачанні зброї та систем ППО – МЗС країни",
-    "summary": "У МЗС Південної Кореї заявили, що Сеул і надалі надаватиме Україні лише гуманітарну допомогу та не планує постачати летальну зброю чи системи ППО, попри запити президента України Володимира Зеленського на тлі відправки нових військ КНДР до Росії.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048174/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T00:50:00+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/890004/821d25f5290123e02bfea8527e9a10d6.jpeg"
-  },
-  {
-    "id": "0bc06db0f4edd0f3",
-    "title": "Chicken Scheme 6.0",
-    "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 33 # Comments: 3",
-    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T00:24:15+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": null
-  },
-  {
-    "id": "c7055129280ff810",
-    "title": "Окупанти вбили 15-річного юнака на Дніпропетровщині, ще двоє дітей дістали поранень",
-    "summary": "Внаслідок атаки РФ по Грушівській громаді Криворізького району загинув підліток, ще двоє дітей поранені.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048173/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T00:07:00+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/5/890003/0599671bcc40126c8e3d308a89a99be6.jpeg"
-  },
-  {
-    "id": "4277d0b1600e1f45",
-    "title": "У Канаді зафіксовано першу смерть через лісові пожежі",
-    "summary": "На території Британської Колумбії більше 100 осередків займання.",
-    "url": "https://lb.ua/world/2026/08/11/758116_kanadi_zafiksovano_pershu_smert.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T00:03:00+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://i.lb.ua/news/118/05/6a7a62ed40e08.jpg"
   }
 ]
