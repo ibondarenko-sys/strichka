@@ -1,5 +1,17 @@
 [
   {
+    "id": "c8722e9d9cddf26c",
+    "title": "Республіканці у США розкрили програму партійного з'їзду перед проміжними виборами",
+    "summary": "\"Хедлайнерами\" стануть президент та віцепрезидент.",
+    "url": "https://lb.ua/world/2026/08/26/761442_respublikantsi_ssha_rozkrili.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T23:40:00+00:00",
+    "fetched": "2026-08-25T23:52:20+00:00",
+    "image": "https://i.lb.ua/news/090/13/6a8e27f7b1b1c.jpg"
+  },
+  {
     "id": "eb72f8f67f98169c",
     "title": "Росія атакувала підприємство у Запоріжжі: виникла пожежа",
     "summary": "Окупанти атакували Запоріжжя, виникла пожежа на підприємстві і згоріли автівки.",
@@ -22,6 +34,18 @@
     "published": "2026-08-25T22:51:00+00:00",
     "fetched": "2026-08-25T23:28:23+00:00",
     "image": "https://i.lb.ua/news/074/23/6a8e1c7e830b0.jpg"
+  },
+  {
+    "id": "22dba9e77261e239",
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "summary": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 4 # Comments: 0",
+    "url": "https://github.com/runetes/maiao",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T22:40:07+00:00",
+    "fetched": "2026-08-25T23:52:21+00:00",
+    "image": "https://opengraph.githubassets.com/f9ebbe6783d74ede1e5a9ac7f162d08012c1aca5d0bab9280d0e0765d8208f64/runetes/maiao"
   },
   {
     "id": "a6e98391ec184adb",
@@ -50662,41 +50686,5 @@
     "published": "2026-08-12T00:02:06+00:00",
     "fetched": "2026-08-12T02:20:30+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5de/live/f44c8130-95c0-11f1-8ccf-29f879cbf253.jpg"
-  },
-  {
-    "id": "277c0dac2bc1159f",
-    "title": "Землетрус у Колумбії забрав життя вже понад 220 осіб",
-    "summary": "Рятувальники досі не можуть дістатися зруйнованих будинків в самому епіцентрі поштовхів.",
-    "url": "https://lb.ua/world/2026/08/12/758354_zemletrus_kolumbiyi_zabrav.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T23:47:00+00:00",
-    "fetched": "2026-08-12T02:20:30+00:00",
-    "image": "https://i.lb.ua/news/007/32/6a7bb455708e3.jpg"
-  },
-  {
-    "id": "a3beeaeab575d68a",
-    "title": "Північна Корея знову запустила балістичну ракету в напрямку Східного моря",
-    "summary": "У середу Північна Корея випустила щонайменше одну балістичну ракету в напрямку Східного моря, цей крок розцінюється як протест проти майбутніх спільних військових навчань Південної Кореї та США.",
-    "url": "https://www.pravda.com.ua/news/2026/08/12/8048315/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T23:40:00+00:00",
-    "fetched": "2026-08-11T23:47:18+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/4/890484/949b0607545028aefc26eccf4915579d.jpeg"
-  },
-  {
-    "id": "b36d2868216296b4",
-    "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-    "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-11T23:31:18+00:00",
-    "fetched": "2026-08-11T23:47:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc5/live/0bd135a0-9592-11f1-870d-5d08c49babb2.jpg"
   }
 ]
