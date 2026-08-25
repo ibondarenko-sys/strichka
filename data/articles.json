@@ -1,5 +1,77 @@
 [
   {
+    "id": "4c6f646df3df5dea",
+    "title": "Росіяни на світанку вбили двох людей у Запоріжжі",
+    "summary": "Ще одна людина поранена.",
+    "url": "https://lb.ua/society/2026/08/25/761226_rosiyani_svitanku_vbili_dvoh.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T04:59:00+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://i.lb.ua/news/029/12/6a8d214b3738a.jpg"
+  },
+  {
+    "id": "fbf9a6df4cccf2ae",
+    "title": "Songs created by AI banned from Australia's music charts",
+    "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+    "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T04:54:01+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg"
+  },
+  {
+    "id": "45d5c0af375ff66e",
+    "title": "В РФ пожежа на Афіпському НПЗ після атаки дронів",
+    "summary": "25 серпня в РФ повідомляють, що безпілотники атакували російський Афіпський НПЗ у Краснодарському краї, у мережі публікують кадри пожежі.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050166/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T04:47:00+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/0/898403/10cf97d18a95a239cae939f25403de60.jpeg"
+  },
+  {
+    "id": "c4290def1b8830fd",
+    "title": "Росіяни за вечір і ніч понад 20 разів атакували Дніпропетровську область. Поранені троє людей",
+    "summary": "Ворог бив по Дніпровському, Павлоградському, Криворізькому, Синельниківському й Нікопольському рацонах.",
+    "url": "https://lb.ua/society/2026/08/25/761224_rosiyani_vechir_nich_ponad_20.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T04:40:00+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://i.lb.ua/news/095/52/6a8d1c18d1261.jpg"
+  },
+  {
+    "id": "9cae723daeff4f31",
+    "title": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
+    "summary": "In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres, with suffocating smoke reaching Malaysia and putting Singapore on alert Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo. Each breath, he says, feels…",
+    "url": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T04:17:06+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://i.guim.co.uk/img/media/a3d2552502e934f46ba885639f8c25da4ddfbd50/614_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=8237a87c439e26724454f69e140cea8e"
+  },
+  {
+    "id": "4c433491c75583b9",
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 14 # Comments: 5",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T03:54:19+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://www.laude.org/images/updates/headlong-a-microharness-for-persistent-agents-hero.jpg"
+  },
+  {
     "id": "f876dbedf4f33414",
     "title": "Генштаб про втрати ворога за добу: мінус ще 1 230 російських окупантів",
     "summary": "За минулу добу у війні проти України Росія втратила ще 1 230 військових.",
@@ -22,6 +94,18 @@
     "published": "2026-08-25T03:46:01+00:00",
     "fetched": "2026-08-25T04:09:19+00:00",
     "image": null
+  },
+  {
+    "id": "e901cc2be824704e",
+    "title": "NZ religious sect leader jailed over death of Chinese follower",
+    "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+    "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T03:07:34+00:00",
+    "fetched": "2026-08-25T05:06:17+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/cb512020-a02d-11f1-a291-b542ee92de7c.jpg"
   },
   {
     "id": "6c29bb8d1f12e72b",
@@ -50242,53 +50326,5 @@
     "published": "2026-08-11T05:15:00+00:00",
     "fetched": "2026-08-11T05:36:10+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/890023/7b7e02f1a3798927c65ddf0e9231d34e.jpeg"
-  },
-  {
-    "id": "299d216e83b747b6",
-    "title": "Сили оборони ліквідували ще 1190 російських окупантів",
-    "summary": "Росія вже втратила в Україні близько 1 460 400 військових.",
-    "url": "https://lb.ua/society/2026/08/11/758122_sili_oboroni_likviduvali_sche.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T05:05:00+00:00",
-    "fetched": "2026-08-11T05:36:10+00:00",
-    "image": "https://i.lb.ua/news/123/44/6a7aaddb19dcc.jpg"
-  },
-  {
-    "id": "42cc55c6e2a4d681",
-    "title": "Влада Москви заявила про 13 збитих дронів, які летіли на місто, аеропорти обмежували роботу",
-    "summary": "У ніч на 11 серпня Москву атакували безпілотники, російська влада заявила про нібито знищення щонайменше 13 дронів. Через атаку в московських аеропортах тимчасово обмежували польоти.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048185/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T04:49:00+00:00",
-    "fetched": "2026-08-11T05:36:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/890022/35fb8098b84ff9a593f14367ffd3fe80.jpeg"
-  },
-  {
-    "id": "f24f6d8af7e629d2",
-    "title": "У Комсомольську-на-Амурі загорівся НПЗ \"Роснефти\" – росЗМІ",
-    "summary": "У російському Комсомольську-на-Амурі Хабаровського краю 11 серпня сталася пожежа на нафтопереробному заводі \"Роснефти\". Причини займання наразі невідомі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048181/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T04:23:00+00:00",
-    "fetched": "2026-08-11T05:36:10+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/a/890011/6af7815668dda29cffb40b8a02108ba8.jpeg"
-  },
-  {
-    "id": "e0a0d0dcfc2a4fb1",
-    "title": "Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App",
-    "summary": "Article URL: https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/ Comments URL: https://news.ycombinator.com/item?id=49253329 Points: 16 # Comments: 4",
-    "url": "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T04:18:37+00:00",
-    "fetched": "2026-08-11T05:36:10+00:00",
-    "image": "https://cdn.neowin.com/news/images/uploaded/2022/11/1668763767_onedrive_alert_story.jpg"
   }
 ]
