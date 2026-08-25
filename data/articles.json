@@ -1,5 +1,101 @@
 [
   {
+    "id": "83719e9581cd784d",
+    "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+    "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent…",
+    "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T22:20:17+00:00",
+    "fetched": "2026-08-25T22:31:33+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "176d141c097ca32a",
+    "title": "Трамп вирішив перейменувати озеро Онтаріо - у Канаді відповіли",
+    "summary": "Фантазією господар Білого дому явно не вирізняється.",
+    "url": "https://lb.ua/world/2026/08/26/761438_tramp_virishiv_pereymenuvati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T22:15:00+00:00",
+    "fetched": "2026-08-25T22:31:32+00:00",
+    "image": "https://i.lb.ua/news/109/21/6a8e1334a3e6f.jpg"
+  },
+  {
+    "id": "35265e106d4695b8",
+    "title": "Росіяни вдарили дроном по Харкову: спалахнула пожежа",
+    "summary": "Дронова атака РФ на Харків: у Основ'янському районі горить складська будівля, постраждалих немає.",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050318/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T21:47:00+00:00",
+    "fetched": "2026-08-25T22:31:32+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/899248/655003aba9872e2f0b92474166d98f99.jpeg"
+  },
+  {
+    "id": "f8baa24571553ee4",
+    "title": "Легендарний американський боксер Теренс Кроуфорд прибув до України та зустрівся з Володимиром Зеленським",
+    "summary": "Він подарував президенту цуценя американського пітбультер’єра – дівчинку Фрею .",
+    "url": "https://lb.ua/society/2026/08/26/761436_legendarniy_amerikanskiy_bokser.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T21:45:00+00:00",
+    "fetched": "2026-08-25T22:31:32+00:00",
+    "image": "https://i.lb.ua/news/112/14/6a8e0cc4872eb.jpg"
+  },
+  {
+    "id": "8e652a392d7e43ca",
+    "title": "Trump is upping the price of Big Tech’s favorite visa",
+    "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The…",
+    "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T21:45:00+00:00",
+    "fetched": "2026-08-25T22:31:33+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "82d8abc643dd6174",
+    "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+    "summary": "Article URL: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN Comments URL: https://news.ycombinator.com/item?id=49441101 Points: 3 # Comments: 0",
+    "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T21:43:37+00:00",
+    "fetched": "2026-08-25T22:31:34+00:00",
+    "image": null
+  },
+  {
+    "id": "a2eb6aa2b0034967",
+    "title": "ЗМІ: Директор ЦРУ привіз у Москву попередження Кремлю через мобілізацію",
+    "summary": "Розвідка США нібито отримала дані про приготування Росії до ескалації.",
+    "url": "https://lb.ua/society/2026/08/26/761432_zmi_direktor_tsru_priviz_moskvu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T21:43:00+00:00",
+    "fetched": "2026-08-25T22:31:32+00:00",
+    "image": "https://i.lb.ua/news/088/52/6a8e08b43ddac.jpg"
+  },
+  {
+    "id": "0169f4745f77fcde",
+    "title": "Python's pre-declared constants are kinda weird",
+    "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 21 # Comments: 1",
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T21:39:02+00:00",
+    "fetched": "2026-08-25T22:31:34+00:00",
+    "image": null
+  },
+  {
     "id": "39ec93f2f03193ab",
     "title": "Зеленський присвоїв Стефанчуку ранг надзвичайного і повноважного посла",
     "summary": "Також президент присвоїв дипломатичний ранг Ігорю Осташу.",
@@ -10,6 +106,18 @@
     "published": "2026-08-25T21:26:00+00:00",
     "fetched": "2026-08-25T21:32:46+00:00",
     "image": "https://i.lb.ua/news/057/02/6a8e08955d650.jpg"
+  },
+  {
+    "id": "66eed81eca75fa11",
+    "title": "XCancel also down, at least for time being",
+    "summary": "Message on xcancel website: \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal advice and won't share more details for now. Thank you for…",
+    "url": "https://news.ycombinator.com/item?id=49440786",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T21:18:23+00:00",
+    "fetched": "2026-08-25T22:31:34+00:00",
+    "image": null
   },
   {
     "id": "3910cabf18e5cec6",
@@ -226,6 +334,18 @@
     "published": "2026-08-25T19:30:00+00:00",
     "fetched": "2026-08-25T19:35:15+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/899200/f84b6b5f5f52bd0266a9ee0dad748c1e.jpeg"
+  },
+  {
+    "id": "37d2470ab32cbd22",
+    "title": "A brief history of federal lift ticket regulation",
+    "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 7 # Comments: 0",
+    "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T19:25:43+00:00",
+    "fetched": "2026-08-25T22:31:34+00:00",
+    "image": null
   },
   {
     "id": "942d6ce67cf4013e",
@@ -50578,89 +50698,5 @@
     "published": "2026-08-11T22:31:45+00:00",
     "fetched": "2026-08-12T02:20:30+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
-  },
-  {
-    "id": "54423e9888cbed6b",
-    "title": "Прем'єр Грузії відкинув відновлення дипломатичних зв'язків з Росією",
-    "summary": "Проросійський політик бодай у цьому має принципову позицію.",
-    "url": "https://lb.ua/world/2026/08/12/758350_premier_gruziyi_vidkinuv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T22:25:00+00:00",
-    "fetched": "2026-08-11T22:49:09+00:00",
-    "image": "https://i.lb.ua/news/037/09/6a7ba199c9e00.jpg"
-  },
-  {
-    "id": "d3d376b5ab285e3b",
-    "title": "Проблеми з пальним охопили 16 регіонів Росії – ЗМІ",
-    "summary": "РосЗМІ повідомляють про проблеми з паливом у 16 регіонах РФ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/12/8048313/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T22:22:00+00:00",
-    "fetched": "2026-08-11T22:49:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/4/890482/84d58f9ad0ae0d3d09f9de9834986707.jpeg"
-  },
-  {
-    "id": "c5d1a59db255a34f",
-    "title": "Львів'янин постане перед судом за незаконне перевезення техніки Apple на 35 млн гривень",
-    "summary": "Митники виявили в сховку автомобіля 819 одиниць техніки.",
-    "url": "https://lb.ua/society/2026/08/12/758348_lvivyanin_postane_pered_sudom.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T22:00:00+00:00",
-    "fetched": "2026-08-11T22:49:09+00:00",
-    "image": "https://i.lb.ua/news/071/27/6a7b9bc75f85a.jpg"
-  },
-  {
-    "id": "e9cb2f748d97ce43",
-    "title": "WorldClaw Agentic 3D open-world generation at scale",
-    "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ Comments URL: https://news.ycombinator.com/item?id=49265051 Points: 11 # Comments: 2",
-    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T21:56:18+00:00",
-    "fetched": "2026-08-11T22:49:10+00:00",
-    "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg"
-  },
-  {
-    "id": "64a59f60179c0c18",
-    "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-    "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026 Comments URL: https://news.ycombinator.com/item?id=49265031 Points: 22 # Comments: 0",
-    "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T21:54:25+00:00",
-    "fetched": "2026-08-11T23:47:20+00:00",
-    "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpg_clickhouse_jul2026_banner_8a6e1ca8ab.png&w=1200&h=630&q=75"
-  },
-  {
-    "id": "25079586312f5eac",
-    "title": "Ліван першим на Близькому Сході скасував смертну кару",
-    "summary": "З 2004 року найвищий ступінь покарання вже практично не застосовувався.",
-    "url": "https://lb.ua/world/2026/08/12/758346_livan_pershim_blizkomu_shodi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T21:42:00+00:00",
-    "fetched": "2026-08-11T21:53:41+00:00",
-    "image": "https://i.lb.ua/news/033/26/6a7b95ad2a465.jpg"
-  },
-  {
-    "id": "183534eb18a9532c",
-    "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-    "summary": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
-    "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-11T21:34:55+00:00",
-    "fetched": "2026-08-12T07:43:41+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6f/live/e683cf90-95c5-11f1-870d-5d08c49babb2.jpg"
   }
 ]
