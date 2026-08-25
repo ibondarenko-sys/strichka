@@ -1,5 +1,41 @@
 [
   {
+    "id": "f876dbedf4f33414",
+    "title": "Генштаб про втрати ворога за добу: мінус ще 1 230 російських окупантів",
+    "summary": "За минулу добу у війні проти України Росія втратила ще 1 230 військових.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050160/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T03:52:00+00:00",
+    "fetched": "2026-08-25T04:09:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/9/898383/29062b4f7b1dcf6d0da5c0a192cbccb7.jpeg"
+  },
+  {
+    "id": "c9a5dc0485def576",
+    "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+    "summary": "Looking for options that might work for a low power touchscreen for a calendar project. Comments URL: https://news.ycombinator.com/item?id=49428842 Points: 3 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=49428842",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T03:46:01+00:00",
+    "fetched": "2026-08-25T04:09:19+00:00",
+    "image": null
+  },
+  {
+    "id": "6c29bb8d1f12e72b",
+    "title": "Ворог завдав удару КАБ по Запоріжжю: двоє загиблих",
+    "summary": "Атака КАБ на Запоріжжя: росіяни вбили ще двох людей.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050159/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T02:54:00+00:00",
+    "fetched": "2026-08-25T04:09:21+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/8/898382/783aad5fecb14950d1b0f553bcda6c7c.jpeg"
+  },
+  {
     "id": "de91bb4429767b0e",
     "title": "Яким було літо можливостей на фронті – репортаж УП з позицій мідлстрайків та HIMARS",
     "summary": "У літо 2026 року, яке якраз добігає кінця, українська армія зайшла дещо сильнішою, ніж рік – два тому. І на це було кілька причин.",
@@ -50254,53 +50290,5 @@
     "published": "2026-08-11T04:18:37+00:00",
     "fetched": "2026-08-11T05:36:10+00:00",
     "image": "https://cdn.neowin.com/news/images/uploaded/2022/11/1668763767_onedrive_alert_story.jpg"
-  },
-  {
-    "id": "c8a48a09bddb0225",
-    "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-    "summary": "Article URL: https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/ Comments URL: https://news.ycombinator.com/item?id=49253250 Points: 17 # Comments: 3",
-    "url": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T04:04:36+00:00",
-    "fetched": "2026-08-11T05:36:10+00:00",
-    "image": null
-  },
-  {
-    "id": "55b96c62c8ec79e0",
-    "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-    "summary": "Article URL: https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/ Comments URL: https://news.ycombinator.com/item?id=49253176 Points: 24 # Comments: 6",
-    "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T03:52:39+00:00",
-    "fetched": "2026-08-11T05:36:10+00:00",
-    "image": "https://whatever.scalzi.com/wp-content/uploads/2023/08/WHSAthenaS2.jpg"
-  },
-  {
-    "id": "57a59081d814a5cb",
-    "title": "Генштаб: За минулу добу Росія втратила ще 1 190 військових у війні проти України",
-    "summary": "За минулу добу Сили оборони України знешкодили 1 190 російських загарбників, загальні втрати особового складу ворога у війні перевищили 1 мільйон 460 тисяч осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048179/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T03:47:00+00:00",
-    "fetched": "2026-08-11T04:01:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/1/890009/51d338db6a97147de4a1e0a194a27bda.jpeg"
-  },
-  {
-    "id": "986141b62bc38231",
-    "title": "В Росії до шкільної програми включили підручники з \"історії\" окупованих територій України – ЗМІ",
-    "summary": "Міністерство освіти РФ затвердило новий федеральний перелік рекомендованих шкільних підручників, до якого увійшли видання, присвячені історії тимчасово окупованих територій України",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048178/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T03:19:00+00:00",
-    "fetched": "2026-08-11T04:01:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/890008/85fc532b6773aaf30da348e001de25fb.jpeg"
   }
 ]
