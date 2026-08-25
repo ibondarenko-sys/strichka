@@ -1,5 +1,89 @@
 [
   {
+    "id": "de91bb4429767b0e",
+    "title": "Яким було літо можливостей на фронті – репортаж УП з позицій мідлстрайків та HIMARS",
+    "summary": "У літо 2026 року, яке якраз добігає кінця, українська армія зайшла дещо сильнішою, ніж рік – два тому. І на це було кілька причин.",
+    "url": "https://www.pravda.com.ua/articles/2026/08/25/8050142/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T02:30:00+00:00",
+    "fetched": "2026-08-25T03:02:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/c/898306/ec46bcad5ebe5b510f7c436956b87a55.jpeg"
+  },
+  {
+    "id": "f905a1beebe0b843",
+    "title": "Thomson Reuters Launches Its Own Frontier Model",
+    "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 10 # Comments: 0",
+    "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T02:11:39+00:00",
+    "fetched": "2026-08-25T03:02:36+00:00",
+    "image": "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/photography/reuters/rtr1zkvu-luke-macgregor-tr.jpg.transform/rect-768/q90/image.jpg"
+  },
+  {
+    "id": "1212227fd667d31e",
+    "title": "French tourist dies in Death Valley after car gets stuck in mud",
+    "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+    "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-25T02:08:57+00:00",
+    "fetched": "2026-08-25T03:02:33+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg"
+  },
+  {
+    "id": "b6d55c6665cd0338",
+    "title": "М'яч, яким Марадона забив гол \"рукою Бога\", продали на аукціоні",
+    "summary": "Більше 30 років він був у арбітра, який обслуговував матч Аргентини і Англії.",
+    "url": "https://lb.ua/sport/2026/08/25/761222_myach_yakim_maradona_zabiv_gol.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T02:04:00+00:00",
+    "fetched": "2026-08-25T03:02:34+00:00",
+    "image": "https://i.lb.ua/news/125/49/6a8cf3886dbbe.jpg"
+  },
+  {
+    "id": "c75e015ff81a9f4b",
+    "title": "How Universities Should Prepare Founders",
+    "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 31 # Comments: 27",
+    "url": "https://paulgraham.com/prepare.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T01:40:39+00:00",
+    "fetched": "2026-08-25T03:02:36+00:00",
+    "image": null
+  },
+  {
+    "id": "a63d712977a38d98",
+    "title": "Прем’єр Британії має намір переконати Трампа допомогти Україні ракетами Patriot – ЗМІ",
+    "summary": "У коментарі Bloomberg Бернем заявив, що спробує переконати Трампа про передачу ракет Patriot Україні.",
+    "url": "https://www.pravda.com.ua/news/2026/08/25/8050157/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-25T01:38:00+00:00",
+    "fetched": "2026-08-25T03:02:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/898380/ac9c8b09b0c9e21e69bec50c27a2707d.jpeg"
+  },
+  {
+    "id": "66ddcea94b089743",
+    "title": "Was Modern Art a CIA Psy-Op?",
+    "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 13 # Comments: 4",
+    "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-25T01:35:00+00:00",
+    "fetched": "2026-08-25T03:02:36+00:00",
+    "image": "https://daily.jstor.org/wp-content/uploads/2020/04/was_modern_art_really_a_cia_psy_op_alt_1050x700.jpg"
+  },
+  {
     "id": "3e7edb917861298b",
     "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
     "summary": "After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as hikiya to move the structure more than two metres To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a…",
@@ -50218,77 +50302,5 @@
     "published": "2026-08-11T03:19:00+00:00",
     "fetched": "2026-08-11T04:01:37+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/890008/85fc532b6773aaf30da348e001de25fb.jpeg"
-  },
-  {
-    "id": "ce9297b1672aa2c5",
-    "title": "У передмісті Воронежа після вибухів спалахнув логістичний комплекс Wildberries",
-    "summary": "У передмісті російського Воронежа в ніч на 11 серпня спалахнула масштабна пожежа на логістичному комплексі маркетплейсу Wildberries після серії вибухів.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048177/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T02:33:00+00:00",
-    "fetched": "2026-08-11T04:01:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/4/890007/f4b9506772a9021bccb1bb574738bbe0.jpeg"
-  },
-  {
-    "id": "ce46871f5141b740",
-    "title": "Несподіване посилення Татарова, монополія Поклада. Нова реальність у світі силовиків",
-    "summary": "На початку цього року, щоб перебити медійну хвилю після \"Міндічґейту\", президент Володимир Зеленський провів низку кадрових перестановок у силовому блоці.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/11/8048166/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T02:30:00+00:00",
-    "fetched": "2026-08-11T04:01:37+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/9/889980/19fa970498ebf43ff23e47146df472ae.jpeg"
-  },
-  {
-    "id": "81a0e4d85af77773",
-    "title": "Парламент Туреччини погодив план реінтеграції колишніх бійців Робочої партії Курдистану",
-    "summary": "Більшість членів радикального руху отримають змогу уникнути покарань та повернутися до мирного життя.",
-    "url": "https://lb.ua/world/2026/08/11/758120_parlament_turechchini_pogodiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T02:10:00+00:00",
-    "fetched": "2026-08-11T04:01:37+00:00",
-    "image": "https://i.lb.ua/news/126/09/6a7a84326213a.jpg"
-  },
-  {
-    "id": "ccc0c7aeab57315b",
-    "title": "Hyperspace",
-    "summary": "Article URL: https://hypercritical.co/hyperspace/ Comments URL: https://news.ycombinator.com/item?id=49252493 Points: 11 # Comments: 4",
-    "url": "https://hypercritical.co/hyperspace/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T02:04:35+00:00",
-    "fetched": "2026-08-11T04:01:38+00:00",
-    "image": "https://hypercritical.co/hyperspace/images/hyperspace-icon-1024-lossy.png"
-  },
-  {
-    "id": "be5a50d3bd7e3b6d",
-    "title": "Recycle – Floppydisks",
-    "summary": "Article URL: https://www.floppydisk.com/recycle Comments URL: https://news.ycombinator.com/item?id=49252462 Points: 24 # Comments: 3",
-    "url": "https://www.floppydisk.com/recycle",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-11T02:01:01+00:00",
-    "fetched": "2026-08-11T04:01:38+00:00",
-    "image": null
-  },
-  {
-    "id": "70a409cfbbb8e6d5",
-    "title": "Путін не піде на переговори, доки може безкарно бити балістикою по Києву – ISW",
-    "summary": "Аналітики Інституту вивчення війни (ISW) зазначають, що правитель РФ Володимир Путін не піде на жодні переговори доти, доки Росія має змогу безкарно завдавати ударів балістикою по Києву та інших містах через гострий дефіцит ракет до систем Patriot.",
-    "url": "https://www.pravda.com.ua/news/2026/08/11/8048175/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-11T01:53:00+00:00",
-    "fetched": "2026-08-11T02:03:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/1/890005/0140abdf764adc05fd06d1f0503a5691.jpeg"
   }
 ]
