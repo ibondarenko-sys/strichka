@@ -1,5 +1,221 @@
 [
   {
+    "id": "320c2a1afdaaf595",
+    "title": "​Росіяни атакують газорозподільчу інфраструктуру: обстріли були на Харківщині та Чернігівщині",
+    "summary": "Ворожі війська цілеспрямовано обстрілюють газорозподільчі об’єкти та газовиків.",
+    "url": "https://lb.ua/society/2026/08/26/761574_rosiyani_atakuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:52:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://i.lb.ua/news/095/24/6a8ed3a2767b2.jpg"
+  },
+  {
+    "id": "883ad454a260216d",
+    "title": "На Київщині чоловік намагався підірвати авто директора оборонного підприємства: його затримали у Польщі",
+    "summary": "Правоохоронці заявили, що запобігли замаху на директора одного з оборонних підприємств на Київщині: за даними слідства, підозрюваний заклав саморобну вибухівку під його автомобіль, після чого виїхав до Польщі, де його затримали.",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050405/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:50:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/899581/20a58c119089c488151e4698ec801afd.jpeg"
+  },
+  {
+    "id": "fccbee6ecbe4792b",
+    "title": "П’ять проблем постанови про експорт озброєння і як галузь пропонує їх виправити",
+    "summary": "За пришвидшеним механізмом, передбаченим постановою №875, яких ухвалили на початку липня, за два місяці не видано жодного дозволу на експорт",
+    "url": "https://lb.ua/society/2026/08/26/761576_pyat_problem_postanovi_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:45:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://i.lb.ua/news/071/41/6a8ed18e12494.jpg"
+  },
+  {
+    "id": "d32773f5bb44bd16",
+    "title": "Нідерландам може не вистачити газу у разі суворої зими, – державна газова компанія",
+    "summary": "Однією з головних причин повільного накопичення запасів є нестабільна ситуація на газовому ринку ЄС.",
+    "url": "https://lb.ua/economics/2026/08/26/761572_niderlandam_mozhe_vistachiti.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:31:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://i.lb.ua/news/059/48/6a8ece882c244.jpg"
+  },
+  {
+    "id": "adcacc1c74613de1",
+    "title": "Росіяни вдруге \"захопили\" село на Сумщині: угрупування \"Курськ\" викрило пропаганду РФ",
+    "summary": "Писарівка лишається під контролем України. Фейк росЗМІ спростовано групою військ «Курськ».",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050404/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:30:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/2/899578/3279eeb14b89ef6ecabdc8867e07fc73.jpeg"
+  },
+  {
+    "id": "e4166926c265053f",
+    "title": "Польща очікує на ще одну партію винищувачів F-35",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050401/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:27:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/7/7/77b9d85-hqo7fijxaae6mfn.jpeg"
+  },
+  {
+    "id": "893bef2674a9dde9",
+    "title": "Just say something people want",
+    "summary": "Article URL: https://www.gkogan.co/say-something-people-want/ Comments URL: https://news.ycombinator.com/item?id=49447054 Points: 4 # Comments: 0",
+    "url": "https://www.gkogan.co/say-something-people-want/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T11:23:43+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://storage.ghost.io/c/d0/6d/d06d2768-1e39-4bc0-baab-7dfb7d336fd2/content/images/size/w1200/2026/08/the-orator.webp"
+  },
+  {
+    "id": "74ea2f98a79406bd",
+    "title": "Хакери маскують шкідливе ПЗ під демоверсію GTA VI",
+    "summary": "Злочинці створюють фейкові сайти, які імітують офіційний сайт Rockstar Games, і пропонують завантажити нібито демоверсію гри.",
+    "url": "https://ain.ua/2026/08/26/xakeri-maskuiut-skidlive-pz-pid-demoversiiu-gta-vi/",
+    "source": "AIN.ua",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-26T11:20:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://cdn.ain.ua/ua/articles/2026-08-26/h5owHCMYLUOG2zLIesOo6cAawuyt8tBc3FjadV53.webp"
+  },
+  {
+    "id": "b619437f599d1bcd",
+    "title": "На Дніпропетровщині російський дрон атакував авто шахтарів: загинули двоє працівників ДТЕК",
+    "summary": "Загиблим було 48 та 52 роки.",
+    "url": "https://lb.ua/society/2026/08/26/761566_dnipropetrovschini_rosiyskiy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:18:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://i.lb.ua/news/065/01/6a8ecb9484535.jpg"
+  },
+  {
+    "id": "5fef3daf87eec519",
+    "title": "ЗМІ: за посадовця ОПУ Дубовика внесли всю суму застави",
+    "summary": "Йдеться про справу про рейдерство, підроблення документів та втручання в інформаційні схеми, пов'язану з операціями \"Форест Гамп\" і \"Феміда\".",
+    "url": "https://lb.ua/society/2026/08/26/761562_zmi_posadovtsya_opu_dubovika.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:16:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://i.lb.ua/news/065/12/6a8ecb15cec1b.jpg"
+  },
+  {
+    "id": "9574de233bf0e558",
+    "title": "Genesis Academy відкрила безплатний курс AI Product Engineer — що там буде й чи можна працевлаштуватися",
+    "summary": "Genesis Academy відкрила набір на безплатний курс AI Product Engineering School для Full Stack і Back-end розробників із щонайменше роком комерційного досвіду. Про це для DOU розповіли у компанії. Реєстрація триває до 18 вересня, навчання стартує 13 жовтня. Курс розрахований на…",
+    "url": "https://dou.ua/lenta/news/course-ai-product-engineer/",
+    "source": "DOU",
+    "category": "tech",
+    "lang": "uk",
+    "published": "2026-08-26T11:13:16+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://s.dou.ua/img/announces/208371803_6.jpg"
+  },
+  {
+    "id": "05f45dd4d9cc70b6",
+    "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+    "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+    "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T11:10:49+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg"
+  },
+  {
+    "id": "e5ebd7368ffa5225",
+    "title": "Андрій Білецький: Ми маємо шанс довести справу Коновальця до кінця",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050398/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:10:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/899541/og_8050381_ukr.png?w=1200&q=85&stamp=1787741520"
+  },
+  {
+    "id": "90384bb9bfac577e",
+    "title": "СБУ та Нацполіція запобігли теракту проти очільника оборонного підприємства на Київщині",
+    "summary": "Після закладання вибухівки виконавець злочину втік за кордон. Його затримали в Польщі за запитому України.",
+    "url": "https://lb.ua/society/2026/08/26/761564_sbu_natspolitsiya_zapobigli.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:10:00+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": "https://i.lb.ua/news/088/32/6a8ec9afb3878.jpg"
+  },
+  {
+    "id": "214a2fe83e85dcfa",
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently,…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T11:07:40+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "554e787c58320ff2",
+    "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+    "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+    "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-26T11:02:22+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg"
+  },
+  {
+    "id": "1fa68b9c01706878",
+    "title": "Українці вважають найдружнішими країнами Францію, Британію і Литву",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050395/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:02:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://img.eurointegration.com.ua/images/doc/0/9/099ed2d-----.jpg"
+  },
+  {
+    "id": "9dc9b7abdb28f3bd",
+    "title": "Зеленський відповів на привітання Навроцького: Прагнемо розвивати зв’язки на основі поваги",
+    "summary": "Україна прагне глибших відносин з Польщею, заснованих на повазі та спільному баченні майбутнього.",
+    "url": "https://www.pravda.com.ua/news/2026/08/26/8050393/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:01:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/c/899547/bc903b100c0133fa87d2ae77ad09a0d6.jpeg"
+  },
+  {
     "id": "571f0378a12201d8",
     "title": "Mpox is back – and in new countries. How this outbreak can be contained",
     "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is back in the…",
@@ -12,6 +228,18 @@
     "image": "https://i.guim.co.uk/img/media/f6709b8f54be8c8b3942ba148e3dfc195e38178e/669_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=fff22cb39ecd54389b5b6064ab389add"
   },
   {
+    "id": "471f89d285f9dddb",
+    "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+    "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
+    "url": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T11:00:12+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_2090-1152x648.jpg"
+  },
+  {
     "id": "24abceb87a53b383",
     "title": "eSIM для подорожей: Київстар запустив послугу роумінгу без регулярної абонплати",
     "summary": "Нова eSIM для роумінгу від «Київстар» дозволяє купувати пакети інтернету від 5 до 40 ГБ у 38 країнах світу. Доступна для клієнтів усіх операторів України.",
@@ -22,6 +250,18 @@
     "published": "2026-08-26T11:00:00+00:00",
     "fetched": "2026-08-26T11:02:20+00:00",
     "image": "https://cdn.ain.ua/ua/articles/2026-08-26/2ffKMi31ivcT2oeVVI2bXyjIllsR3tt1aeTZ9QVJ.webp"
+  },
+  {
+    "id": "55e11db7fa008659",
+    "title": "Не дозволяю собі думати, що comedia finita. Пам'яті Євгена Коновальця",
+    "summary": "Прах полковника Євгена Коновальця повернувся в Україну. Його ідеї та боротьба залишаються актуальними й сьогодні.",
+    "url": "https://www.pravda.com.ua/columns/2026/08/26/8050381/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-08-26T11:00:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/899541/og_8050381_ukr.png?w=1200&q=85&stamp=1787741520"
   },
   {
     "id": "d05dbfe417044de3",
@@ -46,6 +286,18 @@
     "published": "2026-08-26T10:56:50+00:00",
     "fetched": "2026-08-26T11:02:19+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg"
+  },
+  {
+    "id": "aa44e82a53be074f",
+    "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+    "summary": "Death toll of nine likely to rise as floods and mudslide sweep away houses, roads, bridges and power projects Torrential floods ⁠in the Himalayan border areas of ⁠Nepal and in ​Tibet in China have killed at least nine people and destroyed roads, bridges and power projects, as…",
+    "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-26T10:45:44+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://i.guim.co.uk/img/media/a8cacd27dfa091ae1dfc7e9bcf3da88abe3a5032/371_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=c52926c055541abb5604de1c5c5f16c3"
   },
   {
     "id": "de5f0e3cd016ece6",
@@ -82,6 +334,18 @@
     "published": "2026-08-26T10:42:00+00:00",
     "fetched": "2026-08-26T11:02:19+00:00",
     "image": "https://i.lb.ua/news/086/11/6a8ec33af2aff.jpg"
+  },
+  {
+    "id": "ea5c5ad224d04704",
+    "title": "At least 14 babies die in Pakistan hospital fire",
+    "summary": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+    "url": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-26T10:42:00+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec91/live/e87eadb0-a114-11f1-92eb-a9b3bbcf6f4a.jpg"
   },
   {
     "id": "22bbab0ff028c0cc",
@@ -132,6 +396,18 @@
     "image": "https://i.lb.ua/news/024/39/6a8ec081c6213.jpg"
   },
   {
+    "id": "f320dfe7e4274998",
+    "title": "Radiation link in flight attendant's breast cancer, French court finds",
+    "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+    "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-08-26T10:29:36+00:00",
+    "fetched": "2026-08-26T11:57:03+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg"
+  },
+  {
     "id": "a568205e45462f73",
     "title": "У Херсонській громаді є перебої з електропостачанням",
     "summary": "Фахівці працюють над з'ясуванням причин.",
@@ -166,6 +442,18 @@
     "published": "2026-08-26T10:26:00+00:00",
     "fetched": "2026-08-26T11:02:19+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/899524/ccba1667d7cd9b6eccea9d812f23aec0.jpeg"
+  },
+  {
+    "id": "462c6af55f773a10",
+    "title": "It's Not the End of Programming",
+    "summary": "Article URL: https://mathstodon.xyz/@abuseofnotation/117161292083848755 Comments URL: https://news.ycombinator.com/item?id=49446597 Points: 22 # Comments: 20",
+    "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T10:25:33+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": null
   },
   {
     "id": "a2e691224fd97f5c",
@@ -226,6 +514,18 @@
     "published": "2026-08-26T10:16:00+00:00",
     "fetched": "2026-08-26T11:02:19+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/3/899520/93633c38b4b0a40029494fbc8e302ec3.jpeg"
+  },
+  {
+    "id": "49bdf2ee614b8fbf",
+    "title": "Beyond Recall and the Illusion of Competence",
+    "summary": "Article URL: https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html Comments URL: https://news.ycombinator.com/item?id=49446442 Points: 12 # Comments: 3",
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T10:07:02+00:00",
+    "fetched": "2026-08-26T11:57:04+00:00",
+    "image": null
   },
   {
     "id": "e7ca9851b394d6ee",
@@ -50518,185 +50818,5 @@
     "published": "2026-08-12T11:58:54+00:00",
     "fetched": "2026-08-12T13:19:29+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "d35be7a981795792",
-    "title": "Молдова надає 50% знижки на залізничний транзит українських вантажів, – Корецький",
-    "summary": "Крім того, з 17 серпня змінюється маршрут потяга Київ – Кишинів.",
-    "url": "https://lb.ua/economics/2026/08/12/758490_moldova_nadaie_50_znizhki.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:57:00+00:00",
-    "fetched": "2026-08-12T13:19:29+00:00",
-    "image": "https://i.lb.ua/news/092/12/6a7c5f52ccca0.jpg"
-  },
-  {
-    "id": "ab198bd7e06c22c5",
-    "title": "2026 Eclipse Webcams",
-    "summary": "Article URL: https://jonty.github.io/2026_eclipse_webcams/ Comments URL: https://news.ycombinator.com/item?id=49270953 Points: 110 # Comments: 26",
-    "url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-12T11:53:01+00:00",
-    "fetched": "2026-08-12T13:19:29+00:00",
-    "image": null
-  },
-  {
-    "id": "b45fb4a8c2740779",
-    "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
-    "summary": "Article URL: https://kidscreen.app Comments URL: https://news.ycombinator.com/item?id=49270881 Points: 9 # Comments: 6",
-    "url": "https://kidscreen.app",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-12T11:44:40+00:00",
-    "fetched": "2026-08-12T14:37:18+00:00",
-    "image": "https://kidscreen.app/kidscreen-logo.png"
-  },
-  {
-    "id": "871649ba376cfe00",
-    "title": "Бійці 121-ї бригади заявили про місяці без ротації та перебої з постачанням – командування відреагувало",
-    "summary": "Військові 121-ї бригади ТрО вже чотири місяці без ротації, є труднощі з постачанням. Командування обіцяє ротацію при безпеці.",
-    "url": "https://www.pravda.com.ua/news/2026/08/12/8048392/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:43:00+00:00",
-    "fetched": "2026-08-12T13:19:28+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/1/890774/7175bb1beaea0ef6a01704ae85deeca4.jpeg"
-  },
-  {
-    "id": "67dbb9a1862eebb2",
-    "title": "У Києві підозри оголосили у справі про 14 млн збитків на будівництві житла для мешканців аварійного будинку",
-    "summary": "Підозри отримали керівник підприємства-забудовника та колишній очільник комунального підприємства “Спецжитлофонд”.",
-    "url": "https://lb.ua/kyiv/2026/08/12/758484_kiievi_pidozri_ogolosili_spravi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:40:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://i.lb.ua/news/103/24/6a7c5b651a2c8.jpg"
-  },
-  {
-    "id": "41276e9b19468696",
-    "title": "У Польщі закрили справу про використання Навроцьким апартаментів у Музеї Другої світової",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/12/8048393/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:37:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/f/7ff0e6b-8jxhh7x4btfdo1244fn13yq4ny4msdia.jpg"
-  },
-  {
-    "id": "12b9e4da85b58a56",
-    "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-    "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-    "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-12T11:28:05+00:00",
-    "fetched": "2026-08-12T13:19:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png"
-  },
-  {
-    "id": "b28edaa1ceda288e",
-    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-    "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-    "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-12T11:28:02+00:00",
-    "fetched": "2026-08-12T13:19:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a59/live/21ee2fc0-963f-11f1-8414-97750c5a4202.jpg"
-  },
-  {
-    "id": "5806ec83c7b5e96c",
-    "title": "В Індонезії у лісових пожежах вигоріло вже понад 107 тисяч га землі",
-    "summary": "Епіцентрами займань є шість провінцій, де зосереджені великі площі торфовищ і які вразливі до пожеж під час сухого сезону.",
-    "url": "https://lb.ua/world/2026/08/12/758478_indoneziyi_lisovih_pozhezhah.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:27:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://i.lb.ua/news/065/27/6a7c58c48c0eb.jpg"
-  },
-  {
-    "id": "6b7947d563960108",
-    "title": "У Києві 13 серпня попрощаються з розвідником Третього армійського корпусу Сергієм Оксютою",
-    "summary": "Захисник загинув 8 серпня під час виконання бойового завдання.",
-    "url": "https://lb.ua/society/2026/08/12/758480_kiievi_13_serpnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:25:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://i.lb.ua/news/017/34/6a7c58150c22e.jpg"
-  },
-  {
-    "id": "0a9dcd818c71daaf",
-    "title": "Vyriy Industries планує залучити до 5 млрд грн через облігації: українці зможуть інвестувати у виробника дронів",
-    "summary": "У перший рік дохідність облігацій становить 25% річних у гривні. Вони розраховані на три роки, а прогнозована середньорічна проста дохідність фонду за цей період становить 25–29%.",
-    "url": "https://ain.ua/2026/08/12/inzhur-zapuskaje-fond-dlia-investicii-v-oboronku/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-12T11:25:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-08-12/pFCUnaVAfiqlxwK5jpgPJ1XxNHYH9nipYnnqNFeS.webp"
-  },
-  {
-    "id": "33eda1a0c2d9d4d1",
-    "title": "Vyriy Industries випустила облігації на 5 млрд грн. Інвестувати можна від 1000 грн",
-    "summary": "З 13 серпня українці зможуть інвестувати в корпоративні облігації оборонної компанії Vyriy Industries . Мінімальна сума становитиме 1000 грн. Про це повідомляє Inzhur. Інвестувати в облігації можна буде через новий фонд Inzhur MilTech . Inzhur виступив андеррайтером —…",
-    "url": "https://dou.ua/lenta/news/ukrainians-may-invest-in-vyriy/",
-    "source": "DOU",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-12T11:24:10+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://s.dou.ua/img/announces/2026_05_15_09253.jpg"
-  },
-  {
-    "id": "ddcfc9d8eb8b0ed5",
-    "title": "Spotify позначатиме ШІ-виконавців спеціальними значками. Така музика не потраплятиме у рекомендації",
-    "summary": "З середини вересня на таких сторінках зʼявиться спеціальний значок AI Persona, а самих виконавців за замовчуванням не показуватимуть у рекомендаціях.",
-    "url": "https://ain.ua/2026/08/12/spotify-poznacatime-si-vikonavciv-specialnimi-znackami/",
-    "source": "AIN.ua",
-    "category": "tech",
-    "lang": "uk",
-    "published": "2026-08-12T11:15:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://cdn.ain.ua/ua/articles/2026-08-12/CbHBV0hcoIVaziIVQxmMF63HyFPJKX75ZJwKGE1f.webp"
-  },
-  {
-    "id": "fff8d534039aa7bd",
-    "title": "Delphi 13 Community Edition Is Now Available",
-    "summary": "Article URL: https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/ Comments URL: https://news.ycombinator.com/item?id=49270621 Points: 36 # Comments: 25",
-    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-12T11:13:36+00:00",
-    "fetched": "2026-08-12T13:19:29+00:00",
-    "image": "https://blogs.embarcadero.com/wp-content/uploads/2026/08/01_EMBT-CE-13-Release-_Delphi-13-CE-Learn-More-1200x628-1.png"
-  },
-  {
-    "id": "b3b3d6a0a06b099d",
-    "title": "Укрзалізниця 9 серпня перевезла рекордну кількість пасажирів",
-    "summary": "Загалом із 1 до 10 серпня поїздами УЗ скористалися 937 тисяч людей.",
-    "url": "https://lb.ua/society/2026/08/12/758476_ukrzaliznitsya_9_serpnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T11:11:00+00:00",
-    "fetched": "2026-08-12T11:51:18+00:00",
-    "image": "https://i.lb.ua/news/081/36/6a7c54dcee260.jpg"
   }
 ]
