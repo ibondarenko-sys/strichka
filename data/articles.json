@@ -1,5 +1,17 @@
 [
   {
+    "id": "1421814c7a92b465",
+    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+    "summary": "I am looking for ideas on what to train a specialized model for! What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up? Comments URL: https://news.ycombinator.com/item?id=49443820 Points: 20 # Comments: 30",
+    "url": "https://news.ycombinator.com/item?id=49443820",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T03:17:51+00:00",
+    "fetched": "2026-08-26T04:10:25+00:00",
+    "image": null
+  },
+  {
     "id": "6e541d55786edb95",
     "title": "Дрони атакували НПЗ в російському Кстово: спалахнула пожежа",
     "summary": "У ніч на 26 серпня дрони атакували НПЗ і логістичний центр Wildberries у РФ, сталися вибухи й пожежі.",
@@ -10,6 +22,18 @@
     "published": "2026-08-26T02:55:00+00:00",
     "fetched": "2026-08-26T03:09:46+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/e/899262/fe142d424db9d23ba161a266c0458197.jpeg"
+  },
+  {
+    "id": "489929a1470052a3",
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+    "summary": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 9 # Comments: 3",
+    "url": "https://arxiv.org/abs/2607.21503",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-08-26T02:35:25+00:00",
+    "fetched": "2026-08-26T04:10:25+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
   },
   {
     "id": "df1d997225c57643",
@@ -50494,53 +50518,5 @@
     "published": "2026-08-12T04:13:00+00:00",
     "fetched": "2026-08-12T04:22:51+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/5/890496/a509fdf8b98e12f28b1dd533e5b762ba.jpeg"
-  },
-  {
-    "id": "926aa0eb020978c6",
-    "title": "Генштаб оновив дані про втрати ворога: мінус ще 1 260 російських окупантів",
-    "summary": "За минулу добу у війні проти України Росія втратила ще 1 260 військових і 388 одиниць автомобільної техніки та автоцистерн.",
-    "url": "https://www.pravda.com.ua/news/2026/08/12/8048321/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-12T03:42:00+00:00",
-    "fetched": "2026-08-12T04:22:51+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/0/890495/10b1d61f35c0fa861e59e4c373bdb86b.jpeg"
-  },
-  {
-    "id": "54a8294a53b2b9c9",
-    "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
-    "summary": "Article URL: https://github.com/sgkdev/bad_garbage Comments URL: https://news.ycombinator.com/item?id=49267550 Points: 11 # Comments: 0",
-    "url": "https://github.com/sgkdev/bad_garbage",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-12T03:31:42+00:00",
-    "fetched": "2026-08-12T07:43:45+00:00",
-    "image": "https://opengraph.githubassets.com/848b35fd3a0c4b394d48fc50381bbaea969d784aabfc165c5667fd39df8ada7a/sgkdev/bad_garbage"
-  },
-  {
-    "id": "9938cc8ab2e95aec",
-    "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
-    "summary": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/ Comments URL: https://news.ycombinator.com/item?id=49267527 Points: 19 # Comments: 2",
-    "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-12T03:27:31+00:00",
-    "fetched": "2026-08-12T07:43:45+00:00",
-    "image": "https://cdn.dronexl.co/wp-content/uploads/2026/08/avidrone-katana-helicopter-drone-darpa-lift-challenge.webp"
-  },
-  {
-    "id": "78279328099e6dcd",
-    "title": "Baby Shark Boy set to make K-pop debut",
-    "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
-    "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-12T03:26:32+00:00",
-    "fetched": "2026-08-12T04:22:51+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg"
   }
 ]
