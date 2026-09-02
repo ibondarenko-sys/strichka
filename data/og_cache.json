@@ -1,15 +1,9 @@
 {
-  "92c9c49f3ad2ede1": "https://konstantintkachuk.com/images/og-default.png",
-  "c0e4bffc16195080": "https://cdn.sanity.io/images/e4qjo92p/production/21fa43f6d541115e57887beb1155bddc7541ae71-2400x1260.jpg?w=1200&h=630&fit=max&auto=format",
-  "0a36c1588c9f9caf": null,
-  "7b402756aba5c32f": "https://opengraph.githubassets.com/7e617ed5bd07a29408ba13963738108ae1986685a9a1f200327b00a8f314458a/pg83/solo",
   "b72e1bdcc78d4468": null,
-  "5fe3a01f16920a88": "https://ichef.bbci.co.uk/news/1024/branded_news/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg",
   "0570a8ded930fc78": "https://s26162.pcdn.co/wp-content/uploads/2026/08/parentheses.png",
   "e215d9cf5d3c13e7": "https://www.cam.ac.ukCosmoCube CREDIT Surrey Space Technology Ltd.jpg",
   "dcdbdd3ed1b297d6": "https://openlogi.org/social-preview.png",
   "d07e020f68b9c9fc": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-  "e6f466131074e480": null,
   "a79df62a77c95422": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1787112292",
   "51dae9079c2e096a": null,
   "ee7b199421a76637": "https://opengraph.githubassets.com/c17ceb31a5a449c03b9700558812977c48f2e328d24f78eab62721d65e1a6efa/katiahayati/lucasartsifier",
@@ -899,5 +893,8 @@
   "6447115f078de47c": null,
   "9385cc92647adfe0": "https://substackcdn.com/image/fetch/$s_!7zHg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed1c4840-2671-42e9-a6ad-343e84a1f3ef_2000x1334.jpeg",
   "db27e9b84b927c28": null,
-  "1526e98374489a01": null
+  "1526e98374489a01": null,
+  "f8c8dfe48a154f18": "https://lws.io/open-graph/blog/my-local-model-setup.png",
+  "e83ff5faec702b5a": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=cactus",
+  "60ba7f98b3e85f8a": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&fit=crop&h=630&q=75&w=1200"
 }
