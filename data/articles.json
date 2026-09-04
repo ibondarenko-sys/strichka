@@ -1,5 +1,149 @@
 [
   {
+    "id": "5de15ac0e1a60efa",
+    "title": "Рух мостами під час тривог та 140 додаткових автобусів: Київ змінює роботу транспорту – Кличко",
+    "summary": "Столична влада перекинула 140 автобусів з інших напрямків для посилення сполучення між правим і лівим берегами та працює над відкриттям руху мостами через Дніпро під час повітряних тривог.",
+    "url": "https://www.pravda.com.ua/news/2026/09/04/8051829/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-04T00:30:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/906061/952120a0c1e268a60865246ee14cb10d.jpeg"
+  },
+  {
+    "id": "b464a2027296e319",
+    "title": "Молоко тарганів та злі багатії: у Швейцарії оголосили лауреатів Шнобелівської премії",
+    "summary": "Незмінний девіз нагороди: \"Дослідження, які спершу змушують сміятися, а потім замислитися\".",
+    "url": "https://lb.ua/world/2026/09/04/763526_moloko_targaniv_zli_bagatiyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-04T00:27:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://i.lb.ua/news/005/17/6a9a129c93815.jpg"
+  },
+  {
+    "id": "49d2955147688437",
+    "title": "The unusually muted Tesla Cybercab launch",
+    "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous…",
+    "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T00:25:06+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "6ae5fba47fffdeea",
+    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+    "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a…",
+    "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-03T23:37:37+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "0cff891035feea37",
+    "title": "Росіяни атакували Запоріжжя, БПЛА поцілив у житловий будинок",
+    "summary": "У багатоповерхівці зайнялася пожежа.",
+    "url": "https://lb.ua/society/2026/09/04/763524_rosiyani_atakuvali_zaporizhzhya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-03T23:37:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://i.lb.ua/news/126/48/6a9a062fefa12.jpg"
+  },
+  {
+    "id": "f3b30eb85004053f",
+    "title": "Російський дрон влучив у багатоповерхівку в Кропивницькому, є постраждалий",
+    "summary": "Унаслідок удару російського безпілотника по житловому будинку в Кропивницькому постраждала одна людина. Інформація уточнюється.",
+    "url": "https://www.pravda.com.ua/news/2026/09/04/8051820/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-03T23:27:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/6/906059/9643bfcde7c68049f57ab2f531279897.jpeg"
+  },
+  {
+    "id": "6297a301bc76a85b",
+    "title": "У Запоріжжі після удару російського дрона загорілася багатоповерхівка",
+    "summary": "У ніч на 4 вересня російські війська атакували Запоріжжя, унаслідок чого сталося займання в багатоквартирному житловому будинку.",
+    "url": "https://www.pravda.com.ua/news/2026/09/04/8051828/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-03T23:17:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/7/906058/57d562b0a987c253495d8d77f7638fa4.jpeg"
+  },
+  {
+    "id": "1f1b2bc9ca96c139",
+    "title": "Здатність ЄС протистояти вторгненню Росії залишається під сумнівом",
+    "summary": "Європейський суд аудиторів дійшов невтішного висновку.",
+    "url": "https://lb.ua/society/2026/09/04/763522_zdatnist_ies_protistoyati.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-03T22:48:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://i.lb.ua/news/043/04/6a99f8f6af8b0.jpg"
+  },
+  {
+    "id": "bdd200209d022621",
+    "title": "На базі \"Дії\" створять застосунок для інформування про повітряні загрози – Корецький",
+    "summary": "Прем'єр-міністр Сергій Корецький заявив, що в Україні на базі державного сервісу \"Дія\" буде створено окремий застосунок, який інформуватиме громадян про повітряні тривоги, а також про рух безпілотників і ракет",
+    "url": "https://www.pravda.com.ua/news/2026/09/04/8051827/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-03T22:45:00+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/4/906057/e404ac8ca8c8504205c4a65dc448dc80.jpeg"
+  },
+  {
+    "id": "2ecebaec2188cf7d",
+    "title": "GLP-1s are being linked to fewer serious infections, including TB",
+    "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c... Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 45 # Comments: 31",
+    "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-03T22:37:31+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": null
+  },
+  {
+    "id": "e7a2e1182e71cf5e",
+    "title": "Transplanted pig kidney works in US man's body for record 271 days",
+    "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+    "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-03T22:31:23+00:00",
+    "fetched": "2026-09-04T00:52:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
+  },
+  {
+    "id": "2f45761c5c5ccb64",
+    "title": "US investigating if missile hit Iran wedding, Vance says",
+    "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+    "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-03T22:19:59+00:00",
+    "fetched": "2026-09-04T00:52:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg"
+  },
+  {
     "id": "28be62c2adbb3f38",
     "title": "Трамп відмовився підтримувати Британію у потенційному конфлікті з Аргентиною за Фолклендські острови",
     "summary": "Президент ображений на Лондон через відмову брати участь у війні з Іраном.",
@@ -288,6 +432,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg"
   },
   {
+    "id": "c7eeb240a6679d96",
+    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "summary": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in \"strict\" mode. Disabled Privacy Badger for that site, and it didn't help. Tried private browsing, and it didn't help. Is this part of Google's war…",
+    "url": "https://news.ycombinator.com/item?id=49555592",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-03T19:38:46+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": null
+  },
+  {
     "id": "8eec36eef13837ac",
     "title": "Уряд рекомендує Києву скоротити тривалість комендантської години",
     "summary": "Кабінет міністрів ухвалив 3 вересня рішення, які мають адаптувати роботу держави, бізнесу та інфраструктури до нової тактики російських повітряних атак. Серед них – рекомендують Києву скоротити тривалість комендантської години з 01:00 до 05:00.",
@@ -514,6 +670,18 @@
     "published": "2026-09-03T18:20:00+00:00",
     "fetched": "2026-09-03T20:03:27+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/f/9/f9f0e8c-----------.jpg"
+  },
+  {
+    "id": "4bdbd227a6d574e1",
+    "title": "US billionaire Leon Black defies summons and sues Epstein panel",
+    "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
+    "url": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-03T18:14:57+00:00",
+    "fetched": "2026-09-04T00:52:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e4/live/b3cecac0-a7b1-11f1-b78b-6b70b0a83270.jpg"
   },
   {
     "id": "fc06c5afd2a1e814",
@@ -864,6 +1032,18 @@
     "image": "https://i.lb.ua/news/018/55/6a999d9555a52.jpg"
   },
   {
+    "id": "f9c9052e0da7f42a",
+    "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+    "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+    "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-03T16:16:49+00:00",
+    "fetched": "2026-09-04T00:52:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg"
+  },
+  {
     "id": "ccc73694f8d7d069",
     "title": "Корецький доручив перевірити якість харчування в школах",
     "summary": "Прем'єр наголосив, що держава передбачила необхідне фінансування, щоб діти в кожній без винятку школі отримували якісні обіди.",
@@ -1080,6 +1260,18 @@
     "image": "https://i.lb.ua/news/072/31/6a9997583ab06.jpg"
   },
   {
+    "id": "18240124623bfa70",
+    "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+    "summary": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-03T15:48:06+00:00",
+    "fetched": "2026-09-04T00:52:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060f/live/a8348b80-a7ae-11f1-b78b-6b70b0a83270.jpg"
+  },
+  {
     "id": "814a480b31a258be",
     "title": "Sony makes bold claim about game ownership",
     "summary": "Article URL: https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/ Comments URL: https://news.ycombinator.com/item?id=49551925 Points: 88 # Comments: 104",
@@ -1282,6 +1474,18 @@
     "published": "2026-09-03T14:44:00+00:00",
     "fetched": "2026-09-03T17:07:19+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/6/c/6c8fb70--------.jpg"
+  },
+  {
+    "id": "5b76885334afe08c",
+    "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+    "summary": "Hi everyone, Wanted to share a game I built. It's called Unscramble! and I believe it's the simplest word building game. Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap again to deselect. Faster you go, better…",
+    "url": "https://news.ycombinator.com/item?id=49550479",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-03T14:37:21+00:00",
+    "fetched": "2026-09-04T00:52:11+00:00",
+    "image": null
   },
   {
     "id": "a49ac91c3c7b9804",
@@ -40354,185 +40558,5 @@
     "published": "2026-08-21T01:37:27+00:00",
     "fetched": "2026-08-21T03:07:06+00:00",
     "image": "https://www.law.berkeley.edu/wp-content/uploads/2024/12/websharecard2.jpg"
-  },
-  {
-    "id": "7bac7bcd0540a154",
-    "title": "Російські дрони атакували Суми: є поранені",
-    "summary": "У Сумах нічна атака БпЛА спричинила пожежі в житлових будинках, двоє людей постраждали.",
-    "url": "https://www.pravda.com.ua/news/2026/08/21/8049613/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T00:41:00+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/896036/04a3125a6c446082a238af0fe444a9c0.jpeg"
-  },
-  {
-    "id": "0dbce6fe10274748",
-    "title": "It is a sign of the times that Amazon gets to call this fair use",
-    "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html Comments URL: https://news.ycombinator.com/item?id=49382200 Points: 5 # Comments: 2",
-    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-21T00:34:32+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": null
-  },
-  {
-    "id": "53f6d659dba41621",
-    "title": "El Niño set to be 'strongest in living memory', says Met Office",
-    "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-    "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-21T00:33:21+00:00",
-    "fetched": "2026-08-21T03:07:05+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg"
-  },
-  {
-    "id": "c01a0a863f386499",
-    "title": "There's no such thing as a small software team anymore",
-    "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 13 # Comments: 11",
-    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-21T00:28:37+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": "https://jacob.gold/images/theres-no-such-thing-as-a-small-software-team.webp"
-  },
-  {
-    "id": "7ce697261d85dca7",
-    "title": "У Нью-Йорку попередили теракт \"Ісламської держави\" у будівлі місцевої влади",
-    "summary": "35-річна жінка мала підірвати Капітолій штату.",
-    "url": "https://lb.ua/world/2026/08/21/760464_nyu-yorku_poperedili_terakt.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T00:25:00+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": "https://i.lb.ua/news/079/27/6a879b9f3396c.jpg"
-  },
-  {
-    "id": "4a2e75173a54e103",
-    "title": "У Нью-Йорку запобігли теракту \"Ісламської держави\" у будівлі місцевої влади",
-    "summary": "35-річна жінка мала підірвати Капітолій штату.",
-    "url": "https://lb.ua/world/2026/08/21/760464_nyu-yorku_zapobigli_teraktu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T00:25:00+00:00",
-    "fetched": "2026-08-21T04:10:20+00:00",
-    "image": "https://i.lb.ua/news/079/27/6a879b9f3396c.jpg"
-  },
-  {
-    "id": "ad9e90903af423fa",
-    "title": "Copyright does not protect AI-generated content in EU",
-    "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 54 # Comments: 60",
-    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-21T00:15:12+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": null
-  },
-  {
-    "id": "8e283893d20b19ed",
-    "title": "The Atlantic: Зеленському нібито пропонували вдарити дронами по аеропортах Москви",
-    "summary": "Президенту Зеленському нібито пропонували атаки дронами по московських аеропортах у 2026 році, але підготовку зупинили.",
-    "url": "https://www.pravda.com.ua/news/2026/08/21/8049611/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T00:05:00+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/896034/558ea59dfeeea03fefd6242f51e3cc88.jpeg"
-  },
-  {
-    "id": "61126644e59416f6",
-    "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-    "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-    "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-21T00:04:10+00:00",
-    "fetched": "2026-08-21T09:08:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e3/live/20737740-9d3d-11f1-bc05-aff3aa1f91c7.jpg"
-  },
-  {
-    "id": "2f7b33868b153a76",
-    "title": "Stealth Model",
-    "summary": "Article URL: https://openrouter.ai/stealth/ox-alpha Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 19 # Comments: 4",
-    "url": "https://openrouter.ai/stealth/ox-alpha",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-20T23:56:35+00:00",
-    "fetched": "2026-08-21T01:38:21+00:00",
-    "image": "https://openrouter.ai/stealth/ox-alpha/opengraph-image-1oizug?abd1ffaa6102aa5f"
-  },
-  {
-    "id": "733d7a371b470ada",
-    "title": "\"З нами або проти нас\": США вимагають від союзників приєднання до знищення іранської економіки",
-    "summary": "У Вашингтоні розраховують повалити режим у Тегерані силою санкцій.",
-    "url": "https://lb.ua/world/2026/08/21/760462_z_abo_proti_ssha_vimagayut_vid.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-20T23:32:00+00:00",
-    "fetched": "2026-08-20T23:53:26+00:00",
-    "image": "https://i.lb.ua/news/059/19/6a8790a1b8ba5.jpg"
-  },
-  {
-    "id": "7bad4a1985889114",
-    "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-    "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-    "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-20T23:16:45+00:00",
-    "fetched": "2026-08-20T23:53:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg"
-  },
-  {
-    "id": "4f5d67d601c5fb63",
-    "title": "Why the US economy is ringing alarm bells",
-    "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-    "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-20T23:15:15+00:00",
-    "fetched": "2026-08-21T03:07:05+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg"
-  },
-  {
-    "id": "213580b8fab47c43",
-    "title": "У Києві частково обмежать рух мостом Метро",
-    "summary": "Міст Метро у Києві частково закриють з 21 по 24 серпня для ремонту. Водіям радять планувати маршрути заздалегідь.",
-    "url": "https://www.pravda.com.ua/news/2026/08/21/8049610/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-20T22:55:00+00:00",
-    "fetched": "2026-08-20T23:29:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/896032/2be9008cc1fd627d926f3a0c1c8c0c70.jpeg"
-  },
-  {
-    "id": "9e78f1c41169b37c",
-    "title": "Detecting scraper bots through scroll behaviour",
-    "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour Comments URL: https://news.ycombinator.com/item?id=49381311 Points: 6 # Comments: 3",
-    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-20T22:47:52+00:00",
-    "fetched": "2026-08-20T23:29:21+00:00",
-    "image": "https://niki.cat/bl-themes/bludit-blowfish-main/img/spleenftw.jpeg"
   }
 ]
