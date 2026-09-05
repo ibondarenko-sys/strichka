@@ -1,5 +1,101 @@
 [
   {
+    "id": "69089fc714c96b69",
+    "title": "Трамп назвав протистояння з Іраном \"не війною, а дрібницею\"",
+    "summary": "У США обурилися, оскільки конфлікт забрав життя 18 військовослужбовців.",
+    "url": "https://lb.ua/world/2026/09/05/763798_tramp_nazvav_protistoyannya_z.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-05T00:25:00+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://i.lb.ua/news/075/09/6a9b61bf33fd4.jpg"
+  },
+  {
+    "id": "6702e27e262bb223",
+    "title": "В Іспанії зафіксували рекордну спеку для вересня",
+    "summary": "На початку вересня в Іспанії зафіксували рекордну спеку в понад 45 градусів за Цельсієм.",
+    "url": "https://www.pravda.com.ua/news/2026/09/05/8051984/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-05T00:22:00+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/4/906951/a4b4c9cb1041c23c58512a996e93d5c3.jpeg"
+  },
+  {
+    "id": "2d1aff01ef67ae47",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 9 # Comments: 0",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-05T00:04:14+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/6f95888d7f2b11ac42c1be194ed4de6fa96571cb-1254x1254.png?w=1200&auto=format"
+  },
+  {
+    "id": "4a93a311166fb4a7",
+    "title": "Show HN: Moadim.io – A scheduler for agents",
+    "summary": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp/ui/http - unlimited routines/crons So I built one, moadim.io is a local Rust daemon you…",
+    "url": "https://moadim.io/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T23:50:29+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://moadim.io/opengraph-image?ede1a15554e8c3a4"
+  },
+  {
+    "id": "44a6c9acd9ce915d",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 15 # Comments: 1",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T23:38:50+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png"
+  },
+  {
+    "id": "59c7d63af25325b4",
+    "title": "ООН ухвалила резолюцію про нову мапу світу - США були проти",
+    "summary": "Африканські країни наполягали на відмові від практики XVI століття.",
+    "url": "https://lb.ua/world/2026/09/05/763796_oon_uhvalila_rezolyutsiyu_pro.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-04T23:29:00+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://i.lb.ua/news/124/62/6a9b540c0dafd.jpg"
+  },
+  {
+    "id": "f4f8f17e85de428d",
+    "title": "Gimlet's Series B",
+    "summary": "Article URL: https://gimletlabs.ai/blog/announcing-series-b Comments URL: https://news.ycombinator.com/item?id=49571255 Points: 6 # Comments: 2",
+    "url": "https://gimletlabs.ai/blog/announcing-series-b",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T23:09:18+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://gimletlabs.ai/blog/images/announcing-series-b/series_b_social.png"
+  },
+  {
+    "id": "d86a7d908263a42b",
+    "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+    "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+    "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-04T23:07:23+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg"
+  },
+  {
     "id": "d3b3323cd7b4c208",
     "title": "Росіяни вдарили по промисловому підприємству на Дніпропетровщині",
     "summary": "У ніч на неділю, 5 вересня, російська окупаційна армія завдала ударів по промисловому підприємству у Кам'янському Дніпропетровської області.",
@@ -10,6 +106,18 @@
     "published": "2026-09-04T22:54:00+00:00",
     "fetched": "2026-09-04T22:59:58+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/4/906950/a4e1a5c70cfe657c061765d405e29c5c.jpeg"
+  },
+  {
+    "id": "3ee62c9aa7439853",
+    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+    "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T22:49:17+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg"
   },
   {
     "id": "ab7c596249805a35",
@@ -36,6 +144,30 @@
     "image": "https://i.lb.ua/news/054/36/6a9b485d1eccf.jpg"
   },
   {
+    "id": "73272e32a8d09145",
+    "title": "Can guitar frets perform multiplication?",
+    "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 19 # Comments: 2",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T22:40:30+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://www.charlespetzold.com/blog/2026/09/images/SocialMediaImage.png"
+  },
+  {
+    "id": "680bad5aa943a573",
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T22:17:36+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+  },
+  {
     "id": "8cefd46e75b8f591",
     "title": "Трамп поширив у власній соцмережі статтю про виробництво ракет Patriot в Україні",
     "summary": "Рішення про надання ліцензії зависло у повітрі з липневого саміту НАТО.",
@@ -58,6 +190,18 @@
     "published": "2026-09-04T22:10:00+00:00",
     "fetched": "2026-09-04T22:59:58+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/906943/c4709ed75004fcad8c261c16b5de38a8.jpeg"
+  },
+  {
+    "id": "c1f5b000ff916fa6",
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 133 # Comments: 75",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-04T22:03:16+00:00",
+    "fetched": "2026-09-05T00:49:31+00:00",
+    "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/85e4dc00-82a3-45cb-b881-981ea10dfa90.jpg"
   },
   {
     "id": "983812f13ecb82eb",
@@ -39358,113 +39502,5 @@
     "published": "2026-08-22T01:02:09+00:00",
     "fetched": "2026-08-22T02:37:57+00:00",
     "image": null
-  },
-  {
-    "id": "d02a76f12d1e528e",
-    "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-    "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-    "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-22T00:40:47+00:00",
-    "fetched": "2026-08-22T02:37:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg"
-  },
-  {
-    "id": "952b7dc27352bb88",
-    "title": "США виплатять ООН 850 мільйонів доларів, закривши частину 5-мільярдного боргу",
-    "summary": "У 2025 році адміністрація Трампа взагалі відмовилася перерахувати ООН бодай цент.",
-    "url": "https://lb.ua/world/2026/08/22/760728_ssha_viplatyat_oon_850_milyoniv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-22T00:39:00+00:00",
-    "fetched": "2026-08-22T01:26:51+00:00",
-    "image": "https://i.lb.ua/news/066/60/6a88f1e0a58aa.jpg"
-  },
-  {
-    "id": "fd31439f723eb5a8",
-    "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-    "summary": "They will not be working royals when they come back. So what could they be doing instead?",
-    "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-22T00:03:10+00:00",
-    "fetched": "2026-08-22T05:31:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg"
-  },
-  {
-    "id": "17a127087e4f7af9",
-    "title": "HN: The Good Parts (2016)",
-    "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 11 # Comments: 6",
-    "url": "https://danluu.com/hn-comments/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-21T23:53:03+00:00",
-    "fetched": "2026-08-22T01:26:52+00:00",
-    "image": null
-  },
-  {
-    "id": "5b81aeb797548358",
-    "title": "Верховний суд США тимчасово дозволив Трампу продовжити будівництво бальної зали",
-    "summary": "Крапку у цій справі ще не поставлено, але маленька перемога за республіканцем.",
-    "url": "https://lb.ua/world/2026/08/22/760726_verhovniy_sud_ssha_timchasovo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T23:37:00+00:00",
-    "fetched": "2026-08-21T23:51:36+00:00",
-    "image": "https://i.lb.ua/news/121/62/6a88e1b881f68.jpg"
-  },
-  {
-    "id": "f90858f43fcf59fb",
-    "title": "Trump's space transportation policy calls for new spaceport on federal land",
-    "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-    "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-21T23:32:17+00:00",
-    "fetched": "2026-08-22T01:26:51+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg"
-  },
-  {
-    "id": "52253ba28452ebc5",
-    "title": "Сибіга закликав посилити санкції проти російського ВПК після атаки на Кривий Ріг",
-    "summary": "Міністр закордонних справ Андрій Сибіга закликав світ відреагувати на смертоносний подвійний удар Росії по торговельному центру в Кривому Розі негайним посиленням санкцій проти російського військово-промислового комплексу та передачею Україні додаткових засобів протиповітряної…",
-    "url": "https://www.pravda.com.ua/news/2026/08/22/8049772/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T23:20:00+00:00",
-    "fetched": "2026-08-21T23:27:42+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/6/896654/26fc60d3a70dd2313a85a725fed30ee3.jpeg"
-  },
-  {
-    "id": "ec74d4d3ec74d751",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the…",
-    "url": "https://ozbrain.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-21T23:09:06+00:00",
-    "fetched": "2026-08-21T23:51:36+00:00",
-    "image": "https://ozbrain.com/og.png?v=4"
-  },
-  {
-    "id": "d077de233e7dbada",
-    "title": "Фінляндія викликала посла РФ через порушення свого повітряного простору",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/22/8049771/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-21T23:01:00+00:00",
-    "fetched": "2026-08-21T23:27:42+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/7/3/7388f2b-rf-93610-il18-20m--russian-air-force-uumb--33375039736---2-.jpg"
   }
 ]
