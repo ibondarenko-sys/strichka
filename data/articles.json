@@ -1,5 +1,77 @@
 [
   {
+    "id": "2f083f991a7ffb8c",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T23:36:04+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "b8daa0a9e9fbd7d7",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "summary": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 7 # Comments: 1",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T23:14:08+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://austinhenley.com/blog/images/python1024.png"
+  },
+  {
+    "id": "accc2caa2f8cc51c",
+    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+    "summary": "Article URL: https://twitter.com/Liquid_BTC/status/2096696272447218108 Comments URL: https://news.ycombinator.com/item?id=49591672 Points: 8 # Comments: 1",
+    "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T22:43:25+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://pbs.twimg.com/card_img/2094942939721920512/sLH5zf5k?format=jpg&name=orig"
+  },
+  {
+    "id": "541fd3b6d32920b2",
+    "title": "Political meddling at the Census Bureau damages the US statistical system",
+    "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system Comments URL: https://news.ycombinator.com/item?id=49591620 Points: 14 # Comments: 1",
+    "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T22:36:07+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://www.piie.com/sites/default/files/2026-08/MT1SIPA000RQXILD.jpg"
+  },
+  {
+    "id": "c006c2268ead3455",
+    "title": "Кушнер та Віткофф поїхали з Києва",
+    "summary": "Стів Віткофф і Джаред Кушнер залишили Київ нічним поїздом Укрзалізниці після переговорів із Зеленським.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052189/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-06T22:11:00+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/908271/a35af56674d3b191b405ce81794b9c6d.jpeg"
+  },
+  {
+    "id": "13cf0221f4efe2d4",
+    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "summary": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 33 # Comments: 22",
+    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T21:16:10+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": null
+  },
+  {
     "id": "27ad3e86d863035f",
     "title": "Головне за неділю, 6 вересня: Віткофф та Кушнер у Києві, атака на Дніпро, понад 205 боєзіткнень",
     "summary": "Бойові дії на Донеччині, 206 бойових зіткнень, ворожі обстріли, запобіжний захід співробітникові ОГПУ Кропиві. Яким запам’ятається 1656-й день повномасштабної війни.",
@@ -82,6 +154,30 @@
     "published": "2026-09-06T20:32:38+00:00",
     "fetched": "2026-09-06T21:35:49+00:00",
     "image": "https://anubis.techaro.lol/chrystarium.webp"
+  },
+  {
+    "id": "babce5dcfe3d3df3",
+    "title": "Harnessing the Universal Geometry of Embeddings",
+    "summary": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 26 # Comments: 3",
+    "url": "https://arxiv.org/abs/2505.12540",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T20:31:20+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "56a02a5ab37f3724",
+    "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+    "summary": "Article URL: https://github.com/FulltimeFeline/Sol Comments URL: https://news.ycombinator.com/item?id=49590524 Points: 12 # Comments: 0",
+    "url": "https://github.com/FulltimeFeline/Sol",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T20:24:56+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://opengraph.githubassets.com/89fcaec607a7f784450d54f5329995a50fcc25a44e6907ec6ed6e8d7db61aec0/FulltimeFeline/Sol"
   },
   {
     "id": "d240cb8346955760",
@@ -202,6 +298,18 @@
     "published": "2026-09-06T19:20:00+00:00",
     "fetched": "2026-09-06T19:25:41+00:00",
     "image": "https://i.lb.ua/news/079/61/6a9dbd0315772.jpg"
+  },
+  {
+    "id": "cad85c53d7829d5e",
+    "title": "D2 Is Non-Profit",
+    "summary": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 13 # Comments: 5",
+    "url": "https://d2lang.com/blog/d2-non-profit/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T19:11:05+00:00",
+    "fetched": "2026-09-06T23:38:36+00:00",
+    "image": "https://d2lang.com/img/opengraph.png"
   },
   {
     "id": "691440638768bd48",
@@ -39574,53 +39682,5 @@
     "published": "2026-08-24T00:34:59+00:00",
     "fetched": "2026-08-24T03:07:50+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg"
-  },
-  {
-    "id": "1026ee25d6ee0e8a",
-    "title": "Ціни на нафту дещо знизилися на тлі погроз Ірану перекрити Ормузьку протоку",
-    "summary": "Світові ціни на нафту дещо знизилися.",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049984/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-23T23:30:00+00:00",
-    "fetched": "2026-08-23T23:47:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/897551/7b6990fbb513dc23e3508106abe64ab6.jpeg"
-  },
-  {
-    "id": "6c51db20726b2563",
-    "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-    "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-    "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-23T23:07:10+00:00",
-    "fetched": "2026-08-24T04:21:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg"
-  },
-  {
-    "id": "793908a440b57eae",
-    "title": "Російський Краснодар атакували дрони – пабліки",
-    "summary": "У ніч на 24 серпня безпілотники вчергове атакували російський Краснодар.",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049983/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-23T22:24:00+00:00",
-    "fetched": "2026-08-23T22:50:43+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/897542/c1960402b10163d4712ed0f456c02ec8.jpeg"
-  },
-  {
-    "id": "1a74238f95c83a6e",
-    "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-    "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse,…",
-    "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-23T22:16:53+00:00",
-    "fetched": "2026-08-23T22:50:43+00:00",
-    "image": "https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=9be55d6e6768a346d1aa2a8257a6b4f9"
   }
 ]
