@@ -1,5 +1,29 @@
 [
   {
+    "id": "8b4ff79defaaa7f5",
+    "title": "Вираховували російські підводні човни: союзники НАТО вперше провели навчання без участі США – ЗМІ",
+    "summary": "За даними Politico, союзники НАТО вперше провели військові навчання без участі США.",
+    "url": "https://www.pravda.com.ua/news/2026/09/06/8052096/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-06T00:10:00+00:00",
+    "fetched": "2026-09-06T00:44:33+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/907599/6de6ce971a8a7c7b366661ca4b92a181.jpeg"
+  },
+  {
+    "id": "fbaa403a36b29014",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 33 # Comments: 10",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T00:03:29+00:00",
+    "fetched": "2026-09-06T00:44:33+00:00",
+    "image": "https://cloudinabottle.org/static/img/social-card.png"
+  },
+  {
     "id": "da52f9cd72f8b3bc",
     "title": "У Кремлі вважають конструктивними переговори з посланцями Трампа, назвали ключові теми",
     "summary": "У Кремлі прокоментували перемовини з посланцями Трампа.",
@@ -22,6 +46,18 @@
     "published": "2026-09-05T22:16:55+00:00",
     "fetched": "2026-09-05T22:43:14+00:00",
     "image": "https://i.guim.co.uk/img/media/8a56c6bc67eb59b4558674f0cf8f37b1d1b6ec45/0_0_3362_2691/master/3362.jpg?width=140&quality=85&auto=format&fit=max&s=aac3a2aa733d06b6ea5d8a3455c34b24"
+  },
+  {
+    "id": "f31be0c625cb8e92",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 21 # Comments: 10",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-05T22:15:52+00:00",
+    "fetched": "2026-09-06T00:44:33+00:00",
+    "image": "https://opengraph.githubassets.com/d8de8376ccd75b9c28466c09bed3babbc6ea22b1e35c1733627ee3999aaef77c/okf-memory/okf-agent-memory"
   },
   {
     "id": "5af6009d1562b473",
@@ -58,6 +94,18 @@
     "published": "2026-09-05T21:43:22+00:00",
     "fetched": "2026-09-05T22:43:15+00:00",
     "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png"
+  },
+  {
+    "id": "b529fde1aac24dd9",
+    "title": "The revolt of the reader",
+    "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 46 # Comments: 14",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-05T21:37:49+00:00",
+    "fetched": "2026-09-06T00:44:33+00:00",
+    "image": null
   },
   {
     "id": "cad30ec7be1bc180",
@@ -39418,65 +39466,5 @@
     "published": "2026-08-23T00:48:00+00:00",
     "fetched": "2026-08-23T01:41:23+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/7/897079/67349dd0cc15139cf9ab412e88839b21.jpeg"
-  },
-  {
-    "id": "e65ee3debbce27ac",
-    "title": "US Military newspaper editor voices censorship fears after being fired",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o Comments URL: https://news.ycombinator.com/item?id=49405110 Points: 18 # Comments: 3",
-    "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-23T00:19:17+00:00",
-    "fetched": "2026-08-23T01:41:27+00:00",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg"
-  },
-  {
-    "id": "541dee9d55465c2a",
-    "title": "Mathematicians will probably become obsolete before anyone else [pdf]",
-    "summary": "Article URL: https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf Comments URL: https://news.ycombinator.com/item?id=49405083 Points: 35 # Comments: 7",
-    "url": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-23T00:14:16+00:00",
-    "fetched": "2026-08-23T09:32:06+00:00",
-    "image": null
-  },
-  {
-    "id": "3453b801c0829eba",
-    "title": "Циклон \"Приска\" забрав життя двох людей у країнах Балтії та знеструмив понад мільйон осель",
-    "summary": "Циклон \"Приска\" зі шквальним вітром накрив Литву, Латвію, Польщу та Білорусь – унаслідок негоди загинули двоє людей, ще двоє зазнали травм, а понад мільйон споживачів залишилися без електропостачання.",
-    "url": "https://www.pravda.com.ua/news/2026/08/23/8049881/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-23T00:12:00+00:00",
-    "fetched": "2026-08-23T01:41:23+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/897069/8ed768fcb29412d97c64a25f502cf2fa.jpeg"
-  },
-  {
-    "id": "d09170bb86200db5",
-    "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-    "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-    "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-22T23:45:01+00:00",
-    "fetched": "2026-08-23T10:28:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289b/live/3ae595f0-9d82-11f1-b109-879e35c24276.png"
-  },
-  {
-    "id": "7198c33906a76146",
-    "title": "У Білорусі через циклон \"Приска\" стався масштабний блекаут",
-    "summary": "У Білорусі циклон \"Приска\" із поривами вітру до 27 м/с спричинив масштабні пошкодження електромереж у понад 650 населених пунктах.",
-    "url": "https://www.pravda.com.ua/news/2026/08/23/8049880/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-22T23:42:00+00:00",
-    "fetched": "2026-08-22T23:47:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/o/g/897056/og_8049880_ukr.png?w=1200&q=85&stamp=1787442278"
   }
 ]
