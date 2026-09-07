@@ -1,5 +1,149 @@
 [
   {
+    "id": "b9ee88c1daf4d6d3",
+    "title": "Сили оборони України знешкодили ще 1540 російських окупантів – Генштаб",
+    "summary": "Сили оборони України за добу ліквідували 1 540 росіян. Загальні втрати РФ у війні склали понад 1 497 980 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052202/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-07T03:44:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/4/908328/b4352a07c968612b2fbf56a514213a31.jpeg"
+  },
+  {
+    "id": "64e52f806f7e47f1",
+    "title": "Дрони атакували окупований Маріуполь: горить торговельний центр \"Галактика\"",
+    "summary": "Уночі дрони спричинили масштабну пожежу у тимчасово окупованому Маріуполі.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052196/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-07T03:36:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/908316/5cd94b8544ac7864d77a5a8ecf6908ec.jpeg"
+  },
+  {
+    "id": "45f14d4fedcb176c",
+    "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+    "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 10 # Comments: 1",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-07T03:29:51+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": null
+  },
+  {
+    "id": "765bdd12adb8cdf9",
+    "title": "Росія атакувала один із мікрорайонів Балаклії на Харківщині",
+    "summary": "Російські війська завдали удару по Балаклії, наслідки уточнюють.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052194/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-07T02:39:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/c/908313/3c0b2bb71477bdbc7cee23d2b842aa49.jpeg"
+  },
+  {
+    "id": "4ff828938db60c2b",
+    "title": "Покоління \"офісів\". Як і чому шахрайство стало роботою для тисяч молодих українців",
+    "summary": "На початку останнього місяця літа українські шахрайські кол-центри, які в народі називають \"офісами\", закрились на несподівані \"канікули\". Національна поліція разом із СБУ протягом першої частини серпня провели 411 обшуків і припинили діяльність 94-х шахрайських \"офісів\". 26…",
+    "url": "https://www.pravda.com.ua/articles/2026/09/07/8052180/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-07T02:30:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/908197/74ea3eb4bcd972d2693c5df5149489e7.jpeg"
+  },
+  {
+    "id": "262428072253e144",
+    "title": "Літак Amazon викотився за межі злітно-посадкової смуги в Маямі: п'ятеро загиблих",
+    "summary": "Літак Amazon виїхав за межі смуги в аеропорту Майамі, зіткнувся з авто та спалахнув. Пʼятеро загиблих, пʼятеро поранених, десятки рейсів затримані.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052193/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-07T01:55:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/908310/b9c98651e14c260781707ef8fa94af38.jpeg"
+  },
+  {
+    "id": "18262d9da40c1514",
+    "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+    "summary": "Article URL: https://gettogether.dev Comments URL: https://news.ycombinator.com/item?id=49592840 Points: 11 # Comments: 2",
+    "url": "https://gettogether.dev",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-07T01:41:11+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": null
+  },
+  {
+    "id": "85e21207cd706cd4",
+    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+    "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+    "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-07T00:57:38+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg"
+  },
+  {
+    "id": "960e51345ef9e08c",
+    "title": "У російському Сочі знову спалахнула нафтобаза, яка вже була під атакою",
+    "summary": "У російському Сочі знову загорілася нафтобаза, яка постраждала під час удару.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052191/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-07T00:48:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/f/908298/0fdc872806597146986bd3e6e5492a18.jpeg"
+  },
+  {
+    "id": "8bb7f24fe47b237a",
+    "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+    "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel Comments URL: https://news.ycombinator.com/item?id=49592366 Points: 17 # Comments: 2",
+    "url": "https://github.com/Staatsgeheim/MathKernel",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-07T00:21:01+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://opengraph.githubassets.com/8de56b39e0eadff8b8e1544705f10fa12eb4277e0d09a88a4ac9744e861ae0ce/Staatsgeheim/MathKernel"
+  },
+  {
+    "id": "186cad496c76242c",
+    "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+    "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+    "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-07T00:01:32+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg"
+  },
+  {
+    "id": "45bf18fe0a99a3f8",
+    "title": "Армія РФ атакувала Запоріжжя, спалахнув торговий центр – ОВА",
+    "summary": "Російські війська атакували Запоріжжя дронами 7 вересня. Пошкоджений торговельний центр.",
+    "url": "https://www.pravda.com.ua/news/2026/09/07/8052190/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-06T23:46:00+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/908284/2b3fd254389581364499f8d17f9da733.jpeg"
+  },
+  {
     "id": "2f083f991a7ffb8c",
     "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
     "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting…",
@@ -69,6 +213,18 @@
     "lang": "en",
     "published": "2026-09-06T21:16:10+00:00",
     "fetched": "2026-09-06T23:38:36+00:00",
+    "image": null
+  },
+  {
+    "id": "57d24d8512d9f751",
+    "title": "Signing TLS handshakes inside a TPM",
+    "summary": "Article URL: https://bschaatsbergen.com/posts/go-tpm-tls/ Comments URL: https://news.ycombinator.com/item?id=49590946 Points: 5 # Comments: 2",
+    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T21:05:21+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
     "image": null
   },
   {
@@ -274,6 +430,18 @@
     "published": "2026-09-06T19:44:00+00:00",
     "fetched": "2026-09-06T21:35:47+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/5/3/538cfb8---------------2026-09-06-170410.jpg"
+  },
+  {
+    "id": "9e6309ef0f5cb4f3",
+    "title": "Ask HN: How do you manage skills files?",
+    "summary": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time? I believe skills will eventually be eating by model capabilities, but until then I'm just looking for a better way to manage things. Comments URL:…",
+    "url": "https://news.ycombinator.com/item?id=49589914",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T19:27:10+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": null
   },
   {
     "id": "c631b924c745403c",
@@ -610,6 +778,18 @@
     "published": "2026-09-06T17:03:00+00:00",
     "fetched": "2026-09-06T17:16:38+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/7/908050/47ab81791b3dd17590dc9d775e91b9d3.jpeg"
+  },
+  {
+    "id": "ab44beaf67ebb465",
+    "title": "YouTube had a bug – I used ChatGPT to investigate",
+    "summary": "Article URL: https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate Comments URL: https://news.ycombinator.com/item?id=49588483 Points: 5 # Comments: 4",
+    "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-06T17:01:39+00:00",
+    "fetched": "2026-09-07T03:53:09+00:00",
+    "image": "https://blog.thezilber.com/static-graphics/youtube-bug-og.png"
   },
   {
     "id": "44ac47f1f8a433ef",
@@ -39586,101 +39766,5 @@
     "published": "2026-08-24T03:55:35+00:00",
     "fetched": "2026-08-24T05:18:41+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg"
-  },
-  {
-    "id": "eaa571853d8fe2e0",
-    "title": "Сили оборони знешкодили ще 1 490 російських окупантів",
-    "summary": "У війні проти України Росія втратила ще 1 490 військових, 68 артсистем і 554 одиниці автомобільної техніки та автоцистерн.",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049990/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-24T03:40:00+00:00",
-    "fetched": "2026-08-24T04:21:57+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/897563/594957372037066d71d35618117757c7.jpeg"
-  },
-  {
-    "id": "398564c7de840bd4",
-    "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-    "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-    "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-24T03:27:11+00:00",
-    "fetched": "2026-08-24T04:21:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg"
-  },
-  {
-    "id": "d1ddb7cb86e6f7d5",
-    "title": "Бессент заявив про початок \"наймасштабнішої фінансової операції\" проти Ірану",
-    "summary": "Війна США та Ірану: Штати розпочинають \"наймасштабнішу фінансову операцію\" проти Ірану.",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049989/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-24T03:04:00+00:00",
-    "fetched": "2026-08-24T03:07:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/0/897556/90e31a9a77a9a60c4625a77ed405e47d.jpeg"
-  },
-  {
-    "id": "647b8be85266b495",
-    "title": "Іран пригрозив суднам, які порушують його правила в Ормузі",
-    "summary": "У неділю Іран заявив, що судна, які він звинувачує у порушенні його правил транзиту в Ормузькій протоці, \"зіткнуться з обмеженнями\", такими як \"штрафи, затримання або конфіскація\".",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049986/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-24T02:30:00+00:00",
-    "fetched": "2026-08-24T03:07:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/897554/50dcd77e14d42eaa82eda4e606303cec.jpeg"
-  },
-  {
-    "id": "e5e5bb4b13e3f3dd",
-    "title": "Владлен Мараєв: З часом всі діячі перших 35 років незалежності сприйматимуться зовсім не так, як зараз",
-    "summary": "Українська незалежність почалася не 24 серпня 1991 року. До неї країна йшла через кілька спроб побудувати власну державу, поразки визвольних рухів, радянські репресії та десятиліття русифікації.",
-    "url": "https://www.pravda.com.ua/articles/2026/08/24/8049972/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-24T02:30:00+00:00",
-    "fetched": "2026-08-24T03:07:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/8/897509/284bbd93c871b0d205472482ec6846e3.jpeg"
-  },
-  {
-    "id": "237a3a4f8829a60a",
-    "title": "Росіяни атакували Конотоп дронами: більша частина міста без газу, знищений автопарк",
-    "summary": "росіяни вдарили по Конотопу, майже все місто без газу, згорів автопарк.",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049988/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-24T01:46:00+00:00",
-    "fetched": "2026-08-24T03:07:50+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/897555/b93eff8eee492c1476377bb75ed05a80.jpeg"
-  },
-  {
-    "id": "d7c120f82b4bd69e",
-    "title": "Прем’єр Британії оголосить про нову підтримку України у виготовленні далекобійних ракет",
-    "summary": "Британія має намір оголосити про нову підтримку України у виготовленні далекобійних ракет.",
-    "url": "https://www.pravda.com.ua/news/2026/08/24/8049987/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-24T01:14:00+00:00",
-    "fetched": "2026-08-24T01:39:06+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/897553/ca459a9bdb04263ac838a5186b557e37.jpeg"
-  },
-  {
-    "id": "c31e3c4947e8c127",
-    "title": "Australian shark attack victim grateful for 'second chance at life'",
-    "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-    "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-24T00:34:59+00:00",
-    "fetched": "2026-08-24T03:07:50+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg"
   }
 ]
