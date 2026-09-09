@@ -1,5 +1,185 @@
 [
   {
+    "id": "bdfa36c6b7271e9b",
+    "title": "Hong Kong's first leader after British handover dies",
+    "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+    "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-09T04:24:30+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15c/live/39d2dc50-abfa-11f1-807e-af17aa793752.jpg"
+  },
+  {
+    "id": "c6b0912e61bacb20",
+    "title": "Babies born to anaemic mothers have smaller brains, study finds",
+    "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a…",
+    "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-09T04:00:58+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://i.guim.co.uk/img/media/b51e55df330640864b621f7eafdfd622daf8756e/1297_888_3180_2544/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=df3f4a0cc5e7a1153c834b40c1d32543"
+  },
+  {
+    "id": "88c66252687940ca",
+    "title": "Втрати Росії у війні проти України перевищили 1,5 мільйона осіб – Генштаб",
+    "summary": "За минулу добу Сили оборони України знешкодили 1 480 російських загарбників, загальні втрати особового складу ворога у війні перевищили 1 мільйон 500 тисяч осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/09/09/8052538/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T03:56:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/2/909889/0238748d7d8c8d10e918207d3a593558.jpeg"
+  },
+  {
+    "id": "529b5f65666e95e3",
+    "title": "Росіяни атакували Дніпро: палають склад і будинок, із-під завалів врятували трьох людей",
+    "summary": "У ніч на 9 вересня російські війська атакували Дніпро. Внаслідок удару спалахнули пожежі на складі з будівельними матеріалами та у приватному будинку.",
+    "url": "https://www.pravda.com.ua/news/2026/09/09/8052532/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T03:18:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/909876/248429289e780b481c9a23f5d6e33bc7.jpeg"
+  },
+  {
+    "id": "307512d5fa4d12a4",
+    "title": "OpenAI заявила про розв'язання однієї із \"Задач тисячоліття\" – рівнянь Нав'є-Стокса",
+    "summary": "Компанія OpenAI заявила, що її внутрішня система штучного інтелекту розв'язала одну із семи математичних \"Задач тисячоліття\" – проблему існування та гладкості розв'язків рівнянь Нав'є-Стокса, які описують рух рідин і газів.",
+    "url": "https://www.pravda.com.ua/news/2026/09/09/8052531/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T02:57:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/909874/595cc38b24bdf13bf0415587fc13c8cb.jpeg"
+  },
+  {
+    "id": "38dbe19ea96c480a",
+    "title": "Сім патронів на навчанні й роки без УБД. З якими проблемами стикаються іноземні добровольці",
+    "summary": "У вересні 2026 року Робоча група ООН з питань використання найманців представить звіт про залучення жителів Колумбії до збройних формувань у різних країнах. Зокрема й в Україні. Для цього дослідження експерти опитали зо тисячу ветеранів російсько-української війни та членів…",
+    "url": "https://www.pravda.com.ua/articles/2026/09/09/8051403/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T02:30:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/903919/f8995445eade84afc497a8eec7c02fb0.jpeg"
+  },
+  {
+    "id": "3d322d198cd2cfdf",
+    "title": "Harvard study predicts most suicide attempts a week in advance",
+    "summary": "Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance Comments URL: https://news.ycombinator.com/item?id=49619906 Points: 96 # Comments: 48",
+    "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T02:07:13+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://current.fas.harvard.edu/sites/default/files/styles/fas_fp_1200x630/public/2026-09/040523_Nock_Lab_009%20%28photo%20by%20Kris%20Snibbe%2C%20Harvard%20University%29_square.jpg?h=780563bb&itok=W44uUK0G"
+  },
+  {
+    "id": "af49c387e5533adc",
+    "title": "Нетаньягу звинувачують в ігноруванні попередження про атаку ХАМАС 7 жовтня від ОАЕ",
+    "summary": "До виборів в Ізраїлі залишається трохи більше місяця.",
+    "url": "https://lb.ua/world/2026/09/09/764692_netanyagu_zvinuvachuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T01:57:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://i.lb.ua/news/068/59/6aa0b47d91b01.jpg"
+  },
+  {
+    "id": "8b49f2759a8d7a21",
+    "title": "У Новоросійську дрони атакували мазутний термінал: спалахнула пожежа",
+    "summary": "У ніч проти 9 вересня безпілотники атакували місто Новоросійськ Краснодарського краю РФ, унаслідок чого на території мазутного терміналу спалахнула пожежа.",
+    "url": "https://www.pravda.com.ua/news/2026/09/09/8052530/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T01:27:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/5/909869/15bc006deca354d9b1193353c1c58b5b.jpeg"
+  },
+  {
+    "id": "1f3c88097a04bf7c",
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+    "summary": "Article URL: https://gpu-lexer.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49619464 Points: 33 # Comments: 9",
+    "url": "https://gpu-lexer.vercel.app/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T01:14:50+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": null
+  },
+  {
+    "id": "3413d168a39f9e80",
+    "title": "США відновили розгляд заяв на іммігрантські візи лише з двох країн - Польщі та Угорщини",
+    "summary": "Адміністрація Дональда Трампа раптово обрала дві держави, звідки не заперечує мати переселенців.",
+    "url": "https://lb.ua/world/2026/09/09/764690_ssha_vidnovili_rozglyad_zayav.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T00:44:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://i.lb.ua/news/036/18/6aa0abee7922a.jpg"
+  },
+  {
+    "id": "7b8a094a5fd544af",
+    "title": "I resigned from Anthropic today",
+    "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843#m Comments URL: https://news.ycombinator.com/item?id=49619227 Points: 156 # Comments: 204",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T00:40:40+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_200x200.jpg"
+  },
+  {
+    "id": "1e5085e8c1ca4aa1",
+    "title": "США заявили про знищення п’яти іранських нафтових танкерів",
+    "summary": "Американські військові у вівторок знищили п'ять іранських танкерів із сирою нафтою після того, як Корпус вартових ісламської революції (КВІР) двічі за останні два дні безуспішно намагався атакувати військовий корабель ВМС США балістичними ракетами.",
+    "url": "https://www.pravda.com.ua/news/2026/09/09/8052529/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T00:40:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/909868/46815ddeb46cf134d611a926d8ca6256.jpeg"
+  },
+  {
+    "id": "9873b6582127a268",
+    "title": "У Херсоні в результаті удару російського дрона по багатоповерхівці загинула 70-річна жінка",
+    "summary": "У Дніпровському районі Херсона внаслідок влучання російського безпілотника в багатоквартирний житловий будинок загинула 70-річна жінка.",
+    "url": "https://www.pravda.com.ua/news/2026/09/09/8052528/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T00:15:00+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/909867/880efbe60f0d22275bda25cb5beef8aa.jpeg"
+  },
+  {
+    "id": "2b265d5f300e6852",
+    "title": "Singapore boosts PM’s salary by $1m amid major pay rise for ministers",
+    "summary": "The affluent city-state has justified high-end salaries for its political leaders, arguing they attract talent and ensure good governance Singapore’s prime minister has been given a $1m pay rise as the affluent city-state announced a dramatic one-off salary boost for government…",
+    "url": "https://www.theguardian.com/world/2026/sep/09/singapore-pm-ministers-salary-pay-rise",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-09T00:00:38+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://i.guim.co.uk/img/media/1a235c5d63c2b2ab6d27301813635d6426c43631/882_0_4509_3608/master/4509.jpg?width=140&quality=85&auto=format&fit=max&s=563530f4cfe757c6fab92ff4140a2c59"
+  },
+  {
     "id": "0e9b964933994dca",
     "title": "US slaps import ban on Canadian alcohol and other goods",
     "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
@@ -34,6 +214,18 @@
     "published": "2026-09-08T23:36:00+00:00",
     "fetched": "2026-09-08T23:57:00+00:00",
     "image": "https://i.lb.ua/news/055/37/6aa09d9ea9742.jpg"
+  },
+  {
+    "id": "d6d4aa7a20e13fc3",
+    "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+    "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+    "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-08T23:27:23+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg"
   },
   {
     "id": "8d2961bd14c44a86",
@@ -120,6 +312,18 @@
     "image": "https://i.lb.ua/news/000/57/6aa0861632654.jpg"
   },
   {
+    "id": "dc3eda17ca27c313",
+    "title": "LG TV shown scanning LAN for third-party phones and other devices",
+    "summary": "“It doesn’t cost a lot to store text forever.”",
+    "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-08T21:52:29+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg"
+  },
+  {
     "id": "a1ce4710fb8709c7",
     "title": "Sony isn’t phasing out discs quite as quickly as we thought",
     "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking…",
@@ -192,6 +396,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/7/909859/97310aa1aff7e06500dd15bb091bbdb6.jpeg"
   },
   {
+    "id": "e883a47e5391f8b7",
+    "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+    "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+    "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-08T21:23:13+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/hitmanbox1-1152x648-1788901163.png"
+  },
+  {
     "id": "3f7faa570ce63a7c",
     "title": "How to build a printer",
     "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 71 # Comments: 9",
@@ -214,6 +430,18 @@
     "published": "2026-09-08T21:20:22+00:00",
     "fetched": "2026-09-08T21:42:43+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg"
+  },
+  {
+    "id": "bf8c2b1da340d9c0",
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-08T21:11:46+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
   },
   {
     "id": "802b440bfed3645d",
@@ -348,6 +576,18 @@
     "image": "https://i.lb.ua/news/083/37/6aa06e99d60f5.jpg"
   },
   {
+    "id": "74012351dabbb0ab",
+    "title": "The universal language of space is... Star Trek? Mais oui.",
+    "summary": "\"Science fiction imagines the future. We build it.\"",
+    "url": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-08T20:20:20+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090826a-lg-1152x648.jpg"
+  },
+  {
     "id": "e20ac68d8328dfb9",
     "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
     "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an…",
@@ -406,6 +646,18 @@
     "published": "2026-09-08T20:07:55+00:00",
     "fetched": "2026-09-08T21:42:44+00:00",
     "image": "https://opengraph.githubassets.com/f25b54a7db20b193a38da66750b64e81493bba7a39235b41e815fbea266896a8/argonautlabsai/deltafin"
+  },
+  {
+    "id": "cec960be6b03fb8d",
+    "title": "NIH to use part of its budget to pay for Department of Defense research",
+    "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+    "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-08T20:06:44+00:00",
+    "fetched": "2026-09-09T04:26:53+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-1152x648.jpg"
   },
   {
     "id": "dfbcd49d7cc460ab",
@@ -37606,197 +37858,5 @@
     "published": "2026-08-26T04:51:00+00:00",
     "fetched": "2026-08-26T05:06:00+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/a/da09088---.jpg"
-  },
-  {
-    "id": "dc1108a449bb3831",
-    "title": "Сили оборони знешкодили ще майже півтори тисячі окупантів і 74 артсистеми – Генштаб",
-    "summary": "Сили оборони знищили 1450 окупантів, 7 танків, 74 артсистеми за добу. Дані Генштабу ЗСУ на 26.08.2026.",
-    "url": "https://www.pravda.com.ua/news/2026/08/26/8050328/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T04:26:00+00:00",
-    "fetched": "2026-08-26T05:06:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/1/899287/512937db71288c92dcb55cf9a48717df.jpeg"
-  },
-  {
-    "id": "cab7c3ab9b3c6bbc",
-    "title": "Дрони РФ вранці атакували Чернігів: є влучання у житловий будинок, загинули жінка та 4-річна дитина",
-    "summary": "Внаслідок ранкового удару по Чернігову 26 серпня загинули жінка і 4-річна дівчинка, виникла пожежа.",
-    "url": "https://www.pravda.com.ua/news/2026/08/26/8050327/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T04:13:00+00:00",
-    "fetched": "2026-08-26T05:06:00+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/9/899286/d990b4d892bcc7176bc96d98facc69cd.jpeg"
-  },
-  {
-    "id": "3d49b8be15d2d55e",
-    "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-    "summary": "Article URL: https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026 Comments URL: https://news.ycombinator.com/item?id=49443871 Points: 16 # Comments: 16",
-    "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T03:23:50+00:00",
-    "fetched": "2026-08-26T06:01:13+00:00",
-    "image": "https://studyarena.com/blog/heroes/which-ai-is-best-for-college-essays-2026.avif"
-  },
-  {
-    "id": "1421814c7a92b465",
-    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-    "summary": "I am looking for ideas on what to train a specialized model for! What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up? Comments URL: https://news.ycombinator.com/item?id=49443820 Points: 20 # Comments: 30",
-    "url": "https://news.ycombinator.com/item?id=49443820",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T03:17:51+00:00",
-    "fetched": "2026-08-26T04:10:25+00:00",
-    "image": null
-  },
-  {
-    "id": "6e541d55786edb95",
-    "title": "Дрони атакували НПЗ в російському Кстово: спалахнула пожежа",
-    "summary": "У ніч на 26 серпня дрони атакували НПЗ і логістичний центр Wildberries у РФ, сталися вибухи й пожежі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/26/8050324/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T02:55:00+00:00",
-    "fetched": "2026-08-26T03:09:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/e/899262/fe142d424db9d23ba161a266c0458197.jpeg"
-  },
-  {
-    "id": "489929a1470052a3",
-    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "summary": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 9 # Comments: 3",
-    "url": "https://arxiv.org/abs/2607.21503",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T02:35:25+00:00",
-    "fetched": "2026-08-26T04:10:25+00:00",
-    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-    "id": "df1d997225c57643",
-    "title": "Ціна війни, проблеми з мобілізацією, приниження в армії. Про що мовчать українці та чому так відбувається",
-    "summary": "Після 24 лютого 2022-го інформаційне поле в Україні скидається на мінне. Українці створили навколо себе систему табуйованих тем, які обговорювати \"не на часі\". Замовчували фактично все, що могло роз'єднати суспільство або негативно вплинути на міжнародний імідж держави – від…",
-    "url": "https://www.pravda.com.ua/articles/2026/08/26/8050304/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T02:30:00+00:00",
-    "fetched": "2026-08-26T03:09:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/899191/40808ec242ec0892f62f7a92671c9425.jpeg"
-  },
-  {
-    "id": "09010c456d4cdef8",
-    "title": "Letter from Dolly Parton to Eminem",
-    "summary": "Article URL: https://twitter.com/Eminem/status/2092367272891310482 Comments URL: https://news.ycombinator.com/item?id=49443331 Points: 24 # Comments: 1",
-    "url": "https://twitter.com/Eminem/status/2092367272891310482",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T02:09:12+00:00",
-    "fetched": "2026-08-26T03:09:47+00:00",
-    "image": "https://pbs.twimg.com/media/HQmU6_GWwAE0iq3.jpg:large"
-  },
-  {
-    "id": "61c17a2f11f82e6c",
-    "title": "В Росії знову горить один з ключових логістичних центрів Wildberries",
-    "summary": "Склад відновив роботу після попереднього удару безпілотників - але ненадовго.",
-    "url": "https://lb.ua/society/2026/08/26/761446_rosiyi_znovu_gorit_z_klyuchovih.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T01:48:00+00:00",
-    "fetched": "2026-08-26T03:09:47+00:00",
-    "image": "https://i.lb.ua/news/074/39/6a8e41b3d5de2.jpg"
-  },
-  {
-    "id": "63c7afe2e3a9582a",
-    "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
-    "summary": "Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked…",
-    "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-26T01:46:25+00:00",
-    "fetched": "2026-08-26T03:09:47+00:00",
-    "image": "https://i.guim.co.uk/img/media/ddc5b89ffe9742f50c75380c051ff9ac6d23aced/566_0_4398_3518/master/4398.jpg?width=140&quality=85&auto=format&fit=max&s=e5328c88f0ccc149f56fa79c6a4afaa7"
-  },
-  {
-    "id": "c0e59faad76c0b5a",
-    "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-    "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-    "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-26T01:32:07+00:00",
-    "fetched": "2026-08-26T11:02:19+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg"
-  },
-  {
-    "id": "96592d3bb48addf0",
-    "title": "В Росії після атаки дронів горить один із головних складів Wildberries",
-    "summary": "У Котовську дрони атакували ключовий центр Wildberries.",
-    "url": "https://www.pravda.com.ua/news/2026/08/26/8050322/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T00:57:00+00:00",
-    "fetched": "2026-08-26T01:39:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/899252/764cca37a747a9db760c87b2559210fb.jpeg"
-  },
-  {
-    "id": "feb3048f74e928b1",
-    "title": "Рубіо заявив, що США більше не планують нових ударів по Ірану, – Axios",
-    "summary": "США тимчасово уникають ударів по Ірану, посилюють морську блокаду та санкції, зберігаючи економічний тиск.",
-    "url": "https://www.pravda.com.ua/news/2026/08/26/8050321/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T00:43:00+00:00",
-    "fetched": "2026-08-26T01:39:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/f/899251/1fd2a30dbaf3bddaafcc31624eb9b99b.jpeg"
-  },
-  {
-    "id": "3fe4db8a4ef737fd",
-    "title": "The brain may be about to have its Ozempic moment",
-    "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49442743 Points: 48 # Comments: 31",
-    "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T00:40:41+00:00",
-    "fetched": "2026-08-26T03:09:47+00:00",
-    "image": null
-  },
-  {
-    "id": "c529308667005da5",
-    "title": "У США померла \"королева кантрі\" Доллі Партон",
-    "summary": "Легендарній співачці було 80 років.",
-    "url": "https://lb.ua/culture/2026/08/26/761444_ssha_pomerla_koroleva_kantri.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T00:38:00+00:00",
-    "fetched": "2026-08-26T01:39:20+00:00",
-    "image": "https://i.lb.ua/news/109/25/6a8e3967b396a.jpg"
-  },
-  {
-    "id": "089a88c7a5ae788e",
-    "title": "Queryable Executables",
-    "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 5 # Comments: 1",
-    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T00:20:49+00:00",
-    "fetched": "2026-08-26T01:39:20+00:00",
-    "image": null
   }
 ]
