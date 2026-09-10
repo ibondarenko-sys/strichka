@@ -1,5 +1,77 @@
 [
   {
+    "id": "ba96d6fa56dbbacf",
+    "title": "Rubio says US will work with allies on drug-trafficking as three killed in latest boat strike",
+    "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ US secretary of state Marco Rubio gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was…",
+    "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-10T01:02:42+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://i.guim.co.uk/img/media/f8781809b67187827f23610e3a4f3ec053e31c16/3_0_6398_5121/master/6398.jpg?width=140&quality=85&auto=format&fit=max&s=1e8f0a4233837d791dadd2405a095c62"
+  },
+  {
+    "id": "b6bd89b9761cf26e",
+    "title": "У Британії голові служби авіаконтролю дали тиждень на пояснення причин збою зі скасуванням 2 тисяч рейсів",
+    "summary": "Міністерка транспорту не вірить, що проблеми не можна було уникнути.",
+    "url": "https://lb.ua/world/2026/09/10/764988_britaniyi_golovi_sluzhbi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T00:40:00+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://i.lb.ua/news/119/27/6aa1fe1823a9a.jpg"
+  },
+  {
+    "id": "e53e1ded94a817a7",
+    "title": "Від початку доби на фронті відбулося 221 боєзіткнень, найбільше на Покровському напрямку – Генштаб",
+    "summary": "Від початку доби 9 вересня на фронті зафіксовано 221 бойове зіткнення, російські загарбники проявляють найбільшу активність на Покровському та Південно-Слобожанському напрямках.",
+    "url": "https://www.pravda.com.ua/news/2026/09/10/8052696/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T00:25:00+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/b/910574/5be68871b9d09553ac5365dfc886f1ad.jpeg"
+  },
+  {
+    "id": "a341ae64bcd136f8",
+    "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49636345 Points: 139 # Comments: 54",
+    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T23:57:29+00:00",
+    "fetched": "2026-09-10T01:20:15+00:00",
+    "image": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg"
+  },
+  {
+    "id": "368ab461bef780d0",
+    "title": "Трамп окреслив термін завершення війни проти Ірану",
+    "summary": "Виявляється, він прив'язаний до проміжних виборів у Конгрес.",
+    "url": "https://lb.ua/world/2026/09/10/764986_tramp_okresliv_termin.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T23:32:00+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://i.lb.ua/news/012/11/6aa1ec5064d32.jpg"
+  },
+  {
+    "id": "6f214cd819fbd81e",
+    "title": "Росіяни атакували Кривий Ріг: є прямі влучання в будинки, двоє людей в операційній",
+    "summary": "У ніч на 10 вересня російські війська завдали масованого удару безпілотниками по Кривому Рогу, зафіксовано прямі влучання в житловий сектор.",
+    "url": "https://www.pravda.com.ua/news/2026/09/10/8052694/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-09T23:11:00+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/910571/ac6d29f68f5f798bdac669ae2e0ad4b3.jpeg"
+  },
+  {
     "id": "c1c8c387e2d478f9",
     "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
     "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model,…",
@@ -58,6 +130,18 @@
     "published": "2026-09-09T22:23:35+00:00",
     "fetched": "2026-09-09T23:05:23+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "da46f20b6117fc83",
+    "title": "Blizzard Workers Win Historic Union Contract",
+    "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: https://news.ycombinator.com/item?id=49635384 Points: 67 # Comments: 3",
+    "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T22:22:53+00:00",
+    "fetched": "2026-09-10T01:20:15+00:00",
+    "image": null
   },
   {
     "id": "74d2eb5ec2111d66",
@@ -252,6 +336,18 @@
     "image": "https://i.lb.ua/news/000/52/6aa1cf7e83d3d.jpg"
   },
   {
+    "id": "eca0578fed4853fc",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T20:55:02+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
+  },
+  {
     "id": "e4d034bba8115459",
     "title": "В Хмельницькому внаслідок ворожого обстрілу загорівся ринок",
     "summary": "За попередніми даними, обійшлося без постраждалих.",
@@ -312,6 +408,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/6/910558/16d61bf70f7c7a7d64bae3205fe022e6.jpeg"
   },
   {
+    "id": "19322c230a997811",
+    "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+    "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T20:27:40+00:00",
+    "fetched": "2026-09-10T01:20:13+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg"
+  },
+  {
     "id": "016ce06e394cd49d",
     "title": "Iran referred to UN Security Council for nuclear non-compliance",
     "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
@@ -322,6 +430,18 @@
     "published": "2026-09-09T20:22:51+00:00",
     "fetched": "2026-09-09T20:44:44+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f3/live/c77b2e90-ac86-11f1-b1d1-571ed4d7ff2c.jpg"
+  },
+  {
+    "id": "a68f6360835b4474",
+    "title": "Factoring RSA 260",
+    "summary": "Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 13 # Comments: 2",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-09T20:16:08+00:00",
+    "fetched": "2026-09-10T01:20:15+00:00",
+    "image": "https://cognition.com/opengraph-image.jpg"
   },
   {
     "id": "83b9ad9f34f0ad3e",
@@ -36874,101 +36994,5 @@
     "published": "2026-08-27T01:46:22+00:00",
     "fetched": "2026-08-27T11:02:50+00:00",
     "image": "https://opengraph.githubassets.com/aa64a89e452add61713618d6a494af55806ecb0e894f759c1184d1a67ace9fea/SenteLabsAI/OpenExecutive"
-  },
-  {
-    "id": "5bf92f9b1d01a846",
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "summary": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in... Comments URL: https://news.ycombinator.com/item?id=49458161 Points: 1195 # Comments: 518",
-    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-27T01:12:55+00:00",
-    "fetched": "2026-08-27T11:02:50+00:00",
-    "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg"
-  },
-  {
-    "id": "141a5e381ac0ac78",
-    "title": "Росіяни атакують Україну балістикою та БПЛА: вибухи у Києві, Полтаві, Запоріжжі та Кривому Розі",
-    "summary": "Ракетний обстріл цього разу одночасно по кількох містах.",
-    "url": "https://lb.ua/society/2026/08/27/761674_rosiyani_atakuyut_ukrayinu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T00:10:00+00:00",
-    "fetched": "2026-08-27T00:34:47+00:00",
-    "image": "https://i.lb.ua/news/098/22/6a8f80c809037.jpg"
-  },
-  {
-    "id": "e306685f2d881476",
-    "title": "У Запоріжжі через російську атаку троє людей отримали поранення – ОВА",
-    "summary": "Внаслідок нічної атаки РФ по Запоріжжю 27 серпня поранено трьох людей, постраждали авто й будівлі.",
-    "url": "https://www.pravda.com.ua/news/2026/08/27/8050486/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T00:02:00+00:00",
-    "fetched": "2026-08-27T00:34:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/d/899987/0db7f5654fb10a8646ec9f4f888ccd5e.jpeg"
-  },
-  {
-    "id": "29e2bc91323af4f6",
-    "title": "Mechanical Turk shutting down September 30",
-    "summary": "Article URL: https://www.mturk.com/ Comments URL: https://news.ycombinator.com/item?id=49457545 Points: 20 # Comments: 4",
-    "url": "https://www.mturk.com/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T23:55:44+00:00",
-    "fetched": "2026-08-27T00:34:47+00:00",
-    "image": null
-  },
-  {
-    "id": "a8e80dcd3e286c30",
-    "title": "Bloomberg: Найбільша контейнерна компанія призупинила рейси до порту Новоросійська",
-    "summary": "MSC зупинила нові перевезення через Новоросійськ після атаки на судно ULSAN III. Компанія радить шукати альтернативні маршрути.",
-    "url": "https://www.pravda.com.ua/news/2026/08/27/8050485/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T23:53:00+00:00",
-    "fetched": "2026-08-27T00:34:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/4/899986/94b19f7ae45328bdd05678cd42f24635.jpeg"
-  },
-  {
-    "id": "70970bf59ca5daa6",
-    "title": "Zohran and the Short Link",
-    "summary": "Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/ Comments URL: https://news.ycombinator.com/item?id=49457512 Points: 15 # Comments: 1",
-    "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-26T23:50:15+00:00",
-    "fetched": "2026-08-27T00:34:47+00:00",
-    "image": null
-  },
-  {
-    "id": "0af177e47da1a7df",
-    "title": "Найбільший перевізник контейнерів у світі більше не працює з портом Новоросійська",
-    "summary": "Рейси припинено після атаки на одне із суден компанії.",
-    "url": "https://lb.ua/society/2026/08/27/761672_naybilshiy_pereviznik.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T23:33:00+00:00",
-    "fetched": "2026-08-27T00:34:47+00:00",
-    "image": "https://i.lb.ua/news/052/22/6a8f77ac25579.jpg"
-  },
-  {
-    "id": "b9b35674fcf0a1bb",
-    "title": "У Києві та деяких областях вдруге за ніч оголосили тривогу: є загроза балістики",
-    "summary": "У Києві та регіонах вдруге за ніч оголосили повітряну тривогу.",
-    "url": "https://www.pravda.com.ua/news/2026/08/27/8050484/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-26T23:27:00+00:00",
-    "fetched": "2026-08-27T00:34:46+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/a/899985/aab46fad2787a10bb9c6ae1a1ebf02af.jpeg"
   }
 ]
