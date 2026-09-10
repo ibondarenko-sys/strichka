@@ -1,5 +1,101 @@
 [
   {
+    "id": "50cc6b9fff74ecd1",
+    "title": "У Нью-Йорку 2977 дронів сформували обриси башт-близнюків у річницю терактів 11 вересня",
+    "summary": "Кожен безпілотник символізував одного загиблого у трагедії 25-річної давнини.",
+    "url": "https://lb.ua/world/2026/09/11/765230_nyu-yorku_2977_droniv_sformuvali.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T23:33:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://i.lb.ua/news/103/32/6aa3407e7866a.jpg"
+  },
+  {
+    "id": "59a3f23733299a6e",
+    "title": "Хусити просуваються уздовж узбережжя Ємену: є загроза для нафтового експорту Саудівської Аравії",
+    "summary": "Єменські хусити зміцнили позиції біля Баб-ель-Мандеб, просунулися до Ханіш, що загрожує маршрутам постачання нафти та впливає на позиції США й Саудівської Аравії.",
+    "url": "https://www.pravda.com.ua/news/2026/09/11/8052881/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T23:06:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/f/911390/4fbb92b0233ab160c5ff744cf97d0cc8.jpeg"
+  },
+  {
+    "id": "b0088b8bb2dae9c7",
+    "title": "У Швейцарських Альпах перекинувся автобус з нідерландськими туристами",
+    "summary": "Є загиблі, але влада не називає поки їхню кількість.",
+    "url": "https://lb.ua/world/2026/09/11/765228_shveytsarskih_alpah_perekinuvsya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T22:49:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://i.lb.ua/news/068/00/6aa32efe17b44.jpg"
+  },
+  {
+    "id": "6e9a04bf233be0ff",
+    "title": "Віцепрезидент США Венс пояснив, звідки Трамп візьме гроші на роздачу американцям по 5 тисяч доларів",
+    "summary": "Юристи несподівано назвали обіцянку президента легальною.",
+    "url": "https://lb.ua/world/2026/09/11/765226_vitseprezident_ssha_vens.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T22:19:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://i.lb.ua/news/091/26/6aa32e17dd19b.jpg"
+  },
+  {
+    "id": "b6aeadfeb4f16b4c",
+    "title": "Сибіга про удар по Павлограду: Україна потребує додаткових систем ППО",
+    "summary": "Унаслідок удару по ТРЦ у Павлограді загинули 5 людей, поранено 67. Сибіга закликав партнерів надати ППО та посилити санкції проти Росії.",
+    "url": "https://www.pravda.com.ua/news/2026/09/11/8052880/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T22:18:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/911389/347debb03ee5ea570c120d71457c296c.jpeg"
+  },
+  {
+    "id": "f7d25b4f5a8b4f66",
+    "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+    "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+    "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-10T22:16:05+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg"
+  },
+  {
+    "id": "beda8ca97bcb854b",
+    "title": "Єменські хусити захопили портове місто Мокка на узбережжі Червоного моря",
+    "summary": "Вони отримали перевагу над Баб-ель-Мандебською протокою, південним виходом до Червоного моря та одним з найважливіших судноплавних шляхів світу.",
+    "url": "https://lb.ua/world/2026/09/11/765222_iemenski_husiti_zahopili_portove.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T21:59:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://i.lb.ua/news/115/33/6aa3283b5ffba.jpg"
+  },
+  {
+    "id": "217d2f730055ab58",
+    "title": "В аеропортах США скасовують деякі безпекові практики, запроваджені після терактів 11 вересня 2001 року",
+    "summary": "Експерти заспокоюють, що це наслідок поліпшення технологій, а не падіння стандартів.",
+    "url": "https://lb.ua/world/2026/09/11/765224_aeroportah_ssha_skasovuyut.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-10T21:47:00+00:00",
+    "fetched": "2026-09-10T23:52:08+00:00",
+    "image": "https://i.lb.ua/news/011/00/6aa32656f2b75.jpg"
+  },
+  {
     "id": "670c55a564246f5e",
     "title": "Алжир розірвав дипломатичні зв'язки з ОАЕ",
     "summary": "З 11 вересня країна закриє повітряний простір для всіх цивільних та військових літаків, зареєстрованих в ОАЕ.",
@@ -180,6 +276,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/2/911385/c245e2643b2b6fb8e7ce4525446810d4.jpeg"
   },
   {
+    "id": "0d759abbe1cbac34",
+    "title": "Bodily Oddities",
+    "summary": "Article URL: https://vester.si/bodily-oddities/ Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 36 # Comments: 25",
+    "url": "https://vester.si/bodily-oddities/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-10T20:33:11+00:00",
+    "fetched": "2026-09-10T23:52:10+00:00",
+    "image": "https://vester.si/bodily-oddities/og/home.png"
+  },
+  {
     "id": "a18e826d98334c00",
     "title": "На Київщині від російських ударів загинула людина, є постраждалі (оновлено)",
     "summary": "Найбільше пошкоджень зафіксовано у Фастівському та Бучанському районах.",
@@ -310,6 +418,18 @@
     "published": "2026-09-10T19:43:22+00:00",
     "fetched": "2026-09-10T21:47:19+00:00",
     "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png"
+  },
+  {
+    "id": "a223619074e5bf2e",
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "summary": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 38 # Comments: 7",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-10T19:34:20+00:00",
+    "fetched": "2026-09-10T23:52:10+00:00",
+    "image": null
   },
   {
     "id": "61d82d16f5be3291",
@@ -1185,6 +1305,18 @@
     "lang": "en",
     "published": "2026-09-10T15:29:30+00:00",
     "fetched": "2026-09-10T19:11:58+00:00",
+    "image": null
+  },
+  {
+    "id": "8eca1292c273cbc4",
+    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+    "summary": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 246 # Comments: 36",
+    "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-10T15:29:30+00:00",
+    "fetched": "2026-09-10T23:52:10+00:00",
     "image": null
   },
   {
@@ -38050,149 +38182,5 @@
     "published": "2026-08-28T00:06:51+00:00",
     "fetched": "2026-08-28T05:33:21+00:00",
     "image": "https://terminal-bench-science.ai/terminal-bench-science-og-1200x630.png"
-  },
-  {
-    "id": "22457ddd317a18c5",
-    "title": "ЗМІ: Запас ракет Patriot у Європі опустився нижче критичного рівня",
-    "summary": "\"Завдячувати\" потрібно війні США проти Ірану.",
-    "url": "https://lb.ua/society/2026/08/28/761950_zmi_zapas_raket_patriot_ievropi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T23:52:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://i.lb.ua/news/045/09/6a90cd74d8c35.jpg"
-  },
-  {
-    "id": "89890e7297888965",
-    "title": "Окупанти вдарили вісьмома КАБами по Сумах: троє поранених, пошкоджено близько 15 будинків",
-    "summary": "Російські війська ввечері атакували Суми вісьмома керованими авіабомбами, завдавши ударів по приватному сектору, промзоні, інфраструктурному обʼєкту та СТО, внаслідок чого троє людей зазнали поранень.",
-    "url": "https://www.pravda.com.ua/news/2026/08/28/8050682/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T23:42:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/900781/60ff8c05bc9007622fa1acea27309a53.jpeg"
-  },
-  {
-    "id": "0837a53ffdcbb9c2",
-    "title": "Норвежці через повідомлення про критичний стан короля почали зносити квіти до палацу",
-    "summary": "Монархія в центрі уваги всієї нації.",
-    "url": "https://lb.ua/world/2026/08/28/761948_norvezhtsi_cherez_povidomlennya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T23:24:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://i.lb.ua/news/063/46/6a90c79216197.jpg"
-  },
-  {
-    "id": "d473eaf7692daa27",
-    "title": "The biggest video game of all time looks like a movie",
-    "summary": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than…",
-    "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-27T23:20:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "87a42c3d94d80bb9",
-    "title": "Росіяни атакували дронами приватний сектор Запоріжжя: поранені дві жінки",
-    "summary": "Увечері 27 серпня російські війська вдарили безпілотниками по приватному сектору Запоріжжя, внаслідок чого пошкоджено житлові будинки та поранено двох жінок.",
-    "url": "https://www.pravda.com.ua/news/2026/08/28/8050681/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T23:17:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/f/900777/3faeb477c299a72410d8ec35bc3ef53d.jpeg"
-  },
-  {
-    "id": "be1e929502000413",
-    "title": "Трамп заявив, що не переймається через можливий напад Росії на країни НАТО",
-    "summary": "Президент США Дональд Трамп заявив, що його абсолютно не турбує загроза нападу Росії на країни НАТО, а також заперечив, що очільник ЦРУ передавав Москві застереження щодо цього.",
-    "url": "https://www.pravda.com.ua/news/2026/08/28/8050679/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T22:47:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/900775/562d31a676ae83d23da2535cb415404e.jpeg"
-  },
-  {
-    "id": "613ec7911c08f5cd",
-    "title": "Select * from Internet.blogposts",
-    "summary": "Article URL: https://pfrazee.leaflet.pub/3mu3p2smmis22 Comments URL: https://news.ycombinator.com/item?id=49472161 Points: 68 # Comments: 28",
-    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-27T22:34:32+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://leaflet.pub/lish/did%3Aplc%3Aragtjsm2j2vknwkz3zp4oxrd/3ly4hnkatvc2p/3mu3p2smmis22/opengraph-image-1qv6ug?3525228eea30403c"
-  },
-  {
-    "id": "70b5e2c2f839571b",
-    "title": "Директор ЦРУ у Москві не озвучив Путіну жодних погроз щодо війни",
-    "summary": "Тільки окреслив негативний сценарій, який від диктатора можуть приховувати радники.",
-    "url": "https://lb.ua/society/2026/08/28/761946_direktor_tsru_moskvi_ozvuchiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T22:32:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://i.lb.ua/news/071/23/6a90bbb29ace0.jpg"
-  },
-  {
-    "id": "77020aa53dd6024f",
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-27T22:15:43+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png"
-  },
-  {
-    "id": "0fb288ec68768313",
-    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-    "summary": "Article URL: https://github.com/elyosh/OpenTIE/ Comments URL: https://news.ycombinator.com/item?id=49471965 Points: 120 # Comments: 24",
-    "url": "https://github.com/elyosh/OpenTIE/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-27T22:10:47+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://opengraph.githubassets.com/a6b813d10b183f6c939472b6bcd9dad445968a67217590924b7219f26174a708/elyosh/OpenTIE"
-  },
-  {
-    "id": "de4a4de434cfe23f",
-    "title": "What we know after the big Grand Theft Auto 6 preview",
-    "summary": "The official look at the blockbuster video game leaves fans and critics impressed.",
-    "url": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-27T22:10:05+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/956b/live/a59bfb30-a25c-11f1-a291-b542ee92de7c.jpg"
-  },
-  {
-    "id": "4216e21b836f87e7",
-    "title": "На Волині викрили незаконне виробництво алкоголю",
-    "summary": "Його виготовляли зі сировини неналежної якості у значних обсягах.",
-    "url": "https://lb.ua/society/2026/08/28/761944_volini_vikrili_nezakonne.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-27T21:55:00+00:00",
-    "fetched": "2026-08-28T05:33:21+00:00",
-    "image": "https://i.lb.ua/news/103/16/6a90b1e612365.jpg"
   }
 ]
