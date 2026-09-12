@@ -1,5 +1,77 @@
 [
   {
+    "id": "94cf28a9ad4a5445",
+    "title": "Російські війська вдруге за добу поцілили у багатоповерхівку в Одесі",
+    "summary": "У ніч на 13 вересня російські війська вдруге за добу поцілили у багатоповерхівку в Одесі.",
+    "url": "https://www.pravda.com.ua/news/2026/09/13/8053165/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-12T23:26:00+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/d/912758/3db9c208f52e3c176c2b3390fac9d097.jpeg"
+  },
+  {
+    "id": "df0986f0aca56ae6",
+    "title": "Кушнер: Якби Україна погодилася віддати території, які вимагає Путін, ми б уже мали угоду",
+    "summary": "Спеціальний посланець президента США Джаред Кушнер заявив, що для укладання угоди про завершення війни не вистачає лише згоди України відмовитися від своїх територій у межах, яких вимагає російський правитель Володимир Путін.",
+    "url": "https://www.pravda.com.ua/news/2026/09/13/8053164/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-12T22:55:00+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/b/912757/bb4bf0b6260c2dfb7c28f503de570ba5.jpeg"
+  },
+  {
+    "id": "23010bbfb715f082",
+    "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
+    "summary": "Article URL: https://maxmautner.com/2026/09/11/liability-coverage.html Comments URL: https://news.ycombinator.com/item?id=49677836 Points: 18 # Comments: 10",
+    "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-12T22:22:31+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://maxmautner.com/public/images/liability-limits/baltimore.png"
+  },
+  {
+    "id": "be5f66948c0864f9",
+    "title": "Росія атакувала енергетичну інфраструктуру в Миколаєві, місто частково знеструмлене – ОВА",
+    "summary": "Російські війська завдали удару по енергетичній інфраструктурі Миколаєва, унаслідок чого в обласному центрі стався частковий блекаут.",
+    "url": "https://www.pravda.com.ua/news/2026/09/13/8053163/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-12T21:43:00+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/b/912756/5bd354d0ab839c32e2811681cae81ad6.jpeg"
+  },
+  {
+    "id": "4022c7a7f9b57883",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-12T21:41:36+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "cd21a5daca06e5a7",
+    "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+    "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+    "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-12T21:25:28+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg"
+  },
+  {
     "id": "0d48f1177c9f299b",
     "title": "Росія намагається перетворити всю територію України на поле бою – Сибіга",
     "summary": "Міністр закордонних справ Андрій Сибіга заявив, що Росія через нездатність досягти своїх цілей на полі бою намагається розширити географію терору на всю територію України, та закликав союзників позбавити Москву можливостей вести війну.",
@@ -58,6 +130,18 @@
     "published": "2026-09-12T20:40:00+00:00",
     "fetched": "2026-09-12T21:34:04+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/912752/5f41f93abcf5a436dc705200c19c77ad.jpeg"
+  },
+  {
+    "id": "e82b8a9af4fda703",
+    "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+    "summary": "Article URL: https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/ Comments URL: https://news.ycombinator.com/item?id=49676849 Points: 57 # Comments: 47",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-12T20:28:29+00:00",
+    "fetched": "2026-09-12T23:52:01+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800"
   },
   {
     "id": "d6f8e5da49d70922",
@@ -39550,125 +39634,5 @@
     "published": "2026-08-30T00:17:25+00:00",
     "fetched": "2026-08-30T01:31:41+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg"
-  },
-  {
-    "id": "dab2710a3e78aae4",
-    "title": "The Rise and Fall of Agent Civilizations",
-    "summary": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 66 # Comments: 34",
-    "url": "https://www.dwarkesh.com/p/openai-huggingface",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-29T23:43:24+00:00",
-    "fetched": "2026-08-30T08:06:46+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp"
-  },
-  {
-    "id": "b28ba7ba5b30a7fd",
-    "title": "Стубб: \"Україна є найкращою гарантією нашої безпеки щодо Росії\"",
-    "summary": "На думку Стубба, Україна є найкращою гарантією щодо загроз РФ.",
-    "url": "https://www.pravda.com.ua/news/2026/08/30/8050983/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-29T23:40:00+00:00",
-    "fetched": "2026-08-30T01:31:41+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/d/902121/4d0120bdc455ab2670b132aefc37512d.jpeg"
-  },
-  {
-    "id": "bd915958c5433d2a",
-    "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-    "summary": "Article URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms Comments URL: https://news.ycombinator.com/item?id=49494231 Points: 85 # Comments: 49",
-    "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-29T23:26:44+00:00",
-    "fetched": "2026-08-30T01:31:41+00:00",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/e3721de/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F04%2F56%2F159be59249f5894525a65d658ede%2F1564416-me-laweather-high-surf-alc-269.jpg"
-  },
-  {
-    "id": "d64f1e2ddc8256de",
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "summary": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 65 # Comments: 26",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-29T23:17:17+00:00",
-    "fetched": "2026-08-30T01:31:41+00:00",
-    "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT_FLOCK-MONEY-TEXAS_03-.jpg?quality=100&w=1200&h=630&ssl=1"
-  },
-  {
-    "id": "fd6f4fb83ebe5320",
-    "title": "I co-founded Burning Man. The festival has lost its soul",
-    "summary": "Article URL: https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/ Comments URL: https://news.ycombinator.com/item?id=49494151 Points: 89 # Comments: 51",
-    "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-29T23:12:25+00:00",
-    "fetched": "2026-08-30T01:31:41+00:00",
-    "image": "https://assets.sfstandard.com/image/994911177489/image_nvp12aijr92sh9k1g4m5vk6r7e/-S1200x630-FPNG"
-  },
-  {
-    "id": "a368f45c8061a3d7",
-    "title": "Хргович сенсаційно переміг Ітауму і став чемпіоном світу з боксу за версією IBF",
-    "summary": "Мозес Ітаума зазнав першої поразки в кар'єрі.",
-    "url": "https://lb.ua/sport/2026/08/30/762368_hrgovich_sensatsiyno_peremig.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-29T23:06:00+00:00",
-    "fetched": "2026-08-30T01:31:41+00:00",
-    "image": "https://i.lb.ua/news/098/36/6a9367eaa71b2.jpg"
-  },
-  {
-    "id": "b740839700fdb40f",
-    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-    "summary": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 88 # Comments: 45",
-    "url": "https://defrag98.com",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-29T22:51:17+00:00",
-    "fetched": "2026-08-30T01:31:41+00:00",
-    "image": "https://defrag98.com/og.png"
-  },
-  {
-    "id": "12955971eb049c39",
-    "title": "На Миколаївщині росіяни атакували склад харчової промисловості, виникла пожежа – ОВА",
-    "summary": "У Миколаївській області ворог вдарив по складу харчової промисловості, виникла пожежа.",
-    "url": "https://www.pravda.com.ua/news/2026/08/30/8050981/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-29T22:20:00+00:00",
-    "fetched": "2026-08-29T23:08:42+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/3/902119/430fa4b44cde9959f1c21b320e7a0d2c.jpeg"
-  },
-  {
-    "id": "c4e8c96d87a73ecb",
-    "title": "Денис Берінчик поступився Сему Ноуксу одностайним рішенням суддів",
-    "summary": "Друга поразка в кар’єрі колишнього чемпіона за версією WBO.",
-    "url": "https://lb.ua/sport/2026/08/30/762366_denis_berinchik_postupivsya_semu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-29T21:51:00+00:00",
-    "fetched": "2026-08-29T23:08:42+00:00",
-    "image": "https://i.lb.ua/news/125/57/6a9357a644df7.jpg"
-  },
-  {
-    "id": "e84aada0235ccec5",
-    "title": "$44M Solar-Powered EV Production Deal Struck",
-    "summary": "Article URL: https://frequal.com/aptera/ProductionDealAug2026.html Comments URL: https://news.ycombinator.com/item?id=49493563 Points: 21 # Comments: 36",
-    "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-29T21:37:07+00:00",
-    "fetched": "2026-08-29T23:08:44+00:00",
-    "image": null
   }
 ]
