@@ -1,5 +1,53 @@
 [
   {
+    "id": "8353536282b6a472",
+    "title": "Потяг, у якому їхали Борис Джонсон і радник Мерца, евакуювали біля Польщі через атаку БпЛА",
+    "summary": "Потяг із Києва до Польщі, на борту якого їхали радники ЄС і Борис Джонсон, евакуювали через атаку дронів на інший український поїзд.",
+    "url": "https://www.pravda.com.ua/news/2026/09/13/8053220/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-13T13:39:00+00:00",
+    "fetched": "2026-09-13T14:11:19+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/912917/5f68c1299fbeb3de1c33562861506170.jpeg"
+  },
+  {
+    "id": "90d5e79243621f74",
+    "title": "Flock worker calls police on reporter filming public camera installation",
+    "summary": "Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/ Comments URL: https://news.ycombinator.com/item?id=49683853 Points: 8 # Comments: 0",
+    "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T13:35:31+00:00",
+    "fetched": "2026-09-13T14:11:20+00:00",
+    "image": "https://gray-investigatetv-prod.gtv-cdn.com/resizer/v2/OJC3LVIO7FBOTGWFBSLIKKBYHY.jpg?auth=b61b3f19f6468af41f9fe7cecb198b71a88b79774ea74d4d3f26b297ecff2e3f&width=1200&height=600&smart=true"
+  },
+  {
+    "id": "ee892b843ed54f12",
+    "title": "Mars astronauts could live in houses made of yeast and jello, say scientists",
+    "summary": "Article URL: https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931 Comments URL: https://news.ycombinator.com/item?id=49683844 Points: 3 # Comments: 0",
+    "url": "https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T13:34:23+00:00",
+    "fetched": "2026-09-13T14:11:20+00:00",
+    "image": "https://image.theregister.com/5295940.jpg?imageId=5295940&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+  },
+  {
+    "id": "70521a617fe57c98",
+    "title": "AI models don't kill people – people kill people",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 7 # Comments: 0",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T13:33:34+00:00",
+    "fetched": "2026-09-13T14:11:20+00:00",
+    "image": "https://image.theregister.com/5295388.jpg?imageId=5295388&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+  },
+  {
     "id": "f1c6b50dde0f0da7",
     "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
     "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
@@ -10,6 +58,18 @@
     "published": "2026-09-13T13:30:38+00:00",
     "fetched": "2026-09-13T13:34:01+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg"
+  },
+  {
+    "id": "0dfdca4f95394e18",
+    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg Comments URL:…",
+    "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T13:24:28+00:00",
+    "fetched": "2026-09-13T14:11:20+00:00",
+    "image": "https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3-2560-80.jpg"
   },
   {
     "id": "2d6920a6d4040f2d",
@@ -33,6 +93,18 @@
     "lang": "uk",
     "published": "2026-09-13T13:20:00+00:00",
     "fetched": "2026-09-13T13:34:01+00:00",
+    "image": "https://i.lb.ua/news/014/15/6aa6a3516c899.jpg"
+  },
+  {
+    "id": "a3fe6bf95451b46e",
+    "title": "Поїзд, яким їхав Борис Джонсон та радники європейських лідерів, на момент атаки РФ був біля польського кордону",
+    "summary": "Усі люди не постраждали.",
+    "url": "https://lb.ua/society/2026/09/13/765886_poyizd_yakim_yihav_boris.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-13T13:20:00+00:00",
+    "fetched": "2026-09-13T14:11:19+00:00",
     "image": "https://i.lb.ua/news/014/15/6aa6a3516c899.jpg"
   },
   {
@@ -39202,65 +39274,5 @@
     "published": "2026-08-30T14:16:00+00:00",
     "fetched": "2026-08-30T18:00:19+00:00",
     "image": "https://i.lb.ua/news/006/33/6a9437ea966bc.jpg"
-  },
-  {
-    "id": "be3448202bf0fd5f",
-    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-    "summary": "Article URL: https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/ Comments URL: https://news.ycombinator.com/item?id=49498787 Points: 31 # Comments: 9",
-    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-30T14:06:54+00:00",
-    "fetched": "2026-08-30T18:00:24+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!uYUs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cc30c40-6f58-47f2-9c84-ef327a4d89e5_1672x941.png"
-  },
-  {
-    "id": "003f7346d211c6d0",
-    "title": "Росія атакувала Запоріжжя ударними безпілотниками та швидкісними ракетами",
-    "summary": "Є двоє поранених.",
-    "url": "https://lb.ua/society/2026/08/30/762458_rosiya_atakuvala_zaporizhzhya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-30T14:01:00+00:00",
-    "fetched": "2026-08-30T18:00:19+00:00",
-    "image": "https://i.lb.ua/news/116/16/6a9430e7892c1.jpg"
-  },
-  {
-    "id": "fe0e56407cea7973",
-    "title": "Будь-які поступки Путін сприймає як підтвердження, що агресію можна продовжувати, – Хмара",
-    "summary": "“Росію не цікавить окремо Донецьк чи Луганськ. Її ціль – вся Україна. Зупинити Путіна можна лише силою\".",
-    "url": "https://lb.ua/society/2026/08/30/762462_bud-yaki_postupki_putin.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-30T13:54:00+00:00",
-    "fetched": "2026-08-30T13:55:58+00:00",
-    "image": "https://i.lb.ua/news/051/34/6a94349e57f5f.jpg"
-  },
-  {
-    "id": "291de9966e09bbbd",
-    "title": "В аварії порома біля північного Кіпру загинули сім людей",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/08/30/8051051/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-30T13:50:00+00:00",
-    "fetched": "2026-08-30T13:55:58+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/a/2/a2b6932-458374.jpg"
-  },
-  {
-    "id": "4b338d71521094f8",
-    "title": "ЦДП: у Росії офіційно визнають, що використовують терористичні методи ведення війни",
-    "summary": "Віцеспікер російської Держдуми заявив, що треба бомбардувати українські міста, аби “деморалізувати публіку”.",
-    "url": "https://lb.ua/society/2026/08/30/762448_tsdp_rosiyi_ofitsiyno_viznayut.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-30T13:42:00+00:00",
-    "fetched": "2026-08-30T13:55:58+00:00",
-    "image": "https://i.lb.ua/news/018/21/6a94261a2137a.jpg"
   }
 ]
