@@ -1,5 +1,77 @@
 [
   {
+    "id": "8a127a0c8c1f7e52",
+    "title": "\"Просили всі\": Трамп скасує мито на ірландський віскі",
+    "summary": "Президент США Дональд Трамп оголосив про плани скасувати мито на ірландський віскі після звернень прем'єра Ірландії та учасників Irish Open.",
+    "url": "https://www.pravda.com.ua/news/2026/09/14/8053254/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-14T01:22:00+00:00",
+    "fetched": "2026-09-14T01:26:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/3/913069/0304b007c46ba2d3ee21f3518a5e802a.jpeg"
+  },
+  {
+    "id": "3e71e291d6f6a690",
+    "title": "The case against JPEG XL",
+    "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/ Comments URL: https://news.ycombinator.com/item?id=49690554 Points: 7 # Comments: 0",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T01:02:37+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": null
+  },
+  {
+    "id": "3149e64f7f8b62ea",
+    "title": "Open-Source AI and Open Models Reading List",
+    "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 13 # Comments: 0",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T00:22:51+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png"
+  },
+  {
+    "id": "105787db62796743",
+    "title": "Трамп знову заявив, що просив Зеленського не атакувати НПЗ в Росії",
+    "summary": "Дональд Трамп заявив, що звертався до Володимира Зеленського із закликом припинити удари по підприємствах з виробництва дизельного палива в РФ.",
+    "url": "https://www.pravda.com.ua/news/2026/09/14/8053252/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-14T00:01:00+00:00",
+    "fetched": "2026-09-14T01:26:26+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/c/913067/1c08556843b1a04348c005b378c9f5d2.jpeg"
+  },
+  {
+    "id": "0d9b70b4926705ce",
+    "title": "The Coming War on General Computation (2011)",
+    "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 35 # Comments: 7",
+    "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T23:54:55+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": null
+  },
+  {
+    "id": "af3f216c5164b24b",
+    "title": "The contagion of fear",
+    "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 127 # Comments: 88",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T22:38:18+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": null
+  },
+  {
     "id": "437fe6e513c7f519",
     "title": "Трамп відкинув заклики технокомпаній уповільнити розвиток ШІ",
     "summary": "Президент США Дональд Трамп заявив, що ШІ має розвиватися швидко, аби США зберегли перевагу над Китаєм.",
@@ -36,6 +108,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
   },
   {
+    "id": "4827a6903f84ef15",
+    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+    "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 66 # Comments: 30",
+    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T21:47:04+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": "https://community.signalusers.org/uploads/db3609/original/3X/2/a/2aae74b9e7c4af45dfcd09cfa6e9c90fb3b7534c.png"
+  },
+  {
     "id": "3e85300f48ace8f2",
     "title": "У Києві авто впало з мосту: загинув водій",
     "summary": "В Голосіївському районі Києва Opel впав з мосту на вулиці Промисловій.",
@@ -46,6 +130,18 @@
     "published": "2026-09-13T21:33:00+00:00",
     "fetched": "2026-09-13T23:01:38+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/a/913063/ca6d9353413a5cae5d37f80c314db22c.jpeg"
+  },
+  {
+    "id": "cd0b52fc52162044",
+    "title": "Why is privacy so hard?",
+    "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 24 # Comments: 15",
+    "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T21:13:43+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": null
   },
   {
     "id": "f65df7042edcbba4",
@@ -118,6 +214,18 @@
     "published": "2026-09-13T20:25:00+00:00",
     "fetched": "2026-09-13T23:01:38+00:00",
     "image": "https://i.lb.ua/news/035/45/6aa7081b11231.jpg"
+  },
+  {
+    "id": "014b0fffb81552b3",
+    "title": "Mullenweg has returned as CEO after attempted board ouster",
+    "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 33 # Comments: 72",
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T20:19:06+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799"
   },
   {
     "id": "b1707e5b90bdabb8",
@@ -382,6 +490,18 @@
     "published": "2026-09-13T17:36:10+00:00",
     "fetched": "2026-09-13T20:33:26+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/a1818657383_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "97e14b967a5d6cc6",
+    "title": "Ask HN: What are you working on? (September 2026)",
+    "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 78 # Comments: 150",
+    "url": "https://news.ycombinator.com/item?id=49686380",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-13T17:31:38+00:00",
+    "fetched": "2026-09-14T01:26:28+00:00",
+    "image": null
   },
   {
     "id": "a4c4367f7ade037e",
@@ -39286,77 +39406,5 @@
     "published": "2026-08-31T01:28:22+00:00",
     "fetched": "2026-08-31T04:47:44+00:00",
     "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg"
-  },
-  {
-    "id": "7c59599ec9a3373b",
-    "title": "Ворог вдарив КАБами по Ізюму, є потерпілий, пошкоджені будинки та електромережі",
-    "summary": "Російські окупаційні війська атакували Ізюм КАБами.",
-    "url": "https://www.pravda.com.ua/news/2026/08/31/8051089/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-31T00:56:00+00:00",
-    "fetched": "2026-08-31T04:47:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/b/902669/ebe03609b9392df6ba6afff32cced289.jpeg"
-  },
-  {
-    "id": "bc7b959f97cc84fc",
-    "title": "\"Момент крайньої необхідності\": сенатор США закликав схвалити санкції проти Росії",
-    "summary": "Сенатор США через \"момент крайньої необхідності\" закликав ухвалити санкції проти Росії.",
-    "url": "https://www.pravda.com.ua/news/2026/08/31/8051088/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-30T23:58:00+00:00",
-    "fetched": "2026-08-31T04:47:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/902662/b17c3545e2c90916ca586f4722d61a57.jpeg"
-  },
-  {
-    "id": "a2ad7f2294c238ed",
-    "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-    "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
-    "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-08-30T23:43:24+00:00",
-    "fetched": "2026-08-30T23:43:48+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png"
-  },
-  {
-    "id": "255bc041b5fe95b1",
-    "title": "How to build a diffusion language model",
-    "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/ Comments URL: https://news.ycombinator.com/item?id=49503956 Points: 31 # Comments: 2",
-    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-30T23:41:32+00:00",
-    "fetched": "2026-08-31T04:47:44+00:00",
-    "image": null
-  },
-  {
-    "id": "9e04db736c05d181",
-    "title": "Matrox: Graphics for Professionals",
-    "summary": "Article URL: https://www.abortretry.fail/p/matrox Comments URL: https://news.ycombinator.com/item?id=49503934 Points: 55 # Comments: 11",
-    "url": "https://www.abortretry.fail/p/matrox",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-30T23:39:35+00:00",
-    "fetched": "2026-08-31T04:47:44+00:00",
-    "image": "https://substackcdn.com/image/fetch/$s_!BZkq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef60305f-5757-4f10-a492-3bad43ed4a34_640x879.jpeg"
-  },
-  {
-    "id": "92b7887d285b1eff",
-    "title": "Іран атакував американські бази в Йорданії після ударів США – Fox News",
-    "summary": "За даними ЗМІ, у відповідь на американські атаки Іран вдарив по базах США в Йорданії.",
-    "url": "https://www.pravda.com.ua/news/2026/08/31/8051087/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-30T23:22:00+00:00",
-    "fetched": "2026-08-30T23:43:48+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/c/902661/fc2e89ec19dfbe1eb17a9313f2ae2935.jpeg"
   }
 ]
