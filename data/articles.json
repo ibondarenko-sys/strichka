@@ -1,5 +1,101 @@
 [
   {
+    "id": "baf5fcf758ea16fe",
+    "title": "Трамп назвав обманом заяви про те, що ШІ збирається захопити світ",
+    "summary": "Дональд Трамп у Truth Social заявив, що поширення страхів про штучний інтелект – це обман.",
+    "url": "https://www.pravda.com.ua/news/2026/09/15/8053446/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-15T01:09:00+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/c/914219/0c2e6b9a650440c446a1f524b822e89b.jpeg"
+  },
+  {
+    "id": "dd51abe8d1325ec5",
+    "title": "Винищувачі НАТО збили дрон, що порушив повітряний простір Литви",
+    "summary": "У ніч на 15 вересня НАТО знищили безпілотник над Литвою. Президент Науседа подякував Альянсу за оперативність.",
+    "url": "https://www.pravda.com.ua/news/2026/09/15/8053445/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-15T00:47:00+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/9/914218/3914bf0b31fa487cd0a07412726d9b04.jpeg"
+  },
+  {
+    "id": "02b4bd426235d86d",
+    "title": "Верховний суд США заборонив Трампу змінювати процедуру голосування поштою",
+    "summary": "Велика перемога для демократів, які традиційно отримують більше голосів, надісланих у конвертах.",
+    "url": "https://lb.ua/world/2026/09/15/766184_verhovniy_sud_ssha_zaboroniv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-15T00:35:00+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://i.lb.ua/news/025/59/6aa892f558328.jpg"
+  },
+  {
+    "id": "764c6e93c3037cbf",
+    "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+    "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver…",
+    "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-15T00:13:47+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "05135b75c4aa5349",
+    "title": "Безпілотник порушив повітряний простір Литви, його збили",
+    "summary": "Авіація НАТО втрутилась у ситуацію.",
+    "url": "https://lb.ua/society/2026/09/15/766182_bezpilotnik_porushiv_povitryaniy.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-14T23:47:00+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://i.lb.ua/news/046/15/6aa8842881397.jpg"
+  },
+  {
+    "id": "ede40c83164b4dce",
+    "title": "Україна офіційно підтвердила участь у Євробаченні-2027",
+    "summary": "Формат відбору змінять з урахуванням викликів зимового періоду.",
+    "url": "https://lb.ua/culture/2026/09/15/766180_ukrayina_ofitsiyno_pidtverdila.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-14T23:10:00+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://i.lb.ua/news/065/61/6aa87f451d166.jpg"
+  },
+  {
+    "id": "d8eab1464ab2f312",
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 28 # Comments: 2",
+    "url": "https://github.com/JamesRyanATX/fcbnerd",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T23:01:36+00:00",
+    "fetched": "2026-09-15T01:16:53+00:00",
+    "image": "https://opengraph.githubassets.com/4ac7ac3ee5b2e3c09f1c83d876f55a0864c8146d6302b02683480328092c3c4b/JamesRyanATX/fcbnerd"
+  },
+  {
+    "id": "e4b50f354b69134d",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T22:59:41+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "3ca7ed1825fc35d9",
     "title": "Apple Home’s new security camera features cost up to $60 a month",
     "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and…",
@@ -22,6 +118,18 @@
     "published": "2026-09-14T22:20:00+00:00",
     "fetched": "2026-09-14T22:39:46+00:00",
     "image": "https://i.lb.ua/news/080/48/6aa873eb2f372.jpg"
+  },
+  {
+    "id": "1a6c1543f535d450",
+    "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+    "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T22:06:24+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg"
   },
   {
     "id": "4c833d1f3b3e82f7",
@@ -72,6 +180,18 @@
     "image": "https://i.lb.ua/news/071/60/6aa869f671635.jpg"
   },
   {
+    "id": "cc86a3849c5811b5",
+    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+    "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+    "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T21:32:22+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-1152x648.jpg"
+  },
+  {
     "id": "83a9e10d42b8cb85",
     "title": "Legendary costume designer Bob Mackie dies aged 87",
     "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
@@ -82,6 +202,18 @@
     "published": "2026-09-14T21:29:12+00:00",
     "fetched": "2026-09-14T22:39:45+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg"
+  },
+  {
+    "id": "da04cac6dcb8c32f",
+    "title": "Charts built for Chat",
+    "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 82 # Comments: 27",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T21:22:54+00:00",
+    "fetched": "2026-09-15T01:16:53+00:00",
+    "image": "https://dbtcharts.com/assets/social/background_hu_b580101c226cb278.png"
   },
   {
     "id": "fa0bf0a9d2fe12e2",
@@ -118,6 +250,18 @@
     "published": "2026-09-14T21:05:22+00:00",
     "fetched": "2026-09-14T22:39:45+00:00",
     "image": null
+  },
+  {
+    "id": "6758d03842f78c1d",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-14T21:04:32+00:00",
+    "fetched": "2026-09-15T01:16:51+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
   },
   {
     "id": "fbc5d839466ebc02",
@@ -39478,173 +39622,5 @@
     "published": "2026-09-01T01:25:40+00:00",
     "fetched": "2026-09-01T07:33:22+00:00",
     "image": "https://static.dolthub.com/blogimages/doltlite-beta-featured.webp/dc77fbf9064e690ef4a0ba87824f62640d2b2dea3d6e71cf3c751a8ed76fe6aa.webp"
-  },
-  {
-    "id": "c68604e63b3361f2",
-    "title": "Внаслідок обстрілу на Київщині загинула людина, є постраждалі",
-    "summary": "Ворожий удар був спрямований на Бориспіль.",
-    "url": "https://lb.ua/society/2026/09/01/762748_vnaslidok_obstrilu_kiyivschini.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-01T01:06:00+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://i.lb.ua/news/011/25/6a96250dec365.jpg"
-  },
-  {
-    "id": "0ad4bc7683f8defa",
-    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-    "summary": "Article URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/ Comments URL: https://news.ycombinator.com/item?id=49516699 Points: 96 # Comments: 47",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-01T01:01:08+00:00",
-    "fetched": "2026-09-01T07:33:22+00:00",
-    "image": "https://jkm.dev/images/blog/runescape-networking/varrock-fountain.png"
-  },
-  {
-    "id": "1d4bfcb5c9ea2382",
-    "title": "US army secretary resigns after months of tension",
-    "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-    "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-01T01:01:03+00:00",
-    "fetched": "2026-09-01T01:46:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg"
-  },
-  {
-    "id": "2f7f9a000dd0a16f",
-    "title": "Верховний суд США остаточно зняв заборону на будівництво бальної зали Трампа",
-    "summary": "Голова суду несподівано став на бік опонентів президента.",
-    "url": "https://lb.ua/world/2026/09/01/762746_verhovniy_sud_ssha_ostatochno.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-01T00:30:00+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://i.lb.ua/news/021/07/6a961ca893270.jpg"
-  },
-  {
-    "id": "76645b32bd84cf7a",
-    "title": "Росія вдарила по Україні балістикою: в Києві пролунали потужні вибухи, є загоряння",
-    "summary": "Вночі 1 вересня Росія завдала удару балістикою по Україні.",
-    "url": "https://www.pravda.com.ua/news/2026/09/01/8051250/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-01T00:16:00+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/5/903372/d5cecb336432c22260e283f452a25244.jpeg"
-  },
-  {
-    "id": "39a5fecaa061ac00",
-    "title": "В Києві через російську атаку постраждали четверо людей, двоє з них – діти",
-    "summary": "У Солом'янському районі Києва внаслідок атаки РФ постраждали четверо осіб, зокрема дві дитини. Виникли займання у трьох районах міста.",
-    "url": "https://www.pravda.com.ua/news/2026/09/01/8051252/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-01T00:08:00+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/903374/880ef4b3b6606190c214b70180e5c6aa.jpeg"
-  },
-  {
-    "id": "7eeeadba177f9a8d",
-    "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
-    "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2094450188911845827 Comments URL: https://news.ycombinator.com/item?id=49516209 Points: 22 # Comments: 8",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-31T23:46:38+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg"
-  },
-  {
-    "id": "cfba8dcfbe677331",
-    "title": "Evidence of Fraud in an Influential Study About Procrastination",
-    "summary": "Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 64 # Comments: 35",
-    "url": "https://datacolada.org/138",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-31T23:45:56+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://datacolada.org/wp-content/uploads/Study-2-Data-Screenshot.png"
-  },
-  {
-    "id": "814201a9fa60719b",
-    "title": "Tmp.0ut Volume 5",
-    "summary": "Article URL: https://tmpout.sh/5/ Comments URL: https://news.ycombinator.com/item?id=49516059 Points: 13 # Comments: 14",
-    "url": "https://tmpout.sh/5/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-31T23:26:08+00:00",
-    "fetched": "2026-09-01T07:33:22+00:00",
-    "image": null
-  },
-  {
-    "id": "47e35da2d635de9e",
-    "title": "Армія РФ вдарила по підприємству в Новгород-Сіверському",
-    "summary": "У ніч з 31 серпня на 1 вересня зафіксовано щонайменше шість ударів дронами по підприємству в Новгород-Сіверську. Наслідки уточнюються.",
-    "url": "https://www.pravda.com.ua/news/2026/09/01/8051251/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-31T23:24:00+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/903373/5c8911f19d877f7b06077bde4bf06515.jpeg"
-  },
-  {
-    "id": "a86d1c9695df1910",
-    "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-    "summary": "It's the lightest Bentley in 85 years.",
-    "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-    "source": "Ars Technica",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-31T23:01:16+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg"
-  },
-  {
-    "id": "e8450a786e576ff1",
-    "title": "Run macOS Software on Linux",
-    "summary": "Article URL: https://www.darlinghq.org/ Comments URL: https://news.ycombinator.com/item?id=49515830 Points: 91 # Comments: 23",
-    "url": "https://www.darlinghq.org/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-08-31T22:53:45+00:00",
-    "fetched": "2026-09-01T01:46:26+00:00",
-    "image": null
-  },
-  {
-    "id": "b4ade2d8a348c410",
-    "title": "Путін вчетверте від початку повномасштабного вторгнення збільшив штат своєї охорони",
-    "summary": "Володимир Путін підписав указ: чисельність центрального апарату Федеральної служби охорони зросла до 812 співробітників з 785.",
-    "url": "https://www.pravda.com.ua/news/2026/09/01/8051249/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-31T22:51:00+00:00",
-    "fetched": "2026-08-31T22:58:44+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/e/903371/8e114af858ac135e94603a949dfe6b4c.jpeg"
-  },
-  {
-    "id": "965c3fc33c4e74b0",
-    "title": "У Британії порахували збитки від війни США проти Ірану",
-    "summary": "Інфляція та стагнація зарплат вдарять по родинах.",
-    "url": "https://lb.ua/economics/2026/09/01/762742_britaniyi_porahuvali_zbitki_vid.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-08-31T22:50:00+00:00",
-    "fetched": "2026-08-31T22:58:44+00:00",
-    "image": "https://i.lb.ua/news/049/19/6a9605f2ecb3a.jpg"
   }
 ]
