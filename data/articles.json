@@ -1,5 +1,101 @@
 [
   {
+    "id": "4c0d131a5dad34bc",
+    "title": "Україна отримає від ЄС ще 3,3 мільярда євро на озброєння",
+    "summary": "Кошти мають бути перераховані вже у п'ятницю, 18 вересня.",
+    "url": "https://lb.ua/society/2026/09/18/766978_ukrayina_otrimaie_vid_ies_sche.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T00:37:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://i.lb.ua/news/095/03/6aac87c2e2e12.jpg"
+  },
+  {
+    "id": "2acd40a62db2abe4",
+    "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+    "summary": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction…",
+    "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-18T00:23:31+00:00",
+    "fetched": "2026-09-18T00:41:32+00:00",
+    "image": "https://i.guim.co.uk/img/media/71fdac6096eda7c5dea33c289145b44460bfb090/163_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=75727651742e1bd620443b7f6b192771"
+  },
+  {
+    "id": "060d49ce305e6e9b",
+    "title": "ЄС виділить Україні ще 3,3 мільярда євро на ракети й безпілотники – фон дер Ляєн",
+    "summary": "Президентка Європейської комісії Урсула фон дер Ляєн заявила, що Євросоюз виділить Україні додаткові 3,3 мільярда євро на закупівлю ракет і безпілотників, а також готує до запуску нову програму спільних оборонних проєктів.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8053996/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T00:23:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/916795/b930865311e71f7ca0aef648164390ed.jpeg"
+  },
+  {
+    "id": "cf83d711f7bd3f8c",
+    "title": "Топгенерал США закликав армію готуватися до війни поблизу Місяця",
+    "summary": "Голова Об'єднаного комітету начальників штабів США генерал Ден Кейн заявив, що американські збройні сили мають готуватися до ведення бойових дій не лише на орбіті Землі, а й поблизу Місяця.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8053995/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-17T23:35:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/c/916794/3c2a9f5765de83e490f5795f5a498146.jpeg"
+  },
+  {
+    "id": "ab3afa23cd10123f",
+    "title": "Лідерка Англіканської церкви відкликала нагороду імаму, який хвалив Усаму бен Ладена",
+    "summary": "Вручення призу за міжрелігійне співробітництво обернулось скандалом.",
+    "url": "https://lb.ua/world/2026/09/18/766976_liderka_anglikanskoyi_tserkvi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-17T23:32:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://i.lb.ua/news/082/11/6aac79524667c.jpg"
+  },
+  {
+    "id": "1da12f421f73fd14",
+    "title": "Ярославський НПЗ у Росії зупинив переробку нафти після атаки дронів – ЗМІ",
+    "summary": "Російський нафтопереробний завод \"Славнефть-Ярославнефтеоргсинтез\" (ЯНОС) у четвер зупинив переробку сирої нафти після удару українських безпілотників.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8053994/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-17T22:51:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/916793/8fb447581db571f57594dd1c91505bd6.jpeg"
+  },
+  {
+    "id": "9205bf2b14668e8c",
+    "title": "Брат принцеси Діани розповів, що Чарльз зустрів новину про її смерть \"наче переможець у лотерею\"",
+    "summary": "Майбутній король відчув свободу одружитися з Камілою.",
+    "url": "https://lb.ua/world/2026/09/18/766974_brat_printsesi_diani_rozpoviv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-17T22:48:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://i.lb.ua/news/058/01/6aac6dd113589.jpg"
+  },
+  {
+    "id": "f86a1f55896969c8",
+    "title": "Місія ООН щодо Близького Сходу вважає, що США здійснювали воєнні злочини, а Іран - злочини проти людяності",
+    "summary": "Обидві сторони конфлікту, на думку експертів ООН, порушували міжнародні норми.",
+    "url": "https://lb.ua/world/2026/09/18/766972_misiya_oon_schodo_blizkogo_shodu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-17T22:18:00+00:00",
+    "fetched": "2026-09-18T00:41:31+00:00",
+    "image": "https://i.lb.ua/news/047/51/6aac67d2349cc.jpg"
+  },
+  {
     "id": "367b03d1c818caca",
     "title": "Путін конфіскував російські активи Auchan, Nestle та Leroy Merlin",
     "summary": "Російський правитель Володимир Путін підписав указ про націоналізацію російських активів компаній Auchan, Nestle та колишньої мережі Leroy Merlin.",
@@ -156,6 +252,18 @@
     "image": "https://i.lb.ua/news/006/60/6aac5bc178d7d.jpg"
   },
   {
+    "id": "1b8377e8a2fe9f7f",
+    "title": "The most important product decision is what you don't build",
+    "summary": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 29 # Comments: 14",
+    "url": "https://liamnugent.me/posts/what-you-dont-build/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T20:52:36+00:00",
+    "fetched": "2026-09-18T00:41:32+00:00",
+    "image": "https://liamnugent.me/img/og_image-1.jpg"
+  },
+  {
     "id": "2016d61a9c656b08",
     "title": "В п'ятницю в Україні здебільшого без опадів, температура повітря підніметься до +25°",
     "summary": "Лише в західних та північних областях очікується короткочасний дощ.",
@@ -178,6 +286,18 @@
     "published": "2026-09-17T20:49:00+00:00",
     "fetched": "2026-09-17T22:22:18+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/0/3/03113e5-----------.jpg"
+  },
+  {
+    "id": "b6f558c3e5076fcf",
+    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+    "summary": "Article URL: https://snapdrop.me Comments URL: https://news.ycombinator.com/item?id=49746346 Points: 14 # Comments: 12",
+    "url": "https://snapdrop.me",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T20:48:04+00:00",
+    "fetched": "2026-09-18T00:41:32+00:00",
+    "image": "https://snapdrop.me/images/twitter-stream.jpg"
   },
   {
     "id": "a672134347711f22",
@@ -214,6 +334,18 @@
     "published": "2026-09-17T20:36:13+00:00",
     "fetched": "2026-09-17T22:22:18+00:00",
     "image": null
+  },
+  {
+    "id": "b4b612568ea9a7e8",
+    "title": "More than 100k people in Japan are now aged 100 or older",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cmzezj5e18xxo Comments URL: https://news.ycombinator.com/item?id=49746117 Points: 72 # Comments: 52",
+    "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T20:33:00+00:00",
+    "fetched": "2026-09-18T00:41:32+00:00",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b9f/live/3c6093a0-b0fe-11f1-a540-61c3f7fc4e6c.jpg"
   },
   {
     "id": "e2b6fa7ca3e61d1b",
@@ -38482,137 +38614,5 @@
     "published": "2026-09-04T00:54:46+00:00",
     "fetched": "2026-09-04T05:40:06+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg"
-  },
-  {
-    "id": "5de15ac0e1a60efa",
-    "title": "Рух мостами під час тривог та 140 додаткових автобусів: Київ змінює роботу транспорту – Кличко",
-    "summary": "Столична влада перекинула 140 автобусів з інших напрямків для посилення сполучення між правим і лівим берегами та працює над відкриттям руху мостами через Дніпро під час повітряних тривог.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051829/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T00:30:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/906061/952120a0c1e268a60865246ee14cb10d.jpeg"
-  },
-  {
-    "id": "b464a2027296e319",
-    "title": "Молоко тарганів та злі багатії: у Швейцарії оголосили лауреатів Шнобелівської премії",
-    "summary": "Незмінний девіз нагороди: \"Дослідження, які спершу змушують сміятися, а потім замислитися\".",
-    "url": "https://lb.ua/world/2026/09/04/763526_moloko_targaniv_zli_bagatiyi.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T00:27:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://i.lb.ua/news/005/17/6a9a129c93815.jpg"
-  },
-  {
-    "id": "49d2955147688437",
-    "title": "The unusually muted Tesla Cybercab launch",
-    "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous…",
-    "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-04T00:25:06+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "6ae5fba47fffdeea",
-    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-    "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a…",
-    "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-03T23:37:37+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "0cff891035feea37",
-    "title": "Росіяни атакували Запоріжжя, БПЛА поцілив у житловий будинок",
-    "summary": "У багатоповерхівці зайнялася пожежа.",
-    "url": "https://lb.ua/society/2026/09/04/763524_rosiyani_atakuvali_zaporizhzhya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-03T23:37:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://i.lb.ua/news/126/48/6a9a062fefa12.jpg"
-  },
-  {
-    "id": "f3b30eb85004053f",
-    "title": "Російський дрон влучив у багатоповерхівку в Кропивницькому, є постраждалий",
-    "summary": "Унаслідок удару російського безпілотника по житловому будинку в Кропивницькому постраждала одна людина. Інформація уточнюється.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051820/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-03T23:27:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/6/906059/9643bfcde7c68049f57ab2f531279897.jpeg"
-  },
-  {
-    "id": "6297a301bc76a85b",
-    "title": "У Запоріжжі після удару російського дрона загорілася багатоповерхівка",
-    "summary": "У ніч на 4 вересня російські війська атакували Запоріжжя, унаслідок чого сталося займання в багатоквартирному житловому будинку.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051828/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-03T23:17:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/7/906058/57d562b0a987c253495d8d77f7638fa4.jpeg"
-  },
-  {
-    "id": "1f1b2bc9ca96c139",
-    "title": "Здатність ЄС протистояти вторгненню Росії залишається під сумнівом",
-    "summary": "Європейський суд аудиторів дійшов невтішного висновку.",
-    "url": "https://lb.ua/society/2026/09/04/763522_zdatnist_ies_protistoyati.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-03T22:48:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://i.lb.ua/news/043/04/6a99f8f6af8b0.jpg"
-  },
-  {
-    "id": "bdd200209d022621",
-    "title": "На базі \"Дії\" створять застосунок для інформування про повітряні загрози – Корецький",
-    "summary": "Прем'єр-міністр Сергій Корецький заявив, що в Україні на базі державного сервісу \"Дія\" буде створено окремий застосунок, який інформуватиме громадян про повітряні тривоги, а також про рух безпілотників і ракет",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051827/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-03T22:45:00+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/4/906057/e404ac8ca8c8504205c4a65dc448dc80.jpeg"
-  },
-  {
-    "id": "2ecebaec2188cf7d",
-    "title": "GLP-1s are being linked to fewer serious infections, including TB",
-    "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c... Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 45 # Comments: 31",
-    "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-03T22:37:31+00:00",
-    "fetched": "2026-09-04T00:52:11+00:00",
-    "image": null
-  },
-  {
-    "id": "e7a2e1182e71cf5e",
-    "title": "Transplanted pig kidney works in US man's body for record 271 days",
-    "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-    "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-03T22:31:23+00:00",
-    "fetched": "2026-09-04T00:52:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
   }
 ]
