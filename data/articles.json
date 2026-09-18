@@ -1,5 +1,341 @@
 [
   {
+    "id": "de57acb0c2fa1019",
+    "title": "Сповідь \"боягузки\". Втеча від війни і 4 роки в США – історія біженки",
+    "summary": "",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8053976/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T05:30:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/916711/79c1d6e0623dc3201aac26755901fed7.jpeg?w=1200&q=85&stamp=1789666518"
+  },
+  {
+    "id": "aeeee7abfcb4f33f",
+    "title": "Росія атакувала Україну 93-ма БпЛА, 72 з них вдалося знешкодити",
+    "summary": "Росія атакувала Україну 93 ударними безпілотниками. Повітряні сили збили 72, але були влучання на 13 локаціях. Атака триває.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054006/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T05:23:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/916852/22dfb8044cb2e8385e3a48eb1d2785a0.jpeg"
+  },
+  {
+    "id": "e6b58bf98ab064c4",
+    "title": "У Запорізькій області від російських атак загинула людина. Поранених – 14",
+    "summary": "РФ атакувала область 1031 раз.",
+    "url": "https://lb.ua/society/2026/09/18/766990_zaporizkiy_oblasti_vid_rosiyskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T05:17:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.lb.ua/news/088/00/6aacc9b6b1766.jpg"
+  },
+  {
+    "id": "90f87d9724d0e9c3",
+    "title": "Вночі Росія атакувала 93 дронами і боєприпасами «Бандероль»/«Дань-Т»",
+    "summary": "Захисники знешкодили 69 засобів ураження.",
+    "url": "https://lb.ua/society/2026/09/18/766988_vnochi_rosiya_atakuvala_93.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T05:16:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.lb.ua/news/099/16/6aacc94261c0b.jpg"
+  },
+  {
+    "id": "131a7407a92f697d",
+    "title": "ВВС: Українців для підпалу майна Стармера і вандалізму мечетей вербував той самий агент РФ",
+    "summary": "Затриманого за вандалізм мечетей у Лондоні українця та виконавців підпалу майна вже колишнього прем'єр-міністра Кіра Стармера вербувала одна і та сама російська агентурна мережа.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054005/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T05:14:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://img.eurointegration.com.ua/images/fblogo.gif"
+  },
+  {
+    "id": "d4e1bf080996a0ae",
+    "title": "РФ атакувала Херсонщину дронами, і артилерії та авіації. Вбита людина",
+    "summary": "Девʼятеро мешканців області поранені.",
+    "url": "https://lb.ua/society/2026/09/18/766986_rf_atakuvala_hersonschinu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T05:07:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.lb.ua/news/111/06/6aacc7526b4df.jpg"
+  },
+  {
+    "id": "fdfb42b9ac766898",
+    "title": "Внаслідок ранкового обстрілу Київської області постраждала родина з трьома дітьми",
+    "summary": "Трьох неповнолітніх і одного дорослого госпіталізували.",
+    "url": "https://lb.ua/society/2026/09/18/766982_vnaslidok_rankovogo_obstrilu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T04:57:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.lb.ua/news/062/52/6aacc721a371c.jpg"
+  },
+  {
+    "id": "8c3a39a256422c66",
+    "title": "​Російська армія втратила за добу 1420 солдатів та 75 артилерійських систем",
+    "summary": "Від початку повномасштабного вторгнення втрати російських військ склали близько 1 514 910 осіб.",
+    "url": "https://lb.ua/society/2026/09/18/766984_rosiyska_armiya_vtratila_dobu.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T04:52:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.lb.ua/news/008/45/6aacc56e5ead7.jpg"
+  },
+  {
+    "id": "c957ed937d25a1f7",
+    "title": "Окупанти вранці вдарили по Київщині: серед постраждалих – 3 дітей",
+    "summary": "Пʼятеро осіб травмовано після атаки дронів у Фастівському районі Київської області. Госпіталізовано трьох дітей та дорослого.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054004/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T04:43:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/0/916832/f023e9eb766a1cabc487b21736d7fef5.jpeg"
+  },
+  {
+    "id": "90c3615c94147a46",
+    "title": "Росіяни атакували Дніпро: 2 постраждалих, пошкоджено підприємства",
+    "summary": "Унаслідок обстрілів Дніпра поранено двох чоловіків, зруйновано підприємства. Також постраждали інші райони області, зокрема Нікопольський і Синельниківський.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054003/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T04:31:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/c/916812/8ca76e41157645799b4b5dd6f6e78e09.jpeg"
+  },
+  {
+    "id": "705ff08b9e856585",
+    "title": "Jemalloc 5.4.0",
+    "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 6 # Comments: 0",
+    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T04:20:24+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://opengraph.githubassets.com/757edfa22c8cec63243b6db8691aa148bbcede35b72fb0f10a038fa3aa43da14/jemalloc/jemalloc/releases/tag/5.4.0"
+  },
+  {
+    "id": "fdbe8e7f4578a08d",
+    "title": "The Scourge of x86 Emulation",
+    "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 12 # Comments: 0",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T04:09:48+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": null
+  },
+  {
+    "id": "a8afc0d40c3f9f3c",
+    "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
+    "summary": "The gift from Italy has sparked fierce debate among defence analysts and opposition politicians who question its true cost and purpose Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s…",
+    "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-18T04:04:57+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.guim.co.uk/img/media/a3ef319427f648a610ac8bd82dc19864ce196f19/175_0_1063_850/master/1063.jpg?width=140&quality=85&auto=format&fit=max&s=3fc5937cdd4058a4d95cd846b8b0fcad"
+  },
+  {
+    "id": "b38892ce5b710bf6",
+    "title": "Waymo in Singapore",
+    "summary": "Article URL: https://waymo.com/waymo-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49749981 Points: 60 # Comments: 25",
+    "url": "https://waymo.com/waymo-in-singapore/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T03:49:24+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://lh3.googleusercontent.com/2wnrIyeTPHdEPuuGNRkayMYx4bgzqvwcfWB62B7olSXEhCG5s0VmQeLcJqlDljcIFgb7C3v8AwsxreaFw6rux910IfZYi215Gq0"
+  },
+  {
+    "id": "cb21a09be9e8c550",
+    "title": "Фінські спецпризначенці відпрацювали штурм кораблів у Балтійському морі",
+    "summary": "У Фінляндії відбулися масштабні навчання в Балтійському морі, під час яких спецпризначенці тренувалися захоплювати та обшукувати підозрілі судна через загрозу російських підводних диверсій.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054002/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T03:46:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/916803/206ed04d0596e60324a7378c81ef773a.jpeg"
+  },
+  {
+    "id": "dc80b6cf92ce3c38",
+    "title": "Генштаб: За минулу добу Росія втратила ще 1 420 військових у війні проти України",
+    "summary": "За минулу добу Сили оборони України вбили та поранили 1 420 російських окупантів, загальні втрати ворога у війні склали 1 514 910 осіб.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054001/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T03:37:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/916801/b681291c3e8a6358c85fb218117637c1.jpeg"
+  },
+  {
+    "id": "a8f3ae56fe11a384",
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "summary": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 30 # Comments: 5",
+    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T03:04:38+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://storage.ghost.io/c/c7/75/c775a216-7ca2-4c5f-96a7-f2defe0fd756/content/images/size/w1200/2026/09/map--3840x2160---1-.png"
+  },
+  {
+    "id": "9b21b979aa5868bb",
+    "title": "Code Scans",
+    "summary": "Article URL: https://devin.ai/blog/introducing-code-scans Comments URL: https://news.ycombinator.com/item?id=49749744 Points: 14 # Comments: 3",
+    "url": "https://devin.ai/blog/introducing-code-scans",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T03:00:40+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://devin.ai/images/blog/introducing-code-scans/cover.png"
+  },
+  {
+    "id": "ebb03db6fa9b9d77",
+    "title": "Не хочу війни \"через якусь 5 статтю\" НАТО: Фіцо відмовився захищатися у разі нападу Росії",
+    "summary": "Прем'єр-міністр Словаччини Роберт Фіцо заявив, що не має наміру виконувати зобов'язання за 5 статтею НАТО та брати участь у захисті союзників у разі нападу Росії.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8054000/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T03:00:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/4/916800/d4cb0eaf740416403e54f2b8dbaeec05.jpeg"
+  },
+  {
+    "id": "39b208522bb559fd",
+    "title": "Hacking OpenAI",
+    "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 181 # Comments: 50",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T02:47:24+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png"
+  },
+  {
+    "id": "3c78b5b196623c78",
+    "title": "\"Я – той самий щур, що драпанув з корабля\". Історія втечі від війни",
+    "summary": "Від редакції",
+    "url": "https://www.pravda.com.ua/articles/2026/09/18/8053970/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T02:30:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/916710/31fcca65dc0089907f6b3ff06a1a8f14.jpeg"
+  },
+  {
+    "id": "82516777da549ad8",
+    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+    "summary": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/ Comments URL: https://news.ycombinator.com/item?id=49749393 Points: 29 # Comments: 2",
+    "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T02:04:19+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://byteshape.com/blogs/Qwen3.8-27B/images/blog_thumbnail.jpg"
+  },
+  {
+    "id": "1c01993b54d32a1d",
+    "title": "Waymo says Singapore will be its next international robotaxi city",
+    "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous…",
+    "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T02:00:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "edd7727039ddffc0",
+    "title": "Росіяни атакували Конотоп на Сумщині: пошкоджено багато об'єктів інфраструктури",
+    "summary": "Є влучання у навчальний заклад, залізницю і газогін.",
+    "url": "https://lb.ua/society/2026/09/18/766980_rosiyani_atakuvali_konotop.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T01:59:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://i.lb.ua/news/096/41/6aac9a1e8a48c.jpg"
+  },
+  {
+    "id": "75fb34bf4633df41",
+    "title": "Викрадення спостерігачів, примус бюджетників і відключення зв'язку: як у Росії розпочалися вибори",
+    "summary": "Під час триденного голосування на виборах до Держдуми та регіональних парламентів 18–21 вересня в Росії можуть вимикати мобільний зв'язок та інтернет через так звані \"заходи безпеки\". Водночас по всій країні фіксують системний тиск на спостерігачів, примус бюджетників і масові…",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8053998/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T01:35:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/916798/0a40b0757f7541dd11b03ba254feef4b.jpeg"
+  },
+  {
+    "id": "e74d5e729666abe5",
+    "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+    "summary": "Article URL: https://askamonk.online Comments URL: https://news.ycombinator.com/item?id=49749171 Points: 24 # Comments: 13",
+    "url": "https://askamonk.online",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T01:34:08+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://askamonk.online/og-image.png"
+  },
+  {
+    "id": "70f7c6e1bb779ff8",
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "summary": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 36 # Comments: 12",
+    "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-18T01:05:03+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://www.netnod.se/sites/default/files/styles/opengraph/public/styles/banner/public/2023-06/NETNOD_Time_v4.png?itok=o_C83R9A"
+  },
+  {
+    "id": "3b4edfa62c8dafae",
+    "title": "Росіяни вдарили по Конотопу дронами: пошкоджено заклади освіти, лікарні, залізницю та ГТС",
+    "summary": "Унаслідок масованої атаки російських безпілотників на Конотоп Сумської області пошкоджено заклади освіти й охорони здоров'я, приватні житлові будинки, а також газорозподільну мережу та залізницю.",
+    "url": "https://www.pravda.com.ua/news/2026/09/18/8053997/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-18T00:43:00+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/9/916796/e9da4e3118354f645191cf1b9ebf161d.jpeg"
+  },
+  {
     "id": "4c0d131a5dad34bc",
     "title": "Україна отримає від ЄС ще 3,3 мільярда євро на озброєння",
     "summary": "Кошти мають бути перераховані вже у п'ятницю, 18 вересня.",
@@ -60,6 +396,18 @@
     "image": "https://i.lb.ua/news/082/11/6aac79524667c.jpg"
   },
   {
+    "id": "3195ca010f5c230c",
+    "title": "Qwen 3.8 Omni Flash",
+    "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 127 # Comments: 25",
+    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T23:05:48+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
+  },
+  {
     "id": "1da12f421f73fd14",
     "title": "Ярославський НПЗ у Росії зупинив переробку нафти після атаки дронів – ЗМІ",
     "summary": "Російський нафтопереробний завод \"Славнефть-Ярославнефтеоргсинтез\" (ЯНОС) у четвер зупинив переробку сирої нафти після удару українських безпілотників.",
@@ -84,6 +432,18 @@
     "image": "https://i.lb.ua/news/058/01/6aac6dd113589.jpg"
   },
   {
+    "id": "f5dbcedb0e592751",
+    "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+    "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T22:31:28+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg"
+  },
+  {
     "id": "f86a1f55896969c8",
     "title": "Місія ООН щодо Близького Сходу вважає, що США здійснювали воєнні злочини, а Іран - злочини проти людяності",
     "summary": "Обидві сторони конфлікту, на думку експертів ООН, порушували міжнародні норми.",
@@ -94,6 +454,18 @@
     "published": "2026-09-17T22:18:00+00:00",
     "fetched": "2026-09-18T00:41:31+00:00",
     "image": "https://i.lb.ua/news/047/51/6aac67d2349cc.jpg"
+  },
+  {
+    "id": "289b2cb14f501524",
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T22:12:58+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png"
   },
   {
     "id": "367b03d1c818caca",
@@ -118,6 +490,18 @@
     "published": "2026-09-17T21:50:00+00:00",
     "fetched": "2026-09-17T22:22:18+00:00",
     "image": "https://i.lb.ua/news/093/53/6aac608f22cd1.jpg"
+  },
+  {
+    "id": "92da7fae00b88657",
+    "title": "How to Write with an LLM",
+    "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 83 # Comments: 62",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T21:48:38+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg"
   },
   {
     "id": "26c963bcdd72b5e5",
@@ -372,6 +756,18 @@
     "image": "https://i.lb.ua/news/045/17/6aac4d0615b0f.jpg"
   },
   {
+    "id": "beb9711acac3a683",
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T20:24:34+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png"
+  },
+  {
     "id": "bb62d98b7afaf4ba",
     "title": "Польща не зафіксувала порушень повітряного простору на тлі ударів РФ по Україні",
     "summary": "",
@@ -418,6 +814,18 @@
     "published": "2026-09-17T20:11:00+00:00",
     "fetched": "2026-09-17T22:22:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/916751/b28a2c4d5f8e4ed2241d1d0bc5e3d4bd.jpeg"
+  },
+  {
+    "id": "01982aadb2ec9850",
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+    "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T20:10:41+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-1152x648.jpg"
   },
   {
     "id": "9f8b93c27bc670e0",
@@ -504,6 +912,18 @@
     "image": "https://i.lb.ua/news/101/02/6aac3c60a0276.jpg"
   },
   {
+    "id": "efa840d232707a5f",
+    "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+    "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T19:07:28+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg"
+  },
+  {
     "id": "909ab2292068d3c9",
     "title": "В Угорщині перевірятимуть статки політиків за останні 20 років",
     "summary": "Уряд країни готує відповідний законопроєкт. Перевірка охоплюватиме чинних політиків та людей, чиї мандати закінчились упродовж останніх п'яти років.",
@@ -574,6 +994,18 @@
     "published": "2026-09-17T18:42:00+00:00",
     "fetched": "2026-09-17T19:11:17+00:00",
     "image": "https://i.lb.ua/news/121/10/6aac34845ab3d.jpg"
+  },
+  {
+    "id": "168e3a7edc732617",
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T18:33:13+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
   },
   {
     "id": "c382d421c44e2451",
@@ -660,6 +1092,18 @@
     "image": "https://i.lb.ua/news/091/14/6aac2a7a7a7f1.jpg"
   },
   {
+    "id": "c1040cb3b243079f",
+    "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+    "summary": "The IV drips included glutathione, which was not made to be injected.",
+    "url": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T17:43:50+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-1024x648.jpg"
+  },
+  {
     "id": "af0f9df3fa76ff0a",
     "title": "Латвія заборонила в'їзд двом росіянам - хокеїсту Овечкіну та олігарху Кремльову",
     "summary": "Овечкін знімався в політичній рекламі для Путіна, а Кремльов фінансував весілля молодшого сина Трампа.",
@@ -706,6 +1150,18 @@
     "published": "2026-09-17T17:33:00+00:00",
     "fetched": "2026-09-17T19:11:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/916709/5ffa4b73d32b8d7043476c574b1416c4.jpeg"
+  },
+  {
+    "id": "65b788dedb5abb2f",
+    "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+    "summary": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?",
+    "url": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T17:30:30+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-1152x648.jpg"
   },
   {
     "id": "8de224ebdfe34bb6",
@@ -984,6 +1440,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/a/916669/1ad7f93f435fb51d97148e4f3fe40ae3.jpeg"
   },
   {
+    "id": "a6c133e82102caf0",
+    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+    "summary": "Model maker commits to new framework for reporting misaligned models.",
+    "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T16:18:34+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-1152x648.jpg"
+  },
+  {
     "id": "8befa0a0a6cf489d",
     "title": "Ask HN: How to recover Google auth after phone stolen?",
     "summary": "As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. So what is supposed to be the plan when this type of situation happens? Basically I have a situation that after my phone…",
@@ -1078,6 +1546,18 @@
     "published": "2026-09-17T15:40:17+00:00",
     "fetched": "2026-09-17T19:11:22+00:00",
     "image": null
+  },
+  {
+    "id": "3a9753ec3d5fc6a1",
+    "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+    "summary": "Public health groups warn EPA rule will cost Americans billions in health bills.",
+    "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T15:38:04+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2261166461-1024x648.jpg"
   },
   {
     "id": "2a9056b41a30ee5b",
@@ -1260,6 +1740,18 @@
     "image": "https://i.lb.ua/news/022/50/6aabfe0e5a674.jpg"
   },
   {
+    "id": "d723def5dfc740c2",
+    "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+    "summary": "\"They should fly their capsule. The government paid a lot of money for that.\"",
+    "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T14:37:37+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/starliner-rise-from-your-grave-1152x648.jpg"
+  },
+  {
     "id": "975fe66731cb0180",
     "title": "У Польщі посилюють ППО на тлі останніх провокацій Росії",
     "summary": "",
@@ -1414,6 +1906,18 @@
     "published": "2026-09-17T13:58:00+00:00",
     "fetched": "2026-09-17T15:13:15+00:00",
     "image": "https://i.lb.ua/news/021/46/6aabf22561311.jpg"
+  },
+  {
+    "id": "a9680e6eed1a4757",
+    "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+    "summary": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”",
+    "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T13:57:14+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/dolphin1-1152x648-1789497589.jpg"
   },
   {
     "id": "bd4ec752fcc1d971",
@@ -2026,6 +2530,18 @@
     "published": "2026-09-17T09:47:00+00:00",
     "fetched": "2026-09-17T10:18:31+00:00",
     "image": "https://i.lb.ua/news/082/25/6aabb7595c3ae.jpg"
+  },
+  {
+    "id": "774b93474be4400f",
+    "title": "Hackers reveal how Flock cameras really track cars and people",
+    "summary": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
+    "url": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-17T09:43:46+00:00",
+    "fetched": "2026-09-18T05:41:36+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
   },
   {
     "id": "2fcb37efa49920aa",
@@ -38266,353 +38782,5 @@
     "published": "2026-09-04T06:47:51+00:00",
     "fetched": "2026-09-04T10:57:01+00:00",
     "image": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
-  },
-  {
-    "id": "a98be91cf983dbfb",
-    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T05:33:14+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg"
-  },
-  {
-    "id": "aa7babc1999b55d1",
-    "title": "Двоє поліцейських загинули внаслідок повторного удару в Дніпропетровській області",
-    "summary": "Ворог атакував Богданівську громаду.",
-    "url": "https://lb.ua/society/2026/09/04/763536_dvoie_politseyskih_zaginuli.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:32:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/007/52/6a9a5695bdecd.jpg"
-  },
-  {
-    "id": "fc7f620852eb9a9e",
-    "title": "Немов перед татарським нападом переполоханий. Як Росія 1914 року вперше окупувала Львів",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051819/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:30:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/d/906009/dd3f98b411fff488c51bedd57133106f.jpeg?w=1200&q=85&stamp=1788459506"
-  },
-  {
-    "id": "852be7115f63a68d",
-    "title": "Понад половина німців підтримують постачання зброї в Україну",
-    "summary": "52% опитаних німців загалом підтримують постачання зброї Україні.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051843/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:28:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/906111/ac49be481c303d035db52cf0e0ae0d37.jpeg"
-  },
-  {
-    "id": "3d9d2c61e83fa790",
-    "title": "Вчора у Києві від обстрілів постраждали 14 людей",
-    "summary": "Уламки впали в Голосіївському, Дарницькому, Святошинському та Соломʼянському районах столиці.",
-    "url": "https://lb.ua/society/2026/09/04/763538_vchora_kiievi_vid_obstriliv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:19:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/122/58/6a9a550c4081f.jpg"
-  },
-  {
-    "id": "8ef2804ee69c67b5",
-    "title": "Вранці РФ вдарила по Одесі. Відомо про жертву та постраждалих",
-    "summary": "В одному з районів міста пошкоджені житлові будинки та автомобілі.",
-    "url": "https://lb.ua/society/2026/09/04/763534_vrantsi_rf_vdarila_odesi_vidomo.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:07:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/061/19/6a9a5254e0523.jpg"
-  },
-  {
-    "id": "0aa45abf75b4cecb",
-    "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-    "summary": "President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests President Javier Milei has said “winds of change favourable” to Argentina’s claim to the Falkland Islands were “blowing…",
-    "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T05:03:33+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://i.guim.co.uk/img/media/749a5b9872bc62ee30d484d1911b551515d8058a/225_0_4237_3390/master/4237.jpg?width=140&quality=85&auto=format&fit=max&s=18ccfa4edfc37d6c379453a5b9e00194"
-  },
-  {
-    "id": "f84bbd8c79cbd4a6",
-    "title": "Argentine leader threatens to sanction oil firms working off Falklands",
-    "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-    "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T05:01:33+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg"
-  },
-  {
-    "id": "80c1275f87772145",
-    "title": "​Сили оборони вчора ліквідували 1440 окупантів і 4 засоби ППО ворога",
-    "summary": "Від початку повномасштабного вторгнення втрати російських військ склали близько 1 493 790 осіб.",
-    "url": "https://lb.ua/society/2026/09/04/763532_sili_oboroni_vchora_likviduvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:00:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/009/10/6a9a50a34a37a.jpg"
-  },
-  {
-    "id": "b003d45f111cecfc",
-    "title": "Росіяни увечері атакували Кропивницький (оновлено)",
-    "summary": "Поранено одну людину.",
-    "url": "https://lb.ua/society/2026/09/04/763492_rosiyani_uvecheri_atakuvali.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T05:00:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/075/16/6a9a506696a45.jpg"
-  },
-  {
-    "id": "75eba994e5f4403a",
-    "title": "Ухвалення \"проєкту Грема\" про санкції проти РФ може затягнутися до проміжних виборів",
-    "summary": "Законопроєкт про санкції проти Росії, який лише минулого місяця переважною більшістю голосів ухвалив Сенат, стикається з дедалі сильнішим опором у Палаті представників США і, ймовірно, буде заблокований принаймні до листопадових виборів.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051842/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T04:58:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/1/9/1972c20-kongress-ssha-4-e1497552174198.jpg"
-  },
-  {
-    "id": "74fbfcaa6057f025",
-    "title": "Росіяни убили двох поліцейських на Дніпропетровщині",
-    "summary": "Унаслідок атаки безпілотником у Павлоградському районі Дніпропетровщини загинули двоє правоохоронців, ще одного поранено",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051841/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T04:42:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/b/906095/1b4e1f6fdf047a152ae6ae4fafd47a72.jpeg"
-  },
-  {
-    "id": "7c1f2aae0dcb5f67",
-    "title": "Окупанти вранці дарили по Одещині: 1 загиблий, 5 постраждалих",
-    "summary": "Унаслідок ранкового обстрілу Одеси 4 вересня загинула людина, ще троє постраждали. Пошкоджено житлові будинки та авто.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051839/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T04:19:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/d/906079/ed9f3fb02db08a9ad30ec5a0f38baab5.jpeg"
-  },
-  {
-    "id": "ce01a242b508b77a",
-    "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-    "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-    "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T04:06:41+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg"
-  },
-  {
-    "id": "ee98121ac31261fb",
-    "title": "За добу ЗСУ відмінусували ще 1440 росіян та понад 600 одиниць техніки окупантів – Генштаб",
-    "summary": "За минулу добу Сили оборони України вбили та поранили 1 440 російських окупантів, загальні втрати ворога у війні склали 1 493 790 осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051835/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T03:55:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/c/906068/8cecb4827da408d14b0676db5d94e15d.jpeg"
-  },
-  {
-    "id": "de53b1caf532cbb8",
-    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-    "summary": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/ Comments URL: https://news.ycombinator.com/item?id=49560260 Points: 41 # Comments: 19",
-    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-04T03:40:26+00:00",
-    "fetched": "2026-09-04T05:40:08+00:00",
-    "image": "https://agentconnect.md/blog/grep-beat-lsp-harness/opengraph-image?d16862f2020c5939"
-  },
-  {
-    "id": "e961d02b7ba5417e",
-    "title": "Міністр фінансів США звинуватив Україну у глобальному зростанні цін на енергоносії",
-    "summary": "Міністр фінансів США Скотт Бессент заявив, що удари України по російській нафтовій інфраструктурі спричиняють глобальний енергетичний шок і підвищують світові ціни на пальне.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051833/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T03:38:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/906066/ac3df5efea41050ef6103d21e6fe20ae.jpeg"
-  },
-  {
-    "id": "0552e0b9a0f807c4",
-    "title": "A Mysterious Kidney Disease Has Arrived in Texas",
-    "summary": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/ Comments URL: https://news.ycombinator.com/item?id=49559992 Points: 49 # Comments: 34",
-    "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-04T02:54:16+00:00",
-    "fetched": "2026-09-04T05:40:08+00:00",
-    "image": "https://img.texasmonthly.com/2026/08/Kidney-Disease-CKDU-Texas-Wharton-County-rice-fields.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45"
-  },
-  {
-    "id": "9e0fede7e95d7bb9",
-    "title": "У Німеччині від початку року зафіксували понад 165 імовірних диверсій",
-    "summary": "Правоохоронні органи Німеччини з початку 2026 року зареєстрували понад 165 випадків імовірних диверсій та майже 750 інцидентів із підозрілими безпілотниками над військовими об'єктами й критичною інфраструктурою.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051831/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T02:44:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/906063/b6628cedbaeb11d340065843ff4e736f.jpeg"
-  },
-  {
-    "id": "684dea266b7e8a80",
-    "title": "From Hookswitch to Grave",
-    "summary": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html Comments URL: https://news.ycombinator.com/item?id=49559901 Points: 15 # Comments: 1",
-    "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-04T02:40:12+00:00",
-    "fetched": "2026-09-04T05:40:08+00:00",
-    "image": "https://computer.rip/static/img/nassau/1.png"
-  },
-  {
-    "id": "ef542ee5f03df688",
-    "title": "\"Назавжди покінчити з вашим українством\". Російська окупація Львова 1914 року як готова інструкція для армії Путіна",
-    "summary": "\"Рятуйтесь, росіяни йдуть!\" – десь отак вигукуючи, на початку вересня 1914 року зі сторони Личакова в'їхав у Львів на велосипеді переляканий чоловік. Громадський діяч і службовець залізниці, поляк Богдан Кшиштофович, до мемуарів якого, зокрема, звертаються дослідники, зупинив…",
-    "url": "https://www.pravda.com.ua/articles/2026/09/04/8051793/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T02:30:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/3/906008/8368830a6066676cd1d3c61dd60c66e7.jpeg"
-  },
-  {
-    "id": "522608ab0d1cf6c3",
-    "title": "Трамп знайшов заміну Дену Дрісколлу на посаді міністра армії",
-    "summary": "Підвищення отримає колишній співробітник Білого дому.",
-    "url": "https://lb.ua/world/2026/09/04/763530_tramp_znayshov_zaminu_denu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T02:25:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/042/53/6a9a249da1bbf.jpg"
-  },
-  {
-    "id": "5921185e3481499a",
-    "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-    "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-    "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T02:20:37+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg"
-  },
-  {
-    "id": "1b0762979d37ed3b",
-    "title": "UN to vote on adopting new world map that shows Africa’s true scale",
-    "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more…",
-    "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T02:00:54+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://i.guim.co.uk/img/media/71b8b31a0e418f2093686dd8f0ce5c843b3989ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2a07aad732880348e9b39f966e7b4b2"
-  },
-  {
-    "id": "e8b517982e4d3433",
-    "title": "Сили оборони уразили російський дивізіон ППО поблизу Сочі – ЗМІ",
-    "summary": "У ніч на 4 вересня Сили оборони України завдали удару по дивізіону протиповітряної оборони окупантів поблизу Сочі, внаслідок чого на військовому об'єкті спалахнула пожежа.",
-    "url": "https://www.pravda.com.ua/news/2026/09/04/8051830/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T01:53:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/906062/f9bdd7d4e309920472b0a346e7d71f24.jpeg"
-  },
-  {
-    "id": "7d8b13a6bce0650a",
-    "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-    "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version…",
-    "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-04T01:49:25+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "d71410b2ce9999b9",
-    "title": "Project Xanadu: Even More Hindsight",
-    "summary": "Article URL: https://gwern.net/xanadu Comments URL: https://news.ycombinator.com/item?id=49559522 Points: 53 # Comments: 8",
-    "url": "https://gwern.net/xanadu",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-04T01:45:23+00:00",
-    "fetched": "2026-09-04T05:40:08+00:00",
-    "image": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png"
-  },
-  {
-    "id": "bc6fcf79ba045db5",
-    "title": "Чоловік прожив рекордні 9 місяців з модифікованою ниркою свині",
-    "summary": "Прорив, який дарує надію пацієнтам в листі очікування на трансплантацію.",
-    "url": "https://lb.ua/health/2026/09/04/763528_cholovik_prozhiv_rekordni_9.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-04T01:40:00+00:00",
-    "fetched": "2026-09-04T05:40:07+00:00",
-    "image": "https://i.lb.ua/news/116/10/6a9a20efe0018.jpg"
-  },
-  {
-    "id": "2aceafb83740462c",
-    "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-    "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-    "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-04T00:54:46+00:00",
-    "fetched": "2026-09-04T05:40:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg"
   }
 ]
