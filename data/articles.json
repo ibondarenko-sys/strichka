@@ -1,5 +1,89 @@
 [
   {
+    "id": "5f141d947133620d",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-19T23:01:57+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
+  },
+  {
+    "id": "bde67e703bb3c4e1",
+    "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+    "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+    "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-19T23:01:38+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg"
+  },
+  {
+    "id": "0b7840e7968b76b2",
+    "title": "У РФ поскаржились на масштабну атаку дронів на 12 регіонів",
+    "summary": "Російське Міноборони стверджує, що ППО перехопила 288 українських дронів у кількох регіонах РФ і над Кримом протягом 19 вересня.",
+    "url": "https://www.pravda.com.ua/news/2026/09/20/8054267/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-19T22:47:00+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/e/917933/ae351ced62ff124a49f08cb9ad9f49b3.jpeg"
+  },
+  {
+    "id": "27de0b31458b8ff6",
+    "title": "Росіяни пошкодили підприємство на Київщині – ОВА",
+    "summary": "У Фастівському районі Київської області внаслідок ворожої атаки пошкоджене підприємство, ДСНС ліквідовує наслідки.",
+    "url": "https://www.pravda.com.ua/news/2026/09/20/8054266/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-19T21:46:00+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/917926/2488c91c7a64febfb335054da36726ca.jpeg"
+  },
+  {
+    "id": "b841170102510f44",
+    "title": "Mayday Mysteries",
+    "summary": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 16 # Comments: 3",
+    "url": "http://www.maydaymystery.org/mayday/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T21:43:09+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": null
+  },
+  {
+    "id": "29409ade45c7ea40",
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 46 # Comments: 16",
+    "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T21:30:59+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sY_z6mS-h8KhXahWNWg65221h6apuepKBZxB49_HAozWWZrNySt3FeiR2fH7WzxsY8jauXR2CznqWDCn44kwtwHkoY_bjhx_2uOjU=w1200-h630-p-k-no-nu"
+  },
+  {
+    "id": "8b4d5df952c031db",
+    "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+    "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 16 # Comments: 5",
+    "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T21:25:29+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": null
+  },
+  {
     "id": "42259941720d375e",
     "title": "У Києві та областях оголосили тривогу через загрозу балістики",
     "summary": "У ніч на 20 вересня в Києві та частині регіонів оголосили повітряну тривогу через ракетну небезпеку. Влада рекомендувала укриття.",
@@ -10,6 +94,18 @@
     "published": "2026-09-19T21:17:00+00:00",
     "fetched": "2026-09-19T21:21:40+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/917923/6580b0cb957324f3de6076ea3500b9e2.jpeg"
+  },
+  {
+    "id": "f2c909c5378c71cc",
+    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+    "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-19T21:01:56+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
   },
   {
     "id": "1a4c6191e7637d69",
@@ -58,6 +154,18 @@
     "published": "2026-09-19T20:44:40+00:00",
     "fetched": "2026-09-19T21:21:40+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "e6d56593e98f4957",
+    "title": "English: A vs. An",
+    "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 90 # Comments: 88",
+    "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T20:41:26+00:00",
+    "fetched": "2026-09-19T23:24:09+00:00",
+    "image": null
   },
   {
     "id": "3abd52dcfb851ce1",
@@ -38182,113 +38290,5 @@
     "published": "2026-09-05T23:39:47+00:00",
     "fetched": "2026-09-06T05:41:34+00:00",
     "image": null
-  },
-  {
-    "id": "da52f9cd72f8b3bc",
-    "title": "У Кремлі вважають конструктивними переговори з посланцями Трампа, назвали ключові теми",
-    "summary": "У Кремлі прокоментували перемовини з посланцями Трампа.",
-    "url": "https://www.pravda.com.ua/news/2026/09/06/8052094/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-05T22:30:00+00:00",
-    "fetched": "2026-09-05T22:43:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/f/907585/6f12d249d75493f4de2dfc20b210ec9d.jpeg"
-  },
-  {
-    "id": "58909c6596234e97",
-    "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
-    "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded…",
-    "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-05T22:16:55+00:00",
-    "fetched": "2026-09-05T22:43:14+00:00",
-    "image": "https://i.guim.co.uk/img/media/8a56c6bc67eb59b4558674f0cf8f37b1d1b6ec45/0_0_3362_2691/master/3362.jpg?width=140&quality=85&auto=format&fit=max&s=aac3a2aa733d06b6ea5d8a3455c34b24"
-  },
-  {
-    "id": "f31be0c625cb8e92",
-    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-    "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 21 # Comments: 10",
-    "url": "https://github.com/okf-memory/okf-agent-memory",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-05T22:15:52+00:00",
-    "fetched": "2026-09-06T00:44:33+00:00",
-    "image": "https://opengraph.githubassets.com/d8de8376ccd75b9c28466c09bed3babbc6ea22b1e35c1733627ee3999aaef77c/okf-memory/okf-agent-memory"
-  },
-  {
-    "id": "5af6009d1562b473",
-    "title": "Falsehoods Programmers Believe About LANs",
-    "summary": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html Comments URL: https://news.ycombinator.com/item?id=49581179 Points: 3 # Comments: 0",
-    "url": "https://dreamstation.systems/personal/lanfalsehoods.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-05T22:08:16+00:00",
-    "fetched": "2026-09-05T22:43:15+00:00",
-    "image": null
-  },
-  {
-    "id": "d9b6f9682faee084",
-    "title": "Через 10 днів після повеней у Непалі врятували двох людей",
-    "summary": "У суботу вдалося врятувати ще двох людей, які вижили після руйнівних раптових повеней у Непалі, спричинених хвилею води, льоду та бруду, яка 10 днів тому змила цілі прибережні населені пункти.",
-    "url": "https://www.pravda.com.ua/news/2026/09/06/8052093/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-05T21:58:00+00:00",
-    "fetched": "2026-09-05T22:43:14+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/907584/af46eaf2229c08662e191e2caa8bf26c.jpeg"
-  },
-  {
-    "id": "233803e667e59f83",
-    "title": "America's Two Largest School Districts Impose AI Moratoriums",
-    "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 15 # Comments: 3",
-    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-05T21:43:22+00:00",
-    "fetched": "2026-09-05T22:43:15+00:00",
-    "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png"
-  },
-  {
-    "id": "b529fde1aac24dd9",
-    "title": "The revolt of the reader",
-    "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 46 # Comments: 14",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-05T21:37:49+00:00",
-    "fetched": "2026-09-06T00:44:33+00:00",
-    "image": null
-  },
-  {
-    "id": "cad30ec7be1bc180",
-    "title": "Explore the globe in field recordings",
-    "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth…",
-    "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-05T21:31:34+00:00",
-    "fetched": "2026-09-05T22:43:14+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "d31b4f8c9165c36d",
-    "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-    "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-    "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-05T21:29:38+00:00",
-    "fetched": "2026-09-05T22:43:14+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png"
   }
 ]
