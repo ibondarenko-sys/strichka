@@ -1,5 +1,65 @@
 [
   {
+    "id": "8db79723e7adda31",
+    "title": "What Happened to the Snowden Archive",
+    "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 33 # Comments: 3",
+    "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-20T22:35:49+00:00",
+    "fetched": "2026-09-20T23:26:04+00:00",
+    "image": null
+  },
+  {
+    "id": "ea087dc9487ce483",
+    "title": "Google's Open Agentic Orchestrator",
+    "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 31 # Comments: 8",
+    "url": "https://agentexecutor.io",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-20T22:32:43+00:00",
+    "fetched": "2026-09-20T23:26:04+00:00",
+    "image": "https://agentexecutor.io/axolotl.svg"
+  },
+  {
+    "id": "8d6627799bb5aeac",
+    "title": "РФ розширює завод \"Алабуга-Волокно\": виробництво реактивних дронів зросте на 78% – ЗМІ",
+    "summary": "Російська державна компанія \"Алабуга-Волокно\" розширює завод у Татарстані, завдяки чому виробництво ударних реактивних безпілотників може зрости на 78%.",
+    "url": "https://www.pravda.com.ua/news/2026/09/21/8054372/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-20T22:16:00+00:00",
+    "fetched": "2026-09-20T23:26:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/918526/5f27656d9e9836a1f2e51a6eeb15af16.jpeg"
+  },
+  {
+    "id": "09bc734cfc64f05b",
+    "title": "Bill to Ban Private Equity from Owning Medical Practices",
+    "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 67 # Comments: 25",
+    "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-20T22:13:46+00:00",
+    "fetched": "2026-09-20T23:26:04+00:00",
+    "image": "https://truthout.org/app/uploads/2026/09/2026_09-17-elizabeth-warren.jpg"
+  },
+  {
+    "id": "7be1d3cc190981d8",
+    "title": "Трамп знову просив Зеленського не бити по НПЗ у Росії – ЗМІ",
+    "summary": "Під час розмови 20 вересня Трамп неодноразово просив Україну припинити атаки по російських нафтопереробних заводах через зростання цін на дизельне паливо.",
+    "url": "https://www.pravda.com.ua/news/2026/09/21/8054371/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-20T21:51:00+00:00",
+    "fetched": "2026-09-20T23:26:02+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/8/918502/4835d4e5f1dea0dfd739a6da682c0dde.jpeg"
+  },
+  {
     "id": "2ba89fba34efca0a",
     "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
     "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
@@ -22,6 +82,30 @@
     "published": "2026-09-20T21:12:00+00:00",
     "fetched": "2026-09-20T21:27:26+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/f/918501/5f4378dfca038b055fdb7bcfaeae5525.jpeg"
+  },
+  {
+    "id": "5f3b18e2f1a36ffc",
+    "title": "Nobody pays for FOSS, we can force them to",
+    "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 83 # Comments: 55",
+    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-20T21:04:32+00:00",
+    "fetched": "2026-09-20T23:26:04+00:00",
+    "image": null
+  },
+  {
+    "id": "d136bdb78ec23a9e",
+    "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+    "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 14 # Comments: 5",
+    "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-20T20:59:02+00:00",
+    "fetched": "2026-09-20T23:26:04+00:00",
+    "image": "https://opengraph.githubassets.com/0ffdd1472ead1c1b6f23adc27c0481564f4d0f6a0456c42e1e5c7948498a02a2/lfarroco/ogre-battle-64-recomp"
   },
   {
     "id": "1f8c35d7f7d459cd",
@@ -38146,65 +38230,5 @@
     "published": "2026-09-06T23:36:04+00:00",
     "fetched": "2026-09-06T23:38:36+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "b8daa0a9e9fbd7d7",
-    "title": "Making a Python interpreter in 1024 bytes",
-    "summary": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 7 # Comments: 1",
-    "url": "https://austinhenley.com/blog/python1024.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-06T23:14:08+00:00",
-    "fetched": "2026-09-06T23:38:36+00:00",
-    "image": "https://austinhenley.com/blog/images/python1024.png"
-  },
-  {
-    "id": "8db31916bfb70a24",
-    "title": "Is mathematics about to enter the conservatory?",
-    "summary": "Article URL: https://mbmccoy.dev/posts/mathematical-conservatory/ Comments URL: https://news.ycombinator.com/item?id=49591793 Points: 45 # Comments: 65",
-    "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-06T23:02:11+00:00",
-    "fetched": "2026-09-07T09:09:38+00:00",
-    "image": "https://mbmccoy.dev/images/DSC02430.jpg"
-  },
-  {
-    "id": "accc2caa2f8cc51c",
-    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-    "summary": "Article URL: https://twitter.com/Liquid_BTC/status/2096696272447218108 Comments URL: https://news.ycombinator.com/item?id=49591672 Points: 8 # Comments: 1",
-    "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-06T22:43:25+00:00",
-    "fetched": "2026-09-06T23:38:36+00:00",
-    "image": "https://pbs.twimg.com/card_img/2094942939721920512/sLH5zf5k?format=jpg&name=orig"
-  },
-  {
-    "id": "541fd3b6d32920b2",
-    "title": "Political meddling at the Census Bureau damages the US statistical system",
-    "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system Comments URL: https://news.ycombinator.com/item?id=49591620 Points: 14 # Comments: 1",
-    "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-06T22:36:07+00:00",
-    "fetched": "2026-09-06T23:38:36+00:00",
-    "image": "https://www.piie.com/sites/default/files/2026-08/MT1SIPA000RQXILD.jpg"
-  },
-  {
-    "id": "c006c2268ead3455",
-    "title": "Кушнер та Віткофф поїхали з Києва",
-    "summary": "Стів Віткофф і Джаред Кушнер залишили Київ нічним поїздом Укрзалізниці після переговорів із Зеленським.",
-    "url": "https://www.pravda.com.ua/news/2026/09/07/8052189/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-06T22:11:00+00:00",
-    "fetched": "2026-09-06T23:38:36+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/908271/a35af56674d3b191b405ce81794b9c6d.jpeg"
   }
 ]
