@@ -1,5 +1,101 @@
 [
   {
+    "id": "04c0d066073da74a",
+    "title": "В Іспанії розслідують роботу Шарія на російські спецслужби та відмивання грошей – ЗМІ",
+    "summary": "В Іспанії триває масштабне розслідування щодо проросійського блогера Анатолія Шарія та його дружини Ольги Бондаренко. Правоохоронці підозрюють подружжя в отриманні грошей від російських спецслужб, а також у фінансових махінаціях.",
+    "url": "https://www.pravda.com.ua/news/2026/10/04/8056346/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-03T22:41:00+00:00",
+    "fetched": "2026-10-03T23:38:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/7/926504/b7b5ff79651a02d9f4552e01bee2d125.jpeg"
+  },
+  {
+    "id": "6bf2e2cab31eac0d",
+    "title": "Російські дрони атакували Київ: у Деснянському районі виникла пожежа",
+    "summary": "Унаслідок падіння уламків від дронів у Деснянському районі Києва сталася пожежа. Вночі двічі оголошували повітряну тривогу.",
+    "url": "https://www.pravda.com.ua/news/2026/10/04/8056347/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-03T22:40:00+00:00",
+    "fetched": "2026-10-03T23:38:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/926508/31944b270364a0554863135ec64917ac.jpeg"
+  },
+  {
+    "id": "caea2ab90013fd2c",
+    "title": "Big Balls Now Exposed to Serious Criminal Charges in at Least Six States",
+    "summary": "Article URL: https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305 Comments URL: https://news.ycombinator.com/item?id=49948438 Points: 46 # Comments: 0",
+    "url": "https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T22:35:14+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": null
+  },
+  {
+    "id": "3174caf4ebbac0d4",
+    "title": "У ЄС відреагували на погрози Росії європейським дипломатам в Києві",
+    "summary": "Речник Єврокомісії заявив: представництво Європейського Союзу залишається працювати у Києві, РФ не вплине на підтримку України.",
+    "url": "https://www.pravda.com.ua/news/2026/10/04/8056345/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-03T22:25:00+00:00",
+    "fetched": "2026-10-03T23:38:20+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/c/926503/5ca3a82235a8bdacd64d134c45d1767f.jpeg"
+  },
+  {
+    "id": "83913d49e914036c",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 44 # Comments: 12",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T22:18:13+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99"
+  },
+  {
+    "id": "7d68a08898b4a0bb",
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 134 # Comments: 69",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T22:07:13+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799"
+  },
+  {
+    "id": "9f9d203c463dbf0c",
+    "title": "Axios: США вислали двох іранських дипломатів, які відмовилися залишати країну після завершення Генасамблеї ООН",
+    "summary": "Держдеп вимагав, щоб Сполучені Штати покинула вся без винятків делегація з Тегерану.",
+    "url": "https://lb.ua/world/2026/10/03/771028_axios_ssha_vislali_dvoh_iranskih.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-03T20:55:00+00:00",
+    "fetched": "2026-10-03T23:38:20+00:00",
+    "image": "https://i.lb.ua/news/088/17/6ac16b200939d.jpg"
+  },
+  {
+    "id": "fba68aebf2d4d751",
+    "title": "Reasons I didn't become an EMT, ranked",
+    "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 46 # Comments: 14",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T20:49:15+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": "https://ben.stolovitz.com/_astro/og.CPXYubIv_2eq6wj.png"
+  },
+  {
     "id": "5c7942bf71354d48",
     "title": "Хусити заявили про удар по нафтовому об’єкту Aramco у столиці Саудівської Аравії",
     "summary": "Для удару начебто використали балістичні ракети та безпілотники.",
@@ -22,6 +118,18 @@
     "published": "2026-10-03T20:36:00+00:00",
     "fetched": "2026-10-03T20:49:57+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/9/8/98dcc99----.jpg"
+  },
+  {
+    "id": "9f8bb1200b2552c4",
+    "title": "Surely you have ultra-wideband radios on your bins too?",
+    "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 30 # Comments: 6",
+    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T20:27:44+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": null
   },
   {
     "id": "4a7863e939a1ab93",
@@ -96,6 +204,18 @@
     "image": "https://i.lb.ua/news/081/03/6ac15c37548e7.jpg"
   },
   {
+    "id": "8e9e87a9e35135f7",
+    "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+    "summary": "\"...we were making history.\"",
+    "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T19:45:17+00:00",
+    "fetched": "2026-10-03T23:38:20+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg"
+  },
+  {
     "id": "8001600ddf32a540",
     "title": "У Росії підірвали експрацівника колонії, якого Україна звинувачувала в катуваннях полонених",
     "summary": "У РФ внаслідок вибуху в Новомосковську загинув Роман Сиромятніков, підозрюваний Україною у катуваннях військовополонених.",
@@ -168,6 +288,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/9/926478/d96b86d76ff244251614496f9aa008d1.jpeg"
   },
   {
+    "id": "016ae4161352f283",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 57 # Comments: 3",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T19:14:48+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=timur"
+  },
+  {
     "id": "7d102ed4173686ce",
     "title": "Our AI Midwife",
     "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 23 # Comments: 1",
@@ -226,6 +358,18 @@
     "published": "2026-10-03T18:53:00+00:00",
     "fetched": "2026-10-03T20:49:57+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/b/8/b85ca31----.jpg"
+  },
+  {
+    "id": "b7accd4f6d9f6588",
+    "title": "How to hack time, with C2PA",
+    "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html Comments URL: https://news.ycombinator.com/item?id=49946707 Points: 9 # Comments: 1",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T18:52:06+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": null
   },
   {
     "id": "f7f8094eba3e94a5",
@@ -288,6 +432,18 @@
     "image": "https://img.eurointegration.com.ua/images/doc/7/0/701aca2---.jpg"
   },
   {
+    "id": "c6ffb2f15ccedb33",
+    "title": "What Meta got right with Muse",
+    "summary": "Article URL: https://metedata.substack.com/p/what-meta-got-right-with-muse Comments URL: https://news.ycombinator.com/item?id=49946526 Points: 22 # Comments: 22",
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T18:23:48+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": null
+  },
+  {
     "id": "cdaa11f9dc67fdf5",
     "title": "Associated Press: У ДР Конго випробовують препарат, який може запобігати зараженню Еболою",
     "summary": "До випробування препарату вже залучили 250 осіб.",
@@ -333,6 +489,18 @@
     "lang": "en",
     "published": "2026-10-03T18:06:45+00:00",
     "fetched": "2026-10-03T20:49:57+00:00",
+    "image": null
+  },
+  {
+    "id": "549bdd288f9a970c",
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 36 # Comments: 15",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T18:01:27+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
     "image": null
   },
   {
@@ -394,6 +562,18 @@
     "published": "2026-10-03T17:47:00+00:00",
     "fetched": "2026-10-03T20:49:58+00:00",
     "image": "https://i.lb.ua/news/124/30/6ac13f9cca22e.jpg"
+  },
+  {
+    "id": "260f481c2a62124d",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 53 # Comments: 31",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-03T17:44:29+00:00",
+    "fetched": "2026-10-03T23:38:24+00:00",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600"
   },
   {
     "id": "1468e1d61b16c970",
@@ -36910,221 +37090,5 @@
     "published": "2026-09-19T23:46:42+00:00",
     "fetched": "2026-09-20T01:28:41+00:00",
     "image": null
-  },
-  {
-    "id": "d20716fa94668316",
-    "title": "Cultural treasures are being destroyed by war, and people want justice",
-    "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-19T23:18:18+00:00",
-    "fetched": "2026-09-20T01:28:39+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg"
-  },
-  {
-    "id": "ee59d8e8519272ef",
-    "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-    "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
-    "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-19T23:18:06+00:00",
-    "fetched": "2026-09-20T01:28:39+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a670/live/ef18c930-b113-11f1-b1d1-571ed4d7ff2c.jpg"
-  },
-  {
-    "id": "2022e6eaa18f2d62",
-    "title": "Authenticity's Triumph",
-    "summary": "Article URL: https://blog.smalleycreative.com/authenticitys-triumph/ Comments URL: https://news.ycombinator.com/item?id=49770851 Points: 5 # Comments: 0",
-    "url": "https://blog.smalleycreative.com/authenticitys-triumph/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T23:02:54+00:00",
-    "fetched": "2026-09-20T01:28:41+00:00",
-    "image": "https://images.unsplash.com/photo-1604086509180-9f34ebb2e0f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fG1pY2hhZWwlMjBzYWludHxlbnwwfHx8fDE3ODcwMTI0MDJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-  },
-  {
-    "id": "0544fa4ad3f51ae3",
-    "title": "Can you tell which images are AI-generated?",
-    "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 38 # Comments: 36",
-    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T23:02:34+00:00",
-    "fetched": "2026-09-20T01:28:41+00:00",
-    "image": "https://slop-sense.labtoagi.com/art/reality-check/share-v1.png"
-  },
-  {
-    "id": "5f141d947133620d",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-    "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-19T23:01:57+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
-  },
-  {
-    "id": "bde67e703bb3c4e1",
-    "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-    "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-    "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-19T23:01:38+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg"
-  },
-  {
-    "id": "57cf7037f3a8c354",
-    "title": "An open source roguelike adventure through dungeons",
-    "summary": "Article URL: https://crawl.develz.org/ Comments URL: https://news.ycombinator.com/item?id=49770809 Points: 41 # Comments: 5",
-    "url": "https://crawl.develz.org/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T22:55:53+00:00",
-    "fetched": "2026-09-20T06:53:21+00:00",
-    "image": null
-  },
-  {
-    "id": "0b7840e7968b76b2",
-    "title": "У РФ поскаржились на масштабну атаку дронів на 12 регіонів",
-    "summary": "Російське Міноборони стверджує, що ППО перехопила 288 українських дронів у кількох регіонах РФ і над Кримом протягом 19 вересня.",
-    "url": "https://www.pravda.com.ua/news/2026/09/20/8054267/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-19T22:47:00+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/e/917933/ae351ced62ff124a49f08cb9ad9f49b3.jpeg"
-  },
-  {
-    "id": "27de0b31458b8ff6",
-    "title": "Росіяни пошкодили підприємство на Київщині – ОВА",
-    "summary": "У Фастівському районі Київської області внаслідок ворожої атаки пошкоджене підприємство, ДСНС ліквідовує наслідки.",
-    "url": "https://www.pravda.com.ua/news/2026/09/20/8054266/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-19T21:46:00+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/917926/2488c91c7a64febfb335054da36726ca.jpeg"
-  },
-  {
-    "id": "f3d914d24c4d6bac",
-    "title": "HellGates, custom CPU gate-level challenge",
-    "summary": "Article URL: https://blog.xutaxkamay.com/posts/hellgates/ Comments URL: https://news.ycombinator.com/item?id=49770369 Points: 12 # Comments: 2",
-    "url": "https://blog.xutaxkamay.com/posts/hellgates/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T21:44:07+00:00",
-    "fetched": "2026-09-20T01:28:41+00:00",
-    "image": null
-  },
-  {
-    "id": "b841170102510f44",
-    "title": "Mayday Mysteries",
-    "summary": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 16 # Comments: 3",
-    "url": "http://www.maydaymystery.org/mayday/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T21:43:09+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": null
-  },
-  {
-    "id": "29409ade45c7ea40",
-    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-    "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 46 # Comments: 16",
-    "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T21:30:59+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sY_z6mS-h8KhXahWNWg65221h6apuepKBZxB49_HAozWWZrNySt3FeiR2fH7WzxsY8jauXR2CznqWDCn44kwtwHkoY_bjhx_2uOjU=w1200-h630-p-k-no-nu"
-  },
-  {
-    "id": "8b4d5df952c031db",
-    "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-    "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 16 # Comments: 5",
-    "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-09-19T21:25:29+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": null
-  },
-  {
-    "id": "42259941720d375e",
-    "title": "У Києві та областях оголосили тривогу через загрозу балістики",
-    "summary": "У ніч на 20 вересня в Києві та частині регіонів оголосили повітряну тривогу через ракетну небезпеку. Влада рекомендувала укриття.",
-    "url": "https://www.pravda.com.ua/news/2026/09/20/8054265/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-19T21:17:00+00:00",
-    "fetched": "2026-09-19T21:21:40+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/917923/6580b0cb957324f3de6076ea3500b9e2.jpeg"
-  },
-  {
-    "id": "f2c909c5378c71cc",
-    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-    "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-    "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-09-19T21:01:56+00:00",
-    "fetched": "2026-09-19T23:24:09+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
-  },
-  {
-    "id": "1a4c6191e7637d69",
-    "title": "Головне за суботу, 19 вересня: майже 190 боєзіткнень, трагедія на Київщині, удар по ТЦ у Дніпрі, Москва під атакою дронів",
-    "summary": "Бойові дії на Донеччині, 188 бойових зіткнень, ворожі обстріли, удар FPV-дрона по автомобілю на Сумщині. Яким запам’ятається 1669-й день повномасштабної війни.",
-    "url": "https://lb.ua/society/2026/09/19/767430_golovne_subotu_19_veresnya.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-19T20:59:00+00:00",
-    "fetched": "2026-09-19T21:21:40+00:00",
-    "image": "https://i.lb.ua/news/056/42/6aaef8af97d62.jpg"
-  },
-  {
-    "id": "92de1116ac48e80c",
-    "title": "Зеленський зустрівся з молоддю країн Карпатського регіону: говорили про повернення українців та житло",
-    "summary": "У заході взяли участь близько 250 представників молоді з карпатських регіонів України, Румунії, Угорщини, Чехії, Словаччини, Польщі та Австрії.",
-    "url": "https://lb.ua/news/2026/09/19/767428_zelenskiy_zustrivsya_z_moloddyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-19T20:55:00+00:00",
-    "fetched": "2026-09-19T21:21:40+00:00",
-    "image": "https://i.lb.ua/news/043/41/6aaef42b088e6.jpg"
-  },
-  {
-    "id": "c4552e4a52729e5b",
-    "title": "У НАТО привітали угоду щодо Гренландії",
-    "summary": "",
-    "url": "https://www.pravda.com.ua/news/2026/09/19/8054264/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-09-19T20:54:00+00:00",
-    "fetched": "2026-09-19T21:21:40+00:00",
-    "image": "https://img.eurointegration.com.ua/images/doc/3/7/3711af5-213691-1-large.jpg"
   }
 ]
