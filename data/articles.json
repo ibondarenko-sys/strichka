@@ -1,5 +1,77 @@
 [
   {
+    "id": "5987fe721f681929",
+    "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+    "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+    "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-18T23:28:45+00:00",
+    "fetched": "2026-10-19T00:01:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"
+  },
+  {
+    "id": "9aad51dd922952d5",
+    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+    "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-18T23:20:15+00:00",
+    "fetched": "2026-10-19T00:01:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg"
+  },
+  {
+    "id": "455fc0cf212841bb",
+    "title": "Major fire at Canada military base leaves four dead, dozens injured",
+    "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+    "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-18T23:06:09+00:00",
+    "fetched": "2026-10-19T00:01:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg"
+  },
+  {
+    "id": "fc324896370a9343",
+    "title": "Bloomberg: У Кенії стався перший в історії спалах Еболи",
+    "summary": "В Кенії підтвердили перший спалах вірусу Ебола: семеро хворих, серед них троє медиків. Влада контролює контакти, нових випадків серед населення не виявлено.",
+    "url": "https://www.pravda.com.ua/news/2026/10/19/8058665/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-18T22:57:00+00:00",
+    "fetched": "2026-10-19T00:01:05+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/1/938681/b1e8bf28ca15cbe0133c53b0792843aa.jpeg"
+  },
+  {
+    "id": "121a363ca572b0ae",
+    "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+    "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+    "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-18T22:22:51+00:00",
+    "fetched": "2026-10-19T00:01:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/26c3d1c0-cb47-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
+    "id": "ccdc7bd1402248be",
+    "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+    "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the…",
+    "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-18T22:20:53+00:00",
+    "fetched": "2026-10-19T00:01:05+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "3a3633bcbd19333c",
     "title": "What we know so far about deadly fire at Canadian military base",
     "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
@@ -10,6 +82,18 @@
     "published": "2026-10-18T21:37:56+00:00",
     "fetched": "2026-10-18T21:43:23+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg"
+  },
+  {
+    "id": "6f2aca72a3fc4402",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.…",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-18T21:36:10+00:00",
+    "fetched": "2026-10-19T00:01:08+00:00",
+    "image": "https://opengraph.githubassets.com/22cb63aefd46013118df596ab35e0b8ce8d0b07306bf495b7d81c165e050409d/finereli/whatsapp-mcp"
   },
   {
     "id": "18736742d8ff6469",
@@ -1054,6 +1138,18 @@
     "published": "2026-10-18T12:14:00+00:00",
     "fetched": "2026-10-18T13:06:11+00:00",
     "image": "https://i.lb.ua/news/099/04/6ad4b3ccd3938.jpg"
+  },
+  {
+    "id": "160998fa7ad9ee66",
+    "title": "A new way to think about borrow checking (in reverse)",
+    "summary": "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 6 # Comments: 3",
+    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-18T12:11:13+00:00",
+    "fetched": "2026-10-19T00:01:08+00:00",
+    "image": null
   },
   {
     "id": "3651b71c2535da2a",
@@ -35266,77 +35362,5 @@
     "published": "2026-10-05T00:16:52+00:00",
     "fetched": "2026-10-05T01:11:48+00:00",
     "image": "https://i.guim.co.uk/img/media/bdf75dfb5568336e2636125099e557e661be6d2a/606_4_3887_3111/master/3887.jpg?width=140&quality=85&auto=format&fit=max&s=2680695056d6c71e63b24eadd183a941"
-  },
-  {
-    "id": "6e465300848cf1e4",
-    "title": "Axios: Білий дім стежить за ймовірним спалахом чуми в Росії",
-    "summary": "Як пише Axios, Білий дім стежить за повідомленнями про підозру на випадок чуми та пов'язані з цим карантинні заходи в Росії.",
-    "url": "https://www.pravda.com.ua/news/2026/10/05/8056471/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-04T23:54:00+00:00",
-    "fetched": "2026-10-05T01:11:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/8/927399/68899b693556e297372101451047a15b.jpeg"
-  },
-  {
-    "id": "146d41d6d2ab6a79",
-    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-    "summary": "Article URL: https://getartcraft.com/apps Comments URL: https://news.ycombinator.com/item?id=49958850 Points: 13 # Comments: 1",
-    "url": "https://getartcraft.com/apps",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-04T23:02:43+00:00",
-    "fetched": "2026-10-05T01:11:48+00:00",
-    "image": "https://getartcraft.com/images/apps/og.jpg"
-  },
-  {
-    "id": "2d8886a5e350b276",
-    "title": "США вивели свої бомбардувальники з британської авіабази через \"нову загрозу\" – CNN",
-    "summary": "Після загрози ймовірного теракту США вивели свої бомбардувальники з авіабази RAF Fairford.",
-    "url": "https://www.pravda.com.ua/news/2026/10/05/8056469/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-04T22:56:00+00:00",
-    "fetched": "2026-10-05T01:11:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/4/927390/74b5a480f3e0b9866e2ad23d34cf0561.jpeg"
-  },
-  {
-    "id": "6a28a00704c3b68e",
-    "title": "Росіяни атакували Харків \"Бандеролями\": загинула людина, 8 дістали поранень",
-    "summary": "В Індустріальному районі Харкова російська атака призвела до загибелі та поранень людей, пошкоджено адмінбудівлю й автівки. Триває ліквідація наслідків.",
-    "url": "https://www.pravda.com.ua/news/2026/10/05/8056465/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-04T22:30:00+00:00",
-    "fetched": "2026-10-05T01:11:47+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/b/927398/4b31b4cf7c3d29b9685fb078e9d725bb.jpeg"
-  },
-  {
-    "id": "c540ec3cafcf0441",
-    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-    "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 49 # Comments: 11",
-    "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-04T22:25:10+00:00",
-    "fetched": "2026-10-05T01:11:48+00:00",
-    "image": "https://d2pzklc15kok91.cloudfront.net/images/covers/en/blog/2026-http-over-ssh.922a043bebfeb0.jpg"
-  },
-  {
-    "id": "6196d3299927320c",
-    "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-    "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
-    "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-10-04T22:11:33+00:00",
-    "fetched": "2026-10-05T07:33:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9885/live/ea7b5090-bbb9-11f1-83f3-814f6e068d44.jpg"
   }
 ]
