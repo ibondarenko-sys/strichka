@@ -1,5 +1,125 @@
 [
   {
+    "id": "e59d4d5cb311b50c",
+    "title": "France is divided over who to blame for and what to learn from weekend riots",
+    "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+    "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-21T01:22:51+00:00",
+    "fetched": "2026-10-21T01:53:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg"
+  },
+  {
+    "id": "d359dc9fa02628fa",
+    "title": "Через вандалізм на протестах у деяких містах Франції ввели комендантську для неповнолітніх",
+    "summary": "У Франції після протестів школярів у Марселі, Ліоні, Бордо та інших містах запровадили комендантську годину для неповнолітніх у визначених районах.",
+    "url": "https://www.pravda.com.ua/news/2026/10/21/8059000/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-21T00:47:00+00:00",
+    "fetched": "2026-10-21T01:53:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/8/940181/e83f783f4b5c5e3a87bb27e911fba1de.jpeg"
+  },
+  {
+    "id": "4118fbdbf8ea06a4",
+    "title": "Призначенці Трампа вимагали від агентства з кібербезпеки таємно зламати машину для голосування – ЗМІ",
+    "summary": "Через кілька місяців після початку другого президентського терміну Дональда Трампа його призначенці в Міністерстві внутрішньої безпеки США вимагали від Агентства з кібербезпеки та захисту інфраструктури (CISA) таємно придбати та зламати машину для голосування. Отримані…",
+    "url": "https://www.pravda.com.ua/news/2026/10/21/8059001/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-21T00:41:00+00:00",
+    "fetched": "2026-10-21T01:53:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/d/940188/1d9291ef15f5ee80f427585c8b41288d.jpeg"
+  },
+  {
+    "id": "9a5acfce651c7675",
+    "title": "Ілон Маск хоче об'єднати Tesla i SpaceX в одну компанію",
+    "summary": "Найбагатша людина світу продовжує оптимізовувати власні бізнеси.",
+    "url": "https://lb.ua/economics/2026/10/21/774906_ilon_mask_hoche_obiednati_tesla.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-21T00:39:00+00:00",
+    "fetched": "2026-10-21T01:53:01+00:00",
+    "image": "https://i.lb.ua/news/030/34/6ad808cf884c4.jpg"
+  },
+  {
+    "id": "4031aa1963a507fa",
+    "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+    "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms…",
+    "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+    "source": "The Guardian World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-21T00:14:55+00:00",
+    "fetched": "2026-10-21T01:53:00+00:00",
+    "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=140&quality=85&auto=format&fit=max&s=16352e02a522e9bb6270cae4acc5a411"
+  },
+  {
+    "id": "2bd40a05aa360bef",
+    "title": "Microagi: Accelerating Embodied AGI",
+    "summary": "Article URL: https://www.microagi.ai/ Comments URL: https://news.ycombinator.com/item?id=50174448 Points: 8 # Comments: 6",
+    "url": "https://www.microagi.ai/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-21T00:11:30+00:00",
+    "fetched": "2026-10-21T01:53:06+00:00",
+    "image": "https://www.microagi.ai/og-image.jpg"
+  },
+  {
+    "id": "325360ba161d347e",
+    "title": "YouTube might be testing hiding the dislike button",
+    "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike…",
+    "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-21T00:00:56+00:00",
+    "fetched": "2026-10-21T01:53:00+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "c46d4f8f200304cd",
+    "title": "Марін Ле Пен завдяки протестам у Франції зміцнила свій рейтинг перед президентськими виборами",
+    "summary": "Лідерка ультраправих асоціюється у виборців з \"партією порядку\".",
+    "url": "https://lb.ua/world/2026/10/21/774904_marin_le_pen_zavdyaki_protestam.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-20T23:36:00+00:00",
+    "fetched": "2026-10-21T01:53:01+00:00",
+    "image": "https://i.lb.ua/news/078/20/6ad7fa9cb1dd1.jpg"
+  },
+  {
+    "id": "d75e585464045693",
+    "title": "Росіяни завдали ракетного удару по Харкову: знищені будинки та 9 постраждалих",
+    "summary": "Росія обстріляла Новобаварський район Харкова 20 жовтня – поранені 9 людей, серед них працівник комунального підприємства. Зруйновано приватні будинки.",
+    "url": "https://www.pravda.com.ua/news/2026/10/21/8058999/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-20T23:25:00+00:00",
+    "fetched": "2026-10-21T01:53:01+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/d/940189/bd3f0b1ae643662f0d85e9588adc5cc5.jpeg"
+  },
+  {
+    "id": "b17a25d8c48aa5ae",
+    "title": "Elon Musk says Tesla-SpaceX merger being considered",
+    "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+    "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-20T23:24:47+00:00",
+    "fetched": "2026-10-21T01:53:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"
+  },
+  {
     "id": "6559d9cb2b558fef",
     "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
     "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann…",
@@ -36,6 +156,18 @@
     "image": "https://i.lb.ua/news/094/39/6ad7ef43650e9.jpg"
   },
   {
+    "id": "0697267ac47ee02d",
+    "title": "Трамп оприлюднив суму коштів, які вклав у передвиборчу кампанію республіканців на проміжних виборах",
+    "summary": "Президент відчайдушно сподівається на утримання більшості в Сенаті і Палаті представників.",
+    "url": "https://lb.ua/world/2026/10/21/774902_tramp_oprilyudniv_sumu_koshtiv.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-20T22:47:00+00:00",
+    "fetched": "2026-10-21T01:53:01+00:00",
+    "image": "https://i.lb.ua/news/094/39/6ad7ef43650e9.jpg"
+  },
+  {
     "id": "90f9e832663f0090",
     "title": "Росія накопичила до 700 балістичних та кілька тисяч крилатих ракет різних типів – дані ГУР",
     "summary": "Станом на жовтень Росія накопичила до 700 балістичних ракет, кілька тисяч крилатих ракет різних типів, а також понад 6 тисяч ударних безпілотників для ударів по Україні.",
@@ -58,6 +190,18 @@
     "published": "2026-10-20T22:25:00+00:00",
     "fetched": "2026-10-20T23:18:08+00:00",
     "image": "https://i.lb.ua/news/026/05/6ad7ea09279db.jpg"
+  },
+  {
+    "id": "d6c1ee15c90dadc5",
+    "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+    "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+    "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-20T22:22:17+00:00",
+    "fetched": "2026-10-21T01:53:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/10727dd0-cce2-11f1-b759-47986a462148.jpg"
   },
   {
     "id": "5f2037864b2f69b1",
@@ -384,6 +528,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "428d542adc4907b5",
+    "title": "Upcoming Critical PHP Security Release",
+    "summary": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 45 # Comments: 3",
+    "url": "https://news-web.php.net/php.announce/509",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-20T20:15:50+00:00",
+    "fetched": "2026-10-21T01:53:06+00:00",
+    "image": null
+  },
+  {
     "id": "165cb15531466377",
     "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
     "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
@@ -598,6 +754,18 @@
     "published": "2026-10-20T19:09:35+00:00",
     "fetched": "2026-10-20T20:20:13+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dji-osmo-pocket-3-roundup.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "3df9188a5e81d730",
+    "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+    "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+    "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-20T19:08:06+00:00",
+    "fetched": "2026-10-21T01:53:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b22d/live/08cf8f60-c8cc-11f1-95b2-9f12d414946d.jpg"
   },
   {
     "id": "9331956977446ac9",
@@ -1006,6 +1174,18 @@
     "published": "2026-10-20T17:25:00+00:00",
     "fetched": "2026-10-20T20:20:13+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/1/940072/21502148d2d0ca63dfe98cc1d72015b1.jpeg"
+  },
+  {
+    "id": "a082e99045b7cf8a",
+    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+    "summary": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 25 # Comments: 0",
+    "url": "https://research.poh.org/bot-benchmarking-2026/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-20T17:10:31+00:00",
+    "fetched": "2026-10-21T01:53:06+00:00",
+    "image": "https://research.poh.org/images/heatmap.png"
   },
   {
     "id": "4392e697e660b0d7",
@@ -35770,149 +35950,5 @@
     "published": "2026-10-07T02:02:11+00:00",
     "fetched": "2026-10-07T07:37:26+00:00",
     "image": "https://strandsagents.com/blog/og/introducing-strands-decider.png"
-  },
-  {
-    "id": "7abe34959799f134",
-    "title": "ESP32-C3 Adblock",
-    "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock Comments URL: https://news.ycombinator.com/item?id=49986862 Points: 66 # Comments: 21",
-    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-07T01:39:21+00:00",
-    "fetched": "2026-10-07T07:37:26+00:00",
-    "image": "https://opengraph.githubassets.com/104a42e40ec9c40be7bd4430763f21b6fe989b5491386b8973bec0ce4d975ead/M-Abozaid/esp32-c3-adblock"
-  },
-  {
-    "id": "8256e8cc31f407ab",
-    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-    "summary": "Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis Comments URL: https://news.ycombinator.com/item?id=49986765 Points: 27 # Comments: 8",
-    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-07T01:27:49+00:00",
-    "fetched": "2026-10-07T07:37:26+00:00",
-    "image": "https://www.sregym.com/blog/jev-driven-sre-diagnosis/share-image"
-  },
-  {
-    "id": "d30f828d1c596384",
-    "title": "Повітряні сили попередили про зліт 9 стратегічний бомбардувальників в Росії",
-    "summary": "У ніч на 7 жовтня Повітряні сили ЗСУ попередили українців про зліт девʼяти носіїв крилатих ракет з аеродромів в РФ.",
-    "url": "https://www.pravda.com.ua/news/2026/10/07/8056793/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-07T00:57:00+00:00",
-    "fetched": "2026-10-07T01:18:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/928939/61eeea1a0918c6d2cd342d6692dbf910.jpeg"
-  },
-  {
-    "id": "3e8d94fb86aaac43",
-    "title": "Удар балістикою по Києву: є влучання в Оболонському та Подільському районах – Кличко",
-    "summary": "У ніч проти середи внаслідок російської атаки балістичними ракетами у Києві зафіксували влучання в Оболонському та Подільському районах.",
-    "url": "https://www.pravda.com.ua/news/2026/10/07/8056800/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-07T00:42:00+00:00",
-    "fetched": "2026-10-07T01:18:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/6/928971/f69c130c6ad3b265a6ed520c2e91bba9.jpeg"
-  },
-  {
-    "id": "f9aa77018a0a3244",
-    "title": "Росія завдає ракетних ударів по Києву, Дніпру та інших містах",
-    "summary": "Про запуск балистики попередили військові.",
-    "url": "https://lb.ua/society/2026/10/07/771656_rosiya_zavdaie_raketnih_udariv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-07T00:19:00+00:00",
-    "fetched": "2026-10-07T01:18:13+00:00",
-    "image": "https://i.lb.ua/news/001/14/6ac5906d5a4ee.jpg"
-  },
-  {
-    "id": "326475d14b294d2f",
-    "title": "Росія атакує балістикою: у Києві та Дніпрі пролунали вибухи",
-    "summary": "У ніч на середу в столиці та більшості областей України оголосили повітряну тривогу через загрозу ударів балістичним озброєнням. У Києві та Дніпрі пролунали вибухи.",
-    "url": "https://www.pravda.com.ua/news/2026/10/07/8056799/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-07T00:13:00+00:00",
-    "fetched": "2026-10-07T01:18:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/d/928968/edd592a23eab62ff2910fba472af3542.jpeg"
-  },
-  {
-    "id": "d4d79fc4655e6583",
-    "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261005011249.htm Comments URL: https://news.ycombinator.com/item?id=49985905 Points: 28 # Comments: 6",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-06T23:54:35+00:00",
-    "fetched": "2026-10-07T01:18:16+00:00",
-    "image": "https://www.sciencedaily.com/images/1920/knee-joint-arthritis-cartilage-injury.webp"
-  },
-  {
-    "id": "088d385baf40256e",
-    "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-    "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 18 # Comments: 2",
-    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-06T23:50:33+00:00",
-    "fetched": "2026-10-07T01:18:16+00:00",
-    "image": null
-  },
-  {
-    "id": "4e21b25c3f63df86",
-    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-    "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 49 # Comments: 11",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-06T23:28:08+00:00",
-    "fetched": "2026-10-07T01:18:16+00:00",
-    "image": "https://opengraph.githubassets.com/c8493dc249c0897dee834870eb435dd6dd794410799fdd0c6d5b928a6b21de9d/boykopovar/AnyPS5"
-  },
-  {
-    "id": "e4feb1bf5e6900f4",
-    "title": "OpenAI drops another batch of mathematical breakthroughs",
-    "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-    "source": "The Verge",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-06T23:26:38+00:00",
-    "fetched": "2026-10-07T01:18:13+00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "2a7ffc6670146ec9",
-    "title": "State of Devs 2026 survey results: developers are exhausted",
-    "summary": "Article URL: https://2026.stateofdevs.com/en-US/ Comments URL: https://news.ycombinator.com/item?id=49985643 Points: 35 # Comments: 12",
-    "url": "https://2026.stateofdevs.com/en-US/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-06T23:26:30+00:00",
-    "fetched": "2026-10-07T01:18:16+00:00",
-    "image": "https://assets.devographics.com/surveys/devs2026-og.png"
-  },
-  {
-    "id": "3a64d63f82a6d8aa",
-    "title": "Китайський ШІ-агент допоміг хакерам зламати сім найбільших банків Південної Кореї",
-    "summary": "Хакери використали китайського агента штучного інтелекту для атаки на найбільші банки Південної Кореї та викрадення особистих даних 68 тисяч осіб.",
-    "url": "https://www.pravda.com.ua/news/2026/10/07/8056798/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-06T23:25:00+00:00",
-    "fetched": "2026-10-07T01:18:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/928959/401212a2dedf9603af6c4784ef3dc105.jpeg"
   }
 ]
