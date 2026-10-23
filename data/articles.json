@@ -1,5 +1,161 @@
 [
   {
+    "id": "1a268b9aee2d051f",
+    "title": "Росіяни обстріляли Суми безпілотниками, є постраждалі",
+    "summary": "Влада повідомила про наслідки влучань у трьох частинах міста.",
+    "url": "https://lb.ua/society/2026/10/23/775474_rosiyani_obstrilyali_sumi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-23T01:32:00+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://i.lb.ua/news/063/46/6adab90570b47.jpg"
+  },
+  {
+    "id": "c2b74778fff1ee2a",
+    "title": "АР: В адміністрації Трампа – суперечливі сигнали про обмеження доступу України до Starshield",
+    "summary": "ЗМІ пишуть, що в адміністрації Трампа суперечливі сигнали про обмеження доступу України до Starshield.",
+    "url": "https://www.pravda.com.ua/news/2026/10/23/8059323/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-23T01:16:00+00:00",
+    "fetched": "2026-10-23T01:47:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/9/941694/49b8012cfe4fe4b981b0549435374d8d.jpeg"
+  },
+  {
+    "id": "562092bac9df7bfb",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 13 # Comments: 9",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-23T00:52:01+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": null
+  },
+  {
+    "id": "563e55062711a105",
+    "title": "В японському аеропорту сталося займання українського літака \"Руслан\"",
+    "summary": "Пожежа розпочалась під час приземлення вантажного борту.",
+    "url": "https://lb.ua/world/2026/10/23/775472_yaponskomu_aeroportu_stalosya.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-23T00:40:00+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://i.lb.ua/news/000/49/6adaaedad3c34.jpg"
+  },
+  {
+    "id": "d00a3da78bc17117",
+    "title": "Росіяни масовано атакували Суми безпілотниками – ОВА",
+    "summary": "Про атаку дронів на Суми повідомили в ОВА в ніч на 23 жовтня.",
+    "url": "https://www.pravda.com.ua/news/2026/10/23/8059322/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-23T00:20:00+00:00",
+    "fetched": "2026-10-23T01:47:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/e/941685/be73f2629e8ac5d9ba8b2b4d27b47178.jpeg"
+  },
+  {
+    "id": "515bea56e5248894",
+    "title": "Etsy is cracking down on AI slop listings",
+    "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your…",
+    "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-23T00:09:58+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0,0,100,82.725656291205"
+  },
+  {
+    "id": "0c26a365ab6387b3",
+    "title": "В японському аеропорту загорівся український літак \"Руслан\"",
+    "summary": "У японському аеропорту Chubu Centrair сталося займання українського транспортного літака Ан-124-100 \"Руслан\" авіакомпанії \"Авіалінії Антонова\".",
+    "url": "https://www.pravda.com.ua/news/2026/10/23/8059320/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-22T23:58:00+00:00",
+    "fetched": "2026-10-23T01:47:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/941681/f7403efa569ffa518837197f8d0e32a6.jpeg"
+  },
+  {
+    "id": "389171cce7205c60",
+    "title": "Mapping the Northern Sky",
+    "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ Comments URL: https://news.ycombinator.com/item?id=50202766 Points: 13 # Comments: 4",
+    "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T23:56:39+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://www.maps.com/app/uploads/2025/08/article-stars-northern-sky-featured.webp"
+  },
+  {
+    "id": "46a214f271418363",
+    "title": "Docker is weird",
+    "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 106 # Comments: 36",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T23:45:56+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": null
+  },
+  {
+    "id": "cf9afdb4ee3d0477",
+    "title": "AI compute is the new oil–and needs a new market",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 15 # Comments: 7",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T23:45:16+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": null
+  },
+  {
+    "id": "4cbd3cbd5237625e",
+    "title": "Президент Бразилії вимагає заборонити опоненту участь у виборах через нібито втручання компанії Meta",
+    "summary": "Лула да Сілва скаржиться на нерівні умови просування контенту кандидатів у соцмережах.",
+    "url": "https://lb.ua/world/2026/10/23/775470_prezident_braziliyi_vimagaie.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-22T23:31:00+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://i.lb.ua/news/092/20/6ada9cdb188af.jpg"
+  },
+  {
+    "id": "b439a367b31f39a7",
+    "title": "Розрахунки Трампа на проміжні вибори у США вносять плутанину в політику щодо України – Reuters",
+    "summary": "Reuters пояснює, як проміжні вибори у США внесли плутанину в політику Трампа щодо України.",
+    "url": "https://www.pravda.com.ua/news/2026/10/23/8059319/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-22T23:22:00+00:00",
+    "fetched": "2026-10-23T01:47:44+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/941680/793f02670c14b1f1b1eed1df34446a5c.jpeg"
+  },
+  {
+    "id": "550a37e4dbfbfb65",
+    "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+    "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+    "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-22T23:16:16+00:00",
+    "fetched": "2026-10-23T01:47:44+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
     "id": "660b474c48dc071c",
     "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
     "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in…",
@@ -24,6 +180,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
+    "id": "1360bd8eb5a8e67e",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 104 # Comments: 52",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T22:54:43+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg"
+  },
+  {
     "id": "80bd659814a98dc2",
     "title": "Трамп переконує, що Ілон Маск повністю відновив роботу Starlink в Україні",
     "summary": "Республіканець відмовився пояснити, чи сталося це після його особистого прохання.",
@@ -34,6 +202,30 @@
     "published": "2026-10-22T22:46:00+00:00",
     "fetched": "2026-10-22T23:14:02+00:00",
     "image": "https://i.lb.ua/news/058/24/6ada91cf3da2f.jpg"
+  },
+  {
+    "id": "84738a388b9c1d27",
+    "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+    "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+    "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-10-22T22:27:53+00:00",
+    "fetched": "2026-10-23T01:47:44+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg"
+  },
+  {
+    "id": "47234b822080ed07",
+    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+    "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+    "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T22:25:33+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png"
   },
   {
     "id": "5d6c7c0acd4e3d7a",
@@ -58,6 +250,18 @@
     "published": "2026-10-22T22:15:00+00:00",
     "fetched": "2026-10-22T23:14:02+00:00",
     "image": "https://i.lb.ua/news/067/35/6ada8b65b8e21.jpg"
+  },
+  {
+    "id": "9423c8063b2efc30",
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T22:12:19+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg"
   },
   {
     "id": "3d6db0a39276ebe9",
@@ -94,6 +298,18 @@
     "published": "2026-10-22T21:53:28+00:00",
     "fetched": "2026-10-22T23:14:02+00:00",
     "image": "https://i.guim.co.uk/img/media/6b5476a019b20a202cbcac4ee1f83d662c43506f/426_0_4263_3410/master/4263.jpg?width=140&quality=85&auto=format&fit=max&s=39d1c2cb95b7eec161a46728da12a5a0"
+  },
+  {
+    "id": "724bb9eec32d8ed7",
+    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T21:52:31+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg"
   },
   {
     "id": "1437b0ebe886b61e",
@@ -202,6 +418,18 @@
     "published": "2026-10-22T21:11:00+00:00",
     "fetched": "2026-10-22T23:14:02+00:00",
     "image": "https://i.lb.ua/news/098/56/6ada7c23a62fb.jpg"
+  },
+  {
+    "id": "c7b5a9ccdc95aa92",
+    "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+    "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-22T21:07:09+00:00",
+    "fetched": "2026-10-23T01:47:45+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg"
   },
   {
     "id": "2bb705604de9e0b6",
@@ -36742,65 +36970,5 @@
     "published": "2026-10-09T02:02:53+00:00",
     "fetched": "2026-10-09T07:52:33+00:00",
     "image": null
-  },
-  {
-    "id": "bc645e50c62e4932",
-    "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-    "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 8 # Comments: 1",
-    "url": "https://github.com/edrisranjbar/lifeos",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-09T00:02:19+00:00",
-    "fetched": "2026-10-09T01:04:23+00:00",
-    "image": "https://opengraph.githubassets.com/6a73804d0438308fb6a1b909340cf463e3e61d49c440a9b27e8a3546b1ad8acd/edrisranjbar/lifeos"
-  },
-  {
-    "id": "13bb9e9a2afd6f8d",
-    "title": "\"Ставляться як до зайвих людей\": Понад 50% ветеранів заявили, що держава не захищає їхні права – Лубінець",
-    "summary": "Уповноважений Верховної Ради України з прав людини Дмитро Лубінець повідомив, що наразі в країні налічується понад 2 мільйони ветеранів, і більше половини з них відчувають повну відсутність захисту своїх прав з боку держави.",
-    "url": "https://www.pravda.com.ua/news/2026/10/09/8057146/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-08T23:46:00+00:00",
-    "fetched": "2026-10-09T01:04:20+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/930461/602ee08be935aa652a4dd38a8e65419e.jpeg"
-  },
-  {
-    "id": "7343e10e8dea17e0",
-    "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-    "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
-    "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-10-08T23:35:57+00:00",
-    "fetched": "2026-10-09T01:04:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg"
-  },
-  {
-    "id": "a9e1b223ddb82b8e",
-    "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-    "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 14 # Comments: 0",
-    "url": "https://svg-spark.vercel.app/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-08T23:32:49+00:00",
-    "fetched": "2026-10-09T01:04:23+00:00",
-    "image": null
-  },
-  {
-    "id": "945f139596d0e67d",
-    "title": "OpenAI, the Partition Principle, and Mathematics",
-    "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 57 # Comments: 51",
-    "url": "https://karagila.org/2026/openai-pp/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-08T23:29:43+00:00",
-    "fetched": "2026-10-09T01:04:23+00:00",
-    "image": "https://karagila.org/og-image.jpg"
   }
 ]
