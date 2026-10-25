@@ -1,5 +1,53 @@
 [
   {
+    "id": "d48dcb16ad4238e2",
+    "title": "Трамп заявив, що США після війни вестимуть бізнес як з Україною, так і з РФ",
+    "summary": "Президент США Дональд Трамп заявив про намір вести співпрацю з Києвом і Москвою після завершення війни між Україною та Росією.",
+    "url": "https://www.pravda.com.ua/news/2026/10/25/8059589/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-10-24T23:49:00+00:00",
+    "fetched": "2026-10-25T00:27:40+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/943244/f87a6124004a637de81c9a88a310b599.jpeg"
+  },
+  {
+    "id": "ceb7d26d07b0df04",
+    "title": "Why Gopher in 2026?",
+    "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 7 # Comments: 2",
+    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T23:33:19+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": null
+  },
+  {
+    "id": "1822337bc94831f7",
+    "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+    "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 19 # Comments: 3",
+    "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T23:14:30+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/nest.jpeg?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "8f5707e9a13cb370",
+    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 45 # Comments: 17",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T23:11:54+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png"
+  },
+  {
     "id": "f39e1cc97c185e2f",
     "title": "У Зеленського відповіли на заяву Маска про порушення використання Starlink",
     "summary": "Обмеження Starlink ускладнюють використання для ударів і дронів на території України, заявив радник президента з оборонних технологій.",
@@ -12,6 +60,30 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/7/943238/67cd915b7bd95ceb6940d9c55f06501a.jpeg"
   },
   {
+    "id": "d11d7fb22ad2616e",
+    "title": "Argus – a free, open-source agentic security operations platform – MIT",
+    "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 23 # Comments: 7",
+    "url": "https://thomasunise.com/argus",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T21:54:16+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": "https://thomasunise.com/og-image.png"
+  },
+  {
+    "id": "90bf1782f39070ef",
+    "title": "We should be more ambitious with the software we build",
+    "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 101 # Comments: 60",
+    "url": "https://danluu.com/ambitious/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T21:47:31+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": null
+  },
+  {
     "id": "9261f851b0c0cbbe",
     "title": "Росіяни атакували Харків: загинула людина, є поранені",
     "summary": "Внаслідок удару ворожого безпілотника по Новобаварському району Харкова загинула людина, ще четверо отримали поранення. Деталі повідомив Ігор Терехов.",
@@ -22,6 +94,30 @@
     "published": "2026-10-24T21:47:00+00:00",
     "fetched": "2026-10-24T22:19:18+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/b/943229/5ba59d988ecaf482c3c58ea67fbd3fc8.jpeg"
+  },
+  {
+    "id": "391734dd2e4ccd06",
+    "title": "Small Programs and Languages",
+    "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 18 # Comments: 0",
+    "url": "https://ratfactor.com/cards/pl-small",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T21:44:23+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": null
+  },
+  {
+    "id": "e04ac878b49d46d8",
+    "title": "The Importance of Limitations for Creativity and Learning",
+    "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 12 # Comments: 3",
+    "url": "https://ratfactor.com/cards/limitations",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T21:42:47+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": null
   },
   {
     "id": "0509c80e85fbace7",
@@ -394,6 +490,18 @@
     "published": "2026-10-24T18:23:00+00:00",
     "fetched": "2026-10-24T19:41:20+00:00",
     "image": "https://i.lb.ua/news/098/29/6adcf8211368b.jpg"
+  },
+  {
+    "id": "8bd8a28394647251",
+    "title": "Bbtree: Fastest Ordered Map",
+    "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 37 # Comments: 2",
+    "url": "https://bbtree.xiangpeng.systems/post/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-10-24T18:22:14+00:00",
+    "fetched": "2026-10-25T00:27:41+00:00",
+    "image": null
   },
   {
     "id": "19ae0ac8ef3c2960",
@@ -37282,53 +37390,5 @@
     "published": "2026-10-11T00:45:49+00:00",
     "fetched": "2026-10-11T06:15:12+00:00",
     "image": "https://opengraph.githubassets.com/b63fde6ac19c4f3c52c86becaf4d40c179eefef54fd828c69aef23b08b9bd2d8/othermod/PSPi-Version-6"
-  },
-  {
-    "id": "0769942dc92a33c7",
-    "title": "Борис Джонсон назвав \"огидним\" рішення про постачання російського дизпалива у США",
-    "summary": "Борис Джонсон розкритикував рішення щодо постачання російського дизелю в США.",
-    "url": "https://www.pravda.com.ua/news/2026/10/11/8057413/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-11T00:24:00+00:00",
-    "fetched": "2026-10-11T06:15:08+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/6/932122/568d9b5d38a2c58d9d83dd39e5f4f3d4.jpeg"
-  },
-  {
-    "id": "bdff464dfd759353",
-    "title": "АР: Внаслідок атаки хуситів на аеропорт Саудівської Аравії 12 загиблих, понад 300 поранених",
-    "summary": "Через атаку єменських хуситиів в аеропорту Саудівської Аравії 12 загиблих, сотні поранених.",
-    "url": "https://www.pravda.com.ua/news/2026/10/11/8057412/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-10T23:40:00+00:00",
-    "fetched": "2026-10-11T00:22:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/d/932121/fda59957ebeaaa7339b57d8efeea0ef6.jpeg"
-  },
-  {
-    "id": "c090cc9941ccb5a0",
-    "title": "ВООЗ не змогла встановити причин смерті працівниці протичумного центру в Росії",
-    "summary": "У суботу Всесвітня організація охорони здоров'я заявила, що досі не знає, що саме спричинило пневмонію, від якої цього місяця померла російська працівниця лабораторії в науково-дослідному центрі з боротьби з чумою в Сибіру, і що жодного випадку чуми зареєсовано не було.",
-    "url": "https://www.pravda.com.ua/news/2026/10/11/8057411/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-10T22:58:00+00:00",
-    "fetched": "2026-10-11T00:22:31+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/2/932120/22825981ea1a4092b9b85fa831f354d5.jpeg"
-  },
-  {
-    "id": "abaf3a9de5043d89",
-    "title": "Build your own decision model",
-    "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 55 # Comments: 5",
-    "url": "https://nishtahir.com/build-your-own-decision-model/",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-10T22:50:10+00:00",
-    "fetched": "2026-10-11T00:22:34+00:00",
-    "image": null
   }
 ]
