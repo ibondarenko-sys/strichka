@@ -1,5 +1,269 @@
 [
   {
+    "id": "9a43c86cef7e23a5",
+    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+    "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+    "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-11-11T02:47:59+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png"
+  },
+  {
+    "id": "cf9e386be514c589",
+    "title": "У частині Латвії оголосили повітряну тривогу",
+    "summary": "У ніч на середу, 11 листопада, в частині Латвії оголосили повітряну тривогу через можливу загрозу в повітряному просторі.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062248/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T02:34:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/8/954541/88d598d85f06d903318d8146ab2448de.jpeg"
+  },
+  {
+    "id": "8526b86f26c08b72",
+    "title": "A great old-timey game-programming hack (2013)",
+    "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 24 # Comments: 3",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-11T01:56:31+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": null
+  },
+  {
+    "id": "8ae5632b38f6f6b3",
+    "title": "Сибіга вказав, які нагальні потреби України обговорив із главами МЗС G7",
+    "summary": "Сибіга повідомив, які нагальні потреби для України обговорював з міністрами G7 у Парижі.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062247/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T01:54:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/954540/dfc3095662880eda0667174464523d2a.jpeg"
+  },
+  {
+    "id": "607117d2a0dc37b0",
+    "title": "Республіканці обрали нового лідера в Конгресі після провалу на проміжних виборах",
+    "summary": "Очолювати \"червоних\" у Палаті представників буде людина з MAGA-руху.",
+    "url": "https://lb.ua/world/2026/11/11/780098_respublikantsi_obrali_novogo.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T01:30:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://i.lb.ua/news/035/09/6af3c76717152.jpg"
+  },
+  {
+    "id": "4d815b0c3d73dbe2",
+    "title": "Росіяни завдали по Харкову подвійного ракетного удару – мер",
+    "summary": "У ніч на середу, 11 листопада, російська окупаційна армія завдала подвійного ракетного удару по Харкову.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062246/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T01:26:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/a/954539/4aa5b0eac807b079727fd9a987c335fb.jpeg"
+  },
+  {
+    "id": "fb5573ea532cc266",
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+    "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-11-11T01:14:40+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "45d5c49f84dac88b",
+    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+    "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-11-11T01:01:20+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "id": "8c145d09c9d54930",
+    "title": "Трамп прокоментував невдалу спробу імпічменту Гегсета і закликав \"зупинити\" демократів",
+    "summary": "У коментарі щодо спроби імпічменту Гегсета Трамп закликав \"зупинити\" демократів.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062245/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T00:50:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/1/954536/f1b629d20e1429ea0d9e54711ceaf334.jpeg"
+  },
+  {
+    "id": "c0a7d49575128b5d",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "summary": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 13 # Comments: 1",
+    "url": "https://tis-100.wincon.dev/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-11T00:37:05+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1"
+  },
+  {
+    "id": "d88cdd6507c1a89f",
+    "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+    "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside…",
+    "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+    "source": "The Verge",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-11T00:34:24+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "d6df6a474e46d7fa",
+    "title": "Батька Меган Маркл повторно заарештували у США",
+    "summary": "Чоловік зняв з ноги електронний браслет.",
+    "url": "https://lb.ua/world/2026/11/11/780096_batka_megan_markl_povtorno.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T00:33:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://i.lb.ua/news/084/22/6af3b7b8b5ac7.jpg"
+  },
+  {
+    "id": "7afea9ada6ddd32c",
+    "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+    "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+    "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-11-11T00:18:07+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "id": "fb37beec1ffadc27",
+    "title": "Зеленський обговорив із прем’єрами країн Північної Європи підтримку України",
+    "summary": "Президент Володимир Зеленський обговорив із прем'єр-міністрами країн Північної Європи дипломатичний процес і підтримку України на тлі російської ескалації.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062244/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-11T00:18:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/a/954535/3a16d061858ee01e63683deea7e604f2.jpeg"
+  },
+  {
+    "id": "5a85cb8e7dc77d34",
+    "title": "AI is an information gateway. Audiences still don't want it making their news",
+    "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 14 # Comments: 1",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-11T00:15:33+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://www.niemanlab.org/images/MarcinWilkowski-DatifiedRelations-better-images-of-ai.jpg"
+  },
+  {
+    "id": "c6019f9aae8b76eb",
+    "title": "Імпічмент для Піта Геґсета провалився у Конгресі США",
+    "summary": "Міністр війни залишиться на своїй посаді.",
+    "url": "https://lb.ua/world/2026/11/11/780094_impichment_pita_geghseta.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-10T23:49:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://i.lb.ua/news/109/14/6af3a9ed2e383.jpg"
+  },
+  {
+    "id": "671cfe359b0712ee",
+    "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+    "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 23 # Comments: 5",
+    "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T23:41:41+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://opengraph.githubassets.com/15a9c4f9bad89d6e21baae0ba2c3d7b40779064a6f0ae93e063f78ad2a095f76/enjoy-digital/litedram"
+  },
+  {
+    "id": "51c33ac2c70600f5",
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T23:30:56+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg"
+  },
+  {
+    "id": "4cc91cb20ceecad4",
+    "title": "У трьох регіонах Латвії оголошували повітряну тривогу",
+    "summary": "Громадян попередили про другий, \"помаранчевий\" рівень загрози.",
+    "url": "https://lb.ua/society/2026/11/11/780092_troh_regionah_latviyi.html",
+    "source": "LB.ua",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-10T23:17:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://i.lb.ua/news/113/32/6af3a4fb6e433.jpg"
+  },
+  {
+    "id": "18bc2dcd3e351da0",
+    "title": "Палата представників США заблокувала спробу імпічмент міністру оборони Гегсету",
+    "summary": "У США Палата представників не оголосила Гегсету імпічмент.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062240/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-10T23:12:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/5/954533/95ba36e04f0153f00b8f3ab64d5dcbfd.jpeg"
+  },
+  {
+    "id": "eae5970b07524ba1",
+    "title": "The US military seems to be getting nervous about the launch supply crunch",
+    "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T23:02:39+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg"
+  },
+  {
+    "id": "7d4f9cd6d3b7c1e1",
+    "title": "Дрони уразили стратегічний для ВПК Росії порт у Ленінградській області – пабліки",
+    "summary": "Ленінградська область Росії зазнала масованої атаки безпілотників.",
+    "url": "https://www.pravda.com.ua/news/2026/11/11/8062242/",
+    "source": "Українська правда",
+    "category": "ukraine",
+    "lang": "uk",
+    "published": "2026-11-10T22:58:00+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/954538/f83bd43a6f61fa778708a7bfca8ad0f0.jpeg"
+  },
+  {
     "id": "d68f526af6ae195e",
     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
     "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
@@ -36,6 +300,18 @@
     "image": "https://i.lb.ua/news/044/56/6af39cc611bae.jpg"
   },
   {
+    "id": "cd1dc6d6e6bd42c3",
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+    "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "source": "Ars Technica",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T22:35:01+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg"
+  },
+  {
     "id": "294219047fac0076",
     "title": "В Абу-Дабі обговорили можливий обмін полоненими у форматі \"1000 на 1000\" або \"1500 на 1500\" (доповнено)",
     "summary": "З відповідними напрацюваннями американці поїдуть в Росію.",
@@ -60,6 +336,18 @@
     "image": "https://i.lb.ua/news/082/51/6af399f219410.jpg"
   },
   {
+    "id": "ae3c6c28ceab44c4",
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 286 # Comments: 120",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T22:17:56+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png"
+  },
+  {
     "id": "c8155dccf0da6a44",
     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
     "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
@@ -70,6 +358,18 @@
     "published": "2026-11-10T22:17:45+00:00",
     "fetched": "2026-11-10T23:01:21+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+  },
+  {
+    "id": "369640935efcece9",
+    "title": "$30M Raised to Redo the CPU",
+    "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 38 # Comments: 27",
+    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T22:14:03+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": null
   },
   {
     "id": "0a1d7ee418d2e1fe",
@@ -240,6 +540,30 @@
     "image": "https://i.lb.ua/news/011/12/6af385d3cbd60.jpg"
   },
   {
+    "id": "c7d653343bd193a3",
+    "title": "Six Math Essentials by Terence Tao",
+    "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 144 # Comments: 26",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T20:58:44+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": null
+  },
+  {
+    "id": "36a31799a5ab460a",
+    "title": "Sherman Anti-Trust Act (1890)",
+    "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 75 # Comments: 45",
+    "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T20:56:16+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-og.png"
+  },
+  {
     "id": "89584a7f0f4d2ca8",
     "title": "Spain's king and queen attend memorial service for rail crash victims",
     "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
@@ -286,6 +610,18 @@
     "published": "2026-11-10T20:30:01+00:00",
     "fetched": "2026-11-10T23:01:21+00:00",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg"
+  },
+  {
+    "id": "dd0db016b7b3725d",
+    "title": "US Army soldier suspected of spying for Russia arrested in UK",
+    "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+    "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "category": "world",
+    "lang": "en",
+    "published": "2026-11-10T20:20:04+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
   },
   {
     "id": "bb352928c863c24e",
@@ -336,6 +672,18 @@
     "image": "https://i.lb.ua/news/030/25/6af376858c4e4.jpg"
   },
   {
+    "id": "9fbcbefb9fa2b201",
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 353 # Comments: 261",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T19:50:46+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/20261110110448/ScionByToyota_Family_TS3.jpg"
+  },
+  {
     "id": "2395d9bcbcdd96a5",
     "title": "Європейська аудиторська палата рекомендувала Єврокомісії посилити боротьбу з обходом санкцій проти РФ",
     "summary": "Низка країн недостатньо контролює дотримання санкційного режиму.",
@@ -358,6 +706,18 @@
     "published": "2026-11-10T19:43:00+00:00",
     "fetched": "2026-11-10T23:01:21+00:00",
     "image": "https://img.eurointegration.com.ua/images/doc/d/4/d41e93c-00.jpg"
+  },
+  {
+    "id": "e188d6fc74ca240a",
+    "title": "Research taste in history: the importance of learning Babylonian math",
+    "summary": "Article URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance Comments URL: https://news.ycombinator.com/item?id=50445279 Points: 15 # Comments: 0",
+    "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T19:42:44+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": null
   },
   {
     "id": "2b5942bf82586c92",
@@ -432,6 +792,18 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png"
   },
   {
+    "id": "b2a06dfbc2e9024e",
+    "title": "What objective is reasoning solving?",
+    "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 112 # Comments: 51",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T19:25:14+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://alexwang.ai/images/share-card_hu_829bd88f1595308b.jpg"
+  },
+  {
     "id": "92b64cc410d06e99",
     "title": "Starlink Mini 2 adds a swappable battery",
     "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the…",
@@ -466,6 +838,18 @@
     "published": "2026-11-10T19:04:05+00:00",
     "fetched": "2026-11-10T23:01:21+00:00",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "bb743bd9d467443e",
+    "title": "A comprehensive study of how fingerprintable users are",
+    "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 78 # Comments: 37",
+    "url": "https://fingerprinting.study/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T19:03:54+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": null
   },
   {
     "id": "b40010d3be3b788a",
@@ -612,6 +996,18 @@
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/b/954456/0b6a6a0890c20a926bdc6c23e24bb858.jpeg"
   },
   {
+    "id": "4a8e294d0bb86baf",
+    "title": "Starlink Mini 2",
+    "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 278 # Comments: 282",
+    "url": "https://starlink.com/mini-2",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T18:22:32+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://starlink.com/assets-new/images/landing/field/v4_night_sky.webp"
+  },
+  {
     "id": "8d4560cd435b4539",
     "title": "Росіяни двічі атакували FPV-дронами комунальників у Краматорську: двоє загиблих і поранений",
     "summary": "У Краматорську Донецької області російські військові атакували FPV-дронами працівників місцевого комунального підприємства – загинули двоє робітників, ще один перебуває у лікарні у важкому стані.",
@@ -646,6 +1042,30 @@
     "published": "2026-11-10T18:04:18+00:00",
     "fetched": "2026-11-10T23:01:21+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d932/live/81424720-dd2c-11f1-ab46-9fae224bbf6f.jpg"
+  },
+  {
+    "id": "4425ceb1a10f711a",
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 317 # Comments: 172",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T18:02:02+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": null
+  },
+  {
+    "id": "5175b6a2b765750a",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types..…",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "source": "Hacker News",
+    "category": "tech",
+    "lang": "en",
+    "published": "2026-11-10T18:01:15+00:00",
+    "fetched": "2026-11-11T02:56:08+00:00",
+    "image": "https://opengraph.githubassets.com/7805bbb4024e768e44e991a0e1302d6313ba1b8ace81f4e21c3b71fc883e9e52/GoogleChrome/modern-web-guidance"
   },
   {
     "id": "7396b577c72532a7",
@@ -32842,197 +33262,5 @@
     "published": "2026-10-28T03:30:00+00:00",
     "fetched": "2026-10-28T06:06:52+00:00",
     "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/944944/f907bb49e5a71673870b332677731fcc.jpeg"
-  },
-  {
-    "id": "cb43fb9e4282a1e2",
-    "title": "США попередили країни Перської затоки про можливе відновлення війни з Іраном – WSJ",
-    "summary": "Вашингтон попередив кілька арабських країн Перської затоки про необхідність підготуватися до короткої та інтенсивної військової кампанії проти Ірану після проміжних виборів до Конгресу США.",
-    "url": "https://www.pravda.com.ua/news/2026/10/28/8060014/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T02:53:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/d/944988/4d7301b76c5757bdeb070a816c14a20c.jpeg"
-  },
-  {
-    "id": "7f298a2c3e1da723",
-    "title": "Футболіст Кіліан Мбаппе потрапив у скандал через заяву про китайського диктатора",
-    "summary": "Зірці довелося вибачатися, а наслідки відчула навіть іспанська ліга.",
-    "url": "https://lb.ua/sport/2026/10/28/776622_futbolist_kilian_mbappe_potrapiv.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T02:37:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://i.lb.ua/news/110/42/6ae1565f3abc5.jpg"
-  },
-  {
-    "id": "4d889ed63f942143",
-    "title": "Путін півтори години читав \"лекцію з історії\" під час розмови з лідерами Норвегії та Фінляндії",
-    "summary": "Розмова Путіна зі Стуббом і Стьоре тривала 90 хвилин і майже не стосувалася припинення війни — обговорювали передумови конфлікту.",
-    "url": "https://www.pravda.com.ua/news/2026/10/28/8060012/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T02:30:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/4/944987/9402fe3e47196db4b78645fa6b88b94d.jpeg"
-  },
-  {
-    "id": "8ab058524349bbe7",
-    "title": "Генсек ООН призначив російського дипломата помічником з питань розмінування і поліції",
-    "summary": "Генеральний секретар ООН Антоніу Гутерреш оголосив, що призначив російського посла Гліба Десятникова помічником генерального секретаря з питань протимінної діяльності та поліції в Департаменті миротворчих операцій.",
-    "url": "https://www.pravda.com.ua/news/2026/10/28/8060013/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T01:57:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/8/944986/98e7a83565af3e28eb685c5718cdd9dc.jpeg"
-  },
-  {
-    "id": "ec58d21b88c564f1",
-    "title": "Git for the US Code",
-    "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 157 # Comments: 74",
-    "url": "https://lexifina.com/blog/git-for-the-us-code",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-28T01:47:50+00:00",
-    "fetched": "2026-10-28T06:06:53+00:00",
-    "image": "https://lexifina.com/social-preview-v3.png?v=20261018"
-  },
-  {
-    "id": "7c0cb97a0f90c586",
-    "title": "Гора Триглав у Словенії повністю втратила льодовий покрив",
-    "summary": "Яскрава демонстрація кліматичних змін на національному символі країни.",
-    "url": "https://lb.ua/world/2026/10/28/776620_gora_triglav_sloveniyi_povnistyu.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T01:25:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://i.lb.ua/news/090/33/6ae14d5d2416b.jpg"
-  },
-  {
-    "id": "205bb7e760b536f1",
-    "title": "Вартість війни з Іраном для США зросла до 47 мільярдів доларів",
-    "summary": "Найбільше витратили на поповнення запасів засобів ураження.",
-    "url": "https://lb.ua/world/2026/10/28/776618_vartist_viyni_z_iranom_ssha.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T00:33:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://i.lb.ua/news/017/30/6ae1442627bff.jpg"
-  },
-  {
-    "id": "d04603eea2620665",
-    "title": "У російському Липецьку після атаки горить металургійний завод – моніторингові канали",
-    "summary": "У Липецьку після атаки реактивних ракет зафіксували пожежу біля Новолипецького металургійного комбінату. Причини уточнюють, подробиці — у матеріалі.",
-    "url": "https://www.pravda.com.ua/news/2026/10/28/8060010/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T00:15:00+00:00",
-    "fetched": "2026-10-28T06:06:52+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/a/944985/2ad804bdf586340f852a3150440e4658.jpeg"
-  },
-  {
-    "id": "a9093683d36cc969",
-    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-    "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed that he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the…",
-    "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-10-28T00:07:22+00:00",
-    "fetched": "2026-10-28T00:20:13+00:00",
-    "image": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=932377a0c8213f493b202c2bf510f820"
-  },
-  {
-    "id": "43391a8ea5287cef",
-    "title": "Мелоні заморозила новий пакет військової допомоги Україні до виборів у США – ЗМІ",
-    "summary": "Прем'єр-міністерка Італії Джорджа Мелоні заморозила відправку тринадцятого пакета військової допомоги Україні в очікуванні результатів проміжних виборів до Конгресу США.",
-    "url": "https://www.pravda.com.ua/news/2026/10/28/8060011/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-28T00:04:00+00:00",
-    "fetched": "2026-10-28T00:20:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/944984/206850fb88a1bf367af746f22642ced0.jpeg"
-  },
-  {
-    "id": "d4cfba1148abbdea",
-    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-    "summary": "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 46 # Comments: 8",
-    "url": "https://github.com/maharmstone/moxnox",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-27T23:53:41+00:00",
-    "fetched": "2026-10-28T06:06:53+00:00",
-    "image": "https://opengraph.githubassets.com/87136e534b972e394dc8fb5347241e7c0343b1a183f15c1779db09a5b90a71e5/maharmstone/moxnox"
-  },
-  {
-    "id": "fba8617166dd4d0c",
-    "title": "ЗМІ: Італія затримує пакет допомоги Україні, бо уряд хоче дочекатись результатів виборів у США",
-    "summary": "Голоси американців можуть суттєво змінити політичну ситуацію у світі.",
-    "url": "https://lb.ua/society/2026/10/28/776616_zmi_italiya_zatrimuie_paket.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-27T23:47:00+00:00",
-    "fetched": "2026-10-28T00:20:14+00:00",
-    "image": "https://i.lb.ua/news/092/05/6ae1390834280.jpg"
-  },
-  {
-    "id": "a4f835b350959ba8",
-    "title": "Free daily JSON feed of Shanghai government subsidy notices",
-    "summary": "Article URL: https://github.com/ZhongGheart/china-policy-data Comments URL: https://news.ycombinator.com/item?id=50267494 Points: 4 # Comments: 0",
-    "url": "https://github.com/ZhongGheart/china-policy-data",
-    "source": "Hacker News",
-    "category": "tech",
-    "lang": "en",
-    "published": "2026-10-27T23:46:21+00:00",
-    "fetched": "2026-10-28T00:20:17+00:00",
-    "image": "https://opengraph.githubassets.com/8da4a23a4d4d3a02573b14856d948dbb958eb27190afb2ea3a913b85d2ec6924/ZhongGheart/china-policy-data"
-  },
-  {
-    "id": "f7d412e07af0c912",
-    "title": "У Харкові росіяни атакували житлові будинки: четверо постраждалих, серед них дитина",
-    "summary": "Унаслідок удару безпілотника по житловому будинку в Харкові травмовано чотирьох людей, серед них чотирирічний хлопчик. Зруйновано кілька будівель.",
-    "url": "https://www.pravda.com.ua/news/2026/10/28/8060007/",
-    "source": "Українська правда",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-27T23:35:00+00:00",
-    "fetched": "2026-10-28T00:20:13+00:00",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/d/944976/5def0c5189d8cb44d36ba576c964114a.jpeg"
-  },
-  {
-    "id": "3f60d4021c3ac6a1",
-    "title": "Трамп заявив, що варто зробити Венесуелу 51-им штатом і обрати губернатора замість президента",
-    "summary": "Вже третій \"кандидат\" на приєднання після Канади та Гренландії.",
-    "url": "https://lb.ua/world/2026/10/28/776614_tramp_zayaviv_scho_varto_zrobiti.html",
-    "source": "LB.ua",
-    "category": "ukraine",
-    "lang": "uk",
-    "published": "2026-10-27T23:13:00+00:00",
-    "fetched": "2026-10-28T00:20:14+00:00",
-    "image": "https://i.lb.ua/news/068/24/6ae13002bb998.jpg"
-  },
-  {
-    "id": "da9aa80012cd62ea",
-    "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-    "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million…",
-    "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-    "source": "The Guardian World",
-    "category": "world",
-    "lang": "en",
-    "published": "2026-10-27T23:07:06+00:00",
-    "fetched": "2026-10-28T00:20:13+00:00",
-    "image": "https://i.guim.co.uk/img/media/01afd8750a3187f6d5f755bec793006b33b2292c/621_0_6180_4947/master/6180.jpg?width=140&quality=85&auto=format&fit=max&s=2091d83ef068b1e27e94acd31618ff2a"
   }
 ]
